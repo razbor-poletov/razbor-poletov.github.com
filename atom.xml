@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2012-06-01T12:33:38-04:00</updated>
+  <updated>2012-06-09T17:49:34-04:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev]]></name>
@@ -14,11 +14,68 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Episode 20 — Программисты-оптимисты]]></title>
+    <link href="http://razbor-poletov.com/2012/06/episode-20.html"/>
+    <updated>2012-06-09T16:50:00-04:00</updated>
+    <id>http://razbor-poletov.com/2012/06/episode-20</id>
+    <content type="html"><![CDATA[<p><a href="https://lh6.googleusercontent.com/-E9NizWkWsBk/T7PpJBkhIEI/AAAAAAAAIN8/NbFPu__zcpg/s542/12+-+1" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 2em; padding-right: 2em"><img border="0" height="320" src="https://lh6.googleusercontent.com/-E9NizWkWsBk/T7PpJBkhIEI/AAAAAAAAIN8/NbFPu__zcpg/s320/12+-+1" width="320" /></a></p>
+
+<p>Представляем Вашему вниманию юбилейный двадцатый выпуск подкаста «Разбор Полетов», в котором мы говорим о событиях и технологиях, которые взволновали нас на этой неделе, и будут волновать Вас!
+В сегодняшнем выпуске мы поговорим:</p>
+
+<ol>
+<li><p><a href="http://habrahabr.ru/post/144110/">Начало конца</a></p></li>
+<li><p><a href="http://tataryn.net/2011/11/java8-lambda-expressions-perhaps-not-as-sexy-as-intended/">I&#8217;m too sexy for my shirt</a></p></li>
+<li><p>Полезняшки</p>
+
+<ul>
+<li><a href="https://github.com/foursquare/fongo">https://github.com/foursquare/fongo</a></li>
+<li>Dependency Injection Styles <a href="http://cbeams.github.com/distyles/">[slides]</a> <a href="https://github.com/cbeams/distyles">[code]</a></li>
+<li><a href="http://www.manning.com/walls4/">Spring in Action</a></li>
+</ul>
+</li>
+<li><p><a href="http://swizec.com/blog/programmers-are-optimists/swizec/4509">Программисты-оптимисты</a></p></li>
+<li><p><a href="http://net.tutsplus.com/tutorials/tools-and-tips/3-key-software-principles-you-must-understand/">Эти принципы я впитал с молотком матери</a></p></li>
+</ol>
+
+
+<p>Наши контакты:</p>
+
+<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
+
+<p>twitter:</p>
+
+<ul>
+<li><a href="https://twitter.com/#!/a_abashev">@a_abashev</a></li>
+<li><a href="https://twitter.com/#!/gamussa">@gamussa</a></li>
+</ul>
+
+
+<p>G+:</p>
+
+<ul>
+<li><a href="http://gplus.to/gAmUssA">gplus.to/gAmUssA</a></li>
+<li><a href="http://gplus.to/aabashev">gplus.to/aabashev</a></li>
+<li><a href="http://gplus.to/dmitryc">gplus.to/dmitryc</a></li>
+</ul>
+
+
+<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
+
+<p>Выпуск уже на <a href="http://habrahabr.ru/post/145587/">Хабре</a></p>
+
+<p><a href="http://rpod.ru/get/277294/241691/download/1-20_Episode_20_Season_1.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
+
+<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Episode 19 — Разговоры на кухне про кухню]]></title>
     <link href="http://razbor-poletov.com/2012/05/episode-19.html"/>
     <updated>2012-05-31T18:13:00-04:00</updated>
     <id>http://razbor-poletov.com/2012/05/episode-19</id>
-    <content type="html"><![CDATA[<p>С превеликим удовольствием и радостью представляем Вашему вниманию очередной, девятнадцатый выпуск подкаста «Разбор Полетов», в котором мы говорим о о событиях и технологиях, которые взволновали нас на этой неделе, и будут волновать Вас!
+    <content type="html"><![CDATA[<p>С превеликим удовольствием и радостью представляем Вашему вниманию очередной девятнадцатый выпуск подкаста «Разбор Полетов», в котором мы говорим о событиях и технологиях, которые взволновали нас на этой неделе, и будут волновать Вас!
 В сегодняшнем выпуске мы поговорим:</p>
 
 <ul>
@@ -41,7 +98,7 @@
 <p>G+:</p>
 
 <ul>
-<li><a href="gplus.to/gAmUssA">gplus.to/gAmUssA</a></li>
+<li><a href="http://gplus.to/gAmUssA">gplus.to/gAmUssA</a></li>
 <li><a href="http://gplus.to/aabashev">http://gplus.to/aabashev</a></li>
 <li><a href="http://gplus.to/dmitryc">gplus.to/dmitryc</a></li>
 </ul>
@@ -275,16 +332,6 @@
     <id>http://razbor-poletov.com/2011/12/episode-2-scala</id>
     <content type="html"><![CDATA[<div class='post'>
 Я&nbsp;и&nbsp;коллега <a href="http://twitter.com/a_abashev">@a_abashev</a> представляем вашему вниманию второй выпуск уже ставшего популярным в&nbsp;узких кругах, разговорного IT-тематического подкаста &laquo;Разбор Полетов&raquo;. В&nbsp;этом выпуске: <ul><li>Полезняшка&nbsp;&mdash; Stanford Javascript Crypto Library <a title="" href="http://bitwiseshiftleft.github.com/sjcl/">1</a> </li><li><nobr>2012-год</nobr> Hadoop? А&nbsp;почему&nbsp;бы и&nbsp;нет <a title="" href="http://www.wired.com/wiredenterprise/2011/11/microsoft-hadoop-dryad/">1</a> <a title="" href="http://gigaom.com/cloud/six-reasons-why-2012-could-be-the-year-of-hadoop/">2</a> </li><li>Куда катится этот мир <a title="" href="http://www.digitaltrends.com/gaming/worlds-first-pee-controlled-video-game-opens-in-london-bar/">1</a></li><li>Scala уже не&nbsp;торт. Что-то быстро <a title="" href="http://blog.joda.org/2011/11/scala-feels-like-ejb-2-and-other.html">1</a></li><li>Интересный игрок <a title="" href="http://habrahabr.ru/blogs/java/132890/">1</a> <a title="" href="https://openshift.redhat.com/app/">2</a> </li><li>Форкай правильно! <a title="" href="http://zbowling.github.com/blog/2011/11/25/github/">1</a></li></ul>Наши контакты: twitter: <a href="http://twitter.com/a_abashev">@a_abashev</a> <a href="http://twitter.com/gamussa">@gamussa</a>G+: <a href="http://gplus.to/gAmUssA">gplus.to/gAmUssA</a>Подписаться по&nbsp;<a href="http://razbor-poletov.rpod.ru/rss_7v4_48ca.xml">RSS</a><br/><object width="700" height="110" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"><param name="movie" value="http://s.rpod.ru/swf/playa.swf?xmlURL=http%3A%2F%2Fs.rpod.ru%2Fxml%2Faudio_waveform%2Fa218639.xml"></param><param name="allowfullscreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://s.rpod.ru/swf/playa.swf?xmlURL=http%3A%2F%2Fs.rpod.ru%2Fxml%2Faudio_waveform%2Fa218639.xml" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="700" height="110"></embed></object></div>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 1 – officially on-air]]></title>
-    <link href="http://razbor-poletov.com/2011/11/episode-1-officially-on-air.html"/>
-    <updated>2011-11-23T00:00:00-05:00</updated>
-    <id>http://razbor-poletov.com/2011/11/episode-1-officially-on-air</id>
-    <content type="html"><![CDATA[<div class='post'>
-Я&nbsp;и&nbsp;коллега <a href="http://twitter.com/a_abashev">@a_abashev</a> представляем вашему вниманию официальный первый выпуск &laquo;еще одного&raquo; разговорного IT-тематического подкаста &laquo;Разбор Полетов&raquo;. Подкаст был тепло встречен Вами&nbsp;&mdash; нашими слушателями (что радует), поэтому мы&nbsp;продолжаем&#8230; В&nbsp;этом выпуске: <ul>    <li>Мобильный флеш все&#8230; <a href="http://blogs.adobe.com/conversations/2011/11/flash-focus.html">1</a> <a href="http://yakovfain.com/2011/11/09/the-rumors-of-flash-players-death-are-greatly-exaggerated/">2</a></li>    <li>Свободу попугаям&nbsp;&mdash; Adobe Announce plans to&nbsp;donate Flex framework to&nbsp;ASF <a href="http://blogs.adobe.com/flex/2011/11/your-questions-about-flex.html">1</a> <a href="http://www.riagora.com/2011/11/flex-is-open/">2</a></li>    <li>Учиться, учиться, учиться&nbsp;&mdash; Поддержка версионности и&nbsp;миграция схемы&nbsp;ЬД с&nbsp;Flyway <a href="http://agile.dzone.com/articles/flyway-15-released-agile-db">1</a></li>    <li>Превратим программирование в&nbsp;игру&nbsp;&mdash; Play&nbsp;2.0, A&nbsp;web framework for a&nbsp;new era <a href="http://raibledesigns.com/rd/entry/play_2_0_a_web">1</a></li>    <li>Кэшируем стандартно&nbsp;&mdash; И&nbsp;снова откопали стюардесу <a href="http://www.javacodegeeks.com/2011/10/new-java-caching-standard-javaxcache.html">1</a></li>    <li>Кросс-компиляциюв массы <a href="http://www.2ality.com/2011/11/gwt-and-dart.html">1</a> <a href="http://blogs.adobe.com/bparadie/2011/11/19/what-is-falconjs/">2</a></li></ul>Наши контакты: twitter: <a href="http://twitter.com/a_abashev">@a_abashev</a> <a href="http://twitter.com/gamussa">@gamussa</a>G+: <a href="http://gplus.to/gAmUssA">gplus.to/gAmUssA</a><br/><object width="700" height="40" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"><param name="movie" value="http://s.rpod.ru/swf/playa.swf?xmlURL=http%3A%2F%2Fs.rpod.ru%2Fxml%2Faudio%2Fa217672.xml"></param><param name="allowfullscreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://s.rpod.ru/swf/playa.swf?xmlURL=http%3A%2F%2Fs.rpod.ru%2Fxml%2Faudio%2Fa217672.xml" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="700" height="40"></embed></object></div>
 ]]></content>
   </entry>
   
