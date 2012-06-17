@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2012-06-09T17:52:34-04:00</updated>
+  <updated>2012-06-17T00:19:32-04:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev]]></name>
@@ -12,6 +12,83 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 21 — Едим свой собачий корм и меняем шило на два шила]]></title>
+    <link href="http://razbor-poletov.com/2012/06/episode-21.html"/>
+    <updated>2012-06-10T12:30:00-04:00</updated>
+    <id>http://razbor-poletov.com/2012/06/episode-21</id>
+    <content type="html"><![CDATA[<p><a href="http://3.bp.blogspot.com/-hh4V2jbWfOM/T91Thn8t7uI/AAAAAAAAIcQ/emGHMq_4hMI/s1600/spring%253Fok%2521.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 2em; padding-right: 2em"><img border="0" height="295" src="http://3.bp.blogspot.com/-hh4V2jbWfOM/T91Thn8t7uI/AAAAAAAAIcQ/emGHMq_4hMI/s400/spring%253Fok%2521.jpg" width="400" /></a></p>
+
+<p>Встречайте 21 выпуск подкаста «Разбор Полетов». В предыдущем выпуске мы зажали 40 минут подкаста, поэтому восполняем это упущение. В этом выпуске:</p>
+
+<ul>
+<li>По следам наших рекомендаций - монолог</li>
+<li><a href="https://plus.google.com/117481599451076280717/posts/95Pg2TToXsQ">Как я в Твиттер сходил</a>
+
+<ul>
+<li>показывали что-то вроде <a href="http://www.infoq.com/presentations/Timelines-Twitter">этого</a></li>
+</ul>
+</li>
+<li><a href="http://paulasmuth.com/blog/a_bug_i_wont_forget/">«Не забывается такое никогда»</a></li>
+<li><p>А давайте вновь проедемся по Play</p>
+
+<ul>
+<li><a href="http://raibledesigns.com/rd/entry/upgrading_to_play_2_anorm">Как я обновлялся на Play2</a></li>
+<li><a href="http://whilefalse.blogspot.com/2012/03/why-im-moving-away-from-play-framework.html?m=1">Почему я свалил с Play</a></li>
+</ul>
+</li>
+<li><p>Полезняшки:</p>
+
+<ul>
+<li><a href="http://metrics.codahale.com/">Metrics</a></li>
+<li><a href="http://engineering.twitter.com/2012/06/distributed-systems-tracing-with-zipkin.html">Distributed Systems Tracing with Zipkin</a></li>
+</ul>
+</li>
+<li><p><a href="http://research.google.com/pubs/pub38125.html">F1 - The Fault-Tolerant Distributed RDBMS Supporting Googles Ad Business</a></p></li>
+<li><a href="http://www.enhance-ict.com/2012/06/06/no-benefit-in-migrating-from-spring-to-java-ee/">No benefit in migrating from Spring to Java EE</a></li>
+</ul>
+
+
+<p>Наши контакты:</p>
+
+<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
+
+<p>twitter:</p>
+
+<ul>
+<li><a href="https://twitter.com/#!/a_abashev">@a_abashev</a></li>
+<li><a href="https://twitter.com/#!/gamussa">@gamussa</a></li>
+</ul>
+
+
+<p>G+:</p>
+
+<ul>
+<li><a href="http://gplus.to/gAmUssA">gplus.to/gAmUssA</a></li>
+<li><a href="http://gplus.to/aabashev">gplus.to/aabashev</a></li>
+<li><a href="http://gplus.to/dmitryc">gplus.to/dmitryc</a></li>
+</ul>
+
+
+<!-- player goes here-->
+
+
+<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
+
+<!-- habralink goes here-->
+
+
+<p>Выпуск уже на <a href="http://habrahabr.ru/post/145957/">Хабре</a></p>
+
+<!-- episode file link goes here-->
+
+
+<p><a href="http://rpod.ru/get/277821/242248/download/1-21_Episode_21_Season_1.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
+
+<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 20 — Программисты-оптимисты]]></title>
@@ -325,16 +402,6 @@
     <id>http://razbor-poletov.com/2011/12/episode-3</id>
     <content type="html"><![CDATA[<div class='post'>
 Я&nbsp;и&nbsp;коллега <hh user="aib"/> представляем вашему вниманию третий выпуск уже ставшего популярным в&nbsp;узких кругах, разговорного IT-тематического подкаста &laquo;Разбор Полетов&raquo;. В&nbsp;этом выпуске: <ul><li class="li1"><span class="s1">Новость для разминки&nbsp;&mdash; <a href="http://www.infoq.com/news/2011/12/HP-Open-Source-webOS">http://www.infoq.com/news/2011/12/HP-Open-Source-webOS</a></span></li><li class="li2"><span class="s3"><span class="s1">Сделай свой гитхаб на&nbsp;Java с&nbsp;преферансом и&nbsp;поэтессами <a href="http://gitblit.com/">http://gitblit.com/</a></span></span> </li><li class="li2"><span class="s3"><span class="s1">Мы&nbsp;строили строили и&nbsp;наконец получили&#8230; <a href="http://community.jboss.org/wiki/JBossClassLoaderHistory">http://community.jboss.org/wiki/JBossClassLoaderHistory</a></span></span></li><li class="li1"><span class="s1">Вышел ежик из&nbsp;тумана&nbsp;&mdash; Описание модульности в&nbsp;Java&nbsp;8. <a href="http://mail.openjdk.java.net/pipermail/jigsaw-dev/2011-December/001800.html">http://mail.openjdk.java.net/pipermail/jigsaw-dev/2011-December/001800.html</a></span></li><li class="li2"><span class="s3"><span class="s1">Мы&nbsp;с&nbsp;Тамарой пишем парой&nbsp;&mdash; Распределенное парное программирование <a href="http://www.saros-project.org/">http://www.saros-project.org/</a></span></span> </li><li class="li1"><span class="s1">Еще одна неделя, еще одно сравнение git с&nbsp;mercurial <a href="http://blog.cubrid.org/dev-platform/git-vs-mercurial/">http://blog.cubrid.org/dev-platform/git-vs-mercurial/</a></span><span class="s2"> </span></li><li class="li1"><span class="s1">Бог учил делиться. Почему вам нужен open-source <a href="http://tom.preston-werner.com/2011/11/22/open-source-everything.html">http://tom.preston-werner.com/2011/11/22/open-source-everything.html</a></span><span class="s2"> </span></li></ul>Наши контакты: twitter: <a href="http://twitter.com/a_abashev">@a_abashev</a> <a href="http://twitter.com/gamussa">@gamussa</a>G+: <a href="http://gplus.to/gAmUssA">gplus.to/gAmUssA</a> <a href="http://gplus.to/aabashev">http://gplus.to/aabashev</a>Подписаться по&nbsp;<a href="http://razbor-poletov.rpod.ru/rss_7v4_48ca.xml">RSS</a><br/><object width="700" height="110" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"><param name="movie" value="http://s.rpod.ru/swf/playa.swf?xmlURL=http%3A%2F%2Fs.rpod.ru%2Fxml%2Faudio_waveform%2Fa219706.xml"></param><param name="allowfullscreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://s.rpod.ru/swf/playa.swf?xmlURL=http%3A%2F%2Fs.rpod.ru%2Fxml%2Faudio_waveform%2Fa219706.xml" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="700" height="110"></embed></object></div>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 2 — НаScala-ная живопись]]></title>
-    <link href="http://razbor-poletov.com/2011/12/episode-2-scala.html"/>
-    <updated>2011-12-06T00:00:00-05:00</updated>
-    <id>http://razbor-poletov.com/2011/12/episode-2-scala</id>
-    <content type="html"><![CDATA[<div class='post'>
-Я&nbsp;и&nbsp;коллега <a href="http://twitter.com/a_abashev">@a_abashev</a> представляем вашему вниманию второй выпуск уже ставшего популярным в&nbsp;узких кругах, разговорного IT-тематического подкаста &laquo;Разбор Полетов&raquo;. В&nbsp;этом выпуске: <ul><li>Полезняшка&nbsp;&mdash; Stanford Javascript Crypto Library <a title="" href="http://bitwiseshiftleft.github.com/sjcl/">1</a> </li><li><nobr>2012-год</nobr> Hadoop? А&nbsp;почему&nbsp;бы и&nbsp;нет <a title="" href="http://www.wired.com/wiredenterprise/2011/11/microsoft-hadoop-dryad/">1</a> <a title="" href="http://gigaom.com/cloud/six-reasons-why-2012-could-be-the-year-of-hadoop/">2</a> </li><li>Куда катится этот мир <a title="" href="http://www.digitaltrends.com/gaming/worlds-first-pee-controlled-video-game-opens-in-london-bar/">1</a></li><li>Scala уже не&nbsp;торт. Что-то быстро <a title="" href="http://blog.joda.org/2011/11/scala-feels-like-ejb-2-and-other.html">1</a></li><li>Интересный игрок <a title="" href="http://habrahabr.ru/blogs/java/132890/">1</a> <a title="" href="https://openshift.redhat.com/app/">2</a> </li><li>Форкай правильно! <a title="" href="http://zbowling.github.com/blog/2011/11/25/github/">1</a></li></ul>Наши контакты: twitter: <a href="http://twitter.com/a_abashev">@a_abashev</a> <a href="http://twitter.com/gamussa">@gamussa</a>G+: <a href="http://gplus.to/gAmUssA">gplus.to/gAmUssA</a>Подписаться по&nbsp;<a href="http://razbor-poletov.rpod.ru/rss_7v4_48ca.xml">RSS</a><br/><object width="700" height="110" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"><param name="movie" value="http://s.rpod.ru/swf/playa.swf?xmlURL=http%3A%2F%2Fs.rpod.ru%2Fxml%2Faudio_waveform%2Fa218639.xml"></param><param name="allowfullscreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://s.rpod.ru/swf/playa.swf?xmlURL=http%3A%2F%2Fs.rpod.ru%2Fxml%2Faudio_waveform%2Fa218639.xml" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="700" height="110"></embed></object></div>
 ]]></content>
   </entry>
   
