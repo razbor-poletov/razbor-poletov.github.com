@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2012-06-17T00:27:49-04:00</updated>
+  <updated>2012-07-04T17:25:03-04:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev]]></name>
@@ -12,6 +12,87 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 22 — Независимо от зависимостей]]></title>
+    <link href="http://razbor-poletov.com/2012/07/episode-22.html"/>
+    <updated>2012-07-02T22:03:00-04:00</updated>
+    <id>http://razbor-poletov.com/2012/07/episode-22</id>
+    <content type="html"><![CDATA[<p><a href="images/razbor_22_1.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 2em; padding-right: 2em"><img border="0" width="370" src="images/razbor_22_1.png"/></a></p>
+
+<!-- topics goes here-->
+
+
+<ol>
+<li>Особый гость
+
+<ul>
+<li><a href="https://plus.google.com/104301617063075159178/posts">G+</a></li>
+<li><a href="https://twitter.com/#!/jbaruch">Twitter</a></li>
+<li><a href="http://www.jfrog.com/features.php">Artifactory</a></li>
+<li><a href="https://github.com/jbaruch/maven2gradle">Maven2Gradle</a></li>
+</ul>
+</li>
+<li><p>Главное одной строкой</p>
+
+<ul>
+<li><a href="http://forums.gradle.org/gradle/topics/gradle_1_0_released">Gradle 1.0 Release</a></li>
+<li>IDEA 12 EAP <a href="http://blogs.jetbrains.com/idea/2012/06/brand-new-compiler-mode-in-intellij-idea-12-leda/">[1]</a> <a href="http://blogs.jetbrains.com/idea/2012/06/android-ui-designer-coming-in-intellij-idea-12/">[2]</a></li>
+<li><a href="http://www.infoq.com/articles/new-groovy-20">Groovy 2.0</a></li>
+</ul>
+</li>
+<li><p><a href="https://cloud.oracle.com/mycloud/f?p=service:architecture:0">Алексей рассказывает про оракловский клауд</a></p></li>
+<li><p><a href="http://programmers.stackexchange.com/questions/102090/why-isnt-java-used-for-modern-web-application-development">Как это сидеть на обочине прогресса</a></p></li>
+<li><a href="http://tbroyer.posterous.com/how-does-gwts-super-dev-mode-work">Что это там вдали? Это птица? Это самолет?</a></li>
+<li>Полезняшки
+
+<ul>
+<li><a href="http://jaxenter.com/java-class-reloader-javeleon-hits-2-0-release-43149.html">Не jrebel единым</a></li>
+<li><a href="https://bitbucket.org/dfa/dollar/wiki/Home">Dollar</a></li>
+</ul>
+</li>
+</ol>
+
+
+<p>Наши контакты:</p>
+
+<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
+
+<p>twitter:</p>
+
+<ul>
+<li><a href="https://twitter.com/#!/a_abashev">@a_abashev</a></li>
+<li><a href="https://twitter.com/#!/gamussa">@gamussa</a></li>
+</ul>
+
+
+<p>G+:</p>
+
+<ul>
+<li><a href="http://gplus.to/gAmUssA">gplus.to/gAmUssA</a></li>
+<li><a href="http://gplus.to/aabashev">gplus.to/aabashev</a></li>
+<li><a href="http://gplus.to/dmitryc">gplus.to/dmitryc</a></li>
+</ul>
+
+
+<object width="500" height="300" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"><param name="movie" value="http://s.rpod.ru/swf/playa.swf?xmlURL=http%3A%2F%2Fs.rpod.ru%2Fxml%2Faudio_big%2Fa243719.xml"></param><param name="allowfullscreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://s.rpod.ru/swf/playa.swf?xmlURL=http%3A%2F%2Fs.rpod.ru%2Fxml%2Faudio_big%2Fa243719.xml" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="300"></embed></object>
+
+
+<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
+
+<!-- habralink goes here-->
+
+
+<p>Выпуск уже на <a href="http://habrahabr.ru/post/147161/">Хабре</a></p>
+
+<!-- episode file link goes here-->
+
+
+<p><a href="http://rpod.ru/get/279177/243719/download/1-22_Episode_22_Season_1.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
+
+<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 21 — Едим свой собачий корм и меняем шило на два шила]]></title>
@@ -392,16 +473,6 @@
     <id>http://razbor-poletov.com/2011/12/episode-4-spring</id>
     <content type="html"><![CDATA[<div class='post'>
 Я&nbsp;и&nbsp;коллега <a href="http://twitter.com/a_abashev">@a_abashev</a> представляем вашему вниманию очередной четвертый выпуск популярного в&nbsp;узких кругах, разговорного IT-тематического подкаста &laquo;Разбор Полетов&raquo;. В&nbsp;этом выпуске: <ul><li><span><span>Спасибо, что живой&nbsp;&mdash; <a href="http://www.infoq.com/news/2011/12/spring31"><span>http://www.infoq.com/news/2011/12/spring31</span></a></span></span></li><li><span><span>Поиск святого грааля продолжается &#8230; <a href="http://blog.springsource.org/2011/12/15/grails-2-0-released/"><span>http://blog.springsource.org/2011/12/15/grails-2-0-released/</span></a> </span></span></li><li><span><span>Полезняшка&nbsp;&mdash; распылитель <a href="https://engineering.linkedin.com/frontend/leaving-jsps-dust-moving-linkedin-dustjs-client-side-templates"><span>https://engineering.linkedin.com/frontend/leaving-jsps-dust-moving-linkedin-dustjs-client-side-templates</span></a></span></span></li><li><span><span>Дед мороз в&nbsp;новый год дарит подарки тем кто вел себя хорошо &#8230; <a href="https://www.linux.com/news/featured-blogs/196:zonker/524082:the-10-most-important-open-source-projects-of-2011"><span>https://www.linux.com/news/featured-blogs/196:zonker/524082:the-10-most-important-open-source-projects-of-2011</span></a></span></span></li><li><span><span>&#8230; или плохо <a href="http://www.readwriteweb.com/archives/7_epic_tech_fails_of_2011.php"><span>http://www.readwriteweb.com/archives/7_epic_tech_fails_of_2011.php</span></a></span></span></li><li><span><span>Хм, интересно что&nbsp;же из&nbsp;этого получится&nbsp;&mdash; <a href="http://www.grobmeier.de/dart-on-chromium-and-dart-meets-scala-17122011.html"><span>http://www.grobmeier.de/dart-on-chromium-and-dart-meets-scala-17122011.html</span></a></span></span></li></ul>Наши контакты: twitter: <a href="http://twitter.com/a_abashev">@a_abashev</a> <a href="http://twitter.com/gamussa">@gamussa</a>G+: <a href="http://gplus.to/gAmUssA">gplus.to/gAmUssA</a> <a href="http://gplus.to/aabashev">http://gplus.to/aabashev</a>Подписаться по&nbsp;<a href="http://razbor-poletov.rpod.ru/rss_7v4_48ca.xml">RSS</a><b>p.s. </b>простуда добивала весь выпуск, но мы стойко это выдержали ;-) <br/><object width="700" height="110" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"><param name="movie" value="http://s.rpod.ru/swf/playa.swf?xmlURL=http%3A%2F%2Fs.rpod.ru%2Fxml%2Faudio_waveform%2Fa220553.xml"></param><param name="allowfullscreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://s.rpod.ru/swf/playa.swf?xmlURL=http%3A%2F%2Fs.rpod.ru%2Fxml%2Faudio_waveform%2Fa220553.xml" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="700" height="110"></embed></object></div>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 3 — Горький вкус загрузки классов]]></title>
-    <link href="http://razbor-poletov.com/2011/12/episode-3.html"/>
-    <updated>2011-12-16T00:00:00-05:00</updated>
-    <id>http://razbor-poletov.com/2011/12/episode-3</id>
-    <content type="html"><![CDATA[<div class='post'>
-Я&nbsp;и&nbsp;коллега <hh user="aib"/> представляем вашему вниманию третий выпуск уже ставшего популярным в&nbsp;узких кругах, разговорного IT-тематического подкаста &laquo;Разбор Полетов&raquo;. В&nbsp;этом выпуске: <ul><li class="li1"><span class="s1">Новость для разминки&nbsp;&mdash; <a href="http://www.infoq.com/news/2011/12/HP-Open-Source-webOS">http://www.infoq.com/news/2011/12/HP-Open-Source-webOS</a></span></li><li class="li2"><span class="s3"><span class="s1">Сделай свой гитхаб на&nbsp;Java с&nbsp;преферансом и&nbsp;поэтессами <a href="http://gitblit.com/">http://gitblit.com/</a></span></span> </li><li class="li2"><span class="s3"><span class="s1">Мы&nbsp;строили строили и&nbsp;наконец получили&#8230; <a href="http://community.jboss.org/wiki/JBossClassLoaderHistory">http://community.jboss.org/wiki/JBossClassLoaderHistory</a></span></span></li><li class="li1"><span class="s1">Вышел ежик из&nbsp;тумана&nbsp;&mdash; Описание модульности в&nbsp;Java&nbsp;8. <a href="http://mail.openjdk.java.net/pipermail/jigsaw-dev/2011-December/001800.html">http://mail.openjdk.java.net/pipermail/jigsaw-dev/2011-December/001800.html</a></span></li><li class="li2"><span class="s3"><span class="s1">Мы&nbsp;с&nbsp;Тамарой пишем парой&nbsp;&mdash; Распределенное парное программирование <a href="http://www.saros-project.org/">http://www.saros-project.org/</a></span></span> </li><li class="li1"><span class="s1">Еще одна неделя, еще одно сравнение git с&nbsp;mercurial <a href="http://blog.cubrid.org/dev-platform/git-vs-mercurial/">http://blog.cubrid.org/dev-platform/git-vs-mercurial/</a></span><span class="s2"> </span></li><li class="li1"><span class="s1">Бог учил делиться. Почему вам нужен open-source <a href="http://tom.preston-werner.com/2011/11/22/open-source-everything.html">http://tom.preston-werner.com/2011/11/22/open-source-everything.html</a></span><span class="s2"> </span></li></ul>Наши контакты: twitter: <a href="http://twitter.com/a_abashev">@a_abashev</a> <a href="http://twitter.com/gamussa">@gamussa</a>G+: <a href="http://gplus.to/gAmUssA">gplus.to/gAmUssA</a> <a href="http://gplus.to/aabashev">http://gplus.to/aabashev</a>Подписаться по&nbsp;<a href="http://razbor-poletov.rpod.ru/rss_7v4_48ca.xml">RSS</a><br/><object width="700" height="110" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"><param name="movie" value="http://s.rpod.ru/swf/playa.swf?xmlURL=http%3A%2F%2Fs.rpod.ru%2Fxml%2Faudio_waveform%2Fa219706.xml"></param><param name="allowfullscreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://s.rpod.ru/swf/playa.swf?xmlURL=http%3A%2F%2Fs.rpod.ru%2Fxml%2Faudio_waveform%2Fa219706.xml" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="700" height="110"></embed></object></div>
 ]]></content>
   </entry>
   
