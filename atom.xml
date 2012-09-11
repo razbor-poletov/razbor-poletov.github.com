@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2012-07-19T12:42:58-04:00</updated>
+  <updated>2012-09-11T12:21:56-04:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev]]></name>
@@ -12,6 +12,96 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 24 — А ты заполнил классный журнал?]]></title>
+    <link href="http://razbor-poletov.com/2012/09/episode-24.html"/>
+    <updated>2012-09-11T12:05:00-04:00</updated>
+    <id>http://razbor-poletov.com/2012/09/episode-24</id>
+    <content type="html"><![CDATA[<p><img src="http://s.rpod.ru/data/pictures/00/00/01/01/92/8776614a8a5437295c028a93b46ce5f8.png"></p>
+
+<!-- topics goes here-->
+
+
+<p>Новый сезон в старом и надеемся полюбившимся составе. В сегодняшнем выпуске мы обсудим</p>
+
+<p>Тема сочинения - Как провели лето:</p>
+
+<blockquote><ul>
+<li>чем занимались</li>
+<li>записал дорожный подкаст <a href="http://happypodcast.rpod.ru/s3">Пыльные дороги Америки</a></li>
+<li>выступил на JUG</li>
+<li>провели симпозиум</li>
+<li><a href="http://www.youtube.com/trainingAtFarata">youtube канал</a></li>
+<li><a href="https://github.com/Farata/EnterpriseWebBook">пишем книгу в стиле гитхаб</a></li>
+<li>встреча на <a href="http://oracle.com/javaone">JavaOne</a> в SF (c 30 сентября по 4 октября)</li>
+<li>Сильный Java/Spring программист? Понимаешь DI и знаешь все про <code>BeanFactory</code>. Удаленная работа на eCommerce проекте ждет тебя. Подробности на 1 час 23 минуте</li>
+<li>гость из <a href="https://plus.google.com/112280655076209917443/posts">предыдущего выпуска</a> выступит на <a href="http://www.meetup.com/NJFlex/events/81152502/">встрече Princeton JUG</a></li>
+</ul>
+</blockquote>
+
+<hr />
+
+<ul>
+<li>Классный журнал <a href="http://www.trottercashion.com/2012/08/12/how-to-write-good-log-messages.html">Хороший лог - читабельный и информативный лог</a></li>
+<li>Контейнер важен?
+
+<ul>
+<li><a href="http://blogs.forrester.com/mike_gualtieri/11-07-15-stop_wasting_money_on_weblogic_websphere_and_jboss_application_servers">Где деньги, Зин?</a></li>
+<li><a href="http://www.jamesward.com/2012/08/13/containerless-spring-mvc">А нужен ли контейнер</a></li>
+</ul>
+</li>
+<li>Полезняшка - <a href="http://johnlindquist.com/2012/08/14/ace_jump.html">AceJump</a></li>
+<li><a href="http://www.theserverside.com/feature/Disruptive-forces-in-Java-Is-Scala-the-new-Spring-framework">В нашем отечестве пророки не нужны</a></li>
+<li><a href="http://java.dzone.com/articles/named-parameters-java-another">Передай имя своего Бога</a></li>
+<li><a href="http://www.sonatype.com/people/2012/08/download-it-all-at-once-a-maven-idea/">Maven for not download internetz</a></li>
+</ul>
+
+
+<h4>Наши контакты:</h4>
+
+<h5>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></h5>
+
+<h5>twitter:</h5>
+
+<ul>
+<li><a href="https://twitter.com/#!/a_abashev">@a_abashev</a></li>
+<li><a href="https://twitter.com/#!/gamussa">@gamussa</a></li>
+</ul>
+
+
+<h4>G+:</h4>
+
+<ul>
+<li><a href="http://gplus.to/gAmUssA">gplus.to/gAmUssA</a></li>
+<li><a href="http://gplus.to/aabashev">gplus.to/aabashev</a></li>
+<li><a href="http://gplus.to/dmitryc">gplus.to/dmitryc</a></li>
+</ul>
+
+
+<!-- player goes here-->
+
+
+<p><audio controls="controls">
+  <source src="http://moscow-nthost3a.cdn.rpod.ru/00/00/01/01/92/283787-248870/2-01_Episode_1%2824%29_Season_2.mp3" type="audio/mp3" />
+  Your browser does not support the audio tag.
+</audio></p>
+
+<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
+
+<!-- habralink goes here-->
+
+
+<p>Выпуск уже на <a href="http://habrahabr.ru/post/151284/">Хабре</a></p>
+
+<!-- episode file link goes here-->
+
+
+<p><a href="http://rpod.ru/get/283787/248870/download/2-01_Episode_1%2824%29_Season_2.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" title="скачать mp3" alt="скачать mp3" /></a></p>
+
+<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 23 — И ты, Брут!]]></title>
@@ -516,16 +606,6 @@
     <id>http://razbor-poletov.com/2012/01/episode-6-pirates-of-silicon-valley</id>
     <content type="html"><![CDATA[<div class='post'>
 Представляю специальный праздничный выпуск популярного в&nbsp;узких кругах IT-тематического разговорного подкаста &laquo;Разбор Полетов&raquo;. В&nbsp;этом выпуске много гостей, много разговоров про стартапы и&nbsp;просто за&nbsp;жизнь. В&nbsp;этом выпуске: <ul><li>возьмите меня в&nbsp;стартап <a href="http://techcrunch.com/2011/12/25/a-few-tips-for-developers-on-how-to-get-hired-by-a-startup/">http://techcrunch.com/2011/12/25/a-few-tips-for-developers-on-how-to-get-hired-by-a-startup/</a></li><li>вопросы слушателей https://plus.google.com/117481599451076280717/posts/6G7V9Pcs828</li></ul>Гости: <a href="http://swimma2.livejournal.com/">Константин</a - https://plus.google.com/117972957565780825545/ ><a href="http://de1ph.livejournal.com/">Илья</a>  <a href="https://plus.google.com/117972957565780825545/ ">Дима</a> Наши контакты: twitter: <a href="http://twitter.com/gamussa">@gamussa</a>G+: <a href="http://gplus.to/gAmUssA">gplus.to/gAmUssA</a>Подписаться по&nbsp;<a href="http://razbor-poletov.rpod.ru/rss_7v4_48ca.xml">RSS</a><br/><object width="700" height="40" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"><param name="movie" value="http://s.rpod.ru/swf/playa.swf?xmlURL=http%3A%2F%2Fs.rpod.ru%2Fxml%2Faudio%2Fa221899.xml"></param><param name="allowfullscreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://s.rpod.ru/swf/playa.swf?xmlURL=http%3A%2F%2Fs.rpod.ru%2Fxml%2Faudio%2Fa221899.xml" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="700" height="40"></embed></object></div>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 5 —  Предновогодний]]></title>
-    <link href="http://razbor-poletov.com/2011/12/episode-5.html"/>
-    <updated>2011-12-29T00:00:00-05:00</updated>
-    <id>http://razbor-poletov.com/2011/12/episode-5</id>
-    <content type="html"><![CDATA[<div class='post'>
-Я&nbsp;и&nbsp;коллега <a href="http://twitter.com/a_abashev">@a_abashev</a>  представляем вашему вниманию очередной пятый предпраздничный выпуск популярного в&nbsp;узких кругах, разговорного IT-тематического подкаста &laquo;Разбор Полетов&raquo;. В&nbsp;этом выпуске: <ul><li>Полезняшка - 5 метров колючей проволоки-скрещиваем ежа и ужа в домашних условиях&nbsp;<a href="http://jodd.org/doc/jerry/index.html">http://jodd.org/doc/jerry/index.html</a></li><li>Ванга отдыхает -&nbsp;</li><habracut /><ul><li><a href="http://gigaom.com/2011/12/19/take-a-look-at-ibms-5-innovations-for-next-five-years/">http://gigaom.com/2011/12/19/take-a-look-at-ibms-5-innovations-for-next-five-years/</a></li><li><a href="http://radar.oreilly.com/2011/12/api-predictions-2012.html">http://radar.oreilly.com/2011/12/api-predictions-2012.html</a></li></ul><li>пятиминутка на покурить: что хорошего за год случилось в Java-мире&nbsp;<a href="http://www.java.net/node/877177/results">http://www.java.net/node/877177/results</a></li><li>&#8230;.. это вы еще остальных не видели -&nbsp;<a href="http://mysqltalk.wordpress.com/2011/12/19/you-thought-sql-injection-was-bad-schema-injection-coming-to-a-nosql-site-near-you/">http://mysqltalk.wordpress.com/2011/12/19/you-thought-sql-injection-was-bad-schema-injection-coming-to-a-nosql-site-near-you/</a></li><li>«Умных - к умным, а менэ - к табэ»© Как выбрать себе работу -&nbsp;<a href="http://blog.interviewstreet.com/2011/12/assessing-a-company-questions-you-need-to-ask-in-an-interview/">http://blog.interviewstreet.com/2011/12/assessing-a-company-questions-you-need-to-ask-in-an-interview/</a></li></ul>Колеектив «Разбора полетов» поздравляет всех с наступающими праздниками и желает всем IT-успехов в новом году! Наши контакты: twitter: <a href="http://twitter.com/a_abashev">@a_abashev</a> <a href="http://twitter.com/gamussa">@gamussa</a>G+: <a href="http://gplus.to/gAmUssA">gplus.to/gAmUssA</a> <a href="http://gplus.to/aabashev">http://gplus.to/aabashev</a>Подписаться по&nbsp;<a href="http://razbor-poletov.rpod.ru/rss_7v4_48ca.xml">RSS</a><br/><object width="700" height="40" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"><param name="movie" value="http://s.rpod.ru/swf/playa.swf?xmlURL=http%3A%2F%2Fs.rpod.ru%2Fxml%2Faudio%2Fa221107.xml"></param><param name="allowfullscreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://s.rpod.ru/swf/playa.swf?xmlURL=http%3A%2F%2Fs.rpod.ru%2Fxml%2Faudio%2Fa221107.xml" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="700" height="40"></embed></object></div>
 ]]></content>
   </entry>
   
