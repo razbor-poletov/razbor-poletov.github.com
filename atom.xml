@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2012-10-03T15:07:04-07:00</updated>
+  <updated>2012-10-05T00:48:03-07:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev]]></name>
@@ -12,6 +12,83 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 26 – Финальный разбор JavaOne-2012]]></title>
+    <link href="http://razbor-poletov.com/2012/10/episode-26.html"/>
+    <updated>2012-10-04T23:31:00-07:00</updated>
+    <id>http://razbor-poletov.com/2012/10/episode-26</id>
+    <content type="html"><![CDATA[<p><img border="0" width="350" height="350" src="http://s.rpod.ru/data/pictures/00/00/01/01/92/3a60c81db236c948b8ee679b8339c2d3.png"/></p>
+
+<!-- topics goes here-->
+
+
+<p>Заключительный выпуск специальной серии подкастов с рассказом о конференции JavaOne, которая проходила в San Francisco.
+Много новых и старых гостей!</p>
+
+<ul>
+<li>Java уходит в регионы</li>
+<li>футболки как средство учета посещаемости</li>
+<li>Scripting Bowl 2012</li>
+<li>3 составляющих идеальной презентации</li>
+<li>ад, кошмар и содомия в Netbeans и Maven</li>
+<li>SPDY в прямом эфире</li>
+<li>Отец кидается футболками и заплывает за буи</li>
+<li>и многое другое &#8230;</li>
+</ul>
+
+
+<p><strong>p.s.</strong> Запись проходила в боевых условиях на территории, оккупированной захватчиками.</p>
+
+<p>Наши контакты:</p>
+
+<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
+
+<p>Наш facebook - <a href="https://www.facebook.com/razborPoletovPodcast">https://www.facebook.com/RazborPoletovPodcast</a></p>
+
+<p>Гости и участники:</p>
+
+<ul>
+<li><a href="https://twitter.com/#!/gamussa">@gamussa</a></li>
+<li><a href="https://twitter.com/antonarhipov">@antonarhipov</a></li>
+<li><a href="https://twitter.com/gigabel">@gigabel</a></li>
+<li><a href="https://twitter.com/jbaruch">@jbaruch</a></li>
+</ul>
+
+
+<p>G+:</p>
+
+<ul>
+<li><a href="http://gplus.to/gAmUssA">Viktor Gamov</a></li>
+<li><a href="https://plus.google.com/105779776776467952201">Anton Arhipov</a></li>
+<li><a href="https://plus.google.com/116033097136007429330/posts">Baruch Sadogursky</a></li>
+<li><a href="https://plus.google.com/101611993436486061032/posts">Alexander Belokrylov</a></li>
+</ul>
+
+
+<!-- player goes here-->
+
+
+<p><audio controls="controls">
+  <source src="http://moscow-nthost3a.cdn.rpod.ru/00/00/01/01/92/285475-250832/2-03_Episode_3_Season_2_—_JavaOne_SPECIAL.mp3?play=1" type="audio/mp3" />
+  Your browser does not support the audio tag.
+</audio></p>
+
+<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
+
+<!-- habralink goes here-->
+
+
+
+
+<!-- episode file link goes here-->
+
+
+<p><a href="http://rpod.ru/get/285475/250832/download/2-03_Episode_3_Season_2_—_JavaOne_SPECIAL.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
+
+<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 25 — Из JavaOne с любовью]]></title>
@@ -660,16 +737,6 @@
     <id>http://razbor-poletov.com/2012/01/episode-8</id>
     <content type="html"><![CDATA[<div class='post'>
 Творческий коллектив редакции подкаста &laquo;Разбор полетов&raquo; представляет вашему вниманию очередной восьмой выпуск разговорно-болтологического IT-тематического подкаста;. В&nbsp;этом выпуске: <ul><li>Останови мыло!! Stop SOAP <a href="http://stopsoap.com/">http://stopsoap.com/</a></li><li>Если у&nbsp;тебя есть фонтан, заткни его; дай отдохнуть и&nbsp;фонтану &copy;&nbsp;К.&nbsp;Прутков. Алгоритм не&nbsp;фонтан <a href="http://blog.notdot.net/2012/01/Damn-Cool-Algorithms-Fountain-Codes">http://blog.notdot.net/2012/01/Damn-Cool-Algorithms-Fountain-Codes</a></li><li>Полезняшка&nbsp;&mdash; <a href="http://www.latencytop.org/">http://www.latencytop.org/</a></li><li>Называйся правильно&nbsp;&mdash; <a href="http://vanillajava.blogspot.com/2012/01/generic-class-names-to-avoid.html">http://vanillajava.blogspot.com/2012/01/generic-class-names-to-avoid.html</a></li><li>Украл&nbsp;&mdash; выпил&nbsp;&mdash; в&nbsp;тюрьму. Романтика! <a href="http://gigaom.com/2012/01/07/desantis-startups-crime-boss/">http://gigaom.com/2012/01/07/desantis-startups-crime-boss/</a></li><li>&laquo;Товарищи призывники! Надо понимать всю глубину наших глубин&raquo; &copy;&nbsp;<a href="http://stackoverflow.com/questions/1012402/maven2-property-that-indicates-the-parent-directory">http://stackoverflow.com/questions/1012402/maven2-property-that-indicates-the-parent-directory </a></li></ul>p.s. Спецкорр подкаста <a href="http://twitter.com/a_abashev">@a_abashev</a> разыскивает израильских спецов для записи спецвыпуска на&nbsp;Земле обетованной. Подробности в&nbsp;выпуске Наши контакты: twitter: <a href="http://twitter.com/a_abashev">@a_abashev</a> <a href="http://twitter.com/gamussa">@gamussa</a>G+: <a href="http://gplus.to/gAmUssA">gplus.to/gAmUssA</a> <a href="http://gplus.to/aabashev">http://gplus.to/aabashev</a>Подписаться по&nbsp;<a href="http://razbor-poletov.rpod.ru/rss_7v4_48ca.xml">RSS</a><br/><object width="700" height="300" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"><param name="movie" value="http://s.rpod.ru/swf/playa.swf?xmlURL=http%3A%2F%2Fs.rpod.ru%2Fxml%2Faudio_big%2Fa224372.xml"></param><param name="allowfullscreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://s.rpod.ru/swf/playa.swf?xmlURL=http%3A%2F%2Fs.rpod.ru%2Fxml%2Faudio_big%2Fa224372.xml" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="700" height="300"></embed></object></div>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 7 — Чем заняться в следующем году]]></title>
-    <link href="http://razbor-poletov.com/2012/01/episode-7.html"/>
-    <updated>2012-01-18T00:00:00-08:00</updated>
-    <id>http://razbor-poletov.com/2012/01/episode-7</id>
-    <content type="html"><![CDATA[<div class='post'>
-После продолжительного новогоднего застоя, c простуженными голосами я&nbsp;и&nbsp;коллега <a href="http://twitter.com/a_abashev">@a_abashev</a> представляем вашему вниманию очередной седьмой выпуск популярного в&nbsp;узких кругах, разговорного IT-тематического подкаста &laquo;Разбор Полетов&raquo;. В&nbsp;этом выпуске: <ul><li>Чем заняться в&nbsp;феврале в&nbsp;Питере&nbsp;&mdash; <a href="http://javaone.ru/javaday/program">http://javaone.ru/javaday/program</a></li><li>Google наше все <a href="http://www.igvita.com/2012/01/05/google-web-toolkit-gwt-closure-nacl-dart-js/">http://www.igvita.com/2012/01/05/google-web-toolkit-gwt-closure-nacl-dart-js/</a></li><li>Шило в&nbsp;глаз или в&nbsp;попу раз или Капитан О&nbsp;рекоммендует <a href="http://yanpritzker.com/2006/10/03/five-ways-to-get-insane-productivity-boosts/">http://yanpritzker.com/2006/10/03/five-ways-to-get-insane-productivity-boosts/</a></li><li>Надо почаще смотреть на&nbsp;небо <a href="http://gigaom.com/cloud/10-cloud-startups-to-watch-in-2012/">http://gigaom.com/cloud/10-cloud-startups-to-watch-in-2012/</a></li><li>Где тонко, там и&nbsp;рвется <a href="https://github.com/igrigorik/bugspots">https://github.com/igrigorik/bugspots</a></li><li>Что такое TDD и&nbsp;как с&nbsp;ним бороться <a href="http://powersoftwo.agileinstitute.com/2011/11/five-key-ingredients-of-essential-test.html">http://powersoftwo.agileinstitute.com/2011/11/five-key-ingredients-of-essential-test.html</a></li><li>Что то&nbsp;новое в&nbsp;CI <a href="http://www.rackspace.com/cloud/blog/2012/01/05/rackspace-open-sources-dreadnot/">http://www.rackspace.com/cloud/blog/2012/01/05/rackspace-open-sources-dreadnot/</a></li></ul>p.s. Спецкорр подкаста <a href="http://twitter.com/a_abashev">@a_abashev</a> разыскивает израильских спецов для записи спецвыпуска на&nbsp;Земле обетованной. Подробности в&nbsp;выпуске Наши контакты: twitter: <a href="http://twitter.com/a_abashev">@a_abashev</a> <a href="http://twitter.com/gamussa">@gamussa</a>G+: <a href="http://gplus.to/gAmUssA">gplus.to/gAmUssA</a> <a href="http://gplus.to/aabashev">http://gplus.to/aabashev</a>Подписаться по&nbsp;<a href="http://razbor-poletov.rpod.ru/rss_7v4_48ca.xml">RSS</a><br/><object width="700" height="40" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"><param name="movie" value="http://s.rpod.ru/swf/playa.swf?xmlURL=http%3A%2F%2Fs.rpod.ru%2Fxml%2Faudio%2Fa223080.xml"></param><param name="allowfullscreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://s.rpod.ru/swf/playa.swf?xmlURL=http%3A%2F%2Fs.rpod.ru%2Fxml%2Faudio%2Fa223080.xml" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="700" height="40"></embed></object></div>
 ]]></content>
   </entry>
   
