@@ -1,0 +1,54 @@
+---
+layout: post
+title: "Episode 23 — И ты, Брут!"
+date: 2012-07-17 12:07
+comments: true
+categories: 
+---
+
+<a href="http://3.bp.blogspot.com/-elIsVvTrgyA/UAWOjmspAPI/AAAAAAAAImI/IjCIEy3lpJ0/s400/23588648.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 2em; padding-right: 2em"><img border="0" src="http://3.bp.blogspot.com/-elIsVvTrgyA/UAWOjmspAPI/AAAAAAAAImI/IjCIEy3lpJ0/s400/23588648.jpg"/></a>
+
+В очередном выпуске правильного подкаста главного зачинателя заменил другой популярный подкастер!
+
+<!-- topics goes here-->
+1. [LevelDB][1] (for [Java][level_java])
+2. [Гномики и лампочки][2]
+3. [Estimating is hard][3]
+4. Полезняшка [Chrome Dev Tools for Java][chrome_dev]
+5. [Что я узнал о программировании][4]
+
+Наши контакты:
+
+Официальный сайт — [http://razbor-poletov.com](http://razbor-poletov.com)
+
+twitter: 
+
+ * [@a_abashev](https://twitter.com/#!/a_abashev) 
+ * [@gamussa](https://twitter.com/#!/gamussa)
+
+G+:
+
+ * [gplus.to/gAmUssA](http://gplus.to/gAmUssA) 
+ * [gplus.to/aabashev](http://gplus.to/aabashev) 
+ * [gplus.to/dmitryc](http://gplus.to/dmitryc)
+
+<audio controls="controls">
+  <source src="http://rpod.ru/get/279964/244607/download/1-23_Episode_23_Season_1.mp3" type="audio/mp3" />
+  Your browser does not support the audio tag.
+</audio>
+
+Подписаться по [RSS](http://feeds.feedburner.com/razbor-podcast)
+<!-- habralink goes here-->
+Выпуск уже на [Хабре](http://habrahabr.ru/post/147983/)
+<!-- episode file link goes here-->
+<a href="http://rpod.ru/get/279964/244607/download/1-23_Episode_23_Season_1.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+
+
+Музыка ведущим [предоставлена](http://www.audiobank.fm/single-music/27/111/More-And-Less/) и ладно...
+
+[1]:http://www.igvita.com/2012/02/06/sstable-and-log-structured-storage-leveldb
+[level_java]: https://github.com/dain/leveldb
+[2]:http://www.ajibanda.com/2012/05/programmers-interview-101-print-100.html
+[3]:http://blog.8thlight.com/uncle-bob/2012/04/20/Why-Is-Estimating-So-Hard.html
+[chrome_dev]: http://code.google.com/p/chromedevtools/
+[4]:http://blog.jgc.org/2012/07/some-things-ive-learnt-about.html

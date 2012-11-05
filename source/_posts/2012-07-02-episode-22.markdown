@@ -1,0 +1,67 @@
+---
+layout: post
+title: "Episode 22 — Независимо от зависимостей"
+date: 2012-07-02 22:03
+comments: true
+categories: 
+---
+
+<a href="http://3.bp.blogspot.com/-M7SItkPMgpc/T_SzTbbjLKI/AAAAAAAAIi8/rLVXgMftdvQ/s1600/razbor_22_1.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 2em; padding-right: 2em"><img border="0" src="http://3.bp.blogspot.com/-M7SItkPMgpc/T_SzTbbjLKI/AAAAAAAAIi8/rLVXgMftdvQ/s1600/razbor_22_1.png"/></a>
+
+<!-- topics goes here-->
+0. Особый гость
+	- [G+](https://plus.google.com/104301617063075159178/posts)
+	- [Twitter](https://twitter.com/#!/jbaruch)
+	- [Artifactory](http://www.jfrog.com/features.php)
+	- [Maven2Gradle](https://github.com/jbaruch/maven2gradle)
+1. Главное одной строкой
+	- [Gradle 1.0 Release][gradle]
+	- IDEA 12 EAP [\[1\]][idea_1] [\[2\]][idea_2]
+	- [Groovy 2.0][groovy]
+
+2. [Алексей рассказывает про оракловский клауд][oracle_cloud]
+
+3. [Как это сидеть на обочине прогресса][java_web]
+4. [Что это там вдали? Это птица? Это самолет?][gwt]
+5. Полезняшки
+	- [Не jrebel единым][javelion]
+	- [Dollar][dollar]
+
+Наши контакты:
+
+Официальный сайт — [http://razbor-poletov.com](http://razbor-poletov.com)
+
+twitter: 
+
+ * [@a_abashev](https://twitter.com/#!/a_abashev) 
+ * [@gamussa](https://twitter.com/#!/gamussa)
+
+G+:
+
+ * [gplus.to/gAmUssA](http://gplus.to/gAmUssA) 
+ * [gplus.to/aabashev](http://gplus.to/aabashev) 
+ * [gplus.to/dmitryc](http://gplus.to/dmitryc)
+
+<!-- player goes here-->
+<audio controls="controls">
+  <source src="http://moscow-nthost3a.cdn.rpod.ru/00/00/01/01/92/279177-243719/1-22_Episode_22_Season_1.mp3?play=1" type="audio/mp3" />
+  Your browser does not support the audio tag.
+</audio>
+
+Подписаться по [RSS](http://feeds.feedburner.com/razbor-podcast)
+<!-- habralink goes here-->
+Выпуск уже на [Хабре](http://habrahabr.ru/post/147161/)
+<!-- episode file link goes here-->
+<a href="http://rpod.ru/get/279177/243719/download/1-22_Episode_22_Season_1.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+
+Музыка ведущим [предоставлена](http://www.audiobank.fm/single-music/27/111/More-And-Less/) и ладно...
+
+[oracle_cloud]: https://cloud.oracle.com/mycloud/f?p=service:architecture:0
+[java_web]: http://programmers.stackexchange.com/questions/102090/why-isnt-java-used-for-modern-web-application-development
+[gwt]: http://tbroyer.posterous.com/how-does-gwts-super-dev-mode-work
+[javelion]: http://jaxenter.com/java-class-reloader-javeleon-hits-2-0-release-43149.html
+[dollar]: https://bitbucket.org/dfa/dollar/wiki/Home
+[groovy]: http://www.infoq.com/articles/new-groovy-20
+[idea_1]: http://blogs.jetbrains.com/idea/2012/06/brand-new-compiler-mode-in-intellij-idea-12-leda/
+[idea_2]: http://blogs.jetbrains.com/idea/2012/06/android-ui-designer-coming-in-intellij-idea-12/
+[gradle]: http://forums.gradle.org/gradle/topics/gradle_1_0_released

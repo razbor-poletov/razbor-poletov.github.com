@@ -1,0 +1,55 @@
+---
+layout: post
+title: "Episode 21 — Едим свой собачий корм и меняем шило на два шила"
+date: 2012-06-10 12:30
+comments: true
+categories: 
+---
+
+<a href="http://3.bp.blogspot.com/-hh4V2jbWfOM/T91Thn8t7uI/AAAAAAAAIcQ/emGHMq_4hMI/s1600/spring%253Fok%2521.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 2em; padding-right: 2em"><img border="0" height="295" src="http://3.bp.blogspot.com/-hh4V2jbWfOM/T91Thn8t7uI/AAAAAAAAIcQ/emGHMq_4hMI/s400/spring%253Fok%2521.jpg" width="400" /></a>
+
+Встречайте 21 выпуск подкаста «Разбор Полетов». В предыдущем выпуске мы зажали 40 минут подкаста, поэтому восполняем это упущение. В этом выпуске:
+
+- По следам наших рекомендаций - монолог
+- [Как я в Твиттер сходил](https://plus.google.com/117481599451076280717/posts/95Pg2TToXsQ)
+	* показывали что-то вроде [этого](http://www.infoq.com/presentations/Timelines-Twitter)
+- [«Не забывается такое никогда»](http://paulasmuth.com/blog/a_bug_i_wont_forget/)
+- А давайте вновь проедемся по Play
+  	* [Как я обновлялся на Play2](http://raibledesigns.com/rd/entry/upgrading_to_play_2_anorm)
+  	* [Почему я свалил с Play](http://whilefalse.blogspot.com/2012/03/why-im-moving-away-from-play-framework.html?m=1)
+
+- Полезняшки:
+    * [Metrics](http://metrics.codahale.com/)
+    * [Distributed Systems Tracing with Zipkin](http://engineering.twitter.com/2012/06/distributed-systems-tracing-with-zipkin.html)
+
+- [F1 - The Fault-Tolerant Distributed RDBMS Supporting Googles Ad Business](http://research.google.com/pubs/pub38125.html)
+- [No benefit in migrating from Spring to Java EE](http://www.enhance-ict.com/2012/06/06/no-benefit-in-migrating-from-spring-to-java-ee/)
+
+Наши контакты:
+
+Официальный сайт — [http://razbor-poletov.com](http://razbor-poletov.com)
+
+twitter: 
+
+ * [@a_abashev](https://twitter.com/#!/a_abashev) 
+ * [@gamussa](https://twitter.com/#!/gamussa)
+
+G+:
+
+ * [gplus.to/gAmUssA](http://gplus.to/gAmUssA) 
+ * [gplus.to/aabashev](http://gplus.to/aabashev) 
+ * [gplus.to/dmitryc](http://gplus.to/dmitryc)
+
+<!-- player goes here-->
+<audio controls="controls">
+  <source src="http://moscow-nthost3a.cdn.rpod.ru/00/00/01/01/92/277821-242248/1-21_Episode_21_Season_1.mp3?play=1" type="audio/mp3" />
+  Your browser does not support the audio tag.
+</audio>
+
+Подписаться по [RSS](http://feeds.feedburner.com/razbor-podcast)
+<!-- habralink goes here-->
+Выпуск уже на [Хабре](http://habrahabr.ru/post/145957/)
+<!-- episode file link goes here-->
+<a href="http://rpod.ru/get/277821/242248/download/1-21_Episode_21_Season_1.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+
+Музыка ведущим [предоставлена](http://www.audiobank.fm/single-music/27/111/More-And-Less/) и ладно...

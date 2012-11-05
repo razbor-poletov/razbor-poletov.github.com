@@ -1,0 +1,38 @@
+---
+layout: post
+title: "Episode 18 — Special: Join the Rebellion"
+date: 2012-05-22 10:50
+comments: true
+categories: 
+---
+
+В восемнадцатом выпуске «правильного подкаста для IT-шников» наш специальный корреспондент [Абашев Алексей](http://gplus.to/aabashev) встретился с [Антоном Архиповым][anton].
+
+Время: 17 апреля 2012 <br/>
+Место: [JavaOne Russia][jone_russia], Российская Академия Наук
+
+Представляем вашему вниманию это импровизированное интервью, в котором профессионалы беседуют на общие и специальные темы. Затронуты вопросы о работе, о IT в стране профессионала, о становлении эксперта и продуктах компании [ZeroTurnaround][zero].
+
+**p.s.** Один из немногих эпизодов, в котором контент побеждает качество. Запись велась в полевых условиях.
+
+
+Наши контакты:
+
+  - Официальный сайт [http://razbor-poletov.com](http://razbor-poletov.com)
+  - twitter: [@a_abashev](https://twitter.com/#!/a_abashev) [@gamussa](https://twitter.com/#!/gamussa)
+  - G+: [gplus.to/gAmUssA](gplus.to/gAmUssA) [http://gplus.to/aabashev](http://gplus.to/aabashev)
+
+Подписаться по [RSS](http://feeds.feedburner.com/razbor-podcast)
+Выпуск уже на [Хабре][habr]
+
+<a href="http://rpod.ru/get/276131/240360/download/1-18_Episode_18_Season_1.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+
+<object width="100%" height="300" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"><param name="movie" value="http://s.rpod.ru/swf/playa.swf?xmlURL=http%3A%2F%2Fs.rpod.ru%2Fxml%2Faudio_big%2Fa240360.xml"></param><param name="allowfullscreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://s.rpod.ru/swf/playa.swf?xmlURL=http%3A%2F%2Fs.rpod.ru%2Fxml%2Faudio_big%2Fa240360.xml" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="100%" height="300"></embed></object>
+
+Музыка ведущим [предоставлена][music] и ладно...
+
+[music]: http://www.audiobank.fm/single-music/27/111/More-And-Less/
+[anton]: https://twitter.com/#!/antonarhipov
+[jone_russia]: http://www.oracle.com/javaone/ru-en/index.html
+[zero]: http://zeroturnaround.com/
+[habr]: http://habrahabr.ru/post/144328/

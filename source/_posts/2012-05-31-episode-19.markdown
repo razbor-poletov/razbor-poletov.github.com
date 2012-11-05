@@ -1,0 +1,51 @@
+---
+layout: post
+title: "Episode 19 — Разговоры на кухне про кухню"
+date: 2012-05-31 18:13
+comments: true
+categories: 
+---
+
+С превеликим удовольствием и радостью представляем Вашему вниманию очередной девятнадцатый выпуск подкаста «Разбор Полетов», в котором мы говорим о событиях и технологиях, которые взволновали нас на этой неделе, и будут волновать Вас!
+В сегодняшнем выпуске мы поговорим:
+
+- Кухня подкаста
+- [Google - Oracle][gooracle]
+- Банки в паутине [\[1\]][webjars_1] [\[2\]][webjars_2]
+- А кошак-то на совсем уж большой стал [\[1\]][tomcat_1] [\[2\]][tomcat_2]
+- Что правильно <del>ложить</del> класть в БД [\[1\]][rules_of_db]
+- Полезняшка [dillinger.io](http://dillinger.io/)
+- Гугление - убивает [\[1\]][google_kills]
+
+Наши контакты:
+
+Официальный сайт — [http://razbor-poletov.com](http://razbor-poletov.com)
+
+twitter: [@a_abashev](https://twitter.com/#!/a_abashev) [@gamussa](https://twitter.com/#!/gamussa)
+
+G+:
+
+ * [gplus.to/gAmUssA](http://gplus.to/gAmUssA) 
+ * [http://gplus.to/aabashev](http://gplus.to/aabashev) 
+ * <a href="http://gplus.to/dmitryc">gplus.to/dmitryc</a>
+
+Подписаться по [RSS](http://feeds.feedburner.com/razbor-podcast)
+
+Выпуск уже на [Хабре][habr]
+
+<a href="http://rpod.ru/get/276807/241133/download/1-19_Episode_19_Season_1.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+
+<object width="100%" height="300" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"><param name="movie" value="http://s.rpod.ru/swf/playa.swf?xmlURL=http%3A%2F%2Fs.rpod.ru%2Fxml%2Faudio_big%2Fa241133.xml"></param><param name="allowfullscreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://s.rpod.ru/swf/playa.swf?xmlURL=http%3A%2F%2Fs.rpod.ru%2Fxml%2Faudio_big%2Fa241133.xml" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="100%" height="300"></embed></object>
+
+Музыка ведущим [предоставлена][music] и ладно...
+
+[gooracle]: http://www.drdobbs.com/jvm/232901227
+[webjars_1]: http://www.jamesward.com/2012/04/30/webjars-in-spring-mvc
+[webjars_2]: http://blog.faratasystems.com/2012/05/16/using-webjars-for-assets-management-in-javascript-projects
+[tomcat_1]: http://www.toolsjournal.com/integrations-articles/item/557-apache-roars-with-300-faster-enteprise-edition-of-tomcat-for-cloud
+[tomcat_2]: http://blog.webagesolutions.com/archives/636
+[rules_of_db]: http://www.revsys.com/blog/2012/may/01/three-things-you-should-never-put-your-database/
+[google_kills]: http://diegobasch.com/a-relevant-tale-how-google-killed-inktomi
+
+[music]: http://www.audiobank.fm/single-music/27/111/More-And-Less/
+[habr]: http://habrahabr.ru/post/145049/
