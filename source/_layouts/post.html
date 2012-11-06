@@ -25,10 +25,15 @@ single: true
     </p>
   </footer>
 </article>
-{% if site.disqus_short_name and page.comments == true %}
+{% if page.comments == true %}
   <section>
     <h1>Comments</h1>
-    <div id="disqus_thread" aria-live="polite">{% include post/disqus_thread.html %}</div>
+    {% if site.disqus_short_name %}
+    	<div id="disqus_thread" aria-live="polite">{% include post/disqus_thread.html %}</div>
+    {% endif %}
+    {% if site.googleplus_user %}
+    	<div id="gplus-pingback"></div>
+    {% endif %}
   </section>
 {% endif %}
 </div>
