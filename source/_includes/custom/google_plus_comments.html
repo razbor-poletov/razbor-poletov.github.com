@@ -1,0 +1,10 @@
+{% if site.googleplus_user and page.comments != false %}
+<script type='text/javascript'>
+    (function() {
+        var _gp = document.createElement('script');
+        _gp.type = 'text/javascript'; _gp.async = true;
+        _gp.src = 'http://gplus.kulikovd.ru/pingback?profile={{ site.googleplus_user }}&url={{ site.url }}{{ page.url }}';
+        var _s = document.getElementsByTagName('script')[0]; _s.parentNode.insertBefore(_gp, _s.nextSibling);
+    })();
+</script>
+{% endif %}
