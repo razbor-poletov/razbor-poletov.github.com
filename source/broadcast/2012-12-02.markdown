@@ -1,0 +1,10 @@
+---
+layout: page
+title: "«Разбор Полетов» LIVE!"
+date: 2012-12-02 13:01
+comments: true
+sharing: true
+footer: true
+---
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/rcpySZy_hQE" frameborder="0" allowfullscreen></iframe>
