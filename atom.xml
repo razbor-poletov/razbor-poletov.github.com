@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2012-12-05T01:09:04-05:00</updated>
+  <updated>2012-12-22T19:35:47-05:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev]]></name>
@@ -14,11 +14,74 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Episode-30 – Нет потенции — сваливайте н@@@й с рынка]]></title>
+    <link href="http://razbor-poletov.com/2012/12/episode-30.html"/>
+    <updated>2012-12-22T19:21:00-05:00</updated>
+    <id>http://razbor-poletov.com/2012/12/episode-30</id>
+    <content type="html"><![CDATA[<p><img src="http://s.rpod.ru/data/pictures/00/00/01/01/92/bc3dfe4850778c6d3f5665d9d2a83a14.png"></p>
+
+<ul>
+<li><a href="http://www.cnews.ru/top/2012/11/21/pakt_o_nenapadenii_parallels_dogovorilas_s_yandeksom_kasperskim_i_drugimi_ne_hantit_programmistov_510502">Пакт о ненападении</a></li>
+<li><a href="http://www.grobmeier.de/the-new-log4j-2-0-05122012.html">Логаем по-новому</a></li>
+<li><a href="http://techblog.netflix.com/2012/11/announcing-bitz4j-scalable-logging.html">Масштабирование логгера</a></li>
+<li><a href="http://news.dice.com/2012/08/08/it-roles-becoming-obsolete/">Вымирающие виды</a></li>
+<li>Полезняшка
+
+<ul>
+<li><a href="http://tobacco.noroutine.me">Дело-табак!</a></li>
+<li><a href="http://www.git-legit.org">Lé-бигмак</a></li>
+</ul>
+</li>
+<li><a href="http://coding.smashingmagazine.com/2012/10/29/powerful-command-line-tools-developers/">Учим командную строку</a></li>
+</ul>
+
+
+<p>Наши контакты:</p>
+
+<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
+
+<p>twitter:</p>
+
+<ul>
+<li><a href="https://twitter.com/#!/a_abashev">@a_abashev</a></li>
+<li><a href="https://twitter.com/#!/gamussa">@gamussa</a></li>
+</ul>
+
+
+<p>G+:</p>
+
+<ul>
+<li><a href="http://gplus.to/gAmUssA">gplus.to/gAmUssA</a></li>
+<li><a href="http://gplus.to/aabashev">gplus.to/aabashev</a></li>
+<li><a href="http://gplus.to/dmitryc">gplus.to/dmitryc</a></li>
+</ul>
+
+
+<!-- player goes here-->
+
+
+<p><audio controls="controls">
+  <source src="http://moscow-nthost3a.cdn.rpod.ru/00/00/01/01/92/291475-257430/Episode_7_Season_2_%2830%29.mp3?play=1" type="audio/mp3" />
+  Your browser does not support the audio tag.
+</audio></p>
+
+<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
+
+<!-- episode file link goes here-->
+
+
+<p><a href="http://rpod.ru/get/291475/257430/download/Episode_7_Season_2_%2830%29.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
+
+<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Episode-29 - Год в Эфире]]></title>
     <link href="http://razbor-poletov.com/2012/12/episode-29.html"/>
     <updated>2012-12-05T00:22:00-05:00</updated>
     <id>http://razbor-poletov.com/2012/12/episode-29</id>
-    <content type="html"><![CDATA[<p><img border="0" width="350" height="350" src="https://lh3.googleusercontent.com/-RAQJql0Vn14/UL7apCLEFfI/AAAAAAAAJNY/PO-32BBo56s/s501/razbor_29_text.png
+    <content type="html"><![CDATA[<p><img border="0" width="350" height="350" src="http://s.rpod.ru/data/pictures/00/00/01/01/92/bc3dfe4850778c6d3f5665d9d2a83a14.png
 "/></p>
 
 <ul>
@@ -947,16 +1010,6 @@
     <id>http://razbor-poletov.com/2012/03/episode-13</id>
     <content type="html"><![CDATA[<div class='post'>
 Представляет вашему вниманию тринадцатый выпуск разговорно-болтологического IT-тематического подкаста «Разбор полетов».  В этом выпуске: <ul><li>Феерическое расставление точек над вопросом лицензий <a href="http://www.sonatype.com/people/2012/01/how-well-do-you-know-your-open-source-licensing/">[1]</a> <a href="http://www.sonatype.com/content/download/757/8384/file/why_you_should_care_about_open_source_licensing.pdf">[2]</a></li><li>Слоны не против <a href="http://blog.evernote.com/tech/2012/02/23/whysql/">SQL</a></li><li>Полезняшка <a href="http://icedtea.classpath.org/wiki/Thermostat">Термостат</a> или не осилили <a href="http://www.opennet.ru/opennews/art.shtml?num=33169">DTrace</a> ?</li><li>Уголок client-side programming в подкасте. <a href="http://engineering.linkedin.com/frontend/client-side-templating-throwdown-mustache-handlebars-dustjs-and-more">JS in LinkedIn, take 2</a></li><li>Maven? <a href="http://dan.bodar.com/2012/02/28/crazy-fast-build-times-or-when-10-seconds-starts-to-make-you-nervous/">Страшное дело&#8230;</a></li><li>REST? <a href="http://blog.steveklabnik.com/posts/2011-07-03-nobody-understands-rest-or-http">Ты делаешь его не правильно</a></li></ul><table cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><a href="http://rpod.ru/get/270188/233175/download/1-13_Episode_13_Season_1.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;">Скачать mp3 бесплатно БЕЗ СМС&nbsp;</td></tr></tbody></table>Наши контакты: <ol><li>Официальный сайт&nbsp;&mdash; <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></li><li>twitter: <a href="http://twitter.com/a_abashev">@a_abashev</a> <a href="http://twitter.com/gamussa">@gamussa</a></li>  <li>G+: <a href="http://gplus.to/gAmUssA">gplus.to/gAmUssA</a> <a href="http://gplus.to/aabashev">http://gplus.to/aabashev</a></li><li>Подписаться по&nbsp;<a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></li></ol>p.s. Скидка 13% на участи в тренинге <a href="http://www.eventbrite.com/event/3024521425 ">Java, JavaEE</a> и <a href="http://www.eventbrite.com/event/3030352867">ExtJs</a> для слушателей подкаста. Код <strong>razbor</strong>Подробности в районе 58-й минуты  <object width="100%" height="300" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"><param name="movie" value="http://s.rpod.ru/swf/playa.swf?xmlURL=http%3A%2F%2Fs.rpod.ru%2Fxml%2Faudio_big%2Fa233175.xml"></param><param name="allowfullscreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://s.rpod.ru/swf/playa.swf?xmlURL=http%3A%2F%2Fs.rpod.ru%2Fxml%2Faudio_big%2Fa233175.xml" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="100%" height="300"></embed></object></div>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 12 — Нет повода не выпить]]></title>
-    <link href="http://razbor-poletov.com/2012/03/episode-12.html"/>
-    <updated>2012-03-02T00:00:00-05:00</updated>
-    <id>http://razbor-poletov.com/2012/03/episode-12</id>
-    <content type="html"><![CDATA[<div class='post'>
-Коллектив редакции подкаста не останавливается на достигнутом и представляет вашему вниманию двенадцатый выпуск разговорно-болтологического IT-тематического подкаста «Разбор полетов». В этом выпуске: <ul><li><a href="http://blog.developer-b.com/post/17656356550/three-years-with-groovy">3 года в колонии-поселении с конфискацией имущества</a></li><li><a href="http://pydanny.blogspot.com/2011/08/github-is-my-resume.html?m=1">усы, лапы и хвост - вот мои документы</a></li><li><a href="http://blog.dhananjaynene.com/2012/01/why-osgi-or-why-not-using-it-makes-your-jvm-runtime-unsafe/">нафига козе баян</a></li><li><a href="http://www.sparkjava.com/readme.html">Полезняшка</a></li><li><a href="http://ayende.com/blog/153409/do-you-monitor-negative-events?key=9a1bc43b-45b8-40c3-983d-391de284122b">Ваша система наполовину работает или наполовину не работает</a></li><li>SWF - это не то что вы подумали <a href="http://aws.amazon.com/documentation/swf/">[1]</a> <a href="http://www.allthingsdistributed.com/2012/02/Amazon-Simple-Workflow-Service.html">[2]</a></li></ul><table cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><a href="http://rpod.ru/get/267302/230335/download/1-12_Episode_12_Season_1.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;">Скачать mp3 бесплатно БЕЗ СМС&nbsp;</td></tr></tbody></table>Наши контакты: <ol><li>Официальный сайт&nbsp;&mdash; <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></li><li>twitter: <a href="http://twitter.com/a_abashev">@a_abashev</a> <a href="http://twitter.com/gamussa">@gamussa</a></li>  <li>G+: <a href="http://gplus.to/gAmUssA">gplus.to/gAmUssA</a> <a href="http://gplus.to/aabashev">http://gplus.to/aabashev</a></li><li>Подписаться по&nbsp;<a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></li></ol><object width="100%" height="300" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"><param name="movie" value="http://s.rpod.ru/swf/playa.swf?xmlURL=http%3A%2F%2Fs.rpod.ru%2Fxml%2Faudio_big%2Fa230335.xml"></param><param name="allowfullscreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://s.rpod.ru/swf/playa.swf?xmlURL=http%3A%2F%2Fs.rpod.ru%2Fxml%2Faudio_big%2Fa230335.xml" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="100%" height="300"></embed></object></div>
 ]]></content>
   </entry>
   
