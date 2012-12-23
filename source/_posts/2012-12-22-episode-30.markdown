@@ -1,0 +1,47 @@
+---
+layout: post
+title: "Episode-30 – Нет потенции — сваливайте н@@@й с рынка"
+date: 2012-12-22 19:21
+comments: true
+categories: 
+---
+
+<img src="http://s.rpod.ru/data/pictures/00/00/01/01/92/bc3dfe4850778c6d3f5665d9d2a83a14.png">
+
+- [Пакт о ненападении](http://www.cnews.ru/top/2012/11/21/pakt_o_nenapadenii_parallels_dogovorilas_s_yandeksom_kasperskim_i_drugimi_ne_hantit_programmistov_510502) 
+- [Логаем по-новому](http://www.grobmeier.de/the-new-log4j-2-0-05122012.html)
+- [Масштабирование логгера](http://techblog.netflix.com/2012/11/announcing-bitz4j-scalable-logging.html)
+- [Вымирающие виды](http://news.dice.com/2012/08/08/it-roles-becoming-obsolete/)
+- Полезняшка
+    - [Дело-табак!](http://tobacco.noroutine.me)
+    - [Lé-бигмак](http://www.git-legit.org)
+- [Учим командную строку](http://coding.smashingmagazine.com/2012/10/29/powerful-command-line-tools-developers/)
+
+Наши контакты:
+
+Официальный сайт — [http://razbor-poletov.com](http://razbor-poletov.com)
+
+twitter: 
+
+ * [@a_abashev](https://twitter.com/#!/a_abashev) 
+ * [@gamussa](https://twitter.com/#!/gamussa)
+
+G+:
+
+ * [gplus.to/gAmUssA](http://gplus.to/gAmUssA) 
+ * [gplus.to/aabashev](http://gplus.to/aabashev) 
+ * [gplus.to/dmitryc](http://gplus.to/dmitryc)
+
+<!-- player goes here-->
+
+<audio controls="controls">
+  <source src="http://moscow-nthost3a.cdn.rpod.ru/00/00/01/01/92/291475-257430/Episode_7_Season_2_%2830%29.mp3?play=1" type="audio/mp3" />
+  Your browser does not support the audio tag.
+</audio>
+
+Подписаться по [RSS](http://feeds.feedburner.com/razbor-podcast)
+
+<!-- episode file link goes here-->
+<a href="http://rpod.ru/get/291475/257430/download/Episode_7_Season_2_%2830%29.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+
+Музыка ведущим [предоставлена](http://www.audiobank.fm/single-music/27/111/More-And-Less/) и ладно...
