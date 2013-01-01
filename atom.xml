@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2012-12-31T22:41:18-05:00</updated>
+  <updated>2012-12-31T22:42:05-05:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Happy_New_Year]]></title>
+    <title type="html"><![CDATA[Happy New Year]]></title>
     <link href="http://razbor-poletov.com/2012/12/happy-new-year.html"/>
     <updated>2012-12-31T21:54:00-05:00</updated>
     <id>http://razbor-poletov.com/2012/12/happy-new-year</id>
