@@ -25,9 +25,13 @@ categories:
 Подписаться по [RSS](http://feeds.feedburner.com/razbor-podcast)
 Выпуск уже на [Хабре][habr]
 
-<a href="http://rpod.ru/get/276131/240360/download/1-18_Episode_18_Season_1.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+<a href="http://razbor-poletov.rucast.net/media/razbor_18.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
 
-<object width="100%" height="300" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"><param name="movie" value="http://s.rpod.ru/swf/playa.swf?xmlURL=http%3A%2F%2Fs.rpod.ru%2Fxml%2Faudio_big%2Fa240360.xml"></param><param name="allowfullscreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://s.rpod.ru/swf/playa.swf?xmlURL=http%3A%2F%2Fs.rpod.ru%2Fxml%2Faudio_big%2Fa240360.xml" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="100%" height="300"></embed></object>
+<!-- player goes here-->
+<audio controls="controls">
+  <source src="http://razbor-poletov.rucast.net/media/razbor_18.mp3" type="audio/mp3" />
+  Your browser does not support the audio tag.
+</audio>
 
 Музыка ведущим [предоставлена][music] и ладно...
 

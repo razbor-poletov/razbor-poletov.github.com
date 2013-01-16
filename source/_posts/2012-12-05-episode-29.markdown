@@ -42,14 +42,14 @@ G+:
 <!-- player goes here-->
 
 <audio controls="controls">
-  <source src="http://moscow-nthost3a.cdn.rpod.ru/00/00/01/01/92/290018-255830/2-06_Episode_6_Season_2_%2829%29.mp3?play=1" type="audio/mp3" />
+  <source src="http://razbor-poletov.rucast.net/media/razbor_29.mp3" type="audio/mp3" />
   Your browser does not support the audio tag.
 </audio>
 
 Подписаться по [RSS](http://feeds.feedburner.com/razbor-podcast)
 
 <!-- episode file link goes here-->
-<a href="http://rpod.ru/get/290018/255830/download/2-06_Episode_6_Season_2_%2829%29.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+<a href="http://razbor-poletov.rucast.net/media/razbor_29.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
 
 Музыка ведущим [предоставлена](http://www.audiobank.fm/single-music/27/111/More-And-Less/) и ладно...
 
