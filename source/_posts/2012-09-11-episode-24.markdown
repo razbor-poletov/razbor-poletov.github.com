@@ -47,7 +47,7 @@ categories:
  * [gplus.to/dmitryc](http://gplus.to/dmitryc)
 
 <!-- player goes here-->
-<audio controls="controls">
+<audio preload="none">
   <source src="http://razbor-poletov.rucast.net/media/razbor_24.mp3" type="audio/mp3" />
   Your browser does not support the audio tag.
 </audio>

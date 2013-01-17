@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Episode-31 — Староновогодний Выпуск"
+title: "Episode 31 — Староновогодний Выпуск"
 date: 2013-01-16 12:17
 comments: true
 categories: 
@@ -35,7 +35,7 @@ G+:
 
 <!-- player goes here-->
 
-<audio controls="controls">
+<audio preload="none">
   <source src="http://traffic.libsyn.com/razborpoletov/razbor_31.mp3" type="audio/mp3" />
   Your browser does not support the audio tag.
 </audio>
