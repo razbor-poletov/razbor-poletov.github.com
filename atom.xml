@@ -4,17 +4,17 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2013-01-16T15:24:05-05:00</updated>
+  <updated>2013-01-16T22:25:04-05:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
-    <name><![CDATA[Viktor Gamov, Alexey Abashev]]></name>
+    <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
   
   <entry>
-    <title type="html"><![CDATA[Episode-31 — Староновогодний Выпуск]]></title>
+    <title type="html"><![CDATA[Episode 31 — Староновогодний Выпуск]]></title>
     <link href="http://razbor-poletov.com/2013/01/episode-31.html"/>
     <updated>2013-01-16T12:17:00-05:00</updated>
     <id>http://razbor-poletov.com/2013/01/episode-31</id>
@@ -99,7 +99,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Episode-30 – Нет потенции — сваливайте н@@@й с рынка]]></title>
+    <title type="html"><![CDATA[Episode 30 — Нет потенции — сваливайте н@@@й с рынка]]></title>
     <link href="http://razbor-poletov.com/2012/12/episode-30.html"/>
     <updated>2012-12-22T19:21:00-05:00</updated>
     <id>http://razbor-poletov.com/2012/12/episode-30</id>
@@ -162,7 +162,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Episode-29 - Год в Эфире]]></title>
+    <title type="html"><![CDATA[Episode-29 — Год в Эфире]]></title>
     <link href="http://razbor-poletov.com/2012/12/episode-29.html"/>
     <updated>2012-12-05T00:22:00-05:00</updated>
     <id>http://razbor-poletov.com/2012/12/episode-29</id>
@@ -251,7 +251,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Episode-28 - Stop Emailing!]]></title>
+    <title type="html"><![CDATA[Episode 28 — Stop Emailing!]]></title>
     <link href="http://razbor-poletov.com/2012/11/episode-28.html"/>
     <updated>2012-11-18T00:35:00-05:00</updated>
     <id>http://razbor-poletov.com/2012/11/episode-28</id>
