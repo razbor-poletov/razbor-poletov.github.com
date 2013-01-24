@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2013-01-24T17:07:23-05:00</updated>
+  <updated>2013-01-24T17:08:39-05:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev]]></name>
@@ -26,13 +26,10 @@
 
 <p>Спасибо.</p>
 
-<p><audio preload="none"></p>
-
-<pre><code>&lt;source src="http://traffic.libsyn.com/razborpoletov/announce_aws.mp3" type="audio/mp3" /&gt;       
-Your browser does not support the audio tag.
-</code></pre>
-
-<p></audio></p>
+<p><audio preload="none">
+  <source src="http://traffic.libsyn.com/razborpoletov/announce_aws.mp3" type="audio/mp3" />
+  Your browser does not support the audio tag.
+</audio></p>
 
 <table cellpadding="0" cellspacing="0" class="tr-caption-container" style=
   "margin-left: auto; margin-right: auto; text-align: center;">
