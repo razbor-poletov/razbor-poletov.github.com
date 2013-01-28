@@ -1,0 +1,62 @@
+---
+layout: post
+title: "Episode 32 — Война миров"
+date: 2013-01-27 20:06
+comments: true
+categories: 
+---
+
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_32_text.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="300" src="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_32_text.png" width="300" /></a></div>
+
+В этом выпуске к нам наконец-то пришел [правильный человек из мира **.NET**](https://twitter.com/dnesteruk) и воздает нам за «оргии MVP». Заодно обсудили следующие темы:
+
+- [Каждой твари - по харе](http://blog.8thlight.com/ben-voss/2013/01/15/how-to-be-a-great-pair.html)
+- [ААА, мы все умрем ](http://techcrunch.com/2013/01/12/10-reasons-why-2013-will-be-the-year-you-quit-your-job/)
+- [Многополезняшка](http://owenou.com/2012/01/13/ten-things-you-didnt-know-git-and-github-could-do.html)
+- [Next Stop: Spring Framework 4.0](http://blog.springsource.org/2013/01/16/next-stop-spring-framework-4-0/)
+- [Треп за IDE](http://arhipov.blogspot.com/2012/11/do-you-really-get-your-ide.html)
+- Внеклассное чтение - [High Scalability - What if Cars Were Rented Like We Hire Programmers? ](http://highscalability.com/blog/2013/1/16/what-if-cars-were-rented-like-we-hire-programmers.html)
+ 
+
+-----
+
+    Внимание!
+
+    The 2013 JavaOne Russia Call-for-Papers is open.  Deadline for submissions is February 15th.
+    - Feel free to re-tweet: https://twitter.com/gigabel/status/291511211760156672
+    - Call-for-Papers English page: http://javaone.ru/homeen
+    - Call-for-Papers Russian page: http://javaone.ru
+    - Official event hashtag is: #JavaOneRussia
+    - Official twitter of the event is: @JavaOneRussia 
+
+Наши контакты:
+
+Официальный сайт — [http://razbor-poletov.com](http://razbor-poletov.com)
+
+twitter: 
+
+ * [@a_abashev](https://twitter.com/#!/a_abashev) 
+ * [@gamussa](https://twitter.com/#!/gamussa)
+ * [@antonarhipov](https://twitter.com/antonarhipov)
+ * [Гость](https://twitter.com/dnesteruk)
+
+G+:
+
+ * [gplus.to/gAmUssA](http://gplus.to/gAmUssA) 
+ * [gplus.to/aabashev](http://gplus.to/aabashev) 
+ * [gplus.to/dmitryc](http://gplus.to/dmitryc)
+
+<!-- player goes here-->
+
+<audio preload="none">
+  <source src="http://traffic.libsyn.com/razborpoletov/razbor_32.mp3" type="audio/mp3" />
+  Your browser does not support the audio tag.
+</audio>
+
+Подписаться по [RSS](http://feeds.feedburner.com/razbor-podcast)
+
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_32.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+
+Музыка ведущим [предоставлена](http://www.audiobank.fm/single-music/27/111/More-And-Less/) и ладно...
