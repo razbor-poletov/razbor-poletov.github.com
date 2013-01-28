@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2013-01-24T17:08:39-05:00</updated>
+  <updated>2013-01-27T20:23:30-05:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev]]></name>
@@ -12,6 +12,80 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 32 — Война миров]]></title>
+    <link href="http://razbor-poletov.com/2013/01/episode-32.html"/>
+    <updated>2013-01-27T20:06:00-05:00</updated>
+    <id>http://razbor-poletov.com/2013/01/episode-32</id>
+    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
+<a href="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_32_text.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="300" src="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_32_text.png" width="300" /></a></div>
+
+
+<p>В этом выпуске к нам наконец-то пришел <a href="https://twitter.com/dnesteruk">правильный человек из мира <strong>.NET</strong></a> и воздает нам за «оргии MVP». Заодно обсудили следующие темы:</p>
+
+<ul>
+<li><a href="http://blog.8thlight.com/ben-voss/2013/01/15/how-to-be-a-great-pair.html">Каждой твари - по харе</a></li>
+<li><a href="http://techcrunch.com/2013/01/12/10-reasons-why-2013-will-be-the-year-you-quit-your-job/">ААА, мы все умрем </a></li>
+<li><a href="http://owenou.com/2012/01/13/ten-things-you-didnt-know-git-and-github-could-do.html">Многополезняшка</a></li>
+<li><a href="http://blog.springsource.org/2013/01/16/next-stop-spring-framework-4-0/">Next Stop: Spring Framework 4.0</a></li>
+<li><a href="http://arhipov.blogspot.com/2012/11/do-you-really-get-your-ide.html">Треп за IDE</a></li>
+<li>Внеклассное чтение - <a href="http://highscalability.com/blog/2013/1/16/what-if-cars-were-rented-like-we-hire-programmers.html">High Scalability - What if Cars Were Rented Like We Hire Programmers? </a></li>
+</ul>
+
+
+<hr />
+
+<pre><code>Внимание!
+
+The 2013 JavaOne Russia Call-for-Papers is open.  Deadline for submissions is February 15th.
+- Feel free to re-tweet: https://twitter.com/gigabel/status/291511211760156672
+- Call-for-Papers English page: http://javaone.ru/homeen
+- Call-for-Papers Russian page: http://javaone.ru
+- Official event hashtag is: #JavaOneRussia
+- Official twitter of the event is: @JavaOneRussia 
+</code></pre>
+
+<p>Наши контакты:</p>
+
+<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
+
+<p>twitter:</p>
+
+<ul>
+<li><a href="https://twitter.com/#!/a_abashev">@a_abashev</a></li>
+<li><a href="https://twitter.com/#!/gamussa">@gamussa</a></li>
+<li><a href="https://twitter.com/dnesteruk">Гость</a></li>
+</ul>
+
+
+<p>G+:</p>
+
+<ul>
+<li><a href="http://gplus.to/gAmUssA">gplus.to/gAmUssA</a></li>
+<li><a href="http://gplus.to/aabashev">gplus.to/aabashev</a></li>
+<li><a href="http://gplus.to/dmitryc">gplus.to/dmitryc</a></li>
+</ul>
+
+
+<!-- player goes here-->
+
+
+<p><audio preload="none">
+  <source src="http://traffic.libsyn.com/razborpoletov/razbor_32.mp3" type="audio/mp3" />
+  Your browser does not support the audio tag.
+</audio></p>
+
+<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
+
+<!-- episode file link goes here-->
+
+
+<p><a href="http://traffic.libsyn.com/razborpoletov/razbor_32.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
+
+<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Announce: AWS team in Moscow]]></title>
@@ -1111,19 +1185,6 @@
     <content type="html"><![CDATA[<div class='post'>
 Встречайте очередной 16-й выпуск подкаста «Разбор Полетов» Сегодня в выпуске: <ul><li>У нас ничего нет, кроме цепей <a href="http://www.engadget.com/2012/04/12/code-cant-be-stolen/">[1]</a></li><li>Если не можешь запомнить - записывай <a href="http://www.infoq.com/articles/in-memory-data-grids">[1]</a></li><li>Полезняшки <a href="http://stackapps.com/questions/3099/stacktrace-for-ipad">[StackTrace for iPad]</a> <a href="http://mosh.mit.edu/">[Mosh]</a></li><li>54 метра <a href="http://prog21.dadgum.com/65.html">[1]</a></li><li>Как потратить миллион <a href="http://www.techdirt.com/blog/innovation/articles/20120409/03412518422/why-netflix-never-implemented-algorithm-that-won-netflix-1-million-challenge.shtml">[1]</a></li><li>Будущее уже здесь <a href="http://www.chris-granger.com/2012/04/12/light-table---a-new-ide-concept/">[1]</a></li></ul><table cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><a href="http://razbor-poletov.rucast.net/media/razbor_17.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;">Скачать mp3 бесплатно БЕЗ СМС&nbsp;</td></tr></tbody></table>Наши контакты: <ol><li>Официальный сайт&nbsp;&mdash; <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></li><li>twitter: <a href="http://twitter.com/a_abashev">@a_abashev</a> <a href="http://twitter.com/gamussa">@gamussa</a></li><li>G+: <a href="http://gplus.to/gAmUssA">gplus.to/gAmUssA</a> <a href="http://gplus.to/aabashev">http://gplus.to/aabashev</a> <a href="http://gplus.to/dmitryc">gplus.to/dmitryc</a></li><li>Подписаться по&nbsp;<a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></li></ol><audio preload="none">
   <source src="http://razbor-poletov.rucast.net/media/razbor_16.mp3" type="audio/mp3" />
-  Your browser does not support the audio tag.
-</audio></div>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 15 – Отвечаем на вопросы]]></title>
-    <link href="http://razbor-poletov.com/2012/04/episode-15.html"/>
-    <updated>2012-04-14T00:00:00-04:00</updated>
-    <id>http://razbor-poletov.com/2012/04/episode-15</id>
-    <content type="html"><![CDATA[<div class='post'>
-Не заставляет себя ждать очередной, 15-й выпуск правильного подкаста для IT-шников «Разбор полетов». Сегодня в программе: <ul><li>&#8220;И кое-что задаром&#8221; (с) <a href="http://anykeytocreate.blogspot.com/2012/03/news-flash-player-premium-features.html">[1]</a></li><li>Готовьте ваши паяльники <a href="http://pixelstech.net/article/index.php?id=1333102933">[1]</a></li><li>Как правильно нарезать <a href="http://www.deepakgaikwad.net/index.php/2012/03/27/spring-config-file-best-practices.html">[1]</a></li><li>Меня зовут Джон Крамер и у меня есть для вас игра <a href="http://blog.incubaid.com/2012/03/28/the-game-of-distributed-systems-programming-which-level-are-you/">[1]</a> </li><li>Мозги налево, руки направо <a href="http://www.infoq.com/presentations/Automating-almost-Everything-Using-Git-Gerrit-Hudson-and-Mylyn">[1]</a></li><li>Отряд не заметит потери бойца <a href="http://arstechnica.com/business/news/2012/04/exclusive-a-behind-the-scenes-look-at-facebook-release-engineering.ars">[1]</a>  <a href="http://news.ycombinator.com/item?id=3803026">[2]</a></li></ul><table cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><a href="http://razbor-poletov.rucast.net/media/razbor_15.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;">Скачать mp3 бесплатно БЕЗ СМС&nbsp;</td></tr></tbody></table>Наши контакты: <ol><li>Официальный сайт&nbsp;&mdash; <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></li><li>twitter: <a href="http://twitter.com/a_abashev">@a_abashev</a> <a href="http://twitter.com/gamussa">@gamussa</a></li><li>G+: <a href="http://gplus.to/gAmUssA">gplus.to/gAmUssA</a> <a href="http://gplus.to/aabashev">http://gplus.to/aabashev</a> <a href="http://gplus.to/dmitryc">gplus.to/dmitryc</a></li><li>Подписаться по&nbsp;<a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></li></ol><audio preload="none">
-  <source src="http://razbor-poletov.rucast.net/media/razbor_15.mp3" type="audio/mp3" />
   Your browser does not support the audio tag.
 </audio></div>
 ]]></content>
