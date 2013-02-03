@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2013-01-27T20:24:34-05:00</updated>
+  <updated>2013-02-03T13:00:51-05:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev]]></name>
@@ -12,6 +12,71 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 33 — Special: Московский вояж Амазона]]></title>
+    <link href="http://razbor-poletov.com/2013/02/episode33-aws-event.html"/>
+    <updated>2013-02-03T12:10:00-05:00</updated>
+    <id>http://razbor-poletov.com/2013/02/episode33-aws-event</id>
+    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
+<a href="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_33_text.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="300" src="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_33_text.png" width="300" /></a></div>
+
+
+<p>Мы рады приветствовать Вас на очередном выпуске подкаста «Разбор Полетов». Сегодня у нас в гостях Peter Sirota, general manager Amazon Elastic MapReduce и он нам все расскажет о <a href="http://awsmoscow2013.s3-website-us-east-1.amazonaws.com/">предстоящем событии в Москве и Киеве</a>, которое проводит Amazon в этом году.</p>
+
+<ul>
+<li>Что необходимо сделать чтобы Amazon прислал вам приглашение на собеседование</li>
+<li>Как проходит интервью и какие знания требуются</li>
+<li>Что Amazon может предложить разработчикам</li>
+<li>Зачем столько народу Amazon&#8217;у?</li>
+<li>Внутренняя кухня Amazon&#8217;а</li>
+<li>Что такое &#8220;обрыв&#8221; и как с ним бороться</li>
+<li>Что новенького?</li>
+<li>Тяжело ли жить без конкурентов?</li>
+</ul>
+
+
+<p>Резюме слать сюда: <a href="mailto:emr-jobs@amazon.com">emr-jobs@amazon.com</a></p>
+
+<p>Наши контакты:</p>
+
+<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
+
+<p>twitter:</p>
+
+<ul>
+<li><a href="https://twitter.com/#!/a_abashev">@a_abashev</a></li>
+<li><a href="https://twitter.com/#!/gamussa">@gamussa</a></li>
+</ul>
+
+
+<p>G+:</p>
+
+<ul>
+<li><a href="http://gplus.to/gAmUssA">gplus.to/gAmUssA</a></li>
+<li><a href="http://gplus.to/aabashev">gplus.to/aabashev</a></li>
+<li><a href="http://gplus.to/dmitryc">gplus.to/dmitryc</a></li>
+</ul>
+
+
+<!-- player goes here-->
+
+
+<p><audio preload="none">
+  <source src="http://traffic.libsyn.com/razborpoletov/razbor_33.mp3" type="audio/mp3" />
+  Your browser does not support the audio tag.
+</audio></p>
+
+<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
+
+<!-- episode file link goes here-->
+
+
+<p><a href="http://traffic.libsyn.com/razborpoletov/razbor_33.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
+
+<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 32 — Война миров]]></title>
@@ -512,7 +577,7 @@ The 2013 JavaOne Russia Call-for-Papers is open.  Deadline for submissions is Fe
 
 
 <p><audio preload="none">
-  <source src="http://traffic.libsyn.com/razborpoletov/razbor_27.mp3" type="audio/mp3" />
+  <source src="http://razbor-poletov.rucast.net/media/razbor_27.mp3" type="audio/mp3" />
   Your browser does not support the audio tag.
 </audio></p>
 
@@ -521,7 +586,7 @@ The 2013 JavaOne Russia Call-for-Papers is open.  Deadline for submissions is Fe
 <!-- episode file link goes here-->
 
 
-<p><a href="http://traffic.libsyn.com/razborpoletov/razbor_27.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
+<p><a href="http://razbor-poletov.rucast.net/media/razbor_27.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
 
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
 ]]></content>
@@ -1137,13 +1202,13 @@ The 2013 JavaOne Russia Call-for-Papers is open.  Deadline for submissions is Fe
 <p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a>
 Выпуск уже на <a href="http://habrahabr.ru/post/144328/">Хабре</a></p>
 
-<p><a href="http://razbor-poletov.rucast.net/media/razbor_18.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
+<p><a href="http://traffic.libsyn.com/razborpoletov/razbor_18.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
 
 <!-- player goes here-->
 
 
 <p><audio preload="none">
-  <source src="http://razbor-poletov.rucast.net/media/razbor_18.mp3" type="audio/mp3" />
+  <source src="http://traffic.libsyn.com/razborpoletov/razbor_18.mp3" type="audio/mp3" />
   Your browser does not support the audio tag.
 </audio></p>
 
@@ -1173,19 +1238,6 @@ The 2013 JavaOne Russia Call-for-Papers is open.  Deadline for submissions is Fe
 Наши контакты: <ol><li>Официальный сайт&nbsp;&mdash; <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></li><li>twitter: <a href="http://twitter.com/a_abashev">@a_abashev</a> <a href="http://twitter.com/gamussa">@gamussa</a></li><li>G+: <a href="http://gplus.to/gAmUssA">gplus.to/gAmUssA</a> <a href="http://gplus.to/aabashev">http://gplus.to/aabashev</a></li><li>Подписаться по&nbsp;<a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></li><li>Подкаст на <a href="http://habrahabr.ru/post/143726/">Хабре</a></li></ol><a href="http://razbor-poletov.rucast.net/media/razbor_17.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a><!-- player goes here-->
 <audio preload="none">
   <source src="http://razbor-poletov.rucast.net/media/razbor_17.mp3" type="audio/mp3" />
-  Your browser does not support the audio tag.
-</audio></div>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 16 - ТБ 54м]]></title>
-    <link href="http://razbor-poletov.com/2012/04/episode-16-54.html"/>
-    <updated>2012-04-21T00:00:00-04:00</updated>
-    <id>http://razbor-poletov.com/2012/04/episode-16-54</id>
-    <content type="html"><![CDATA[<div class='post'>
-Встречайте очередной 16-й выпуск подкаста «Разбор Полетов» Сегодня в выпуске: <ul><li>У нас ничего нет, кроме цепей <a href="http://www.engadget.com/2012/04/12/code-cant-be-stolen/">[1]</a></li><li>Если не можешь запомнить - записывай <a href="http://www.infoq.com/articles/in-memory-data-grids">[1]</a></li><li>Полезняшки <a href="http://stackapps.com/questions/3099/stacktrace-for-ipad">[StackTrace for iPad]</a> <a href="http://mosh.mit.edu/">[Mosh]</a></li><li>54 метра <a href="http://prog21.dadgum.com/65.html">[1]</a></li><li>Как потратить миллион <a href="http://www.techdirt.com/blog/innovation/articles/20120409/03412518422/why-netflix-never-implemented-algorithm-that-won-netflix-1-million-challenge.shtml">[1]</a></li><li>Будущее уже здесь <a href="http://www.chris-granger.com/2012/04/12/light-table---a-new-ide-concept/">[1]</a></li></ul><table cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><a href="http://razbor-poletov.rucast.net/media/razbor_17.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;">Скачать mp3 бесплатно БЕЗ СМС&nbsp;</td></tr></tbody></table>Наши контакты: <ol><li>Официальный сайт&nbsp;&mdash; <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></li><li>twitter: <a href="http://twitter.com/a_abashev">@a_abashev</a> <a href="http://twitter.com/gamussa">@gamussa</a></li><li>G+: <a href="http://gplus.to/gAmUssA">gplus.to/gAmUssA</a> <a href="http://gplus.to/aabashev">http://gplus.to/aabashev</a> <a href="http://gplus.to/dmitryc">gplus.to/dmitryc</a></li><li>Подписаться по&nbsp;<a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></li></ol><audio preload="none">
-  <source src="http://razbor-poletov.rucast.net/media/razbor_16.mp3" type="audio/mp3" />
   Your browser does not support the audio tag.
 </audio></div>
 ]]></content>
