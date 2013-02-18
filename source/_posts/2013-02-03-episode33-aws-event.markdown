@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Episode 33 – Special: Московский вояж Амазона"
+title: "Episode 33 — Special: Московский вояж Амазона"
 date: 2013-02-03 12:10
 comments: true
 categories: 
