@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2013-02-18T13:36:30-05:00</updated>
+  <updated>2013-02-21T00:01:36-05:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev]]></name>
@@ -12,6 +12,90 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode-34]]></title>
+    <link href="http://razbor-poletov.com/2013/02/episode-34.html"/>
+    <updated>2013-02-20T17:11:00-05:00</updated>
+    <id>http://razbor-poletov.com/2013/02/episode-34</id>
+    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
+<a href="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_33_text.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_34_text.png" width="350" /></a></div>
+
+
+<ul>
+<li><a href="http://www.theregister.co.uk/2013/02/07/home_lab_career_saver/">Почему надо сделать лабу</a></li>
+<li><a href="http://blog.enoughtobedanger.us/caching-for-beginners/">Кэширование для начинающих</a></li>
+<li>Полезняшка
+
+<ul>
+<li><a href="https://github.com/alvins82/java-mini-profiler-core">Java Mini Profiler</a></li>
+<li><a href="https://saucelabs.com">SouceLabs</a></li>
+<li><a href="http://squash.io">Squash.io</a></li>
+</ul>
+</li>
+<li><a href="http://www.javaadvent.com/2012/12/functional-java-collections.html">Функциональные коллекции</a> <a href="http://plumbr.eu/blog/selecting-your-collections-library">и не только</a></li>
+</ul>
+
+
+<p><strong>Внимание! Конференции!</strong></p>
+
+<p><a href="http://javaone.ru">JavaOne Россия</a></p>
+
+<ul>
+<li>Official event hashtag is: #JavaOneRussia</li>
+<li>Official twitter of the event is: @JavaOneRussia</li>
+</ul>
+
+
+<p><a href="http://jeeconf.com">JEE Conf</a> - Конференция Java практиков в Украине</p>
+
+<ul>
+<li><a href="https://docs.google.com/spreadsheet/viewform?formkey=dHR5NjhBU2M3OVQyX1djV29fY0FSbXc6MA">Call for papers open till April, 6</a></li>
+<li><a href="http://jeeconf.com/speakers/">Speakers</a></li>
+</ul>
+
+
+<p>Наши контакты:</p>
+
+<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
+
+<p>twitter:</p>
+
+<ul>
+<li><a href="https://twitter.com/#!/a_abashev">@a_abashev</a></li>
+<li><a href="https://twitter.com/#!/gamussa">@gamussa</a></li>
+<li><a href="https://twitter.com/#!/jbaruch">@jbaruch</a></li>
+</ul>
+
+
+<p>G+:</p>
+
+<ul>
+<li><a href="http://gplus.to/gAmUssA">gplus.to/gAmUssA</a></li>
+<li><a href="http://gplus.to/aabashev">gplus.to/aabashev</a></li>
+<li><a href="http://gplus.to/dmitryc">gplus.to/dmitryc</a></li>
+<li><a href="https://plus.google.com/104301617063075159178">gplus.to/jbaruch</a></li>
+</ul>
+
+
+<!-- player goes here-->
+
+
+<p><audio preload="none">
+  <source src="http://traffic.libsyn.com/razborpoletov/razbor_34.mp3" type="audio/mp3" />
+  Your browser does not support the audio tag.
+</audio></p>
+
+<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
+
+<!-- episode file link goes here-->
+
+
+<p><a href="http://traffic.libsyn.com/razborpoletov/razbor_34.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
+
+<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 33 — Special: Московский вояж Амазона]]></title>
@@ -577,7 +661,7 @@ The 2013 JavaOne Russia Call-for-Papers is open.  Deadline for submissions is Fe
 
 
 <p><audio preload="none">
-  <source src="http://razbor-poletov.rucast.net/media/razbor_27.mp3" type="audio/mp3" />
+  <source src="http://traffic.libsyn.com/razborpoletov/razbor_27.mp3" type="audio/mp3" />
   Your browser does not support the audio tag.
 </audio></p>
 
@@ -586,7 +670,7 @@ The 2013 JavaOne Russia Call-for-Papers is open.  Deadline for submissions is Fe
 <!-- episode file link goes here-->
 
 
-<p><a href="http://razbor-poletov.rucast.net/media/razbor_27.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
+<p><a href="http://traffic.libsyn.com/razborpoletov/razbor_27.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
 
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
 ]]></content>
@@ -1213,33 +1297,6 @@ The 2013 JavaOne Russia Call-for-Papers is open.  Deadline for submissions is Fe
 </audio></p>
 
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 17 — Иногда они возвращаются...]]></title>
-    <link href="http://razbor-poletov.com/2012/05/episode-17.html"/>
-    <updated>2012-05-12T00:00:00-04:00</updated>
-    <id>http://razbor-poletov.com/2012/05/episode-17</id>
-    <content type="html"><![CDATA[<div class='post'>
-Все привет! Редакция подкаста &laquo;Разбор Полетов&raquo; рада представить Вам очередной <nobr>17-й</nobr> выпуск, в&nbsp;котором мы&nbsp;расскажем Вам:
-<p>
-<ul>
-<li>Отчет Алексея по JavaOne Russia и по SpringOne</li>
-<li>И еще про вот <a href="http://www.oracle.com/technetwork/java/javase/downloads/jdk-for-mac-readme-1564562.html">это</a> и <a href="http://www.oracle.com/technetwork/java/javase/downloads/jdk-for-mac-readme-1564562.html">это</a></li>
-<li>Проедемся по микрософту <a href="http://richardminerich.com/2012/04/what-microsoft-mvp-means-to-me/">[1]</a> <a href="http://davybrion.com/blog/2012/04/most-valuable-professionals-give-me-a-break/">[2]</a> <a href="http://karenx.com/blog/im-leaving-microsoft/">[3]</a></li>
-<li>Полезняшки
-<ul>
-<li>Vertx <a href="http://vertx.io/">[1]</a> <a href="https://github.com/purplefox/vert.x">[2]</a></li>
-<li>MonjaDB <a href="http://www.jumperz.net/index.php?i=2&amp;a=0&amp;b=9">[1]</a></li>
-</ul></li>
-<li>Жбосс: швидкий як качка <a href="http://in.relation.to/Bloggers/WhyIsJBossAS7SoFast">[1]</a></li>
-</ul></p>
-Наши контакты: <ol><li>Официальный сайт&nbsp;&mdash; <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></li><li>twitter: <a href="http://twitter.com/a_abashev">@a_abashev</a> <a href="http://twitter.com/gamussa">@gamussa</a></li><li>G+: <a href="http://gplus.to/gAmUssA">gplus.to/gAmUssA</a> <a href="http://gplus.to/aabashev">http://gplus.to/aabashev</a></li><li>Подписаться по&nbsp;<a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></li><li>Подкаст на <a href="http://habrahabr.ru/post/143726/">Хабре</a></li></ol><a href="http://razbor-poletov.rucast.net/media/razbor_17.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a><!-- player goes here-->
-<audio preload="none">
-  <source src="http://razbor-poletov.rucast.net/media/razbor_17.mp3" type="audio/mp3" />
-  Your browser does not support the audio tag.
-</audio></div>
 ]]></content>
   </entry>
   
