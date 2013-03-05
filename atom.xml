@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2013-03-04T22:30:45-05:00</updated>
+  <updated>2013-03-04T23:48:27-05:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev]]></name>
@@ -29,7 +29,7 @@
 <ul>
 <li><a href="http://tin.cr/">http://tin.cr/</a></li>
 <li><a href="https://github.com/google/tracing-framework">WTF - Web Tracing Framework</a></li>
-<li><a href="http://www.jetbrains.com/webstorm/nextversion/index.html">Новый WebStorm уже скоро будет здесь </a></li>
+<li><a href="http://www.jetbrains.com/webstorm/nextversion/index.html">Новый WebStorm уже скоро будет здесь </a> <a href="http://blog.jetbrains.com/webide/2013/03/file-watchers-in-webstormphpstorm-6-a-k-a-background-tasks/">и вот что он может</a></li>
 </ul>
 </li>
 <li><a href="http://news.dartlang.org/2013/02/dart-with-google-web-toolkit.html?m=1">Dart with Google Web Toolkit</a></li>
