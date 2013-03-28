@@ -1,0 +1,74 @@
+---
+layout: post
+title: "Episode 36 — Developer, Matrix has you!"
+date: 2013-03-28 11:07
+comments: true
+categories: 
+---
+
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_36_text.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_36_text.png" width="350" /></a></div>
+
+- [Матрица (не)компетенций программиста](http://www.indiangeek.net/wp-content/uploads/Programmer%20competency%20matrix.htm
+)
+- [Notes on Distributed Systems for Young Bloods](http://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
+- Полезняшки
+    - [FEST Fluent Assertions 2.x](https://github.com/alexruiz/fest-assert-2.x) 
+    - Firefox jsTerm [1](http://paulrouget.com/e/fxterminalv3/) [2](https://github.com/paulrouget/firefox-jsterm)
+- [NoSQL и Big Data – обман трудящихся?](http://habrahabr.ru/company/jelastic/blog/166845/)
+- [Github flow for personal projects](http://webreflection.blogspot.com/2013/02/my-personal-github-flow.html)
+
+---
+
+**Внимание! Конференции!**
+
+[HTML5DevConf](http://html5devconf.com/) - Конференция front-end разработчиков в San Francisco, CA
+
+- 2-го Апреля [выступает](http://html5devconf.com/sessions.html#v_gamov) [Ваш покорный слуга](http://html5devconf.com/speakers.html#v_gamov)
+
+[JEE Conf](http://jeeconf.com) - Конференция Java практиков в Украине
+
+- [Call for papers open till April, 6](https://docs.google.com/spreadsheet/viewform?formkey=dHR5NjhBU2M3OVQyX1djV29fY0FSbXc6MA)
+- [Speakers](http://jeeconf.com/speakers/)
+
+[JavaOne](http://www.oracle.com/javaone/index.html)
+
+- [Call For Proposal open till April, 12](http://www.oracle.com/javaone/call-for-papers/information/index.html)
+
+[JavaOne Россия](http://javaone.ru)
+
+- Official event hashtag is: #[JavaOneRussia](https://twitter.com/search?q=%23JavaOneRussia)
+- Official twitter of the event is: [@JavaOneRussia](https://twitter.com/JavaOneRussia) 
+
+---
+
+Наши контакты:
+
+Официальный сайт — [http://razbor-poletov.com](http://razbor-poletov.com)
+
+Гости и участники:
+
+twitter: 
+
+ * [@a_abashev](https://twitter.com/#!/a_abashev) 
+ * [@gamussa](https://twitter.com/#!/gamussa)
+
+G+:
+
+ * [gplus.to/gAmUssA](http://gplus.to/gAmUssA) 
+ * [gplus.to/aabashev](http://gplus.to/aabashev) 
+ * [gplus.to/dmitryc](http://gplus.to/dmitryc)
+
+<!-- player goes here-->
+
+<audio preload="none">
+  <source src="http://traffic.libsyn.com/razborpoletov/razbor_36.mp3" type="audio/mp3" />
+  Your browser does not support the audio tag.
+</audio>
+
+Подписаться по [RSS](http://feeds.feedburner.com/razbor-podcast)
+
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_36.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+
+Музыка ведущим [предоставлена](http://www.audiobank.fm/single-music/27/111/More-And-Less/) и ладно...
