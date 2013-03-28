@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2013-03-28T13:27:54-04:00</updated>
+  <updated>2013-03-28T13:31:56-04:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev]]></name>
@@ -1096,7 +1096,7 @@ The 2013 JavaOne Russia Call-for-Papers is open.  Deadline for submissions is Fe
 
 
 <p><audio preload="none">
-  <source src="http://razbor-poletov.rucast.net/media/razbor_24.mp3" type="audio/mp3" />
+  <source src="http://traffic.libsyn.com/razborpoletov/razbor_24.mp3" type="audio/mp3" />
   Your browser does not support the audio tag.
 </audio></p>
 
@@ -1110,7 +1110,7 @@ The 2013 JavaOne Russia Call-for-Papers is open.  Deadline for submissions is Fe
 <!-- episode file link goes here-->
 
 
-<p><a href="http://razbor-poletov.rucast.net/media/razbor_24.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" title="скачать mp3" alt="скачать mp3" /></a></p>
+<p><a href="http://traffic.libsyn.com/razborpoletov/razbor_24.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" title="скачать mp3" alt="скачать mp3" /></a></p>
 
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
 ]]></content>
