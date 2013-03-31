@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2013-03-28T13:31:56-04:00</updated>
+  <updated>2013-03-31T14:35:58-04:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev]]></name>
@@ -12,6 +12,107 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 37 — А ты прошел интервью в Google ?!]]></title>
+    <link href="http://razbor-poletov.com/2013/03/episode-37.html"/>
+    <updated>2013-03-31T10:43:00-04:00</updated>
+    <id>http://razbor-poletov.com/2013/03/episode-37</id>
+    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
+<a href="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_37_text.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_37_text.png" width="350" /></a></div>
+
+
+<ul>
+<li>Google открывает для себя новую бизнес нишу - <a href="http://www.businessinsider.com/ex-googlers-facebook-graph-search-2013-1">рекрутинг</a>. Каждый новый сотрудник в свой первый день получает специальный талон, что он теперь официально &#8220;прокачен&#8221; и должен приниматься в любую IT компанию Кремниевой долины или Нью-Йорка без собеседования.</li>
+<li>Мартин Одерски, известный как автор Scala, написал в своем блоге, что очень многому научился при написании этого языка и этот фундамент поможет ему в разработке <a href="http://www.scala-lang.org/node/143#talks">нового языка программирования</a>.</li>
+<li>Полезняшка:
+
+<ul>
+<li> Некто <a href="https://github.com/huan/">Huan</a> выложил проект, который он один писал 5 лет - точная и полная реализация всех пользовательских проектов от Google.</li>
+</ul>
+</li>
+<li><a href="http://www.codinghorror.com/blog/2012/07/new-programming-jargon.html">Новый программистский жаргон</a></li>
+</ul>
+
+
+<hr />
+
+<p><strong>Внимание! Конференции!</strong></p>
+
+<p><a href="http://html5devconf.com/">HTML5DevConf</a> - Конференция front-end разработчиков в San Francisco, CA</p>
+
+<ul>
+<li>2-го Апреля <a href="http://html5devconf.com/sessions.html#v_gamov">выступает</a> <a href="http://html5devconf.com/speakers.html#v_gamov">Ваш покорный слуга</a></li>
+</ul>
+
+
+<p><a href="http://jeeconf.com">JEE Conf</a> - Конференция Java практиков в Украине</p>
+
+<ul>
+<li><a href="https://docs.google.com/spreadsheet/viewform?formkey=dHR5NjhBU2M3OVQyX1djV29fY0FSbXc6MA">Call for papers open till April, 6</a></li>
+<li><a href="http://jeeconf.com/speakers/">Speakers</a></li>
+</ul>
+
+
+<p><a href="http://www.oracle.com/javaone/index.html">JavaOne</a></p>
+
+<ul>
+<li><a href="http://www.oracle.com/javaone/call-for-papers/information/index.html">Call For Proposal open till April, 12</a></li>
+</ul>
+
+
+<p><a href="http://javaone.ru">JavaOne Россия</a></p>
+
+<ul>
+<li>Official event hashtag is: #<a href="https://twitter.com/search?q=%23JavaOneRussia">JavaOneRussia</a></li>
+<li>Official twitter of the event is: <a href="https://twitter.com/JavaOneRussia">@JavaOneRussia</a></li>
+</ul>
+
+
+<hr />
+
+<p>Наши контакты:</p>
+
+<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
+
+<p>Гости и участники:</p>
+
+<p>twitter:</p>
+
+<ul>
+<li><a href="https://twitter.com/#!/a_abashev">@a_abashev</a></li>
+<li><a href="https://twitter.com/#!/gamussa">@gamussa</a></li>
+<li><a href="https://twitter.com/antonarhipov">@antonarhipov</a></li>
+</ul>
+
+
+<p>G+:</p>
+
+<ul>
+<li><a href="http://gplus.to/gAmUssA">gplus.to/gAmUssA</a></li>
+<li><a href="http://gplus.to/aabashev">gplus.to/aabashev</a></li>
+<li><a href="http://gplus.to/dmitryc">gplus.to/dmitryc</a></li>
+</ul>
+
+
+<!-- player goes here-->
+
+
+<p><audio preload="none">
+  <source src="http://traffic.libsyn.com/razborpoletov/razbor_37.mp3" type="audio/mp3" />
+  Your browser does not support the audio tag.
+</audio></p>
+
+<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
+
+<!-- episode file link goes here-->
+
+
+<p><a href="http://traffic.libsyn.com/razborpoletov/razbor_37.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
+
+<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 36 — Developer, Matrix has you!]]></title>
@@ -1342,71 +1443,6 @@ The 2013 JavaOne Russia Call-for-Papers is open.  Deadline for submissions is Fe
 
 
 <p><a href="http://razbor-poletov.rucast.net/media/razbor_21.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
-
-<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 20 — Программисты-оптимисты]]></title>
-    <link href="http://razbor-poletov.com/2012/06/episode-20.html"/>
-    <updated>2012-06-09T16:50:00-04:00</updated>
-    <id>http://razbor-poletov.com/2012/06/episode-20</id>
-    <content type="html"><![CDATA[<p><a href="https://lh6.googleusercontent.com/-E9NizWkWsBk/T7PpJBkhIEI/AAAAAAAAIN8/NbFPu__zcpg/s542/12+-+1" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 2em; padding-right: 2em"><img border="0" height="320" src="https://lh6.googleusercontent.com/-E9NizWkWsBk/T7PpJBkhIEI/AAAAAAAAIN8/NbFPu__zcpg/s320/12+-+1" width="320" /></a></p>
-
-<p>Представляем Вашему вниманию юбилейный двадцатый выпуск подкаста «Разбор Полетов», в котором мы говорим о событиях и технологиях, которые взволновали нас на этой неделе, и будут волновать Вас!
-В сегодняшнем выпуске мы поговорим:</p>
-
-<ol>
-<li><p><a href="http://habrahabr.ru/post/144110/">Начало конца</a></p></li>
-<li><p><a href="http://tataryn.net/2011/11/java8-lambda-expressions-perhaps-not-as-sexy-as-intended/">I&#8217;m too sexy for my shirt</a></p></li>
-<li><p>Полезняшки</p>
-
-<ul>
-<li><a href="https://github.com/foursquare/fongo">https://github.com/foursquare/fongo</a></li>
-<li>Dependency Injection Styles <a href="http://cbeams.github.com/distyles/">[slides]</a> <a href="https://github.com/cbeams/distyles">[code]</a></li>
-<li><a href="http://www.manning.com/walls4/">Spring in Action</a></li>
-</ul>
-</li>
-<li><p><a href="http://swizec.com/blog/programmers-are-optimists/swizec/4509">Программисты-оптимисты</a></p></li>
-<li><p><a href="http://net.tutsplus.com/tutorials/tools-and-tips/3-key-software-principles-you-must-understand/">Эти принципы я впитал с молотком матери</a></p></li>
-</ol>
-
-
-<p>Наши контакты:</p>
-
-<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
-
-<p>twitter:</p>
-
-<ul>
-<li><a href="https://twitter.com/#!/a_abashev">@a_abashev</a></li>
-<li><a href="https://twitter.com/#!/gamussa">@gamussa</a></li>
-</ul>
-
-
-<p>G+:</p>
-
-<ul>
-<li><a href="http://gplus.to/gAmUssA">gplus.to/gAmUssA</a></li>
-<li><a href="http://gplus.to/aabashev">gplus.to/aabashev</a></li>
-<li><a href="http://gplus.to/dmitryc">gplus.to/dmitryc</a></li>
-</ul>
-
-
-<!-- player goes here-->
-
-
-<p><audio preload="none">
-  <source src="http://razbor-poletov.rucast.net/media/razbor_20.mp3" type="audio/mp3" />
-  Your browser does not support the audio tag.
-</audio></p>
-
-<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
-
-<p>Выпуск уже на <a href="http://habrahabr.ru/post/145587/">Хабре</a></p>
-
-<p><a href="http://razbor-poletov.rucast.net/media/razbor_20.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
 
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
 ]]></content>
