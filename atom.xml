@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2013-05-14T20:47:46-04:00</updated>
+  <updated>2013-05-14T21:01:45-04:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev]]></name>
@@ -24,6 +24,7 @@
 
 
 <ul>
+<li>Новый логотип. Спасибо <a href="http://d-vision.kz/">D-Vision</a>!</li>
 <li>Вести с полей (одной строкой)
 
 <ul>
