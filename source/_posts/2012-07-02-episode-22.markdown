@@ -44,7 +44,7 @@ G+:
 
 <!-- player goes here-->
 <audio preload="none">
-  <source src="http://razbor-poletov.rucast.net/media/razbor_22.mp3" type="audio/mp3" />
+  <source src="http://traffic.libsyn.com/razborpoletov/razbor_22.mp3" type="audio/mp3" />
   Your browser does not support the audio tag.
 </audio>
 
@@ -52,7 +52,7 @@ G+:
 <!-- habralink goes here-->
 Выпуск уже на [Хабре](http://habrahabr.ru/post/147161/)
 <!-- episode file link goes here-->
-<a href="http://razbor-poletov.rucast.net/media/razbor_22.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_22.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
 
 Музыка ведущим [предоставлена](http://www.audiobank.fm/single-music/27/111/More-And-Less/) и ладно...
 
