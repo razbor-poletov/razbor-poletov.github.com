@@ -1,0 +1,57 @@
+---
+layout: post
+title: "Episode 41 — "
+date: 2013-06-16 21:41
+comments: true
+categories: 
+---
+
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_41_text.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_41_text.png" width="350" /></a>
+</div>
+
+* [Машинариум](http://www.infoq.com/presentations/JVM-Mechanics)
+* [Java не тормозит ©](http://www.infoq.com/articles/9_Fallacies_Java_Performance)
+* [Братва, не стреляйте в друг друга ©](http://www.thingist.com/item/4372/)
+* [Проверь реакцию](http://blog.springsource.org/2013/05/13/reactor-a-foundation-for-asynchronous-applications-on-the-jvm/
+)
+* полезняшка
+	* [http://jnario.org/](http://jnario.org/) 	
+    * [HermesJSM](http://www.hermesjms.com/confluence/display/HJMS/Home)
+    * [SQl Joins](https://lh6.googleusercontent.com/-yCF8ozFNypQ/UWawXy7vg3I/AAAAAAAAAkM/tXcV3HupLFE/w966-h760-no/BHVicYICMAAdHGv.jpg)
+* [В компании мечты](http://lifehacker.com/how-to-find-out-if-a-company-is-a-cultural-fit-for-you-510587663)
+
+
+Наши контакты:
+
+Официальный сайт — [http://razbor-poletov.com](http://razbor-poletov.com)
+
+Гости и участники:
+
+twitter: 
+
+ * [@a_abashev](https://twitter.com/#!/a_abashev) 
+ * [@gamussa](https://twitter.com/#!/gamussa)
+ * [@jbaruch](https://twitter.com/#!/jbaruch)
+ * [@antonarhipov](https://twitter.com/#!/antonarhipov)
+ * [@sbozhko](https://twitter.com/#!/sbozhko)
+
+G+:
+
+ * [gplus.to/gAmUssA](http://gplus.to/gAmUssA) 
+ * [gplus.to/aabashev](http://gplus.to/aabashev) 
+ * [gplus.to/dmitryc](http://gplus.to/dmitryc)
+
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_41.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+
+Подписаться по [RSS](http://feeds.feedburner.com/razbor-podcast)
+
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_41.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+
+Музыка ведущим [предоставлена](http://www.audiobank.fm/single-music/27/111/More-And-Less/) и ладно...
