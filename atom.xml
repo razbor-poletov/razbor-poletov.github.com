@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2013-06-07T20:38:56-04:00</updated>
+  <updated>2013-06-18T19:58:43-04:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev]]></name>
@@ -12,6 +12,78 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 41 — Исход из Интерпрайза]]></title>
+    <link href="http://razbor-poletov.com/2013/06/episode-41.html"/>
+    <updated>2013-06-16T21:41:00-04:00</updated>
+    <id>http://razbor-poletov.com/2013/06/episode-41</id>
+    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
+<a href="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_41_text.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_41_text.png" width="350" /></a>
+</div>
+
+
+<ul>
+<li><a href="http://www.infoq.com/presentations/JVM-Mechanics">Машинариум</a></li>
+<li><a href="http://www.infoq.com/articles/9_Fallacies_Java_Performance">Java не тормозит ©</a></li>
+<li><a href="http://www.thingist.com/item/4372/">Братва, не стреляйте в друг друга ©</a></li>
+<li><a href="http://blog.springsource.org/2013/05/13/reactor-a-foundation-for-asynchronous-applications-on-the-jvm/">Проверь реакцию</a></li>
+<li>полезняшка
+
+<ul>
+<li><a href="http://jnario.org/">http://jnario.org/</a></li>
+<li><a href="http://www.hermesjms.com/confluence/display/HJMS/Home">HermesJSM</a></li>
+<li><a href="https://lh6.googleusercontent.com/-yCF8ozFNypQ/UWawXy7vg3I/AAAAAAAAAkM/tXcV3HupLFE/w966-h760-no/BHVicYICMAAdHGv.jpg">SQl Joins</a></li>
+</ul>
+</li>
+<li><a href="http://lifehacker.com/how-to-find-out-if-a-company-is-a-cultural-fit-for-you-510587663">В компании мечты</a></li>
+</ul>
+
+
+<p>Наши контакты:</p>
+
+<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
+
+<p>Гости и участники:</p>
+
+<p>twitter:</p>
+
+<ul>
+<li><a href="https://twitter.com/#!/a_abashev">@a_abashev</a></li>
+<li><a href="https://twitter.com/#!/gamussa">@gamussa</a></li>
+<li><a href="https://twitter.com/#!/jbaruch">@jbaruch</a></li>
+<li><a href="https://twitter.com/#!/antonarhipov">@antonarhipov</a></li>
+<li><a href="https://twitter.com/#!/sbozhko">@sbozhko</a></li>
+</ul>
+
+
+<p>G+:</p>
+
+<ul>
+<li><a href="http://gplus.to/gAmUssA">gplus.to/gAmUssA</a></li>
+<li><a href="http://gplus.to/aabashev">gplus.to/aabashev</a></li>
+<li><a href="http://gplus.to/dmitryc">gplus.to/dmitryc</a></li>
+</ul>
+
+
+<!-- player goes here-->
+
+
+<p><audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_41.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio></p>
+
+<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
+
+<!-- episode file link goes here-->
+
+
+<p><a href="http://traffic.libsyn.com/razborpoletov/razbor_41.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
+
+<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 40 — A Short Version]]></title>
@@ -36,8 +108,6 @@
 <p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
 
 <p>Гости и участники:</p>
-
-<p>twitter:</p>
 
 <p>twitter:</p>
 
