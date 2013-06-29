@@ -17,7 +17,7 @@ categories:
 )
 * полезняшка
 	* [http://jnario.org/](http://jnario.org/) 	
-    * [HermesJSM](http://www.hermesjms.com/confluence/display/HJMS/Home)
+    * [HermesJMS](http://www.hermesjms.com/confluence/display/HJMS/Home)
     * [SQl Joins](https://lh6.googleusercontent.com/-yCF8ozFNypQ/UWawXy7vg3I/AAAAAAAAAkM/tXcV3HupLFE/w966-h760-no/BHVicYICMAAdHGv.jpg)
 * [В компании мечты](http://lifehacker.com/how-to-find-out-if-a-company-is-a-cultural-fit-for-you-510587663)
 
