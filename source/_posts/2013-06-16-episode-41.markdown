@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Episode 41 — "
+title: "Episode 41 — Исход из Интерпрайза"
 date: 2013-06-16 21:41
 comments: true
 categories: 
