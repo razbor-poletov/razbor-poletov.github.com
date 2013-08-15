@@ -1,0 +1,51 @@
+---
+layout: post
+title: "episode-42"
+date: 2013-08-15 17:24
+comments: true
+categories: 
+---
+
+
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_42_text.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_42_text.png" width="350" /></a>
+</div>
+
+* [Про то как Google погрузился в ...](http://habrahabr.ru/post/184008/ )
+* [Они заполоняют](http://www.infoq.com/news/2013/06/eclipse-github)
+* Полезняшки
+	* [Togglz](http://www.togglz.org/quickstart.html), http://martinfowler.com/bliki/FeatureToggle.html
+	* [комент от слушателя](http://razbor-poletov.com/2013/04/episode-38.html#comment-942552779) 
+	* https://developers.google.com/chrome-developer-tools/docs/tips-and-tricks
+* [We are russians](http://habrahabr.ru/company/scrumtrek/blog/185334/)
+
+Наши контакты:
+
+Официальный сайт — [http://razbor-poletov.com](http://razbor-poletov.com)
+
+Гости и участники:
+
+twitter: 
+
+ * [@a_abashev](https://twitter.com/#!/a_abashev) 
+ * [@gamussa](https://twitter.com/#!/gamussa)
+
+G+:
+
+ * [gplus.to/gAmUssA](http://gplus.to/gAmUssA) 
+ * [gplus.to/aabashev](http://gplus.to/aabashev) 
+ * [gplus.to/dmitryc](http://gplus.to/dmitryc)
+
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_42.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+
+Подписаться по [RSS](http://feeds.feedburner.com/razbor-podcast)
+
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_42.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+
+Музыка ведущим [предоставлена](http://www.audiobank.fm/single-music/27/111/More-And-Less/) и ладно...
