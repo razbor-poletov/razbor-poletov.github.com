@@ -11,6 +11,7 @@ categories:
 <a href="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_42_text.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_42_text.png" width="350" /></a>
 </div>
 
+* Cпасибо слушателям за помощь!
 * [Про то как Google погрузился в ...](http://habrahabr.ru/post/184008/ )
 * [Они заполоняют](http://www.infoq.com/news/2013/06/eclipse-github)
 * Полезняшки
