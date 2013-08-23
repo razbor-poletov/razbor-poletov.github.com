@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "episode-42"
+title: "Episode 42 — Отряд не заметил потери бойца"
 date: 2013-08-15 17:24
 comments: true
 categories: 
@@ -15,9 +15,9 @@ categories:
 * [Про то как Google погрузился в ...](http://habrahabr.ru/post/184008/ )
 * [Они заполоняют](http://www.infoq.com/news/2013/06/eclipse-github)
 * Полезняшки
-	* [Togglz](http://www.togglz.org/quickstart.html), http://martinfowler.com/bliki/FeatureToggle.html
+	* [Togglz](http://www.togglz.org/quickstart.html), [Feature Toggle](http://martinfowler.com/bliki/FeatureToggle.html).
 	* [комент от слушателя](http://razbor-poletov.com/2013/04/episode-38.html#comment-942552779) 
-	* https://developers.google.com/chrome-developer-tools/docs/tips-and-tricks
+	* [Chrome DevTools Cheat Sheet](https://developers.google.com/chrome-developer-tools/docs/tips-and-tricks)
 * [We are russians](http://habrahabr.ru/company/scrumtrek/blog/185334/)
 
 Наши контакты:
