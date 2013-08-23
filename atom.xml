@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2013-08-23T15:56:23-04:00</updated>
+  <updated>2013-08-23T18:16:22-04:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Episode 43 - Диалоги о JetBrains]]></title>
+    <title type="html"><![CDATA[Episode 43 — Диалоги о JetBrains]]></title>
     <link href="http://razbor-poletov.com/2013/08/episode-43.html"/>
     <updated>2013-08-23T14:41:00-04:00</updated>
     <id>http://razbor-poletov.com/2013/08/episode-43</id>
@@ -37,10 +37,12 @@
 <li>C++ IDE</li>
 <li>MPS <a href="http://mbeddr.wordpress.com/">1</a></li>
 <li>Kotlin <a href="http://johnlindquist.com/">1</a> <a href="http://icfpc2013.cloudapp.net/">2</a></li>
+<li><a href="http://www.jetbrains.com/jetbrainsday/">JetBrains Day</a></li>
 <li>Треп за IDE <a href="http://www.youtube.com/watch?v=xAP8CSMEwZ8">1</a></li>
 </ul>
 </li>
 <li><a href="https://plus.google.com/117481599451076280717/posts/AKtJC1bZZnT">вопросы слушателей</a></li>
+<li>ИНСАЙДЫ!!!</li>
 </ul>
 
 
