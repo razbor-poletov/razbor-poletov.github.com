@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Episode 43 - Диалоги о JetBrains"
+title: "Episode 43 — Диалоги о JetBrains"
 date: 2013-08-23 14:41
 comments: true
 categories: 
@@ -21,8 +21,10 @@ categories:
 	* C++ IDE
 	* MPS [1](http://mbeddr.wordpress.com/) 
 	* Kotlin [1](http://johnlindquist.com/) [2](http://icfpc2013.cloudapp.net/)
+	* [JetBrains Day](http://www.jetbrains.com/jetbrainsday/)
 	* Треп за IDE [1](http://www.youtube.com/watch?v=xAP8CSMEwZ8)
 *  [вопросы слушателей](https://plus.google.com/117481599451076280717/posts/AKtJC1bZZnT)
+*  ИНСАЙДЫ!!!
 
 Наши контакты:
 
