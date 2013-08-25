@@ -27,7 +27,9 @@
   <script src="/javascripts/ender.js"></script>
   <script src="/javascripts/octopress.js" type="text/javascript"></script>
   <link href="http://feeds.feedburner.com/razbor-podcast" rel="alternate" title="Подкаст «Разбор Полетов»" type="application/atom+xml">
-  <script src="/javascripts/audiojs/audio.min.js" type="text/javascript"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script src="/javascripts/mediaelement/mediaelement-and-player.min.js" type="text/javascript"></script>
+<link rel="stylesheet" href="/javascripts/mediaelement/mediaelementplayer.min.css" />
 <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
 <link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
 <link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
@@ -39,9 +41,13 @@
 <!-- G+ validation-->
 <link href="https://plus.google.com/106834666485863668012" rel="publisher"/>
 <script>
-  audiojs.events.ready(function() {
-    var as = audiojs.createAll();
+$(document).ready(function() {
+  $('video,audio').mediaelementplayer({
+      audioWidth: 500,
+      audioHeight: 30,
+      startVolume: 0.8
   });
+});
 </script>
 
   
