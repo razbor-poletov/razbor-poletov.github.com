@@ -1,4 +1,4 @@
-function getNav() {
+;function getNav() {
   var mobileNav = $('nav[role=navigation] fieldset[role=search]').after('<fieldset class="mobile-nav"></fieldset>').next().append('<select></select>');
   mobileNav.children('select').append('<option value="">Navigate&hellip;</option>');
   $('ul[role=main-navigation]').addClass('main-navigation');
