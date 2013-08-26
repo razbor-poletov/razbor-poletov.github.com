@@ -21,7 +21,7 @@ module Jekyll
     end
 
     def render(context)
-      if parts = @text.match(/([\d]*) (.*)/)
+      if parts = @text.match(/([a-zA-Z\d]*) (.*)/)
         gist, file = parts[1].strip, parts[2].strip
         script_url = script_url_for gist, file
         code       = get_cached_gist(gist, file) || get_gist_from_web(gist, file)
@@ -40,7 +40,9 @@ module Jekyll
     end
 
     def script_url_for(gist_id, filename)
-      "https://gist.github.com/#{gist_id}.js?file=#{filename}"
+      url = "https://gist.github.com/#{gist_id}.js"
+      url = "#{url}?file=#{filename}" unless filename.nil? or filename.empty?
+      url
     end
 
     def get_gist_url_for(gist, file)
@@ -82,6 +84,9 @@ module Jekyll
       https.verify_mode = OpenSSL::SSL::VERIFY_NONE
       request           = Net::HTTP::Get.new raw_uri.request_uri
       data              = https.request request
+      if data.code.to_i != 200
+        raise RuntimeError, "Gist replied with #{data.code} for #{gist_url}"
+      end
       data              = data.body
       cache gist, file, data unless @cache_disabled
       data
