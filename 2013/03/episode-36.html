@@ -38,7 +38,13 @@ Firefox jsTerm 1 2 NoSQL и &hellip;">
 <link href='http://fonts.googleapis.com/css?family=Open+Sans&subset=latin,cyrillic-ext,cyrillic' rel='stylesheet' type='text/css'>
 
 <!-- Place this tag in the <head> of your document -->
-<script type="text/javascript" src="https://apis.google.com/js/plusone.js">{lang: 'en'}</script>
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
 <!-- G+ validation-->
 <link href="https://plus.google.com/106834666485863668012" rel="publisher"/>
 <script>
