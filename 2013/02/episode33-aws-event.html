@@ -20,8 +20,25 @@
   
   <link rel="canonical" href="http://razbor-poletov.com/2013/02/episode33-aws-event.html">
   <link href="/favicon.png" rel="icon">
-  <link href="/stylesheets/all.1308252241.css" media="screen, projection" rel="stylesheet" type="text/css">
-  <script src="/javascripts/all.1308252241.js"></script>
+  <link href="/stylesheets/all.1308252244.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <script type="text/javascript">
+  // Add a script element as a child of the body
+
+  function downloadJSAtOnload() {
+      var element = document.createElement("script");
+      element.src = "/javascripts/all.1308252244.js";
+      document.body.appendChild(element);
+  }
+
+  // Check for browser support of event handling capability
+  if (window.addEventListener)
+      window.addEventListener("load", downloadJSAtOnload, false);
+  else if (window.attachEvent)
+      window.attachEvent("onload", downloadJSAtOnload);
+  else window.onload = downloadJSAtOnload;
+
+  </script>
+  <!-- <script src="/javascripts/all.1308252244.js"></script> -->
   <link href="http://feeds.feedburner.com/razbor-podcast" rel="alternate" title="Подкаст «Разбор Полетов»" type="application/atom+xml">
   <!-- <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script> -->
 <!-- <script src="/javascripts/mediaelement/mediaelement-and-player.min.js" type="text/javascript"></script> -->
