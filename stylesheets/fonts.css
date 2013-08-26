@@ -1,0 +1,62 @@
+/* http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic */
+
+@font-face {
+  font-family: 'PT Serif';
+  font-style: normal;
+  font-weight: 400;
+  src: local('PT Serif'), local('PTSerif-Regular'), url(http://themes.googleusercontent.com/static/fonts/ptserif/v5/sDRi4fY9bOiJUbgq53yZCXYhjbSpvc47ee6xR_80Hnw.woff) format('woff');
+}
+@font-face {
+  font-family: 'PT Serif';
+  font-style: normal;
+  font-weight: 700;
+  src: local('PT Serif Bold'), local('PTSerif-Bold'), url(http://themes.googleusercontent.com/static/fonts/ptserif/v5/QABk9IxT-LFTJ_dQzv7xpLrIa-7acMAeDBVuclsi6Gc.woff) format('woff');
+}
+@font-face {
+  font-family: 'PT Serif';
+  font-style: italic;
+  font-weight: 400;
+  src: local('PT Serif Italic'), local('PTSerif-Italic'), url(http://themes.googleusercontent.com/static/fonts/ptserif/v5/03aPdn7fFF3H6ngCgAlQzL3hpw3pgy2gAi-Ip7WPMi0.woff) format('woff');
+}
+@font-face {
+  font-family: 'PT Serif';
+  font-style: italic;
+  font-weight: 700;
+  src: local('PT Serif Bold Italic'), local('PTSerif-BoldItalic'), url(http://themes.googleusercontent.com/static/fonts/ptserif/v5/Foydq9xJp--nfYIx2TBz9XbFhgvWbfSbdVg11QabG8w.woff) format('woff');
+}
+
+/* http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic */
+
+@font-face {
+  font-family: 'PT Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('PT Sans'), local('PTSans-Regular'), url(http://themes.googleusercontent.com/static/fonts/ptsans/v5/7YGmE4Ls5b94ct65u07hVQLUuEpTyoUstqEm5AMlJo4.woff) format('woff');
+}
+@font-face {
+  font-family: 'PT Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('PT Sans Bold'), local('PTSans-Bold'), url(http://themes.googleusercontent.com/static/fonts/ptsans/v5/0XxGQsSc1g4rdRdjJKZrNL3hpw3pgy2gAi-Ip7WPMi0.woff) format('woff');
+}
+@font-face {
+  font-family: 'PT Sans';
+  font-style: italic;
+  font-weight: 400;
+  src: local('PT Sans Italic'), local('PTSans-Italic'), url(http://themes.googleusercontent.com/static/fonts/ptsans/v5/PIPMHY90P7jtyjpXuZ2cLLO3LdcAZYWl9Si6vvxL-qU.woff) format('woff');
+}
+@font-face {
+  font-family: 'PT Sans';
+  font-style: italic;
+  font-weight: 700;
+  src: local('PT Sans Bold Italic'), local('PTSans-BoldItalic'), url(http://themes.googleusercontent.com/static/fonts/ptsans/v5/lILlYDvubYemzYzN7GbLkKRDOzjiPcYnFooOUGCOsRk.woff) format('woff');
+}
+
+/* http://fonts.googleapis.com/css?family=Open+Sans&subset=latin,cyrillic-ext,cyrillic */
+
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans'), local('OpenSans'), url(http://themes.googleusercontent.com/static/fonts/opensans/v6/K88pR3goAWT7BTt32Z01m7O3LdcAZYWl9Si6vvxL-qU.woff) format('woff');
+}
