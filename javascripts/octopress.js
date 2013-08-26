@@ -40,7 +40,7 @@ function addSidebarToggler() {
 
 function testFeatures() {
   var features = ['maskImage'];
-  $.map(features, function(feature) {
+  $(features).map(function(feature) {
     if (Modernizr.testAllProps(feature)) {
       $('html').addClass(feature);
     } else {
