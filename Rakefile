@@ -25,6 +25,7 @@ themes_dir      = ".themes"   # directory for blog files
 new_post_ext    = "markdown"  # default new post file extension when using the new_post task
 new_page_ext    = "markdown"  # default new page file extension when using the new_page task
 server_port     = "4000"      # port for preview server eg. localhost:4000
+asset_version   = Time.new.strftime("%y%m%d%H%M") # For asset versioning
 
 
 desc "Initial setup for Octopress: copies the default theme into the path of Jekyll's generator. Rake install defaults to rake install[classic] to install a different theme run rake install[some_theme_name]"
@@ -48,10 +49,19 @@ end
 #######################
 
 desc "Generate jekyll site"
-task :generate do
+task :generate => [:sass, :jekyll]
+
+desc "Process Sass"
+task :sass do
+  raise "### You haven't set anything up yet. First run `rake install` to set up an Octopress theme." unless File.directory?(source_dir)
+  puts "## Generating CSS with Compass"
+  system "compass compile --css-dir #{source_dir}/stylesheets"
+end
+
+desc "Run Jekyll"
+task :jekyll do
   raise "### You haven't set anything up yet. First run `rake install` to set up an Octopress theme." unless File.directory?(source_dir)
   puts "## Generating Site with Jekyll"
-  system "compass compile --css-dir #{source_dir}/stylesheets"
   system "jekyll"
 end
 
@@ -299,7 +309,7 @@ task :setup_github_pages, :repo do |t, args|
   if args.repo
     repo_url = args.repo
   else
-    puts "Enter the read/write url for your repository" 
+    puts "Enter the read/write url for your repository"
     puts "(For example, 'git@github.com:your_username/your_username.github.com)"
     repo_url = get_stdin("Repository url: ")
   end
@@ -377,3 +387,59 @@ task :list do
   puts "Tasks: #{(Rake::Task.tasks - [Rake::Task[:list]]).join(', ')}"
   puts "(type rake -T for more detail)\n\n"
 end
+
+desc "Update head include for static assets"
+task :update_asset_versions do
+  puts "## Updating asset versions"
+  # Replace instances of all.js and all.1234.js with all.{version}.js
+  content = ''
+  File.open("#{source_dir}/_includes/head.html", 'r') do |file|
+    content = file.read.gsub(/all(\.\d+)?\./, "all.#{asset_version}.")
+  end
+  File.open("#{source_dir}/_includes/head.html", 'w') do |file|
+    file.write(content)
+  end
+end
+
+desc "Combine CSS"
+task :combine_css do
+  puts "## Combining CSS"
+  styles_dir = "#{source_dir}/stylesheets"
+  system "cat #{styles_dir}/screen.css > #{styles_dir}/all.css"
+end
+
+desc "Combine JS"
+task :combine_js do
+  puts "## Combining JS"
+  scripts_dir = "#{source_dir}/javascripts"
+  system "cat #{scripts_dir}/modernizr-2.0.js #{scripts_dir}/ender.js #{scripts_dir}/octopress.js > #{scripts_dir}/all.js"
+end
+
+desc "Combine CSS/JS"
+task :combine => [:combine_css]
+
+# npm install -g clean-css
+desc "Minify CSS"
+task :minify_css do
+  puts "## Minifying CSS"
+  input = "#{source_dir}/stylesheets/all.css"
+  output = "#{public_dir}/stylesheets/all.#{asset_version}.css"
+  system "cleancss -e -o #{output} #{input}"
+end
+
+# npm install -g uglify-js
+desc "Minify JS"
+task :minify_js do
+  puts "## Minifying JS"
+  input = "#{source_dir}/javascripts/all.js"
+  output = "#{source_dir}/javascripts/all.#{asset_version}.js"
+  source_map_option = "--source-map #{source_dir}/javascripts/all.#{asset_version}.js.map"
+  source_map_root_option = "--source-map-root http://www.razbor-poletov.com"
+  system "uglifyjs #{input} -o #{output} #{source_map_option} #{source_map_root_option} -p 2 -m -c warnings=false"
+  Dir.glob("#{source_dir}/javascripts/all.*").each do |f|
+    FileUtils.mv(f, "#{public_dir}/javascripts")
+  end
+end
+
+desc "Minify CSS/JS"
+task :minify => [:minify_css]
