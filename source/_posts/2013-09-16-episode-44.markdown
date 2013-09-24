@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Episode 44 — Спляшем и споем на JavaOne"
+title: "Episode 44 — О чем спляшем и споем на JavaOne"
 date: 2013-09-16 16:31
 comments: true
 categories: 
