@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Episode 45 — Дневники JavaOne 2013 - день 1"
+title: "Episode 45 — Дневники JavaOne 2013: День 1"
 date: 2013-09-24 01:33
 comments: true
 categories: 
@@ -11,6 +11,7 @@ categories:
 </div>
 
 **p.s** Шоунотки будут обновляться.
+
 **p.p.s.** По многочисленным просьбам вернул музыку в конце подкаста.
 
 Наши контакты:
@@ -21,7 +22,8 @@ categories:
 
 twitter: 
 
- * [@a_abashev](https://twitter.com/#!/a_abashev) 
+ * [@andrey_kogun](https://twitter.com/#!/andrey_kogun) 
+ * [@iNikem](https://twitter.com/#!/iNikem) 
  * [@gamussa](https://twitter.com/#!/gamussa)
  * [@antonarhipov](https://twitter.com/#!/antonarhipov)
 
