@@ -10,7 +10,8 @@ categories:
 <a href="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_45_text.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_45_text.png" width="350" /></a>
 </div>
 
-**p.s** Шоунотки будут обновляться.
+[Making Java Groovy](http://www.manning.com/kousen/)
+Промокод **MLGO13CF**
 
 **p.p.s.** По многочисленным просьбам вернул музыку в конце подкаста.
 
@@ -26,6 +27,7 @@ twitter:
  * [@iNikem](https://twitter.com/#!/iNikem) 
  * [@gamussa](https://twitter.com/#!/gamussa)
  * [@antonarhipov](https://twitter.com/#!/antonarhipov)
+ * [@DanKalashnikov](https://twitter.com/DanKalashnikov)
 
 G+:
 
