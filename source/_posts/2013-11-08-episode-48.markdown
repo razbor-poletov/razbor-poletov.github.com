@@ -1,0 +1,66 @@
+---
+layout: post
+title: "Episode 48 — Потоки наших сознаний в Ваши уши"
+date: 2013-11-08 15:00
+comments: true
+categories: 
+---
+
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_48_text.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_48_text.png" width="350" /></a>
+</div>
+
+
+Кудо про наклейки и donations!
+Спасибо [http://d-vision.kz](http://d-vision.kz) и нашим слушателям!
+
+[The trouble with timestamps](http://aphyr.com/posts/299-the-trouble-with-timestamps)
+
+Много про F1:
+
+* [http://research.google.com/pubs/pub41344.html](http://research.google.com/pubs/pub41344.html)
+* [http://research.google.com/pubs/pub41376.html](http://research.google.com/pubs/pub41376.html)
+
+Полезняшка 
+
+* // [http://codenotes.me/usage](http://codenotes.me/usage) - сдохла
+* [http://explainshell.com/](http://explainshell.com/)
+* [http://www.shellcheck.net/about.html](http://www.shellcheck.net/about.html)
+* [http://pitest.org/](http://pitest.org/)
+* [http://ideacolorthemes.org/](http://ideacolorthemes.org/)
+
+[Новая Java Монги](http://blog.mongodb.org/post/59769560940/the-mongodb-java-driver-3-0-whats-changing)
+
+[Антипаттерны для презентаций](http://thenextweb.com/lifehacks/2013/09/12/10-things-you-should-never-say-during-presentations-2/)
+
+Вьетнамцы с кувалдой 
+
+Наши контакты:
+
+Официальный сайт — [http://razbor-poletov.com](http://razbor-poletov.com)
+
+Гости и участники:
+
+twitter: 
+
+ * [@gamussa](https://twitter.com/#!/gamussa)
+ * [@antonarhipov](https://twitter.com/#!/antonarhipov)
+
+G+:
+
+ * [gplus.to/gAmUssA](http://gplus.to/gAmUssA) 
+ * [gplus.to/aabashev](http://gplus.to/aabashev) 
+
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_48.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+
+Подписаться по [RSS](http://feeds.feedburner.com/razbor-podcast)
+
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_48.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+
+Музыка ведущим [предоставлена](http://www.audiobank.fm/single-music/27/111/More-And-Less/) и ладно...
