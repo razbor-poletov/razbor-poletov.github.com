@@ -7,7 +7,7 @@ categories:
 ---
 
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_32_text.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="300" src="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_32_text.png" width="300" /></a></div>
+<a href="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_32_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="300" src="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_32_text.jpg" width="300" /></a></div>
 
 В этом выпуске к нам наконец-то пришел [правильный человек из мира **.NET**](https://twitter.com/dnesteruk) и воздает нам за «оргии MVP». Заодно обсудили следующие темы:
 

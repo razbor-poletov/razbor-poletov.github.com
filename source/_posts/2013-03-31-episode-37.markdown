@@ -7,7 +7,7 @@ categories:
 ---
 
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_37_text.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_37_text.png" width="350" /></a></div>
+<a href="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_37_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_37_text.jpg" width="350" /></a></div>
 
 - Google открывает для себя новую бизнес нишу - [рекрутинг](http://www.businessinsider.com/ex-googlers-facebook-graph-search-2013-1). Каждый новый сотрудник в свой первый день получает специальный талон, что он теперь официально "прокачен" и должен приниматься в любую IT компанию Кремниевой долины или Нью-Йорка без собеседования.
 - Мартин Одерски, известный как автор Scala, написал в своем блоге, что очень многому научился при написании этого языка и этот фундамент поможет ему в разработке [нового языка программирования](http://www.scala-lang.org/node/143#talks). 
