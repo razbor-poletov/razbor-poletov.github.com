@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2013-11-16T09:17:22-05:00</updated>
+  <updated>2013-11-17T19:57:44-05:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov]]></name>
@@ -14,12 +14,88 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Episode 49 — Напиться пива и поработать сверхурочно]]></title>
+    <link href="http://razbor-poletov.com/2013/11/episode-49.html"/>
+    <updated>2013-11-17T19:28:00-05:00</updated>
+    <id>http://razbor-poletov.com/2013/11/episode-49</id>
+    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
+<a href="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_49_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_49_text.jpg" width="350" /></a>
+</div>
+
+
+<p>Кудо про наклейки и donations!
+Спасибо <a href="http://d-vision.kz">http://d-vision.kz</a> и нашим слушателям!</p>
+
+<ul>
+<li>Новости одной строкой: <a href="http://blog.eisele.net/2013/11/rip-glassfish-thanks-for-all-fish.html">1</a> <a href="http://blog.rahmannet.net/2013/11/oracle-glassfish-and-nature-of-open.html">2</a></li>
+<li><a href="http://blog.gopivotal.com/products/websocket-architecture-in-spring-4-0">Про Спинг и вебсокеты</a></li>
+<li><a href="http://enterprisewebbook.com/ch9_websockets.html">Глава из нашей книги про WebSocket</a></li>
+<li>Benchmarks под это дело <a href="http://mgreau.com/posts/2013/11/11/javaee7-websocket-angularjs-wildfly.html#benchmark-websocket-vs-rest">1</a> <a href="http://farata.github.io/slidedecks/state_of_websocket/slides.html#22.3">2</a></li>
+<li><a href="http://zeroturnaround.com/rebellabs/watch-out-for-these-10-common-pitfalls-of-experienced-java-developers-architects/">Cоветы знатоков</a></li>
+</ul>
+
+
+<p>Полезняшка:</p>
+
+<ul>
+<li><a href="http://sideeffect.kr/popularconvention">Code conventions</a></li>
+<li><a href="http://gigaom.com/2013/11/10/6-iaas-providers-you-should-know-but-may-not/">Обзор IAASов</a></li>
+<li><a href="http://animatron.com/">Animatron</a></li>
+</ul>
+
+
+<p><a href="http://www.jayhuang.org/blog/a-culture-of-beer-and-overtime/">Напиться пива и поработать сверхурочно</a></p>
+
+<p>Наши контакты:</p>
+
+<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
+
+<p>Гости и участники:</p>
+
+<p>twitter:</p>
+
+<ul>
+<li><a href="https://twitter.com/#!/gamussa">@gamussa</a></li>
+<li><a href="https://twitter.com/#!/antonarhipov">@antonarhipov</a></li>
+<li><a href="https://twitter.com/#!/a_abashev">@a_abashev</a></li>
+<li><a href="https://twitter.com/#!/@dzmitryc">@dzmitryc </a></li>
+</ul>
+
+
+<p>G+:</p>
+
+<ul>
+<li><a href="http://gplus.to/gAmUssA">gplus.to/gAmUssA</a></li>
+<li><a href="http://gplus.to/aabashev">gplus.to/aabashev</a></li>
+</ul>
+
+
+<!-- player goes here-->
+
+
+<p><audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_49.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio></p>
+
+<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
+
+<!-- episode file link goes here-->
+
+
+<p><a href="http://traffic.libsyn.com/razborpoletov/razbor_49.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
+
+<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Episode 48 — Потоки наших сознаний в Ваши уши]]></title>
     <link href="http://razbor-poletov.com/2013/11/episode-48.html"/>
     <updated>2013-11-08T15:00:00-05:00</updated>
     <id>http://razbor-poletov.com/2013/11/episode-48</id>
     <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_48_text.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_48_text.png" width="350" /></a>
+<a href="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_48_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_48_text.jpg" width="350" /></a>
 </div>
 
 
@@ -105,7 +181,7 @@
     <updated>2013-09-26T10:55:00-04:00</updated>
     <id>http://razbor-poletov.com/2013/09/episode-47</id>
     <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_47_text.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_47_text.png" width="350" /></a>
+<a href="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_47_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_47_text.jpg" width="350" /></a>
 </div>
 
 
@@ -158,7 +234,7 @@
     <updated>2013-09-25T08:29:00-04:00</updated>
     <id>http://razbor-poletov.com/2013/09/episode-46</id>
     <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_46_text.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_46_text.png" width="350" /></a>
+<a href="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_46_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_46_text.jpg" width="350" /></a>
 </div>
 
 
@@ -212,7 +288,7 @@
     <updated>2013-09-24T01:33:00-04:00</updated>
     <id>http://razbor-poletov.com/2013/09/episode-45</id>
     <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_45_text.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_45_text.png" width="350" /></a>
+<a href="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_45_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_45_text.jpg" width="350" /></a>
 </div>
 
 
@@ -271,7 +347,7 @@
     <updated>2013-09-16T16:31:00-04:00</updated>
     <id>http://razbor-poletov.com/2013/09/episode-44</id>
     <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_44_text.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_44_text.png" width="350" /></a>
+<a href="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_44_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_44_text.jpg" width="350" /></a>
 </div>
 
 
@@ -382,7 +458,7 @@
     <updated>2013-08-23T14:41:00-04:00</updated>
     <id>http://razbor-poletov.com/2013/08/episode-43</id>
     <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_43_text.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_43_text.png" width="350" /></a>
+<a href="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_43_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_43_text.jpg" width="350" /></a>
 </div>
 
 
@@ -459,7 +535,7 @@
     <updated>2013-08-15T17:24:00-04:00</updated>
     <id>http://razbor-poletov.com/2013/08/episode-42</id>
     <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_42_text.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_42_text.png" width="350" /></a>
+<a href="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_42_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_42_text.jpg" width="350" /></a>
 </div>
 
 
@@ -527,7 +603,7 @@
     <updated>2013-06-16T21:41:00-04:00</updated>
     <id>http://razbor-poletov.com/2013/06/episode-41</id>
     <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_41_text.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_41_text.png" width="350" /></a>
+<a href="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_41_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_41_text.jpg" width="350" /></a>
 </div>
 
 
@@ -599,7 +675,7 @@
     <updated>2013-05-30T14:38:00-04:00</updated>
     <id>http://razbor-poletov.com/2013/05/episode-40</id>
     <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_40_text.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_40_text.png" width="350" /></a>
+<a href="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_40_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_40_text.jpg" width="350" /></a>
 </div>
 
 
@@ -758,7 +834,7 @@
     <updated>2013-04-22T15:28:00-04:00</updated>
     <id>http://razbor-poletov.com/2013/04/episode-38</id>
     <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_38_text.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_38_text.png" width="350" /></a>
+<a href="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_38_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_38_text.jpg" width="350" /></a>
 </div>
 
 
@@ -864,7 +940,7 @@
     <updated>2013-03-31T10:43:00-04:00</updated>
     <id>http://razbor-poletov.com/2013/03/episode-37</id>
     <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_37_text.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_37_text.png" width="350" /></a></div>
+<a href="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_37_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_37_text.jpg" width="350" /></a></div>
 
 
 <ul>
@@ -965,7 +1041,7 @@
     <updated>2013-03-28T11:07:00-04:00</updated>
     <id>http://razbor-poletov.com/2013/03/episode-36</id>
     <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_36_text.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_36_text.png" width="350" /></a></div>
+<a href="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_36_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_36_text.jpg" width="350" /></a></div>
 
 
 <ul>
@@ -1067,7 +1143,7 @@
     <updated>2013-03-04T22:10:00-05:00</updated>
     <id>http://razbor-poletov.com/2013/03/episode-35</id>
     <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_35_text.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_35_text.png" width="350" /></a></div>
+<a href="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_35_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_35_text.jpg" width="350" /></a></div>
 
 
 <ul>
@@ -1169,7 +1245,7 @@
     <updated>2013-02-20T17:11:00-05:00</updated>
     <id>http://razbor-poletov.com/2013/02/episode-34</id>
     <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_34_text.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_34_text.png" width="350" /></a></div>
+<a href="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_34_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_34_text.jpg" width="350" /></a></div>
 
 
 <ul>
@@ -1253,7 +1329,7 @@
     <updated>2013-02-03T12:10:00-05:00</updated>
     <id>http://razbor-poletov.com/2013/02/episode33-aws-event</id>
     <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_33_text.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="300" src="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_33_text.png" width="300" /></a></div>
+<a href="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_33_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="300" src="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_33_text.jpg" width="300" /></a></div>
 
 
 <p>Мы рады приветствовать Вас на очередном выпуске подкаста «Разбор Полетов». Сегодня у нас в гостях Peter Sirota, general manager Amazon Elastic MapReduce и он нам все расскажет о <a href="http://awsmoscow2013.s3-website-us-east-1.amazonaws.com/">предстоящем событии в Москве и Киеве</a>, которое проводит Amazon в этом году.</p>
@@ -1318,7 +1394,7 @@
     <updated>2013-01-27T20:06:00-05:00</updated>
     <id>http://razbor-poletov.com/2013/01/episode-32</id>
     <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_32_text.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="300" src="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_32_text.png" width="300" /></a></div>
+<a href="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_32_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="300" src="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_32_text.jpg" width="300" /></a></div>
 
 
 <p>В этом выпуске к нам наконец-то пришел <a href="https://twitter.com/dnesteruk">правильный человек из мира <strong>.NET</strong></a> и воздает нам за «оргии MVP». Заодно обсудили следующие темы:</p>
@@ -3587,106 +3663,6 @@ The 2013 JavaOne Russia Call-for-Papers is open.  Deadline for submissions is Fe
           <source src="http://razbor-poletov.rucast.net/media/razbor_04.mp3" type="audio/mp3" />
           Your browser does not support the audio tag.
     </audio>
-</div>]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 3 — Горький вкус загрузки классов]]></title>
-    <link href="http://razbor-poletov.com/2011/12/episode-3.html"/>
-    <updated>2011-12-16T00:00:00-05:00</updated>
-    <id>http://razbor-poletov.com/2011/12/episode-3</id>
-    <content type="html"><![CDATA[<div class='post'>
-    Я&nbsp;и&nbsp;коллега
-    <hh user="aib" />
-    представляем вашему вниманию третий выпуск уже ставшего популярным в&nbsp;узких
-    кругах, разговорного IT-тематического подкаста &laquo;Разбор Полетов&raquo;.
-    В&nbsp;этом выпуске:
-    <ul>
-        <li class="li1">
-            <span class="s1">
-                Новость для разминки&nbsp;&mdash;
-                <a href="http://www.infoq.com/news/2011/12/HP-Open-Source-webOS">http://www.infoq.com/news/2011/12/HP-Open-Source-webOS</a>
-            </span>
-        </li>
-        <li class="li2">
-            <span class="s3">
-                <span class="s1">
-                    Сделай свой гитхаб на&nbsp;Java с&nbsp;преферансом и&nbsp;поэтессами
-                    <a href="http://gitblit.com/">http://gitblit.com/</a>
-                </span>
-            </span>
-        </li>
-        <li class="li2">
-            <span class="s3">
-                <span class="s1">
-                    Мы&nbsp;строили строили и&nbsp;наконец получили&#8230;
-                    <a href="http://community.jboss.org/wiki/JBossClassLoaderHistory">http://community.jboss.org/wiki/JBossClassLoaderHistory</a>
-                </span>
-            </span>
-        </li>
-        <li class="li1">
-            <span class="s1">
-                Вышел ежик из&nbsp;тумана&nbsp;&mdash; Описание модульности в&nbsp;Java&nbsp;8.
-                <a href="http://mail.openjdk.java.net/pipermail/jigsaw-dev/2011-December/001800.html">http://mail.openjdk.java.net/pipermail/jigsaw-dev/2011-December/001800.html</a>
-            </span>
-        </li>
-        <li class="li2">
-            <span class="s3">
-                <span class="s1">
-                    Мы&nbsp;с&nbsp;Тамарой пишем парой&nbsp;&mdash; Распределенное парное
-                    программирование
-                    <a href="http://www.saros-project.org/">http://www.saros-project.org/</a>
-                </span>
-            </span>
-        </li>
-        <li class="li1">
-            <span class="s1">
-                Еще одна неделя, еще одно сравнение git с&nbsp;mercurial
-                <a href="http://blog.cubrid.org/dev-platform/git-vs-mercurial/">http://blog.cubrid.org/dev-platform/git-vs-mercurial/</a>
-            </span>
-            <span class="s2">
-            </span>
-        </li>
-        <li class="li1">
-            <span class="s1">
-                Бог учил делиться. Почему вам нужен open-source
-                <a href="http://tom.preston-werner.com/2011/11/22/open-source-everything.html">http://tom.preston-werner.com/2011/11/22/open-source-everything.html</a>
-            </span>
-            <span class="s2">
-            </span>
-        </li>
-    </ul>
-    
-    <table cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;">
-        <tbody>
-            <tr>
-                <td style="text-align: center;">
-                    <a href="http://razbor-poletov.rucast.net/media/razbor_03.mp3"
-                    imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
-                </td>
-            </tr>
-            <tr>
-                <td class="tr-caption" style="text-align: center;">
-                    Скачать mp3 бесплатно&nbsp;
-                </td>
-            </tr>
-        </tbody>
-    </table>
-    
-    Наши контакты: twitter:
-    <a href="http://twitter.com/a_abashev">@a_abashev</a>
-    <a href="http://twitter.com/gamussa">@gamussa</a>
-    G+:
-    <a href="http://gplus.to/gAmUssA">gplus.to/gAmUssA</a>
-    <a href="http://gplus.to/aabashev">http://gplus.to/aabashev</a>
-    
-    Подписаться по&nbsp;
-    <br/>
-   <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a>
-<audio preload="none">
-      <source src="http://razbor-poletov.rucast.net/media/razbor_03.mp3" type="audio/mp3" />
-      Your browser does not support the audio tag.
-</audio>
 </div>]]></content>
   </entry>
   
