@@ -31,6 +31,8 @@ categories:
 
 Официальный сайт — [http://razbor-poletov.com](http://razbor-poletov.com)
 
+Темы для следующего выпуска - [https://github.com/razbor-poletov/](https://github.com/razbor-poletov/razbor-poletov.github.com/issues?state=open)
+
 Гости и участники:
 
 twitter: 
