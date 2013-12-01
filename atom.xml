@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2013-11-27T13:26:27-05:00</updated>
+  <updated>2013-12-01T17:49:33-05:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov]]></name>
@@ -12,6 +12,88 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 50 — I'm an architect and I don't know what I'm doing]]></title>
+    <link href="http://razbor-poletov.com/2013/12/episode-50.html"/>
+    <updated>2013-12-01T17:08:00-05:00</updated>
+    <id>http://razbor-poletov.com/2013/12/episode-50</id>
+    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
+<a href="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_50_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_50_text.jpg" width="350" /></a>
+</div>
+
+
+<p>Кудо про наклейки и donations!
+Спасибо <a href="http://d-vision.kz">http://d-vision.kz</a> и нашим слушателям!</p>
+
+<p>Новости одной строкой:</p>
+
+<ul>
+<li><a href="http://www.gradle.org/docs/current/release-notes">Gradle v.1.9</a></li>
+<li><a href="https://plus.google.com/117481599451076280717/posts/BTP38DW5Ugp">резидент и контрибьютер подкаста теперь коммитеры в груви</a></li>
+<li><a href="http://openjdk.java.net/projects/jdk8/features">про фичи jdk8</a>. А если ты в NYC, то приходи послушать про них <a href="http://www.meetup.com/JavaSIG/events/151812822/">из первых уст</a>.</li>
+</ul>
+
+
+<p><a href="http://hirt.se/blog/?p=444">И про мониторинг вообще поговорить </a></p>
+
+<p>Полезняшки:</p>
+
+<ul>
+<li><a href="http://tryjava8-t20.rhcloud.com/">tryjava8</a></li>
+<li><a href="http://rebaseandsqua.sh/">Rebase and Squash</a>. <a href="http://blogs.atlassian.com/2013/10/git-team-workflows-merge-or-rebase/">И еще по теме</a></li>
+<li><a href="http://jhipster.github.io/">jHipster</a></li>
+</ul>
+
+
+<p>Java-архитекторы, кто эти люди</p>
+
+<p>Как развивался их код <a href="http://www.willa.me/2013/11/the-six-most-common-species-of-code.html">1</a> <a href="http://www.ariel.com.au/jokes/The_Evolution_of_a_Programmer.html">2</a> <a href="http://www.willamette.edu/~fruehr/haskell/evolution.html">3</a></p>
+
+<p><a href="http://arstechnica.com/information-technology/2013/09/if-my-team-has-low-skill-should-i-reduce-the-difficulty-level-of-my-code/">Стоит ли опускать себя в угоду комманде</a></p>
+
+<p><a href="http://www.siliconrus.com/2013/10/remote/">Внеклассное чтение</a></p>
+
+<p>Гости и участники:</p>
+
+<p>twitter:</p>
+
+<ul>
+<li><a href="https://twitter.com/#!/gamussa">@gamussa</a></li>
+<li><a href="https://twitter.com/#!/antonarhipov">@antonarhipov</a></li>
+<li><a href="https://twitter.com/#!/a_abashev">@a_abashev</a></li>
+</ul>
+
+
+<p>G+:</p>
+
+<ul>
+<li><a href="http://gplus.to/gAmUssA">gplus.to/gAmUssA</a></li>
+<li><a href="http://gplus.to/aabashev">gplus.to/aabashev</a></li>
+<li><a href="https://plus.google.com/+AntonArhipov">https://plus.google.com/+AntonArhipov</a></li>
+</ul>
+
+
+<!-- player goes here-->
+
+
+<p><audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_50.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio></p>
+
+<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
+
+<!-- episode file link goes here-->
+
+
+<p><a href="http://traffic.libsyn.com/razborpoletov/razbor_50.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
+
+<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
+
+<p><a href="http://richardhuante.deviantart.com/art/Sexy-Architect-334903123">Картинка найдена в интернете</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 49 — Напиться пива и поработать сверхурочно]]></title>
@@ -3568,103 +3650,6 @@ The 2013 JavaOne Russia Call-for-Papers is open.  Deadline for submissions is Fe
          <source src="http://razbor-poletov.rucast.net/media/razbor_05.mp3" type="audio/mp3" />
          Your browser does not support the audio tag.
    </audio>
-</div>]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 4 — Spring-аем глаголы]]></title>
-    <link href="http://razbor-poletov.com/2011/12/episode-4-spring.html"/>
-    <updated>2011-12-23T00:00:00-05:00</updated>
-    <id>http://razbor-poletov.com/2011/12/episode-4-spring</id>
-    <content type="html"><![CDATA[<div class='post'>
-    Я&nbsp;и&nbsp;коллега
-    <a href="http://twitter.com/a_abashev">@a_abashev</a>
-    представляем вашему вниманию очередной четвертый выпуск популярного в&nbsp;узких
-    кругах, разговорного IT-тематического подкаста &laquo;Разбор Полетов&raquo;.
-    В&nbsp;этом выпуске:
-    <ul>
-        <li>
-            <span>
-                <span>
-                    Спасибо, что живой&nbsp;&mdash;
-                    <a href="http://www.infoq.com/news/2011/12/spring31"><span>http://www.infoq.com/news/2011/12/spring31</span></a>
-                </span>
-            </span>
-        </li>
-        <li>
-            <span>
-                <span>
-                    Поиск святого грааля продолжается &#8230;
-                    <a href="http://blog.springsource.org/2011/12/15/grails-2-0-released/"><span>http://blog.springsource.org/2011/12/15/grails-2-0-released/</span></a>
-                </span>
-            </span>
-        </li>
-        <li>
-            <span>
-                <span>
-                    Полезняшка&nbsp;&mdash; распылитель
-                    <a href="https://engineering.linkedin.com/frontend/leaving-jsps-dust-moving-linkedin-dustjs-client-side-templates"><span>https://engineering.linkedin.com/frontend/leaving-jsps-dust-moving-linkedin-dustjs-client-side-templates</span></a>
-                </span>
-            </span>
-        </li>
-        <li>
-            <span>
-                <span>
-                    Дед мороз в&nbsp;новый год дарит подарки тем кто вел себя хорошо &#8230;
-                    <a href="https://www.linux.com/news/featured-blogs/196:zonker/524082:the-10-most-important-open-source-projects-of-2011"><span>https://www.linux.com/news/featured-blogs/196:zonker/524082:the-10-most-important-open-source-projects-of-2011</span></a>
-                </span>
-            </span>
-        </li>
-        <li>
-            <span>
-                <span>
-                    &#8230; или плохо
-                    <a href="http://www.readwriteweb.com/archives/7_epic_tech_fails_of_2011.php"><span>http://www.readwriteweb.com/archives/7_epic_tech_fails_of_2011.php</span></a>
-                </span>
-            </span>
-        </li>
-        <li>
-            <span>
-                <span>
-                    Хм, интересно что&nbsp;же из&nbsp;этого получится&nbsp;&mdash;
-                    <a href="http://www.grobmeier.de/dart-on-chromium-and-dart-meets-scala-17122011.html"><span>http://www.grobmeier.de/dart-on-chromium-and-dart-meets-scala-17122011.html</span></a>
-                </span>
-            </span>
-        </li>
-    </ul>
-    
-    <table cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;">
-        <tbody>
-            <tr>
-                <td style="text-align: center;">
-                    <a href="http://razbor-poletov.rucast.net/media/razbor_04.mp3"
-                    imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
-                </td>
-            </tr>
-            <tr>
-                <td class="tr-caption" style="text-align: center;">
-                    Скачать mp3 бесплатно&nbsp;
-                </td>
-            </tr>
-        </tbody>
-    </table>
-    
-    Наши контакты: twitter:
-    <a href="http://twitter.com/a_abashev">@a_abashev</a>
-    <a href="http://twitter.com/gamussa">@gamussa</a>
-    G+:
-    <a href="http://gplus.to/gAmUssA">gplus.to/gAmUssA</a>
-    <a href="http://gplus.to/aabashev">http://gplus.to/aabashev</a>
-    Подписаться по&nbsp;
-    <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a>
-    <b>
-        p.s.
-    </b> простуда добивала весь выпуск, но мы стойко это выдержали ;-)
-    <br/>
-    <audio preload="none">
-          <source src="http://razbor-poletov.rucast.net/media/razbor_04.mp3" type="audio/mp3" />
-          Your browser does not support the audio tag.
-    </audio>
 </div>]]></content>
   </entry>
   
