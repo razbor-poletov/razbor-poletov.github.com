@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2013-12-01T17:49:33-05:00</updated>
+  <updated>2013-12-04T00:07:29-05:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov]]></name>
@@ -23,8 +23,9 @@
 </div>
 
 
-<p>Кудо про наклейки и donations!
-Спасибо <a href="http://d-vision.kz">http://d-vision.kz</a> и нашим слушателям!</p>
+<p>Кудо про наклейки и donations!</p>
+
+<p>Спасибо <a href="http://d-vision.kz">http://d-vision.kz</a> и нашим слушателям!</p>
 
 <p>Новости одной строкой:</p>
 
@@ -3353,7 +3354,7 @@ The 2013 JavaOne Russia Call-for-Papers is open.  Deadline for submissions is Fe
         <tbody>
             <tr>
                 <td style="text-align: center;">
-                    <a href="http://razbor-poletov.rucast.net/media/razbor_09.mp3"
+                    <a href="http://traffic.libsyn.com/razborpoletov/razbor_09.mp3"
                     imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
                 </td>
             </tr>
@@ -3373,7 +3374,7 @@ The 2013 JavaOne Russia Call-for-Papers is open.  Deadline for submissions is Fe
     Подписаться по&nbsp;
     <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a>
     <audio preload="none">
-      <source src="http://razbor-poletov.rucast.net/media/razbor_09.mp3" type="audio/mp3" />
+      <source src="http://traffic.libsyn.com/razborpoletov/razbor_09.mp3" type="audio/mp3" />
       Your browser does not support the audio tag.
     </audio>
 </div>]]></content>
@@ -3499,7 +3500,7 @@ The 2013 JavaOne Russia Call-for-Papers is open.  Deadline for submissions is Fe
         <tbody>
             <tr>
                 <td style="text-align: center;">
-                    <a href="http://razbor-poletov.rucast.net/media/razbor_07.mp3" imageanchor="1"
+                    <a href="http://traffic.libsyn.com/razborpoletov/razbor_07.mp3" imageanchor="1"
                     style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
                 </td>
             </tr>
@@ -3520,7 +3521,7 @@ The 2013 JavaOne Russia Call-for-Papers is open.  Deadline for submissions is Fe
     <br>
     <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a>
     <audio preload="none">
-        <source src="http://razbor-poletov.rucast.net/media/razbor_07.mp3" type="audio/mp3"
+        <source src="http://traffic.libsyn.com/razborpoletov/razbor_07.mp3" type="audio/mp3"
         />
         Your browser does not support the audio tag.
     </audio>
