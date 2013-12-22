@@ -10,7 +10,7 @@ categories:
 <a href="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_52_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_52_text.jpg" width="350" /></a>
 </div>
 
-[Андрей Чепцов из JetBrains](mailto:andrey.cheptsov@jetbrains.com)
+Гость выпуска — [Андрей Чепцов из JetBrains](mailto:andrey.cheptsov@jetbrains.com)
 
 - [What’s new](http://www.jetbrains.com/idea/whatsnew/)
 - [Что нового в IDEA 13](http://habrahabr.ru/company/JetBrains/blog/204590/)
@@ -45,8 +45,8 @@ twitter:
  * [@gamussa](https://twitter.com/#!/gamussa)
  * [@antonarhipov](https://twitter.com/#!/antonarhipov)
  * [@a_abashev](https://twitter.com/#!/a_abashev)
- * [@dzmitryc ](https://twitter.com/#!/@dzmitryc)
- * [@andrey_cheptsov ](https://twitter.com/#!/@andrey_cheptsov)
+ * [@dzmitryc ](https://twitter.com/#!/dzmitryc)
+ * [@andrey_cheptsov ](https://twitter.com/#!/andrey_cheptsov)
  * [@jbaruch](https://twitter.com/#!/jbaruch) 
 
 G+:
