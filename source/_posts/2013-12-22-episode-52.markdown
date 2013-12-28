@@ -27,7 +27,6 @@ categories:
 
 _На правах рекламы:_
 
-* Онлайн курс [Программирование с Java и Java EE", Февраль 2014](http://www.eventbrite.com/e/java-java-ee-2014-tickets-9637639439) Скидка $50 код **RazborPoletov**
 * Онлайн курс [Modern Web Application Development for Java Programmers](http://www.eventbrite.com/e/modern-web-application-development-for-java-programmers-tickets-9775299183) Скидка $50 код **RazborPoletov** . [Course agenda](https://github.com/yfain/WebDevForJavaProgrammers). [Добавляйтесь в watchers на GitHub](https://github.com/yfain/WebDevForJavaProgrammers/watchers).
 
 ---
@@ -54,6 +53,7 @@ G+:
  * [gplus.to/gAmUssA](http://gplus.to/gAmUssA) 
  * [gplus.to/aabashev](http://gplus.to/aabashev) 
  * [https://plus.google.com/+AntonArhipov](https://plus.google.com/+AntonArhipov) 
+ * [https://plus.google.com/+DmitryChurbanov](https://plus.google.com/+DmitryChurbanov) 
 
 <!-- player goes here-->
 
