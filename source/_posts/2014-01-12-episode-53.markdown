@@ -1,0 +1,72 @@
+---
+layout: post
+title: "Episode 53 — Цейлонский выпуск"
+date: 2014-01-12 17:01
+comments: true
+categories: 
+---
+
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_53_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://raw.github.com/razbor-poletov/razbor-poletov.github.com/source/source/images/razbor_53_text.jpg" width="350" /></a>
+</div>
+
+Итоги года [1](http://jaxenter.com/why-java-skills-are-still-golden-for-developers.1-49296.html), [2](http://code2013.herokuapp.com/), [3](http://blogs.tedneward.com/2014/01/03/Tech+Predictions+2014.aspx).
+
+Про Ceylon [1](http://ceylon-lang.org/blog/2013/11/12/ceylon-1/), [2](http://blog.jooq.org/2013/12/03/top-10-ceylon-language-features-i-wish-we-had-in-java/) и бонус от ZT [1](https://github.com/antonarhipov/ceylon-http-server), [2](http://zeroturnaround.com/rebellabs/the-adventurous-developers-guide-to-jvm-languages-java-scala-groovy-fantom-clojure-ceylon-kotlin-xtend/), [3](https://github.com/zeroturnaround/jvm-languages-report)
+
+Полезняшка
+
+* [MicroMongo](http://coderwall.com/p/ugb2ow)
+* Параметризованные jUnit tests [1](http://www.javacodegeeks.com/2013/12/parameterized-junit-tests-with-junitparams.html) [2](http://docs.spockframework.org/en/latest/data_driven_testing.html)
+* [Плагины для Quick Look](https://github.com/sindresorhus/quick-look-plugins)
+* [Темы для админок](http://designm.ag/inspiration/31-admin-backend-dashboard-templates/)
+
+[Scaling Mercurial at Facebook](https://code.facebook.com/posts/218678814984400/scaling-mercurial-at-facebook/) 
+
+[Continuous Deliver = Continuous Disappointment](http://www.forbes.com/sites/steveblank/2014/01/03/tesla-and-adobe-why-continuous-deployment-may-mean-continuous-customer-disappointment/3/)
+
+[Silence, I said!](http://blog.circleci.com/silence-is-for-the-weak/)
+
+---
+
+_На правах рекламы:_
+
+* Онлайн курс [Modern Web Application Development for Java Programmers](http://www.eventbrite.com/e/modern-web-application-development-for-java-programmers-tickets-9775299183) Скидка $50 код **RazborPoletov** . [Course agenda](https://github.com/yfain/WebDevForJavaProgrammers). [Добавляйтесь в watchers на GitHub](https://github.com/yfain/WebDevForJavaProgrammers/watchers).
+
+---
+
+Наши контакты:
+
+Официальный сайт — [http://razbor-poletov.com](http://razbor-poletov.com)
+
+Темы для следующего выпуска - [https://github.com/razbor-poletov/](https://github.com/razbor-poletov/razbor-poletov.github.com/issues?state=open)
+
+Гости и участники:
+
+twitter: 
+
+ * [@gamussa](https://twitter.com/#!/gamussa)
+ * [@antonarhipov](https://twitter.com/#!/antonarhipov)
+ * [@a_abashev](https://twitter.com/#!/a_abashev)
+ * [@dzmitryc ](https://twitter.com/#!/dzmitryc)
+
+G+:
+
+ * [gplus.to/gAmUssA](http://gplus.to/gAmUssA) 
+ * [gplus.to/aabashev](http://gplus.to/aabashev) 
+ * [https://plus.google.com/+AntonArhipov](https://plus.google.com/+AntonArhipov) 
+ * [https://plus.google.com/+DmitryChurbanov](https://plus.google.com/+DmitryChurbanov) 
+
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_52.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+
+Подписаться по [RSS](http://feeds.feedburner.com/razbor-podcast)
+
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_53.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+
+Музыка ведущим [предоставлена](http://www.audiobank.fm/single-music/27/111/More-And-Less/) и ладно...
