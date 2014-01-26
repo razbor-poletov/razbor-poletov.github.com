@@ -1,0 +1,94 @@
+---
+layout: post
+title: "Episode 54 — Dart-аньян веб-разработки"
+date: 2014-01-26 16:37
+comments: true
+categories: 
+---
+
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_54_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_54_text.jpg" width="350" /></a>
+</div>
+ 
+Гость выпуска - [Константин Щеглов, Google](https://plus.google.com/+KonstantinScheglov/)
+
+Подводим итоги конкурса на [лучшую поздравительную открытку](http://razbor-poletov.com/2013/12/greeting-card-2013.html)
+
+---
+[Конференция GeekOut 2014](2014.geekout.ee)
+
+[NYJavaSIG - Nashorn: Java and JavaScript. Shaken, Not Stirred](http://www.eventbrite.com/e/nyjavasig-nashorn-java-and-javascript-shaken-not-stirred-tickets-10216807747)
+January 30, 2014 from 6:00 PM to 8:30 PM, New York, NY
+
+---
+
+Небольшой вброс в тему фронт-енда [1](http://jakobz.livejournal.com/236681.html) [2](http://gliv.livejournal.com/125078.html) [3](http://tonsky.livejournal.com/285722.html) [4](http://lionet.livejournal.com/130032.html)
+
+Говорим сегодня про Dart:
+
+* Релиз Dart [1.0](http://blog.chromium.org/2013/11/dart-10-stable-sdk-for-structured-web.html) и следом за ним [1.1](http://news.dartlang.org/2014/01/dart-11-features-up-to-25-faster.html)
+* Try Dart! [1](http://try.dartlang.org/) [2](http://runnable.com/Dart)
+* [Dart Event Loop](https://www.dartlang.org/articles/event-loop/)
+* Tools [1](https://www.dartlang.org/docs/dart-up-and-running/contents/ch04-tools-dart2js.html) [2](https://www.dartlang.org/tools/editor/) [3](https://www.dartlang.org/tools/webstorm/)
+* [Dart build-in HTML methods vs jQuery](https://code.google.com/p/dart/issues/detail?id=8376#c20)
+* [AngularDart](https://www.youtube.com/watch?v=RqKUTGB-CxA#t=1)
+* [Стандартизация Dart](http://news.dartlang.org/2013/12/ecma-forms-tc52-for-dart-standardization.html)
+* [Говорили про REST, Dart и конференции ](http://americhka.us/2014/01/14/416-restful-web-service-and-conferences/)
+
+Полезные ресурсы Dart:
+
+* [DartWeekly](http://dartweekly.com/)
+* [DartSphere](http://www.dartosphere.org/)
+* [Dart Cheat Sheet](http://dartlangfr.net/dart-cheat-sheet/)
+
+Книги по Dart:
+
+* [Dart Programming Language](http://www.amazon.com/Dart-Programming-Language-Gilad-Bracha/dp/0321927702/)
+* [Dart For Hipsters](http://pragprog.com/book/csdart/dart-for-hipsters)
+* [Dart in Action](http://www.manning.com/buckett/ )
+
+Cool stuff: [ICE code editor](https://github.com/eee-c/ice-code-editor) and [Demo](http://gamingjs.com/ice/)
+
+---
+
+_На правах рекламы:_
+
+* Онлайн курс [Modern Web Application Development for Java Programmers](http://www.eventbrite.com/e/modern-web-application-development-for-java-programmers-tickets-9775299183) Скидка $50 код **RazborPoletov** . [Course agenda](https://github.com/yfain/WebDevForJavaProgrammers). [Добавляйтесь в watchers на GitHub](https://github.com/yfain/WebDevForJavaProgrammers/watchers).
+
+---
+
+Наши контакты:
+
+Официальный сайт — [http://razbor-poletov.com](http://razbor-poletov.com)
+
+Темы для следующего выпуска - [https://github.com/razbor-poletov/](https://github.com/razbor-poletov/razbor-poletov.github.com/issues?state=open)
+
+Гости и участники:
+
+twitter: 
+
+ * [@gamussa](https://twitter.com/#!/gamussa)
+ * [@antonarhipov](https://twitter.com/#!/antonarhipov)
+ * [@a_abashev](https://twitter.com/#!/a_abashev)
+ * [@dzmitryc ](https://twitter.com/#!/dzmitryc)
+
+G+:
+
+ * [gplus.to/gAmUssA](http://gplus.to/gAmUssA) 
+ * [gplus.to/aabashev](http://gplus.to/aabashev) 
+ * [https://plus.google.com/+AntonArhipov](https://plus.google.com/+AntonArhipov) 
+ * [https://plus.google.com/+DmitryChurbanov](https://plus.google.com/+DmitryChurbanov) 
+
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_54.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+
+Подписаться по [RSS](http://feeds.feedburner.com/razbor-podcast)
+
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_53.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+
+Музыка ведущим [предоставлена](http://www.audiobank.fm/single-music/27/111/More-And-Less/) и ладно...
