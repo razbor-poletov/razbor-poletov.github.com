@@ -11,7 +11,7 @@ categories:
 </div>
 
 
-* Эй, [ты кто такой](http://www.javaspecialists.eu/)? давайдосвидания! [1](https://twitter.com/heinzkabutz/status/432947749764362240) [2](https://twitter.com/heinzkabutz/status/432947875916439552). [Java Concurrent Animated](sourceforge.net/projects/javaconcurrenta/)
+* Эй, [ты кто такой](http://www.javaspecialists.eu/)? давайдосвидания! [1](https://twitter.com/heinzkabutz/status/432947749764362240) [2](https://twitter.com/heinzkabutz/status/432947875916439552). [Java Concurrent Animated](http://sourceforge.net/projects/javaconcurrenta/)
 * [TypeSafe DSL](http://blog.jooq.org/2014/01/09/advanced-java-trickery-for-typesafe-query-dsls/), [Time in Java 8](http://blog.joda.org/2014/02/new-project-threeten-extra-for-jdk-8.html)
 * Полезняшка [1](https://code.google.com/p/concurrentlinkedhashmap/wiki/Design) [2](http://sysadmincasts.com/) [3](https://github.com/dinedal/textql)
 * Шрифты [1](http://www.mozilla.org/en-US/styleguide/products/firefox-os/typeface/) [2](http://www.fontsquirrel.com/fonts/cousine) 
