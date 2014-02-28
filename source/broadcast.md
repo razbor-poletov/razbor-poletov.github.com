@@ -7,7 +7,7 @@ sharing: true
 footer: true
 ---
 
-Чтобы слушайть, нажмите Play 
+Чтобы слушать, нажмите Play 
 <!-- http://stardust.wavestreamer.com:8062/live/;stream/1 -->
 <audio preload="none">
    <source src="http://volksmusiknetradio.ice.infomaniak.ch/volksmusiknetradio-128.mp3" type="audio/mp3" />
