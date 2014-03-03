@@ -26,7 +26,7 @@ categories:
 
 
 ---
-[Конференция GeekOut 2014](2014.geekout.ee)
+[Конференция GeekOut 2014](http://2014.geekout.ee/)
 
 ---
 
