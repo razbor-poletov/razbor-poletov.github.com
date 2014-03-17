@@ -1,0 +1,54 @@
+---
+layout: post
+title: "Episode 57 — Новые технологии на нашем радаре"
+date: 2014-03-16 16:40
+comments: true
+categories: 
+---
+
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_57_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_57_text.jpg" width="350" /></a>
+</div>
+
+* [Вопрос и зала](http://razbor-poletov.com/2014/03/episode-56.html#comment-1283786859 )
+* Про уверенность в себе и технологии
+* [Что-то маячет на радаре](http://www.thoughtworks.com/radar/)
+* Полезняшка 
+	* [2048](http://gabrielecirulli.github.io/2048/)
+	* [segment.io](https://segment.io/)
+	* [Version Control by example](http://www.amazon.com/Version-Control-Example-Eric-Sink/dp/0983507902/)
+	* [Fossil](http://www.fossil-scm.org/index.html/doc/tip/www/quickstart.wiki)
+	* [Chronon debugger](http://blog.jetbrains.com/idea/2014/03/try-chronon-debugger-with-intellij-idea-13-1-eap/)
+* [The Netflix Scripting Platform](http://techblog.netflix.com/2014/03/the-netflix-dynamic-scripting-platform.html) 
+* [10 правил code review](http://blog.codacy.com/top-10-faster-code-reviews/)
+
+---
+
+Наши контакты:
+
+Официальный сайт — [http://razbor-poletov.com](http://razbor-poletov.com)
+
+Темы для следующего выпуска - [https://github.com/razbor-poletov/](https://github.com/razbor-poletov/razbor-poletov.github.com/issues?state=open)
+
+Гости и участники:
+
+twitter: 
+
+ * [Виктор Гамов-Загудзонский](https://twitter.com/#!/gamussa)
+ * [Антон Архипов-Шпайзман](https://twitter.com/#!/antonarhipov)
+ * [Алексей Шариков Абашев](https://twitter.com/#!/a_abashev)
+ * [Дмитрий Чурбанов-Деревянский ](https://twitter.com/#!/dzmitryc)
+
+G+:
+
+ * [gplus.to/gAmUssA](http://gplus.to/gAmUssA) 
+ * [gplus.to/aabashev](http://gplus.to/aabashev) 
+ * [https://plus.google.com/+AntonArhipov](https://plus.google.com/+AntonArhipov) 
+ * [https://plus.google.com/+DmitryChurbanov](https://plus.google.com/+DmitryChurbanov) 
+
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_57.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
