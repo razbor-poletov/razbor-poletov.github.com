@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2014-03-23T19:15:44-04:00</updated>
+  <updated>2014-03-23T19:16:17-04:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov]]></name>
@@ -23,10 +23,13 @@
 </div>
 
 
-<p><em>Приглашенные гости:</em>
-Алексей Федоров про <a href="http://javapoint.ru/">JPoint</a>
-Yakov Fain про неконференции <a href="http://dou.ua/lenta/columns/unconference/">1</a> <a href="http://www.meetup.com/UkraineMaeUnconference/">2</a>
-Николай Алименков про <a href="http://jeeconf.com/">JEEConf 2014</a></p>
+<p><em>Приглашенные гости:</em></p>
+
+<p>Алексей Федоров про <a href="http://javapoint.ru/">JPoint</a></p>
+
+<p>Yakov Fain про неконференции <a href="http://dou.ua/lenta/columns/unconference/">1</a> <a href="http://www.meetup.com/UkraineMaeUnconference/">2</a></p>
+
+<p>Николай Алименков про <a href="http://jeeconf.com/">JEEConf 2014</a></p>
 
 <hr />
 
