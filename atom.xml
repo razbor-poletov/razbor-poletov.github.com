@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2014-03-23T15:01:01-04:00</updated>
+  <updated>2014-03-23T19:15:44-04:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov]]></name>
@@ -12,6 +12,89 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 58 — Конференции, анонимные программисты и добро]]></title>
+    <link href="http://razbor-poletov.com/2014/03/episode-58.html"/>
+    <updated>2014-03-23T17:44:00-04:00</updated>
+    <id>http://razbor-poletov.com/2014/03/episode-58</id>
+    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_58_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_58_text.jpg" width="350" /></a>
+</div>
+
+
+<p><em>Приглашенные гости:</em>
+Алексей Федоров про <a href="http://javapoint.ru/">JPoint</a>
+Yakov Fain про неконференции <a href="http://dou.ua/lenta/columns/unconference/">1</a> <a href="http://www.meetup.com/UkraineMaeUnconference/">2</a>
+Николай Алименков про <a href="http://jeeconf.com/">JEEConf 2014</a></p>
+
+<hr />
+
+<p><em>Конференции</em>
+<a href="http://2014.geekout.ee/speakers/">GeekOUT 2014</a>
+<a href="http://www.oracle.com/javaone/index.html">JavaOne 2014</a></p>
+
+<p>Неконференции
+<a href="http://www.jcrete.org/">JCrete</a></p>
+
+<p>Опросник от RebelLabs http://0t.ee/rlsurvey14</p>
+
+<p>&#8220;Глобальное добро&#8221; в software development.</p>
+
+<hr />
+
+<pre><code>Промо-код RAZBOR_POLETOV. Скидка на JPoint (25%) и JEE (20%)
+</code></pre>
+
+<p>Наши контакты:</p>
+
+<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
+
+<p>Темы для следующего выпуска - <a href="https://github.com/razbor-poletov/razbor-poletov.github.com/issues?state=open">https://github.com/razbor-poletov/</a></p>
+
+<p>Гости и участники:</p>
+
+<p>twitter:</p>
+
+<ul>
+<li><a href="https://twitter.com/#!/gamussa">@gamussa</a></li>
+<li><a href="https://twitter.com/#!/antonarhipov">@antonarhipov</a></li>
+<li><a href="https://twitter.com/#!/a_abashev">@a_abashev</a></li>
+<li><a href="https://twitter.com/#!/dzmitryc">@dzmitryc </a></li>
+<li><a href="https://twitter.com/#!/xpinjection">@xpinjection</a></li>
+<li><a href="https://twitter.com/#!/23derevo">@23derevo</a></li>
+<li><a href="https://twitter.com/#!/jbaruch">@jbaruch</a></li>
+</ul>
+
+
+<p>G+:</p>
+
+<ul>
+<li><a href="http://gplus.to/gAmUssA">gplus.to/gAmUssA</a></li>
+<li><a href="http://gplus.to/aabashev">gplus.to/aabashev</a></li>
+<li><a href="https://plus.google.com/+AntonArhipov">https://plus.google.com/+AntonArhipov</a></li>
+<li><a href="https://plus.google.com/+DmitryChurbanov">https://plus.google.com/+DmitryChurbanov</a></li>
+</ul>
+
+
+<!-- player goes here-->
+
+
+<p><audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_58.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio></p>
+
+<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
+
+<!-- episode file link goes here-->
+
+
+<p><a href="http://traffic.libsyn.com/razborpoletov/razbor_58.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
+
+<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 57 — Новые технологии на нашем радаре]]></title>
@@ -3657,96 +3740,6 @@ The 2013 JavaOne Russia Call-for-Papers is open.  Deadline for submissions is Fe
     </ol>
     <audio preload="none">
   <source src="http://traffic.libsyn.com/razborpoletov/razbor_14_1.mp3" type="audio/mp3" />
-  Your browser does not support the audio tag.
-</audio>
-</div>]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 13 — Чертова дюжина]]></title>
-    <link href="http://razbor-poletov.com/2012/03/episode-13.html"/>
-    <updated>2012-03-09T00:00:00-05:00</updated>
-    <id>http://razbor-poletov.com/2012/03/episode-13</id>
-    <content type="html"><![CDATA[<div class='post'>
-    Представляет вашему вниманию тринадцатый выпуск разговорно-болтологического
-    IT-тематического подкаста «Разбор полетов». В этом выпуске:
-    <ul>
-        <li>
-            Феерическое расставление точек над вопросом лицензий
-            <a href="http://www.sonatype.com/people/2012/01/how-well-do-you-know-your-open-source-licensing/">[1]</a>
-            <a href="http://www.sonatype.com/content/download/757/8384/file/why_you_should_care_about_open_source_licensing.pdf">[2]</a>
-        </li>
-        <li>
-            Слоны не против
-            <a href="http://blog.evernote.com/tech/2012/02/23/whysql/">SQL</a>
-        </li>
-        <li>
-            Полезняшка
-            <a href="http://icedtea.classpath.org/wiki/Thermostat">Термостат</a>
-            или не осилили
-            <a href="http://www.opennet.ru/opennews/art.shtml?num=33169">DTrace</a>
-            ?
-        </li>
-        <li>
-            Уголок client-side programming в подкасте.
-            <a href="http://engineering.linkedin.com/frontend/client-side-templating-throwdown-mustache-handlebars-dustjs-and-more">JS in LinkedIn, take 2</a>
-        </li>
-        <li>
-            Maven?
-            <a href="http://dan.bodar.com/2012/02/28/crazy-fast-build-times-or-when-10-seconds-starts-to-make-you-nervous/">Страшное дело&#8230;</a>
-        </li>
-        <li>
-            REST?
-            <a href="http://blog.steveklabnik.com/posts/2011-07-03-nobody-understands-rest-or-http">Ты делаешь его не правильно</a>
-        </li>
-    </ul>
-    <table cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;">
-        <tbody>
-            <tr>
-                <td style="text-align: center;">
-                    <a href="http://traffic.libsyn.com/razborpoletov/razbor_13.mp3"
-                    imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
-                </td>
-            </tr>
-            <tr>
-                <td class="tr-caption" style="text-align: center;">
-                    Скачать mp3 бесплатно БЕЗ СМС&nbsp;
-                </td>
-            </tr>
-        </tbody>
-    </table>
-    Наши контакты:
-    <ol>
-        <li>
-            Официальный сайт&nbsp;&mdash;
-            <a href="http://razbor-poletov.com">http://razbor-poletov.com</a>
-        </li>
-        <li>
-            twitter:
-            <a href="http://twitter.com/a_abashev">@a_abashev</a>
-            <a href="http://twitter.com/gamussa">@gamussa</a>
-        </li>
-        <li>
-            G+:
-            <a href="http://gplus.to/gAmUssA">gplus.to/gAmUssA</a>
-            <a href="http://gplus.to/aabashev">http://gplus.to/aabashev</a>
-        </li>
-        <li>
-            Подписаться по&nbsp;
-            <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a>
-        </li>
-    </ol>
-    p.s. Скидка 13% на участи в тренинге
-    <a href="http://www.eventbrite.com/event/3024521425 ">Java, JavaEE</a>
-    и
-    <a href="http://www.eventbrite.com/event/3030352867">ExtJs</a>
-    для слушателей подкаста. Код
-    <strong>
-        razbor
-    </strong>
-    Подробности в районе 58-й минуты
-<audio preload="none">
-  <source src="http://traffic.libsyn.com/razborpoletov/razbor_13.mp3" type="audio/mp3" />
   Your browser does not support the audio tag.
 </audio>
 </div>]]></content>
