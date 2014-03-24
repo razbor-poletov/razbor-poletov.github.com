@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Episode 58 — Конференции и добро"
+title: "Episode 58 — Конференции, анонимные программисты и добро"
 date: 2014-03-23 17:44
 comments: true
 categories: 
@@ -11,8 +11,11 @@ categories:
 </div>
 
 _Приглашенные гости:_
+
 Алексей Федоров про [JPoint](http://javapoint.ru/)
+
 Yakov Fain про неконференции [1](http://dou.ua/lenta/columns/unconference/ ) [2](http://www.meetup.com/UkraineMaeUnconference/)
+
 Николай Алименков про [JEEConf 2014](http://jeeconf.com/)
 
 ---
@@ -46,9 +49,11 @@ twitter:
  * [@antonarhipov](https://twitter.com/#!/antonarhipov)
  * [@a_abashev](https://twitter.com/#!/a_abashev)
  * [@dzmitryc ](https://twitter.com/#!/dzmitryc)
- * [@xpinjection](https://twitter.com/#!/xpinjection)
  * [@23derevo](https://twitter.com/#!/23derevo)
+ * [@yfain](https://twitter.com/#!/yfain) 
+ * [@xpinjection](https://twitter.com/#!/xpinjection)
  * [@jbaruch](https://twitter.com/#!/jbaruch) 
+ 
 
 G+:
 
