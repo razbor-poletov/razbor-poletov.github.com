@@ -1,0 +1,61 @@
+---
+layout: post
+title: "Episode 34 – Идут лабораторные работы"
+date: 2013-02-20 17:11
+comments: true
+categories: 
+---
+
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_34_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_34_text.jpg" width="350" /></a></div>
+
+- [Почему надо сделать лабу](http://www.theregister.co.uk/2013/02/07/home_lab_career_saver/)
+- [Кэширование для начинающих](http://blog.enoughtobedanger.us/caching-for-beginners/ )
+- Полезняшка
+    - [Java Mini Profiler](https://github.com/alvins82/java-mini-profiler-core)
+    - [SouceLabs](https://saucelabs.com)
+    - [Squash.io](http://squash.io)
+- [Функциональные коллекции](http://www.javaadvent.com/2012/12/functional-java-collections.html) [и не только](http://plumbr.eu/blog/selecting-your-collections-library)
+
+**Внимание! Конференции!**
+
+[JavaOne Россия](http://javaone.ru)
+
+- Official event hashtag is: #JavaOneRussia
+- Official twitter of the event is: @JavaOneRussia 
+
+[JEE Conf](http://jeeconf.com) - Конференция Java практиков в Украине
+
+- [Call for papers open till April, 6](https://docs.google.com/spreadsheet/viewform?formkey=dHR5NjhBU2M3OVQyX1djV29fY0FSbXc6MA)
+- [Speakers](http://jeeconf.com/speakers/)
+
+Наши контакты:
+
+Официальный сайт — [http://razbor-poletov.com](http://razbor-poletov.com)
+
+twitter: 
+
+ * [@a_abashev](https://twitter.com/#!/a_abashev) 
+ * [@gamussa](https://twitter.com/#!/gamussa)
+ * [@jbaruch](https://twitter.com/#!/jbaruch)
+
+G+:
+
+ * [gplus.to/gAmUssA](http://gplus.to/gAmUssA) 
+ * [gplus.to/aabashev](http://gplus.to/aabashev) 
+ * [gplus.to/dmitryc](http://gplus.to/dmitryc)
+ * [gplus.to/jbaruch](https://plus.google.com/104301617063075159178)
+
+<!-- player goes here-->
+
+<audio preload="none">
+  <source src="http://traffic.libsyn.com/razborpoletov/razbor_34.mp3" type="audio/mp3" />
+  Your browser does not support the audio tag.
+</audio>
+
+Подписаться по [RSS](http://feeds.feedburner.com/razbor-podcast)
+
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_34.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+
+Музыка ведущим [предоставлена](http://www.audiobank.fm/single-music/27/111/More-And-Less/) и ладно...

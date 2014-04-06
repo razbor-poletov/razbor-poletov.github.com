@@ -1,0 +1,84 @@
+---
+layout: post
+title: "Episode 44 — О чем спляшем и споем на JavaOne"
+date: 2013-09-16 16:31
+comments: true
+categories: 
+---
+
+
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_44_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_44_text.jpg" width="350" /></a>
+</div>
+
+
+[**Gold is best!**](https://www.youtube.com/watch?v=n7-RetY7fGo )
+
+**Конференции**
+
+* JavaOne 2013. Куда сходить
+     * [Sessions Builder](http://www.oracle.com/webapps/token/scheduler13)
+     * [Jake Blues](http://arhipov.blogspot.com/2013/06/speaking-at-javaone-sf-2013.html)
+     * [Elwood Blues](http://next.javaheadbrain.com/posts/2013/07/09/im-speaking-at-javaone.html) 
+     * [GlassFish Party](http://glassfish-party13.eventbrite.com/)
+     * [Code Garden](https://blogs.oracle.com/javaone/entry/codegarten_at_javaone) 
+
+**Еще конференции:**
+
+* [JavaDay Киев](http://javaday.org.ua/) 
+* [XPdays](http://xpdays.com.ua). [Подробней...](http://xpinjection.com/2013/08/05/xp-days-ukraine-2013/)
+* [JavaDay Рига](http://javaday.lv/) 
+* [Joker](http://jokerconf.com/  )
+
+**Новости одной строкой:**
+
+* релиз JDK 1.7 u40 с [поддержкой ретины](http://bulenkov.com/2013/06/23/retina-support-in-oracle-jdk-1-7/ ) и [почему это важно](http://bulenkov.com/2013/09/12/font-rendering-apple-jdk-6-vs-oracle-jdk-1-7-0_40/). А так же [Mission Control](http://hirt.se/blog/?p=388) и [Flight Recorder](http://hirt.se/blog/?p=370)
+* [JDK 1.8 Developer Preview](http://mreinhold.org/blog/jdk8-preview )
+* [Nashorn Fireworks Demo](https://blogs.oracle.com/nashorn/entry/javaone_a_year_makes_a )
+
+**Гавностратс **
+
+**Полезняшки (очень много!!!):**
+
+* [Очереди](http://queues.io)
+* [Workflows](https://www.atlassian.com/git/workflows/ )
+* [Забэкапь свой гит](https://github.com/google/hesokuri)
+* [Правильный плагин для AsciiDoc](https://chrome.google.com/webstore/detail/asciidoctorjs-live-previe/iaalpfgpbocpdfblpnhhgllgbdbchmia )
+* [Новое место для Spring](http://spring.io/ )
+* Сервера:
+     * [Откат](http://undertow.io/  )
+     * [Коротышка в плаще](http://www.jboss.org/capedwarf)
+* [Если динамить, то сначала локально](http://aws.typepad.com/aws/2013/09/dynamodb-local-for-desktop-development.html)
+* [Собрать все лучшее из OSS и продавать](http://markmail.org/message/3o6n5pvywabas5s3)
+
+
+Наши контакты:
+
+Официальный сайт — [http://razbor-poletov.com](http://razbor-poletov.com)
+
+Гости и участники:
+
+twitter: 
+
+ * [@a_abashev](https://twitter.com/#!/a_abashev) 
+ * [@gamussa](https://twitter.com/#!/gamussa)
+ * [@antonarhipov](https://twitter.com/#!/antonarhipov)
+
+G+:
+
+ * [gplus.to/gAmUssA](http://gplus.to/gAmUssA) 
+ * [gplus.to/aabashev](http://gplus.to/aabashev) 
+
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_44.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+
+Подписаться по [RSS](http://feeds.feedburner.com/razbor-podcast)
+
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_44.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+
+Музыка ведущим [предоставлена](http://www.audiobank.fm/single-music/27/111/More-And-Less/) и ладно...

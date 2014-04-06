@@ -1,0 +1,62 @@
+---
+layout: post
+title: "Episode 55 — Dr. H. Kabutz, ты кто такой?! давайдосвиданья!"
+date: 2014-02-16 17:45
+comments: true
+categories: 
+---
+
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_55_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_55_text.jpg" width="350" /></a>
+</div>
+
+
+* Эй, [ты кто такой](http://www.javaspecialists.eu/)? давайдосвидания! [1](https://twitter.com/heinzkabutz/status/432947749764362240) [2](https://twitter.com/heinzkabutz/status/432947875916439552). [Java Concurrent Animated](http://sourceforge.net/projects/javaconcurrenta/)
+* [TypeSafe DSL](http://blog.jooq.org/2014/01/09/advanced-java-trickery-for-typesafe-query-dsls/), [Time in Java 8](http://blog.joda.org/2014/02/new-project-threeten-extra-for-jdk-8.html)
+* Полезняшка [1](https://code.google.com/p/concurrentlinkedhashmap/wiki/Design) [2](http://sysadmincasts.com/) [3](https://github.com/dinedal/textql)
+* Шрифты [1](http://www.mozilla.org/en-US/styleguide/products/firefox-os/typeface/) [2](http://www.fontsquirrel.com/fonts/cousine) 
+* Gif Screencast [1](https://plus.google.com/app/basic/stream/z12bxnvp3sy3yj33v23nwtk45znjznqwv04) [2](http://www.cockos.com/licecap/)
+* [Книжный клуб: Driving Technical Change: Why People on Your Team Don't Act on Good Ideas, and How to Convince Them They Should](http://pragprog.com/book/trevan/driving-technical-change)
+* [Cloud Patterns](http://blogs.msdn.com/b/escience/archive/2014/01/28/cloud-design-patterns-now-available.aspx)
+* [Db shards](http://googlecloudplatform.blogspot.com/2014/02/using-dbshards-and-cloud-sql-to-provide.html)
+* [API versioning ](http://www.troyhunt.com/2014/02/your-api-versioning-is-wrong-which-is.html)
+* [Почему Google использует Java, а не Python](http://www.quora.com/Google-Engineering/Why-does-Google-prefer-the-Java-stack-for-its-products-instead-of-Python/answer/Robert-Love-1) и [их стандарты](http://www.infoq.com/news/2014/02/google-java-coding-standards) 
+
+
+---
+
+Наши контакты:
+
+Официальный сайт — [http://razbor-poletov.com](http://razbor-poletov.com)
+
+Темы для следующего выпуска - [https://github.com/razbor-poletov/](https://github.com/razbor-poletov/razbor-poletov.github.com/issues?state=open)
+
+Гости и участники:
+
+twitter: 
+
+ * [@gamussa](https://twitter.com/#!/gamussa)
+ * [@antonarhipov](https://twitter.com/#!/antonarhipov)
+ * [@a_abashev](https://twitter.com/#!/a_abashev)
+ * [@dzmitryc ](https://twitter.com/#!/dzmitryc)
+
+G+:
+
+ * [gplus.to/gAmUssA](http://gplus.to/gAmUssA) 
+ * [gplus.to/aabashev](http://gplus.to/aabashev) 
+ * [https://plus.google.com/+AntonArhipov](https://plus.google.com/+AntonArhipov) 
+ * [https://plus.google.com/+DmitryChurbanov](https://plus.google.com/+DmitryChurbanov) 
+
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_55.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+
+Подписаться по [RSS](http://feeds.feedburner.com/razbor-podcast)
+
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_55.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+
+Музыка ведущим [предоставлена](http://www.audiobank.fm/single-music/27/111/More-And-Less/) и ладно...

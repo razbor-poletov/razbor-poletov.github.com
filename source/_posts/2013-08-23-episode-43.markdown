@@ -1,0 +1,60 @@
+---
+layout: post
+title: "Episode 43 — Диалоги о JetBrains"
+date: 2013-08-23 14:41
+comments: true
+categories: 
+---
+
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_43_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_43_text.jpg" width="350" /></a>
+</div>
+
+* Гость выпуска - *Дмитрий Борисович Жемеров*, CTO, Jetbrains
+* Про продукты и плагины
+	*  Pair Programming [1](https://floobits.com/) [2](http://codeinterview.me/)
+	* Android Studio
+	* VCS
+	* IDEA
+	* [UpSource](https://upsource.jetbrains.com/)
+	* Google Dart
+	* C++ IDE
+	* MPS [1](http://mbeddr.wordpress.com/) 
+	* Kotlin [1](http://johnlindquist.com/) [2](http://icfpc2013.cloudapp.net/)
+	* [JetBrains Day](http://www.jetbrains.com/jetbrainsday/)
+	* Треп за IDE [1](http://www.youtube.com/watch?v=xAP8CSMEwZ8)
+*  [вопросы слушателей](https://plus.google.com/117481599451076280717/posts/AKtJC1bZZnT)
+*  ИНСАЙДЫ!!!
+
+Наши контакты:
+
+Официальный сайт — [http://razbor-poletov.com](http://razbor-poletov.com)
+
+Гости и участники:
+
+twitter: 
+
+ * [@a_abashev](https://twitter.com/#!/a_abashev) 
+ * [@gamussa](https://twitter.com/#!/gamussa)
+ * [@antonarhipov](https://twitter.com/#!/antonarhipov)
+ * [@intelliyole](https://twitter.com/intelliyole)
+
+G+:
+
+ * [gplus.to/gAmUssA](http://gplus.to/gAmUssA) 
+ * [gplus.to/aabashev](http://gplus.to/aabashev) 
+ * [gplus.to/dmitryc](http://gplus.to/dmitryc)
+
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_43.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+
+Подписаться по [RSS](http://feeds.feedburner.com/razbor-podcast)
+
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_43.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+
+Музыка ведущим [предоставлена](http://www.audiobank.fm/single-music/27/111/More-And-Less/) и ладно...

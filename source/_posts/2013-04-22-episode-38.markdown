@@ -1,0 +1,69 @@
+---
+layout: post
+title: "Episode 38 — Правильные инструменты пыток и юнит-тесты"
+date: 2013-04-22 15:28
+comments: true
+categories: 
+---
+
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_38_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_38_text.jpg" width="350" /></a>
+</div>
+
+- Кто-то расскажет про Play
+- [16 правильных способов замучить девелоперов](http://www.javaworld.com/javaworld/jw-04-2013/130404-16-ways-to-torture-developers.html)
+- Полезняшки:
+    - Facebook [заопенсорсил](https://github.com/facebook/buck) [BUCK](http://facebook.github.io/buck/) и [Немного истории откуда это взялось](http://google-engtools.blogspot.com/2011/08/build-in-cloud-how-build-system-works.html). Но почему не [Gradle](http://tools.android.com/tech-docs/new-build-system/user-guide)?
+    - [http://logstash.net/](http://logstash.net/)
+- [Проекты - это зло](http://evan.bottch.com/2010/08/29/projects-are-evil-and-must-be-destroyed/) 
+- [Что же все-таки такое юнит-тесты](http://www.withouttheloop.com/articles/2013-04-07-unit-tests/) 
+- [Как сделать опинсорсный проект еще более охренительным](http://blog.clojurewerkz.org/blog/2013/04/20/how-to-make-your-open-source-project-really-awesome/)
+    - [Dynamically Rendering GitHub Files in Web Pages](http://www.jamesward.com/2012/06/15/dynamically-rendering-github-files-in-web-pages)
+    - [Asciidoctor](http://asciidoctor.org/)
+
+---
+**Внимание! Конференции!**
+
+- [JavaOne Россия](http://javaone.ru)
+    - Official event hashtag is: #[JavaOneRussia](https://twitter.com/search?q=%23JavaOneRussia)
+    - Official twitter of the event is: [@JavaOneRussia](https://twitter.com/JavaOneRussia) 
+    - Пишите **_#razborpoletov_** на бэйджах, чтобы опознать наших!
+- [JEE Conf](http://jeeconf.com/speakers/) - Конференция Java практиков в Украине 
+    - [трейнинг по ExtJS](http://jeeconf.com/program/extjs/) - места еще есть, регистрируйтесь! 
+- [JavaOne](http://www.oracle.com/javaone/index.html)
+    - [Call For Proposal open till April, 23](http://www.oracle.com/javaone/call-for-papers/information/index.html)
+- Главная причина съездить в Таллин летом - [Geekout 2013](http://geekout.ee/)
+
+---
+
+Наши контакты:
+
+Официальный сайт — [http://razbor-poletov.com](http://razbor-poletov.com)
+
+Гости и участники:
+
+twitter: 
+
+ * [@a_abashev](https://twitter.com/#!/a_abashev) 
+ * [@gamussa](https://twitter.com/#!/gamussa)
+ * [@antonarhipov](https://twitter.com/antonarhipov)
+
+G+:
+
+ * [gplus.to/gAmUssA](http://gplus.to/gAmUssA) 
+ * [gplus.to/aabashev](http://gplus.to/aabashev) 
+ * [gplus.to/dmitryc](http://gplus.to/dmitryc)
+
+<!-- player goes here-->
+
+<audio preload="none">
+  <source src="http://traffic.libsyn.com/razborpoletov/razbor_38.mp3" type="audio/mp3" />
+  Your browser does not support the audio tag.
+</audio>
+
+Подписаться по [RSS](http://feeds.feedburner.com/razbor-podcast)
+
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_38.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+
+Музыка ведущим [предоставлена](http://www.audiobank.fm/single-music/27/111/More-And-Less/) и ладно...

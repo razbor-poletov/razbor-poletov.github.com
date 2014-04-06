@@ -1,0 +1,55 @@
+---
+layout: post
+title: "Episode 29 — Год в Эфире"
+date: 2012-12-05 00:22
+comments: true
+categories: 
+---
+
+<img border="0" width="350" height="350" src="https://lh3.googleusercontent.com/-RAQJql0Vn14/UL7apCLEFfI/AAAAAAAAJNY/PO-32BBo56s/s501/razbor_29_text.png
+"/>
+
+- [Why Java EE Lost and Spring Won](http://java.dzone.com/articles/why-java-ee-lost-and-spring)
+- [Engineering Elegance: The Secrets of Square's Stack](http://www.infoq.com/presentations/Square)
+    - [Tape](http://square.github.com/tape/)
+    - [One-JAR](http://one-jar.sourceforge.net/)
+    - [Dropwizard](http://dropwizard.codahale.com/getting-started/)
+    - [Resque](https://github.com/blog/542-introducing-resque)
+    - [Dependency Injection In Action](http://www.manning.com/prasanna/)
+    - [Dagger](http://square.github.com/dagger/)
+- Полезняшка
+    - [Chrome Devtools Cheatsheet](http://anti-code.com/devtools-cheatsheet/) 
+
+- [Instagram Co-Founder Mike Krieger's 8 Principles For Building Products People Want](http://techcrunch.com/2012/11/30/instagram-co-founder-mike-kriegers-8-principles-for-building-products-people-want/)
+
+[Лог Чатика](http://razbor-poletov.com/broadcast/2012-12-02.html)
+
+Наши контакты:
+
+Официальный сайт — [http://razbor-poletov.com](http://razbor-poletov.com)
+
+twitter: 
+
+ * [@a_abashev](https://twitter.com/#!/a_abashev) 
+ * [@gamussa](https://twitter.com/#!/gamussa)
+
+G+:
+
+ * [gplus.to/gAmUssA](http://gplus.to/gAmUssA) 
+ * [gplus.to/aabashev](http://gplus.to/aabashev) 
+ * [gplus.to/dmitryc](http://gplus.to/dmitryc)
+
+<!-- player goes here-->
+
+<audio preload="none">
+  <source src="http://traffic.libsyn.com/razborpoletov/razbor_29.mp3" type="audio/mp3" />
+  Your browser does not support the audio tag.
+</audio>
+
+Подписаться по [RSS](http://feeds.feedburner.com/razbor-podcast)
+
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_29.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+
+Музыка ведущим [предоставлена](http://www.audiobank.fm/single-music/27/111/More-And-Less/) и ладно...
+

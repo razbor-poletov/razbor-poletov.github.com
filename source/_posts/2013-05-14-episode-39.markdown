@@ -1,0 +1,64 @@
+---
+layout: post
+title: "Episode 39 — Снова здоровый!"
+date: 2013-05-14 20:14
+comments: true
+categories: 
+---
+
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/logo_final_w_512.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/logo_final_w_512.png" width="350" /></a>
+</div>
+
+- Новый логотип. Спасибо [D-Vision](http://d-vision.kz/)!
+- Вести с полей (одной строкой)
+     - [TypeSafe Platform](http://www.typesafe.com/platform/getstarted) 
+     - [Spring XD](http://blog.springsource.org/2013/04/23/introducing-spring-xd/)
+- Полезняшка
+     - [git-extras](https://github.com/visionmedia/git-extras) ([demo](https://vimeo.com/45506445))
+     - [CLOC](http://cloc.sourceforge.net/)
+     - [gitignore](http://gitignore.io/)
+- Берегите женщин, женщин берегитесь [1](http://adainitiative.org/2013/04/github-donates-private-repositories-to-women-learning-open-source-software/), [2](http://www.sharpeytech.com/on-women-and-technology/)
+- [И вновь о unit-testing](http://agile.dzone.com/articles/not-using-test-first-youre)
+    - [Unitils](http://www.unitils.org/summary.html) 
+- [Фактор-12](http://www.12factor.net/)
+
+---
+**Внимание! Конференции!**
+
+- [JEE Conf](http://jeeconf.com/speakers/) - Конференция Java практиков в Украине 
+    - [правильный трейнинг по ExtJS](http://jeeconf.com/program/extjs/) - места еще есть, регистрируйтесь! 
+- Главная причина съездить в Таллин летом - [Geekout 2013](http://geekout.ee/)
+
+---
+
+Наши контакты:
+
+Официальный сайт — [http://razbor-poletov.com](http://razbor-poletov.com)
+
+Гости и участники:
+
+twitter: 
+
+ * [@a_abashev](https://twitter.com/#!/a_abashev) 
+ * [@gamussa](https://twitter.com/#!/gamussa)
+ * [@xpinjection](https://twitter.com/xpinjection)
+
+G+:
+
+ * [gplus.to/gAmUssA](http://gplus.to/gAmUssA) 
+ * [gplus.to/aabashev](http://gplus.to/aabashev) 
+
+<!-- player goes here-->
+
+<audio preload="none">
+  <source src="http://traffic.libsyn.com/razborpoletov/razbor_39.mp3" type="audio/mp3" />
+  Your browser does not support the audio tag.
+</audio>
+
+Подписаться по [RSS](http://feeds.feedburner.com/razbor-podcast)
+
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_39.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+
+Музыка ведущим [предоставлена](http://www.audiobank.fm/single-music/27/111/More-And-Less/) и ладно...

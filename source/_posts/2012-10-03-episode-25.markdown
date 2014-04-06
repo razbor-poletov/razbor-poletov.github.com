@@ -1,0 +1,56 @@
+---
+layout: post
+title: "Episode 25 — Из JavaOne с любовью"
+date: 2012-10-03 01:31
+comments: true
+categories: 
+---
+
+<img border="0" width="350" height="350" src="http://s.rpod.ru/data/pictures/00/00/01/01/92/d53195496dbc96e45b93b99896e4b041.png"/>
+
+<!-- topics goes here-->
+Внезапный специальный выпуск с рассказом о конференции JavaOne, которая проходит в San Francisco сейчас.
+
+- [проблемы кейнотов](http://yakovfain.com/2012/10/02/javaone-2012-the-keynotes/)
+- ничего не работает
+- запоздалый JavaFX и внезапный JavaScript
+- модуляризация модуляризаторов
+- слоооожно.....
+- девелоперс, девелоперс и их проблемы и как с ними не считаются
+- [WTF is Avatar ??!!](http://www.kai-waehner.de/blog/2012/10/02/avatar-as-alternative-for-java-server-faces-jsf-and-javafx-javaone-2012/)
+- мастера игры
+
+**p.s.** Запись проходила в боевых условиях на территории, оккупированной захватчиками. Поэтому проскакивают клипики
+
+Наши контакты:
+
+Официальный сайт — [http://razbor-poletov.com](http://razbor-poletov.com)
+
+Наш facebook - [https://www.facebook.com/RazborPoletovPodcast](https://www.facebook.com/razborPoletovPodcast)
+
+Гости и участники:
+
+* [@gamussa](https://twitter.com/#!/gamussa)
+* [@antonarhipov](https://twitter.com/antonarhipov)
+* [@yfain](https://twitter.com/yfain)
+
+G+:
+
+ * [gplus.to/gAmUssA](http://gplus.to/gAmUssA) 
+ * [Anton Arhipov](https://plus.google.com/105779776776467952201) 
+ * [Yakov Fain](https://plus.google.com/116033097136007429330/posts)
+
+<!-- player goes here-->
+<audio preload="none">
+  <source src="http://traffic.libsyn.com/razborpoletov/razbor_25.mp3" type="audio/mp3" />
+  Your browser does not support the audio tag.
+</audio>
+
+Подписаться по [RSS](http://feeds.feedburner.com/razbor-podcast)
+<!-- habralink goes here-->
+
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_25.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+
+Музыка ведущим [предоставлена](http://www.audiobank.fm/single-music/27/111/More-And-Less/) и ладно...
+

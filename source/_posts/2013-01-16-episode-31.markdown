@@ -1,0 +1,48 @@
+---
+layout: post
+title: "Episode 31 — Староновогодний Выпуск"
+date: 2013-01-16 12:17
+comments: true
+categories: 
+---
+
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://1.bp.blogspot.com/-MwZqegR9tCs/UPcBGmc9m4I/AAAAAAAAJRk/EfQ7bTEoRfk/s1600/razbor_31.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="300" src="http://1.bp.blogspot.com/-MwZqegR9tCs/UPcBGmc9m4I/AAAAAAAAJRk/EfQ7bTEoRfk/s400/razbor_31.png" width="300" /></a></div>
+
+- [Вечные ценности](http://simpleprogrammer.com/2012/12/09/the-4-most-important-skills-for-a-software-developer/)
+- [Чему можно поучиться в 2012 году](http://venturebeat.com/2012/12/23/developer-stories-of-2012/) 
+- [На кого поучиться в 2013 году Tech Jobs In 2013: Open Source All The Way Down
+](http://readwrite.com/2012/12/31/tech-jobs-in-2013-open-source-open-data)
+- Полезняшка
+    - [Хозяин](http://lviggiano.github.com/owner/) 
+    - [Как JSON, только с перламутровыми пуговицами](http://msgpack.org) 
+- [Сколько вешать в граммах?](http://gizmodo.com/5972438/its-time-for-the-us-to-go-metric) 
+
+Наши контакты:
+
+Официальный сайт — [http://razbor-poletov.com](http://razbor-poletov.com)
+
+twitter: 
+
+ * [@a_abashev](https://twitter.com/#!/a_abashev) 
+ * [@gamussa](https://twitter.com/#!/gamussa)
+
+G+:
+
+ * [gplus.to/gAmUssA](http://gplus.to/gAmUssA) 
+ * [gplus.to/aabashev](http://gplus.to/aabashev) 
+ * [gplus.to/dmitryc](http://gplus.to/dmitryc)
+
+<!-- player goes here-->
+
+<audio preload="none">
+  <source src="http://traffic.libsyn.com/razborpoletov/razbor_31.mp3" type="audio/mp3" />
+  Your browser does not support the audio tag.
+</audio>
+
+Подписаться по [RSS](http://feeds.feedburner.com/razbor-podcast)
+
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_31.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+
+Музыка ведущим [предоставлена](http://www.audiobank.fm/single-music/27/111/More-And-Less/) и ладно...

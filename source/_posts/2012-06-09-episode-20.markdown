@@ -1,0 +1,64 @@
+---
+layout: post
+title: "Episode 20 — Программисты-оптимисты"
+date: 2012-06-09 16:50
+comments: true
+categories: 
+---
+
+<a href="https://lh6.googleusercontent.com/-E9NizWkWsBk/T7PpJBkhIEI/AAAAAAAAIN8/NbFPu__zcpg/s542/12+-+1" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 2em; padding-right: 2em"><img border="0" height="320" src="https://lh6.googleusercontent.com/-E9NizWkWsBk/T7PpJBkhIEI/AAAAAAAAIN8/NbFPu__zcpg/s320/12+-+1" width="320" /></a>
+
+Представляем Вашему вниманию юбилейный двадцатый выпуск подкаста «Разбор Полетов», в котором мы говорим о событиях и технологиях, которые взволновали нас на этой неделе, и будут волновать Вас!
+В сегодняшнем выпуске мы поговорим:
+
+1. [Начало конца][deadend]
+
+2. [I'm too sexy for my shirt][lambda]
+
+3. Полезняшки
+	* [https://github.com/foursquare/fongo][fongo]
+	* Dependency Injection Styles [\[slides\]][distyles] [\[code\]][distyles_2]
+	* [Spring in Action](http://www.manning.com/walls4/)
+
+4. [Программисты-оптимисты][optimist]
+
+5. [Эти принципы я впитал с молотком матери][principles]
+
+Наши контакты:
+
+Официальный сайт — [http://razbor-poletov.com](http://razbor-poletov.com)
+
+twitter: 
+
+ * [@a_abashev](https://twitter.com/#!/a_abashev) 
+ * [@gamussa](https://twitter.com/#!/gamussa)
+
+G+:
+
+ * [gplus.to/gAmUssA](http://gplus.to/gAmUssA) 
+ * [gplus.to/aabashev](http://gplus.to/aabashev) 
+ * [gplus.to/dmitryc](http://gplus.to/dmitryc)
+
+<!-- player goes here-->
+<audio preload="none">
+  <source src="http://traffic.libsyn.com/razborpoletov/razbor_20.mp3" type="audio/mp3" />
+  Your browser does not support the audio tag.
+</audio>
+
+Подписаться по [RSS](http://feeds.feedburner.com/razbor-podcast)
+
+Выпуск уже на [Хабре](http://habrahabr.ru/post/145587/)
+
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_20.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+
+Музыка ведущим [предоставлена](http://www.audiobank.fm/single-music/27/111/More-And-Less/) и ладно...
+
+[optimist]: http://swizec.com/blog/programmers-are-optimists/swizec/4509
+[principles]: http://net.tutsplus.com/tutorials/tools-and-tips/3-key-software-principles-you-must-understand/
+[distyles]:http://cbeams.github.com/distyles/
+[distyles_2]: https://github.com/cbeams/distyles
+[fongo]:https://github.com/foursquare/fongo
+[lambda]:http://tataryn.net/2011/11/java8-lambda-expressions-perhaps-not-as-sexy-as-intended/
+[deadend]:http://habrahabr.ru/post/144110/
+
+

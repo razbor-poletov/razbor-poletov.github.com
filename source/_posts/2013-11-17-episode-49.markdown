@@ -1,0 +1,62 @@
+---
+layout: post
+title: "Episode 49 — Напиться пива и поработать сверхурочно"
+date: 2013-11-17 19:28
+comments: true
+categories: 
+---
+
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_49_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_49_text.jpg" width="350" /></a>
+</div>
+
+Кудо про наклейки и donations!
+Спасибо [http://d-vision.kz](http://d-vision.kz) и нашим слушателям!
+
+* Новости одной строкой: [1](http://blog.eisele.net/2013/11/rip-glassfish-thanks-for-all-fish.html) [2](http://blog.rahmannet.net/2013/11/oracle-glassfish-and-nature-of-open.html)
+* [Про Спринг и вебсокеты](http://blog.gopivotal.com/products/websocket-architecture-in-spring-4-0)
+* [Глава из нашей книги про WebSocket](http://enterprisewebbook.com/ch9_websockets.html)
+* Benchmarks под это дело [1](http://mgreau.com/posts/2013/11/11/javaee7-websocket-angularjs-wildfly.html#benchmark-websocket-vs-rest) [2](http://farata.github.io/slidedecks/state_of_websocket/slides.html#22.3)
+* [Cоветы знатоков](http://zeroturnaround.com/rebellabs/watch-out-for-these-10-common-pitfalls-of-experienced-java-developers-architects/ )
+
+Полезняшка:
+
+* [Code conventions](http://sideeffect.kr/popularconvention)
+* [Обзор IAASов](http://gigaom.com/2013/11/10/6-iaas-providers-you-should-know-but-may-not/)
+* [Animatron](http://animatron.com/)
+
+[Напиться пива и поработать сверхурочно](http://www.jayhuang.org/blog/a-culture-of-beer-and-overtime/)
+
+Наши контакты:
+
+Официальный сайт — [http://razbor-poletov.com](http://razbor-poletov.com)
+
+Темы для следующего выпуска - [https://github.com/razbor-poletov/](https://github.com/razbor-poletov/razbor-poletov.github.com/issues?state=open)
+
+Гости и участники:
+
+twitter: 
+
+ * [@gamussa](https://twitter.com/#!/gamussa)
+ * [@antonarhipov](https://twitter.com/#!/antonarhipov)
+ * [@a_abashev](https://twitter.com/#!/a_abashev)
+ * [@dzmitryc ](https://twitter.com/#!/@dzmitryc)
+
+G+:
+
+ * [gplus.to/gAmUssA](http://gplus.to/gAmUssA) 
+ * [gplus.to/aabashev](http://gplus.to/aabashev) 
+
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_49.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+
+Подписаться по [RSS](http://feeds.feedburner.com/razbor-podcast)
+
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_49.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+
+Музыка ведущим [предоставлена](http://www.audiobank.fm/single-music/27/111/More-And-Less/) и ладно...

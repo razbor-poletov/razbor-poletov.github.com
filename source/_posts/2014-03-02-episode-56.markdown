@@ -1,0 +1,73 @@
+---
+layout: post
+title: "Episode 56 — I eat Green Berets for breakfast"
+date: 2014-03-02 16:17
+comments: true
+categories: 
+---
+
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_56_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_56_text.jpg" width="350" /></a>
+</div>
+
+* [Музыка нас связала](http://thenextweb.com/lifehacks/2014/02/10/listen-work-music-brain/)
+* [Финагл](https://blog.twitter.com/2014/netty-at-twitter-with-finagle)
+* Арни [1](https://gist.github.com/georg/9224355) [2](http://www.youtube.com/watch?v=pDxn0Xfqkgw)
+* [Раcщепляем атом](http://thenextweb.com/apps/2014/02/26/github-releases-text-editor-coders-named-atom/)
+* Полезняшка
+	* [direnv](http://direnv.net/)
+	* [pageres](https://github.com/sindresorhus/pageres)
+	* Notifications [1](https://github.com/alloy/terminal-notifier) [2](https://github.com/rombert/desktop-maven-notifier)
+	* [Fluent Assertions](http://www.jworks.nl/2014/02/26/quick-introduction-assertj/) и для [REST](https://code.google.com/p/rest-assured/)
+* [Архитектура WhatsApp](http://highscalability.com/blog/2014/2/26/the-whatsapp-architecture-facebook-bought-for-19-billion.html
+)
+* [SAAS](http://www.computerra.ru/94810/94810/)
+* Немного о client-side [1](https://sourcegraph.com/blog/switching-from-angularjs-to-server-side-html) [2](http://vsavkin.github.io/chat-dart/node_vs_dart/node_vs_dart.html)
+
+
+---
+[Конференция GeekOut 2014](http://2014.geekout.ee/)
+
+---
+
+_На правах рекламы:_
+
+* Онлайн курс [Modern Web Application Development for Java Programmers](http://www.eventbrite.com/e/modern-web-application-development-for-java-programmers-march-2014-tickets-10538467841) на английском. Скидка $50 код **RazborPoletov** . [Course agenda](https://github.com/yfain/WebDevForJavaProgrammers). [Добавляйтесь в watchers на GitHub](https://github.com/yfain/WebDevForJavaProgrammers/watchers).
+
+---
+
+Наши контакты:
+
+Официальный сайт — [http://razbor-poletov.com](http://razbor-poletov.com)
+
+Темы для следующего выпуска - [https://github.com/razbor-poletov/](https://github.com/razbor-poletov/razbor-poletov.github.com/issues?state=open)
+
+Гости и участники:
+
+twitter: 
+
+ * [@gamussa](https://twitter.com/#!/gamussa)
+ * [@antonarhipov](https://twitter.com/#!/antonarhipov)
+ * [@a_abashev](https://twitter.com/#!/a_abashev)
+ * [@dzmitryc ](https://twitter.com/#!/dzmitryc)
+
+G+:
+
+ * [gplus.to/gAmUssA](http://gplus.to/gAmUssA) 
+ * [gplus.to/aabashev](http://gplus.to/aabashev) 
+ * [https://plus.google.com/+AntonArhipov](https://plus.google.com/+AntonArhipov) 
+ * [https://plus.google.com/+DmitryChurbanov](https://plus.google.com/+DmitryChurbanov) 
+
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_56.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+
+Подписаться по [RSS](http://feeds.feedburner.com/razbor-podcast)
+
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_56.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+
+Музыка ведущим [предоставлена](http://www.audiobank.fm/single-music/27/111/More-And-Less/) и ладно...
