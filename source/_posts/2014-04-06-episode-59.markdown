@@ -1,0 +1,81 @@
+---
+layout: post
+title: "Episode 59 — Всех с восьмеркой, молодые, реактивные и динамичные"
+date: 2014-04-06 16:00
+comments: true
+categories: 
+---
+
+Гость выпуска [Umputun](https://twitter.com/#!/umputun)
+
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_59_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_59_text.jpg" width="350" /></a>
+</div>
+
+**Java 8**:
+
+* [Java 8 Features](http://nurkiewicz.blogspot.com/2013/05/java-8-definitive-guide-to.html)
+* [CompletableFuture in Java 8](http://nurkiewicz.blogspot.com/2013/05/java-8-completablefuture-in-action.html)
+* [Java 8 in Enterprise Projects](https://spring.io/blog/2014/03/21/java-8-in-enterprise-projects)
+* [There is no future in Java Futures](http://www.youtube.com/watch?v=L-rKLSdPEMs)
+* [Running Node.js applications on the JVM with Nashorn and Java 8](http://blog.jonasbandi.net/2014/03/running-nodejs-applications-on-jvm-with.html) + [Benchmark](http://ariya.ofilabs.com/2014/03/nashorn-the-new-rhino-on-the-block.html)
+
+**Reactive Programming**
+
+* [RxJava](https://github.com/Netflix/RxJava)
+* [Functional Reactive in the Netflix API with RxJava](http://techblog.netflix.com/2013/02/rxjava-netflix-api.html)
+* [Principles of reactive programming at Coursera](https://www.coursera.org/course/reactive)
+* [Hysterix (based on RxJava)](https://github.com/Netflix/Hystrix) 
+* [Reactive Programming in JavaScript](http://engineering.silk.co/post/80056130804/reactive-programming-in-javascript)
+* [ReactJS](http://facebook.github.io/react/)
+* [RxJS](https://github.com/Reactive-Extensions/RxJS )
+* [Reactive extensions for JavaFx](https://github.com/TomasMikula/ReactFX)
+* [Несколько раздраженных комментариев по ходу чтения "The Reactive Manifesto"](http://eao197.blogspot.ru/2014/01/prog-reactive-manifesto.html)
+
+Полезняшки:
+
+* [CAP FAQ](http://henryr.github.io/cap-faq/)
+* [The Web Developer's Toolkit](http://devref.com/)
+* SparkShare [1](http://sparkleshare.org/) [2](https://github.com/hbons/SparkleShare)
+* [StackEdit](https://stackedit.io/)
+* [AD-Editor](http://wildfly-mgreau.rhcloud.com/ad-editor/)
+
+[10 Surprising Ways To Transform Your Creative Thinking](http://www.fastcompany.com/3028465/work-smart/10-surprising-ways-to-transform-your-creative-thinking)
+
+    Промо-код RAZBOR_POLETOV. Скидка на JPoint (25%) и JEEConf (20%)
+
+Наши контакты:
+
+Официальный сайт — [http://razbor-poletov.com](http://razbor-poletov.com)
+
+Темы для следующего выпуска - [https://github.com/razbor-poletov/](https://github.com/razbor-poletov/razbor-poletov.github.com/issues?state=open)
+
+Гости и участники:
+
+twitter: 
+
+ * [@gamussa](https://twitter.com/#!/gamussa)
+ * [@antonarhipov](https://twitter.com/#!/antonarhipov)
+ * [@a_abashev](https://twitter.com/#!/a_abashev)
+ * [@umputun](https://twitter.com/#!/umputun)
+ * [@jbaruch](https://twitter.com/#!/jbaruch) 
+ 
+G+:
+
+ * [gplus.to/gAmUssA](http://gplus.to/gAmUssA) 
+ * [gplus.to/aabashev](http://gplus.to/aabashev) 
+ * [https://plus.google.com/+AntonArhipov](https://plus.google.com/+AntonArhipov) 
+
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_59.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+
+Подписаться по [RSS](http://feeds.feedburner.com/razbor-podcast)
+
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_59.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+
+Музыка ведущим [предоставлена](http://www.audiobank.fm/single-music/27/111/More-And-Less/) и ладно...
