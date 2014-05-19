@@ -1,0 +1,3985 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Chat</title>
+    <style type="text/css">
+					body {
+						 font-family: sans-serif; font-size: 85%;
+					}
+					div.event {
+						color: #222222; background: #EEEEEE; border-color: #CCCCCC;
+						border-style: solid;
+						border-width: 1px;
+						margin: 1px; padding: 2px;
+					}
+					div.message {
+						color: #000000; background: #F6FFED; border-color: #9EC678;
+					}
+					div.principal {
+						color: #000000; background: #F7FAFF; border-color: #98B4DF;
+					}
+					div.follow-on {
+						border-top-style: solid;
+						border-top-width: 1px;
+					}
+					div.sender {
+						color: #386C05; background: #BBEE99; border-color: #9EC678;
+						border-style: solid;
+						border-width: 1px;
+						margin: 1px; padding: 2px;
+						font-weight: bold;
+ 					}
+					div.principal div.sender {
+						color: #234578; background: #CCDDFF; border-color: #98B4DF;
+					}
+					div.meta {
+						float: left; padding-right: 0.5em;
+					}
+					div.content {
+						margin-left: 14em;
+					}
+					span.sender {
+						font-size: 90%;
+					}
+					span.time {
+						font-size: 90%; color: gray;
+					}
+				</style>
+  </head>
+  <body>
+    <div class="event">windowOpened: 2013-11-03 14:13:30-05:00</div>
+    <status type="purple">
+      <span class="time">14:13:30</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">romanoid [<span style="font-style: italic;">1806db20@gateway/web/freenode/ip.24.6.219.32</span>] entered the room.</span>
+      </div>
+    </status>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">romanoid</span>
+      </div>
+      <div class="meta">
+        <span class="time">14:13:47</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">hey hey hey!</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">daynin</span>
+      </div>
+      <div class="meta">
+        <span class="time">14:14:02</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">Ola!</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">dulanov</span>
+      </div>
+      <div class="meta">
+        <span class="time">14:15:04</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">народ, вы в Хенгауте есть?</span>
+        </div>
+      </div>
+    </div>
+    <status type="purple">
+      <span class="time">14:15:48</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">senfkorn [<span style="font-style: italic;">590da5ad@gateway/web/freenode/ip.89.13.165.173</span>] entered the room.</span>
+      </div>
+    </status>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">romanoid</span>
+      </div>
+      <div class="meta">
+        <span class="time">14:16:39</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">Я так понимаю, что будут 2 хенгаута, 1 сгенеренный +иком для евента, в который будут заходить и выходить слушатели и один тайный, который будет собственно стримиться )</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">dulanov</span>
+      </div>
+      <div class="meta">
+        <span class="time">14:17:15</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">а что он будет стримить, если тайный, тишину?</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">romanoid</span>
+      </div>
+      <div class="meta">
+        <span class="time">14:18:25</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">Подкастеров, подкастеров он будет стримить, а не тот сброд, что понаджоинился в сгенеренный!</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">dulanov</span>
+      </div>
+      <div class="meta">
+        <span class="time">14:18:50</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">ну так хватило бы freenode и одного Хенгаута</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  follow-on">
+      <div class="meta">
+        <span class="time">14:19:32</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">и всех рубануть только на слушать, он так умеет?</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">daynin</span>
+      </div>
+      <div class="meta">
+        <span class="time">14:20:21</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">хз, может и умеет, это нужно у Димы спросить, он же к хенгаутам ближе всего</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">romanoid</span>
+      </div>
+      <div class="meta">
+        <span class="time">14:21:07</span>
+      </div>
+      <div class="content">
+        <div>
+          <a href="https://support.google.com/plus/answer/1216376?hl=en" style="font-family: Helvetica; font-size: 12pt;">https://support.google.com/plus/answer/1216376?hl=en</a>
+        </div>
+      </div>
+    </div>
+    <div class="message  follow-on">
+      <div class="meta">
+        <span class="time">14:21:19</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">Video calls can have a maximum of 10 participants.</span>
+        </div>
+      </div>
+    </div>
+    <div class="message principal ">
+      <div class="sender">
+        <span class="sender">gAmUssA</span>
+      </div>
+      <div class="meta">
+        <span class="time">14:21:26</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">хенгаут не работает нифига</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">romanoid</span>
+      </div>
+      <div class="meta">
+        <span class="time">14:21:27</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">отакие дела</span>
+        </div>
+      </div>
+    </div>
+    <div class="message principal ">
+      <div class="sender">
+        <span class="sender">gAmUssA</span>
+      </div>
+      <div class="meta">
+        <span class="time">14:21:44</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">идем через радиотишный кластер <a href="http://stream.radio-t.com:8181/stream.m3u" style="text-decoration: underline;">http://stream.radio-t.com:8181/stream.m3u</a></span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">romanoid</span>
+      </div>
+      <div class="meta">
+        <span class="time">14:22:19</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">о, пошел стрим</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">dulanov</span>
+      </div>
+      <div class="meta">
+        <span class="time">14:23:19</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">в Хенгауте многие, 7ро точнее</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">romanoid</span>
+      </div>
+      <div class="meta">
+        <span class="time">14:23:25</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">"А у нас есть чатик"?</span>
+        </div>
+      </div>
+    </div>
+    <status type="purple">
+      <span class="time">14:23:30</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">Woworks [<span style="font-style: italic;">05385c97@gateway/web/freenode/ip.5.56.92.151</span>] entered the room.</span>
+      </div>
+    </status>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">daynin</span>
+      </div>
+      <div class="meta">
+        <span class="time">14:23:47</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">ух, даже Умпутун тут </span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">dulanov</span>
+      </div>
+      <div class="meta">
+        <span class="time">14:23:48</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">Умпутун не осилил</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  follow-on">
+      <div class="meta">
+        <span class="time">14:24:14</span>
+      </div>
+      <div class="content">
+        <div>
+          <a href="http://webchat.freenode.net/" style="font-family: Helvetica; font-size: 12pt;">http://webchat.freenode.net/</a>
+        </div>
+      </div>
+    </div>
+    <status type="purple">
+      <span class="time">14:24:33</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">antonarhipov [<span style="font-style: italic;">5abf4a11@gateway/web/freenode/ip.90.191.74.17</span>] entered the room.</span>
+      </div>
+    </status>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">romanoid</span>
+      </div>
+      <div class="meta">
+        <span class="time">14:24:39</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">так все через вебчат, какой IRC  клиент, вы что? )))</span>
+        </div>
+      </div>
+    </div>
+    <status type="purple">
+      <span class="time">14:24:54</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">Alex______ [<span style="font-style: italic;">5f54f5fe@gateway/web/freenode/ip.95.84.245.254</span>] entered the room.</span>
+      </div>
+    </status>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">daynin</span>
+      </div>
+      <div class="meta">
+        <span class="time">14:24:59</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">хм, а я с клиента сижу</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">dulanov</span>
+      </div>
+      <div class="meta">
+        <span class="time">14:25:29</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">веб-чатик минималистичный, но вполне</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">romanoid</span>
+      </div>
+      <div class="meta">
+        <span class="time">14:25:34</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">Timestamps? :)</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">dulanov</span>
+      </div>
+      <div class="meta">
+        <span class="time">14:26:49</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">не какие-то, а вполне себе</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">Woworks</span>
+      </div>
+      <div class="meta">
+        <span class="time">14:26:57</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">:)</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">romanoid</span>
+      </div>
+      <div class="meta">
+        <span class="time">14:27:02</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">мы не люди, мы гики</span>
+        </div>
+      </div>
+    </div>
+    <status type="purple">
+      <span class="time">14:27:07</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">Mage_ [<span style="font-style: italic;">5fd761f2@gateway/web/freenode/ip.95.215.97.242</span>] entered the room.</span>
+      </div>
+    </status>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">daynin</span>
+      </div>
+      <div class="meta">
+        <span class="time">14:27:25</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">может стоит в комменты к ивенту кинуть ссылочку на стрим, а то вроде ее там нет</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">romanoid</span>
+      </div>
+      <div class="meta">
+        <span class="time">14:27:38</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">есть уже</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">Mage_</span>
+      </div>
+      <div class="meta">
+        <span class="time">14:27:59</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">можно ссылку на темы?</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">Woworks</span>
+      </div>
+      <div class="meta">
+        <span class="time">14:28:00</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">Мужики, жгите!</span>
+        </div>
+      </div>
+    </div>
+    <status type="purple">
+      <span class="time">14:28:08</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">Bura [<span style="font-style: italic;">5f1bbdf2@gateway/web/freenode/ip.95.27.189.242</span>] entered the room.</span>
+      </div>
+    </status>
+    <status type="purple">
+      <span class="time">14:28:10</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">tt_ [<span style="font-style: italic;">5d554627@gateway/web/freenode/ip.93.85.70.39</span>] entered the room.</span>
+      </div>
+    </status>
+    <status type="purple">
+      <span class="time">14:28:27</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">tt_ left the room.</span>
+      </div>
+    </status>
+    <status type="purple">
+      <span class="time">14:29:07</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">dmitryc [<span style="font-style: italic;">d8ef2d5c@gateway/web/freenode/ip.216.239.45.92</span>] entered the room.</span>
+      </div>
+    </status>
+    <status type="purple">
+      <span class="time">14:29:27</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">tt_ [<span style="font-style: italic;">5d554627@gateway/web/freenode/ip.93.85.70.39</span>] entered the room.</span>
+      </div>
+    </status>
+    <status type="purple">
+      <span class="time">14:29:41</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">Rey [<span style="font-style: italic;">b0d5f70d@gateway/web/freenode/ip.176.213.247.13</span>] entered the room.</span>
+      </div>
+    </status>
+    <status type="purple">
+      <span class="time">14:29:51</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">tt_ is now known as Guest11122</span>
+      </div>
+    </status>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">Guest11122</span>
+      </div>
+      <div class="meta">
+        <span class="time">14:30:02</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">hi</span>
+        </div>
+      </div>
+    </div>
+    <status type="purple">
+      <span class="time">14:30:05</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">Rey is now known as Guest54758</span>
+      </div>
+    </status>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">dulanov</span>
+      </div>
+      <div class="meta">
+        <span class="time">14:30:06</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">я в комменты на G+ добавил уже</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">daynin</span>
+      </div>
+      <div class="meta">
+        <span class="time">14:30:08</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">ды есть вроде</span>
+        </div>
+      </div>
+    </div>
+    <div class="message principal ">
+      <div class="sender">
+        <span class="sender">gAmUssA</span>
+      </div>
+      <div class="meta">
+        <span class="time">14:30:37</span>
+      </div>
+      <div class="content">
+        <div>
+          <a href="http://stream.radio-t.com:8181/stream.m3u" style="font-family: Helvetica; font-size: 12pt;">http://stream.radio-t.com:8181/stream.m3u</a>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">romanoid</span>
+      </div>
+      <div class="meta">
+        <span class="time">14:30:42</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">контора пишет</span>
+        </div>
+      </div>
+    </div>
+    <status type="purple">
+      <span class="time">14:31:19</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">umputun [<span style="font-style: italic;">180faec2@gateway/web/freenode/ip.24.15.174.194</span>] entered the room.</span>
+      </div>
+    </status>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">daynin</span>
+      </div>
+      <div class="meta">
+        <span class="time">14:31:34</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">чет квадраты пошли</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">dulanov</span>
+      </div>
+      <div class="meta">
+        <span class="time">14:31:34</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">о да, сам ОН здесь</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">romanoid</span>
+      </div>
+      <div class="meta">
+        <span class="time">14:32:32</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">Одна JAVA???? Да вы последние пару эфизодов о богомерзком Javascript Рассуждали пол подкаста!</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">daynin</span>
+      </div>
+      <div class="meta">
+        <span class="time">14:33:01</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">да ты че, это же были крутейшие выпуски с передовой! :)</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">Mage_</span>
+      </div>
+      <div class="meta">
+        <span class="time">14:33:03</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">"Javascript is the language of the Web", так сказал Кац</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">romanoid</span>
+      </div>
+      <div class="meta">
+        <span class="time">14:33:23</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">Мастодонт, говорите? Вымерать собрались? </span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">daynin</span>
+      </div>
+      <div class="meta">
+        <span class="time">14:33:28</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">Умпутун всех спас</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">antonarhipov</span>
+      </div>
+      <div class="meta">
+        <span class="time">14:33:29</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">Java ~= JavaScript :)</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">Woworks</span>
+      </div>
+      <div class="meta">
+        <span class="time">14:34:11</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">тогда и "педагог ~= педофил" :)</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">romanoid</span>
+      </div>
+      <div class="meta">
+        <span class="time">14:35:04</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">F1????? )</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">dulanov</span>
+      </div>
+      <div class="meta">
+        <span class="time">14:35:15</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">да, формула</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">romanoid</span>
+      </div>
+      <div class="meta">
+        <span class="time">14:36:19</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">Чурбанов расскажет, как F1 покрывает все 3 буквы CAP )</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">Mage_</span>
+      </div>
+      <div class="meta">
+        <span class="time">14:36:36</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">это невозможно! )</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">dulanov</span>
+      </div>
+      <div class="meta">
+        <span class="time">14:36:42</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">сегодня же не 1 апреля</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  follow-on">
+      <div class="meta">
+        <span class="time">14:36:57</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">Умпутун его поставит на место</span>
+        </div>
+      </div>
+    </div>
+    <status type="purple">
+      <span class="time">14:37:01</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">a____ [<span style="font-style: italic;">c22cdd2e@gateway/web/freenode/ip.194.44.221.46</span>] entered the room.</span>
+      </div>
+    </status>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">Woworks</span>
+      </div>
+      <div class="meta">
+        <span class="time">14:37:20</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">можно футболки сделать?</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">Mage_</span>
+      </div>
+      <div class="meta">
+        <span class="time">14:37:23</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">нашивку на косуху еще можно сделать ):</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">romanoid</span>
+      </div>
+      <div class="meta">
+        <span class="time">14:38:08</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">на бак приклеить!</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">Mage_</span>
+      </div>
+      <div class="meta">
+        <span class="time">14:38:26</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">щас все уйдет в обсуждение сериалов :)</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  follow-on">
+      <div class="meta">
+        <span class="time">14:38:38</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">а я вот еще декстера последний сезон не досмотрел</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">daynin</span>
+      </div>
+      <div class="meta">
+        <span class="time">14:40:20</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">По GPS на кажое ядро!</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  follow-on">
+      <div class="meta">
+        <span class="time">14:40:36</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">каждое*</span>
+        </div>
+      </div>
+    </div>
+    <status type="purple">
+      <span class="time">14:41:45</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">senfkorn left the room (quit: Quit: Page closed).</span>
+      </div>
+    </status>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">dulanov</span>
+      </div>
+      <div class="meta">
+        <span class="time">14:41:46</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">временные вектора</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">romanoid</span>
+      </div>
+      <div class="meta">
+        <span class="time">14:41:58</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">Проблемы связанные с consensus алгоритмами</span>
+        </div>
+      </div>
+    </div>
+    <status type="purple">
+      <span class="time">14:43:30</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">apnix [<span style="font-style: italic;">bc862c82@gateway/web/freenode/ip.188.134.44.130</span>] entered the room.</span>
+      </div>
+    </status>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">romanoid</span>
+      </div>
+      <div class="meta">
+        <span class="time">14:43:47</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">У всех серверов в пределах ВСЕГО, зачем еще GPS? )</span>
+        </div>
+      </div>
+    </div>
+    <status type="purple">
+      <span class="time">14:45:12</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">artefacter [<span style="font-style: italic;">5dafe2f6@gateway/web/freenode/ip.93.175.226.246</span>] entered the room.</span>
+      </div>
+    </status>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">romanoid</span>
+      </div>
+      <div class="meta">
+        <span class="time">14:46:05</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;"> А еще есть классная задача с Buzantine Failure этой платы, да )</span>
+        </div>
+      </div>
+    </div>
+    <status type="purple">
+      <span class="time">14:46:16</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">artefacter left the room.</span>
+      </div>
+    </status>
+    <status type="purple">
+      <span class="time">14:46:44</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">ptchol [<span style="font-style: italic;">25ccbe05@gateway/web/freenode/ip.37.204.190.5</span>] entered the room.</span>
+      </div>
+    </status>
+    <status type="purple">
+      <span class="time">14:46:50</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">ua23 [<span style="font-style: italic;">5dafe2f6@gateway/web/freenode/ip.93.175.226.246</span>] entered the room.</span>
+      </div>
+    </status>
+    <status type="purple">
+      <span class="time">14:48:04</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">lexxzar [<span style="font-style: italic;">b29668c9@gateway/web/freenode/ip.178.150.104.201</span>] entered the room.</span>
+      </div>
+    </status>
+    <status type="purple">
+      <span class="time">14:48:57</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">gramnacha [<span style="font-style: italic;">5abd1d26@gateway/web/freenode/ip.90.189.29.38</span>] entered the room.</span>
+      </div>
+    </status>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">romanoid</span>
+      </div>
+      <div class="meta">
+        <span class="time">14:49:10</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">Вообще Timestamp's для слабых, даешь Version Vectors!</span>
+        </div>
+      </div>
+    </div>
+    <status type="purple">
+      <span class="time">14:50:33</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">amoiseev left the room.</span>
+      </div>
+    </status>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">ptchol</span>
+      </div>
+      <div class="meta">
+        <span class="time">14:52:05</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">romanoid это помоему самое правильно решение для того, что описал умпутун, когда нужно события выставить в правильном порядке, даже в условиях сплитов всяких</span>
+        </div>
+      </div>
+    </div>
+    <status type="purple">
+      <span class="time">14:52:45</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">a____ left the room (quit: Quit: Page closed).</span>
+      </div>
+    </status>
+    <status type="purple">
+      <span class="time">14:53:41</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">Izual0110 [<span style="font-style: italic;">d56cd04a@gateway/web/freenode/ip.213.108.208.74</span>] entered the room.</span>
+      </div>
+    </status>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">romanoid</span>
+      </div>
+      <div class="meta">
+        <span class="time">14:53:54</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">Проблема Version Vectors в том, что для тех операций, между которыми нет отношения порядка, нужен адекватный алгоритм Мержа конкурентных изменений</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  follow-on">
+      <div class="meta">
+        <span class="time">14:54:10</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">А это не на всех данных можно построить </span>
+        </div>
+      </div>
+    </div>
+    <div class="message  follow-on">
+      <div class="meta">
+        <span class="time">14:55:36</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">Особенно на биржевых</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">ptchol</span>
+      </div>
+      <div class="meta">
+        <span class="time">14:56:58</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">я честно говоря не понимаю проблему</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  follow-on">
+      <div class="meta">
+        <span class="time">14:57:21</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">там же есть алогритм выстраивания событий</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  follow-on">
+      <div class="meta">
+        <span class="time">14:57:26</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">в вектор</span>
+        </div>
+      </div>
+    </div>
+    <status type="purple">
+      <span class="time">14:57:51</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">Izual0110 left the room (quit: Ping timeout: 250 seconds).</span>
+      </div>
+    </status>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">dulanov</span>
+      </div>
+      <div class="meta">
+        <span class="time">14:57:59</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">улучшение выравнивания потока данных с помощью сигнала GPS</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">ptchol</span>
+      </div>
+      <div class="meta">
+        <span class="time">14:58:09</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">вроде как там невозможна ситуация когда получается 2 "одинаковых вектора", если можно так сказать</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">dulanov</span>
+      </div>
+      <div class="meta">
+        <span class="time">14:58:19</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">непонятно для чего это Гуглу правда надо</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">romanoid</span>
+      </div>
+      <div class="meta">
+        <span class="time">14:59:12</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">Не, вектор это состояние на каждой мастер ноде, и иногда векторы внезапно оказываются конфликтующими, вот тогда возникает проблема</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  follow-on">
+      <div class="meta">
+        <span class="time">14:59:40</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">Вектор = последнее увиденное изменение на каждом мастере</span>
+        </div>
+      </div>
+    </div>
+    <status type="purple">
+      <span class="time">15:00:29</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">apnix left the room (quit: Quit: Page closed).</span>
+      </div>
+    </status>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">romanoid</span>
+      </div>
+      <div class="meta">
+        <span class="time">15:00:43</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">т.е. (1,15,25) на ноде 1 значіт что она відела 1ую версию 0ой ноды, 15тую себя и 25тую второй</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  follow-on">
+      <div class="meta">
+        <span class="time">15:01:54</span>
+      </div>
+      <div class="content">
+        <div>
+          <a href="http://gsd.di.uminho.pt/members/vff/dotted-version-vectors-2012.pdf">
+            <span style="font-family: Helvetica; font-size: 12pt;">http://gsd.di.uminho.pt/members/vff/dotted-version-vectors-2012.pdf</span>
+          </a>
+          <span style="font-family: Helvetica; font-size: 12pt;">  — вот тут детальнее, если интересно </span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">ptchol</span>
+      </div>
+      <div class="meta">
+        <span class="time">15:01:55</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">это да я осознал ) Но там же еще были какие то матричные часы.</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  follow-on">
+      <div class="meta">
+        <span class="time">15:02:30</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">Спасибо )</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  follow-on">
+      <div class="meta">
+        <span class="time">15:03:10</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">Они бы хотя бы ссылочки кидали на то, что обсуждают</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">Alex______</span>
+      </div>
+      <div class="meta">
+        <span class="time">15:03:53</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">у нас текст в эверноте</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  follow-on">
+      <div class="meta">
+        <span class="time">15:04:06</span>
+      </div>
+      <div class="content">
+        <div>
+          <a href="http://research.google.com/pubs/pub41344.html" style="font-family: Helvetica; font-size: 12pt;">http://research.google.com/pubs/pub41344.html</a>
+        </div>
+      </div>
+    </div>
+    <div class="message  follow-on">
+      <div class="meta">
+        <span class="time">15:04:20</span>
+      </div>
+      <div class="content">
+        <div>
+          <a href="http://research.google.com/pubs/pub41376.html" style="font-family: Helvetica; font-size: 12pt;">http://research.google.com/pubs/pub41376.html</a>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">ptchol</span>
+      </div>
+      <div class="meta">
+        <span class="time">15:08:11</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">Они судя по всему пишут данные в Н реплик, и отпускают клиента, а потом "досихнхронизируют" на оставшиеся. А сплит брейн решают отключением "устаревших" узлов.</span>
+        </div>
+      </div>
+    </div>
+    <status type="purple">
+      <span class="time">15:08:41</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">Bura left the room (quit: Ping timeout: 250 seconds).</span>
+      </div>
+    </status>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">ptchol</span>
+      </div>
+      <div class="meta">
+        <span class="time">15:08:48</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">аха.</span>
+        </div>
+      </div>
+    </div>
+    <status type="purple">
+      <span class="time">15:11:45</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">Bura [<span style="font-style: italic;">5f1bbdf2@gateway/web/freenode/ip.95.27.189.242</span>] entered the room.</span>
+      </div>
+    </status>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">daynin</span>
+      </div>
+      <div class="meta">
+        <span class="time">15:15:04</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">Шел big table по big table...</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">ptchol</span>
+      </div>
+      <div class="meta">
+        <span class="time">15:16:14</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">Вобще у них написано "F1 is built on Spanner, which provides synchronous cross-datacenter replication"</span>
+        </div>
+      </div>
+    </div>
+    <status type="purple">
+      <span class="time">15:19:57</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">Woworks left the room (quit: Quit: Page closed).</span>
+      </div>
+    </status>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">ptchol</span>
+      </div>
+      <div class="meta">
+        <span class="time">15:20:02</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">в машеньке уже год это есть.</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">Alex______</span>
+      </div>
+      <div class="meta">
+        <span class="time">15:20:21</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">что есть?</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">ptchol</span>
+      </div>
+      <div class="meta">
+        <span class="time">15:21:00</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">ысруьфдуыы</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  follow-on">
+      <div class="meta">
+        <span class="time">15:21:04</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">c[tvfktcc</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  follow-on">
+      <div class="meta">
+        <span class="time">15:21:09</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">тьфу, схемалесс</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">Bura</span>
+      </div>
+      <div class="meta">
+        <span class="time">15:23:23</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">С версии 2.2 в mongodb можно строить индексы в беграунде</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">ptchol</span>
+      </div>
+      <div class="meta">
+        <span class="time">15:28:03</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">db.collection.ensureIndex( { a: 1 }, { background: true } )</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  follow-on">
+      <div class="meta">
+        <span class="time">15:28:21</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">в 2.4 работает</span>
+        </div>
+      </div>
+    </div>
+    <status type="purple">
+      <span class="time">15:29:20</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">iSergius [<span style="font-style: italic;">~iSergius@95.129.164.196</span>] entered the room.</span>
+      </div>
+    </status>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">iSergius</span>
+      </div>
+      <div class="meta">
+        <span class="time">15:29:32</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">ping</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">dulanov</span>
+      </div>
+      <div class="meta">
+        <span class="time">15:30:37</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">pong</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">romanoid</span>
+      </div>
+      <div class="meta">
+        <span class="time">15:31:52</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">ttl=46 time=43.110 ms</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  follow-on">
+      <div class="meta">
+        <span class="time">15:33:31</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">Уже 1 вещания, а все еще Дима рассказывает коммерческие та/w публично известную информацию</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  follow-on">
+      <div class="meta">
+        <span class="time">15:33:37</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">1 = час</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">Bura</span>
+      </div>
+      <div class="meta">
+        <span class="time">15:35:13</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">До версии 2.4 можно было строить только один индекс в беграунде, начиная с 2.4 можно стороить несколько индексов в беграунде одновременно</span>
+        </div>
+      </div>
+    </div>
+    <status type="purple">
+      <span class="time">15:37:07</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">[Serge] [<span style="font-style: italic;">~Miranda@81.3.129.2</span>] entered the room.</span>
+      </div>
+    </status>
+    <status type="purple">
+      <span class="time">15:37:11</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">Guest11122 left the room (quit: Quit: Page closed).</span>
+      </div>
+    </status>
+    <status type="purple">
+      <span class="time">15:38:43</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">macwords [<span style="font-style: italic;">bce8c257@gateway/web/freenode/ip.188.232.194.87</span>] entered the room.</span>
+      </div>
+    </status>
+    <status type="purple">
+      <span class="time">15:40:53</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">wwarlock [<span style="font-style: italic;">~Adium@109.188.127.254</span>] entered the room.</span>
+      </div>
+    </status>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">antonarhipov</span>
+      </div>
+      <div class="meta">
+        <span class="time">15:42:05</span>
+      </div>
+      <div class="content">
+        <div>
+          <a href="http://codenotes.me/" style="font-family: Helvetica; font-size: 12pt;">http://codenotes.me/</a>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">romanoid</span>
+      </div>
+      <div class="meta">
+        <span class="time">15:43:12</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">"Our hoster lost all our disks so we are temporary down. We will be back online in a few days. Please follow @codenotesme for updates." :)</span>
+        </div>
+      </div>
+    </div>
+    <div class="message principal ">
+      <div class="sender">
+        <span class="sender">gAmUssA</span>
+      </div>
+      <div class="meta">
+        <span class="time">15:43:16</span>
+      </div>
+      <div class="content">
+        <div>
+          <a href="http://codenotes.me/usage" style="text-decoration: underline;">
+            <span style="font-family: Helvetica; font-size: 12pt;">http://codenotes.me/usage</span>
+          </a>
+          <span style="font-family: Helvetica; font-size: 12pt;"> - сдохла</span>
+          <br />
+          <a href="http://explainshell.com/" style="text-decoration: underline;">
+            <span style="font-family: Helvetica; font-size: 12pt;">http://explainshell.com/</span>
+          </a>
+          <br />
+        </div>
+      </div>
+    </div>
+    <status type="purple">
+      <span class="time">15:43:35</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">macword-s [<span style="font-style: italic;">602cbd64@gateway/web/freenode/ip.96.44.189.100</span>] entered the room.</span>
+      </div>
+    </status>
+    <status type="purple">
+      <span class="time">15:43:47</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">macwords left the room.</span>
+      </div>
+    </status>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">dulanov</span>
+      </div>
+      <div class="meta">
+        <span class="time">15:43:50</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">ого, красиво</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">macword-s</span>
+      </div>
+      <div class="meta">
+        <span class="time">15:44:34</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">test msg</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">romanoid</span>
+      </div>
+      <div class="meta">
+        <span class="time">15:45:12</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">А можно такое же, только для RegExp'ов? ))</span>
+        </div>
+      </div>
+    </div>
+    <status type="purple">
+      <span class="time">15:45:13</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">mr_gambal [<span style="font-style: italic;">b29e3845@gateway/web/freenode/ip.178.158.56.69</span>] entered the room.</span>
+      </div>
+    </status>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">daynin</span>
+      </div>
+      <div class="meta">
+        <span class="time">15:45:14</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">забавная штука</span>
+        </div>
+      </div>
+    </div>
+    <status type="purple">
+      <span class="time">15:45:15</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">Izual0110 [<span style="font-style: italic;">d56cd04a@gateway/web/freenode/ip.213.108.208.74</span>] entered the room.</span>
+      </div>
+    </status>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">ptchol</span>
+      </div>
+      <div class="meta">
+        <span class="time">15:45:31</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">а не нада копипастить такое что потом не разберешь )</span>
+        </div>
+      </div>
+    </div>
+    <div class="message principal ">
+      <div class="sender">
+        <span class="sender">gAmUssA</span>
+      </div>
+      <div class="meta">
+        <span class="time">15:45:37</span>
+      </div>
+      <div class="content">
+        <div>
+          <a href="http://www.shellcheck.net/about.html">
+            <span style="font-family: Helvetica; font-size: 12pt;">http://www.shellcheck.net/about.html</span>
+          </a>
+          <span style="font-family: Helvetica; font-size: 12pt;"></span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">daynin</span>
+      </div>
+      <div class="meta">
+        <span class="time">15:45:47</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">да, для регекспов такая же вещь была бы очень полезна</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">mr_gambal</span>
+      </div>
+      <div class="meta">
+        <span class="time">15:46:24</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">daynin, для каких именно регекспов?</span>
+        </div>
+      </div>
+    </div>
+    <status type="purple">
+      <span class="time">15:46:27</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">Iptr [<span style="font-style: italic;">5b4d5c56@gateway/web/freenode/ip.91.77.92.86</span>] entered the room.</span>
+      </div>
+    </status>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">macword-s</span>
+      </div>
+      <div class="meta">
+        <span class="time">15:47:02</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">test msg2</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">ptchol</span>
+      </div>
+      <div class="meta">
+        <span class="time">15:47:08</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">умпутун прав )</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">daynin</span>
+      </div>
+      <div class="meta">
+        <span class="time">15:47:14</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">хм, для всяких разных</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">ptchol</span>
+      </div>
+      <div class="meta">
+        <span class="time">15:47:26</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">питон есть везде из коробки.</span>
+        </div>
+      </div>
+    </div>
+    <div class="message principal ">
+      <div class="sender">
+        <span class="sender">gAmUssA</span>
+      </div>
+      <div class="meta">
+        <span class="time">15:47:30</span>
+      </div>
+      <div class="content">
+        <div>
+          <a href="http://pitest.org/" style="font-family: Helvetica; font-size: 12pt;">http://pitest.org/</a>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">mr_gambal</span>
+      </div>
+      <div class="meta">
+        <span class="time">15:47:34</span>
+      </div>
+      <div class="content">
+        <div>
+          <a href="http://regex101.com/">
+            <span style="font-family: Helvetica; font-size: 12pt;">http://regex101.com/</span>
+          </a>
+          <span style="font-family: Helvetica; font-size: 12pt;"> например</span>
+        </div>
+      </div>
+    </div>
+    <status type="purple">
+      <span class="time">15:49:25</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">Izual0110 left the room (quit: Ping timeout: 250 seconds).</span>
+      </div>
+    </status>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">romanoid</span>
+      </div>
+      <div class="meta">
+        <span class="time">15:50:43</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">mr_gmabal благодарю, положу в закладки</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">daynin</span>
+      </div>
+      <div class="meta">
+        <span class="time">15:51:18</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">за <a href="http://regex101.com/">http://regex101.com/</a> спасибо</span>
+        </div>
+      </div>
+    </div>
+    <status type="purple">
+      <span class="time">15:51:35</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">macword-s left the room (quit: Ping timeout: 250 seconds).</span>
+      </div>
+    </status>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">mr_gambal</span>
+      </div>
+      <div class="meta">
+        <span class="time">15:52:17</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">romanoid, daynin на здоровье) введите в поисковик regexp explainer - там еще найдёте.</span>
+        </div>
+      </div>
+    </div>
+    <status type="purple">
+      <span class="time">15:53:03</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">macwords [<span style="font-style: italic;">1fac1e03@gateway/web/freenode/ip.31.172.30.3</span>] entered the room.</span>
+      </div>
+    </status>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">macwords</span>
+      </div>
+      <div class="meta">
+        <span class="time">15:53:31</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">тут сложно что то добавить)</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">Bura</span>
+      </div>
+      <div class="meta">
+        <span class="time">15:55:15</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">На сколько я понял, эта штука проверяет написанные тесты. Если после изменения кода будут проходить тесты, то что то не так.</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">macwords</span>
+      </div>
+      <div class="meta">
+        <span class="time">15:55:49</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">это что тесты для тестов</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">dulanov</span>
+      </div>
+      <div class="meta">
+        <span class="time">15:55:55</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">идея не пустая, но по мне не практичная, генерация хауса на входах практичнее</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">romanoid</span>
+      </div>
+      <div class="meta">
+        <span class="time">15:56:01</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">Да, это advanced coverage test</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">dulanov</span>
+      </div>
+      <div class="meta">
+        <span class="time">15:56:12</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">macwords, точно</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  follow-on">
+      <div class="meta">
+        <span class="time">15:56:33</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">проверка устойчивости тестов</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  follow-on">
+      <div class="meta">
+        <span class="time">15:56:35</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">тесты тестов</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">romanoid</span>
+      </div>
+      <div class="meta">
+        <span class="time">15:56:37</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">Который проверяет не просто, выполнились ли строчки кода, а который проверяет что каждая строчка покрыта ифами )</span>
+        </div>
+      </div>
+    </div>
+    <div class="message principal ">
+      <div class="sender">
+        <span class="sender">gAmUssA</span>
+      </div>
+      <div class="meta">
+        <span class="time">15:56:47</span>
+      </div>
+      <div class="content">
+        <div>
+          <a href="http://ideacolorthemes.org/">
+            <span style="font-family: Helvetica; font-size: 12pt;">http://ideacolorthemes.org/</span>
+          </a>
+          <span style="font-family: Helvetica; font-size: 12pt;"></span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">romanoid</span>
+      </div>
+      <div class="meta">
+        <span class="time">15:57:04</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">**Ассертами</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">mr_gambal</span>
+      </div>
+      <div class="meta">
+        <span class="time">15:57:07</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">она проверяет по граничным условиям, насколько я понимаю. Идея - прекрасна.</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">macwords</span>
+      </div>
+      <div class="meta">
+        <span class="time">15:57:23</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">у нас на обьекте такое бывает в реальных условиях - называется противоаварийные тренировки</span>
+        </div>
+      </div>
+    </div>
+    <div class="message principal ">
+      <div class="sender">
+        <span class="sender">gAmUssA</span>
+      </div>
+      <div class="meta">
+        <span class="time">15:57:44</span>
+      </div>
+      <div class="content">
+        <div>
+          <a href="http://ideacolorthemes.org/themes/7/" style="font-family: Helvetica; font-size: 12pt;">http://ideacolorthemes.org/themes/7/</a>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">dulanov</span>
+      </div>
+      <div class="meta">
+        <span class="time">15:58:06</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">похоже на светлую соляризацию</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">romanoid</span>
+      </div>
+      <div class="meta">
+        <span class="time">15:58:38</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">mutation testing делает восновном такие изменения: inverse if'a, замена експрешена при инициализации переменной на default value и еще что-то</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  follow-on">
+      <div class="meta">
+        <span class="time">15:59:00</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">Насколько я помню, это минимальные мутации, которые покрывают все</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">mr_gambal</span>
+      </div>
+      <div class="meta">
+        <span class="time">15:59:40</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">romanoid есть еще подвид подхода, когда сам же задаешь массивы или генераторы данных.</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  follow-on">
+      <div class="meta">
+        <span class="time">15:59:48</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">вот они очень хороши</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  follow-on">
+      <div class="meta">
+        <span class="time">16:00:08</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">особенно, если синтаксис языка позволяет делать это минимальными усилиями</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">dulanov</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:00:28</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">нет ничего лучше для программиста - как цветастая и звукастое окружение, например, <a href="http://musicforprogramming.net/">http://musicforprogramming.net/</a></span>
+        </div>
+      </div>
+    </div>
+    <div class="message  follow-on">
+      <div class="meta">
+        <span class="time">16:00:40</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">цветастое</span>
+        </div>
+      </div>
+    </div>
+    <status type="purple">
+      <span class="time">16:00:41</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">Iptr left the room (quit: Ping timeout: 250 seconds).</span>
+      </div>
+    </status>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">mr_gambal</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:00:58</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">NHK'Koyxeи - 367 - это то, что я подумал?))</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">romanoid</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:01:08</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">Я!!!</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">mr_gambal</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:01:10</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">Я!!! Тёмную тему использую</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">dulanov</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:01:10</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">я всегда в темной</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">romanoid</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:01:22</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">Darkula чудесна!</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">mr_gambal</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:01:28</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">++</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">romanoid</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:01:40</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">единственное, что она на проекторе отвратительно выглядит </span>
+        </div>
+      </div>
+    </div>
+    <status type="purple">
+      <span class="time">16:01:59</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">Bura left the room (quit: Ping timeout: 250 seconds).</span>
+      </div>
+    </status>
+    <status type="purple">
+      <span class="time">16:01:59</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">Bura_ [<span style="font-style: italic;">5f1bbdf2@gateway/web/freenode/ip.95.27.189.242</span>] entered the room.</span>
+      </div>
+    </status>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">mr_gambal</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:02:02</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">эм, а в чём проблема? я ни разу не выводил</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">romanoid</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:02:08</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">А я светлый терминал люблю....</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">wwarlock</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:02:24</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">Тёмная тема удобна для работы ночью</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">macwords</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:02:58</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">извините, а здесь кто нибудь занимался mcu atmel 200 / 400 mhz для затачивания под потоковый io multi(2-12)-channel 192khz /24 bit optical dac/ adc dsp?</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">romanoid</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:04:33</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">дай в чатик ссылку!</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">macwords</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:05:25</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">db?</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">mr_gambal</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:05:27</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">хотел спросить, не доводилось ли кому-либо связывать данные между Кикстартером и Линкедином (ну мало ли)... но после вопроса macwords - даже не знаю..)</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">dulanov</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:06:46</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">а не приходилось ли кому-то выкапывать фосфорит в Можайске и на Луну возить... да конечно, каждый день</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">antonarhipov</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:07:25</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">:D</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">mr_gambal</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:07:28</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">dulanov, не далее, как позавчера)</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">macwords</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:07:55</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">хорошо хоть чат оживился)</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">mr_gambal</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:08:39</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">macwords, так без объявления войны же. Я вот из твиттера узнал после начала.</span>
+        </div>
+      </div>
+    </div>
+    <div class="message principal ">
+      <div class="sender">
+        <span class="sender">gAmUssA</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:09:19</span>
+      </div>
+      <div class="content">
+        <div>
+          <a href="http://blog.mongodb.org/post/59769560940/the-mongodb-java-driver-3-0-whats-changing" style="font-family: Helvetica; font-size: 12pt; text-decoration: underline;">http://blog.mongodb.org/post/59769560940/the-mongodb-java-driver-3-0-whats-changing</a>
+        </div>
+      </div>
+    </div>
+    <div class="message principal follow-on">
+      <div class="meta">
+        <span class="time">16:09:29</span>
+      </div>
+      <div class="content">
+        <div>
+          <a href="http://blog.mongodb.org/post/58136652766/the-mongodb-java-driver-3-0" style="font-family: Helvetica; font-size: 12pt;">http://blog.mongodb.org/post/58136652766/the-mongodb-java-driver-3-0</a>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">macwords</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:10:13</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">mr_gambal: значит моя идея похожа на скрещивания ужа и ежа и не заслуживает реализации?</span>
+        </div>
+      </div>
+    </div>
+    <status type="purple">
+      <span class="time">16:11:08</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">KostyaSha [<span style="font-style: italic;">~integer@93.85.64.124</span>] entered the room.</span>
+      </div>
+    </status>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">dulanov</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:11:24</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">линкин это кровавый интерпрайз, на кикстартере больше гики/фрики, зачем ежа и ужа скрещивать?</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">mr_gambal</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:11:47</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">macwords: я не о том) уровни вопроса разные. твой вопрос для меня -непостижимая магия))</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">macwords</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:12:55</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">судя по эфиру тут уровень - не ниже магов)</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">mr_gambal</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:13:03</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">dulanov: не моя прихоть. Дело в том, что большая часть компаний, которые запускают проекты на КС, имеют страницы наЛИ. И мне нужно установить их идентичность для дата-майнинга последующего.</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">romanoid</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:13:44</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">ну не все маги готовы пойти на Черную магию!</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">KostyaSha</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:14:13</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">сейчас модно через веб в ирк сидеть?</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">macwords</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:14:28</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">это филосовская тема о дуальности</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">Bura_</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:14:43</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">Для Hazelcast-а нужен конфиг для каждой ноды</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">dulanov</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:14:47</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">ирк навернут сверх меры, так удобнее</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">mr_gambal</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:14:49</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">KostyaSha: тепло и лампово же)</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">romanoid</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:14:51</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">Я не уверен, что сейчас IRC вообще модно</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">antonarhipov</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:15:57</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">irc модно для тех кто пользуется irc</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  follow-on">
+      <div class="meta">
+        <span class="time">16:16:24</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">а если по существу, просто не нашлось ничего другого :)</span>
+        </div>
+      </div>
+    </div>
+    <status type="purple">
+      <span class="time">16:16:24</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">igel_ [<span style="font-style: italic;">~igel@92.55.36.14</span>] entered the room.</span>
+      </div>
+    </status>
+    <status type="purple">
+      <span class="time">16:17:49</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">igel_ is now known as igelko</span>
+      </div>
+    </status>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">KostyaSha</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:18:03</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">ну теперь у меня еще один источник отвлеканий)</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">Bura_</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:18:04</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">Файловер можно контролировать не только на уровне апликухи, но и на уровне каждого узла через mongos  </span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">igelko</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:18:27</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">source.map допилить)</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">romanoid</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:18:58</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">лично мне пофиг, что этот легковесный чатик бежит на IRC, пока я через него смотрю как на blackbox через браузер, так что отлично, что его нашли!</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">igelko</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:19:43</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">irc это же хорошо)</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  follow-on">
+      <div class="meta">
+        <span class="time">16:19:53</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">никакого xmlя</span>
+        </div>
+      </div>
+    </div>
+    <status type="purple">
+      <span class="time">16:19:53</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">rogallic_ [<span style="font-style: italic;">b2312028@gateway/web/freenode/ip.178.49.32.40</span>] entered the room.</span>
+      </div>
+    </status>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">romanoid</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:20:34</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">К умпутуну из этого чатика девочки точно не прийдут )</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">dulanov</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:21:10</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">romanoid: с Бобоком перепутал?</span>
+        </div>
+      </div>
+    </div>
+    <status type="purple">
+      <span class="time">16:21:20</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">Mage_ left the room (quit: Disconnected by services).</span>
+      </div>
+    </status>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">igelko</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:21:25</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">хм, а у нас в городской сети полно девочек сидело</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  follow-on">
+      <div class="meta">
+        <span class="time">16:21:38</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">mirc откопать - ума не надо</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">dulanov</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:21:41</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">это было 10 лет назад, кануло в лета навсегда</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">igelko</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:22:21</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">у нас ирц жирно жил года до 2008го</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  follow-on">
+      <div class="meta">
+        <span class="time">16:22:27</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">пока анлимы не пришли</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">dulanov</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:22:52</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">да но там не IRC был, а локалка</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  follow-on">
+      <div class="meta">
+        <span class="time">16:22:55</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">не путай</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">igelko</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:23:38</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">хм, у нас была ирц в масштабах города</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">KostyaSha</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:23:42</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">в беларуси еще доживает</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">macwords</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:23:43</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">да Умпутун с такИми девочками общается: вот например Ксюша, зайдет в ирку с закрытыми глазами</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">igelko</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:23:50</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">с нетсплитами - все как положено</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">KostyaSha</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:24:11</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">здесь фанаты умпутуна?</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">rogallic_</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:24:46</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">Нет, фанаты Java.</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">Bura_</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:25:00</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">Load Balancing Mongos: <a href="http://craiggwilson.com/2013/10/21/load-balanced-mongos">http://craiggwilson.com/2013/10/21/load-balanced-mongos</a></span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">macwords</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:25:06</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">тут фанаты фанатов</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">romanoid</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:25:33</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">тут рефлексивно-транзитивный фанатизм удовлетворен</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">igelko</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:25:47</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">я вобще фанат пейтона, но я сочувствую)</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">mr_gambal</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:26:05</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">Bura_: спс за линку</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  follow-on">
+      <div class="meta">
+        <span class="time">16:26:52</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">igelko: я тоже в данный момент</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">macwords</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:27:10</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">инструкции по бизнес разветки </span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">dulanov</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:27:14</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">igelko: да, все верно, перепутал с freenode</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">igelko</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:27:25</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">только не юзайте comic sans! и все ок.</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">KostyaSha</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:27:28</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">*разве что перл ненавидит читать*</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  follow-on">
+      <div class="meta">
+        <span class="time">16:27:58</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">кстати гугление синтаксиса перла походу попадает под секурити фильтры</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">macwords</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:28:19</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">оказывается языки все так похожи на сзз</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">igelko</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:28:29</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">да не</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">romanoid</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:28:54</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">cmd+shift+ F и  ctrl+ `  c кастомной заранее подготовленой теме раньше почти полностью покрывали Presentation mod</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">mr_gambal</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:29:35</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">macwords: с-подобные только. И то - с большими оговорками зачастую.</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">KostyaSha</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:29:53</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">кстати, у джавы там свой траст стор ссл?</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">dulanov</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:30:03</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">презентаторами рождаются, а не становятся, не уверен что тут можно кардинально что-то советами поправить</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">KostyaSha</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:30:08</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">и на системный ей наплевать?</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">romanoid</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:30:32</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">dulanov, не согласен, просто заранее другие скилы качать нужно</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">igelko</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:30:54</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">умение выступать перед публикой прокачивается</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  follow-on">
+      <div class="meta">
+        <span class="time">16:30:56</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">проверено</span>
+        </div>
+      </div>
+    </div>
+    <status type="purple">
+      <span class="time">16:31:54</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">Kurapatka [<span style="font-style: italic;">025c8446@gateway/web/freenode/ip.2.92.132.70</span>] entered the room.</span>
+      </div>
+    </status>
+    <status type="purple">
+      <span class="time">16:32:45</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">macwords left the room (quit: Ping timeout: 250 seconds).</span>
+      </div>
+    </status>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">igelko</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:33:28</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">по крайней мере устно проговорить раз-два то, что хочешь сказать здорово исправляет унылые и недоформулированные места</span>
+        </div>
+      </div>
+    </div>
+    <status type="purple">
+      <span class="time">16:33:30</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">wwarlock1 [<span style="font-style: italic;">~Adium@188.124.240.23</span>] entered the room.</span>
+      </div>
+    </status>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">igelko</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:33:39</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">тайминг это тоже выравниваеть</span>
+        </div>
+      </div>
+    </div>
+    <status type="purple">
+      <span class="time">16:33:39</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">wwarlock left the room (quit: Ping timeout: 260 seconds).</span>
+      </div>
+    </status>
+    <status type="purple">
+      <span class="time">16:34:15</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">senfkorn [<span style="font-style: italic;">590da5ad@gateway/web/freenode/ip.89.13.165.173</span>] entered the room.</span>
+      </div>
+    </status>
+    <status type="purple">
+      <span class="time">16:35:13</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">Kurapatka left the room (quit: Client Quit).</span>
+      </div>
+    </status>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">mr_gambal</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:35:44</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">igelko: проговаривание даёт смысл, если у человека есть достаточное чувство прекрасного) иначе - он даже не поймёт. Не всех можно выдрессировать.</span>
+        </div>
+      </div>
+    </div>
+    <status type="purple">
+      <span class="time">16:36:07</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">iSergius left the room (quit: Read error: Connection reset by peer).</span>
+      </div>
+    </status>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">romanoid</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:36:53</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">проговаривание нужно для тайминга, потому что растянуть доклад можно всегда, а ужать без потери качества крайне сложно</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">dulanov</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:37:06</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">проговаривание помогает, конечно</span>
+        </div>
+      </div>
+    </div>
+    <status type="purple">
+      <span class="time">16:37:16</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">iSergius [<span style="font-style: italic;">~iSergius@95.129.164.196</span>] entered the room.</span>
+      </div>
+    </status>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">dulanov</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:37:42</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">странно, любые штампные темы ущербны по своей природе</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">romanoid</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:37:42</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">Вообще идеально делать тестовое проговаривание на какой-то узкой аудитории</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  follow-on">
+      <div class="meta">
+        <span class="time">16:37:48</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">чтобы и вопросы были</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">dulanov</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:38:00</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">это я про вьетнамцев</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">wwarlock1</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:38:02</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">Кстати, шуруп забитый молотком держится крепче, чем гвоздь, закрученный отвёрткой</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">KostyaSha</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:38:09</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">romanoid, у психолога :)</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">dulanov</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:38:30</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">тут вопрос уровня подготовки и интернационален</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">igelko</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:38:35</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">стыдно за таких</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">romanoid</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:38:46</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">Психолог не те вопросы задаст, что гики ))</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">dulanov</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:40:07</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">а дальше в прямом эфире или как обычно?</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">igelko</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:40:19</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">завтре вроде как день не рабочий, есличо.</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">mr_gambal</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:40:24</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">блин, мне недавно пришлось реинкарнировать проект после джуниора одного - до сих пор кошмары мучают...</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">dulanov</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:40:28</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">это у Вас</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">igelko</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:40:28</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">продолжайте банкет)</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  follow-on">
+      <div class="meta">
+        <span class="time">16:40:32</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">ну пожаалста)</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">romanoid</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:40:33</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">Не рабочий день Где? )</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">wwarlock1</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:40:34</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">Ребята, спасибо!</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  follow-on">
+      <div class="meta">
+        <span class="time">16:40:34</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">Ну, и поздравляю подкаст с очередным днём рождения )</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  follow-on">
+      <div class="meta">
+        <span class="time">16:40:34</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">Живите дальше, крепчайте</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">igelko</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:40:46</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">ну в ижевских конторах в массе своей так</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">romanoid</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:40:55</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">Спасибо за подкаст! Как всегда интересный и чудесный!</span>
+        </div>
+      </div>
+    </div>
+    <status type="purple">
+      <span class="time">16:41:03</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">senfkorn left the room (quit: Quit: Page closed).</span>
+      </div>
+    </status>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">dulanov</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:41:09</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">да, спасибо, неплохо посидели</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">mr_gambal</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:41:14</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">igelko: завидую)</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  follow-on">
+      <div class="meta">
+        <span class="time">16:41:21</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">спасибо огромное, джентльмены)</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">KostyaSha</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:41:30</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">кстати о модности ирк <a href="http://freenode.net/history.shtml">http://freenode.net/history.shtml</a></span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">igelko</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:41:35</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">спасибо вам, ребята за подкаст</span>
+        </div>
+      </div>
+    </div>
+    <status type="purple">
+      <span class="time">16:42:08</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">dulanov left the room (quit: Quit: Page closed).</span>
+      </div>
+    </status>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">romanoid</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:42:24</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">по чем там наклейки? :)</span>
+        </div>
+      </div>
+    </div>
+    <status type="purple">
+      <span class="time">16:42:32</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">wwarlock1 left the room.</span>
+      </div>
+    </status>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">mr_gambal</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:42:50</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">romanoid: донейшн-базед)</span>
+        </div>
+      </div>
+    </div>
+    <status type="purple">
+      <span class="time">16:42:54</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">Guest54758 left the room (quit: Quit: Page closed).</span>
+      </div>
+    </status>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">mr_gambal</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:43:14</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">всем доброй ночи</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  follow-on">
+      <div class="meta">
+        <span class="time">16:43:22</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">у кого ночь)</span>
+        </div>
+      </div>
+    </div>
+    <div class="message principal ">
+      <div class="sender">
+        <span class="sender">gAmUssA</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:43:28</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">2romanoid бесплатно, если найдешь где нам встретиться</span>
+        </div>
+      </div>
+    </div>
+    <status type="purple">
+      <span class="time">16:43:45</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">rogallic_ left the room (quit: Quit: Page closed).</span>
+      </div>
+    </status>
+    <status type="purple">
+      <span class="time">16:44:10</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">antonarhipov left the room (quit: Quit: Page closed).</span>
+      </div>
+    </status>
+    <status type="purple">
+      <span class="time">16:44:13</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">igelko left the room ("Ухожу я от вас (xchat 2.4.5 или старше)").</span>
+      </div>
+    </status>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">Alex______</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:44:14</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">всем спасибо</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  follow-on">
+      <div class="meta">
+        <span class="time">16:44:37</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">вы были хорошими слушателями</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">ua23</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:44:40</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">спсибо</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">romanoid</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:44:43</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">2gAmUssA я знаю, где стол одного из ваших резидентов :)</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">Bura_</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:44:44</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">И Вам спасибо!</span>
+        </div>
+      </div>
+    </div>
+    <status type="purple">
+      <span class="time">16:45:06</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">Bura_ left the room (quit: Quit: Page closed).</span>
+      </div>
+    </status>
+    <status type="purple">
+      <span class="time">16:45:16</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">Alex______ left the room (quit: Quit: Page closed).</span>
+      </div>
+    </status>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">KostyaSha</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:45:39</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">  -ChanServ- Channel <a href="irc://irc.freenode.net:6667/#razborpoletov">#razborpoletov</a> is not registered.</span>
+        </div>
+      </div>
+    </div>
+    <status type="purple">
+      <span class="time">16:45:54</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">romanoid left the room (quit: Quit: Page closed).</span>
+      </div>
+    </status>
+    <div class="message principal ">
+      <div class="sender">
+        <span class="sender">gAmUssA</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:47:15</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">2romanoid потыкай его палкой, может у него есть немного наклеек?</span>
+          <br />
+          <span style="font-family: Helvetica; font-size: 12pt;"></span>
+        </div>
+      </div>
+    </div>
+    <div class="message principal follow-on">
+      <div class="meta">
+        <span class="time">16:47:38</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">У нас было 90 человек в пике, которые нас слушали</span>
+        </div>
+      </div>
+    </div>
+    <status type="purple">
+      <span class="time">16:47:55</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">mr_gambal left the room (quit: Ping timeout: 250 seconds).</span>
+      </div>
+    </status>
+    <div class="message principal ">
+      <div class="sender">
+        <span class="sender">gAmUssA</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:47:57</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">Спасибо все кто пришел! </span>
+        </div>
+      </div>
+    </div>
+    <div class="message principal follow-on">
+      <div class="meta">
+        <span class="time">16:48:14</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">Будем пробовать еще делать такой эфир</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">KostyaSha</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:48:36</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">позновато :(</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  follow-on">
+      <div class="meta">
+        <span class="time">16:51:40</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">gn</span>
+        </div>
+      </div>
+    </div>
+    <status type="purple">
+      <span class="time">16:57:55</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">macwords [<span style="font-style: italic;">~Adium@188.232.142.219</span>] entered the room.</span>
+      </div>
+    </status>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">macwords</span>
+      </div>
+      <div class="meta">
+        <span class="time">16:58:05</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">о как</span>
+        </div>
+      </div>
+    </div>
+    <status type="purple">
+      <span class="time">16:59:11</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">ptchol left the room (quit: Ping timeout: 250 seconds).</span>
+      </div>
+    </status>
+    <status type="purple">
+      <span class="time">17:03:05</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">dmitryc left the room (quit: Ping timeout: 250 seconds).</span>
+      </div>
+    </status>
+    <status type="purple">
+      <span class="time">17:07:09</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">[Serge] left the room (quit: Quit: 2B | !2B = FF).</span>
+      </div>
+    </status>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">macwords</span>
+      </div>
+      <div class="meta">
+        <span class="time">17:12:05</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">ff</span>
+        </div>
+      </div>
+    </div>
+    <status type="purple">
+      <span class="time">17:15:28</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">mcw_irc_ccs [<span style="font-style: italic;">602cbd66@gateway/web/freenode/ip.96.44.189.102</span>] entered the room.</span>
+      </div>
+    </status>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">macwords</span>
+      </div>
+      <div class="meta">
+        <span class="time">17:18:08</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">help!</span>
+        </div>
+      </div>
+    </div>
+    <div class="message  ">
+      <div class="sender">
+        <span class="sender">mcw_irc_ccs</span>
+      </div>
+      <div class="meta">
+        <span class="time">17:18:36</span>
+      </div>
+      <div class="content">
+        <div>
+          <span style="font-family: Helvetica; font-size: 12pt;">m?</span>
+        </div>
+      </div>
+    </div>
+    <status type="purple">
+      <span class="time">17:28:13</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">lexxzar left the room (quit: Ping timeout: 250 seconds).</span>
+      </div>
+    </status>
+    <status type="purple">
+      <span class="time">17:53:21</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">mcw_irc_ccs left the room (quit: Ping timeout: 250 seconds).</span>
+      </div>
+    </status>
+    <status type="purple">
+      <span class="time">17:59:06</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">macwords left the room (quit: Quit: Leaving.).</span>
+      </div>
+    </status>
+    <status type="purple">
+      <span class="time">18:26:47</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">macwords [<span style="font-style: italic;">~Adium@188.232.142.219</span>] entered the room.</span>
+      </div>
+    </status>
+    <status type="purple">
+      <span class="time">20:31:45</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">ua23 left the room (quit: Quit: Page closed).</span>
+      </div>
+    </status>
+    <status type="purple">
+      <span class="time">22:32:25</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">gramnacha left the room (quit: Ping timeout: 250 seconds).</span>
+      </div>
+    </status>
+    <status type="purple">
+      <span class="time">23:25:53</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">iSergius left the room (quit: Quit: This computer has gone to sleep).</span>
+      </div>
+    </status>
+    <status type="purple">
+      <span class="time">23:32:11</span>
+      <div>
+        <span style="font-family: Helvetica; font-size: 12pt;">macwords left the room (quit: Quit: Leaving.).</span>
+      </div>
+    </status>
+    <div class="event">windowClosed: 2013-11-03 23:35:32-05:00</div>
+  </body>
+</html>

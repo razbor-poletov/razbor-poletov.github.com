@@ -1,0 +1,1405 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>Подкаст «Разбор Полетов»</title>
+  <meta name="author" content="Viktor Gamov, Alexey Abashev, Dmitry Churbanov">
+
+  
+  <meta name="description" content="JEEConf 2014 - Спрашивайте про стикеры «Разбор Полетов»
+Всякая всячина с DevNation: Docker - по слухам, весь RedHat теперь на нём сидит. Субъективно &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://razbor-poletov.com/index.html">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <!-- <script src="/javascripts/modernizr-2.0.js"></script> -->
+  <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js"></script>
+  <script src="/javascripts/ender.js"></script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <link href="http://feeds.feedburner.com/razbor-podcast" rel="alternate" title="Подкаст «Разбор Полетов»" type="application/atom+xml">
+  <script type="text/javascript">
+  (function() {
+    var po = document.createElement("script"); po.type = "text/javascript"; po.async = true;
+    po.src = "https://apis.google.com/js/plusone.js?publisherid=106834666485863668012";
+    var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<!-- <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script> -->
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script src="/javascripts/mediaelement/mediaelement-and-player.min.js" type="text/javascript"></script>
+<link rel="stylesheet" href="/javascripts/mediaelement/mediaelementplayer.min.css" />
+<!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<!-- <link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css"> -->
+<!-- <link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css"> -->
+<!--<link href='http://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic' rel='stylesheet' type='text/css'> -->
+<!-- <link href='http://fonts.googleapis.com/css?family=Open+Sans&subset=latin,cyrillic-ext,cyrillic' rel='stylesheet' type='text/css'> -->
+
+<!-- Place this tag in the <head> of your document -->
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js">{lang: 'en'}</script>
+<!-- G+ validation-->
+<link href="https://plus.google.com/106834666485863668012" rel="publisher"/>
+<script>
+$(document).ready(function() {
+  $('video,audio').mediaelementplayer({
+      audioWidth: 500,
+      audioHeight: 30,
+      startVolume: 0.8
+  });
+  $('a').each(function() {
+     var a = new RegExp('/' + window.location.host + '/');
+     if(!a.test(this.href)) {
+         $(this).click(function(event) {
+             event.preventDefault();
+             event.stopPropagation();
+             window.open(this.href, '_blank');
+         });
+     }
+  });
+});
+</script>
+
+  
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-29276532-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">Подкаст «Разбор Полетов»</a></h1>
+  
+    <h2>«Правильный подкаст для IT-шников»</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="http://feeds.feedburner.com/razbor-podcast" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:razbor-poletov.com" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/">Подкаст</a></li>
+  <li><a href="/blog/archives">Архивы</a></li>
+  <li><a href="/broadcast.html">Вещание</a></li>
+  <li><a href="/listeners-feedback">Отзывы</a></li>
+  <li><a href="/contribute.html">Нашел ошибку!</a></li>
+</ul>
+</nav>
+  <div id="main">
+    <div id="content">
+      <div class="blog-index">
+  
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/2014/05/episode-60.html">Episode 60 — Будьте бдительны!</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2014-05-18T16:38:00-04:00" pubdate data-updated="true">May 18<span>th</span>, 2014</time>
+        
+         | <a href="/2014/05/episode-60.html#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_60_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_60_text.jpg" width="350" /></a>
+</div>
+
+
+<ul>
+<li><a href="http://jeeconf.com/">JEEConf 2014</a> - Спрашивайте про стикеры «Разбор Полетов»</li>
+<li><p>Всякая всячина с DevNation:</p>
+
+<ul>
+<li>Docker - по слухам, весь RedHat теперь на нём сидит. Субъективно, самая популярная будка в RedHat expo</li>
+<li><a href="http://rhq.jboss.org/">RHQ</a></li>
+<li><a href="http://mbed.org/">Mbed</a></li>
+<li><a href="http://hawt.io/">Hawt.io</a> + Fuse/Karaf</li>
+<li><a href="http://fabric8.io/">Fabric8</a></li>
+<li><a href="http://vertx.io/">Vert.x</a></li>
+<li><a href="http://www.gluster.org/">GlusterFS</a></li>
+<li>Строим аналитику: Elasticsearch + <a href="https://speakerdeck.com/elasticsearch/using-elasticsearch-logstash-and-kibana-to-create-realtime-dashboards">Kibana</a> + Logstash</li>
+<li><a href="https://www.shippable.com/">Shippable (CI/CD, Docker)</a></li>
+<li><a href="https://www.datadoghq.com/">Ещё немножко аналитики</a></li>
+</ul>
+</li>
+<li><p>Будьте бдительны</p></li>
+<li><a href="https://github.com/razbor-poletov/razbor-poletov.github.com/issues/17#issuecomment-35548503">По заказу слушателя</a>, первые отзывы о Modern Web Development от Farata Systems</li>
+</ul>
+
+
+<hr />
+
+<p><em>На правах рекламы:</em></p>
+
+<ul>
+<li>Онлайн курс <a href="http://https://www.eventbrite.com/e/modern-web-application-development-for-java-programmers-starts-07272014-tickets-11465653077">Modern Web Application Development for Java Programmers</a> на английском. Скидка $50 код <strong>RazborPoletov</strong></li>
+</ul>
+
+
+<hr />
+
+<p>Полезняшки</p>
+
+<ul>
+<li><a href="www.semanticmerge.com/merge-diff-tool-mac.html">www.semanticmerge.com/merge-diff-tool-mac.html</a></li>
+<li><a href="http://www.git-tower.com/learn/">http://www.git-tower.com/learn/</a></li>
+<li><a href="https://github.com/vovkkk/MarkupViewer">https://github.com/vovkkk/MarkupViewer</a></li>
+<li><a href="http://freeside.co/betamax/">http://freeside.co/betamax/</a></li>
+<li><a href="http://www.mitchchn.me/2014/os-x-terminal/">http://www.mitchchn.me/2014/os-x-terminal/</a></li>
+</ul>
+
+
+<p><strong>Groovy 2.3</strong> <a href="http://glaforge.appspot.com/article/groovy-2-3-0-is-out">1</a> <a href="https://github.com/bura/json-benchmarks">2</a> <a href="http://groovy.codehaus.org/Groovy+2.3+release+notes">3</a></p>
+
+<p>Наши контакты:</p>
+
+<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
+
+<p>Темы для следующего выпуска - <a href="https://github.com/razbor-poletov/razbor-poletov.github.com/issues?state=open">https://github.com/razbor-poletov/</a></p>
+
+<p>Гости и участники:</p>
+
+<p>twitter:</p>
+
+<ul>
+<li><a href="https://twitter.com/#!/gamussa">@gamussa</a></li>
+<li><a href="https://twitter.com/#!/antonarhipov">@antonarhipov</a></li>
+<li><a href="https://twitter.com/#!/a_abashev">@a_abashev</a></li>
+</ul>
+
+
+<p>G+:</p>
+
+<ul>
+<li><a href="http://gplus.to/gAmUssA">gplus.to/gAmUssA</a></li>
+<li><a href="http://gplus.to/aabashev">gplus.to/aabashev</a></li>
+<li><a href="https://plus.google.com/+AntonArhipov">https://plus.google.com/+AntonArhipov</a></li>
+</ul>
+
+
+<!-- player goes here-->
+
+
+<p><audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_60.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio></p>
+
+<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
+
+<!-- episode file link goes here-->
+
+
+<p><a href="http://traffic.libsyn.com/razborpoletov/razbor_60.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
+
+<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/2014/04/episode-59.html">Episode 59 — Всех с восьмеркой, молодые, реактивные и динамичные</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2014-04-06T16:00:00-04:00" pubdate data-updated="true">Apr 6<span>th</span>, 2014</time>
+        
+         | <a href="/2014/04/episode-59.html#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>Гость выпуска <a href="https://twitter.com/#!/umputun">Umputun</a></p>
+
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_59_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_59_text.jpg" width="350" /></a>
+</div>
+
+
+<p><strong>Java 8</strong>:</p>
+
+<ul>
+<li><a href="http://nurkiewicz.blogspot.com/2013/05/java-8-definitive-guide-to.html">Java 8 Features</a></li>
+<li><a href="http://nurkiewicz.blogspot.com/2013/05/java-8-completablefuture-in-action.html">CompletableFuture in Java 8</a></li>
+<li><a href="https://spring.io/blog/2014/03/21/java-8-in-enterprise-projects">Java 8 in Enterprise Projects</a></li>
+<li><a href="http://www.youtube.com/watch?v=L-rKLSdPEMs">There is no future in Java Futures</a></li>
+<li><a href="http://blog.jonasbandi.net/2014/03/running-nodejs-applications-on-jvm-with.html">Running Node.js applications on the JVM with Nashorn and Java 8</a> + <a href="http://ariya.ofilabs.com/2014/03/nashorn-the-new-rhino-on-the-block.html">Benchmark</a></li>
+</ul>
+
+
+<p><strong>Reactive Programming</strong></p>
+
+<ul>
+<li><a href="https://github.com/Netflix/RxJava">RxJava</a></li>
+<li><a href="http://techblog.netflix.com/2013/02/rxjava-netflix-api.html">Functional Reactive in the Netflix API with RxJava</a></li>
+<li><a href="https://www.coursera.org/course/reactive">Principles of reactive programming at Coursera</a></li>
+<li><a href="https://github.com/Netflix/Hystrix">Hysterix (based on RxJava)</a></li>
+<li><a href="http://engineering.silk.co/post/80056130804/reactive-programming-in-javascript">Reactive Programming in JavaScript</a></li>
+<li><a href="http://facebook.github.io/react/">ReactJS</a></li>
+<li><a href="https://github.com/Reactive-Extensions/RxJS">RxJS</a></li>
+<li><a href="https://github.com/TomasMikula/ReactFX">Reactive extensions for JavaFx</a></li>
+<li><a href="http://eao197.blogspot.ru/2014/01/prog-reactive-manifesto.html">Несколько раздраженных комментариев по ходу чтения &#8220;The Reactive Manifesto&#8221;</a></li>
+</ul>
+
+
+<p>Полезняшки:</p>
+
+<ul>
+<li><a href="http://henryr.github.io/cap-faq/">CAP FAQ</a></li>
+<li><a href="http://devref.com/">The Web Developer&#8217;s Toolkit</a></li>
+<li>SparkShare <a href="http://sparkleshare.org/">1</a> <a href="https://github.com/hbons/SparkleShare">2</a></li>
+<li><a href="https://stackedit.io/">StackEdit</a></li>
+<li><a href="http://wildfly-mgreau.rhcloud.com/ad-editor/">AD-Editor</a></li>
+</ul>
+
+
+<p><a href="http://www.fastcompany.com/3028465/work-smart/10-surprising-ways-to-transform-your-creative-thinking">10 Surprising Ways To Transform Your Creative Thinking</a></p>
+
+<pre><code>Промо-код RAZBOR_POLETOV. Скидка на JPoint (25%) и JEEConf (20%)
+</code></pre>
+
+<p>Наши контакты:</p>
+
+<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
+
+<p>Темы для следующего выпуска - <a href="https://github.com/razbor-poletov/razbor-poletov.github.com/issues?state=open">https://github.com/razbor-poletov/</a></p>
+
+<p>Гости и участники:</p>
+
+<p>twitter:</p>
+
+<ul>
+<li><a href="https://twitter.com/#!/gamussa">@gamussa</a></li>
+<li><a href="https://twitter.com/#!/antonarhipov">@antonarhipov</a></li>
+<li><a href="https://twitter.com/#!/a_abashev">@a_abashev</a></li>
+<li><a href="https://twitter.com/#!/umputun">@umputun</a></li>
+<li><a href="https://twitter.com/#!/jbaruch">@jbaruch</a></li>
+</ul>
+
+
+<p>G+:</p>
+
+<ul>
+<li><a href="http://gplus.to/gAmUssA">gplus.to/gAmUssA</a></li>
+<li><a href="http://gplus.to/aabashev">gplus.to/aabashev</a></li>
+<li><a href="https://plus.google.com/+AntonArhipov">https://plus.google.com/+AntonArhipov</a></li>
+</ul>
+
+
+<!-- player goes here-->
+
+
+<p><audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_59.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio></p>
+
+<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
+
+<!-- episode file link goes here-->
+
+
+<p><a href="http://traffic.libsyn.com/razborpoletov/razbor_59.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
+
+<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/2014/03/episode-58.html">Episode 58 — Конференции, анонимные программисты и добро</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2014-03-23T17:44:00-04:00" pubdate data-updated="true">Mar 23<span>rd</span>, 2014</time>
+        
+         | <a href="/2014/03/episode-58.html#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_58_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_58_text.jpg" width="350" /></a>
+</div>
+
+
+<p><em>Приглашенные гости:</em></p>
+
+<p>Алексей Федоров про <a href="http://javapoint.ru/">JPoint</a></p>
+
+<p>Yakov Fain про неконференции <a href="http://dou.ua/lenta/columns/unconference/">1</a> <a href="http://www.meetup.com/UkraineMaeUnconference/">2</a></p>
+
+<p>Николай Алименков про <a href="http://jeeconf.com/">JEEConf 2014</a></p>
+
+<hr />
+
+<p><em>Конференции</em>
+<a href="http://2014.geekout.ee/speakers/">GeekOUT 2014</a>
+<a href="http://www.oracle.com/javaone/index.html">JavaOne 2014</a></p>
+
+<p>Неконференции
+<a href="http://www.jcrete.org/">JCrete</a></p>
+
+<p>Опросник от RebelLabs http://0t.ee/rlsurvey14</p>
+
+<p>&#8220;Глобальное добро&#8221; в software development.</p>
+
+<hr />
+
+<pre><code>Промо-код RAZBOR_POLETOV. Скидка на JPoint (25%) и JEE (20%)
+</code></pre>
+
+<p>Наши контакты:</p>
+
+<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
+
+<p>Темы для следующего выпуска - <a href="https://github.com/razbor-poletov/razbor-poletov.github.com/issues?state=open">https://github.com/razbor-poletov/</a></p>
+
+<p>Гости и участники:</p>
+
+<p>twitter:</p>
+
+<ul>
+<li><a href="https://twitter.com/#!/gamussa">@gamussa</a></li>
+<li><a href="https://twitter.com/#!/antonarhipov">@antonarhipov</a></li>
+<li><a href="https://twitter.com/#!/a_abashev">@a_abashev</a></li>
+<li><a href="https://twitter.com/#!/dzmitryc">@dzmitryc </a></li>
+<li><a href="https://twitter.com/#!/23derevo">@23derevo</a></li>
+<li><a href="https://twitter.com/#!/yfain">@yfain</a></li>
+<li><a href="https://twitter.com/#!/xpinjection">@xpinjection</a></li>
+<li><a href="https://twitter.com/#!/jbaruch">@jbaruch</a></li>
+</ul>
+
+
+<p>G+:</p>
+
+<ul>
+<li><a href="http://gplus.to/gAmUssA">gplus.to/gAmUssA</a></li>
+<li><a href="http://gplus.to/aabashev">gplus.to/aabashev</a></li>
+<li><a href="https://plus.google.com/+AntonArhipov">https://plus.google.com/+AntonArhipov</a></li>
+<li><a href="https://plus.google.com/+DmitryChurbanov">https://plus.google.com/+DmitryChurbanov</a></li>
+</ul>
+
+
+<!-- player goes here-->
+
+
+<p><audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_58.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio></p>
+
+<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
+
+<!-- episode file link goes here-->
+
+
+<p><a href="http://traffic.libsyn.com/razborpoletov/razbor_58.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
+
+<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/2014/03/episode-57.html">Episode 57 — Новые технологии на нашем радаре</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2014-03-16T16:40:00-04:00" pubdate data-updated="true">Mar 16<span>th</span>, 2014</time>
+        
+         | <a href="/2014/03/episode-57.html#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_57_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_57_text.jpg" width="350" /></a>
+</div>
+
+
+<ul>
+<li><a href="http://razbor-poletov.com/2014/03/episode-56.html#comment-1283786859">Вопрос и зала</a></li>
+<li>Про уверенность в себе и технологии</li>
+<li><a href="http://www.thoughtworks.com/radar/">Что-то маячет на радаре</a></li>
+<li>Полезняшка
+
+<ul>
+<li><a href="http://gabrielecirulli.github.io/2048/">2048</a></li>
+<li><a href="https://segment.io/">segment.io</a></li>
+<li><a href="http://www.amazon.com/Version-Control-Example-Eric-Sink/dp/0983507902/">Version Control by example</a></li>
+<li><a href="http://www.fossil-scm.org/index.html/doc/tip/www/quickstart.wiki">Fossil</a></li>
+<li><a href="http://blog.jetbrains.com/idea/2014/03/try-chronon-debugger-with-intellij-idea-13-1-eap/">Chronon debugger</a></li>
+</ul>
+</li>
+<li><a href="http://techblog.netflix.com/2014/03/the-netflix-dynamic-scripting-platform.html">The Netflix Scripting Platform</a></li>
+<li><a href="http://blog.codacy.com/top-10-faster-code-reviews/">10 правил code review</a></li>
+</ul>
+
+
+<hr />
+
+<p>Наши контакты:</p>
+
+<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
+
+<p>Темы для следующего выпуска - <a href="https://github.com/razbor-poletov/razbor-poletov.github.com/issues?state=open">https://github.com/razbor-poletov/</a></p>
+
+<p>Гости и участники:</p>
+
+<p>twitter:</p>
+
+<ul>
+<li><a href="https://twitter.com/#!/gamussa">Виктор Гамов-Загудзонский</a></li>
+<li><a href="https://twitter.com/#!/antonarhipov">Антон Архипов-Шпайзман</a></li>
+<li><a href="https://twitter.com/#!/a_abashev">Алексей Шариков Абашев</a></li>
+<li><a href="https://twitter.com/#!/dzmitryc">Дмитрий Чурбанов-Деревянский </a></li>
+</ul>
+
+
+<p>G+:</p>
+
+<ul>
+<li><a href="http://gplus.to/gAmUssA">gplus.to/gAmUssA</a></li>
+<li><a href="http://gplus.to/aabashev">gplus.to/aabashev</a></li>
+<li><a href="https://plus.google.com/+AntonArhipov">https://plus.google.com/+AntonArhipov</a></li>
+<li><a href="https://plus.google.com/+DmitryChurbanov">https://plus.google.com/+DmitryChurbanov</a></li>
+</ul>
+
+
+<!-- player goes here-->
+
+
+<p><audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_57.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio></p>
+
+<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
+
+<!-- episode file link goes here-->
+
+
+<p><a href="http://traffic.libsyn.com/razborpoletov/razbor_57.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
+
+<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/2014/03/episode-56.html">Episode 56 — I Eat Green Berets for Breakfast</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2014-03-02T16:17:00-05:00" pubdate data-updated="true">Mar 2<span>nd</span>, 2014</time>
+        
+         | <a href="/2014/03/episode-56.html#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_56_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_56_text.jpg" width="350" /></a>
+</div>
+
+
+<ul>
+<li><a href="http://thenextweb.com/lifehacks/2014/02/10/listen-work-music-brain/">Музыка нас связала</a></li>
+<li><a href="https://blog.twitter.com/2014/netty-at-twitter-with-finagle">Финагл</a></li>
+<li>Арни <a href="https://gist.github.com/georg/9224355">1</a> <a href="http://www.youtube.com/watch?v=pDxn0Xfqkgw">2</a></li>
+<li><a href="http://thenextweb.com/apps/2014/02/26/github-releases-text-editor-coders-named-atom/">Раcщепляем атом</a></li>
+<li>Полезняшка
+
+<ul>
+<li><a href="http://direnv.net/">direnv</a></li>
+<li><a href="https://github.com/sindresorhus/pageres">pageres</a></li>
+<li>Notifications <a href="https://github.com/alloy/terminal-notifier">1</a> <a href="https://github.com/rombert/desktop-maven-notifier">2</a></li>
+<li><a href="http://www.jworks.nl/2014/02/26/quick-introduction-assertj/">Fluent Assertions</a> и для <a href="https://code.google.com/p/rest-assured/">REST</a></li>
+</ul>
+</li>
+<li><a href="http://highscalability.com/blog/2014/2/26/the-whatsapp-architecture-facebook-bought-for-19-billion.html">Архитектура WhatsApp</a></li>
+<li><a href="http://www.computerra.ru/94810/94810/">SAAS</a></li>
+<li>Немного о client-side <a href="https://sourcegraph.com/blog/switching-from-angularjs-to-server-side-html">1</a> <a href="http://vsavkin.github.io/chat-dart/node_vs_dart/node_vs_dart.html">2</a></li>
+</ul>
+
+
+<hr />
+
+<p><a href="http://2014.geekout.ee/">Конференция GeekOut 2014</a></p>
+
+<hr />
+
+<p><em>На правах рекламы:</em></p>
+
+<ul>
+<li>Онлайн курс <a href="http://www.eventbrite.com/e/modern-web-application-development-for-java-programmers-march-2014-tickets-10538467841">Modern Web Application Development for Java Programmers</a> на английском. Скидка $50 код <strong>RazborPoletov</strong> . <a href="https://github.com/yfain/WebDevForJavaProgrammers">Course agenda</a>. <a href="https://github.com/yfain/WebDevForJavaProgrammers/watchers">Добавляйтесь в watchers на GitHub</a>.</li>
+</ul>
+
+
+<hr />
+
+<p>Наши контакты:</p>
+
+<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
+
+<p>Темы для следующего выпуска - <a href="https://github.com/razbor-poletov/razbor-poletov.github.com/issues?state=open">https://github.com/razbor-poletov/</a></p>
+
+<p>Гости и участники:</p>
+
+<p>twitter:</p>
+
+<ul>
+<li><a href="https://twitter.com/#!/gamussa">@gamussa</a></li>
+<li><a href="https://twitter.com/#!/antonarhipov">@antonarhipov</a></li>
+<li><a href="https://twitter.com/#!/a_abashev">@a_abashev</a></li>
+<li><a href="https://twitter.com/#!/dzmitryc">@dzmitryc </a></li>
+</ul>
+
+
+<p>G+:</p>
+
+<ul>
+<li><a href="http://gplus.to/gAmUssA">gplus.to/gAmUssA</a></li>
+<li><a href="http://gplus.to/aabashev">gplus.to/aabashev</a></li>
+<li><a href="https://plus.google.com/+AntonArhipov">https://plus.google.com/+AntonArhipov</a></li>
+<li><a href="https://plus.google.com/+DmitryChurbanov">https://plus.google.com/+DmitryChurbanov</a></li>
+</ul>
+
+
+<!-- player goes here-->
+
+
+<p><audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_56.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio></p>
+
+<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
+
+<!-- episode file link goes here-->
+
+
+<p><a href="http://traffic.libsyn.com/razborpoletov/razbor_56.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
+
+<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/2014/02/episode-55.html">Episode 55 — Dr. H. Kabutz, ты кто такой?! давайдосвиданья!</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2014-02-16T17:45:00-05:00" pubdate data-updated="true">Feb 16<span>th</span>, 2014</time>
+        
+         | <a href="/2014/02/episode-55.html#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_55_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_55_text.jpg" width="350" /></a>
+</div>
+
+
+<ul>
+<li>Эй, <a href="http://www.javaspecialists.eu/">ты кто такой</a>? давайдосвидания! <a href="https://twitter.com/heinzkabutz/status/432947749764362240">1</a> <a href="https://twitter.com/heinzkabutz/status/432947875916439552">2</a>. <a href="http://sourceforge.net/projects/javaconcurrenta/">Java Concurrent Animated</a></li>
+<li><a href="http://blog.jooq.org/2014/01/09/advanced-java-trickery-for-typesafe-query-dsls/">TypeSafe DSL</a>, <a href="http://blog.joda.org/2014/02/new-project-threeten-extra-for-jdk-8.html">Time in Java 8</a></li>
+<li>Полезняшка <a href="https://code.google.com/p/concurrentlinkedhashmap/wiki/Design">1</a> <a href="http://sysadmincasts.com/">2</a> <a href="https://github.com/dinedal/textql">3</a></li>
+<li>Шрифты <a href="http://www.mozilla.org/en-US/styleguide/products/firefox-os/typeface/">1</a> <a href="http://www.fontsquirrel.com/fonts/cousine">2</a></li>
+<li>Gif Screencast <a href="https://plus.google.com/app/basic/stream/z12bxnvp3sy3yj33v23nwtk45znjznqwv04">1</a> <a href="http://www.cockos.com/licecap/">2</a></li>
+<li><a href="http://pragprog.com/book/trevan/driving-technical-change">Книжный клуб: Driving Technical Change: Why People on Your Team Don&#8217;t Act on Good Ideas, and How to Convince Them They Should</a></li>
+<li><a href="http://blogs.msdn.com/b/escience/archive/2014/01/28/cloud-design-patterns-now-available.aspx">Cloud Patterns</a></li>
+<li><a href="http://googlecloudplatform.blogspot.com/2014/02/using-dbshards-and-cloud-sql-to-provide.html">Db shards</a></li>
+<li><a href="http://www.troyhunt.com/2014/02/your-api-versioning-is-wrong-which-is.html">API versioning </a></li>
+<li><a href="http://www.quora.com/Google-Engineering/Why-does-Google-prefer-the-Java-stack-for-its-products-instead-of-Python/answer/Robert-Love-1">Почему Google использует Java, а не Python</a> и <a href="http://www.infoq.com/news/2014/02/google-java-coding-standards">их стандарты</a></li>
+</ul>
+
+
+<hr />
+
+<p>Наши контакты:</p>
+
+<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
+
+<p>Темы для следующего выпуска - <a href="https://github.com/razbor-poletov/razbor-poletov.github.com/issues?state=open">https://github.com/razbor-poletov/</a></p>
+
+<p>Гости и участники:</p>
+
+<p>twitter:</p>
+
+<ul>
+<li><a href="https://twitter.com/#!/gamussa">@gamussa</a></li>
+<li><a href="https://twitter.com/#!/antonarhipov">@antonarhipov</a></li>
+<li><a href="https://twitter.com/#!/a_abashev">@a_abashev</a></li>
+<li><a href="https://twitter.com/#!/dzmitryc">@dzmitryc </a></li>
+</ul>
+
+
+<p>G+:</p>
+
+<ul>
+<li><a href="http://gplus.to/gAmUssA">gplus.to/gAmUssA</a></li>
+<li><a href="http://gplus.to/aabashev">gplus.to/aabashev</a></li>
+<li><a href="https://plus.google.com/+AntonArhipov">https://plus.google.com/+AntonArhipov</a></li>
+<li><a href="https://plus.google.com/+DmitryChurbanov">https://plus.google.com/+DmitryChurbanov</a></li>
+</ul>
+
+
+<!-- player goes here-->
+
+
+<p><audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_55.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio></p>
+
+<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
+
+<!-- episode file link goes here-->
+
+
+<p><a href="http://traffic.libsyn.com/razborpoletov/razbor_55.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
+
+<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/2014/01/episode-54.html">Episode 54 — Dart-аньян веб-разработки</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2014-01-26T16:37:00-05:00" pubdate data-updated="true">Jan 26<span>th</span>, 2014</time>
+        
+         | <a href="/2014/01/episode-54.html#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_54_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_54_text.jpg" width="350" /></a>
+</div>
+
+
+<p>Гость выпуска - <a href="https://plus.google.com/+KonstantinScheglov/">Константин Щеглов, Google</a></p>
+
+<p>Подводим итоги конкурса на <a href="http://razbor-poletov.com/2013/12/greeting-card-2013.html">лучшую поздравительную открытку</a></p>
+
+<hr />
+
+<p><a href="2014.geekout.ee">Конференция GeekOut 2014</a></p>
+
+<p><a href="http://www.eventbrite.com/e/nyjavasig-nashorn-java-and-javascript-shaken-not-stirred-tickets-10216807747">NYJavaSIG - Nashorn: Java and JavaScript. Shaken, Not Stirred</a>
+January 30, 2014 from 6:00 PM to 8:30 PM, New York, NY</p>
+
+<hr />
+
+<p>Небольшой вброс в тему фронт-енда <a href="http://jakobz.livejournal.com/236681.html">1</a> <a href="http://gliv.livejournal.com/125078.html">2</a> <a href="http://tonsky.livejournal.com/285722.html">3</a> <a href="http://lionet.livejournal.com/130032.html">4</a></p>
+
+<p>Говорим сегодня про Dart:</p>
+
+<ul>
+<li>Релиз Dart <a href="http://blog.chromium.org/2013/11/dart-10-stable-sdk-for-structured-web.html">1.0</a> и следом за ним <a href="http://news.dartlang.org/2014/01/dart-11-features-up-to-25-faster.html">1.1</a></li>
+<li>Try Dart! <a href="http://try.dartlang.org/">1</a> <a href="http://runnable.com/Dart">2</a></li>
+<li><a href="https://www.dartlang.org/articles/event-loop/">Dart Event Loop</a></li>
+<li>Tools <a href="https://www.dartlang.org/docs/dart-up-and-running/contents/ch04-tools-dart2js.html">1</a> <a href="https://www.dartlang.org/tools/editor/">2</a> <a href="https://www.dartlang.org/tools/webstorm/">3</a></li>
+<li><a href="https://code.google.com/p/dart/issues/detail?id=8376#c20">Dart build-in HTML methods vs jQuery</a></li>
+<li><a href="https://www.youtube.com/watch?v=RqKUTGB-CxA#t=1">AngularDart</a></li>
+<li><a href="http://news.dartlang.org/2013/12/ecma-forms-tc52-for-dart-standardization.html">Стандартизация Dart</a></li>
+<li><a href="http://americhka.us/2014/01/14/416-restful-web-service-and-conferences/">Говорили про REST, Dart и конференции </a></li>
+</ul>
+
+
+<p>Полезные ресурсы Dart:</p>
+
+<ul>
+<li><a href="http://dartweekly.com/">DartWeekly</a></li>
+<li><a href="http://www.dartosphere.org/">DartSphere</a></li>
+<li><a href="http://dartlangfr.net/dart-cheat-sheet/">Dart Cheat Sheet</a></li>
+</ul>
+
+
+<p>Книги по Dart:</p>
+
+<ul>
+<li><a href="http://www.amazon.com/Dart-Programming-Language-Gilad-Bracha/dp/0321927702/">Dart Programming Language</a></li>
+<li><a href="http://pragprog.com/book/csdart/dart-for-hipsters">Dart For Hipsters</a></li>
+<li><a href="http://www.manning.com/buckett/">Dart in Action</a></li>
+</ul>
+
+
+<p>Cool stuff: <a href="https://github.com/eee-c/ice-code-editor">ICE code editor</a> and <a href="http://gamingjs.com/ice/">Demo</a></p>
+
+<hr />
+
+<p><em>На правах рекламы:</em></p>
+
+<ul>
+<li>Онлайн курс <a href="http://www.eventbrite.com/e/modern-web-application-development-for-java-programmers-tickets-9775299183">Modern Web Application Development for Java Programmers</a> Скидка $50 код <strong>RazborPoletov</strong> . <a href="https://github.com/yfain/WebDevForJavaProgrammers">Course agenda</a>. <a href="https://github.com/yfain/WebDevForJavaProgrammers/watchers">Добавляйтесь в watchers на GitHub</a>.</li>
+</ul>
+
+
+<hr />
+
+<p>Наши контакты:</p>
+
+<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
+
+<p>Темы для следующего выпуска - <a href="https://github.com/razbor-poletov/razbor-poletov.github.com/issues?state=open">https://github.com/razbor-poletov/</a></p>
+
+<p>Гости и участники:</p>
+
+<p>twitter:</p>
+
+<ul>
+<li><a href="https://twitter.com/#!/gamussa">@gamussa</a></li>
+<li><a href="https://twitter.com/#!/antonarhipov">@antonarhipov</a></li>
+<li><a href="https://twitter.com/#!/a_abashev">@a_abashev</a></li>
+<li><a href="https://twitter.com/#!/dzmitryc">@dzmitryc </a></li>
+</ul>
+
+
+<p>G+:</p>
+
+<ul>
+<li><a href="http://gplus.to/gAmUssA">gplus.to/gAmUssA</a></li>
+<li><a href="http://gplus.to/aabashev">gplus.to/aabashev</a></li>
+<li><a href="https://plus.google.com/+AntonArhipov">https://plus.google.com/+AntonArhipov</a></li>
+<li><a href="https://plus.google.com/+DmitryChurbanov">https://plus.google.com/+DmitryChurbanov</a></li>
+</ul>
+
+
+<!-- player goes here-->
+
+
+<p><audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_54.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio></p>
+
+<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
+
+<!-- episode file link goes here-->
+
+
+<p><a href="http://traffic.libsyn.com/razborpoletov/razbor_54.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
+
+<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/2014/01/episode-53.html">Episode 53 — Цейлонский выпуск</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2014-01-12T17:01:00-05:00" pubdate data-updated="true">Jan 12<span>th</span>, 2014</time>
+        
+         | <a href="/2014/01/episode-53.html#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_53_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_53_text.jpg" width="350" /></a>
+</div>
+
+
+<p>Итоги года <a href="http://jaxenter.com/why-java-skills-are-still-golden-for-developers.1-49296.html">1</a>, <a href="http://code2013.herokuapp.com/">2</a>, <a href="http://blogs.tedneward.com/2014/01/03/Tech+Predictions+2014.aspx">3</a>.</p>
+
+<p>Про Ceylon <a href="http://ceylon-lang.org/blog/2013/11/12/ceylon-1/">1</a>, <a href="http://blog.jooq.org/2013/12/03/top-10-ceylon-language-features-i-wish-we-had-in-java/">2</a> и бонус от ZT <a href="https://github.com/antonarhipov/ceylon-http-server">1</a>, <a href="http://zeroturnaround.com/rebellabs/the-adventurous-developers-guide-to-jvm-languages-java-scala-groovy-fantom-clojure-ceylon-kotlin-xtend/">2</a>, <a href="https://github.com/zeroturnaround/jvm-languages-report">3</a></p>
+
+<p>Полезняшка</p>
+
+<ul>
+<li><a href="http://coderwall.com/p/ugb2ow">MicroMongo</a></li>
+<li>Параметризованные jUnit tests <a href="http://www.javacodegeeks.com/2013/12/parameterized-junit-tests-with-junitparams.html">1</a> <a href="http://docs.spockframework.org/en/latest/data_driven_testing.html">2</a></li>
+<li><a href="https://github.com/sindresorhus/quick-look-plugins">Плагины для Quick Look</a></li>
+<li><a href="http://designm.ag/inspiration/31-admin-backend-dashboard-templates/">Темы для админок</a></li>
+</ul>
+
+
+<p><a href="https://code.facebook.com/posts/218678814984400/scaling-mercurial-at-facebook/">Scaling Mercurial at Facebook</a></p>
+
+<p><a href="http://www.forbes.com/sites/steveblank/2014/01/03/tesla-and-adobe-why-continuous-deployment-may-mean-continuous-customer-disappointment/3/">Continuous Deliver = Continuous Disappointment</a></p>
+
+<p><a href="http://blog.circleci.com/silence-is-for-the-weak/">Silence, I said!</a></p>
+
+<hr />
+
+<p><em>На правах рекламы:</em></p>
+
+<ul>
+<li>Онлайн курс <a href="http://www.eventbrite.com/e/modern-web-application-development-for-java-programmers-tickets-9775299183">Modern Web Application Development for Java Programmers</a> Скидка $50 код <strong>RazborPoletov</strong> . <a href="https://github.com/yfain/WebDevForJavaProgrammers">Course agenda</a>. <a href="https://github.com/yfain/WebDevForJavaProgrammers/watchers">Добавляйтесь в watchers на GitHub</a>.</li>
+</ul>
+
+
+<hr />
+
+<p>Наши контакты:</p>
+
+<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
+
+<p>Темы для следующего выпуска - <a href="https://github.com/razbor-poletov/razbor-poletov.github.com/issues?state=open">https://github.com/razbor-poletov/</a></p>
+
+<p>Гости и участники:</p>
+
+<p>twitter:</p>
+
+<ul>
+<li><a href="https://twitter.com/#!/gamussa">@gamussa</a></li>
+<li><a href="https://twitter.com/#!/antonarhipov">@antonarhipov</a></li>
+<li><a href="https://twitter.com/#!/a_abashev">@a_abashev</a></li>
+<li><a href="https://twitter.com/#!/dzmitryc">@dzmitryc </a></li>
+</ul>
+
+
+<p>G+:</p>
+
+<ul>
+<li><a href="http://gplus.to/gAmUssA">gplus.to/gAmUssA</a></li>
+<li><a href="http://gplus.to/aabashev">gplus.to/aabashev</a></li>
+<li><a href="https://plus.google.com/+AntonArhipov">https://plus.google.com/+AntonArhipov</a></li>
+<li><a href="https://plus.google.com/+DmitryChurbanov">https://plus.google.com/+DmitryChurbanov</a></li>
+</ul>
+
+
+<!-- player goes here-->
+
+
+<p><audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_53.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio></p>
+
+<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
+
+<!-- episode file link goes here-->
+
+
+<p><a href="http://traffic.libsyn.com/razborpoletov/razbor_53.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
+
+<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/2013/12/greeting-card-2013.html">Поздравительная открытка — 2013</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2013-12-28T15:05:00-05:00" pubdate data-updated="true">Dec 28<span>th</span>, 2013</time>
+        
+         | <a href="/2013/12/greeting-card-2013.html#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>Уважаемые слушатели!</p>
+
+<p>Поздравляем с наступающим Новым Годом и Рождеством!</p>
+
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://www.click2crop.com/postcard/big/aerspa017.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/aerspa017.jpg"/></a>
+</div>
+
+
+<p>Поздравления с Новым Годом принимает компания <a href="http://zeroturnaround.com/">ZeroTurnaround</a>. Лучшие поздравления будут премированы <a href="http://www.amazon.com/Kindle-Paperwhite-Ereader/dp/B00AWH595M/"><strong>Kindle Paperwhite</strong></a>. В качестве поздравлений принимаются скринкасты, блогпосты или классные багрепорты о JRebel или LiveRebel.</p>
+
+<p>Поздравления с Новым Годом принимает компания <a href="http://infobox.ru/">InfoboxCloud</a>. Лучшие поздравления, скринкасты и блогпосты будут премированы зачислением <strong>2014 рублей</strong> на счет ваших аккаунтов платформы <a href="http://jelastic.com/">Jelastic</a> в облаке <a href="http://infobox.ru/">InfoboxCloud</a>. Все остальные слушатели подкаста получают <strong>201.4 рубля</strong> на счет, <strong>3 клаудлета и 1 ip адрес бесплатно</strong> и навсегда после перехода с триала в коммерческий режим, просто зарегистрировавшись по <a href="http://infoboxcloud.ru/promo/tryjelastic2014/">ссылке</a>.</p>
+
+<p>Так же поздравления принимают компании <a href="http://www.jetbrains.com/">Jetbrains</a> и <a href="http://www.jfrog.com/">JFrog</a>. Лучшие поздравления будут премированы клёвыми футболками от JFrog и лицензиями на <a href="http://www.jetbrains.com/idea/">IntelliJ IDEA 13</a>.</p>
+
+<p>Свои поздравления оставляйте в комментариях к этому посту или в G+ (ссылка на этот пост должна присутствовать).</p>
+
+<p><a href="http://razbor-poletov.com">Редакция подкаста «Разбор Полетов»</a></p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/2013/12/episode-52.html">Episode 52 — Главный по IDEA</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2013-12-22T17:03:00-05:00" pubdate data-updated="true">Dec 22<span>nd</span>, 2013</time>
+        
+         | <a href="/2013/12/episode-52.html#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_52_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_52_text.jpg" width="350" /></a>
+</div>
+
+
+<p>Гость выпуска — <a href="mailto:andrey.cheptsov@jetbrains.com">Андрей Чепцов из JetBrains</a></p>
+
+<ul>
+<li><a href="http://www.jetbrains.com/idea/whatsnew/">What’s new</a></li>
+<li><a href="http://habrahabr.ru/company/JetBrains/blog/204590/">Что нового в IDEA 13</a></li>
+<li><a href="http://plugins.jetbrains.com/plugin/7345">Presentation Assistant</a></li>
+<li><a href="http://plugins.jetbrains.com/plugin/7243">IntelliJ Code Golf</a></li>
+<li><a href="http://plugins.jetbrains.com/plugin/4560?pr=idea">Intellij Configuration Server Plugin</a></li>
+<li><a href="http://blog.jetbrains.com/idea/2012/10/support-for-spring-batch-in-intellij-idea-12/">Поддержка Spring Batch</a></li>
+<li><a href="http://blog.jetbrains.com/idea/2013/12/intellij-idea-personal-licensing-changes/">Изменения в лицензировании</a></li>
+<li><a href="http://arhipov.blogspot.com/2012/04/intellijidea-tip-configuration-profiles.html">Использование профайлов</a></li>
+<li><a href="https://github.com/razbor-poletov/razbor-poletov.github.com/issues/9">Вопросы из зала</a></li>
+<li><a href="http://www.jetbrains.com/objc/features/cpp.html#form">C++ IDE private beta</a></li>
+</ul>
+
+
+<hr />
+
+<p><em>На правах рекламы:</em></p>
+
+<ul>
+<li>Онлайн курс <a href="http://www.eventbrite.com/e/modern-web-application-development-for-java-programmers-tickets-9775299183">Modern Web Application Development for Java Programmers</a> Скидка $50 код <strong>RazborPoletov</strong> . <a href="https://github.com/yfain/WebDevForJavaProgrammers">Course agenda</a>. <a href="https://github.com/yfain/WebDevForJavaProgrammers/watchers">Добавляйтесь в watchers на GitHub</a>.</li>
+</ul>
+
+
+<hr />
+
+<p>Наши контакты:</p>
+
+<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
+
+<p>Темы для следующего выпуска - <a href="https://github.com/razbor-poletov/razbor-poletov.github.com/issues?state=open">https://github.com/razbor-poletov/</a></p>
+
+<p>Гости и участники:</p>
+
+<p>twitter:</p>
+
+<ul>
+<li><a href="https://twitter.com/#!/gamussa">@gamussa</a></li>
+<li><a href="https://twitter.com/#!/antonarhipov">@antonarhipov</a></li>
+<li><a href="https://twitter.com/#!/a_abashev">@a_abashev</a></li>
+<li><a href="https://twitter.com/#!/dzmitryc">@dzmitryc </a></li>
+<li><a href="https://twitter.com/#!/andrey_cheptsov">@andrey_cheptsov </a></li>
+<li><a href="https://twitter.com/#!/jbaruch">@jbaruch</a></li>
+</ul>
+
+
+<p>G+:</p>
+
+<ul>
+<li><a href="http://gplus.to/gAmUssA">gplus.to/gAmUssA</a></li>
+<li><a href="http://gplus.to/aabashev">gplus.to/aabashev</a></li>
+<li><a href="https://plus.google.com/+AntonArhipov">https://plus.google.com/+AntonArhipov</a></li>
+<li><a href="https://plus.google.com/+DmitryChurbanov">https://plus.google.com/+DmitryChurbanov</a></li>
+</ul>
+
+
+<!-- player goes here-->
+
+
+<p><audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_52.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio></p>
+
+<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
+
+<!-- episode file link goes here-->
+
+
+<p><a href="http://traffic.libsyn.com/razborpoletov/razbor_52.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
+
+<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  <div class="pagination">
+    
+      <a class="prev" href="/blog/page/2/">&larr; Older</a>
+    
+    <a href="/blog/archives">Blog Archives</a>
+    
+  </div>
+</div>
+<aside class="sidebar">
+  
+    <section>
+	<img alt="" height="150" id="Image1_img" src="http://razbor-poletov.com/images/logo_final_b_300.jpg" width="150" style="visibility: visible; ">
+</section>
+<section>	
+ <!-- Place this tag where you want the badge to render -->
+<div class="g-plus" data-href="https://plus.google.com/106834666485863668012?rel=author" data-width="250" data-height="131" data-theme="light"></div>
+<script type="text/javascript">gapi.plus.go();</script> 
+</section>
+<section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/2014/05/episode-60.html">Episode 60 — Будьте бдительны!</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2014/04/episode-59.html">Episode 59 — Всех с восьмеркой, молодые, реактивные и динамичные</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2014/03/episode-58.html">Episode 58 — Конференции, анонимные программисты и добро</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2014/03/episode-57.html">Episode 57 — Новые технологии на нашем радаре</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2014/03/episode-56.html">Episode 56 — I eat Green Berets for breakfast</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2014/02/episode-55.html">Episode 55 — Dr. H. Kabutz, ты кто такой?! давайдосвиданья!</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2014/01/episode-54.html">Episode 54 — Dart-аньян веб-разработки</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2014/01/episode-53.html">Episode 53 — Цейлонский выпуск</a>
+      </li>
+    
+  </ul>
+</section>
+
+<section>
+  <h1>GitHub Repos</h1>
+  <ul id="gh_repos">
+    <li class="loading">Fork us!</li>
+  </ul>
+  
+  <a href="https://github.com/razbor-poletov">@razbor-poletov</a> on GitHub
+  
+</section>
+
+
+
+<section>
+	<h1>Заносить сюда!</h1>
+	<ul>
+		<li>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_s-xclick" />
+<input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----
+" />
+<input type="image" src="http://razbor-poletov.com/images/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!" />
+</form>
+</li>
+</ul>
+</section>
+  
+</aside>
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2014 - Viktor Gamov, Alexey Abashev, Dmitry Churbanov -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>  
+</p>
+
+</footer>
+  
+
+<script type="text/javascript">
+      var disqus_shortname = 'razbor-poletov';
+      
+        
+        var disqus_script = 'count.js';
+      
+
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+
+
+<script>
+    gapi.comments.render('gplus-pingback', { 
+	    href: 'http://razbor-poletov.com/index.html',
+        first_party_property: 'BLOGGER',
+        view_type: 'FILTERED_POSTMOD'
+    });
+</script>
+
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#appId=277889288973786&xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+  <script type="text/javascript">
+    (function() {
+      var script = document.createElement('script'); script.type = 'text/javascript'; script.async = true;
+      script.src = 'https://apis.google.com/js/plusone.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(script, s);
+    })();
+  </script>
+
+
+
+
+
+
+
+</body>
+</html>
