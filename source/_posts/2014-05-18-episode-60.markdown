@@ -36,7 +36,7 @@ _На правах рекламы:_
 
 Полезняшки
 
-* [www.semanticmerge.com/merge-diff-tool-mac.html](www.semanticmerge.com/merge-diff-tool-mac.html)
+* [http://www.semanticmerge.com/merge-diff-tool-mac.html](http://www.semanticmerge.com/merge-diff-tool-mac.html)
 * [http://www.git-tower.com/learn/](http://www.git-tower.com/learn/)
 * [https://github.com/vovkkk/MarkupViewer](https://github.com/vovkkk/MarkupViewer)
 * [http://freeside.co/betamax/](http://freeside.co/betamax/)
