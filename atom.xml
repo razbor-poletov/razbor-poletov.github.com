@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2014-06-08T18:20:37-04:00</updated>
+  <updated>2014-06-08T18:26:25-04:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov]]></name>
@@ -51,12 +51,6 @@
 </li>
 </ul>
 
-
-<p>Полезняшки
-* <a href="http://robots.thoughtbot.com/a-tmux-crash-course">tmux</a>
-* <a href="http://www.syntevo.com/smartgithg/">SmartGit</a>
-* <a href="http://ejohn.org/blog/write-code-every-day/">Пиши код каждый день</a>
-* <a href="https://github.com/puniverse/capsule">Capsule</a></p>
 
 <p>Наши контакты:</p>
 
