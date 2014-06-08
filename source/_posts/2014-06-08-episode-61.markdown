@@ -1,0 +1,67 @@
+---
+layout: post
+title: "Episode 61 — Про яблоки и Свифт"
+date: 2014-06-08 16:43
+comments: true
+categories: 
+---
+
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_61_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_61_text.jpg" width="350" /></a>
+</div>
+
+Гость [Александр Бабаев](http://devpocket.com)
+
+Конференции:
+
+* Виктор на [QConNY](https://qconnewyork.com/presentation/nashorn-native-javascript-support-java-8)
+* [IoT Expo](http://www.thingsexpo.com/) in NYC. These are the steps to get the free pass:
+
+1. Go to the [special registration page](https://www.blueskyz.com/v3/Login.aspx?ClientID=19&EventID=88)
+2. Fill out the Attendee Information form
+3. Select the VIP Gold Pass Registration Option (located on page 3- "Registration Plan")
+4. Enter the Discount Code: __FacultyGuest__
+5. The price will re-set to __$0__
+
+Faculty Guest registration does not include lunch or the Collectible Conference Bag, but does provide Full Conference Access for all 3 days - June 10-12. Your guests can choose from our 125+ breakout sessions, general sessions, industry keynotes, and Power Panels and of course attend the Expo Floor. The New York event, which is going to be our biggest ever, now includes Big Data Expo, DevOps Summit, WebRTC Summit, Internet of Things Expo, and SDDC Expo.
+
+* [Стабильность](http://blog.golodnyj.ru/2014/05/blog-post_2339.html)
+* Обзор WWDC 2014
+	* [Мысли](http://inessential.com/2014/06/06/early_thoughts_on_wwdc_2014)
+	* Swift [1](http://www.nondot.org/sabre/) | [2](http://beust.com/weblog/2014/06/02/swift-apples-new-language/) | [3](http://graydon2.dreamwidth.org/5785.html) | [Swift CheatSheet and quick reference](http://cdn2.raywenderlich.com/wp-content/uploads/2014/06/RW-Swift-Cheatsheet-0_3.pdf) | [Сравниваем с Groovy](http://glaforge.appspot.com/article/apple-s-swift-programming-language-inspired-by-groovy) | [FlappyBird](https://github.com/fullstackio/FlappySwift)
+
+Наши контакты:
+
+Официальный сайт — [http://razbor-poletov.com](http://razbor-poletov.com)
+
+Темы для следующего выпуска - [https://github.com/razbor-poletov/](https://github.com/razbor-poletov/razbor-poletov.github.com/issues?state=open)
+
+Гости и участники:
+
+twitter: 
+
+ * [@gamussa](https://twitter.com/#!/gamussa)
+ * [@golodnyj](https://twitter.com/#!/golodnyj)
+ * [@bealex](https://twitter.com/#!/bealex)
+ * [@antonarhipov](https://twitter.com/#!/antonarhipov)
+ * [@a_abashev](https://twitter.com/#!/a_abashev)
+ 
+G+:
+
+ * [gplus.to/gAmUssA](http://gplus.to/gAmUssA) 
+ * [gplus.to/aabashev](http://gplus.to/aabashev) 
+ * [https://plus.google.com/+AntonArhipov](https://plus.google.com/+AntonArhipov) 
+
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_61.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+
+Подписаться по [RSS](http://feeds.feedburner.com/razbor-podcast)
+
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_61.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+
+Музыка ведущим [предоставлена](http://www.audiobank.fm/single-music/27/111/More-And-Less/) и ладно...
