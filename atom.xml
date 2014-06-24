@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2014-06-23T20:09:27-04:00</updated>
+  <updated>2014-06-23T20:14:51-04:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Episode 62 - Учимся на ошибках]]></title>
+    <title type="html"><![CDATA[Episode 62 — Учимся на ошибках]]></title>
     <link href="http://razbor-poletov.com/2014/06/episode-62.html"/>
     <updated>2014-06-22T16:07:00-04:00</updated>
     <id>http://razbor-poletov.com/2014/06/episode-62</id>
