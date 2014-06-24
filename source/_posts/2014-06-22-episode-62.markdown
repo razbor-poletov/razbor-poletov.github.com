@@ -1,0 +1,74 @@
+---
+layout: post
+title: "Episode 62 — Учимся на ошибках"
+date: 2014-06-22 16:07
+comments: true
+categories: 
+---
+
+[__Выпуск 18+__](http://s2.developerslife.ru/public/images/gifs/63e1f331-bee2-4648-af36-709f123ea05d.gif)
+
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_62_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_62_text.jpg" width="350" /></a>
+</div>
+
+* Конференции
+	* [QCon New York](https://qconnewyork.com/schedule-2014) 
+	* [GeekOUT 2014 ](http://2014.geekout.ee/). [xrebel](http://xrebel.com)
+* [Опять про зарплаты](http://www.forbes.com/sites/cameronkeng/2014/06/22/employees-that-stay-in-companies-longer-than-2-years-get-paid-50-less/)
+* [Разделяй](http://programmers.stackexchange.com/questions/107503/is-it-common-to-separate-back-end-and-front-end-into-two-positions-on-web-develo) и [властвуй](http://lostechies.com/bradcarleton/2014/03/25/frontend-backend-gotta-keepem-separated/)? __p.s.__ [Один из наш боец в гости ходил](http://americhka.us/2014/06/21/427-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82%D1%8B) и разговаривал про SPA тоже.
+* [New IDE by JetBrains](http://blog.jetbrains.com/blog/2014/06/09/0xdbe-brand-new-ide-for-dbas-and-sql-developers/
+)
+* [Чему можно научится на ошибках коллег](http://static.googleusercontent.com/media/research.google.com/de//pubs/archive/42184.pdf
+)
+* Полезняшки
+	* tmux и [книжка](http://pragprog.com/book/bhtmux/tmux) про него
+	* [Умный git](http://www.syntevo.com/smartgithg/) 
+* [Capsule](https://github.com/puniverse/capsule) 
+* Новое? Хорошо забытое старое: [Web Fundamentals - Optimizing Performance](https://developers.google.com/web/fundamentals/performance/)
+
+
+---
+
+_На правах рекламы:_
+
+* Онлайн курс [Modern Web Application Development for Java Programmers](http://www.eventbrite.com/e/modern-web-application-development-for-java-programmers-starts-07272014-tickets-11465653077) на английском. Скидка $50 код **RazborPoletov**
+
+---
+
+
+Наши контакты:
+
+Официальный сайт — [http://razbor-poletov.com](http://razbor-poletov.com)
+
+Темы для следующего выпуска - [https://github.com/razbor-poletov/](https://github.com/razbor-poletov/razbor-poletov.github.com/issues?state=open)
+
+Гости и участники:
+
+twitter: 
+
+ * [@gamussa](https://twitter.com/#!/gamussa)
+ * [@antonarhipov](https://twitter.com/#!/antonarhipov)
+ * [@a_abashev](https://twitter.com/#!/a_abashev)
+ * [@dzmitryc ](https://twitter.com/#!/dzmitryc)
+ 
+G+:
+
+ * [gplus.to/gAmUssA](http://gplus.to/gAmUssA) 
+ * [gplus.to/aabashev](http://gplus.to/aabashev) 
+ * [https://plus.google.com/+AntonArhipov](https://plus.google.com/+AntonArhipov) 
+ * [https://plus.google.com/+DmitryChurbanov](https://plus.google.com/+DmitryChurbanov) 
+
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_62.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+
+Подписаться по [RSS](http://feeds.feedburner.com/razbor-podcast)
+
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_62.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+
+Музыка ведущим [предоставлена](http://www.audiobank.fm/single-music/27/111/More-And-Less/) и ладно...
