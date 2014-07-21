@@ -1,0 +1,78 @@
+---
+layout: post
+title: "Episode 63 — В Интернетах кто-то неправ"
+date: 2014-07-15 00:22
+comments: true
+categories: 
+---
+
+[Кто-то неправ](http://xkcd.com/386/)
+
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_63_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_63_text.jpg" width="350" /></a>
+</div>
+
+Конференции:
+
+* [Jenkins User Conference Israel (спонсор - ХАМАС и ЦАХАЛ)](http://www.cloudbees.com/jenkins/juc-2014) 
+* [OSCON](http://www.oscon.com/oscon2014): [наш человек там](http://www.oscon.com/oscon2014/public/schedule/detail/33585)
+* [Летняя Школа ИТИС](http://itiskpfu.timepad.ru/event/127116/)
+* [SpringOne2GX](http://springone2gx.com)
+* [JavaOne](https://www.oracle.com/javaone/index.html ) 
+	* [Виктор](https://oracleus.activeevents.com/2014/connect/sessionDetail.ww?SESSION_ID=3503)
+	* [Антон](https://oracleus.activeevents.com/2014/connect/sessionDetail.ww?SESSION_ID=1724)
+	* [Барух](https://oracleus.activeevents.com/2014/connect/sessionDetail.ww?SESSION_ID=1752)
+* [Devoxx](http://www.devoxx.be/)
+* [GeekOut UK](http://uk.geekout.ee/) 
+* [JavaDay](http://javaday.org.ua)
+* [Continuous delivery & zero downtime](http://vimeo.com/99523925)
+* Building a Continuous Delivery pipeline with Gradle and Jenkins [1](http://www.infoq.com/presentations/cd-gradle-jenkins) [2](http://www.slideshare.net/SpringCentral/cd-pipeline-gradlejenkins)
+* [The new TW Radar](http://www.thoughtworks.com/radar/#/)
+* Spring IO Platform 1.0 [1](https://spring.io/blog/2014/06/26/introducing-the-spring-io-platform) [2](http://spring.io/blog/2014/06/26/spring-io-platform-1-0-0-released)
+* Spring vs JavaEE [1](https://twitter.com/jbaruch/status/481214889331929091) [2](http://www.slideshare.net/reza_rahman/java-ee-and-spring-sidebyside-34320697)
+
+[Пиши код каждый день](http://ejohn.org/blog/write-code-every-day/)
+
+---
+
+_На правах рекламы:_
+
+* Онлайн курс [Web Application Development with JavaScript and AngularJS](http://www.eventbrite.com/e/web-application-development-with-javascript-and-angularjs-starts-sep-6-2014-tickets-12121418489?aff=eorg) на английском. Скидка-код **RazborPoletov**
+
+---
+
+
+Наши контакты:
+
+Официальный сайт — [http://razbor-poletov.com](http://razbor-poletov.com)
+
+Темы для следующего выпуска - [https://github.com/razbor-poletov/](https://github.com/razbor-poletov/razbor-poletov.github.com/issues?state=open)
+
+Гости и участники:
+
+twitter: 
+
+ * [@gamussa](https://twitter.com/#!/gamussa)
+ * [@antonarhipov](https://twitter.com/#!/antonarhipov)
+ * [@dzmitryc ](https://twitter.com/#!/dzmitryc)
+ * [@jbaruch](https://twitter.com/#!/jbaruch) 
+ 
+G+:
+
+ * [gplus.to/gAmUssA](http://gplus.to/gAmUssA) 
+ * [https://plus.google.com/+AntonArhipov](https://plus.google.com/+AntonArhipov) 
+ * [https://plus.google.com/+DmitryChurbanov](https://plus.google.com/+DmitryChurbanov) 
+
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_63.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+
+Подписаться по [RSS](http://feeds.feedburner.com/razbor-podcast)
+
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_63.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+
+Музыка ведущим [предоставлена](http://www.audiobank.fm/single-music/27/111/More-And-Less/) и ладно...
