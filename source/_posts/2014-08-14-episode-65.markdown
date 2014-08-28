@@ -14,7 +14,7 @@ categories:
 - [Приложение «Разбор Полетов» для андройда](https://play.google.com/store/apps/details?id=com.shonenfactory.razborpoletov)
 - [Как мигрировал Instagram](http://instagram-engineering.tumblr.com/post/89992572022/migrating-aws-fb)
 - [Не откладывайте рефакторинг в долгий ящик](http://xprogramming.com/articles/refactoring-not-on-the-backlog/)
-- [Во все винить semver](http://www.jongleberry.com/semver-has-failed-us.html)
+- [Во всем винить semver](http://www.jongleberry.com/semver-has-failed-us.html)
 - Полезняшка semver для Java [1](https://github.com/jeluard/semantic-versioning) [2](https://github.com/zafarkhaja/java-semver) 
 - [Microsoft уже не тот](http://arstechnica.com/information-technology/2014/08/how-microsoft-dragged-its-development-practices-into-the-21st-century/)
 
