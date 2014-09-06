@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2014-08-27T23:35:04-04:00</updated>
+  <updated>2014-09-06T11:59:12-04:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov]]></name>
@@ -12,6 +12,78 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[episode-67]]></title>
+    <link href="http://razbor-poletov.com/2014/09/episode-67.html"/>
+    <updated>2014-09-06T11:47:00-04:00</updated>
+    <id>http://razbor-poletov.com/2014/09/episode-67</id>
+    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_67_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_67_text.jpg" width="350" /></a>
+</div>
+
+
+<ul>
+<li><a href="http://www.jcrete.org/">JCrete</a></li>
+<li><a href="http://vanillajava.blogspot.com/">Peter Lawrey</a></li>
+<li><a href="http://mishadoff.com/blog/java-magic-part-4-sun-dot-misc-dot-unsafe/">sun.misc.Unsafe</a></li>
+<li><a href="http://openjdk.java.net/projects/sumatra/">Project Sumatra</a></li>
+<li><a href="http://www.gradle.org/">Gradle</a></li>
+<li><a href="http://asciidoctor.org/">Asciidoctor</a></li>
+<li><a href="https://github.com/asciidoctor/asciidoctor-gradle-plugin">Gradle Asciidoctor plugin</a></li>
+<li><a href="https://github.com/pledbrook/lazybones">Lazybones</a> <a href="http://habrahabr.ru/post/218205/">1</a></li>
+<li><a href="https://github.com/OpenHFT/Koloboke">Koloboke</a></li>
+<li><a href="http://www.azulsystems.com/jHiccup">jhiccup</a></li>
+<li><a href="http://jokerconf.com/">Конференция Joker в СПб</a></li>
+</ul>
+
+
+<hr />
+
+<ul>
+<li><a href="https://play.google.com/store/apps/details?id=com.shonenfactory.razborpoletov">Приложение «Разбор Полетов» для андройда</a>. <a href="https://github.com/rsi2m/RazborPoletov">Гитхаб</a> для пулл-реквестов</li>
+</ul>
+
+
+<hr />
+
+<p>Наши контакты:</p>
+
+<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
+
+<p>Темы для следующего выпуска - <a href="https://github.com/razbor-poletov/razbor-poletov.github.com/issues?state=open">https://github.com/razbor-poletov/</a></p>
+
+<p>Гости и участники:</p>
+
+<p>twitter:</p>
+
+<ul>
+<li><a href="https://twitter.com/#!/a_abashev">@a_abashev</a></li>
+<li><a href="https://twitter.com/#!/antonarhipov">@antonarhipov</a></li>
+<li><a href="https://twitter.com/#!/yfain">@yfain</a></li>
+<li><a href="https://twitter.com/#!/23derevo">@23derevo</a></li>
+<li><a href="https://twitter.com/#!/leventov">@leventov</a></li>
+</ul>
+
+
+<!-- player goes here-->
+
+
+<p><audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_67.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio></p>
+
+<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
+
+<!-- episode file link goes here-->
+
+
+<p><a href="http://traffic.libsyn.com/razborpoletov/razbor_67.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
+
+<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 66 — Инъекции, потрошители, кинжалы и пружинки]]></title>
@@ -3831,88 +3903,6 @@ The 2013 JavaOne Russia Call-for-Papers is open.  Deadline for submissions is Fe
 
 
 <p><a href="http://traffic.libsyn.com/razborpoletov/razbor_22.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
-
-<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 21 — Едим свой собачий корм и меняем шило на два шила]]></title>
-    <link href="http://razbor-poletov.com/2012/06/episode-21.html"/>
-    <updated>2012-06-10T12:30:00-04:00</updated>
-    <id>http://razbor-poletov.com/2012/06/episode-21</id>
-    <content type="html"><![CDATA[<p><a href="http://3.bp.blogspot.com/-hh4V2jbWfOM/T91Thn8t7uI/AAAAAAAAIcQ/emGHMq_4hMI/s1600/spring%253Fok%2521.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 2em; padding-right: 2em"><img border="0" height="295" src="http://3.bp.blogspot.com/-hh4V2jbWfOM/T91Thn8t7uI/AAAAAAAAIcQ/emGHMq_4hMI/s400/spring%253Fok%2521.jpg" width="400" /></a></p>
-
-<p>Встречайте 21 выпуск подкаста «Разбор Полетов». В предыдущем выпуске мы зажали 40 минут подкаста, поэтому восполняем это упущение. В этом выпуске:</p>
-
-<ul>
-<li>По следам наших рекомендаций - монолог</li>
-<li><a href="https://plus.google.com/117481599451076280717/posts/95Pg2TToXsQ">Как я в Твиттер сходил</a>
-
-<ul>
-<li>показывали что-то вроде <a href="http://www.infoq.com/presentations/Timelines-Twitter">этого</a></li>
-</ul>
-</li>
-<li><a href="http://paulasmuth.com/blog/a_bug_i_wont_forget/">«Не забывается такое никогда»</a></li>
-<li><p>А давайте вновь проедемся по Play</p>
-
-<ul>
-<li><a href="http://raibledesigns.com/rd/entry/upgrading_to_play_2_anorm">Как я обновлялся на Play2</a></li>
-<li><a href="http://whilefalse.blogspot.com/2012/03/why-im-moving-away-from-play-framework.html?m=1">Почему я свалил с Play</a></li>
-</ul>
-</li>
-<li><p>Полезняшки:</p>
-
-<ul>
-<li><a href="http://metrics.codahale.com/">Metrics</a></li>
-<li><a href="http://engineering.twitter.com/2012/06/distributed-systems-tracing-with-zipkin.html">Distributed Systems Tracing with Zipkin</a></li>
-</ul>
-</li>
-<li><p><a href="http://research.google.com/pubs/pub38125.html">F1 - The Fault-Tolerant Distributed RDBMS Supporting Googles Ad Business</a></p></li>
-<li><a href="http://www.enhance-ict.com/2012/06/06/no-benefit-in-migrating-from-spring-to-java-ee/">No benefit in migrating from Spring to Java EE</a></li>
-</ul>
-
-
-<p>Наши контакты:</p>
-
-<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
-
-<p>twitter:</p>
-
-<ul>
-<li><a href="https://twitter.com/#!/a_abashev">@a_abashev</a></li>
-<li><a href="https://twitter.com/#!/gamussa">@gamussa</a></li>
-</ul>
-
-
-<p>G+:</p>
-
-<ul>
-<li><a href="http://gplus.to/gAmUssA">gplus.to/gAmUssA</a></li>
-<li><a href="http://gplus.to/aabashev">gplus.to/aabashev</a></li>
-<li><a href="http://gplus.to/dmitryc">gplus.to/dmitryc</a></li>
-</ul>
-
-
-<!-- player goes here-->
-
-
-<p><audio preload="none">
-  <source src="http://traffic.libsyn.com/razborpoletov/razbor_21.mp3" type="audio/mp3" />
-  Your browser does not support the audio tag.
-</audio></p>
-
-<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
-
-<!-- habralink goes here-->
-
-
-<p>Выпуск уже на <a href="http://habrahabr.ru/post/145957/">Хабре</a></p>
-
-<!-- episode file link goes here-->
-
-
-<p><a href="http://traffic.libsyn.com/razborpoletov/razbor_21.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
 
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
 ]]></content>
