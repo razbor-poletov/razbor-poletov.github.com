@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2014-09-06T12:00:15-04:00</updated>
+  <updated>2014-09-06T12:09:20-04:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov]]></name>
@@ -25,6 +25,7 @@
 
 <ul>
 <li><a href="http://www.jcrete.org/">JCrete</a></li>
+<li><a href="http://nighthacking.com/category/jcrete2014/">Nighthacking on JCrete</a></li>
 <li><a href="http://vanillajava.blogspot.com/">Peter Lawrey</a></li>
 <li><a href="http://mishadoff.com/blog/java-magic-part-4-sun-dot-misc-dot-unsafe/">sun.misc.Unsafe</a></li>
 <li><a href="http://openjdk.java.net/projects/sumatra/">Project Sumatra</a></li>
