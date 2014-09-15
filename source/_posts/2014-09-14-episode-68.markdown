@@ -1,0 +1,78 @@
+---
+layout: post
+title: "Episode 69 — Грузи всегда и везде!"
+date: 2014-09-14 16:28
+comments: true
+categories: 
+---
+
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_68_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_68_text.jpg" width="350" /></a>
+</div>
+
+* [Приложение «Разбор Полетов» для андройда](https://play.google.com/store/apps/details?id=com.shonenfactory.razborpoletov). [Гитхаб](https://github.com/rsi2m/RazborPoletov) для пулл-реквестов
+* [JavaOne](https://www.oracle.com/javaone/index.html ) 
+    * [Виктор](https://oracleus.activeevents.com/2014/connect/sessionDetail.ww?SESSION_ID=3503)
+    * [Антон](https://oracleus.activeevents.com/2014/connect/sessionDetail.ww?SESSION_ID=1724)
+    * [Барух и Co](https://oracleus.activeevents.com/2014/connect/sessionDetail.ww?SESSION_ID=1752)
+* [Always. Be. Shipping.](http://blog.codinghorror.com/yes-but-what-have-you-done/)
+* [How to write good code](http://sorhed.livejournal.com/597950.html)
+* [Senior developers](http://www.theguardian.com/info/developer-blog/2014/aug/28/what-does-it-mean-to-be-a-senior-developer)
+* [Reducing legacy code threats](http://zeroturnaround.com/rebellabs/back-to-the-future-again-how-to-reduce-legacy-code-threats-before-they-happen/)
+
+**Полезняшка**:
+
+- [http://start.spring.io](http://start.spring.io)
+- [http://dandelion.github.io/](http://dandelion.github.io/)
+- [http://www.javarepl.com/console.html](http://www.javarepl.com/console.html)
+- [http://boundary.com/blog/2014/05/15/dynamic-tuple-performance-on-the-jvm/](http://boundary.com/blog/2014/05/15/dynamic-tuple-performance-on-the-jvm/)
+- [http://java.dzone.com/articles/mapdb-agile-java-data-engine](http://java.dzone.com/articles/mapdb-agile-java-data-engine)
+
+**Новости и всячина**
+
+- [Gradle 2.1](http://www.gradle.org/docs/2.1/release-notes#incremental-java-compilation)
+- [What’s in Java 9?](http://jaxenter.com/what-the-java-community-is-saying-about-the-java-9-features-50997.html)
+- [CloudBees becomes the “Enterprise Jenkins Company”](http://www.cloudbees.com/press/cloudbees-becomes-enterprise-jenkins-company)
+
+
+---
+
+_На правах рекламы:_
+
+* [Вакансия от Алексея ](http://www.startupjobs.asia/job/3790-senior-java-engineer-technical-paktor--singapore). [Присылайте резюме](alexey@abashev.ru)
+
+* Онлайн курс [Web Application Development](http://www.eventbrite.com/e/modern-web-application-development-for-java-programmers-in-russian-november-23-2014-tickets-13047171441) на русском. Скидка-код **RazborPoletov**
+* Конференция [Joker](http://jokerconf.com) promo-code: **RAZBOR_POLETOV**. It works since today to Sun, Sep 21 5:19 **discount 25%**
+
+---
+
+Наши контакты:
+
+Официальный сайт — [http://razbor-poletov.com](http://razbor-poletov.com)
+
+Темы для следующего выпуска - [https://github.com/razbor-poletov/](https://github.com/razbor-poletov/razbor-poletov.github.com/issues?state=open)
+
+Гости и участники:
+
+twitter: 
+
+ * [@a_abashev](https://twitter.com/#!/a_abashev)
+ * [@antonarhipov](https://twitter.com/#!/antonarhipov)
+ * [@gamussa](https://twitter.com/#!/gamussa)
+ 
+
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_68.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+
+Подписаться по [RSS](http://feeds.feedburner.com/razbor-podcast)
+
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_68.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+
+Музыка ведущим [предоставлена](http://www.audiobank.fm/single-music/27/111/More-And-Less/) и ладно...
+
+
