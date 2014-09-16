@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Episode 69 — Грузи всегда и везде!"
+title: "Episode 68 — Грузи всегда и везде!"
 date: 2014-09-14 16:28
 comments: true
 categories: 
@@ -41,7 +41,7 @@ _На правах рекламы:_
 
 * [Вакансия от Алексея ](http://www.startupjobs.asia/job/3790-senior-java-engineer-technical-paktor--singapore). [Присылайте резюме](alexey@abashev.ru)
 
-* Онлайн курс [Web Application Development](http://www.eventbrite.com/e/modern-web-application-development-for-java-programmers-in-russian-november-23-2014-tickets-13047171441) на русском. Скидка-код **RazborPoletov**
+* Онлайн курс [Modern Web Application Development](http://www.eventbrite.com/e/modern-web-application-development-for-java-programmers-in-russian-november-23-2014-tickets-13047171441) на русском. Скидка-код **RazborPoletov**
 * Конференция [Joker](http://jokerconf.com) promo-code: **RAZBOR_POLETOV**. It works since today to Sun, Sep 21 5:19 **discount 25%**
 
 ---
