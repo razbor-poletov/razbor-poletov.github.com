@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2014-09-15T23:27:55-04:00</updated>
+  <updated>2014-09-30T00:32:13-07:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov]]></name>
@@ -14,9 +14,68 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Episode 69 — Дневники JavaOne 2014: день 1]]></title>
+    <link href="http://razbor-poletov.com/2014/09/episode-69.html"/>
+    <updated>2014-09-30T00:11:00-07:00</updated>
+    <id>http://razbor-poletov.com/2014/09/episode-69</id>
+    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_69_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_69_text.jpg" width="350" /></a>
+</div>
+
+
+<ul>
+<li><a href="https://play.google.com/store/apps/details?id=com.shonenfactory.razborpoletov">Приложение «Разбор Полетов» для андройда</a>. <a href="https://github.com/rsi2m/RazborPoletov">Гитхаб</a> для пулл-реквестов</li>
+<li><a href="https://www.oracle.com/javaone/index.html">JavaOne</a>
+
+<ul>
+<li><a href="https://oracleus.activeevents.com/2014/connect/sessionDetail.ww?SESSION_ID=3503">Виктор</a></li>
+<li><a href="https://oracleus.activeevents.com/2014/connect/sessionDetail.ww?SESSION_ID=1724">Антон</a></li>
+<li><a href="https://oracleus.activeevents.com/2014/connect/sessionDetail.ww?SESSION_ID=1752">Барух и Co</a></li>
+</ul>
+</li>
+</ul>
+
+
+<hr />
+
+<p><em>На правах рекламы:</em></p>
+
+<ul>
+<li><p><a href="http://www.startupjobs.asia/job/3790-senior-java-engineer-technical-paktor--singapore">Вакансия от Алексея </a>. <a href="alexey@abashev.ru">Присылайте резюме</a></p></li>
+<li><p>Онлайн курс <a href="http://www.eventbrite.com/e/modern-web-application-development-for-java-programmers-in-russian-november-23-2014-tickets-13047171441">Modern Web Application Development</a> на русском. Скидка-код <strong>RazborPoletov</strong></p></li>
+<li>Конференция <a href="http://jokerconf.com">Joker</a> promo-code: <strong>RAZBOR_POLETOV</strong>. It works since today to Sun, Sep 21 5:19 <strong>discount 25%</strong></li>
+</ul>
+
+
+<hr />
+
+<p>Наши контакты:</p>
+
+<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
+
+<!-- player goes here-->
+
+
+<p><audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_69.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio></p>
+
+<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
+
+<!-- episode file link goes here-->
+
+
+<p><a href="http://traffic.libsyn.com/razborpoletov/razbor_68.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
+
+<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Episode 68 — Грузи всегда и везде!]]></title>
     <link href="http://razbor-poletov.com/2014/09/episode-68.html"/>
-    <updated>2014-09-14T16:28:00-04:00</updated>
+    <updated>2014-09-14T16:28:00-07:00</updated>
     <id>http://razbor-poletov.com/2014/09/episode-68</id>
     <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_68_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_68_text.jpg" width="350" /></a>
@@ -112,7 +171,7 @@
   <entry>
     <title type="html"><![CDATA[Episode 67 — JCrete Special. Пляжный выпуск]]></title>
     <link href="http://razbor-poletov.com/2014/09/episode-67.html"/>
-    <updated>2014-09-06T11:47:00-04:00</updated>
+    <updated>2014-09-06T11:47:00-07:00</updated>
     <id>http://razbor-poletov.com/2014/09/episode-67</id>
     <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_67_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_67_text.jpg" width="350" /></a>
@@ -186,7 +245,7 @@
   <entry>
     <title type="html"><![CDATA[Episode 66 — Инъекции, потрошители, кинжалы и пружинки]]></title>
     <link href="http://razbor-poletov.com/2014/08/episode-66.html"/>
-    <updated>2014-08-27T21:39:00-04:00</updated>
+    <updated>2014-08-27T21:39:00-07:00</updated>
     <id>http://razbor-poletov.com/2014/08/episode-66</id>
     <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_66_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_66_text.jpg" width="350" /></a>
@@ -250,7 +309,7 @@
   <entry>
     <title type="html"><![CDATA[Episode 65 — Microsoft уже не тот...]]></title>
     <link href="http://razbor-poletov.com/2014/08/episode-65.html"/>
-    <updated>2014-08-14T00:25:00-04:00</updated>
+    <updated>2014-08-14T00:25:00-07:00</updated>
     <id>http://razbor-poletov.com/2014/08/episode-65</id>
     <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_65_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_65_text.jpg" width="350" /></a>
@@ -316,7 +375,7 @@
   <entry>
     <title type="html"><![CDATA[Episode 64 — Будь профессионалом!]]></title>
     <link href="http://razbor-poletov.com/2014/07/episode-64.html"/>
-    <updated>2014-07-28T19:31:00-04:00</updated>
+    <updated>2014-07-28T19:31:00-07:00</updated>
     <id>http://razbor-poletov.com/2014/07/episode-64</id>
     <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_64_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_64_text.jpg" width="350" /></a>
@@ -419,7 +478,7 @@
   <entry>
     <title type="html"><![CDATA[Episode 63 — В Интернетах кто-то неправ]]></title>
     <link href="http://razbor-poletov.com/2014/07/episode-63.html"/>
-    <updated>2014-07-15T00:22:00-04:00</updated>
+    <updated>2014-07-15T00:22:00-07:00</updated>
     <id>http://razbor-poletov.com/2014/07/episode-63</id>
     <content type="html"><![CDATA[<p><a href="http://xkcd.com/386/">Кто-то неправ</a></p>
 
@@ -516,7 +575,7 @@
   <entry>
     <title type="html"><![CDATA[Episode 62 — Учимся на ошибках]]></title>
     <link href="http://razbor-poletov.com/2014/06/episode-62.html"/>
-    <updated>2014-06-22T16:07:00-04:00</updated>
+    <updated>2014-06-22T16:07:00-07:00</updated>
     <id>http://razbor-poletov.com/2014/06/episode-62</id>
     <content type="html"><![CDATA[<p><a href="http://s2.developerslife.ru/public/images/gifs/63e1f331-bee2-4648-af36-709f123ea05d.gif"><strong>Выпуск 18+</strong></a></p>
 
@@ -610,7 +669,7 @@
   <entry>
     <title type="html"><![CDATA[Episode 61 — Про яблоки и Свифт]]></title>
     <link href="http://razbor-poletov.com/2014/06/episode-61.html"/>
-    <updated>2014-06-08T16:43:00-04:00</updated>
+    <updated>2014-06-08T16:43:00-07:00</updated>
     <id>http://razbor-poletov.com/2014/06/episode-61</id>
     <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_61_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_61_text.jpg" width="350" /></a>
@@ -696,7 +755,7 @@
   <entry>
     <title type="html"><![CDATA[Episode 60 — Будьте бдительны!]]></title>
     <link href="http://razbor-poletov.com/2014/05/episode-60.html"/>
-    <updated>2014-05-18T16:38:00-04:00</updated>
+    <updated>2014-05-18T16:38:00-07:00</updated>
     <id>http://razbor-poletov.com/2014/05/episode-60</id>
     <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_60_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_60_text.jpg" width="350" /></a>
@@ -797,7 +856,7 @@
   <entry>
     <title type="html"><![CDATA[Episode 59 — Всех с восьмеркой, молодые, реактивные и динамичные]]></title>
     <link href="http://razbor-poletov.com/2014/04/episode-59.html"/>
-    <updated>2014-04-06T16:00:00-04:00</updated>
+    <updated>2014-04-06T16:00:00-07:00</updated>
     <id>http://razbor-poletov.com/2014/04/episode-59</id>
     <content type="html"><![CDATA[<p>Гость выпуска <a href="https://twitter.com/#!/umputun">Umputun</a></p>
 
@@ -898,7 +957,7 @@
   <entry>
     <title type="html"><![CDATA[Episode 58 — Конференции, анонимные программисты и добро]]></title>
     <link href="http://razbor-poletov.com/2014/03/episode-58.html"/>
-    <updated>2014-03-23T17:44:00-04:00</updated>
+    <updated>2014-03-23T17:44:00-07:00</updated>
     <id>http://razbor-poletov.com/2014/03/episode-58</id>
     <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_58_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_58_text.jpg" width="350" /></a>
@@ -985,7 +1044,7 @@
   <entry>
     <title type="html"><![CDATA[Episode 57 — Новые технологии на нашем радаре]]></title>
     <link href="http://razbor-poletov.com/2014/03/episode-57.html"/>
-    <updated>2014-03-16T16:40:00-04:00</updated>
+    <updated>2014-03-16T16:40:00-07:00</updated>
     <id>http://razbor-poletov.com/2014/03/episode-57</id>
     <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_57_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_57_text.jpg" width="350" /></a>
@@ -1063,7 +1122,7 @@
   <entry>
     <title type="html"><![CDATA[Episode 56 — I eat Green Berets for breakfast]]></title>
     <link href="http://razbor-poletov.com/2014/03/episode-56.html"/>
-    <updated>2014-03-02T16:17:00-05:00</updated>
+    <updated>2014-03-02T16:17:00-08:00</updated>
     <id>http://razbor-poletov.com/2014/03/episode-56</id>
     <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_56_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_56_text.jpg" width="350" /></a>
@@ -1155,7 +1214,7 @@
   <entry>
     <title type="html"><![CDATA[Episode 55 — Dr. H. Kabutz, ты кто такой?! давайдосвиданья!]]></title>
     <link href="http://razbor-poletov.com/2014/02/episode-55.html"/>
-    <updated>2014-02-16T17:45:00-05:00</updated>
+    <updated>2014-02-16T17:45:00-08:00</updated>
     <id>http://razbor-poletov.com/2014/02/episode-55</id>
     <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_55_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_55_text.jpg" width="350" /></a>
@@ -1228,7 +1287,7 @@
   <entry>
     <title type="html"><![CDATA[Episode 54 — Dart-аньян веб-разработки]]></title>
     <link href="http://razbor-poletov.com/2014/01/episode-54.html"/>
-    <updated>2014-01-26T16:37:00-05:00</updated>
+    <updated>2014-01-26T16:37:00-08:00</updated>
     <id>http://razbor-poletov.com/2014/01/episode-54</id>
     <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_54_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_54_text.jpg" width="350" /></a>
@@ -1345,7 +1404,7 @@ January 30, 2014 from 6:00 PM to 8:30 PM, New York, NY</p>
   <entry>
     <title type="html"><![CDATA[Episode 53 — Цейлонский выпуск]]></title>
     <link href="http://razbor-poletov.com/2014/01/episode-53.html"/>
-    <updated>2014-01-12T17:01:00-05:00</updated>
+    <updated>2014-01-12T17:01:00-08:00</updated>
     <id>http://razbor-poletov.com/2014/01/episode-53</id>
     <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_53_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_53_text.jpg" width="350" /></a>
@@ -1433,7 +1492,7 @@ January 30, 2014 from 6:00 PM to 8:30 PM, New York, NY</p>
   <entry>
     <title type="html"><![CDATA[Поздравительная открытка — 2013]]></title>
     <link href="http://razbor-poletov.com/2013/12/greeting-card-2013.html"/>
-    <updated>2013-12-28T15:05:00-05:00</updated>
+    <updated>2013-12-28T15:05:00-08:00</updated>
     <id>http://razbor-poletov.com/2013/12/greeting-card-2013</id>
     <content type="html"><![CDATA[<p>Уважаемые слушатели!</p>
 
@@ -1459,7 +1518,7 @@ January 30, 2014 from 6:00 PM to 8:30 PM, New York, NY</p>
   <entry>
     <title type="html"><![CDATA[Episode 52 — Главный по IDEA]]></title>
     <link href="http://razbor-poletov.com/2013/12/episode-52.html"/>
-    <updated>2013-12-22T17:03:00-05:00</updated>
+    <updated>2013-12-22T17:03:00-08:00</updated>
     <id>http://razbor-poletov.com/2013/12/episode-52</id>
     <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_52_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_52_text.jpg" width="350" /></a>
@@ -1545,7 +1604,7 @@ January 30, 2014 from 6:00 PM to 8:30 PM, New York, NY</p>
   <entry>
     <title type="html"><![CDATA[Episode 51 — Spring на нашей улице]]></title>
     <link href="http://razbor-poletov.com/2013/12/episode-51.html"/>
-    <updated>2013-12-15T16:40:00-05:00</updated>
+    <updated>2013-12-15T16:40:00-08:00</updated>
     <id>http://razbor-poletov.com/2013/12/episode-51</id>
     <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_51_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_51_text.jpg" width="350" /></a>
@@ -1644,7 +1703,7 @@ January 30, 2014 from 6:00 PM to 8:30 PM, New York, NY</p>
   <entry>
     <title type="html"><![CDATA[Episode 50 — I'm an architect and I don't know what I'm doing]]></title>
     <link href="http://razbor-poletov.com/2013/12/episode-50.html"/>
-    <updated>2013-12-01T17:08:00-05:00</updated>
+    <updated>2013-12-01T17:08:00-08:00</updated>
     <id>http://razbor-poletov.com/2013/12/episode-50</id>
     <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_50_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_50_text.jpg" width="350" /></a>
@@ -1733,7 +1792,7 @@ January 30, 2014 from 6:00 PM to 8:30 PM, New York, NY</p>
   <entry>
     <title type="html"><![CDATA[Episode 49 — Напиться пива и поработать сверхурочно]]></title>
     <link href="http://razbor-poletov.com/2013/11/episode-49.html"/>
-    <updated>2013-11-17T19:28:00-05:00</updated>
+    <updated>2013-11-17T19:28:00-08:00</updated>
     <id>http://razbor-poletov.com/2013/11/episode-49</id>
     <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_49_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_49_text.jpg" width="350" /></a>
@@ -1811,7 +1870,7 @@ January 30, 2014 from 6:00 PM to 8:30 PM, New York, NY</p>
   <entry>
     <title type="html"><![CDATA[Episode 48 — Потоки наших сознаний в Ваши уши]]></title>
     <link href="http://razbor-poletov.com/2013/11/episode-48.html"/>
-    <updated>2013-11-08T15:00:00-05:00</updated>
+    <updated>2013-11-08T15:00:00-08:00</updated>
     <id>http://razbor-poletov.com/2013/11/episode-48</id>
     <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_48_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_48_text.jpg" width="350" /></a>
@@ -1897,7 +1956,7 @@ January 30, 2014 from 6:00 PM to 8:30 PM, New York, NY</p>
   <entry>
     <title type="html"><![CDATA[Episode 47 — Дневники JavaOne 2013: День 3]]></title>
     <link href="http://razbor-poletov.com/2013/09/episode-47.html"/>
-    <updated>2013-09-26T10:55:00-04:00</updated>
+    <updated>2013-09-26T10:55:00-07:00</updated>
     <id>http://razbor-poletov.com/2013/09/episode-47</id>
     <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_47_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_47_text.jpg" width="350" /></a>
@@ -1950,7 +2009,7 @@ January 30, 2014 from 6:00 PM to 8:30 PM, New York, NY</p>
   <entry>
     <title type="html"><![CDATA[Episode 46 — Дневники JavaOne 2013: День 2]]></title>
     <link href="http://razbor-poletov.com/2013/09/episode-46.html"/>
-    <updated>2013-09-25T08:29:00-04:00</updated>
+    <updated>2013-09-25T08:29:00-07:00</updated>
     <id>http://razbor-poletov.com/2013/09/episode-46</id>
     <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_46_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_46_text.jpg" width="350" /></a>
@@ -2004,7 +2063,7 @@ January 30, 2014 from 6:00 PM to 8:30 PM, New York, NY</p>
   <entry>
     <title type="html"><![CDATA[Episode 45 — Дневники JavaOne 2013: День 1]]></title>
     <link href="http://razbor-poletov.com/2013/09/episode-45.html"/>
-    <updated>2013-09-24T01:33:00-04:00</updated>
+    <updated>2013-09-24T01:33:00-07:00</updated>
     <id>http://razbor-poletov.com/2013/09/episode-45</id>
     <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_45_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_45_text.jpg" width="350" /></a>
@@ -2063,7 +2122,7 @@ January 30, 2014 from 6:00 PM to 8:30 PM, New York, NY</p>
   <entry>
     <title type="html"><![CDATA[Episode 44 — О чем спляшем и споем на JavaOne]]></title>
     <link href="http://razbor-poletov.com/2013/09/episode-44.html"/>
-    <updated>2013-09-16T16:31:00-04:00</updated>
+    <updated>2013-09-16T16:31:00-07:00</updated>
     <id>http://razbor-poletov.com/2013/09/episode-44</id>
     <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_44_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_44_text.jpg" width="350" /></a>
@@ -2174,7 +2233,7 @@ January 30, 2014 from 6:00 PM to 8:30 PM, New York, NY</p>
   <entry>
     <title type="html"><![CDATA[Episode 43 — Диалоги о JetBrains]]></title>
     <link href="http://razbor-poletov.com/2013/08/episode-43.html"/>
-    <updated>2013-08-23T14:41:00-04:00</updated>
+    <updated>2013-08-23T14:41:00-07:00</updated>
     <id>http://razbor-poletov.com/2013/08/episode-43</id>
     <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_43_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_43_text.jpg" width="350" /></a>
@@ -2251,7 +2310,7 @@ January 30, 2014 from 6:00 PM to 8:30 PM, New York, NY</p>
   <entry>
     <title type="html"><![CDATA[Episode 42 — Отряд не заметил потери бойца]]></title>
     <link href="http://razbor-poletov.com/2013/08/episode-42.html"/>
-    <updated>2013-08-15T17:24:00-04:00</updated>
+    <updated>2013-08-15T17:24:00-07:00</updated>
     <id>http://razbor-poletov.com/2013/08/episode-42</id>
     <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_42_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_42_text.jpg" width="350" /></a>
@@ -2319,7 +2378,7 @@ January 30, 2014 from 6:00 PM to 8:30 PM, New York, NY</p>
   <entry>
     <title type="html"><![CDATA[Episode 41 — Исход из Интерпрайза]]></title>
     <link href="http://razbor-poletov.com/2013/06/episode-41.html"/>
-    <updated>2013-06-16T21:41:00-04:00</updated>
+    <updated>2013-06-16T21:41:00-07:00</updated>
     <id>http://razbor-poletov.com/2013/06/episode-41</id>
     <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_41_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_41_text.jpg" width="350" /></a>
@@ -2391,7 +2450,7 @@ January 30, 2014 from 6:00 PM to 8:30 PM, New York, NY</p>
   <entry>
     <title type="html"><![CDATA[Episode 40 — A Short Version]]></title>
     <link href="http://razbor-poletov.com/2013/05/episode-40.html"/>
-    <updated>2013-05-30T14:38:00-04:00</updated>
+    <updated>2013-05-30T14:38:00-07:00</updated>
     <id>http://razbor-poletov.com/2013/05/episode-40</id>
     <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_40_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_40_text.jpg" width="350" /></a>
@@ -2453,7 +2512,7 @@ January 30, 2014 from 6:00 PM to 8:30 PM, New York, NY</p>
   <entry>
     <title type="html"><![CDATA[Episode 39 — Снова здоровый!]]></title>
     <link href="http://razbor-poletov.com/2013/05/episode-39.html"/>
-    <updated>2013-05-14T20:14:00-04:00</updated>
+    <updated>2013-05-14T20:14:00-07:00</updated>
     <id>http://razbor-poletov.com/2013/05/episode-39</id>
     <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/logo_final_w_512.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/logo_final_w_512.png" width="350" /></a>
@@ -2550,7 +2609,7 @@ January 30, 2014 from 6:00 PM to 8:30 PM, New York, NY</p>
   <entry>
     <title type="html"><![CDATA[Episode 38 — Правильные инструменты пыток и юнит-тесты]]></title>
     <link href="http://razbor-poletov.com/2013/04/episode-38.html"/>
-    <updated>2013-04-22T15:28:00-04:00</updated>
+    <updated>2013-04-22T15:28:00-07:00</updated>
     <id>http://razbor-poletov.com/2013/04/episode-38</id>
     <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_38_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_38_text.jpg" width="350" /></a>
@@ -2656,7 +2715,7 @@ January 30, 2014 from 6:00 PM to 8:30 PM, New York, NY</p>
   <entry>
     <title type="html"><![CDATA[Episode 37 — А ты прошел интервью в Google ?!]]></title>
     <link href="http://razbor-poletov.com/2013/03/episode-37.html"/>
-    <updated>2013-03-31T10:43:00-04:00</updated>
+    <updated>2013-03-31T10:43:00-07:00</updated>
     <id>http://razbor-poletov.com/2013/03/episode-37</id>
     <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_37_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_37_text.jpg" width="350" /></a></div>
@@ -2757,7 +2816,7 @@ January 30, 2014 from 6:00 PM to 8:30 PM, New York, NY</p>
   <entry>
     <title type="html"><![CDATA[Episode 36 — Developer, Matrix has you!]]></title>
     <link href="http://razbor-poletov.com/2013/03/episode-36.html"/>
-    <updated>2013-03-28T11:07:00-04:00</updated>
+    <updated>2013-03-28T11:07:00-07:00</updated>
     <id>http://razbor-poletov.com/2013/03/episode-36</id>
     <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_36_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_36_text.jpg" width="350" /></a></div>
@@ -2859,7 +2918,7 @@ January 30, 2014 from 6:00 PM to 8:30 PM, New York, NY</p>
   <entry>
     <title type="html"><![CDATA[Episode 35 – Client-side I'm sexy and I know it!]]></title>
     <link href="http://razbor-poletov.com/2013/03/episode-35.html"/>
-    <updated>2013-03-04T22:10:00-05:00</updated>
+    <updated>2013-03-04T22:10:00-08:00</updated>
     <id>http://razbor-poletov.com/2013/03/episode-35</id>
     <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_35_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_35_text.jpg" width="350" /></a></div>
@@ -2961,7 +3020,7 @@ January 30, 2014 from 6:00 PM to 8:30 PM, New York, NY</p>
   <entry>
     <title type="html"><![CDATA[Episode 34 – Идут лабораторные работы]]></title>
     <link href="http://razbor-poletov.com/2013/02/episode-34.html"/>
-    <updated>2013-02-20T17:11:00-05:00</updated>
+    <updated>2013-02-20T17:11:00-08:00</updated>
     <id>http://razbor-poletov.com/2013/02/episode-34</id>
     <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_34_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_34_text.jpg" width="350" /></a></div>
@@ -3045,7 +3104,7 @@ January 30, 2014 from 6:00 PM to 8:30 PM, New York, NY</p>
   <entry>
     <title type="html"><![CDATA[Episode 33 — Special: Московский вояж Амазона]]></title>
     <link href="http://razbor-poletov.com/2013/02/episode33-aws-event.html"/>
-    <updated>2013-02-03T12:10:00-05:00</updated>
+    <updated>2013-02-03T12:10:00-08:00</updated>
     <id>http://razbor-poletov.com/2013/02/episode33-aws-event</id>
     <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_33_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="300" src="http://razbor-poletov.com/images/razbor_33_text.jpg" width="300" /></a></div>
@@ -3110,7 +3169,7 @@ January 30, 2014 from 6:00 PM to 8:30 PM, New York, NY</p>
   <entry>
     <title type="html"><![CDATA[Episode 32 — Война миров]]></title>
     <link href="http://razbor-poletov.com/2013/01/episode-32.html"/>
-    <updated>2013-01-27T20:06:00-05:00</updated>
+    <updated>2013-01-27T20:06:00-08:00</updated>
     <id>http://razbor-poletov.com/2013/01/episode-32</id>
     <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_32_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="300" src="http://razbor-poletov.com/images/razbor_32_text.jpg" width="300" /></a></div>
@@ -3185,7 +3244,7 @@ The 2013 JavaOne Russia Call-for-Papers is open.  Deadline for submissions is Fe
   <entry>
     <title type="html"><![CDATA[Announce: AWS team in Moscow]]></title>
     <link href="http://razbor-poletov.com/2013/01/aws-announce.html"/>
-    <updated>2013-01-24T16:44:00-05:00</updated>
+    <updated>2013-01-24T16:44:00-08:00</updated>
     <id>http://razbor-poletov.com/2013/01/aws-announce</id>
     <content type="html"><![CDATA[<p>Уважаемые слушатели подкаста «Разбор полетов»!</p>
 
@@ -3226,7 +3285,7 @@ The 2013 JavaOne Russia Call-for-Papers is open.  Deadline for submissions is Fe
   <entry>
     <title type="html"><![CDATA[Episode 31 — Староновогодний Выпуск]]></title>
     <link href="http://razbor-poletov.com/2013/01/episode-31.html"/>
-    <updated>2013-01-16T12:17:00-05:00</updated>
+    <updated>2013-01-16T12:17:00-08:00</updated>
     <id>http://razbor-poletov.com/2013/01/episode-31</id>
     <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://1.bp.blogspot.com/-MwZqegR9tCs/UPcBGmc9m4I/AAAAAAAAJRk/EfQ7bTEoRfk/s1600/razbor_31.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="300" src="http://1.bp.blogspot.com/-MwZqegR9tCs/UPcBGmc9m4I/AAAAAAAAJRk/EfQ7bTEoRfk/s400/razbor_31.png" width="300" /></a></div>
@@ -3291,7 +3350,7 @@ The 2013 JavaOne Russia Call-for-Papers is open.  Deadline for submissions is Fe
   <entry>
     <title type="html"><![CDATA[Happy New Year]]></title>
     <link href="http://razbor-poletov.com/2012/12/happy-new-year.html"/>
-    <updated>2012-12-31T21:54:00-05:00</updated>
+    <updated>2012-12-31T21:54:00-08:00</updated>
     <id>http://razbor-poletov.com/2012/12/happy-new-year</id>
     <content type="html"><![CDATA[<p>C Новым Годом!</p>
 
@@ -3311,7 +3370,7 @@ The 2013 JavaOne Russia Call-for-Papers is open.  Deadline for submissions is Fe
   <entry>
     <title type="html"><![CDATA[Episode 30 — Нет потенции — сваливайте н@@@й с рынка]]></title>
     <link href="http://razbor-poletov.com/2012/12/episode-30.html"/>
-    <updated>2012-12-22T19:21:00-05:00</updated>
+    <updated>2012-12-22T19:21:00-08:00</updated>
     <id>http://razbor-poletov.com/2012/12/episode-30</id>
     <content type="html"><![CDATA[<p><img src="http://s.rpod.ru/data/pictures/00/00/01/01/92/bc3dfe4850778c6d3f5665d9d2a83a14.png"></p>
 
@@ -3374,7 +3433,7 @@ The 2013 JavaOne Russia Call-for-Papers is open.  Deadline for submissions is Fe
   <entry>
     <title type="html"><![CDATA[Episode 29 — Год в Эфире]]></title>
     <link href="http://razbor-poletov.com/2012/12/episode-29.html"/>
-    <updated>2012-12-05T00:22:00-05:00</updated>
+    <updated>2012-12-05T00:22:00-08:00</updated>
     <id>http://razbor-poletov.com/2012/12/episode-29</id>
     <content type="html"><![CDATA[<p><img border="0" width="350" height="350" src="https://lh3.googleusercontent.com/-RAQJql0Vn14/UL7apCLEFfI/AAAAAAAAJNY/PO-32BBo56s/s501/razbor_29_text.png
 "/></p>
@@ -3447,7 +3506,7 @@ The 2013 JavaOne Russia Call-for-Papers is open.  Deadline for submissions is Fe
   <entry>
     <title type="html"><![CDATA[Important]]></title>
     <link href="http://razbor-poletov.com/2012/11/important.html"/>
-    <updated>2012-11-28T15:53:00-05:00</updated>
+    <updated>2012-11-28T15:53:00-08:00</updated>
     <id>http://razbor-poletov.com/2012/11/important</id>
     <content type="html"><![CDATA[<p>Важное объявление!!! Слушать до конца!!!</p>
 
@@ -3463,7 +3522,7 @@ The 2013 JavaOne Russia Call-for-Papers is open.  Deadline for submissions is Fe
   <entry>
     <title type="html"><![CDATA[Episode 28 — Stop Emailing!]]></title>
     <link href="http://razbor-poletov.com/2012/11/episode-28.html"/>
-    <updated>2012-11-18T00:35:00-05:00</updated>
+    <updated>2012-11-18T00:35:00-08:00</updated>
     <id>http://razbor-poletov.com/2012/11/episode-28</id>
     <content type="html"><![CDATA[<p><img border="0" width="350" height="350" src="https://lh6.googleusercontent.com/-ayHAagFuXL4/UKrGgfceOHI/AAAAAAAAJNE/_WYL5mgv8Mo/s400/28777959.png"/></p>
 
@@ -3543,7 +3602,7 @@ The 2013 JavaOne Russia Call-for-Papers is open.  Deadline for submissions is Fe
   <entry>
     <title type="html"><![CDATA[Episode 27 — Who is your Daddy?]]></title>
     <link href="http://razbor-poletov.com/2012/10/episode-27.html"/>
-    <updated>2012-10-23T11:35:00-04:00</updated>
+    <updated>2012-10-23T11:35:00-07:00</updated>
     <id>http://razbor-poletov.com/2012/10/episode-27</id>
     <content type="html"><![CDATA[<!-- topics goes here-->
 
@@ -3624,7 +3683,7 @@ The 2013 JavaOne Russia Call-for-Papers is open.  Deadline for submissions is Fe
   <entry>
     <title type="html"><![CDATA[Episode 26 — Финальный разбор JavaOne-2012]]></title>
     <link href="http://razbor-poletov.com/2012/10/episode-26.html"/>
-    <updated>2012-10-04T23:31:00-04:00</updated>
+    <updated>2012-10-04T23:31:00-07:00</updated>
     <id>http://razbor-poletov.com/2012/10/episode-26</id>
     <content type="html"><![CDATA[<p><img border="0" width="350" height="350" src="http://s.rpod.ru/data/pictures/00/00/01/01/92/3a60c81db236c948b8ee679b8339c2d3.png"/></p>
 
@@ -3696,7 +3755,7 @@ The 2013 JavaOne Russia Call-for-Papers is open.  Deadline for submissions is Fe
   <entry>
     <title type="html"><![CDATA[Episode 25 — Из JavaOne с любовью]]></title>
     <link href="http://razbor-poletov.com/2012/10/episode-25.html"/>
-    <updated>2012-10-03T01:31:00-04:00</updated>
+    <updated>2012-10-03T01:31:00-07:00</updated>
     <id>http://razbor-poletov.com/2012/10/episode-25</id>
     <content type="html"><![CDATA[<p><img border="0" width="350" height="350" src="http://s.rpod.ru/data/pictures/00/00/01/01/92/d53195496dbc96e45b93b99896e4b041.png"/></p>
 
@@ -3770,7 +3829,7 @@ The 2013 JavaOne Russia Call-for-Papers is open.  Deadline for submissions is Fe
   <entry>
     <title type="html"><![CDATA[Episode 24 — А ты заполнил классный журнал?]]></title>
     <link href="http://razbor-poletov.com/2012/09/episode-24.html"/>
-    <updated>2012-09-11T12:05:00-04:00</updated>
+    <updated>2012-09-11T12:05:00-07:00</updated>
     <id>http://razbor-poletov.com/2012/09/episode-24</id>
     <content type="html"><![CDATA[<p><img border="0" width="350" height="350" src="http://s.rpod.ru/data/pictures/00/00/01/01/92/8776614a8a5437295c028a93b46ce5f8.png"/></p>
 
@@ -3852,69 +3911,6 @@ The 2013 JavaOne Russia Call-for-Papers is open.  Deadline for submissions is Fe
 
 
 <p><a href="http://traffic.libsyn.com/razborpoletov/razbor_24.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" title="скачать mp3" alt="скачать mp3" /></a></p>
-
-<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 23 — И ты, Брут!]]></title>
-    <link href="http://razbor-poletov.com/2012/07/episode-23.html"/>
-    <updated>2012-07-17T12:07:00-04:00</updated>
-    <id>http://razbor-poletov.com/2012/07/episode-23</id>
-    <content type="html"><![CDATA[<p><a href="http://3.bp.blogspot.com/-elIsVvTrgyA/UAWOjmspAPI/AAAAAAAAImI/IjCIEy3lpJ0/s400/23588648.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 2em; padding-right: 2em"><img border="0" src="http://3.bp.blogspot.com/-elIsVvTrgyA/UAWOjmspAPI/AAAAAAAAImI/IjCIEy3lpJ0/s400/23588648.jpg"/></a></p>
-
-<p>В очередном выпуске правильного подкаста главного зачинателя заменил другой популярный подкастер!</p>
-
-<!-- topics goes here-->
-
-
-<ol>
-<li><a href="http://www.igvita.com/2012/02/06/sstable-and-log-structured-storage-leveldb">LevelDB</a> (for <a href="https://github.com/dain/leveldb">Java</a>)</li>
-<li><a href="http://www.ajibanda.com/2012/05/programmers-interview-101-print-100.html">Гномики и лампочки</a></li>
-<li><a href="http://blog.8thlight.com/uncle-bob/2012/04/20/Why-Is-Estimating-So-Hard.html">Estimating is hard</a></li>
-<li>Полезняшка <a href="http://code.google.com/p/chromedevtools/">Chrome Dev Tools for Java</a></li>
-<li><a href="http://blog.jgc.org/2012/07/some-things-ive-learnt-about.html">Что я узнал о программировании</a></li>
-</ol>
-
-
-<p>Наши контакты:</p>
-
-<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
-
-<p>twitter:</p>
-
-<ul>
-<li><a href="https://twitter.com/#!/a_abashev">@a_abashev</a></li>
-<li><a href="https://twitter.com/#!/gamussa">@gamussa</a></li>
-</ul>
-
-
-<p>G+:</p>
-
-<ul>
-<li><a href="http://gplus.to/gAmUssA">gplus.to/gAmUssA</a></li>
-<li><a href="http://gplus.to/aabashev">gplus.to/aabashev</a></li>
-<li><a href="http://gplus.to/dmitryc">gplus.to/dmitryc</a></li>
-</ul>
-
-
-<p><audio preload="none">
-  <source src="http://traffic.libsyn.com/razborpoletov/razbor_23.mp3" type="audio/mp3" />
-  Your browser does not support the audio tag.
-</audio></p>
-
-<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
-
-<!-- habralink goes here-->
-
-
-<p>Выпуск уже на <a href="http://habrahabr.ru/post/147983/">Хабре</a></p>
-
-<!-- episode file link goes here-->
-
-
-<p><a href="http://traffic.libsyn.com/razborpoletov/razbor_23.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
 
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
 ]]></content>
