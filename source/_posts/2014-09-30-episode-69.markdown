@@ -1,0 +1,46 @@
+---
+layout: post
+title: "Episode 69 — Дневники JavaOne 2014: день 1"
+date: 2014-09-30 00:11
+comments: true
+categories: 
+---
+
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_69_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_69_text.jpg" width="350" /></a>
+</div>
+
+* [Приложение «Разбор Полетов» для андройда](https://play.google.com/store/apps/details?id=com.shonenfactory.razborpoletov). [Гитхаб](https://github.com/rsi2m/RazborPoletov) для пулл-реквестов
+* [JavaOne](https://www.oracle.com/javaone/index.html ) 
+    * [Виктор](https://oracleus.activeevents.com/2014/connect/sessionDetail.ww?SESSION_ID=3503)
+    * [Антон](https://oracleus.activeevents.com/2014/connect/sessionDetail.ww?SESSION_ID=1724)
+    * [Барух и Co](https://oracleus.activeevents.com/2014/connect/sessionDetail.ww?SESSION_ID=1752)
+
+
+---
+
+_На правах рекламы:_
+
+* [Вакансия от Алексея ](http://www.startupjobs.asia/job/3790-senior-java-engineer-technical-paktor--singapore). [Присылайте резюме](alexey@abashev.ru)
+
+* Онлайн курс [Modern Web Application Development](http://www.eventbrite.com/e/modern-web-application-development-for-java-programmers-in-russian-november-23-2014-tickets-13047171441) на русском. Скидка-код **RazborPoletov**
+
+---
+
+Наши контакты:
+
+Официальный сайт — [http://razbor-poletov.com](http://razbor-poletov.com)
+
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_69.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+
+Подписаться по [RSS](http://feeds.feedburner.com/razbor-podcast)
+
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_69.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+
+Музыка ведущим [предоставлена](http://www.audiobank.fm/single-music/27/111/More-And-Less/) и ладно...
