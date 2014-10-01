@@ -21,7 +21,7 @@ categories:
 
 _На правах рекламы:_
 
-* [Вакансия от Алексея ](http://www.startupjobs.asia/job/3790-senior-java-engineer-technical-paktor--singapore). [Присылайте резюме](alexey@abashev.ru)
+* [Вакансия от Алексея ](http://www.startupjobs.asia/job/3790-senior-java-engineer-technical-paktor--singapore). [Присылайте резюме](mailto:alexey@abashev.ru)
 
 * Онлайн курс [Modern Web Application Development](http://www.eventbrite.com/e/modern-web-application-development-for-java-programmers-in-russian-november-23-2014-tickets-13047171441) на русском. Скидка-код **RazborPoletov**
 
