@@ -10,7 +10,7 @@ categories:
 <a href="http://razbor-poletov.com/images/razbor_69_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_69_text.jpg" width="350" /></a>
 </div>
 
-* [Приложение «Разбор Полетов» для андройда](https://play.google.com/store/apps/details?id=com.shonenfactory.razborpoletov). [Гитхаб](https://github.com/rsi2m/RazborPoletov) для пулл-реквестов
+* [Приложение «Разбор Полетов» для андроида](https://play.google.com/store/apps/details?id=com.shonenfactory.razborpoletov). [Гитхаб](https://github.com/rsi2m/RazborPoletov) для пулл-реквестов
 * [JavaOne](https://www.oracle.com/javaone/index.html ) 
     * [Виктор](https://oracleus.activeevents.com/2014/connect/sessionDetail.ww?SESSION_ID=3503)
     * [Антон](https://oracleus.activeevents.com/2014/connect/sessionDetail.ww?SESSION_ID=1724)
