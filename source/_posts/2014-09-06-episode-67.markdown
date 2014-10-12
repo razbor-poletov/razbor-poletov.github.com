@@ -25,7 +25,7 @@ categories:
 * [Конференция Joker в СПб](http://jokerconf.com/)
 
 ---
-- [Приложение «Разбор Полетов» для андройда](https://play.google.com/store/apps/details?id=com.shonenfactory.razborpoletov). [Гитхаб](https://github.com/rsi2m/RazborPoletov) для пулл-реквестов
+- [Приложение «Разбор Полетов» для андроида](https://play.google.com/store/apps/details?id=com.shonenfactory.razborpoletov). [Гитхаб](https://github.com/rsi2m/RazborPoletov) для пулл-реквестов
 
 ---
 

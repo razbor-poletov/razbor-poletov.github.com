@@ -11,7 +11,7 @@ categories:
 </div>
 
 
-- [Приложение «Разбор Полетов» для андройда](https://play.google.com/store/apps/details?id=com.shonenfactory.razborpoletov)
+- [Приложение «Разбор Полетов» для андроида](https://play.google.com/store/apps/details?id=com.shonenfactory.razborpoletov)
 - [Как мигрировал Instagram](http://instagram-engineering.tumblr.com/post/89992572022/migrating-aws-fb)
 - [Не откладывайте рефакторинг в долгий ящик](http://xprogramming.com/articles/refactoring-not-on-the-backlog/)
 - [Во всем винить semver](http://www.jongleberry.com/semver-has-failed-us.html)
