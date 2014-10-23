@@ -11,7 +11,7 @@ categories:
 <a href="http://razbor-poletov.com/images/razbor_66_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_66_text.jpg" width="350" /></a>
 </div>
 
-- [Приложение «Разбор Полетов» для андроида](https://play.google.com/store/apps/details?id=com.shonenfactory.razborpoletov). [Гитхаб](https://github.com/rsi2m/RazborPoletov) для пулл-реквестов
+- [Приложение «Разбор Полетов» для Android](https://play.google.com/store/apps/details?id=com.shonenfactory.razborpoletov). [Гитхаб](https://github.com/rsi2m/RazborPoletov) для пулл-реквестов
 * [Dagger Two](https://github.com/google/dagger). [Видео](https://www.youtube.com/watch?v=oK_XtfXPkqw) 
 * [Книга про DI](http://www.amazon.com/Dependency-Injection-Dhanji-R-Prasanna/dp/193398855X)
 * «Spring-поторошитель» [1](https://www.youtube.com/watch?v=BmBr5diz8WA) [2](https://www.youtube.com/watch?v=cou_qomYLNU)
