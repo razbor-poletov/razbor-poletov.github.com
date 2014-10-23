@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2014-10-23T00:13:02-04:00</updated>
+  <updated>2014-10-23T00:14:05-04:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov]]></name>
@@ -103,61 +103,6 @@
 <p><a href="http://traffic.libsyn.com/razborpoletov/razbor_71.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
 
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 71]]></title>
-    <link href="http://razbor-poletov.com/2014/10/episode-71.html"/>
-    <updated>2014-10-22T00:00:00-04:00</updated>
-    <id>http://razbor-poletov.com/2014/10/episode-71</id>
-    <content type="html"><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-  <meta http-equiv="Content-Style-Type" content="text/css" />
-  <meta name="generator" content="pandoc" />
-  <title>episode-71</title>
-  <style type="text/css">code{white-space: pre;}</style>
-</head>
-<body>
-<div id="header">
-<h1 class="title">episode-71</h1>
-<h3 class="date">2014-10-22 23:33</h3>
-</div>
-<div class="separator" style="clear: both; text-align: center;">
-<a href="http://razbor-poletov.com/images/razbor_71_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_71_text.jpg" width="350" /></a>
-</div>
-<ul>
-<li>В полку <a href="https://java-champions.java.net">чемпионов</a> прибыло</li>
-<li>Добить JavaOne: ** <a href="https://oracleus.activeevents.com/2014/connect/fileDownload/session/753320BEF30DCDCF22F06D12DB4E302D/CON3565_Robertson-ScienceAndArtOfBackwardsCompatability.pdf">Reflection</a></li>
-</ul>
-<p>Do you really get your IDE? https://parleys.com/play/543f977ce4b06e1184ae417f JavaOne keynotes Intel Keynote: http://medianetwork.oracle.com/video/player/3818220797001 Technical Keynote: http://medianetwork.oracle.com/video/player/3811045975001</p>
-<pre><code>                           http://openjdk.java.net/projects/panama/
-                           http://openjdk.java.net/projects/valhalla/</code></pre>
-<p>Community Keynote: http://medianetwork.oracle.com/video/player/3818408543001</p>
-<p>Java EE 8 is Kicking Off http://www.infoq.com/articles/Kicking-Off-Java-EE-8 Why another MVC? http://www.oracle.com/technetwork/articles/java/mvc-2280472.html Resume Driven Development http://radar.oreilly.com/2014/10/resume-driven-development.html</p>
-<p>CPU pinning Java threads with stack and task set https://www.chrisnewland.com/cpu-pinning-java-threads-with-jstack-and-taskset-380</p>
-<p>Полезняшка http://takari.io/2014/10/16/incremental-compilation.html http://pantsbuild.github.io/ http://readme.io http://slackatwork.com/ https://github.com/andrewgaul/modernizer-maven-plugin</p>
-<p>Наши контакты:</p>
-<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
-<p>Темы для следующего выпуска - <a href="https://github.com/razbor-poletov/razbor-poletov.github.com/issues?state=open">https://github.com/razbor-poletov/</a></p>
-<p>Гости и участники:</p>
-<p>twitter:</p>
-<ul>
-<li><span class="citation">[@a_abashev]</span>(https://twitter.com/#!/a_abashev)</li>
-<li><span class="citation">[@antonarhipov]</span>(https://twitter.com/#!/antonarhipov)</li>
-<li><span class="citation">[@gamussa]</span>(https://twitter.com/#!/gamussa)</li>
-</ul>
-<!-- player goes here-->
-
-<p><audio preload="none"> <source src="http://traffic.libsyn.com/razborpoletov/razbor_71.mp3" type="audio/mp3" /> Your browser does not support the audio tag. </audio></p>
-<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
-<!-- episode file link goes here-->
-<p><a href="http://traffic.libsyn.com/razborpoletov/razbor_71.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
-<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно…</p>
-</body>
-</html>
 ]]></content>
   </entry>
   
@@ -3881,6 +3826,78 @@ The 2013 JavaOne Russia Call-for-Papers is open.  Deadline for submissions is Fe
 
 
 <p><a href="http://traffic.libsyn.com/razborpoletov/razbor_27.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
+
+<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 26 — Финальный разбор JavaOne-2012]]></title>
+    <link href="http://razbor-poletov.com/2012/10/episode-26.html"/>
+    <updated>2012-10-04T23:31:00-04:00</updated>
+    <id>http://razbor-poletov.com/2012/10/episode-26</id>
+    <content type="html"><![CDATA[<p><img border="0" width="350" height="350" src="http://s.rpod.ru/data/pictures/00/00/01/01/92/3a60c81db236c948b8ee679b8339c2d3.png"/></p>
+
+<!-- topics goes here-->
+
+
+<p>Заключительный выпуск специальной серии подкастов с рассказом о конференции JavaOne, которая проходила в San Francisco.
+Много новых и старых гостей!</p>
+
+<ul>
+<li>Java уходит в регионы</li>
+<li>футболки как средство учета посещаемости</li>
+<li>Scripting Bowl 2012</li>
+<li>3 составляющих идеальной презентации</li>
+<li>ад, кошмар и содомия в Netbeans и Maven</li>
+<li>SPDY в прямом эфире</li>
+<li>Отец кидается футболками и заплывает за буи</li>
+<li>и многое другое &#8230;</li>
+</ul>
+
+
+<p><strong>p.s.</strong> Запись проходила в боевых условиях на территории, оккупированной захватчиками.</p>
+
+<p>Наши контакты:</p>
+
+<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
+
+<p>Наш facebook - <a href="https://www.facebook.com/razborPoletovPodcast">https://www.facebook.com/RazborPoletovPodcast</a></p>
+
+<p>Гости и участники:</p>
+
+<ul>
+<li><a href="https://twitter.com/#!/gamussa">@gamussa</a></li>
+<li><a href="https://twitter.com/antonarhipov">@antonarhipov</a></li>
+<li><a href="https://twitter.com/gigabel">@gigabel</a></li>
+<li><a href="https://twitter.com/jbaruch">@jbaruch</a></li>
+</ul>
+
+
+<p>G+:</p>
+
+<ul>
+<li><a href="http://gplus.to/gAmUssA">Viktor Gamov</a></li>
+<li><a href="https://plus.google.com/105779776776467952201">Anton Arhipov</a></li>
+<li><a href="https://plus.google.com/116033097136007429330/posts">Baruch Sadogursky</a></li>
+<li><a href="https://plus.google.com/101611993436486061032/posts">Alexander Belokrylov</a></li>
+</ul>
+
+
+<!-- player goes here-->
+
+
+<p><audio preload="none">
+  <source src="http://traffic.libsyn.com/razborpoletov/razbor_26.mp3" type="audio/mp3" />
+  Your browser does not support the audio tag.
+</audio></p>
+
+<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
+
+<!-- episode file link goes here-->
+
+
+<p><a href="http://traffic.libsyn.com/razborpoletov/razbor_26.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
 
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
 ]]></content>
