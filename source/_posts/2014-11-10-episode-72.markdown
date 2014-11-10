@@ -1,0 +1,69 @@
+---
+layout: post
+title: "Episode 72 — Банда снова в деле!"
+date: 2014-11-10 13:47
+comments: true
+categories: 
+---
+
+
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_72_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_72_text.jpg" width="350" /></a>
+</div>
+
+
+* [Носороги на воле и они будут в Москве!!!](http://jugmsk.timepad.ru/event/158310/) 
+* Новое приложение «Разбор Полетов» 
+* [Yac](http://yandex.ru/yac2014/) 
+* [Highload++](http://www.highload.ru)
+    * [SilkJS](http://www.silkjs.net)
+    * [Netflix OpenConnect](https://www.netflix.com/openconnect)
+* [IntelliJ IDEA 14](http://blog.jetbrains.com/idea/2014/11/intellij-idea-14-is-released/). [Что нового?](https://www.jetbrains.com/idea/whatsnew/)
+* [JRebel 6 :)](http://zeroturnaround.com/blog/jrebel-6-released/)
+* [Google Container Engine](https://cloud.google.com/container-engine/)
+* [Google Cloud Debugger](https://cloud.google.com/tools/cloud-debugger)
+
+* Полезняшки
+    * [GitHut](http://githut.info/)
+    * [Slate](https://github.com/tripit/slate)
+    * [Coolors](http://coolors.co/)
+    * [Brackets 1.0](http://brackets.io/)
+* [Интерфейсы за и против](http://javatalks.ru/topics/44084)
+
+---
+- [Приложение «Разбор Полетов» для Android](https://play.google.com/store/apps/details?id=com.shonenfactory.razborpoletov). [Гитхаб](https://github.com/rsi2m/RazborPoletov) для пулл-реквестов
+- Еще одно (!) [приложение «Разбор Полетов для Android»](https://play.google.com/store/apps/details?id=aga.android.razbor)
+
+---
+
+Наши контакты:
+
+Официальный сайт — [http://razbor-poletov.com](http://razbor-poletov.com)
+
+[Информация о вещании](http://razbor-poletov.com/broadcast.html)
+
+Темы для следующего выпуска - [https://github.com/razbor-poletov/](https://github.com/razbor-poletov/razbor-poletov.github.com/issues?state=open)
+
+Гости и участники:
+
+twitter: 
+
+ * [@a_abashev](https://twitter.com/#!/a_abashev)
+ * [@antonarhipov](https://twitter.com/#!/antonarhipov)
+ * [@gamussa](https://twitter.com/#!/gamussa)
+ * [@dzmitryc ](https://twitter.com/#!/dzmitryc)
+ 
+
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_72.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+
+Подписаться по [RSS](http://feeds.feedburner.com/razbor-podcast)
+
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_72.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+
+Музыка ведущим [предоставлена](http://www.audiobank.fm/single-music/27/111/More-And-Less/) и ладно...
