@@ -1,0 +1,72 @@
+---
+layout: post
+title: "Episode 73 — Мы снова начинаем «Разбор Полетов»"
+date: 2014-11-30 17:01
+comments: true
+categories: 
+---
+
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_73_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_73_text.jpg" width="350" /></a>
+</div>
+Фото пирога было найдено [тут](https://c2.staticflickr.com/4/3402/5839809283_df8e42f37f_b.jpg)
+
+* [JavaPosse все](https://twitter.com/javaposse/status/533145446945128448)
+* [GeekOut 2015: 11-12 июня](https://www.facebook.com/GeekOut.ee) 
+* [Утечка мозгов в Эстонию](https://twitter.com/gvsmirnov/status/538452726662066177)
+
+Немного о бабле
+
+* [О стоимости скилов](http://www.businessinsider.com/best-tech-skills-resume-ranked-salary-2014-11)
+* [Data Science Salary Survey](http://www.oreilly.com/data/free/files/2014-data-science-salary-survey.pdf)
+* [Resume Driven Development](http://radar.oreilly.com/2014/10/resume-driven-development.html)
+* [Артефакты встречи JUGMSK](https://vk.com/wall-46597293?w=wall-46597293_71)
+* [Проперти в Java](http://blog.joda.org/2014/11/no-properties-in-java-language.html)
+* [Java application servers are dead](http://jaxenter.com/java-application-servers-dead-112186.html)
+
+Полезняшка
+
+* [На почитать о распределенных системах](http://dancres.github.io/Pages/) - темы дипломов искать тут!
+* [OSX Productivity Tips](https://speakerdeck.com/matthewmccullough/mac-osx-productivity-tips-for-developers)
+    * [Почему ZSH](http://code.joejag.com/2014/why-zsh.html)
+    * [Варим софт](http://brew.sh)
+    * [Храним сваренное в бочке](http://caskroom.io) 
+
+
+---
+- [Приложение «Разбор Полетов» для Android](https://play.google.com/store/apps/details?id=com.shonenfactory.razborpoletov). [Гитхаб](https://github.com/rsi2m/RazborPoletov) для пулл-реквестов
+- Еще одно (!) [приложение «Разбор Полетов для Android»](https://play.google.com/store/apps/details?id=aga.android.razbor)
+
+---
+
+Наши контакты:
+
+Официальный сайт — [http://razbor-poletov.com](http://razbor-poletov.com)
+
+[Информация о вещании](http://razbor-poletov.com/broadcast.html)
+
+Темы для следующего выпуска - [https://github.com/razbor-poletov/](https://github.com/razbor-poletov/razbor-poletov.github.com/issues?state=open)
+
+Гости и участники:
+
+twitter: 
+
+ * [@a_abashev](https://twitter.com/#!/a_abashev)
+ * [@antonarhipov](https://twitter.com/#!/antonarhipov)
+ * [@gamussa](https://twitter.com/#!/gamussa)
+ * [@jbaruch](https://twitter.com/#!/jbaruch)
+ 
+
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_73.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+
+Подписаться по [RSS](http://feeds.feedburner.com/razbor-podcast)
+
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_73.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+
+Музыка ведущим [предоставлена](http://www.audiobank.fm/single-music/27/111/More-And-Less/) и ладно...
