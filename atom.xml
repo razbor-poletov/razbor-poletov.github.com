@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2014-12-28T20:59:58-05:00</updated>
+  <updated>2014-12-28T21:01:19-05:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov]]></name>
@@ -43,10 +43,13 @@
 </ul>
 
 
-<p><strong>2015</strong>
-<a href="http://www.businessinsider.com/enterprise-tech-predictions-for-2015-by-vcs-2014-12?op=1">А что дядьки с деньгами думают от технологиях в перспективе 2015 года?</a></p>
+<p><strong>2015</strong></p>
 
-<p><a href="http://www.thoughtworks.com/radar">ThoughtWorks Radar</a></p>
+<ul>
+<li><a href="http://www.businessinsider.com/enterprise-tech-predictions-for-2015-by-vcs-2014-12?op=1">А что дядьки с деньгами думают от технологиях в перспективе 2015 года?</a></li>
+<li><a href="http://www.thoughtworks.com/radar">ThoughtWorks Radar</a></li>
+</ul>
+
 
 <hr />
 
