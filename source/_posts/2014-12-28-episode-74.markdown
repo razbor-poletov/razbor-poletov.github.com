@@ -1,0 +1,63 @@
+---
+layout: post
+title: "Episode 74 - Ретроспективы и прогнозы"
+date: 2014-12-28 15:47
+comments: true
+categories: 
+---
+
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_74_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_74_text.jpg" width="350" /></a>
+</div>
+
+__2014__
+
+* [Превед, Hazelcast!](http://next.javaheadbrain.com/posts/2014/12/13/goodbye-farata-hello-hazelcast.html)
+* [Martijn Verburg: Top 5 Java ecosystem highlights in 2014](http://www.javaadvent.com/2014/12/the-java-ecosystem-my-top-5-highlights.html)
+* [Лучший ЯП в 2014](http://jaxenter.com/best-programming-language-2014-113110.html)
+* [The ultimate Java tools/libs/ppl list v2014](http://www.marcobehler.com/2014/12/27/marco-behlers-2014-ultimate-java-developer-library-tool-people-list/)
+
+__Полезняшки:__
+
+* [Офигенный REST client]( https://luckymarmot.com/paw) - [видео](https://www.youtube.com/watch?v=zbeMDM-zDNI)
+* [Self-hosted Git service, written in Go, comes as a Docker image](http://gogs.io/)
+* [Прикольная грепалка](http://beyondgrep.com/)
+* [Мониторилка](https://code.google.com/p/psi-probe/)
+
+
+**2015**
+
+* [А что дядьки с деньгами думают от технологиях в перспективе 2015 года?](http://www.businessinsider.com/enterprise-tech-predictions-for-2015-by-vcs-2014-12?op=1)
+* [ThoughtWorks Radar](http://www.thoughtworks.com/radar)
+
+---
+
+Наши контакты:
+
+Официальный сайт — [http://razbor-poletov.com](http://razbor-poletov.com)
+
+[Информация о вещании](http://razbor-poletov.com/broadcast.html)
+
+Темы для следующего выпуска - [https://github.com/razbor-poletov/](https://github.com/razbor-poletov/razbor-poletov.github.com/issues?state=open)
+
+Гости и участники:
+
+twitter: 
+
+ * [@a_abashev](https://twitter.com/#!/a_abashev)
+ * [@antonarhipov](https://twitter.com/#!/antonarhipov)
+ * [@gamussa](https://twitter.com/#!/gamussa)
+ 
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_74.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+
+Подписаться по [RSS](http://feeds.feedburner.com/razbor-podcast)
+
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_74.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+
+Музыка ведущим [предоставлена](http://www.audiobank.fm/single-music/27/111/More-And-Less/) и ладно...
