@@ -1,0 +1,59 @@
+---
+layout: post
+title: "Episode 75 - Java вся такая белая и пушистая"
+date: 2015-01-11 17:20
+comments: true
+categories: 
+---
+
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_75_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_75_text.jpg" width="350" /></a>
+</div>
+
+* [Java для всего](http://www.teamten.com/lawrence/writings/java-for-everything.html)
+* [Go for Java developers](http://vimeo.com/100899133)
+* [И вообще, Java вся белая и пушистая](http://www.jamesward.com/2014/12/03/java-doesnt-suck-youre-just-using-it-wrong)
+* [А некоторые думают что OSGi тоже няшка](http://paulonjava.blogspot.com/2014/12/osgi-doesnt-suck-youre-just-using-it.html)
+
+Полезняшки:
+
+* [Редиссон](https://github.com/mrniko/redisson)
+* [Правильный Мёд](https://chrome.google.com/webstore/detail/honey/bmnlcjabgnpnenekpadlanbbkooimhnj)
+AutoValue [проект](https://github.com/google/auto/tree/master/value) [презентация](https://docs.google.com/presentation/d/14u_h-lMn7f1rXE1nDiLX0azS3IkgjGl5uxp5jGJ75RE/edit?pli=1#slide=id.g2a5e9c4a8_00)       
+* [Truth](https://github.com/google/truth)
+* [Upsource 1.0](http://blog.jetbrains.com/upsource/2014/12/09/jetbrains-upsource-1-0-is-released-available-for-purchase/)
+
+[An introduction to containers, Kubernetes, and the trajectory of modern cloud computing](http://googlecloudplatform.blogspot.com/2015/01/in-coming-weeks-we-will-be-publishing.html)
+[Google Amega](http://research.google.com/pubs/pub41684.html)
+
+---
+
+Наши контакты:
+
+Официальный сайт — [http://razbor-poletov.com](http://razbor-poletov.com)
+
+[Информация о вещании](http://razbor-poletov.com/broadcast.html)
+
+Темы для следующего выпуска - [https://github.com/razbor-poletov/](https://github.com/razbor-poletov/razbor-poletov.github.com/issues?state=open)
+
+Гости и участники:
+
+twitter: 
+
+ * [@antonarhipov](https://twitter.com/#!/antonarhipov)
+ * [@dzmitryc ](https://twitter.com/#!/dzmitryc)
+ * [@gamussa](https://twitter.com/#!/gamussa)
+ 
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_75.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+
+Подписаться по [RSS](http://feeds.feedburner.com/razbor-podcast)
+
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_75.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+
+Музыка ведущим [предоставлена](http://www.audiobank.fm/single-music/27/111/More-And-Less/) и ладно...
