@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2015-01-11T18:53:59-05:00</updated>
+  <updated>2015-01-11T18:55:32-05:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Episode 75 - Java вся такая белая и пушистая]]></title>
+    <title type="html"><![CDATA[Episode 75 - Java вся такая белая и пушистая и в контейнере]]></title>
     <link href="http://razbor-poletov.com/2015/01/episode-75.html"/>
     <updated>2015-01-11T17:20:00-05:00</updated>
     <id>http://razbor-poletov.com/2015/01/episode-75</id>
