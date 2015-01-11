@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Episode 75 - Java вся такая белая и пушистая"
+title: "Episode 75 - Java вся такая белая и пушистая и в контейнере"
 date: 2015-01-11 17:20
 comments: true
 categories: 
