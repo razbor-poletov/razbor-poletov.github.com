@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2015-01-11T15:17:00-05:00</updated>
+  <updated>2015-01-11T18:52:41-05:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov]]></name>
@@ -12,6 +12,78 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 75 - Java вся такая белая и пушистая]]></title>
+    <link href="http://razbor-poletov.com/2015/01/episode-75.html"/>
+    <updated>2015-01-11T17:20:00-05:00</updated>
+    <id>http://razbor-poletov.com/2015/01/episode-75</id>
+    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_75_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_75_text.jpg" width="350" /></a>
+</div>
+
+
+<ul>
+<li><a href="http://www.teamten.com/lawrence/writings/java-for-everything.html">Java для всего</a></li>
+<li><a href="http://vimeo.com/100899133">Go for Java developers</a></li>
+<li><a href="http://www.jamesward.com/2014/12/03/java-doesnt-suck-youre-just-using-it-wrong">И вообще, Java вся белая и пушистая</a></li>
+<li><a href="http://paulonjava.blogspot.com/2014/12/osgi-doesnt-suck-youre-just-using-it.html">А некоторые думают что OSGi тоже няшка</a></li>
+</ul>
+
+
+<p>Полезняшки:</p>
+
+<ul>
+<li><a href="https://github.com/mrniko/redisson">Редиссон</a></li>
+<li><a href="https://chrome.google.com/webstore/detail/honey/bmnlcjabgnpnenekpadlanbbkooimhnj">Правильный Мёд</a>
+AutoValue <a href="https://github.com/google/auto/tree/master/value">проект</a> <a href="https://docs.google.com/presentation/d/14u_h-lMn7f1rXE1nDiLX0azS3IkgjGl5uxp5jGJ75RE/edit?pli=1#slide=id.g2a5e9c4a8_00">презентация</a></li>
+<li><a href="https://github.com/google/truth">Truth</a></li>
+<li><a href="http://blog.jetbrains.com/upsource/2014/12/09/jetbrains-upsource-1-0-is-released-available-for-purchase/">Upsource 1.0</a></li>
+</ul>
+
+
+<p><a href="http://googlecloudplatform.blogspot.com/2015/01/in-coming-weeks-we-will-be-publishing.html">An introduction to containers, Kubernetes, and the trajectory of modern cloud computing</a>
+<a href="http://research.google.com/pubs/pub41684.html">Google Amega</a></p>
+
+<hr />
+
+<p>Наши контакты:</p>
+
+<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
+
+<p><a href="http://razbor-poletov.com/broadcast.html">Информация о вещании</a></p>
+
+<p>Темы для следующего выпуска - <a href="https://github.com/razbor-poletov/razbor-poletov.github.com/issues?state=open">https://github.com/razbor-poletov/</a></p>
+
+<p>Гости и участники:</p>
+
+<p>twitter:</p>
+
+<ul>
+<li><a href="https://twitter.com/#!/antonarhipov">@antonarhipov</a></li>
+<li><a href="https://twitter.com/#!/dzmitryc">@dzmitryc </a></li>
+<li><a href="https://twitter.com/#!/gamussa">@gamussa</a></li>
+</ul>
+
+
+<!-- player goes here-->
+
+
+<p><audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_75.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio></p>
+
+<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
+
+<!-- episode file link goes here-->
+
+
+<p><a href="http://traffic.libsyn.com/razborpoletov/razbor_75.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
+
+<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 74 - Ретроспективы и прогнозы]]></title>
@@ -3911,22 +3983,6 @@ The 2013 JavaOne Russia Call-for-Papers is open.  Deadline for submissions is Fe
 <p><a href="http://traffic.libsyn.com/razborpoletov/razbor_29.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
 
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Important]]></title>
-    <link href="http://razbor-poletov.com/2012/11/important.html"/>
-    <updated>2012-11-28T15:53:00-05:00</updated>
-    <id>http://razbor-poletov.com/2012/11/important</id>
-    <content type="html"><![CDATA[<p>Важное объявление!!! Слушать до конца!!!</p>
-
-<p><audio preload="none">
-  <source src="http://traffic.libsyn.com/razborpoletov/razbor_announce.mp3" type="audio/mp3" />
-  Your browser does not support the audio tag.
-</audio></p>
-
-<p><strong>p.s.</strong> Трансляция была <a href="broadcast/2012-12-02.html">тут</a></p>
 ]]></content>
   </entry>
   
