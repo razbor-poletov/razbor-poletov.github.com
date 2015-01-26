@@ -1,0 +1,89 @@
+---
+layout: post
+title: "Episode 76 — OSGi великий и ужасный"
+date: 2015-01-25 16:13
+comments: true
+categories: 
+---
+
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_76_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_76_text.jpg" width="350" /></a>
+</div>
+[Картинка](http://drupal.osgibook.org/sites/osgibook.org/files/die_osgi_service_platform_0.jpg)
+
+* [Регистрация на GeekOut открыта](http://2015.geekout.ee/registration/)
+* Наши люди на DevNexus [1](http://devnexus.com/s/speakers#Baruch_Sadogursky) [2](http://devnexus.com/s/speakers#Viktor_Gamov) 
+* [JUG.RU](https://jugru.timepad.ru/event/176697/)
+* [JPoint](http://javapoint.ru)
+* Groovy & Grails 
+    - [Announce](http://groovy.329449.n5.nabble.com/ANN-Groovy-is-looking-for-a-new-home-td5722211.html)
+    - [Pivotal FAQ](https://docs.google.com/document/d/1R_bQv_8JSLOEzVzPdqOISF0guGtcUPE6vFBeAuxtcG4/edit)
+    - [Блог от нашего резидента](http://arhipov.blogspot.com/2015/01/g.html)
+
+__OSGi or NOSGi__
+
+* [АДъ](http://en.wikipedia.org/wiki/Java_Classloader#JAR_hell)
+* [Готовь меня правильно](http://paulonjava.blogspot.com/2014/12/osgi-doesnt-suck-youre-just-using-it.html)
+* [OSGi and jigsaw](http://www.slideshare.net/martintoshev/modularity-of-the-java-platform-osgi-jigsaw-and-penrose)
+* [Tutorial](http://felix.apache.org/documentation/tutorials-examples-and-presentations/apache-felix-osgi-tutorial.html)
+* [OSGi и WebSphere](http://jaceklaskowski.pl/wiki/Developing_OSGi_Applications_with_Blueprint_bundles_and_WebSphere_Application_Server_V8.5_Liberty_Profile)
+* [Сборка Eclipse плагинов Maven и Tycho](http://zeroturnaround.com/rebellabs/building-eclipse-plug-ins-with-maven-3-and-tycho/)
+* Gradle и OSGi [1](http://gradle.org/docs/current/userguide/osgi_plugin.html) [2](https://github.com/akhikhl/wuff)
+* [Planet Eclipse](http://planet.eclipse.org/planet/)
+* [Google и OSGi](https://github.com/google/guice/wiki/OSGi)
+
+Книги
+
+* [Learning Apache Karaf](https://www.packtpub.com/big-data-and-business-intelligence/learning-apache-karaf)
+* [Building Modular Cloud Apps with OSGi](http://shop.oreilly.com/product/0636920028086.do)
+* [Mastering Eclipse Plug-in](http://alblue.bandlem.com/2014/08/eclipse-book-published.html)
+* [OSGi in Action](http://www.manning.com/hall/)
+
+Полезняшки
+
+- [Web framework с OSGi](http://www.wisdom-framework.org)
+- [JVM Memory Settings](http://jvmmemory.com/)
+- `-XX:SelfDestructTimer=1`
+- [SQL Joins](http://sql-joins.leopard.in.ua/)
+- [Научись бренчингу в Git](http://pcottle.github.io/learnGitBranching/index.html?demo)
+- [Новые трюки экзекьюторов](http://www.nurkiewicz.com/2014/11/executorservice-10-tips-and-tricks.html)
+- [Thread Affinity](http://openhft.net/products/thread-affinity/)
+- [Скобочки или ехать?](http://blog.jooq.org/2014/12/08/dont-be-clever-the-double-curly-braces-anti-pattern/)
+- [Immutables](https://immutables.github.io/)
+
+
+---
+
+Наши контакты:
+
+Официальный сайт — [http://razbor-poletov.com](http://razbor-poletov.com)
+
+[Информация о вещании](http://razbor-poletov.com/broadcast.html)
+
+Темы для следующего выпуска - [https://github.com/razbor-poletov/](https://github.com/razbor-poletov/razbor-poletov.github.com/issues?state=open)
+
+Гости и участники:
+
+twitter: 
+
+ * [@a_abashev](https://twitter.com/a_abashev)
+ * [@antonarhipov](https://twitter.com/antonarhipov)
+ * [@dzmitryc ](https://twitter.com/dzmitryc)
+ * [@gamussa](https://twitter.com/gamussa)
+ * [@jbaruch](https://twitter.com/jbaruch)
+ * [@tolkv](https://twitter.com/tolkv)
+ * [Суровый Челябинский Программист](http://samolisov.blogspot.ru/)
+ 
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_76.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+
+Подписаться по [RSS](http://feeds.feedburner.com/razbor-podcast)
+
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_76.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127622_mp3.png" width="64" /></a>
+
+Музыка ведущим [предоставлена](http://www.audiobank.fm/single-music/27/111/More-And-Less/) и ладно...
