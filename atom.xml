@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2015-01-25T14:39:24-05:00</updated>
+  <updated>2015-01-25T19:30:48-05:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov]]></name>
@@ -12,6 +12,118 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 76 — OSGi великий и ужасный]]></title>
+    <link href="http://razbor-poletov.com/2015/01/episode-76.html"/>
+    <updated>2015-01-25T16:13:00-05:00</updated>
+    <id>http://razbor-poletov.com/2015/01/episode-76</id>
+    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_76_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_76_text.jpg" width="350" /></a>
+</div>
+
+
+<p><a href="http://drupal.osgibook.org/sites/osgibook.org/files/die_osgi_service_platform_0.jpg">Картинка</a></p>
+
+<ul>
+<li><a href="http://2015.geekout.ee/registration/">Регистрация на GeekOut открыта</a></li>
+<li>Наши люди на DevNexus <a href="http://devnexus.com/s/speakers#Baruch_Sadogursky">1</a> <a href="http://devnexus.com/s/speakers#Viktor_Gamov">2</a></li>
+<li><a href="https://jugru.timepad.ru/event/176697/">JUG.RU</a></li>
+<li><a href="http://javapoint.ru">JPoint</a></li>
+<li>Groovy &amp; Grails
+
+<ul>
+<li><a href="http://groovy.329449.n5.nabble.com/ANN-Groovy-is-looking-for-a-new-home-td5722211.html">Announce</a></li>
+<li><a href="https://docs.google.com/document/d/1R_bQv_8JSLOEzVzPdqOISF0guGtcUPE6vFBeAuxtcG4/edit">Pivotal FAQ</a></li>
+<li><a href="http://arhipov.blogspot.com/2015/01/g.html">Блог от нашего резидента</a></li>
+</ul>
+</li>
+</ul>
+
+
+<p><strong>OSGi or NOSGi</strong></p>
+
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Java_Classloader#JAR_hell">АДъ</a></li>
+<li><a href="http://paulonjava.blogspot.com/2014/12/osgi-doesnt-suck-youre-just-using-it.html">Готовь меня правильно</a></li>
+<li><a href="http://www.slideshare.net/martintoshev/modularity-of-the-java-platform-osgi-jigsaw-and-penrose">OSGi and jigsaw</a></li>
+<li><a href="http://felix.apache.org/documentation/tutorials-examples-and-presentations/apache-felix-osgi-tutorial.html">Tutorial</a></li>
+<li><a href="http://jaceklaskowski.pl/wiki/Developing_OSGi_Applications_with_Blueprint_bundles_and_WebSphere_Application_Server_V8.5_Liberty_Profile">OSGi и WebSphere</a></li>
+<li><a href="http://zeroturnaround.com/rebellabs/building-eclipse-plug-ins-with-maven-3-and-tycho/">Сборка Eclipse плагинов Maven и Tycho</a></li>
+<li>Gradle и OSGi <a href="http://gradle.org/docs/current/userguide/osgi_plugin.html">1</a> <a href="https://github.com/akhikhl/wuff">2</a></li>
+<li><a href="http://planet.eclipse.org/planet/">Planet Eclipse</a></li>
+<li><a href="https://github.com/google/guice/wiki/OSGi">Google и OSGi</a></li>
+</ul>
+
+
+<p>Книги</p>
+
+<ul>
+<li><a href="https://www.packtpub.com/big-data-and-business-intelligence/learning-apache-karaf">Learning Apache Karaf</a></li>
+<li><a href="http://shop.oreilly.com/product/0636920028086.do">Building Modular Cloud Apps with OSGi</a></li>
+<li><a href="http://alblue.bandlem.com/2014/08/eclipse-book-published.html">Mastering Eclipse Plug-in</a></li>
+<li><a href="http://www.manning.com/hall/">OSGi in Action</a></li>
+</ul>
+
+
+<p>Полезняшки</p>
+
+<ul>
+<li><a href="http://www.wisdom-framework.org">Web framework с OSGi</a></li>
+<li><a href="http://jvmmemory.com/">JVM Memory Settings</a></li>
+<li><code>-XX:SelfDestructTimer=1</code></li>
+<li><a href="http://sql-joins.leopard.in.ua/">SQL Joins</a></li>
+<li><a href="http://pcottle.github.io/learnGitBranching/index.html?demo">Научись бренчингу в Git</a></li>
+<li><a href="http://www.nurkiewicz.com/2014/11/executorservice-10-tips-and-tricks.html">Новые трюки экзекьюторов</a></li>
+<li><a href="http://openhft.net/products/thread-affinity/">Thread Affinity</a></li>
+<li><a href="http://blog.jooq.org/2014/12/08/dont-be-clever-the-double-curly-braces-anti-pattern/">Скобочки или ехать?</a></li>
+<li><a href="https://immutables.github.io/">Immutables</a></li>
+</ul>
+
+
+<hr />
+
+<p>Наши контакты:</p>
+
+<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
+
+<p><a href="http://razbor-poletov.com/broadcast.html">Информация о вещании</a></p>
+
+<p>Темы для следующего выпуска - <a href="https://github.com/razbor-poletov/razbor-poletov.github.com/issues?state=open">https://github.com/razbor-poletov/</a></p>
+
+<p>Гости и участники:</p>
+
+<p>twitter:</p>
+
+<ul>
+<li><a href="https://twitter.com/a_abashev">@a_abashev</a></li>
+<li><a href="https://twitter.com/antonarhipov">@antonarhipov</a></li>
+<li><a href="https://twitter.com/dzmitryc">@dzmitryc </a></li>
+<li><a href="https://twitter.com/gamussa">@gamussa</a></li>
+<li><a href="https://twitter.com/jbaruch">@jbaruch</a></li>
+<li><a href="https://twitter.com/tolkv">@tolkv</a></li>
+<li><a href="http://samolisov.blogspot.ru/">Суровый Челябинский Программист</a></li>
+</ul>
+
+
+<!-- player goes here-->
+
+
+<p><audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_76.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio></p>
+
+<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
+
+<!-- episode file link goes here-->
+
+
+<p><a href="http://traffic.libsyn.com/razborpoletov/razbor_76.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127622_mp3.png" width="64" /></a></p>
+
+<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 75 - Java вся такая белая и пушистая и в контейнере]]></title>
@@ -3908,79 +4020,6 @@ The 2013 JavaOne Russia Call-for-Papers is open.  Deadline for submissions is Fe
 
 
 <p><a href="http://traffic.libsyn.com/razborpoletov/razbor_30.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
-
-<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 29 — Год в Эфире]]></title>
-    <link href="http://razbor-poletov.com/2012/12/episode-29.html"/>
-    <updated>2012-12-05T00:22:00-05:00</updated>
-    <id>http://razbor-poletov.com/2012/12/episode-29</id>
-    <content type="html"><![CDATA[<p><img border="0" width="350" height="350" src="https://lh3.googleusercontent.com/-RAQJql0Vn14/UL7apCLEFfI/AAAAAAAAJNY/PO-32BBo56s/s501/razbor_29_text.png
-"/></p>
-
-<ul>
-<li><a href="http://java.dzone.com/articles/why-java-ee-lost-and-spring">Why Java EE Lost and Spring Won</a></li>
-<li><a href="http://www.infoq.com/presentations/Square">Engineering Elegance: The Secrets of Square&#8217;s Stack</a>
-
-<ul>
-<li><a href="http://square.github.com/tape/">Tape</a></li>
-<li><a href="http://one-jar.sourceforge.net/">One-JAR</a></li>
-<li><a href="http://dropwizard.codahale.com/getting-started/">Dropwizard</a></li>
-<li><a href="https://github.com/blog/542-introducing-resque">Resque</a></li>
-<li><a href="http://www.manning.com/prasanna/">Dependency Injection In Action</a></li>
-<li><a href="http://square.github.com/dagger/">Dagger</a></li>
-</ul>
-</li>
-<li><p>Полезняшка</p>
-
-<ul>
-<li><a href="http://anti-code.com/devtools-cheatsheet/">Chrome Devtools Cheatsheet</a></li>
-</ul>
-</li>
-<li><p><a href="http://techcrunch.com/2012/11/30/instagram-co-founder-mike-kriegers-8-principles-for-building-products-people-want/">Instagram Co-Founder Mike Krieger&#8217;s 8 Principles For Building Products People Want</a></p></li>
-</ul>
-
-
-<p><a href="http://razbor-poletov.com/broadcast/2012-12-02.html">Лог Чатика</a></p>
-
-<p>Наши контакты:</p>
-
-<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
-
-<p>twitter:</p>
-
-<ul>
-<li><a href="https://twitter.com/#!/a_abashev">@a_abashev</a></li>
-<li><a href="https://twitter.com/#!/gamussa">@gamussa</a></li>
-</ul>
-
-
-<p>G+:</p>
-
-<ul>
-<li><a href="http://gplus.to/gAmUssA">gplus.to/gAmUssA</a></li>
-<li><a href="http://gplus.to/aabashev">gplus.to/aabashev</a></li>
-<li><a href="http://gplus.to/dmitryc">gplus.to/dmitryc</a></li>
-</ul>
-
-
-<!-- player goes here-->
-
-
-<p><audio preload="none">
-  <source src="http://traffic.libsyn.com/razborpoletov/razbor_29.mp3" type="audio/mp3" />
-  Your browser does not support the audio tag.
-</audio></p>
-
-<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
-
-<!-- episode file link goes here-->
-
-
-<p><a href="http://traffic.libsyn.com/razborpoletov/razbor_29.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
 
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
 ]]></content>
