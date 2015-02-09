@@ -1,0 +1,85 @@
+---
+layout: post
+title: "Episode 77 — Чему бы поучиться на Java"
+date: 2015-02-08 17:33
+comments: true
+categories: 
+---
+
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_77_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_77_text.jpg" width="350" /></a>
+</div>
+[Картинка](http://fc00.deviantart.net/fs71/f/2014/192/7/6/ancient_aliens_guy_hd_meme_by_pstrooper-d7p5dz1.png)
+
+
+* [Регистрация на GeekOut открыта](http://2015.geekout.ee/registration/)
+* Наши люди на DevNexus [1](http://devnexus.com/s/speakers#Baruch_Sadogursky) [2](http://devnexus.com/s/speakers#Viktor_Gamov) 
+* [JPoint](http://javapoint.ru) 
+* [JEEConf](http://jeeconf.com)
+* [Видео с последнего JUGa](https://www.youtube.com/watch?v=8u6_hctdhqI&feature=youtu.be)
+* [Виртуальный JUG](http://virtualjug.com)
+
+По вашим письмам:
+
+* MVC фрэймворки - что предпочтительней для больших и маленьких проектов, особенно хочется послушать про Spring и Play 2 [1](http://www.slideshare.net/jbaruch/everything-you-wanted-to-know-about-writing-async-concurrent-http-apps-in-java-44250919) [2](http://raibledesigns.com/) [3](http://zeroturnaround.com/rebellabs/the-2014-decision-makers-guide-to-java-web-frameworks/)
+* JVM языки - преимущества и недостатки, и вообще, стоит ли учить что-нибудь кроме Java [1](http://zeroturnaround.com/rebellabs/the-adventurous-developers-guide-to-jvm-languages-java-scala-groovy-fantom-clojure-ceylon-kotlin-xtend/) 
+* книги и советы по развитию [The Well-Grounded Java Developer](http://www.manning.com/evans/) [Pragmatic Programmer](http://www.amazon.com/The-Pragmatic-Programmer-Journeyman-Master/dp/020161622X)
+* какие-нибудь темы, на которые стоит обратить внимание [1](https://github.com/yfain/WebDevForJavaProgrammers)
+
+Полезняшки
+
+* Шумы: 
+    * [Noisli](http://www.noisli.com/) 
+    * [Noiz.io](http://noiz.io)
+    * [BrainWave](https://itunes.apple.com/us/app/brain-wave-32-advanced-binaural/id307219387)
+* [Jansi](https://github.com/fusesource/jansi)
+* [Cmd](http://bliker.github.io/cmder/)
+* [IntelliJ IDEA 14.1 EAP](http://blog.jetbrains.com/idea/2015/02/intellij-idea-14-1-eap-is-available/)
+
+Продолжаем
+
+* У Java юбилей! 20 лет
+* [Java 7 EOL is in 2 months](http://www.oracle.com/technetwork/java/eol-135779.html)
+
+__P.s.__ [Подкаст про книги](http://blog.golodnyj.ru/2015/02/008.html) от [@golodnyj](https://twitter.com/golodnyj)
+
+---
+
+_На правах рекламы:_
+
+* [Вакансия от Алексея ](http://www.startupjobs.asia/job/3790-senior-java-engineer-technical-paktor--singapore). [Присылайте резюме](mailto:alexey@abashev.ru)
+
+---
+
+Наши контакты:
+
+Официальный сайт — [http://razbor-poletov.com](http://razbor-poletov.com)
+
+[Информация о вещании](http://razbor-poletov.com/broadcast.html)
+
+Темы для следующего выпуска - [https://github.com/razbor-poletov/](https://github.com/razbor-poletov/razbor-poletov.github.com/issues?state=open)
+
+Гости и участники:
+
+twitter: 
+
+ * [@a_abashev](https://twitter.com/a_abashev)
+ * [@antonarhipov](https://twitter.com/antonarhipov)
+ * [@dzmitryc ](https://twitter.com/dzmitryc)
+ * [@gamussa](https://twitter.com/gamussa)
+ * [@tolkv](https://twitter.com/tolkv)
+ * [@golodnyj](https://twitter.com/golodnyj)
+ 
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_77.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+
+Подписаться по [RSS](http://feeds.feedburner.com/razbor-podcast)
+
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_77.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+
+Музыка ведущим [предоставлена](http://www.audiobank.fm/single-music/27/111/More-And-Less/) и ладно...
