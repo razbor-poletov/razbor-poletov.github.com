@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2015-02-08T16:09:31-05:00</updated>
+  <updated>2015-02-08T19:17:34-05:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov]]></name>
@@ -12,6 +12,117 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 77 — Чему бы поучиться на Java]]></title>
+    <link href="http://razbor-poletov.com/2015/02/episode-77.html"/>
+    <updated>2015-02-08T17:33:00-05:00</updated>
+    <id>http://razbor-poletov.com/2015/02/episode-77</id>
+    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_77_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_77_text.jpg" width="350" /></a>
+</div>
+
+
+<p><a href="http://fc00.deviantart.net/fs71/f/2014/192/7/6/ancient_aliens_guy_hd_meme_by_pstrooper-d7p5dz1.png">Картинка</a></p>
+
+<ul>
+<li><a href="http://2015.geekout.ee/registration/">Регистрация на GeekOut открыта</a></li>
+<li>Наши люди на DevNexus <a href="http://devnexus.com/s/speakers#Baruch_Sadogursky">1</a> <a href="http://devnexus.com/s/speakers#Viktor_Gamov">2</a></li>
+<li><a href="http://javapoint.ru">JPoint</a></li>
+<li><a href="http://jeeconf.com">JEEConf</a></li>
+<li><a href="https://www.youtube.com/watch?v=8u6_hctdhqI&amp;feature=youtu.be">Видео с последнего JUGa</a></li>
+<li><a href="http://virtualjug.com">Виртуальный JUG</a></li>
+</ul>
+
+
+<p>По вашим письмам:</p>
+
+<ul>
+<li>MVC фрэймворки - что предпочтительней для больших и маленьких проектов, особенно хочется послушать про Spring и Play 2 <a href="http://www.slideshare.net/jbaruch/everything-you-wanted-to-know-about-writing-async-concurrent-http-apps-in-java-44250919">1</a> <a href="http://raibledesigns.com/">2</a> <a href="http://zeroturnaround.com/rebellabs/the-2014-decision-makers-guide-to-java-web-frameworks/">3</a></li>
+<li>JVM языки - преимущества и недостатки, и вообще, стоит ли учить что-нибудь кроме Java <a href="http://zeroturnaround.com/rebellabs/the-adventurous-developers-guide-to-jvm-languages-java-scala-groovy-fantom-clojure-ceylon-kotlin-xtend/">1</a></li>
+<li>книги и советы по развитию <a href="http://www.manning.com/evans/">The Well-Grounded Java Developer</a> <a href="http://www.amazon.com/The-Pragmatic-Programmer-Journeyman-Master/dp/020161622X">Pragmatic Programmer</a></li>
+<li>какие-нибудь темы, на которые стоит обратить внимание <a href="https://github.com/yfain/WebDevForJavaProgrammers">1</a></li>
+</ul>
+
+
+<p>Полезняшки</p>
+
+<ul>
+<li>Шумы:
+
+<ul>
+<li><a href="http://www.noisli.com/">Noisli</a></li>
+<li><a href="http://noiz.io">Noiz.io</a></li>
+<li><a href="https://itunes.apple.com/us/app/brain-wave-32-advanced-binaural/id307219387">BrainWave</a></li>
+</ul>
+</li>
+<li><a href="https://github.com/fusesource/jansi">Jansi</a></li>
+<li><a href="http://bliker.github.io/cmder/">Cmd</a></li>
+<li><a href="http://blog.jetbrains.com/idea/2015/02/intellij-idea-14-1-eap-is-available/">IntelliJ IDEA 14.1 EAP</a></li>
+</ul>
+
+
+<p>Продолжаем</p>
+
+<ul>
+<li>У Java юбилей! 20 лет</li>
+<li><a href="http://www.oracle.com/technetwork/java/eol-135779.html">Java 7 EOL is in 2 months</a></li>
+</ul>
+
+
+<p><strong>P.s.</strong> <a href="http://blog.golodnyj.ru/2015/02/008.html">Подкаст про книги</a> от <a href="https://twitter.com/golodnyj">@golodnyj</a></p>
+
+<hr />
+
+<p><em>На правах рекламы:</em></p>
+
+<ul>
+<li><a href="http://www.startupjobs.asia/job/3790-senior-java-engineer-technical-paktor--singapore">Вакансия от Алексея </a>. <a href="mailto:alexey@abashev.ru">Присылайте резюме</a></li>
+</ul>
+
+
+<hr />
+
+<p>Наши контакты:</p>
+
+<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
+
+<p><a href="http://razbor-poletov.com/broadcast.html">Информация о вещании</a></p>
+
+<p>Темы для следующего выпуска - <a href="https://github.com/razbor-poletov/razbor-poletov.github.com/issues?state=open">https://github.com/razbor-poletov/</a></p>
+
+<p>Гости и участники:</p>
+
+<p>twitter:</p>
+
+<ul>
+<li><a href="https://twitter.com/a_abashev">@a_abashev</a></li>
+<li><a href="https://twitter.com/antonarhipov">@antonarhipov</a></li>
+<li><a href="https://twitter.com/dzmitryc">@dzmitryc </a></li>
+<li><a href="https://twitter.com/gamussa">@gamussa</a></li>
+<li><a href="https://twitter.com/tolkv">@tolkv</a></li>
+<li><a href="https://twitter.com/golodnyj">@golodnyj</a></li>
+</ul>
+
+
+<!-- player goes here-->
+
+
+<p><audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_77.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio></p>
+
+<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
+
+<!-- episode file link goes here-->
+
+
+<p><a href="http://traffic.libsyn.com/razborpoletov/razbor_77.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
+
+<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 76 — OSGi великий и ужасный]]></title>
@@ -3959,69 +4070,6 @@ The 2013 JavaOne Russia Call-for-Papers is open.  Deadline for submissions is Fe
 </audio></p>
 
 <p><a href="http://traffic.libsyn.com/razborpoletov/razbor_new_year.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 30 — Нет потенции — сваливайте н@@@й с рынка]]></title>
-    <link href="http://razbor-poletov.com/2012/12/episode-30.html"/>
-    <updated>2012-12-22T19:21:00-05:00</updated>
-    <id>http://razbor-poletov.com/2012/12/episode-30</id>
-    <content type="html"><![CDATA[<p><img src="http://s.rpod.ru/data/pictures/00/00/01/01/92/bc3dfe4850778c6d3f5665d9d2a83a14.png"></p>
-
-<ul>
-<li><a href="http://www.cnews.ru/top/2012/11/21/pakt_o_nenapadenii_parallels_dogovorilas_s_yandeksom_kasperskim_i_drugimi_ne_hantit_programmistov_510502">Пакт о ненападении</a></li>
-<li><a href="http://www.grobmeier.de/the-new-log4j-2-0-05122012.html">Логаем по-новому</a></li>
-<li><a href="http://techblog.netflix.com/2012/11/announcing-bitz4j-scalable-logging.html">Масштабирование логгера</a></li>
-<li><a href="http://news.dice.com/2012/08/08/it-roles-becoming-obsolete/">Вымирающие виды</a></li>
-<li>Полезняшка
-
-<ul>
-<li><a href="http://tobacco.noroutine.me">Дело-табак!</a></li>
-<li><a href="http://www.git-legit.org">Lé-бигмак</a></li>
-</ul>
-</li>
-<li><a href="http://coding.smashingmagazine.com/2012/10/29/powerful-command-line-tools-developers/">Учим командную строку</a></li>
-</ul>
-
-
-<p>Наши контакты:</p>
-
-<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
-
-<p>twitter:</p>
-
-<ul>
-<li><a href="https://twitter.com/#!/a_abashev">@a_abashev</a></li>
-<li><a href="https://twitter.com/#!/gamussa">@gamussa</a></li>
-</ul>
-
-
-<p>G+:</p>
-
-<ul>
-<li><a href="http://gplus.to/gAmUssA">gplus.to/gAmUssA</a></li>
-<li><a href="http://gplus.to/aabashev">gplus.to/aabashev</a></li>
-<li><a href="http://gplus.to/dmitryc">gplus.to/dmitryc</a></li>
-</ul>
-
-
-<!-- player goes here-->
-
-
-<p><audio preload="none">
-  <source src="http://traffic.libsyn.com/razborpoletov/razbor_30.mp3" type="audio/mp3" />
-  Your browser does not support the audio tag.
-</audio></p>
-
-<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
-
-<!-- episode file link goes here-->
-
-
-<p><a href="http://traffic.libsyn.com/razborpoletov/razbor_30.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
-
-<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
 ]]></content>
   </entry>
   
