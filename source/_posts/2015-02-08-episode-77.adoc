@@ -1,0 +1,93 @@
+---
+layout: post
+title: Episode 77 — Чему бы поучиться на Java
+date: 2015-02-08 17:33
+comments: true
+categories: 
+---
+= Episode 77
+:layout: post
+
+++++
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_77_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_77_text.jpg" width="350" /></a>
+</div>
+++++
+http://razbor-poletov.com/images/razbor_77_text.jpg[Картинка]
+
+[compact]
+- http://2015.geekout.ee/registration/[Регистрация на GeekOut открыта]
+- Наши люди на DevNexus http://devnexus.com/s/speakers#Baruch_Sadogursky[1] http://devnexus.com/s/speakers#Viktor_Gamov[2]
+- http://javapoint.ru[JPoint]
+- http://jeeconf.com[JEEConf]
+- https://www.youtube.com/watch?v=8u6_hctdhqI&feature=youtu.be[Видео с последнего JUGa]
+- http://virtualjug.com[Виртуальный JUG]
+
+По вашим письмам:
+
+* MVC фрэймворки - что предпочтительней для больших и маленьких проектов, особенно хочется послушать про Spring и Play 2 http://www.slideshare.net/jbaruch/everything-you-wanted-to-know-about-writing-async-concurrent-http-apps-in-java-44250919[1] http://raibledesigns.com/[2] http://zeroturnaround.com/rebellabs/the-2014-decision-makers-guide-to-java-web-frameworks/[3]
+* JVM языки - преимущества и недостатки, и вообще, стоит ли учить что-нибудь кроме Java http://zeroturnaround.com/rebellabs/the-adventurous-developers-guide-to-jvm-languages-java-scala-groovy-fantom-clojure-ceylon-kotlin-xtend/[1]
+* книги и советы по развитию http://www.manning.com/evans/[The Well-Grounded Java Developer] http://www.amazon.com/The-Pragmatic-Programmer-Journeyman-Master/dp/020161622X[Pragmatic Programmer]
+* какие-нибудь темы, на которые стоит обратить внимание https://github.com/yfain/WebDevForJavaProgrammers[1]
+
+Полезняшки
+
+* Шумы: 
+** http://www.noisli.com/[Noisli] 
+** http://noiz.io[Noiz.io]
+** https://itunes.apple.com/us/app/brain-wave-32-advanced-binaural/id307219387[BrainWave]
+* https://github.com/fusesource/jansi[Jansi]
+* http://bliker.github.io/cmder/[Cmd]
+* http://blog.jetbrains.com/idea/2015/02/intellij-idea-14-1-eap-is-available/[IntelliJ IDEA 14.1 EAP]
+
+Продолжаем
+
+* У Java юбилей! 20 лет
+* http://www.oracle.com/technetwork/java/eol-135779.html[Java 7 EOL is in 2 months]
+
+*P.s.* http://blog.golodnyj.ru/2015/02/008.html[Подкаст про книги] от https://twitter.com/golodnyj[@golodnyj]
+
+---
+
+_На правах рекламы:_
+
+* http://www.startupjobs.asia/job/3790-senior-java-engineer-technical-paktor--singapore[Вакансия от Алексея]. mailto:alexey@abashev.ru[Присылайте резюме]
+
+---
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com[http://razbor-poletov.com]
+
+http://razbor-poletov.com/broadcast.html[Информация о вещании]
+
+Темы для следующего выпуска - https://github.com/razbor-poletov/razbor-poletov.github.com/issues?state=open[https://github.com/razbor-poletov/]
+
+Гости и участники:
+
+twitter: 
+
+ * https://twitter.com/a_abashev[@a_abashev]
+ * https://twitter.com/antonarhipov[@antonarhipov]
+ * https://twitter.com/dzmitryc[@dzmitryc ]
+ * https://twitter.com/gamussa[@gamussa]
+ * https://twitter.com/tolkv[@tolkv]
+ * https://twitter.com/golodnyj[@golodnyj]
+
+++++ 
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_77.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+++++
+
+Подписаться по http://feeds.feedburner.com/razbor-podcast[RSS]
+
+++++
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_77.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+++++
+
+Музыка ведущим http://www.audiobank.fm/single-music/27/111/More-And-Less/[предоставлена] и ладно...
