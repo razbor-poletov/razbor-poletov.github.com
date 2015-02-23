@@ -14,13 +14,11 @@ footer: true
    Your browser does not support the audio tag.
 </audio>
 
-Следующий эфир запланирован на 22 февраля 2015, 23.00 по MSK.
+Следующий эфир запланирован на 8 марта 2015, 23.00 по MSK.
 Ссылка на mp3-поток будет доступна в день эфира.
 
 **Чат**
 
-- [Web chat на Freenode](http://webchat.freenode.net/)
-- Channel: `#razborpoletov`
-
+[![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/razbor-poletov/razbor-poletov.github.com)
 
 
