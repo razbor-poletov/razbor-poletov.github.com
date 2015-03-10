@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2015-03-08T21:42:16-04:00</updated>
+  <updated>2015-03-09T20:03:36-04:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov]]></name>
@@ -77,6 +77,9 @@
 <p>А как же Апачи зарабатывают? <a href="http://www.apache.org/foundation/thanks.html">1</a> <a href="http://www.apache.org/foundation/sponsorship.html">2</a></p>
 </li>
 </ul>
+</div>
+<div class="paragraph">
+<p>Ссылки, упомянутые в беседе, ищите в <a href="https://gitter.im/razbor-poletov/razbor-poletov.github.com/archives/2015/03/08">логе чата</a>.</p>
 </div>
 </div>
 </div>
