@@ -1,0 +1,71 @@
+---
+comments: true
+categories: 
+---
+
+= Episode 80 — Небольшой конференционный
+2015-03-16 10:30
+
+++++
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_80_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_80_text.jpg" width="350" /></a>
+</div>
+++++
+
+Запись велась с помощью чудного устройства http://www.zoom.co.jp/products/iq6[Zoom iQ6] в ресторане https://www.google.com/maps/place/Maggiano's+Little+Italy,+3368+Peachtree+Rd,+Atlanta,+GA+30326/@33.7677129,-84.420604,12z/data=!4m2!3m1!1s0x88f50f58606e2717:0xaa15fcf0fe93bfb1[Maggiano Little Italy].
+
+== Конференции
+
+* DevNexus: http://devnexus.com/s/speakers#Baruch_Sadogursky[Барух] и http://devnexus.com/s/speakers#Viktor_Gamov[Виктор]
+* Пара фоточек с конференции 
+** https://instagram.com/p/0Fka_4H7yM/[1]
+** https://instagram.com/p/0Fq3rzH77b/[2]
+** https://instagram.com/p/0Gtam-H772/[3]
+** https://instagram.com/p/0GwWRGH7wE/[4]
+** https://instagram.com/p/0IZVrWn79S/[5]
+** https://instagram.com/p/0I1fzQn77J/[6]
+* http://capedwarf.org
+* http://atom.io/[Atom.io] 
+** https://github.com/asciidoctor/atom-asciidoc-preview[Asciidoc Preview]
+** https://github.com/asciidoctor/atom-language-asciidoc[Asciidoc Language Support]
+* http://nighthacking.com/event/devnexus2015/[NightHacking]
+
+---
+
+_На правах рекламы:_
+
+* http://www.startupjobs.asia/job/3790-senior-java-engineer-technical-paktor--singapore[Вакансия от Алексея]. mailto:alexey@abashev.ru[Присылайте резюме]
+
+---
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com[http://razbor-poletov.com]
+
+http://razbor-poletov.com/broadcast.html[Информация о вещании]
+
+Гости и участники:
+
+twitter: 
+
+ * https://twitter.com/gamussa[@gamussa]
+ * https://twitter.com/jbaruch[@jbaruch]
+
+
+++++ 
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_80.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+++++
+
+Подписаться по http://feeds.feedburner.com/razbor-podcast[RSS]
+
+++++
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_80.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+++++
+
+Музыка ведущим http://www.audiobank.fm/single-music/27/111/More-And-Less/[предоставлена] и ладно...
