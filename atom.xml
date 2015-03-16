@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2015-03-09T20:03:36-04:00</updated>
+  <updated>2015-03-16T10:46:34-04:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov]]></name>
@@ -12,6 +12,130 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 80 — Небольшой конференционный]]></title>
+    <link href="http://razbor-poletov.com/2015/03/episode-80.html"/>
+    <updated>2015-03-16T00:00:00-04:00</updated>
+    <id>http://razbor-poletov.com/2015/03/episode-80</id>
+    <content type="html"><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_80_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_80_text.jpg" width="350" /></a>
+</div>
+<div class="paragraph">
+<p>Запись велась с помощью чудного устройства <a href="http://www.zoom.co.jp/products/iq6">Zoom iQ6</a>.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Конференции">Конференции</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>DevNexus: <a href="http://devnexus.com/s/speakers#Baruch_Sadogursky">Барух</a> и <a href="http://devnexus.com/s/speakers#Viktor_Gamov">Виктор</a></p>
+</li>
+<li>
+<p>Пара фоточек с конференции</p>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://instagram.com/p/0Fka_4H7yM/">1</a></p>
+</li>
+<li>
+<p><a href="https://instagram.com/p/0Fq3rzH77b/">2</a></p>
+</li>
+<li>
+<p><a href="https://instagram.com/p/0Gtam-H772/">3</a></p>
+</li>
+<li>
+<p><a href="https://instagram.com/p/0GwWRGH7wE/">4</a></p>
+</li>
+<li>
+<p><a href="https://instagram.com/p/0IZVrWn79S/">5</a></p>
+</li>
+<li>
+<p><a href="https://instagram.com/p/0I1fzQn77J/">6</a></p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p><a href="http://capedwarf.org" class="bare">http://capedwarf.org</a></p>
+</li>
+<li>
+<p><a href="http://atom.io/">Atom.io</a></p>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://github.com/asciidoctor/atom-asciidoc-preview">Asciidoc Preview</a></p>
+</li>
+<li>
+<p><a href="https://github.com/asciidoctor/atom-language-asciidoc">Asciidoc Language Support</a></p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p><a href="http://nighthacking.com/event/devnexus2015/">NightHacking</a></p>
+</li>
+</ul>
+</div>
+<hr>
+<div class="paragraph">
+<p><em>На правах рекламы:</em></p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="http://www.startupjobs.asia/job/3790-senior-java-engineer-technical-paktor&#8212;&#8203;singapore">Вакансия от Алексея</a>. <a href="mailto:alexey@abashev.ru">Присылайте резюме</a></p>
+</li>
+</ul>
+</div>
+<hr>
+<div class="paragraph">
+<p>Наши контакты:</p>
+</div>
+<div class="paragraph">
+<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
+</div>
+<div class="paragraph">
+<p><a href="http://razbor-poletov.com/broadcast.html">Информация о вещании</a></p>
+</div>
+<div class="paragraph">
+<p>Гости и участники:</p>
+</div>
+<div class="paragraph">
+<p>twitter:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/jbaruch">@jbaruch</a></p>
+</li>
+</ul>
+</div>
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_80.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+<div class="paragraph">
+<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
+</div>
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_80.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+<div class="paragraph">
+<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
+</div>
+</div>
+</div>]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 79 — Делать Open Source и Заколачивать Бабки]]></title>
@@ -4346,47 +4470,6 @@ The 2013 JavaOne Russia Call-for-Papers is open.  Deadline for submissions is Fe
 <p><a href="http://traffic.libsyn.com/razborpoletov/razbor_32.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
 
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Announce: AWS team in Moscow]]></title>
-    <link href="http://razbor-poletov.com/2013/01/aws-announce.html"/>
-    <updated>2013-01-24T16:44:00-05:00</updated>
-    <id>http://razbor-poletov.com/2013/01/aws-announce</id>
-    <content type="html"><![CDATA[<p>Уважаемые слушатели подкаста «Разбор полетов»!</p>
-
-<p>Мы приготовили для Вас небольшой сюрприз - в один из следующих выпусков мы пригласили менеджера по разработке из компании <strong>Amazon</strong>, который занимается проектом <a href="http://aws.amazon.com/elasticmapreduce/">Elastic MapReduce</a> и некоторыми другими в области Big Data. В феврале в Москве будет проходить рекрутинговое событие, на котором будут набираться разработчики в разные команды Amazon Web-Services, поэтому наш гость расскажет как это будет происходить, как туда попасть и чем надо будет заниматься в Сиэтле.</p>
-
-<p>Кроме того, он с удовольствием ответит на ваши вопросы, поэтому оставляйте их в комментариях к этому посту или в Google+ и мы постараемся их все задать.</p>
-
-<p>Спасибо.</p>
-
-<p><audio preload="none">
-  <source src="http://traffic.libsyn.com/razborpoletov/announce_aws.mp3" type="audio/mp3" />
-  Your browser does not support the audio tag.
-</audio></p>
-
-<table cellpadding="0" cellspacing="0" class="tr-caption-container" style=
-  "margin-left: auto; margin-right: auto; text-align: center;">
-    <tbody>
-      <tr>
-        <td style="text-align: center;"><a href=
-        "http://traffic.libsyn.com/razborpoletov/announce_aws.mp3" imageanchor="1" style=
-        "clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0"
-        height="64" src=
-        "http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png"
-        width="64" /></a></td>
-      </tr>
-
-      <tr>
-        <td class="tr-caption" style="text-align: center;">
-        &#1057;&#1082;&#1072;&#1095;&#1072;&#1090;&#1100; mp3
-        &#1073;&#1077;&#1089;&#1087;&#1083;&#1072;&#1090;&#1085;&#1086;&nbsp;</td>
-      </tr>
-    </tbody>
-  </table>
-
 ]]></content>
   </entry>
   
