@@ -35,6 +35,8 @@ categories:
 * http://blog.hazelcast.com/2015/02/19/hazelcasts-business-model-open-source-open-standards-community/[Бизнес-модель Hazelcast] и https://hazelcast.atlassian.net/wiki/display/COM/Hazelcast+Enhancement+Proposals[Инкубатор]
 * А как же Апачи зарабатывают? http://www.apache.org/foundation/thanks.html[1] http://www.apache.org/foundation/sponsorship.html[2]
 
+Ссылки, упомянутые в беседе, ищите в https://gitter.im/razbor-poletov/razbor-poletov.github.com/archives/2015/03/08[логе чата].
+
 == Релизы недели
 
 http://googledevelopers.blogspot.com/2015/02/introducing-grpc-new-open-source-http2.html[gRPC]
