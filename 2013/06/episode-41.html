@@ -55,12 +55,12 @@ SQl Joins В компании мечты &hellip;">
 <link href="https://plus.google.com/106834666485863668012" rel="publisher"/>
 <script>
 $(document).ready(function() {
-  $('video,audio').mediaelementplayer({
+  jQuery('video,audio').mediaelementplayer({
       audioWidth: 500,
       audioHeight: 30,
       startVolume: 0.8
   });
-  $('a').each(function() {
+  jQuery('a').each(function() {
      var a = new RegExp('/' + window.location.host + '/');
      if(!a.test(this.href)) {
          $(this).click(function(event) {
