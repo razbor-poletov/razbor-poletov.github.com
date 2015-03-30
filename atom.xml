@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2015-03-29T22:45:53-04:00</updated>
+  <updated>2015-03-29T22:46:30-04:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov]]></name>
@@ -20,11 +20,7 @@
     <id>http://razbor-poletov.com/2015/03/episode-81</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-    <a href="http://razbor-poletov.com/images/razbor_81_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
-        <img border="0" height="350" src="http://razbor-poletov.com/images/razbor_81_text.jpg" width="350" />
-    </a>
-</div>
+<div class="separator" style="clear: both; text-align: center;"><a href="http://razbor-poletov.com/images/razbor_81_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_81_text.jpg" width="350" /></a></div>
 </div>
 </div>
 <div class="sect1">
