@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2015-03-29T22:51:48-04:00</updated>
+  <updated>2015-03-29T22:56:01-04:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov]]></name>
@@ -62,7 +62,7 @@
 <p><a href="http://blog.jetbrains.com/idea/2015/03/intellij-idea-14-1-is-here/">Рендеринг шрифтов в OSX</a></p>
 </li>
 <li>
-<p><a href="https://confluence.jetbrains.com/display/IDEADEV/IDEA+14.1+EAP" class="bare">https://confluence.jetbrains.com/display/IDEADEV/IDEA+14.1+EAP</a> [скачать IDEA со вшитой JDK]</p>
+<p><a href="https://confluence.jetbrains.com/display/IDEADEV/IDEA+14.1+EAP">скачать IDEA со вшитой JDK</a></p>
 </li>
 <li>
 <p><a href="http://arhipov.blogspot.com/2015/03/intellij-idea-141-distraction-free-mode.html" class="bare">http://arhipov.blogspot.com/2015/03/intellij-idea-141-distraction-free-mode.html</a></p>
