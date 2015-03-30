@@ -1,0 +1,74 @@
+---
+comments: true
+categories: 
+---
+
+= Episode 81 — Про кишочки
+2015-03-29 22:14
+:layout: post
+:filename: razbor_81
+
+++++
+<div class="separator" style="clear: both; text-align: center;"><a href="http://razbor-poletov.com/images/razbor_81_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_81_text.jpg" width="350" /></a></div>
+++++
+
+== Гость Алексей Шипитёв
+
+- https://twitter.com/shipilev/status/578193813946134529[О работе Performance инженеров]
+- http://shipilev.net/#performance-101[Для начинающих]
+- https://twitter.com/23derevo/status/504875752991768576[Мнения] о http://openjdk.java.net/projects/code-tools/jmh/[JMH]                
+- http://en.wiktionary.org/wiki/benchmarketing[Benchmarketing]
+- http://en.wikipedia.org/wiki/Jikes_RVM[Jikes RVM ]
+- Книги: http://gchandbook.org[1] http://www.amazon.com/Java-Performance-Charlie-Hunt/dp/0137142528[2]
+
+== Впечатления про 14.1
+
+- http://blog.jetbrains.com/idea/2015/03/intellij-idea-14-1-is-here/[IntelliJ IDEA 14.1]
+- http://blog.jetbrains.com/idea/2015/03/intellij-idea-14-1-is-here/[Рендеринг шрифтов в OSX]
+- https://confluence.jetbrains.com/display/IDEADEV/IDEA+14.1+EAP[скачать IDEA со вшитой JDK]
+- http://arhipov.blogspot.com/2015/03/intellij-idea-141-distraction-free-mode.html
+- Шрифтики https://mozilla.github.io/Fira/[Fira] и http://input.fontbureau.com[Input]
+- https://github.com/develar/settings-repository
+
+== Полезняшки
+
+- Микрофреймворки http://jodd.org/ и http://www.ninjaframework.org
+- `javapackager` http://arhipov.blogspot.com/2015/03/packaging-java-application-for-mac-os.html[1] http://docs.oracle.com/javase/8/docs/technotes/guides/deploy/self-contained-packaging.html[2]. https://itunes.apple.com/us/app/icon-slate/id439697913?mt=12[Сделать иконку]
+- https://github.com/KeyboardFire/mkcast[GIF screencasts of a terminal]
+- http://stedolan.github.io/jq/[JQ - XPath для JSON]
+
+'''
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com[http://razbor-poletov.com]
+
+http://razbor-poletov.com/broadcast.html[Информация о вещании]
+
+Гости и участники:
+
+twitter:
+
+  * https://twitter.com/a_abashev[@a_abashev]
+  * https://twitter.com/antonarhipov[@antonarhipov]
+  * https://twitter.com/gamussa[@gamussa]
+  * https://twitter.com/tolkv[@tolkv]
+  * https://twitter.com/shipilev[@shipilev]
+
+++++
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_81.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+++++
+
+Подписаться по http://feeds.feedburner.com/razbor-podcast[RSS]
+
+++++
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_81.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+++++
+
+Музыка ведущим http://www.audiobank.fm/single-music/27/111/More-And-Less/[предоставлена] и ладно...
