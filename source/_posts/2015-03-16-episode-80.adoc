@@ -5,6 +5,7 @@ categories:
 
 = Episode 80 — Небольшой конференционный
 2015-03-16 10:30
+:layout: post
 
 ++++
 <div class="separator" style="clear: both; text-align: center;">
