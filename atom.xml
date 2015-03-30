@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2015-03-29T15:47:53-04:00</updated>
+  <updated>2015-03-29T22:44:52-04:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov]]></name>
@@ -12,6 +12,146 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 81 — Про кишочки]]></title>
+    <link href="http://razbor-poletov.com/2015/03/episode-81.html"/>
+    <updated>2015-03-29T00:00:00-04:00</updated>
+    <id>http://razbor-poletov.com/2015/03/episode-81</id>
+    <content type="html"><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="separator" style="clear: both; text-align: center;">
+    <a href="http://razbor-poletov.com/images/razbor_81_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+        <img border="0" height="350" src="http://razbor-poletov.com/images/razbor_81_text.jpg" width="350" />
+    </a>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Гость-Алексей-Шипитёв">Гость Алексей Шипитёв</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://twitter.com/shipilev/status/578193813946134529">О работе Performance инженеров</a></p>
+</li>
+<li>
+<p><a href="http://shipilev.net/#performance-101">Для начинающих</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/23derevo/status/504875752991768576">Мнения</a> о <a href="http://openjdk.java.net/projects/code-tools/jmh/">JMH</a></p>
+</li>
+<li>
+<p><a href="http://en.wiktionary.org/wiki/benchmarketing" class="bare">http://en.wiktionary.org/wiki/benchmarketing</a> [Benchmarketing]</p>
+</li>
+<li>
+<p><a href="http://en.wikipedia.org/wiki/Jikes_RVM">Jikes RVM </a></p>
+</li>
+<li>
+<p>Книги: <a href="http://gchandbook.org">1</a> <a href="http://www.amazon.com/Java-Performance-Charlie-Hunt/dp/0137142528">2</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Впечатления-про-14-1">Впечатления про 14.1</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="http://blog.jetbrains.com/idea/2015/03/intellij-idea-14-1-is-here/">IntelliJ IDEA 14.1</a></p>
+</li>
+<li>
+<p><a href="http://blog.jetbrains.com/idea/2015/03/intellij-idea-14-1-is-here/">Рендеринг шрифтов в OSX</a></p>
+</li>
+<li>
+<p><a href="https://confluence.jetbrains.com/display/IDEADEV/IDEA+14.1+EAP" class="bare">https://confluence.jetbrains.com/display/IDEADEV/IDEA+14.1+EAP</a> [скачать IDEA со вшитой JDK]</p>
+</li>
+<li>
+<p><a href="http://arhipov.blogspot.com/2015/03/intellij-idea-141-distraction-free-mode.html" class="bare">http://arhipov.blogspot.com/2015/03/intellij-idea-141-distraction-free-mode.html</a></p>
+</li>
+<li>
+<p>Шрифтики <a href="https://mozilla.github.io/Fira/">Fira</a> и <a href="http://input.fontbureau.com">Input</a></p>
+</li>
+<li>
+<p><a href="https://github.com/develar/settings-repository" class="bare">https://github.com/develar/settings-repository</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Полезняшки">Полезняшки</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Микрофреймворки <a href="http://jodd.org/" class="bare">http://jodd.org/</a> и <a href="http://www.ninjaframework.org" class="bare">http://www.ninjaframework.org</a></p>
+</li>
+<li>
+<p><code>javapackager</code> <a href="http://arhipov.blogspot.com/2015/03/packaging-java-application-for-mac-os.html">1</a> <a href="http://docs.oracle.com/javase/8/docs/technotes/guides/deploy/self-contained-packaging.html">2</a>. <a href="https://itunes.apple.com/us/app/icon-slate/id439697913?mt=12">Сделать иконку</a></p>
+</li>
+<li>
+<p><a href="https://github.com/KeyboardFire/mkcast">GIF screencasts of a terminal</a></p>
+</li>
+<li>
+<p><a href="http://stedolan.github.io/jq/">JQ - XPath для JSON</a></p>
+</li>
+</ul>
+</div>
+<hr>
+<div class="paragraph">
+<p>Наши контакты:</p>
+</div>
+<div class="paragraph">
+<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
+</div>
+<div class="paragraph">
+<p><a href="http://razbor-poletov.com/broadcast.html">Информация о вещании</a></p>
+</div>
+<div class="paragraph">
+<p>Гости и участники:</p>
+</div>
+<div class="paragraph">
+<p>twitter:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://twitter.com/a_abashev">@a_abashev</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/antonarhipov">@antonarhipov</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/tolkv">@tolkv</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/shipilev">@shipilev</a></p>
+</li>
+</ul>
+</div>
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_81.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+<div class="paragraph">
+<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
+</div>
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_80.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+<div class="paragraph">
+<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
+</div>
+</div>
+</div>]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 80 — Небольшой конференционный]]></title>
@@ -4393,81 +4533,6 @@ January 30, 2014 from 6:00 PM to 8:30 PM, New York, NY</p>
 
 
 <p><a href="http://traffic.libsyn.com/razborpoletov/razbor_33.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
-
-<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 32 — Война миров]]></title>
-    <link href="http://razbor-poletov.com/2013/01/episode-32.html"/>
-    <updated>2013-01-27T20:06:00-05:00</updated>
-    <id>http://razbor-poletov.com/2013/01/episode-32</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="http://razbor-poletov.com/images/razbor_32_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="300" src="http://razbor-poletov.com/images/razbor_32_text.jpg" width="300" /></a></div>
-
-
-<p>В этом выпуске к нам наконец-то пришел <a href="https://twitter.com/dnesteruk">правильный человек из мира <strong>.NET</strong></a> и воздает нам за «оргии MVP». Заодно обсудили следующие темы:</p>
-
-<ul>
-<li><a href="http://blog.8thlight.com/ben-voss/2013/01/15/how-to-be-a-great-pair.html">Каждой твари - по харе</a></li>
-<li><a href="http://techcrunch.com/2013/01/12/10-reasons-why-2013-will-be-the-year-you-quit-your-job/">ААА, мы все умрем </a></li>
-<li><a href="http://owenou.com/2012/01/13/ten-things-you-didnt-know-git-and-github-could-do.html">Многополезняшка</a></li>
-<li><a href="http://blog.springsource.org/2013/01/16/next-stop-spring-framework-4-0/">Next Stop: Spring Framework 4.0</a></li>
-<li><a href="http://arhipov.blogspot.com/2012/11/do-you-really-get-your-ide.html">Треп за IDE</a></li>
-<li>Внеклассное чтение - <a href="http://highscalability.com/blog/2013/1/16/what-if-cars-were-rented-like-we-hire-programmers.html">High Scalability - What if Cars Were Rented Like We Hire Programmers? </a></li>
-</ul>
-
-
-<hr />
-
-<pre><code>Внимание!
-
-The 2013 JavaOne Russia Call-for-Papers is open.  Deadline for submissions is February 15th.
-- Feel free to re-tweet: https://twitter.com/gigabel/status/291511211760156672
-- Call-for-Papers English page: http://javaone.ru/homeen
-- Call-for-Papers Russian page: http://javaone.ru
-- Official event hashtag is: #JavaOneRussia
-- Official twitter of the event is: @JavaOneRussia 
-</code></pre>
-
-<p>Наши контакты:</p>
-
-<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
-
-<p>twitter:</p>
-
-<ul>
-<li><a href="https://twitter.com/#!/a_abashev">@a_abashev</a></li>
-<li><a href="https://twitter.com/#!/gamussa">@gamussa</a></li>
-<li><a href="https://twitter.com/antonarhipov">@antonarhipov</a></li>
-<li><a href="https://twitter.com/dnesteruk">Гость</a></li>
-</ul>
-
-
-<p>G+:</p>
-
-<ul>
-<li><a href="http://gplus.to/gAmUssA">gplus.to/gAmUssA</a></li>
-<li><a href="http://gplus.to/aabashev">gplus.to/aabashev</a></li>
-<li><a href="http://gplus.to/dmitryc">gplus.to/dmitryc</a></li>
-</ul>
-
-
-<!-- player goes here-->
-
-
-<p><audio preload="none">
-  <source src="http://traffic.libsyn.com/razborpoletov/razbor_32.mp3" type="audio/mp3" />
-  Your browser does not support the audio tag.
-</audio></p>
-
-<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
-
-<!-- episode file link goes here-->
-
-
-<p><a href="http://traffic.libsyn.com/razborpoletov/razbor_32.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
 
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
 ]]></content>
