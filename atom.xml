@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2015-03-29T22:46:30-04:00</updated>
+  <updated>2015-03-29T22:51:48-04:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov]]></name>
@@ -38,7 +38,7 @@
 <p><a href="https://twitter.com/23derevo/status/504875752991768576">Мнения</a> о <a href="http://openjdk.java.net/projects/code-tools/jmh/">JMH</a></p>
 </li>
 <li>
-<p><a href="http://en.wiktionary.org/wiki/benchmarketing" class="bare">http://en.wiktionary.org/wiki/benchmarketing</a> [Benchmarketing]</p>
+<p><a href="http://en.wiktionary.org/wiki/benchmarketing">Benchmarketing</a></p>
 </li>
 <li>
 <p><a href="http://en.wikipedia.org/wiki/Jikes_RVM">Jikes RVM </a></p>
