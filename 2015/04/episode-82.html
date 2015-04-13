@@ -5,11 +5,11 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>Поздравительная открытка — 2013 - Подкаст «Разбор Полетов»</title>
+  <title>Episode 82 — Докладчик без слайдов - Подкаст «Разбор Полетов»</title>
   <meta name="author" content="Viktor Gamov, Alexey Abashev, Dmitry Churbanov">
 
   
-  <meta name="description" content="Уважаемые слушатели! Поздравляем с наступающим Новым Годом и Рождеством! Поздравления с Новым Годом принимает компания ZeroTurnaround. Лучшие &hellip;">
+  <meta name="description" content="Проект «Без слайдов» Epic Fail Story как Витя заводил Glassfish под 10.10.3 [1] [2]. Проблема вся в чем? Новости одной строкой XRebel 2.0 вышел в &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -18,7 +18,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://razbor-poletov.com/2013/12/greeting-card-2013.html">
+  <link rel="canonical" href="http://razbor-poletov.com/2015/04/episode-82.html">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <!-- <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script> -->
@@ -119,7 +119,7 @@ $(document).ready(function() {
   
   <header>
     
-      <h1 class="entry-title">Поздравительная открытка — 2013</h1>
+      <h1 class="entry-title">Episode 82 — Докладчик без слайдов</h1>
     
     
       <p class="meta">
@@ -135,7 +135,7 @@ $(document).ready(function() {
   
 
 
-<time datetime="2013-12-28T15:05:00-05:00" pubdate data-updated="true">Dec 28<span>th</span>, 2013</time>
+<time datetime="2015-04-12T00:00:00-04:00" pubdate data-updated="true">Apr 12<span>th</span>, 2015</time>
         
          | <a href="#disqus_thread">Comments</a>
         
@@ -144,25 +144,126 @@ $(document).ready(function() {
   </header>
 
 
-<div class="entry-content"><p>Уважаемые слушатели!</p>
-
-<p>Поздравляем с наступающим Новым Годом и Рождеством!</p>
-
+<div class="entry-content"><div id="preamble">
+<div class="sectionbody">
 <div class="separator" style="clear: both; text-align: center;">
-<a href="http://www.click2crop.com/postcard/big/aerspa017.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/aerspa017.jpg"/></a>
+<a href="http://razbor-poletov.com/images/razbor_82_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_82_text.jpg" width="350" /></a>
 </div>
-
-
-<p>Поздравления с Новым Годом принимает компания <a href="http://zeroturnaround.com/">ZeroTurnaround</a>. Лучшие поздравления будут премированы <a href="http://www.amazon.com/Kindle-Paperwhite-Ereader/dp/B00AWH595M/"><strong>Kindle Paperwhite</strong></a>. В качестве поздравлений принимаются скринкасты, блогпосты или классные багрепорты о JRebel или LiveRebel.</p>
-
-<p>Поздравления с Новым Годом принимает компания <a href="http://infobox.ru/">InfoboxCloud</a>. Лучшие поздравления, скринкасты и блогпосты будут премированы зачислением <strong>2014 рублей</strong> на счет ваших аккаунтов платформы <a href="http://jelastic.com/">Jelastic</a> в облаке <a href="http://infobox.ru/">InfoboxCloud</a>. Все остальные слушатели подкаста получают <strong>201.4 рубля</strong> на счет, <strong>3 клаудлета и 1 ip адрес бесплатно</strong> и навсегда после перехода с триала в коммерческий режим, просто зарегистрировавшись по <a href="http://infoboxcloud.ru/promo/tryjelastic2014/">ссылке</a>.</p>
-
-<p>Так же поздравления принимают компании <a href="http://www.jetbrains.com/">Jetbrains</a> и <a href="http://www.jfrog.com/">JFrog</a>. Лучшие поздравления будут премированы клёвыми футболками от JFrog и лицензиями на <a href="http://www.jetbrains.com/idea/">IntelliJ IDEA 13</a>.</p>
-
-<p>Свои поздравления оставляйте в комментариях к этому посту или в G+ (ссылка на этот пост должна присутствовать).</p>
-
-<p><a href="http://razbor-poletov.com">Редакция подкаста «Разбор Полетов»</a></p>
+<div class="paragraph">
+<p><a href="http://habrahabr.ru/company/jugru/blog/255219/">Проект «Без слайдов»</a></p>
 </div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="epic-fail-story">Epic Fail Story</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>как Витя заводил Glassfish под 10.10.3 <a href="https://java.net/jira/browse/GLASSFISH-21343">[1</a>] <a href="https://java.net/projects/glassfish/sources/svn/content/trunk/main/nucleus/admin/launcher/src/main/java/com/sun/enterprise/admin/launcher/GFLauncher.java?rev=63819">[2</a>]. <a href="https://truesecdev.wordpress.com/2015/04/09/hidden-backdoor-api-to-root-privileges-in-apple-os-x/">Проблема вся в чем?</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Новости-одной-строкой">Новости одной строкой</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="http://zeroturnaround.com/software/xrebel/features/">XRebel 2.0 вышел в свет</a></p>
+</li>
+<li>
+<p>В Intellij IDEA 14.1.2 EAP починили груви</p>
+</li>
+<li>
+<p>Полезный плагин <a href="https://eddy.systems/" class="bare">https://eddy.systems/</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Полезные-люди-на-stackoverflow">Полезные люди на Stackoverflow:</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="http://stackoverflow.com/users/3553087/brian-goetz?tab=answers">Brian Goetz</a></p>
+</li>
+<li>
+<p><a href="http://stackoverflow.com/users/1441122/stuart-marks?tab=answers">Stuart Marks</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Вышел-grails-3-0">Вышел Grails 3.0</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="http://grails.io/post/115110650393/grails-3-0-released-and-the-road-ahead">Вышел Grails 3.0 с кучей новых штучек</a></p>
+</li>
+<li>
+<p><a href="https://groups.google.com/forum/#!topic/grails-dev-discuss/6R2YaF96Uts">но не всем это по-вкусу</a></p>
+</li>
+<li>
+<p><a href="http://arhipov.blogspot.com/2015/04/grails-3-released-setting-up-javaagent.html">И <code>-javaagent</code> в него прикручивать нетривиально</a></p>
+</li>
+<li>
+<p><a href="http://interact.stltoday.com/pr/business/PR040915114421060">А ещё, у Grails новый дом</a></p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><a href="http://mobiusconf.com/presentations/Mobius2015_MatveyMalkov.pdf" class="bare">http://mobiusconf.com/presentations/Mobius2015_MatveyMalkov.pdf</a></p>
+</div>
+<hr>
+<div class="paragraph">
+<p>Наши контакты:</p>
+</div>
+<div class="paragraph">
+<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
+</div>
+<div class="paragraph">
+<p><a href="http://razbor-poletov.com/broadcast.html">Информация о вещании</a></p>
+</div>
+<div class="paragraph">
+<p>Гости и участники:</p>
+</div>
+<div class="paragraph">
+<p>twitter:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://twitter.com/antonarhipov">@antonarhipov</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/tolkv">@tolkv</a></p>
+</li>
+</ul>
+</div>
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_82.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+<div class="paragraph">
+<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
+</div>
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_82.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;">
+  <img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" />
+</a>
+<div class="paragraph">
+<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
+</div>
+</div>
+</div></div>
 
 
   <footer>
@@ -170,7 +271,7 @@ $(document).ready(function() {
       
   
 
-<span class="byline author vcard">Posted by <span class="fn">Viktor Gamov, Alexey Abashev, Dmitry Churbanov</span></span>
+<span class="byline author vcard">Posted by <span class="fn">2015-04-12 18:45</span></span>
 
       
 
@@ -184,7 +285,7 @@ $(document).ready(function() {
   
 
 
-<time datetime="2013-12-28T15:05:00-05:00" pubdate data-updated="true">Dec 28<span>th</span>, 2013</time>
+<time datetime="2015-04-12T00:00:00-04:00" pubdate data-updated="true">Apr 12<span>th</span>, 2015</time>
       
 
 
@@ -203,10 +304,8 @@ $(document).ready(function() {
     
     <p class="meta">
       
-        <a class="basic-alignment left" href="/2013/12/episode-52.html" title="Previous Post: Episode 52 — Главный по IDEA">&laquo; Episode 52 — Главный по IDEA</a>
+        <a class="basic-alignment left" href="/2015/03/episode-81.html" title="Previous Post: Episode 81 — Про кишочки">&laquo; Episode 81 — Про кишочки</a>
       
-      
-        <a class="basic-alignment right" href="/2014/01/episode-53.html" title="Next Post: Episode 53 — Цейлонский выпуск">Episode 53 — Цейлонский выпуск &raquo;</a>
       
     </p>
   </footer>
@@ -318,8 +417,8 @@ $(document).ready(function() {
       
         
         // var disqus_developer = 1;
-        var disqus_identifier = 'http://razbor-poletov.com/2013/12/greeting-card-2013.html';
-        var disqus_url = 'http://razbor-poletov.com/2013/12/greeting-card-2013.html';
+        var disqus_identifier = 'http://razbor-poletov.com/2015/04/episode-82.html';
+        var disqus_url = 'http://razbor-poletov.com/2015/04/episode-82.html';
         var disqus_script = 'embed.js';
       
 
@@ -333,7 +432,7 @@ $(document).ready(function() {
 
 <script>
     gapi.comments.render('gplus-pingback', { 
-	    href: 'http://razbor-poletov.com/2013/12/greeting-card-2013.html',
+	    href: 'http://razbor-poletov.com/2015/04/episode-82.html',
         first_party_property: 'BLOGGER',
         view_type: 'FILTERED_POSTMOD'
     });
