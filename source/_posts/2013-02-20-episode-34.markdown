@@ -10,7 +10,7 @@ categories:
 <a href="http://razbor-poletov.com/images/razbor_34_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_34_text.jpg" width="350" /></a></div>
 
 - [Почему надо сделать лабу](http://www.theregister.co.uk/2013/02/07/home_lab_career_saver/)
-- [Кэширование для начинающих](http://blog.enoughtobedanger.us/caching-for-beginners/ )
+- [Кэширование для начинающих](http://blog.enoughtobedanger.us/caching-for-beginners/)
 - Полезняшка
     - [Java Mini Profiler](https://github.com/alvins82/java-mini-profiler-core)
     - [SouceLabs](https://saucelabs.com)
