@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2015-04-13T17:09:24-04:00</updated>
+  <updated>2015-04-13T17:10:27-04:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov]]></name>
@@ -23,8 +23,20 @@
 <div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_82_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_82_text.jpg" width="350" /></a>
 </div>
-<div class="paragraph">
+</div>
+</div>
+<div class="sect1">
+<h2 id="Все-на-jpoint">Все на Jpoint!</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="http://javapoint.ru">JPoint</a></p>
+</li>
+<li>
 <p><a href="http://habrahabr.ru/company/jugru/blog/255219/">Проект «Без слайдов»</a></p>
+</li>
+</ul>
 </div>
 </div>
 </div>
