@@ -1,0 +1,78 @@
+---
+comments: true
+categories: 
+---
+
+= Episode 82 — Докладчик без слайдов
+2015-04-12 18:45
+:layout: post
+:filename: razbor_82
+
+++++
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_82_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_82_text.jpg" width="350" /></a>
+</div>
+++++
+
+== Все на Jpoint!
+
+- http://javapoint.ru[JPoint]
+- http://habrahabr.ru/company/jugru/blog/255219/[Проект «Без слайдов»]  
+
+== Epic Fail Story
+
+как Витя заводил Glassfish под 10.10.3 https://java.net/jira/browse/GLASSFISH-21343[[1]] https://java.net/projects/glassfish/sources/svn/content/trunk/main/nucleus/admin/launcher/src/main/java/com/sun/enterprise/admin/launcher/GFLauncher.java?rev=63819[[2]]. https://truesecdev.wordpress.com/2015/04/09/hidden-backdoor-api-to-root-privileges-in-apple-os-x/[Проблема вся в чем?] 
+
+== Новости одной строкой
+
+- http://zeroturnaround.com/software/xrebel/features/[XRebel 2.0 вышел в свет] 
+- В Intellij IDEA 14.1.2 EAP починили груви
+- Полезный плагин https://eddy.systems/
+
+== Полезные люди на Stackoverflow:
+
+- http://stackoverflow.com/users/3553087/brian-goetz?tab=answers[Brian Goetz]
+- http://stackoverflow.com/users/1441122/stuart-marks?tab=answers[Stuart Marks]
+
+== Вышел Grails 3.0
+
+- http://grails.io/post/115110650393/grails-3-0-released-and-the-road-ahead[Вышел Grails 3.0 с кучей новых штучек]
+- https://groups.google.com/forum/#!topic/grails-dev-discuss/6R2YaF96Uts[но не всем это по-вкусу]
+- http://arhipov.blogspot.com/2015/04/grails-3-released-setting-up-javaagent.html[И `-javaagent` в него прикручивать нетривиально] 
+- http://interact.stltoday.com/pr/business/PR040915114421060[А ещё, у Grails новый дом]
+
+http://mobiusconf.com/presentations/Mobius2015_MatveyMalkov.pdf 
+
+'''
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com[http://razbor-poletov.com]
+
+http://razbor-poletov.com/broadcast.html[Информация о вещании]
+
+Гости и участники:
+
+twitter:
+
+  * https://twitter.com/antonarhipov[@antonarhipov]
+  * https://twitter.com/gamussa[@gamussa]
+  * https://twitter.com/tolkv[@tolkv]
+
+++++
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_82.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+++++
+
+Подписаться по http://feeds.feedburner.com/razbor-podcast[RSS]
+
+++++
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_82.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+++++
+
+Музыка ведущим http://www.audiobank.fm/single-music/27/111/More-And-Less/[предоставлена] и ладно...
