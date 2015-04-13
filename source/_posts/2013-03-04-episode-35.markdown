@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Episode 35 – Client-side I'm sexy and I know it!"
+title: "Episode 35 — Client-side I'm sexy and I know it!"
 date: 2013-03-04 22:10
 comments: true
 categories: 
