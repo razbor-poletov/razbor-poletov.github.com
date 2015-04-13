@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2015-04-13T17:12:25-04:00</updated>
+  <updated>2015-04-13T17:29:46-04:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov]]></name>
@@ -1036,7 +1036,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Episode 75 - Java вся такая белая и пушистая и в контейнере]]></title>
+    <title type="html"><![CDATA[Episode 75 — Java вся такая белая и пушистая и в контейнере]]></title>
     <link href="http://razbor-poletov.com/2015/01/episode-75.html"/>
     <updated>2015-01-11T17:20:00-05:00</updated>
     <id>http://razbor-poletov.com/2015/01/episode-75</id>
@@ -1108,7 +1108,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Episode 74 - Ретроспективы и прогнозы]]></title>
+    <title type="html"><![CDATA[Episode 74 — Ретроспективы и прогнозы]]></title>
     <link href="http://razbor-poletov.com/2014/12/episode-74.html"/>
     <updated>2014-12-28T15:47:00-05:00</updated>
     <id>http://razbor-poletov.com/2014/12/episode-74</id>
@@ -4421,7 +4421,7 @@ January 30, 2014 from 6:00 PM to 8:30 PM, New York, NY</p>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Episode 35 – Client-side I'm sexy and I know it!]]></title>
+    <title type="html"><![CDATA[Episode 35 — Client-side I'm sexy and I know it!]]></title>
     <link href="http://razbor-poletov.com/2013/03/episode-35.html"/>
     <updated>2013-03-04T22:10:00-05:00</updated>
     <id>http://razbor-poletov.com/2013/03/episode-35</id>
@@ -4523,7 +4523,7 @@ January 30, 2014 from 6:00 PM to 8:30 PM, New York, NY</p>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Episode 34 – Идут лабораторные работы]]></title>
+    <title type="html"><![CDATA[Episode 34 — Идут лабораторные работы]]></title>
     <link href="http://razbor-poletov.com/2013/02/episode-34.html"/>
     <updated>2013-02-20T17:11:00-05:00</updated>
     <id>http://razbor-poletov.com/2013/02/episode-34</id>
