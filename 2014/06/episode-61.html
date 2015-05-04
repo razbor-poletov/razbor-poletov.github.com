@@ -27,7 +27,7 @@ Go to the special registration page &hellip;">
   <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
   <!-- <script src="/javascripts/modernizr-2.0.js"></script> -->
   <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js"></script>
-  <!-- <script src="/javascripts/ender.js"></script> -->
+  <script src="/javascripts/ender.js"></script>
   <script src="/javascripts/octopress.js" type="text/javascript"></script>
   <link href="http://feeds.feedburner.com/razbor-podcast" rel="alternate" title="Подкаст «Разбор Полетов»" type="application/atom+xml">
   <script type="text/javascript">
@@ -51,12 +51,12 @@ Go to the special registration page &hellip;">
 <link href="https://plus.google.com/106834666485863668012" rel="publisher"/>
 <script>
 $(document).ready(function() {
-  jQuery('video,audio').mediaelementplayer({
+  $('video,audio').mediaelementplayer({
       audioWidth: 500,
       audioHeight: 30,
       startVolume: 0.8
   });
-  jQuery('a').each(function() {
+  $('a').each(function() {
      var a = new RegExp('/' + window.location.host + '/');
      if(!a.test(this.href)) {
          $(this).click(function(event) {
