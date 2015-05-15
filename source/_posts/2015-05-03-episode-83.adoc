@@ -1,8 +1,7 @@
 ---
 comments: true
-categories: 
+categories: podcast
 ---
-
 = Episode 83 — Привет с JPoint
 2015-05-03 19:03
 :layout: post

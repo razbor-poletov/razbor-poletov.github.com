@@ -1,8 +1,7 @@
 ---
 comments: true
-categories: 
+categories: podcast
 ---
-
 = Episode 82 — Докладчик без слайдов
 2015-04-12 18:45
 :layout: post
