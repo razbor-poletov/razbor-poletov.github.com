@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2015-05-17T15:58:55-04:00</updated>
+  <updated>2015-05-18T14:44:54-04:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov]]></name>
@@ -12,6 +12,224 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 84 - Прототипируй динамично!]]></title>
+    <link href="http://razbor-poletov.com/2015/05/episode-84.html"/>
+    <updated>2015-05-17T00:00:00-04:00</updated>
+    <id>http://razbor-poletov.com/2015/05/episode-84</id>
+    <content type="html"><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>Внимание, выпуск <strong>18+</strong></p>
+</div>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_84_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_84_text.jpg" width="350" /></a>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Новости-одной-строкой">Новости одной строкой:</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="http://mail.openjdk.java.net/pipermail/jdk9-dev/2015-May/002172.html">Java 9: сэйв зэ дэйт!</a></p>
+</li>
+<li>
+<p><a href="https://github.com/google/guice/wiki/Guice40">Guice 4.0</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="http://www.thoughtworks.com/radar">Новый выпуск ThoughtWorks Tech Radar</a>. <a href="https://twitter.com/bodil/status/597766837548507136">Есть мнение что надо думать головой</a></p>
+</li>
+<li>
+<p><a href="https://www.voxxed.com/blog/2015/05/youre-not-going-microservices/">Микросервисы - не торт!</a></p>
+</li>
+<li>
+<p><a href="https://www.dartlang.org/events/2015/summit/">Интересности с Dart Developer Summit 2015</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Тема-выпуска-Прототипирование">Тема выпуска: Прототипирование</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><em>Задача: как делать _живые</em> прототипы <em>быстро</em> и с достаточной точностью?_</p>
+</div>
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p><a href="https://balsamiq.com/">Balsamiq</a> - хорош только для того чтобы набросать идею, но точности в нём нехватает.</p>
+</li>
+<li>
+<p>Простой подход: рисовать в битмэп-редакторах: а-ля <strong>Paint.NET</strong>, <strong>Seashore</strong>, <strong>Paintbrush</strong>, <strong>Pixelmator</strong></p>
+<div class="ulist">
+<ul>
+<li>
+<p>трудно рисовать</p>
+</li>
+<li>
+<p>нет интерактивности</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Сложный подход</p>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="http://www.axure.com/">Axure</a> - штука для провессиональных UX-дизайнеров. Довольно сложная.</p>
+</li>
+<li>
+<p><a href="https://www.uxpin.com">UXPin</a> выглядит очень многообещающе. Есть интеграция со Sketch и Photoshop</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Требуется время на освоение</p>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://www.omnigroup.com/omnigraffle" class="bare">https://www.omnigroup.com/omnigraffle</a></p>
+</li>
+<li>
+<p><a href="https://www.lucidchart.com/personahomepage" class="bare">https://www.lucidchart.com/personahomepage</a></p>
+</li>
+<li>
+<p><a href="http://bohemiancoding.com/sketch/" class="bare">http://bohemiancoding.com/sketch/</a></p>
+</li>
+<li>
+<p><a href="http://www.justinmind.com" class="bare">http://www.justinmind.com</a></p>
+</li>
+</ul>
+</div>
+</li>
+</ol>
+</div>
+<div class="paragraph">
+<p><em>&gt;&gt;&gt;&gt;&gt; Но это же не наш метод!&lt;&lt;&lt;&lt;&lt;</em></p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://www.google.com/webdesigner/" class="bare">https://www.google.com/webdesigner/</a></p>
+</li>
+<li>
+<p><a href="https://facebook.github.io/origami/" class="bare">https://facebook.github.io/origami/</a></p>
+</li>
+<li>
+<p><a href="http://semantic-ui.com/">Semantic-UI</a></p>
+</li>
+<li>
+<p>Angular? Dart?</p>
+</li>
+<li>
+<p><a href="http://www.layoutit.com/">Генераторы для Bootstrap а-ля</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Полезняшки">Полезняшки</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><a href="http://pilots.razbor-poletov.com/#/useful">Полезняшки искать тут</a></p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="http://blog.arungupta.me/jdk9-repl-getting-started/">REPL в Java 9</a></p>
+</li>
+<li>
+<p><a href="http://rationalwiki.org/wiki/Frequency_illusion" class="bare">http://rationalwiki.org/wiki/Frequency_illusion</a></p>
+</li>
+<li>
+<p><a href="http://javaslang.com/">Программируем на Java функционально</a></p>
+</li>
+<li>
+<p><a href="https://softwaremill.com/mqperf/">Evaluating persistent, replicated message queues</a></p>
+</li>
+<li>
+<p><a href="http://blog.arungupta.me/wildfly-swarm-microservices-javaee/">Wildfly Swarm</a></p>
+</li>
+<li>
+<p><a href="https://github.com/oracle">Внезапно - Oracle на GitHub</a></p>
+</li>
+<li>
+<p><a href="https://www.jetbrains.com/cpp-today-oreilly/">Бесплатная книжка по С++ от JetBrains</a></p>
+</li>
+</ul>
+</div>
+<hr>
+<div class="paragraph">
+<p>Наши контакты:</p>
+</div>
+<div class="paragraph">
+<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
+</div>
+<div class="paragraph">
+<p><a href="http://razbor-poletov.com/broadcast.html">Информация о вещании</a></p>
+</div>
+<div class="paragraph">
+<p>Гости и участники:</p>
+</div>
+<div class="paragraph">
+<p>twitter:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://twitter.com/a_abashev">@a_abashev</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/antonarhipov">@antonarhipov</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/dzmitryc">@dzmitryc</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/tolkv">@tolkv</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/jbaruch">@jbaruch</a></p>
+</li>
+</ul>
+</div>
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_84.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+<div class="paragraph">
+<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
+</div>
+<img border="0" src="http://razbor-poletov.com/images/ec.jpg"/>
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_84.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+<div class="paragraph">
+<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
+</div>
+</div>
+</div>]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 83 — Привет с JPoint]]></title>
@@ -4472,108 +4690,6 @@ January 30, 2014 from 6:00 PM to 8:30 PM, New York, NY</p>
 <p><a href="http://traffic.libsyn.com/razborpoletov/razbor_36.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
 
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 35 — Client-side I'm sexy and I know it!]]></title>
-    <link href="http://razbor-poletov.com/2013/03/episode-35.html"/>
-    <updated>2013-03-04T22:10:00-05:00</updated>
-    <id>http://razbor-poletov.com/2013/03/episode-35</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="http://razbor-poletov.com/images/razbor_35_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_35_text.jpg" width="350" /></a></div>
-
-
-<ul>
-<li><a href="http://zef.me/4835/dart-web-fragmentation-vs-web-development-fragmentation">Dart: Web Fragmentation vs. Web Development Fragmentation</a></li>
-<li>Полезняшки:
-
-<ul>
-<li><a href="http://tin.cr/">http://tin.cr/</a></li>
-<li><a href="https://github.com/google/tracing-framework">WTF - Web Tracing Framework</a></li>
-<li><a href="http://www.jetbrains.com/webstorm/nextversion/index.html">Новый WebStorm уже скоро будет здесь </a></li>
-</ul>
-</li>
-<li><a href="http://news.dartlang.org/2013/02/dart-with-google-web-toolkit.html?m=1">Dart with Google Web Toolkit</a></li>
-<li><a href="http://smthngsmwhr.wordpress.com/2013/02/25/javascript-and-friends-coffeescript-dart-and-typescript/">Лучшие друзья JavaScript-а</a></li>
-<li><a href="http://wiki.apidesign.org/wiki/Bck2Brwsr">Очень странный зверь</a></li>
-<li>Twitter Flight:
-
-<ul>
-<li> <a href="http://engineering.twitter.com/2013/01/introducing-flight-web-application.html">1</a></li>
-<li> <a href="http://twitter.github.com/flight/">2</a></li>
-<li> <a href="http://www.infoq.com/news/2013/02/Twitter-Flight">3</a></li>
-<li> <a href="https://github.com/addyosmani/todomvc/tree/gh-pages/dependency-examples/flight">4</a> + <a href="http://todomvc.com/dependency-examples/flight/">demo</a></li>
-</ul>
-</li>
-</ul>
-
-
-<p><strong>Внимание! Конференции!</strong></p>
-
-<p><a href="http://javaone.ru">JavaOne Россия</a></p>
-
-<ul>
-<li>Official event hashtag is: #JavaOneRussia</li>
-<li>Official twitter of the event is: @JavaOneRussia</li>
-</ul>
-
-
-<p><a href="http://jeeconf.com">JEE Conf</a> - Конференция Java практиков в Украине</p>
-
-<ul>
-<li><a href="https://docs.google.com/spreadsheet/viewform?formkey=dHR5NjhBU2M3OVQyX1djV29fY0FSbXc6MA">Call for papers open till April, 6</a></li>
-<li><a href="http://jeeconf.com/speakers/">Speakers</a></li>
-</ul>
-
-
-<p><a href="http://html5devconf.com/">HTML5DevConf</a> - Конференция front-end разработчиков в San Francisco, CA
-- <a href="http://html5devconf.com/sessions.html#v_gamov">Выступает</a> <a href="http://html5devconf.com/speakers.html#v_gamov">Ваш покорный слуга</a></p>
-
-<p>Наши контакты:</p>
-
-<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
-
-<p>Гости и участники:</p>
-
-<p>twitter:</p>
-
-<ul>
-<li><a href="https://twitter.com/#!/a_abashev">@a_abashev</a></li>
-<li><a href="https://twitter.com/#!/gamussa">@gamussa</a></li>
-<li><a href="https://twitter.com/yfain">@yfain</a></li>
-<li><a href="https://twitter.com/splix">@splix</a></li>
-</ul>
-
-
-<p>G+:</p>
-
-<ul>
-<li><a href="http://gplus.to/gAmUssA">gplus.to/gAmUssA</a></li>
-<li><a href="http://gplus.to/aabashev">gplus.to/aabashev</a></li>
-<li><a href="http://gplus.to/dmitryc">gplus.to/dmitryc</a></li>
-<li><a href="https://plus.google.com/116033097136007429330/posts">Yakov Fain</a></li>
-</ul>
-
-
-<!-- player goes here-->
-
-
-<p><audio preload="none">
-  <source src="http://traffic.libsyn.com/razborpoletov/razbor_35.mp3" type="audio/mp3" />
-  Your browser does not support the audio tag.
-</audio></p>
-
-<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
-
-<!-- episode file link goes here-->
-
-
-<p><a href="http://traffic.libsyn.com/razborpoletov/razbor_35.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
-
-<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
-
-<p><a href="http://www.flickr.com/photos/thephotofiend/6808465352/">Фоточка Дарта Вейдера в бикини стянута отсюда</a></p>
 ]]></content>
   </entry>
   
