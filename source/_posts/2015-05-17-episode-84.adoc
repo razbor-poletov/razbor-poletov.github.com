@@ -1,0 +1,102 @@
+---
+comments: true
+categories: 
+---
+= Episode 84 - Прототипируй динамично!
+2015-05-17 18:49
+:layout: post
+:filename: razbor_84
+
+Внимание, выпуск *18+*
+
+++++
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_84_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_84_text.jpg" width="350" /></a>
+</div>
+++++
+
+== Новости одной строкой:
+
+* http://mail.openjdk.java.net/pipermail/jdk9-dev/2015-May/002172.html[Java 9: сэйв зэ дэйт!]
+* https://github.com/google/guice/wiki/Guice40[Guice 4.0]
+
+== Темы
+
+* http://www.thoughtworks.com/radar[Новый выпуск ThoughtWorks Tech Radar]. https://twitter.com/bodil/status/597766837548507136[Есть мнение что надо думать головой]
+* https://www.voxxed.com/blog/2015/05/youre-not-going-microservices/[Микросервисы - не торт!]
+* https://www.dartlang.org/events/2015/summit/[Интересности с Dart Developer Summit 2015]
+
+== Тема выпуска: Прототипирование
+
+_Задача: как делать _живые_ прототипы _быстро_ и с достаточной точностью?_
+
+. https://balsamiq.com/[Balsamiq] - хорош только для того чтобы набросать идею, но точности в нём нехватает.
+. Простой подход: рисовать в битмэп-редакторах: а-ля *Paint.NET*, *Seashore*, *Paintbrush*, *Pixelmator*
+** трудно рисовать
+** нет интерактивности
+. Сложный подход
+** http://www.axure.com/[Axure] - штука для провессиональных UX-дизайнеров. Довольно сложная.
+** https://www.uxpin.com[UXPin] выглядит очень многообещающе. Есть интеграция со Sketch и Photoshop
+. Требуется время на освоение
+** https://www.omnigroup.com/omnigraffle
+** https://www.lucidchart.com/personahomepage
+** http://bohemiancoding.com/sketch/
+** http://www.justinmind.com
+
+_>>>>> Но это же не наш метод!<<<<<_
+
+* https://www.google.com/webdesigner/
+* https://facebook.github.io/origami/
+* http://semantic-ui.com/[Semantic-UI]
+* Angular? Dart?
+* http://www.layoutit.com/[Генераторы для Bootstrap а-ля]
+
+== Полезняшки
+
+http://pilots.razbor-poletov.com/#/useful[Полезняшки искать тут]
+
+* http://blog.arungupta.me/jdk9-repl-getting-started/[REPL в Java 9]
+* http://rationalwiki.org/wiki/Frequency_illusion
+* http://javaslang.com/[Программируем на Java функционально]
+* https://softwaremill.com/mqperf/[Evaluating persistent, replicated message queues]
+* http://blog.arungupta.me/wildfly-swarm-microservices-javaee/[Wildfly Swarm]
+* https://github.com/oracle[Внезапно - Oracle на GitHub] 
+* https://www.jetbrains.com/cpp-today-oreilly/[Бесплатная книжка по С++ от JetBrains]
+
+'''
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com[http://razbor-poletov.com]
+
+http://razbor-poletov.com/broadcast.html[Информация о вещании]
+
+Гости и участники:
+
+twitter:
+
+  * https://twitter.com/a_abashev[@a_abashev]
+  * https://twitter.com/antonarhipov[@antonarhipov]
+  * https://twitter.com/dzmitryc[@dzmitryc]
+  * https://twitter.com/gamussa[@gamussa]
+  * https://twitter.com/tolkv[@tolkv]
+  * https://twitter.com/jbaruch[@jbaruch]
+
+++++
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_84.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+++++
+
+Подписаться по http://feeds.feedburner.com/razbor-podcast[RSS]
+
+++++
+<img border="0" src="http://razbor-poletov.com/images/ec.jpg"/>
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_84.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+++++
+
+Музыка ведущим http://www.audiobank.fm/single-music/27/111/More-And-Less/[предоставлена] и ладно...
