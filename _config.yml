@@ -97,3 +97,7 @@ google_analytics_tracking_id: UA-29276532-1
 
 # Facebook Like
 facebook_like: true
+
+asciidoctor:
+  attributes:
+    - hardbreaks!
