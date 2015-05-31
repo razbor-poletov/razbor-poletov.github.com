@@ -1,0 +1,75 @@
+---
+comments: true
+categories: 
+---
+= Episode 85 — Bob McWhirter - ты, кто такой!?
+2015-05-31 18:11
+:layout: post
+:filename: razbor_85
+
+++++
+<div class="separator" style="clear: both; text-align: center;"><a href="http://razbor-poletov.com/images/razbor_85_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_85_text.jpg" width="350" /></a></div>
+++++
+
+== Оффтопик
+
+* http://www.radio-t.com/p/2015/05/30/podcast-446/[Витя и Леша сходили в Радио-Т]
+* https://jugmsk.timepad.ru/event/211342/[Moscow JUG]
+
+== Обсуждения
+
+* http://mikemainguy.blogspot.ie/2015/05/the-myth-of-asynchronous-jdbc.html[Миф об асинхронном JDBC] 
+** https://twitter.com/antonarhipov/status/604905195970154496
+** https://github.com/mauricio/postgresql-async
+* https://news.ycombinator.com/item?id=9050114[Хипстер алерт]
+* https://medium.com/@jstrachan/the-decline-of-java-application-servers-when-using-docker-containers-edbe032e1f30[Сервера приложений Java VS Docker]
+
+== Тема выпуска: Эй, ты, кто такой!?
+
+Bob `The Despot` McWhirter http://www.codehaus.org/about/history.html[1] http://projectodd.org[2] https://twitter.com/bobmcwhirter[3]
+
+== ПолезНяшки
+
+* https://github.com/raydac/jute[Запуск JUnit тестов из Maven в отдельном процессе]
+* http://javalibs.com/charts[Какая библиотека популярнее?]
+* http://devrates.com/[Ещё о популярности всяких технологий] 
+* http://www.javadeathmatch.com/[Потешить чсв]
+* https://github.com/mkarneim/pojobuilder[PojoBuilder] 
+** https://projectlombok.org/features/Builder.html
+** http://news.dartlang.org/2012/02/method-cascades-in-dart-posted-by-gilad.html[Dart Methods cascades]  
+* https://developers.google.com/protocol-buffers/docs/proto3 [proto3] 
+
+'''
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com[http://razbor-poletov.com]
+
+http://razbor-poletov.com/broadcast.html[Информация о вещании]
+
+Гости и участники:
+
+twitter:
+
+  * https://twitter.com/antonarhipov[@antonarhipov]
+  * https://twitter.com/dzmitryc[@dzmitryc]
+  * https://twitter.com/gamussa[@gamussa]
+  * https://twitter.com/tolkv[@tolkv]
+
+++++
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_85.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+++++
+
+Подписаться по http://feeds.feedburner.com/razbor-podcast[RSS]
+
+++++
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_85.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+++++
+
+Музыка ведущим http://www.audiobank.fm/single-music/27/111/More-And-Less/[предоставлена] и ладно...
