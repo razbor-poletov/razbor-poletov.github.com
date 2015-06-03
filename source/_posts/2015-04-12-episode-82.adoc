@@ -1,6 +1,8 @@
 ---
 comments: true
 categories: podcast
+uid: 82
+length: 64182685
 ---
 = Episode 82 — Докладчик без слайдов
 2015-04-12 18:45
