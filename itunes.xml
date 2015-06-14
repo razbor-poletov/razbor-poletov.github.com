@@ -1,24 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-
-  <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
-  <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
-  <link href="http://razbor-poletov.com/"/>
-  <updated>2015-06-14T10:22:24-04:00</updated>
-  <id>http://razbor-poletov.com/</id>
-  <author>
-    <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov]]></name>
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Разбор Полетов</title>
+    <link>http://razbor-poletov.com/</link>
+    <atom:link href="http://razbor-poletov.com/atom.xml" rel="self" type="application/rss+xml"/>
+    <language>ru</language>
+    <generator>jekyll</generator>
+    <pubDate>2015-06-14T10:22:24-04:00</pubDate>
+    <lastBuildDate>2015-06-14T10:22:24-04:00</lastBuildDate>
+    <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="http://razbor-poletov.com/logoB.jpg" />
+    <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
+    <itunes:subtitle>Правильный подкаст для IT-шников</itunes:subtitle>
+    <itunes:summary>Правильный подкаст для IT-шников</itunes:summary>
+    <itunes:category text="Technology">
+      <itunes:category text="Tech News"/>
+    </itunes:category>
+    <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
+    <media:thumbnail url="http://razbor-poletov.com/logoB.jpg" />
     
-  </author>
-  <generator uri="http://octopress.org/">Octopress</generator>
-
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 85 — Bob McWhirter - ты, кто такой!?]]></title>
-    <link href="http://razbor-poletov.com/2015/05/episode-85.html"/>
-    <updated>2015-05-31T00:00:00-04:00</updated>
-    <id>http://razbor-poletov.com/2015/05/episode-85</id>
-    <content type="html"><![CDATA[<div id="preamble">
+    <item>
+      <title>Episode 85 — Bob McWhirter - ты, кто такой!?</title>
+      <link>http://razbor-poletov.com/2015/05/episode-85.html</link>
+      <pubDate>2015-05-31T00:00:00-04:00</pubDate>
+      <guid isPermalink="true">http://razbor-poletov.com/2015/05/episode-85</guid>
+      <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="separator" style="clear: both; text-align: center;"><a href="http://razbor-poletov.com/images/razbor_85_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_85_text.jpg" width="350" /></a></div>
 </div>
@@ -156,15 +163,156 @@
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
 </div>
 </div>
-</div>]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 84 - Прототипируй динамично!]]></title>
-    <link href="http://razbor-poletov.com/2015/05/episode-84.html"/>
-    <updated>2015-05-17T00:00:00-04:00</updated>
-    <id>http://razbor-poletov.com/2015/05/episode-84</id>
-    <content type="html"><![CDATA[<div id="preamble">
+</div>]]></description>
+      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_85.mp3" length="71684716" type="audio/mpeg" />
+      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_85.mp3" fileSize="71684716" type="audio/mpeg" />
+      <itunes:summary><![CDATA[
+
+
+
+
+
+Оффтопик
+
+
+
+
+Витя и Леша сходили в Радио-Т
+
+
+Moscow JUG
+
+
+
+
+
+
+Обсуждения
+
+
+
+
+Миф об асинхронном JDBC
+
+
+
+https://twitter.com/antonarhipov/status/604905195970154496
+
+
+https://github.com/mauricio/postgresql-async
+
+
+
+
+
+Хипстер алерт
+
+
+Сервера приложений Java VS Docker
+
+
+
+
+
+
+Тема выпуска: Эй, ты, кто такой!?
+
+
+Bob The Despot McWhirter 1 2 3
+
+
+
+
+ПолезНяшки
+
+
+
+
+Запуск JUnit тестов из Maven в отдельном процессе
+
+
+Какая библиотека популярнее?
+
+
+Ещё о популярности всяких технологий
+
+
+Потешить чсв
+
+
+PojoBuilder
+
+
+
+https://projectlombok.org/features/Builder.html
+
+
+Dart Methods cascades
+
+
+
+
+
+https://developers.google.com/protocol-buffers/docs/proto3 [proto3]
+
+
+
+
+
+Наши контакты:
+
+
+Официальный сайт — http://razbor-poletov.com
+
+
+Информация о вещании
+
+
+Гости и участники:
+
+
+twitter:
+
+
+
+
+@antonarhipov
+
+
+@dzmitryc
+
+
+@gamussa
+
+
+@tolkv
+
+
+
+
+
+
+   
+   Your browser does not support the audio tag.
+
+
+Подписаться по RSS
+
+
+
+
+Музыка ведущим предоставлена и ладно&#8230;&#8203;
+
+
+]]></itunes:summary>
+    </item>
+    
+    <item>
+      <title>Episode 84 - Прототипируй динамично!</title>
+      <link>http://razbor-poletov.com/2015/05/episode-84.html</link>
+      <pubDate>2015-05-17T00:00:00-04:00</pubDate>
+      <guid isPermalink="true">http://razbor-poletov.com/2015/05/episode-84</guid>
+      <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>Внимание, выпуск <strong>18+</strong></p>
@@ -374,15 +522,228 @@
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
 </div>
 </div>
-</div>]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 83 — Привет с JPoint]]></title>
-    <link href="http://razbor-poletov.com/2015/05/episode-83.html"/>
-    <updated>2015-05-03T00:00:00-04:00</updated>
-    <id>http://razbor-poletov.com/2015/05/episode-83</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
+</div>]]></description>
+      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_84.mp3" length="94422800" type="audio/mpeg" />
+      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_84.mp3" fileSize="94422800" type="audio/mpeg" />
+      <itunes:summary><![CDATA[
+
+
+Внимание, выпуск 18+
+
+
+
+
+
+
+
+Новости одной строкой:
+
+
+
+
+Java 9: сэйв зэ дэйт!
+
+
+Guice 4.0
+
+
+
+
+
+
+Темы
+
+
+
+
+Новый выпуск ThoughtWorks Tech Radar. Есть мнение что надо думать головой
+
+
+Микросервисы - не торт!
+
+
+Интересности с Dart Developer Summit 2015
+
+
+
+
+
+
+Тема выпуска: Прототипирование
+
+
+Задача: как делать _живые прототипы быстро и с достаточной точностью?_
+
+
+
+
+Balsamiq - хорош только для того чтобы набросать идею, но точности в нём нехватает.
+
+
+Простой подход: рисовать в битмэп-редакторах: а-ля Paint.NET, Seashore, Paintbrush, Pixelmator
+
+
+
+трудно рисовать
+
+
+нет интерактивности
+
+
+
+
+
+Сложный подход
+
+
+
+Axure - штука для провессиональных UX-дизайнеров. Довольно сложная.
+
+
+UXPin выглядит очень многообещающе. Есть интеграция со Sketch и Photoshop
+
+
+
+
+
+Требуется время на освоение
+
+
+
+https://www.omnigroup.com/omnigraffle
+
+
+https://www.lucidchart.com/personahomepage
+
+
+http://bohemiancoding.com/sketch/
+
+
+http://www.justinmind.com
+
+
+
+
+
+
+
+&gt;&gt;&gt;&gt;&gt; Но это же не наш метод!&lt;&lt;&lt;&lt;&lt;
+
+
+
+
+https://www.google.com/webdesigner/
+
+
+https://facebook.github.io/origami/
+
+
+Semantic-UI
+
+
+Angular? Dart?
+
+
+Генераторы для Bootstrap а-ля
+
+
+
+
+
+
+Полезняшки
+
+
+Полезняшки искать тут
+
+
+
+
+REPL в Java 9
+
+
+http://rationalwiki.org/wiki/Frequency_illusion
+
+
+Программируем на Java функционально
+
+
+Evaluating persistent, replicated message queues
+
+
+Wildfly Swarm
+
+
+Внезапно - Oracle на GitHub
+
+
+Бесплатная книжка по С++ от JetBrains
+
+
+
+
+
+Наши контакты:
+
+
+Официальный сайт — http://razbor-poletov.com
+
+
+Информация о вещании
+
+
+Гости и участники:
+
+
+twitter:
+
+
+
+
+@a_abashev
+
+
+@antonarhipov
+
+
+@dzmitryc
+
+
+@gamussa
+
+
+@tolkv
+
+
+@jbaruch
+
+
+
+
+
+
+   
+   Your browser does not support the audio tag.
+
+
+Подписаться по RSS
+
+
+
+
+
+Музыка ведущим предоставлена и ладно&#8230;&#8203;
+
+
+]]></itunes:summary>
+    </item>
+    
+    <item>
+      <title>Episode 83 — Привет с JPoint</title>
+      <link>http://razbor-poletov.com/2015/05/episode-83.html</link>
+      <pubDate>2015-05-03T00:00:00-04:00</pubDate>
+      <guid isPermalink="true">http://razbor-poletov.com/2015/05/episode-83</guid>
+      <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_83_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_83_text.jpg" width="350" /></a>
 </div>
 <div class="paragraph">
@@ -429,15 +790,65 @@
 <a href="http://traffic.libsyn.com/razborpoletov/razbor_83.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
 <div class="paragraph">
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
-</div>]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 82 — Докладчик без слайдов]]></title>
-    <link href="http://razbor-poletov.com/2015/04/episode-82.html"/>
-    <updated>2015-04-12T00:00:00-04:00</updated>
-    <id>http://razbor-poletov.com/2015/04/episode-82</id>
-    <content type="html"><![CDATA[<div id="preamble">
+</div>]]></description>
+      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_83.mp3" length="36313368" type="audio/mpeg" />
+      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_83.mp3" fileSize="36313368" type="audio/mpeg" />
+      <itunes:summary><![CDATA[
+
+
+
+Запись была сделана на конференции JPoint 2015 в апреле 2015го.
+
+
+Наши контакты:
+
+
+Официальный сайт — http://razbor-poletov.com
+
+
+Информация о вещании
+
+
+Гости и участники:
+
+
+twitter:
+
+
+
+
+@a_abashev
+
+
+@antonarhipov
+
+
+@holyslon
+
+
+
+
+
+
+   
+   Your browser does not support the audio tag.
+
+
+Подписаться по RSS
+
+
+
+
+Музыка ведущим предоставлена и ладно&#8230;&#8203;
+]]></itunes:summary>
+    </item>
+    
+    <item>
+      <title>Episode 82 — Докладчик без слайдов</title>
+      <link>http://razbor-poletov.com/2015/04/episode-82.html</link>
+      <pubDate>2015-04-12T00:00:00-04:00</pubDate>
+      <guid isPermalink="true">http://razbor-poletov.com/2015/04/episode-82</guid>
+      <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_82_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_82_text.jpg" width="350" /></a>
@@ -566,15 +977,147 @@
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
 </div>
 </div>
-</div>]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 81 — Про кишочки]]></title>
-    <link href="http://razbor-poletov.com/2015/03/episode-81.html"/>
-    <updated>2015-03-29T00:00:00-04:00</updated>
-    <id>http://razbor-poletov.com/2015/03/episode-81</id>
-    <content type="html"><![CDATA[<div id="preamble">
+</div>]]></description>
+      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_82.mp3" length="64182685" type="audio/mpeg" />
+      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_82.mp3" fileSize="64182685" type="audio/mpeg" />
+      <itunes:summary><![CDATA[
+
+
+
+
+
+
+
+Все на Jpoint!
+
+
+
+
+JPoint
+
+
+Проект «Без слайдов»
+
+
+
+
+
+
+Epic Fail Story
+
+
+как Витя заводил Glassfish под 10.10.3 [1] [2]. Проблема вся в чем?
+
+
+
+
+Новости одной строкой
+
+
+
+
+XRebel 2.0 вышел в свет
+
+
+В Intellij IDEA 14.1.2 EAP починили груви
+
+
+Полезный плагин https://eddy.systems/
+
+
+
+
+
+
+Полезные люди на Stackoverflow:
+
+
+
+
+Brian Goetz
+
+
+Stuart Marks
+
+
+
+
+
+
+Вышел Grails 3.0
+
+
+
+
+Вышел Grails 3.0 с кучей новых штучек
+
+
+но не всем это по-вкусу
+
+
+И -javaagent в него прикручивать нетривиально
+
+
+А ещё, у Grails новый дом
+
+
+
+
+http://mobiusconf.com/presentations/Mobius2015_MatveyMalkov.pdf
+
+
+
+Наши контакты:
+
+
+Официальный сайт — http://razbor-poletov.com
+
+
+Информация о вещании
+
+
+Гости и участники:
+
+
+twitter:
+
+
+
+
+@antonarhipov
+
+
+@gamussa
+
+
+@tolkv
+
+
+
+
+
+
+   
+   Your browser does not support the audio tag.
+
+
+Подписаться по RSS
+
+
+
+
+Музыка ведущим предоставлена и ладно&#8230;&#8203;
+
+
+]]></itunes:summary>
+    </item>
+    
+    <item>
+      <title>Episode 81 — Про кишочки</title>
+      <link>http://razbor-poletov.com/2015/03/episode-81.html</link>
+      <pubDate>2015-03-29T00:00:00-04:00</pubDate>
+      <guid isPermalink="true">http://razbor-poletov.com/2015/03/episode-81</guid>
+      <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="separator" style="clear: both; text-align: center;"><a href="http://razbor-poletov.com/images/razbor_81_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_81_text.jpg" width="350" /></a></div>
 </div>
@@ -702,15 +1245,146 @@
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
 </div>
 </div>
-</div>]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 80 — Небольшой конференционный]]></title>
-    <link href="http://razbor-poletov.com/2015/03/episode-80.html"/>
-    <updated>2015-03-16T00:00:00-04:00</updated>
-    <id>http://razbor-poletov.com/2015/03/episode-80</id>
-    <content type="html"><![CDATA[<div id="preamble">
+</div>]]></description>
+      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_81.mp3" length="108396044" type="audio/mpeg" />
+      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_81.mp3" fileSize="108396044" type="audio/mpeg" />
+      <itunes:summary><![CDATA[
+
+
+
+
+
+Гость Алексей Шипилёв
+
+
+
+
+О работе Performance инженеров
+
+
+Для начинающих
+
+
+Мнения о JMH
+
+
+Benchmarketing
+
+
+Jikes RVM 
+
+
+Книги: 1 2
+
+
+
+
+
+
+Впечатления про 14.1
+
+
+
+
+IntelliJ IDEA 14.1
+
+
+Рендеринг шрифтов в OSX
+
+
+скачать IDEA со вшитой JDK
+
+
+http://arhipov.blogspot.com/2015/03/intellij-idea-141-distraction-free-mode.html
+
+
+Шрифтики Fira и Input
+
+
+https://github.com/develar/settings-repository
+
+
+
+
+
+
+Полезняшки
+
+
+
+
+Микрофреймворки http://jodd.org/ и http://www.ninjaframework.org
+
+
+javapackager 1 2. Сделать иконку
+
+
+GIF screencasts of a terminal
+
+
+JQ - XPath для JSON
+
+
+
+
+
+Наши контакты:
+
+
+Официальный сайт — http://razbor-poletov.com
+
+
+Информация о вещании
+
+
+Гости и участники:
+
+
+twitter:
+
+
+
+
+@a_abashev
+
+
+@antonarhipov
+
+
+@gamussa
+
+
+@tolkv
+
+
+@shipilev
+
+
+
+
+
+
+   
+   Your browser does not support the audio tag.
+
+
+Подписаться по RSS
+
+
+
+
+Музыка ведущим предоставлена и ладно&#8230;&#8203;
+
+
+]]></itunes:summary>
+    </item>
+    
+    <item>
+      <title>Episode 80 — Небольшой конференционный</title>
+      <link>http://razbor-poletov.com/2015/03/episode-80.html</link>
+      <pubDate>2015-03-16T00:00:00-04:00</pubDate>
+      <guid isPermalink="true">http://razbor-poletov.com/2015/03/episode-80</guid>
+      <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_80_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_80_text.jpg" width="350" /></a>
@@ -826,15 +1500,134 @@
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
 </div>
 </div>
-</div>]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 79 — Делать Open Source и Заколачивать Бабки]]></title>
-    <link href="http://razbor-poletov.com/2015/03/episode-79.html"/>
-    <updated>2015-03-08T00:00:00-05:00</updated>
-    <id>http://razbor-poletov.com/2015/03/episode-79</id>
-    <content type="html"><![CDATA[<div id="preamble">
+</div>]]></description>
+      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_80.mp3" length="18234993" type="audio/mpeg" />
+      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_80.mp3" fileSize="18234993" type="audio/mpeg" />
+      <itunes:summary><![CDATA[
+
+
+
+
+
+Запись велась с помощью чудного устройства Zoom iQ6 в ресторане Maggiano Little Italy.
+
+
+
+
+Конференции
+
+
+
+
+DevNexus: Барух и Виктор
+
+
+Пара фоточек с конференции
+
+
+
+1
+
+
+2
+
+
+3
+
+
+4
+
+
+5
+
+
+6
+
+
+
+
+
+http://capedwarf.org
+
+
+Atom.io
+
+
+
+Asciidoc Preview
+
+
+Asciidoc Language Support
+
+
+
+
+
+NightHacking
+
+
+
+
+
+На правах рекламы:
+
+
+
+
+Вакансия от Алексея. Присылайте резюме
+
+
+
+
+
+Наши контакты:
+
+
+Официальный сайт — http://razbor-poletov.com
+
+
+Информация о вещании
+
+
+Гости и участники:
+
+
+twitter:
+
+
+
+
+@gamussa
+
+
+@jbaruch
+
+
+
+
+
+
+   
+   Your browser does not support the audio tag.
+
+
+Подписаться по RSS
+
+
+
+
+Музыка ведущим предоставлена и ладно&#8230;&#8203;
+
+
+]]></itunes:summary>
+    </item>
+    
+    <item>
+      <title>Episode 79 — Делать Open Source и Заколачивать Бабки</title>
+      <link>http://razbor-poletov.com/2015/03/episode-79.html</link>
+      <pubDate>2015-03-08T00:00:00-05:00</pubDate>
+      <guid isPermalink="true">http://razbor-poletov.com/2015/03/episode-79</guid>
+      <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_79_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_79_text.jpg" width="350" /></a>
@@ -993,15 +1786,177 @@
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
 </div>
 </div>
-</div>]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 78 — У каждого программиста свой дурдом]]></title>
-    <link href="http://razbor-poletov.com/2015/02/episode-78.html"/>
-    <updated>2015-02-22T00:00:00-05:00</updated>
-    <id>http://razbor-poletov.com/2015/02/episode-78</id>
-    <content type="html"><![CDATA[<div id="preamble">
+</div>]]></description>
+      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[
+
+
+
+
+
+
+
+Конференции
+
+
+
+
+DevNexus: Барух и Виктор
+
+
+Глубокое погружение в invokedynamic
+
+
+JPoint
+
+
+Виктор на CodePaloUSA
+
+
+JEEConf
+
+
+GeekOut
+
+
+
+
+
+
+Teма выпуска
+
+
+
+
+ЧОткий вброс
+“Cripple source” is a software where commercial product has more features than open source one, definitely not the @RedHatSoftware way!&mdash; Arun Gupta (@arungupta) February 6, 2015 
+
+
+Pivotal OpenSources Gemfire и Big Data Tools
+
+
+Альтернативное мнение по поводу Pivotal и OSS
+
+
+А вот как некоторые зарабатывают
+
+
+Бизнес-модель Hazelcast и Инкубатор
+
+
+А как же Апачи зарабатывают? 1 2
+
+
+
+
+Ссылки, упомянутые в беседе, ищите в логе чата.
+
+
+
+
+Релизы недели
+
+
+gRPC
+
+
+Полезняшка - javased.com
+
+
+
+
+Одной строкой
+
+
+
+
+Who is Groovy?
+
+
+Groovy goes to ASF
+
+
+
+
+
+На правах рекламы:
+
+
+
+
+Вакансия от Алексея. Присылайте резюме
+
+
+
+
+
+Наши контакты:
+
+
+Официальный сайт — http://razbor-poletov.com
+
+
+Информация о вещании
+
+
+Гости и участники:
+
+
+twitter:
+
+
+
+
+@a_abashev
+
+
+@antonarhipov
+
+
+@dzmitryc
+
+
+@gamussa
+
+
+@tolkv
+
+
+@jbaruch
+
+
+@23derevo 
+
+
+@ligolnik
+
+
+
+
+
+
+   
+   Your browser does not support the audio tag.
+
+
+Подписаться по RSS
+
+
+
+
+Музыка ведущим предоставлена и ладно&#8230;&#8203;
+
+
+]]></itunes:summary>
+    </item>
+    
+    <item>
+      <title>Episode 78 — У каждого программиста свой дурдом</title>
+      <link>http://razbor-poletov.com/2015/02/episode-78.html</link>
+      <pubDate>2015-02-22T00:00:00-05:00</pubDate>
+      <guid isPermalink="true">http://razbor-poletov.com/2015/02/episode-78</guid>
+      <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_78_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_78_text.jpg" width="350" /></a>
@@ -1171,15 +2126,188 @@
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
 </div>
 </div>
-</div>]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 77 — Чему бы поучиться на Java]]></title>
-    <link href="http://razbor-poletov.com/2015/02/episode-77.html"/>
-    <updated>2015-02-08T00:00:00-05:00</updated>
-    <id>http://razbor-poletov.com/2015/02/episode-77</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
+</div>]]></description>
+      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[
+
+
+
+
+
+
+
+Конференции
+
+
+
+
+Февральский TampaJUG
+
+
+GeekOut
+
+
+DevNexus: Барух и Виктор
+
+
+Виктор на CodePaloUSA
+
+
+JPoint
+
+
+JEEConf
+
+
+
+
+
+
+Тема выпуска
+
+
+Механические клавиатуры. Ссылки, упомянутые в беседе, ищите в логе чата.
+
+
+
+
+Новости одной строкой
+
+
+
+
+Groovy moves to foundation
+
+
+Новый Gradle
+
+
+
+Gradle 2.3
+
+
+Много чего может сломаться
+
+
+Accelerate Gradle build from 90 to 8 minutes 
+
+
+
+
+
+Hazelcast 3.4.1. Что нового?
+
+
+
+
+
+
+Полезняшки
+
+
+
+
+curl start.spring.io и
+
+
+http://websocketd.com/ или красивый код на GO
+
+
+HubPress
+
+
+Билдсистема в клауде для Java
+
+
+TurboVision на Node.JS
+
+
+
+
+
+
+В заключении&#8230;&#8203;
+
+
+Десять причин избегать метапрограммирования
+
+
+Лог чата
+
+
+
+На правах рекламы:
+
+
+
+
+Вакансия от Алексея. Присылайте резюме
+
+
+
+
+
+Наши контакты:
+
+
+Официальный сайт — http://razbor-poletov.com
+
+
+Информация о вещании
+
+
+Гости и участники:
+
+
+twitter:
+
+
+
+
+@a_abashev
+
+
+@antonarhipov
+
+
+@dzmitryc
+
+
+@gamussa
+
+
+@tolkv
+
+
+@golodnyj
+
+
+
+
+
+
+   
+   Your browser does not support the audio tag.
+
+
+Подписаться по RSS
+
+
+
+
+Музыка ведущим предоставлена и ладно&#8230;&#8203;
+
+
+]]></itunes:summary>
+    </item>
+    
+    <item>
+      <title>Episode 77 — Чему бы поучиться на Java</title>
+      <link>http://razbor-poletov.com/2015/02/episode-77.html</link>
+      <pubDate>2015-02-08T00:00:00-05:00</pubDate>
+      <guid isPermalink="true">http://razbor-poletov.com/2015/02/episode-77</guid>
+      <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_77_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_77_text.jpg" width="350" /></a>
 </div>
 <div class="paragraph">
@@ -1339,15 +2467,178 @@
 <a href="http://traffic.libsyn.com/razborpoletov/razbor_77.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
 <div class="paragraph">
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
-</div>]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 76 — OSGi великий и ужасный]]></title>
-    <link href="http://razbor-poletov.com/2015/01/episode-76.html"/>
-    <updated>2015-01-25T16:13:00-05:00</updated>
-    <id>http://razbor-poletov.com/2015/01/episode-76</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
+</div>]]></description>
+      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[
+
+
+
+Картинка
+
+
+
+
+Регистрация на GeekOut открыта
+
+
+Наши люди на DevNexus 1 2
+
+
+JPoint
+
+
+JEEConf
+
+
+Видео с последнего JUGa
+
+
+Виртуальный JUG
+
+
+
+
+По вашим письмам:
+
+
+
+
+MVC фрэймворки - что предпочтительней для больших и маленьких проектов, особенно хочется послушать про Spring и Play 2 1 2 3
+
+
+JVM языки - преимущества и недостатки, и вообще, стоит ли учить что-нибудь кроме Java 1
+
+
+книги и советы по развитию The Well-Grounded Java Developer Pragmatic Programmer
+
+
+какие-нибудь темы, на которые стоит обратить внимание 1
+
+
+
+
+Полезняшки
+
+
+
+
+Шумы:
+
+
+
+Noisli
+
+
+Noiz.io
+
+
+BrainWave
+
+
+
+
+
+Jansi
+
+
+Cmd
+
+
+IntelliJ IDEA 14.1 EAP
+
+
+
+
+Продолжаем
+
+
+
+
+У Java юбилей! 20 лет
+
+
+Java 7 EOL is in 2 months
+
+
+
+
+P.s. Подкаст про книги от @golodnyj
+
+
+
+На правах рекламы:
+
+
+
+
+Вакансия от Алексея. Присылайте резюме
+
+
+
+
+
+Наши контакты:
+
+
+Официальный сайт — http://razbor-poletov.com
+
+
+Информация о вещании
+
+
+Темы для следующего выпуска - https://github.com/razbor-poletov/
+
+
+Гости и участники:
+
+
+twitter:
+
+
+
+
+@a_abashev
+
+
+@antonarhipov
+
+
+@dzmitryc 
+
+
+@gamussa
+
+
+@tolkv
+
+
+@golodnyj
+
+
+
+
+
+
+   
+   Your browser does not support the audio tag.
+
+
+Подписаться по RSS
+
+
+
+
+Музыка ведущим предоставлена и ладно&#8230;&#8203;
+]]></itunes:summary>
+    </item>
+    
+    <item>
+      <title>Episode 76 — OSGi великий и ужасный</title>
+      <link>http://razbor-poletov.com/2015/01/episode-76.html</link>
+      <pubDate>2015-01-25T16:13:00-05:00</pubDate>
+      <guid isPermalink="true">http://razbor-poletov.com/2015/01/episode-76</guid>
+      <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_76_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_76_text.jpg" width="350" /></a>
 </div>
 
@@ -1451,15 +2742,122 @@
 <p><a href="http://traffic.libsyn.com/razborpoletov/razbor_76.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
 
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 75 — Java вся такая белая и пушистая и в контейнере]]></title>
-    <link href="http://razbor-poletov.com/2015/01/episode-75.html"/>
-    <updated>2015-01-11T17:20:00-05:00</updated>
-    <id>http://razbor-poletov.com/2015/01/episode-75</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
+]]></description>
+      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[
+
+
+
+
+Картинка
+
+
+Регистрация на GeekOut открыта
+Наши люди на DevNexus 1 2
+JUG.RU
+JPoint
+Groovy &amp; Grails
+
+
+Announce
+Pivotal FAQ
+Блог от нашего резидента
+
+
+
+
+
+OSGi or NOSGi
+
+
+АДъ
+Готовь меня правильно
+OSGi and jigsaw
+Tutorial
+OSGi и WebSphere
+Сборка Eclipse плагинов Maven и Tycho
+Gradle и OSGi 1 2
+Planet Eclipse
+Google и OSGi
+
+
+
+Книги
+
+
+Learning Apache Karaf
+Building Modular Cloud Apps with OSGi
+Mastering Eclipse Plug-in
+OSGi in Action
+
+
+
+Полезняшки
+
+
+Web framework с OSGi
+JVM Memory Settings
+-XX:SelfDestructTimer=1
+SQL Joins
+Научись бренчингу в Git
+Новые трюки экзекьюторов
+Thread Affinity
+Скобочки или ехать?
+Immutables
+
+
+
+
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com
+
+Информация о вещании
+
+Темы для следующего выпуска - https://github.com/razbor-poletov/
+
+Гости и участники:
+
+twitter:
+
+
+@a_abashev
+@antonarhipov
+@dzmitryc 
+@gamussa
+@jbaruch
+@tolkv
+Суровый Челябинский Программист
+
+
+
+
+
+
+
+   
+   Your browser does not support the audio tag.
+
+
+Подписаться по RSS
+
+
+
+
+
+
+Музыка ведущим предоставлена и ладно&#8230;
+]]></itunes:summary>
+    </item>
+    
+    <item>
+      <title>Episode 75 — Java вся такая белая и пушистая и в контейнере</title>
+      <link>http://razbor-poletov.com/2015/01/episode-75.html</link>
+      <pubDate>2015-01-11T17:20:00-05:00</pubDate>
+      <guid isPermalink="true">http://razbor-poletov.com/2015/01/episode-75</guid>
+      <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_75_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_75_text.jpg" width="350" /></a>
 </div>
 
@@ -1523,15 +2921,82 @@
 <p><a href="http://traffic.libsyn.com/razborpoletov/razbor_75.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
 
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 74 — Ретроспективы и прогнозы]]></title>
-    <link href="http://razbor-poletov.com/2014/12/episode-74.html"/>
-    <updated>2014-12-28T15:47:00-05:00</updated>
-    <id>http://razbor-poletov.com/2014/12/episode-74</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
+]]></description>
+      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[
+
+
+
+
+
+Java для всего
+Go for Java developers
+И вообще, Java вся белая и пушистая
+А некоторые думают что OSGi тоже няшка
+
+
+
+Полезняшки:
+
+
+Редиссон
+Правильный Мёд
+AutoValue проект презентация
+Truth
+Upsource 1.0
+
+
+
+An introduction to containers, Kubernetes, and the trajectory of modern cloud computing
+Google Omega
+
+
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com
+
+Информация о вещании
+
+Темы для следующего выпуска - https://github.com/razbor-poletov/
+
+Гости и участники:
+
+twitter:
+
+
+@antonarhipov
+@dzmitryc 
+@gamussa
+
+
+
+
+
+
+
+   
+   Your browser does not support the audio tag.
+
+
+Подписаться по RSS
+
+
+
+
+
+
+Музыка ведущим предоставлена и ладно&#8230;
+]]></itunes:summary>
+    </item>
+    
+    <item>
+      <title>Episode 74 — Ретроспективы и прогнозы</title>
+      <link>http://razbor-poletov.com/2014/12/episode-74.html</link>
+      <pubDate>2014-12-28T15:47:00-05:00</pubDate>
+      <guid isPermalink="true">http://razbor-poletov.com/2014/12/episode-74</guid>
+      <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_74_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_74_text.jpg" width="350" /></a>
 </div>
 
@@ -1601,15 +3066,88 @@
 <p><a href="http://traffic.libsyn.com/razborpoletov/razbor_74.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
 
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 73 — Мы снова начинаем «Разбор Полетов»]]></title>
-    <link href="http://razbor-poletov.com/2014/11/episode-73.html"/>
-    <updated>2014-11-30T17:01:00-05:00</updated>
-    <id>http://razbor-poletov.com/2014/11/episode-73</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
+]]></description>
+      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[
+
+
+
+
+2014
+
+
+Превед, Hazelcast!
+Martijn Verburg: Top 5 Java ecosystem highlights in 2014
+Лучший ЯП в 2014
+The ultimate Java tools/libs/ppl list v2014
+
+
+
+Полезняшки:
+
+
+Офигенный REST client - видео
+Self-hosted Git service, written in Go, comes as a Docker image
+Прикольная грепалка
+Мониторилка
+
+
+
+2015
+
+
+А что дядьки с деньгами думают от технологиях в перспективе 2015 года?
+ThoughtWorks Radar
+
+
+
+
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com
+
+Информация о вещании
+
+Темы для следующего выпуска - https://github.com/razbor-poletov/
+
+Гости и участники:
+
+twitter:
+
+
+@a_abashev
+@antonarhipov
+@gamussa
+
+
+
+
+
+
+
+   
+   Your browser does not support the audio tag.
+
+
+Подписаться по RSS
+
+
+
+
+
+
+Музыка ведущим предоставлена и ладно&#8230;
+]]></itunes:summary>
+    </item>
+    
+    <item>
+      <title>Episode 73 — Мы снова начинаем «Разбор Полетов»</title>
+      <link>http://razbor-poletov.com/2014/11/episode-73.html</link>
+      <pubDate>2014-11-30T17:01:00-05:00</pubDate>
+      <guid isPermalink="true">http://razbor-poletov.com/2014/11/episode-73</guid>
+      <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_73_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_73_text.jpg" width="350" /></a>
 </div>
 
@@ -1696,15 +3234,105 @@
 <p><a href="http://traffic.libsyn.com/razborpoletov/razbor_73.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
 
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 72 — Банда снова в деле!]]></title>
-    <link href="http://razbor-poletov.com/2014/11/episode-72.html"/>
-    <updated>2014-11-10T13:47:00-05:00</updated>
-    <id>http://razbor-poletov.com/2014/11/episode-72</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
+]]></description>
+      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[
+
+
+
+
+Фото пирога было найдено тут
+
+
+JavaPosse все
+GeekOut 2015: 11-12 июня
+Утечка мозгов в Эстонию
+
+
+
+Немного о бабле
+
+
+О стоимости скилов
+Data Science Salary Survey
+Resume Driven Development
+Артефакты встречи JUGMSK
+Проперти в Java
+Java application servers are dead
+
+
+
+Полезняшка
+
+
+На почитать о распределенных системах - темы дипломов искать тут!
+OSX Productivity Tips
+
+
+Почему ZSH
+Варим софт
+Храним сваренное в бочке
+
+
+
+
+
+
+
+
+Приложение «Разбор Полетов» для Android. Гитхаб для пулл-реквестов
+Еще одно (!) приложение «Разбор Полетов для Android»
+
+
+
+
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com
+
+Информация о вещании
+
+Темы для следующего выпуска - https://github.com/razbor-poletov/
+
+Гости и участники:
+
+twitter:
+
+
+@a_abashev
+@antonarhipov
+@gamussa
+@jbaruch
+
+
+
+
+
+
+
+   
+   Your browser does not support the audio tag.
+
+
+Подписаться по RSS
+
+
+
+
+
+
+Музыка ведущим предоставлена и ладно&#8230;
+]]></itunes:summary>
+    </item>
+    
+    <item>
+      <title>Episode 72 — Банда снова в деле!</title>
+      <link>http://razbor-poletov.com/2014/11/episode-72.html</link>
+      <pubDate>2014-11-10T13:47:00-05:00</pubDate>
+      <guid isPermalink="true">http://razbor-poletov.com/2014/11/episode-72</guid>
+      <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_72_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_72_text.jpg" width="350" /></a>
 </div>
 
@@ -1783,15 +3411,97 @@
 <p><a href="http://traffic.libsyn.com/razborpoletov/razbor_72.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
 
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 71 — Чемпионы и программизм]]></title>
-    <link href="http://razbor-poletov.com/2014/10/episode-71.html"/>
-    <updated>2014-10-22T23:33:00-04:00</updated>
-    <id>http://razbor-poletov.com/2014/10/episode-71</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
+]]></description>
+      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[
+
+
+
+
+
+Носороги на воле и они будут в Москве!!!
+Новое приложение «Разбор Полетов»
+Yac
+Highload++
+
+
+SilkJS
+Netflix OpenConnect
+
+
+IntelliJ IDEA 14. Что нового?
+JRebel 6 :)
+Google Container Engine
+Google Cloud Debugger
+Полезняшки
+
+
+GitHut
+Slate
+Coolors
+Brackets 1.0
+
+
+Интерфейсы за и против
+
+
+
+
+
+
+Приложение «Разбор Полетов» для Android. Гитхаб для пулл-реквестов
+Еще одно (!) приложение «Разбор Полетов для Android»
+
+
+
+
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com
+
+Информация о вещании
+
+Темы для следующего выпуска - https://github.com/razbor-poletov/
+
+Гости и участники:
+
+twitter:
+
+
+@a_abashev
+@antonarhipov
+@gamussa
+@dzmitryc 
+
+
+
+
+
+
+
+   
+   Your browser does not support the audio tag.
+
+
+Подписаться по RSS
+
+
+
+
+
+
+Музыка ведущим предоставлена и ладно&#8230;
+]]></itunes:summary>
+    </item>
+    
+    <item>
+      <title>Episode 71 — Чемпионы и программизм</title>
+      <link>http://razbor-poletov.com/2014/10/episode-71.html</link>
+      <pubDate>2014-10-22T23:33:00-04:00</pubDate>
+      <guid isPermalink="true">http://razbor-poletov.com/2014/10/episode-71</guid>
+      <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_71_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_71_text.jpg" width="350" /></a>
 </div>
 
@@ -1876,15 +3586,103 @@
 <p><a href="http://traffic.libsyn.com/razborpoletov/razbor_71.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
 
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 70 — Дневники JavaOne: день 2. Лечим индустрию]]></title>
-    <link href="http://razbor-poletov.com/2014/10/episode-70.html"/>
-    <updated>2014-10-01T00:18:00-04:00</updated>
-    <id>http://razbor-poletov.com/2014/10/episode-70</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
+]]></description>
+      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[
+
+
+
+
+
+В полку чемпионов прибыло. Наши поздравления мистеру Архипову!
+Добить JavaOne:
+
+
+Reflection
+Do you really get your IDE?
+JavaOne keynotes:
+
+
+Intel Keynote
+Technical Keynote
+Community Keynote
+
+
+Project Panama
+Project Valhalla
+
+
+Java EE 8 is Kicking Off
+Why another MVC?
+
+
+
+CPU pinning Java threads with stack and task set
+
+Полезняшки:
+
+
+maven incremental compilation
+Штаны
+Readme
+Шлангуй на работе
+Используй только свежее
+
+
+
+
+
+
+Приложение «Разбор Полетов» для Android. Гитхаб для пулл-реквестов
+
+
+
+
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com
+
+Темы для следующего выпуска - https://github.com/razbor-poletov/
+
+Гости и участники:
+
+twitter:
+
+
+@a_abashev
+@antonarhipov
+@gamussa
+@dzmitryc 
+
+
+
+
+
+
+
+   
+   Your browser does not support the audio tag.
+
+
+Подписаться по RSS
+
+
+
+
+
+
+Музыка ведущим предоставлена и ладно&#8230;
+]]></itunes:summary>
+    </item>
+    
+    <item>
+      <title>Episode 70 — Дневники JavaOne: день 2. Лечим индустрию</title>
+      <link>http://razbor-poletov.com/2014/10/episode-70.html</link>
+      <pubDate>2014-10-01T00:18:00-04:00</pubDate>
+      <guid isPermalink="true">http://razbor-poletov.com/2014/10/episode-70</guid>
+      <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_70_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_70_text.jpg" width="350" /></a>
 </div>
 
@@ -1935,15 +3733,69 @@
 <p><a href="http://traffic.libsyn.com/razborpoletov/razbor_70.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
 
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 69 — Дневники JavaOne 2014: день 1]]></title>
-    <link href="http://razbor-poletov.com/2014/09/episode-69.html"/>
-    <updated>2014-09-30T00:11:00-04:00</updated>
-    <id>http://razbor-poletov.com/2014/09/episode-69</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
+]]></description>
+      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[
+
+
+
+
+
+Приложение «Разбор Полетов» для Android. Гитхаб для пулл-реквестов
+JavaOne
+
+
+Виктор
+Антон
+Барух и Co
+
+
+Битва роботов на световых мечах
+
+
+
+
+
+На правах рекламы:
+
+
+Вакансия от Алексея . Присылайте резюме
+Онлайн курс Modern Web Application Development на русском. Скидка-код RazborPoletov
+
+
+
+
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com
+
+
+
+
+
+   
+   Your browser does not support the audio tag.
+
+
+Подписаться по RSS
+
+
+
+
+
+
+Музыка ведущим предоставлена и ладно&#8230;
+]]></itunes:summary>
+    </item>
+    
+    <item>
+      <title>Episode 69 — Дневники JavaOne 2014: день 1</title>
+      <link>http://razbor-poletov.com/2014/09/episode-69.html</link>
+      <pubDate>2014-09-30T00:11:00-04:00</pubDate>
+      <guid isPermalink="true">http://razbor-poletov.com/2014/09/episode-69</guid>
+      <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_69_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_69_text.jpg" width="350" /></a>
 </div>
 
@@ -1993,15 +3845,68 @@
 <p><a href="http://traffic.libsyn.com/razborpoletov/razbor_69.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
 
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 68 — Грузи всегда и везде!]]></title>
-    <link href="http://razbor-poletov.com/2014/09/episode-68.html"/>
-    <updated>2014-09-14T16:28:00-04:00</updated>
-    <id>http://razbor-poletov.com/2014/09/episode-68</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
+]]></description>
+      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[
+
+
+
+
+
+Приложение «Разбор Полетов» для Android. Гитхаб для пулл-реквестов
+JavaOne
+
+
+Виктор
+Антон
+Барух и Co
+
+
+
+
+
+
+
+На правах рекламы:
+
+
+Вакансия от Алексея . Присылайте резюме
+Онлайн курс Modern Web Application Development на русском. Скидка-код RazborPoletov
+
+
+
+
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com
+
+
+
+
+
+   
+   Your browser does not support the audio tag.
+
+
+Подписаться по RSS
+
+
+
+
+
+
+Музыка ведущим предоставлена и ладно&#8230;
+]]></itunes:summary>
+    </item>
+    
+    <item>
+      <title>Episode 68 — Грузи всегда и везде!</title>
+      <link>http://razbor-poletov.com/2014/09/episode-68.html</link>
+      <pubDate>2014-09-14T16:28:00-04:00</pubDate>
+      <guid isPermalink="true">http://razbor-poletov.com/2014/09/episode-68</guid>
+      <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_68_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_68_text.jpg" width="350" /></a>
 </div>
 
@@ -2089,15 +3994,106 @@
 <p><a href="http://traffic.libsyn.com/razborpoletov/razbor_68.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
 
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 67 — JCrete Special. Пляжный выпуск]]></title>
-    <link href="http://razbor-poletov.com/2014/09/episode-67.html"/>
-    <updated>2014-09-06T11:47:00-04:00</updated>
-    <id>http://razbor-poletov.com/2014/09/episode-67</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
+]]></description>
+      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[
+
+
+
+
+
+Приложение «Разбор Полетов» для Android. Гитхаб для пулл-реквестов
+JavaOne
+
+
+Виктор
+Антон
+Барух и Co
+
+
+Always. Be. Shipping.
+How to write good code
+Senior developers
+Reducing legacy code threats
+
+
+
+Полезняшка:
+
+
+http://start.spring.io
+http://dandelion.github.io/
+http://www.javarepl.com/console.html
+http://boundary.com/blog/2014/05/15/dynamic-tuple-performance-on-the-jvm/
+http://java.dzone.com/articles/mapdb-agile-java-data-engine
+
+
+
+Новости и всячина
+
+
+Gradle 2.1
+What’s in Java 9?
+CloudBees becomes the “Enterprise Jenkins Company”
+
+
+
+
+
+На правах рекламы:
+
+
+Вакансия от Алексея . Присылайте резюме
+Онлайн курс Modern Web Application Development на русском. Скидка-код RazborPoletov
+Конференция Joker promo-code: RAZBOR_POLETOV. It works since today to Sun, Sep 21 5:19 discount 25%
+
+
+
+
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com
+
+Темы для следующего выпуска - https://github.com/razbor-poletov/
+
+Гости и участники:
+
+twitter:
+
+
+@a_abashev
+@antonarhipov
+@gamussa
+
+
+
+
+
+
+
+   
+   Your browser does not support the audio tag.
+
+
+Подписаться по RSS
+
+
+
+
+
+
+Музыка ведущим предоставлена и ладно&#8230;
+]]></itunes:summary>
+    </item>
+    
+    <item>
+      <title>Episode 67 — JCrete Special. Пляжный выпуск</title>
+      <link>http://razbor-poletov.com/2014/09/episode-67.html</link>
+      <pubDate>2014-09-06T11:47:00-04:00</pubDate>
+      <guid isPermalink="true">http://razbor-poletov.com/2014/09/episode-67</guid>
+      <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_67_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_67_text.jpg" width="350" /></a>
 </div>
 
@@ -2163,15 +4159,84 @@
 <p><a href="http://traffic.libsyn.com/razborpoletov/razbor_67.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
 
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 66 — Инъекции, потрошители, кинжалы и пружинки]]></title>
-    <link href="http://razbor-poletov.com/2014/08/episode-66.html"/>
-    <updated>2014-08-27T21:39:00-04:00</updated>
-    <id>http://razbor-poletov.com/2014/08/episode-66</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
+]]></description>
+      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[
+
+
+
+
+
+JCrete
+Nighthacking on JCrete
+Peter Lawrey
+sun.misc.Unsafe
+Project Sumatra
+Gradle
+Asciidoctor
+Gradle Asciidoctor plugin
+Lazybones 1
+Koloboke
+jhiccup
+Конференция Joker в СПб
+
+
+
+
+
+
+Приложение «Разбор Полетов» для Android. Гитхаб для пулл-реквестов
+
+
+
+
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com
+
+Темы для следующего выпуска - https://github.com/razbor-poletov/
+
+Гости и участники:
+
+twitter:
+
+
+@a_abashev
+@antonarhipov
+@yfain
+@23derevo
+@leventov
+@johnwings
+
+
+
+
+
+
+
+   
+   Your browser does not support the audio tag.
+
+
+Подписаться по RSS
+
+
+
+
+
+
+Музыка ведущим предоставлена и ладно&#8230;
+]]></itunes:summary>
+    </item>
+    
+    <item>
+      <title>Episode 66 — Инъекции, потрошители, кинжалы и пружинки</title>
+      <link>http://razbor-poletov.com/2014/08/episode-66.html</link>
+      <pubDate>2014-08-27T21:39:00-04:00</pubDate>
+      <guid isPermalink="true">http://razbor-poletov.com/2014/08/episode-66</guid>
+      <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_66_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_66_text.jpg" width="350" /></a>
 </div>
 
@@ -2227,15 +4292,74 @@
 <p><a href="http://traffic.libsyn.com/razborpoletov/razbor_66.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
 
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 65 — Microsoft уже не тот...]]></title>
-    <link href="http://razbor-poletov.com/2014/08/episode-65.html"/>
-    <updated>2014-08-14T00:25:00-04:00</updated>
-    <id>http://razbor-poletov.com/2014/08/episode-65</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
+]]></description>
+      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[
+
+
+
+
+
+Приложение «Разбор Полетов» для Android. Гитхаб для пулл-реквестов
+Dagger Two. Видео
+Книга про DI
+«Spring-поторошитель» 1 2
+Полезняшка jacabi (log, VerboseThread, jdbc)
+Перестаньте тестировать базу
+
+
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com
+
+Темы для следующего выпуска - https://github.com/razbor-poletov/
+
+Гости и участники:
+
+twitter:
+
+
+@gamussa
+@golodnyj
+@dzmitryc 
+
+
+
+G+:
+
+
+gplus.to/gAmUssA
+https://plus.google.com/+DmitryChurbanov
+
+
+
+
+
+
+
+   
+   Your browser does not support the audio tag.
+
+
+Подписаться по RSS
+
+
+
+
+
+
+Музыка ведущим предоставлена и ладно&#8230;
+]]></itunes:summary>
+    </item>
+    
+    <item>
+      <title>Episode 65 — Microsoft уже не тот&#8230;</title>
+      <link>http://razbor-poletov.com/2014/08/episode-65.html</link>
+      <pubDate>2014-08-14T00:25:00-04:00</pubDate>
+      <guid isPermalink="true">http://razbor-poletov.com/2014/08/episode-65</guid>
+      <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_65_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_65_text.jpg" width="350" /></a>
 </div>
 
@@ -2293,15 +4417,76 @@
 <p><a href="http://traffic.libsyn.com/razborpoletov/razbor_65.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
 
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 64 — Будь профессионалом!]]></title>
-    <link href="http://razbor-poletov.com/2014/07/episode-64.html"/>
-    <updated>2014-07-28T19:31:00-04:00</updated>
-    <id>http://razbor-poletov.com/2014/07/episode-64</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
+]]></description>
+      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[
+
+
+
+
+
+Приложение «Разбор Полетов» для Android
+Как мигрировал Instagram
+Не откладывайте рефакторинг в долгий ящик
+Во всем винить semver
+Полезняшка semver для Java 1 2
+Microsoft уже не тот
+
+
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com
+
+Темы для следующего выпуска - https://github.com/razbor-poletov/
+
+Гости и участники:
+
+twitter:
+
+
+@gamussa
+@a_abashev
+@golodnyj
+@dzmitryc 
+
+
+
+G+:
+
+
+gplus.to/gAmUssA
+gplus.to/aabashev
+https://plus.google.com/+DmitryChurbanov
+
+
+
+
+
+
+
+   
+   Your browser does not support the audio tag.
+
+
+Подписаться по RSS
+
+
+
+
+
+
+Музыка ведущим предоставлена и ладно&#8230;
+]]></itunes:summary>
+    </item>
+    
+    <item>
+      <title>Episode 64 — Будь профессионалом!</title>
+      <link>http://razbor-poletov.com/2014/07/episode-64.html</link>
+      <pubDate>2014-07-28T19:31:00-04:00</pubDate>
+      <guid isPermalink="true">http://razbor-poletov.com/2014/07/episode-64</guid>
+      <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_64_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_64_text.jpg" width="350" /></a>
 </div>
 
@@ -2396,15 +4581,113 @@
 <p><a href="http://traffic.libsyn.com/razborpoletov/razbor_64.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
 
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 63 — В Интернетах кто-то неправ]]></title>
-    <link href="http://razbor-poletov.com/2014/07/episode-63.html"/>
-    <updated>2014-07-15T00:22:00-04:00</updated>
-    <id>http://razbor-poletov.com/2014/07/episode-63</id>
-    <content type="html"><![CDATA[<p><a href="http://xkcd.com/386/">Кто-то неправ</a></p>
+]]></description>
+      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[
+
+
+
+
+Конференции:
+
+
+SpringOne2GX
+JavaOne
+
+
+Виктор
+Антон
+Барух
+
+
+Треп за Groovy
+
+
+gr8conf
+Groovy Weekly
+Кому работы на Groovy 1 2
+
+
+Microservices 1 2 3
+Полезняшки.
+
+
+Список &#8220;на почитать&#8221; про сервисы
+Вышел Tower 2
+Профайлер Connection Pool-ов. Размер имеет значение
+
+
+Будь профессионалом, будь!
+Разбор черной магии JIT
+
+
+
+
+
+На правах рекламы:
+
+
+Онлайн курс Web Application Development with JavaScript and AngularJS на английском. Скидка-код RazborPoletov
+
+
+
+
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com
+
+Темы для следующего выпуска - https://github.com/razbor-poletov/
+
+Гости и участники:
+
+twitter:
+
+
+@gamussa
+@a_abashev
+@antonarhipov
+@dzmitryc 
+@jbaruch
+
+
+
+G+:
+
+
+gplus.to/gAmUssA
+https://plus.google.com/+AntonArhipov
+gplus.to/aabashev
+https://plus.google.com/+DmitryChurbanov
+
+
+
+
+
+
+
+   
+   Your browser does not support the audio tag.
+
+
+Подписаться по RSS
+
+
+
+
+
+
+Музыка ведущим предоставлена и ладно&#8230;
+]]></itunes:summary>
+    </item>
+    
+    <item>
+      <title>Episode 63 — В Интернетах кто-то неправ</title>
+      <link>http://razbor-poletov.com/2014/07/episode-63.html</link>
+      <pubDate>2014-07-15T00:22:00-04:00</pubDate>
+      <guid isPermalink="true">http://razbor-poletov.com/2014/07/episode-63</guid>
+      <description><![CDATA[<p><a href="http://xkcd.com/386/">Кто-то неправ</a></p>
 
 <div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_63_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_63_text.jpg" width="350" /></a>
@@ -2493,15 +4776,107 @@
 <p><a href="http://traffic.libsyn.com/razborpoletov/razbor_63.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
 
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 62 — Учимся на ошибках]]></title>
-    <link href="http://razbor-poletov.com/2014/06/episode-62.html"/>
-    <updated>2014-06-22T16:07:00-04:00</updated>
-    <id>http://razbor-poletov.com/2014/06/episode-62</id>
-    <content type="html"><![CDATA[<p><a href="http://s2.developerslife.ru/public/images/gifs/63e1f331-bee2-4648-af36-709f123ea05d.gif"><strong>Выпуск 18+</strong></a></p>
+]]></description>
+      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[Кто-то неправ
+
+
+
+
+
+
+Конференции:
+
+
+Jenkins User Conference Israel (спонсор - ХАМАС и ЦАХАЛ)
+OSCON: наш человек там
+Летняя Школа ИТИС
+SpringOne2GX
+JavaOne
+
+
+Виктор
+Антон
+Барух
+
+
+Devoxx
+GeekOut UK
+JavaDay
+Continuous delivery &amp; zero downtime
+Building a Continuous Delivery pipeline with Gradle and Jenkins 1 2
+The new TW Radar
+Spring IO Platform 1.0 1 2
+Spring vs JavaEE 1 2
+
+
+
+Пиши код каждый день
+
+
+
+На правах рекламы:
+
+
+Онлайн курс Web Application Development with JavaScript and AngularJS на английском. Скидка-код RazborPoletov
+
+
+
+
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com
+
+Темы для следующего выпуска - https://github.com/razbor-poletov/
+
+Гости и участники:
+
+twitter:
+
+
+@gamussa
+@antonarhipov
+@dzmitryc 
+@jbaruch
+
+
+
+G+:
+
+
+gplus.to/gAmUssA
+https://plus.google.com/+AntonArhipov
+https://plus.google.com/+DmitryChurbanov
+
+
+
+
+
+
+
+   
+   Your browser does not support the audio tag.
+
+
+Подписаться по RSS
+
+
+
+
+
+
+Музыка ведущим предоставлена и ладно&#8230;
+]]></itunes:summary>
+    </item>
+    
+    <item>
+      <title>Episode 62 — Учимся на ошибках</title>
+      <link>http://razbor-poletov.com/2014/06/episode-62.html</link>
+      <pubDate>2014-06-22T16:07:00-04:00</pubDate>
+      <guid isPermalink="true">http://razbor-poletov.com/2014/06/episode-62</guid>
+      <description><![CDATA[<p><a href="http://s2.developerslife.ru/public/images/gifs/63e1f331-bee2-4648-af36-709f123ea05d.gif"><strong>Выпуск 18+</strong></a></p>
 
 <div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_62_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_62_text.jpg" width="350" /></a>
@@ -2587,15 +4962,104 @@
 <p><a href="http://traffic.libsyn.com/razborpoletov/razbor_62.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
 
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 61 — Про яблоки и Свифт]]></title>
-    <link href="http://razbor-poletov.com/2014/06/episode-61.html"/>
-    <updated>2014-06-08T16:43:00-04:00</updated>
-    <id>http://razbor-poletov.com/2014/06/episode-61</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
+]]></description>
+      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[Выпуск 18+
+
+
+
+
+
+
+
+Конференции
+
+
+QCon New York
+GeekOUT 2014 . xrebel
+
+
+Опять про зарплаты
+Разделяй и властвуй? p.s. Один из наш боец в гости ходил и разговаривал про SPA тоже.
+New IDE by JetBrains
+Чему можно научится на ошибках коллег
+Полезняшки
+
+
+tmux и книжка про него
+Умный git
+
+
+Capsule
+Новое? Хорошо забытое старое: Web Fundamentals - Optimizing Performance
+
+
+
+
+
+На правах рекламы:
+
+
+Онлайн курс Modern Web Application Development for Java Programmers на английском. Скидка $50 код RazborPoletov
+
+
+
+
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com
+
+Темы для следующего выпуска - https://github.com/razbor-poletov/
+
+Гости и участники:
+
+twitter:
+
+
+@gamussa
+@antonarhipov
+@a_abashev
+@dzmitryc 
+
+
+
+G+:
+
+
+gplus.to/gAmUssA
+gplus.to/aabashev
+https://plus.google.com/+AntonArhipov
+https://plus.google.com/+DmitryChurbanov
+
+
+
+
+
+
+
+   
+   Your browser does not support the audio tag.
+
+
+Подписаться по RSS
+
+
+
+
+
+
+Музыка ведущим предоставлена и ладно&#8230;
+]]></itunes:summary>
+    </item>
+    
+    <item>
+      <title>Episode 61 — Про яблоки и Свифт</title>
+      <link>http://razbor-poletov.com/2014/06/episode-61.html</link>
+      <pubDate>2014-06-08T16:43:00-04:00</pubDate>
+      <guid isPermalink="true">http://razbor-poletov.com/2014/06/episode-61</guid>
+      <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_61_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_61_text.jpg" width="350" /></a>
 </div>
 
@@ -2673,15 +5137,96 @@
 <p><a href="http://traffic.libsyn.com/razborpoletov/razbor_61.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
 
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 60 — Будьте бдительны!]]></title>
-    <link href="http://razbor-poletov.com/2014/05/episode-60.html"/>
-    <updated>2014-05-18T16:38:00-04:00</updated>
-    <id>http://razbor-poletov.com/2014/05/episode-60</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
+]]></description>
+      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[
+
+
+
+
+Гость Александр Бабаев
+
+Конференции:
+
+
+Виктор на QConNY
+IoT Expo in NYC. These are the steps to get the free pass:
+Go to the special registration page
+Fill out the Attendee Information form
+Select the VIP Gold Pass Registration Option (located on page 3- &#8220;Registration Plan&#8221;)
+Enter the Discount Code: FacultyGuest
+The price will re-set to $0
+
+
+
+Faculty Guest registration does not include lunch or the Collectible Conference Bag, but does provide Full Conference Access for all 3 days - June 10-12. Your guests can choose from our 125+ breakout sessions, general sessions, industry keynotes, and Power Panels and of course attend the Expo Floor. The New York event, which is going to be our biggest ever, now includes Big Data Expo, DevOps Summit, WebRTC Summit, Internet of Things Expo, and SDDC Expo.
+
+
+Стабильность
+Обзор WWDC 2014
+
+
+Мысли
+Swift 1 | 2 | 3 | Swift CheatSheet and quick reference | Сравниваем с Groovy | FlappyBird
+
+
+
+
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com
+
+Темы для следующего выпуска - https://github.com/razbor-poletov/
+
+Гости и участники:
+
+twitter:
+
+
+@gamussa
+@golodnyj
+@bealex
+@antonarhipov
+@a_abashev
+
+
+
+G+:
+
+
+gplus.to/gAmUssA
+gplus.to/aabashev
+https://plus.google.com/+AntonArhipov
+
+
+
+
+
+
+
+   
+   Your browser does not support the audio tag.
+
+
+Подписаться по RSS
+
+
+
+
+
+
+Музыка ведущим предоставлена и ладно&#8230;
+]]></itunes:summary>
+    </item>
+    
+    <item>
+      <title>Episode 60 — Будьте бдительны!</title>
+      <link>http://razbor-poletov.com/2014/05/episode-60.html</link>
+      <pubDate>2014-05-18T16:38:00-04:00</pubDate>
+      <guid isPermalink="true">http://razbor-poletov.com/2014/05/episode-60</guid>
+      <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_60_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_60_text.jpg" width="350" /></a>
 </div>
 
@@ -2774,15 +5319,111 @@
 <p><a href="http://traffic.libsyn.com/razborpoletov/razbor_60.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
 
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 59 — Всех с восьмеркой, молодые, реактивные и динамичные]]></title>
-    <link href="http://razbor-poletov.com/2014/04/episode-59.html"/>
-    <updated>2014-04-06T16:00:00-04:00</updated>
-    <id>http://razbor-poletov.com/2014/04/episode-59</id>
-    <content type="html"><![CDATA[<p>Гость выпуска <a href="https://twitter.com/#!/umputun">Umputun</a></p>
+]]></description>
+      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[
+
+
+
+
+
+JEEConf 2014 - Спрашивайте про стикеры «Разбор Полетов»
+Всякая всячина с DevNation:
+
+
+Docker - по слухам, весь RedHat теперь на нём сидит. Субъективно, самая популярная будка в RedHat expo
+RHQ
+Mbed
+Hawt.io + Fuse/Karaf
+Fabric8
+Vert.x
+GlusterFS
+Строим аналитику: Elasticsearch + Kibana + Logstash
+Shippable (CI/CD, Docker)
+Ещё немножко аналитики
+
+
+Будьте бдительны
+По заказу слушателя, первые отзывы о Modern Web Development от Farata Systems
+
+
+
+
+
+На правах рекламы:
+
+
+Онлайн курс Modern Web Application Development for Java Programmers на английском. Скидка $50 код RazborPoletov
+
+
+
+
+
+Полезняшки
+
+
+http://www.semanticmerge.com/merge-diff-tool-mac.html
+http://www.git-tower.com/learn/
+https://github.com/vovkkk/MarkupViewer
+http://freeside.co/betamax/
+http://www.mitchchn.me/2014/os-x-terminal/
+
+
+
+Groovy 2.3 1 2 3
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com
+
+Темы для следующего выпуска - https://github.com/razbor-poletov/
+
+Гости и участники:
+
+twitter:
+
+
+@gamussa
+@antonarhipov
+@a_abashev
+
+
+
+G+:
+
+
+gplus.to/gAmUssA
+gplus.to/aabashev
+https://plus.google.com/+AntonArhipov
+
+
+
+
+
+
+
+   
+   Your browser does not support the audio tag.
+
+
+Подписаться по RSS
+
+
+
+
+
+
+Музыка ведущим предоставлена и ладно&#8230;
+]]></itunes:summary>
+    </item>
+    
+    <item>
+      <title>Episode 59 — Всех с восьмеркой, молодые, реактивные и динамичные</title>
+      <link>http://razbor-poletov.com/2014/04/episode-59.html</link>
+      <pubDate>2014-04-06T16:00:00-04:00</pubDate>
+      <guid isPermalink="true">http://razbor-poletov.com/2014/04/episode-59</guid>
+      <description><![CDATA[<p>Гость выпуска <a href="https://twitter.com/#!/umputun">Umputun</a></p>
 
 <div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_59_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_59_text.jpg" width="350" /></a>
@@ -2875,15 +5516,111 @@
 <p><a href="http://traffic.libsyn.com/razborpoletov/razbor_59.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
 
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 58 — Конференции, анонимные программисты и добро]]></title>
-    <link href="http://razbor-poletov.com/2014/03/episode-58.html"/>
-    <updated>2014-03-23T17:44:00-04:00</updated>
-    <id>http://razbor-poletov.com/2014/03/episode-58</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
+]]></description>
+      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[Гость выпуска Umputun
+
+
+
+
+
+
+Java 8:
+
+
+Java 8 Features
+CompletableFuture in Java 8
+Java 8 in Enterprise Projects
+There is no future in Java Futures
+Running Node.js applications on the JVM with Nashorn and Java 8 + Benchmark
+
+
+
+Reactive Programming
+
+
+RxJava
+Functional Reactive in the Netflix API with RxJava
+Principles of reactive programming at Coursera
+Hysterix (based on RxJava)
+Reactive Programming in JavaScript
+ReactJS
+RxJS
+Reactive extensions for JavaFx
+Несколько раздраженных комментариев по ходу чтения &#8220;The Reactive Manifesto&#8221;
+
+
+
+Полезняшки:
+
+
+CAP FAQ
+The Web Developer&#8217;s Toolkit
+SparkShare 1 2
+StackEdit
+AD-Editor
+
+
+
+10 Surprising Ways To Transform Your Creative Thinking
+
+Промо-код RAZBOR_POLETOV. Скидка на JPoint (25%) и JEEConf (20%)
+
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com
+
+Темы для следующего выпуска - https://github.com/razbor-poletov/
+
+Гости и участники:
+
+twitter:
+
+
+@gamussa
+@antonarhipov
+@a_abashev
+@umputun
+@jbaruch
+
+
+
+G+:
+
+
+gplus.to/gAmUssA
+gplus.to/aabashev
+https://plus.google.com/+AntonArhipov
+
+
+
+
+
+
+
+   
+   Your browser does not support the audio tag.
+
+
+Подписаться по RSS
+
+
+
+
+
+
+Музыка ведущим предоставлена и ладно&#8230;
+]]></itunes:summary>
+    </item>
+    
+    <item>
+      <title>Episode 58 — Конференции, анонимные программисты и добро</title>
+      <link>http://razbor-poletov.com/2014/03/episode-58.html</link>
+      <pubDate>2014-03-23T17:44:00-04:00</pubDate>
+      <guid isPermalink="true">http://razbor-poletov.com/2014/03/episode-58</guid>
+      <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_58_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_58_text.jpg" width="350" /></a>
 </div>
 
@@ -2962,15 +5699,97 @@
 <p><a href="http://traffic.libsyn.com/razborpoletov/razbor_58.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
 
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 57 — Новые технологии на нашем радаре]]></title>
-    <link href="http://razbor-poletov.com/2014/03/episode-57.html"/>
-    <updated>2014-03-16T16:40:00-04:00</updated>
-    <id>http://razbor-poletov.com/2014/03/episode-57</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
+]]></description>
+      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[
+
+
+
+
+Приглашенные гости:
+
+Алексей Федоров про JPoint
+
+Yakov Fain про неконференции 1 2
+
+Николай Алименков про JEEConf 2014
+
+
+
+Конференции
+GeekOUT 2014
+JavaOne 2014
+
+Неконференции
+JCrete
+
+Опросник от RebelLabs http://0t.ee/rlsurvey14
+
+&#8220;Глобальное добро&#8221; в software development.
+
+
+
+Промо-код RAZBOR_POLETOV. Скидка на JPoint (25%) и JEE (20%)
+
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com
+
+Темы для следующего выпуска - https://github.com/razbor-poletov/
+
+Гости и участники:
+
+twitter:
+
+
+@gamussa
+@antonarhipov
+@a_abashev
+@dzmitryc 
+@23derevo
+@yfain
+@xpinjection
+@jbaruch
+
+
+
+G+:
+
+
+gplus.to/gAmUssA
+gplus.to/aabashev
+https://plus.google.com/+AntonArhipov
+https://plus.google.com/+DmitryChurbanov
+
+
+
+
+
+
+
+   
+   Your browser does not support the audio tag.
+
+
+Подписаться по RSS
+
+
+
+
+
+
+Музыка ведущим предоставлена и ладно&#8230;
+]]></itunes:summary>
+    </item>
+    
+    <item>
+      <title>Episode 57 — Новые технологии на нашем радаре</title>
+      <link>http://razbor-poletov.com/2014/03/episode-57.html</link>
+      <pubDate>2014-03-16T16:40:00-04:00</pubDate>
+      <guid isPermalink="true">http://razbor-poletov.com/2014/03/episode-57</guid>
+      <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_57_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_57_text.jpg" width="350" /></a>
 </div>
 
@@ -3040,15 +5859,88 @@
 <p><a href="http://traffic.libsyn.com/razborpoletov/razbor_57.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
 
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 56 — I eat Green Berets for breakfast]]></title>
-    <link href="http://razbor-poletov.com/2014/03/episode-56.html"/>
-    <updated>2014-03-02T16:17:00-05:00</updated>
-    <id>http://razbor-poletov.com/2014/03/episode-56</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
+]]></description>
+      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[
+
+
+
+
+
+Вопрос и зала
+Про уверенность в себе и технологии
+Что-то маячет на радаре
+Полезняшка
+
+
+2048
+segment.io
+Version Control by example
+Fossil
+Chronon debugger
+
+
+The Netflix Scripting Platform
+10 правил code review
+
+
+
+
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com
+
+Темы для следующего выпуска - https://github.com/razbor-poletov/
+
+Гости и участники:
+
+twitter:
+
+
+Виктор Гамов-Загудзонский
+Антон Архипов-Шпайзман
+Алексей Шариков Абашев
+Дмитрий Чурбанов-Деревянский 
+
+
+
+G+:
+
+
+gplus.to/gAmUssA
+gplus.to/aabashev
+https://plus.google.com/+AntonArhipov
+https://plus.google.com/+DmitryChurbanov
+
+
+
+
+
+
+
+   
+   Your browser does not support the audio tag.
+
+
+Подписаться по RSS
+
+
+
+
+
+
+Музыка ведущим предоставлена и ладно&#8230;
+]]></itunes:summary>
+    </item>
+    
+    <item>
+      <title>Episode 56 — I eat Green Berets for breakfast</title>
+      <link>http://razbor-poletov.com/2014/03/episode-56.html</link>
+      <pubDate>2014-03-02T16:17:00-05:00</pubDate>
+      <guid isPermalink="true">http://razbor-poletov.com/2014/03/episode-56</guid>
+      <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_56_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_56_text.jpg" width="350" /></a>
 </div>
 
@@ -3132,15 +6024,102 @@
 <p><a href="http://traffic.libsyn.com/razborpoletov/razbor_56.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
 
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 55 — Dr. H. Kabutz, ты кто такой?! давайдосвиданья!]]></title>
-    <link href="http://razbor-poletov.com/2014/02/episode-55.html"/>
-    <updated>2014-02-16T17:45:00-05:00</updated>
-    <id>http://razbor-poletov.com/2014/02/episode-55</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
+]]></description>
+      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[
+
+
+
+
+
+Музыка нас связала
+Финагл
+Арни 1 2
+Раcщепляем атом
+Полезняшка
+
+
+direnv
+pageres
+Notifications 1 2
+Fluent Assertions и для REST
+
+
+Архитектура WhatsApp
+SAAS
+Немного о client-side 1 2
+
+
+
+
+
+Конференция GeekOut 2014
+
+
+
+На правах рекламы:
+
+
+Онлайн курс Modern Web Application Development for Java Programmers на английском. Скидка $50 код RazborPoletov . Course agenda. Добавляйтесь в watchers на GitHub.
+
+
+
+
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com
+
+Темы для следующего выпуска - https://github.com/razbor-poletov/
+
+Гости и участники:
+
+twitter:
+
+
+@gamussa
+@antonarhipov
+@a_abashev
+@dzmitryc 
+
+
+
+G+:
+
+
+gplus.to/gAmUssA
+gplus.to/aabashev
+https://plus.google.com/+AntonArhipov
+https://plus.google.com/+DmitryChurbanov
+
+
+
+
+
+
+
+   
+   Your browser does not support the audio tag.
+
+
+Подписаться по RSS
+
+
+
+
+
+
+Музыка ведущим предоставлена и ладно&#8230;
+]]></itunes:summary>
+    </item>
+    
+    <item>
+      <title>Episode 55 — Dr. H. Kabutz, ты кто такой?! давайдосвиданья!</title>
+      <link>http://razbor-poletov.com/2014/02/episode-55.html</link>
+      <pubDate>2014-02-16T17:45:00-05:00</pubDate>
+      <guid isPermalink="true">http://razbor-poletov.com/2014/02/episode-55</guid>
+      <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_55_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_55_text.jpg" width="350" /></a>
 </div>
 
@@ -3205,15 +6184,83 @@
 <p><a href="http://traffic.libsyn.com/razborpoletov/razbor_55.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
 
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 54 — Dart-аньян веб-разработки]]></title>
-    <link href="http://razbor-poletov.com/2014/01/episode-54.html"/>
-    <updated>2014-01-26T16:37:00-05:00</updated>
-    <id>http://razbor-poletov.com/2014/01/episode-54</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
+]]></description>
+      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[
+
+
+
+
+
+Эй, ты кто такой? давайдосвидания! 1 2. Java Concurrent Animated
+TypeSafe DSL, Time in Java 8
+Полезняшка 1 2 3
+Шрифты 1 2
+Gif Screencast 1 2
+Книжный клуб: Driving Technical Change: Why People on Your Team Don&#8217;t Act on Good Ideas, and How to Convince Them They Should
+Cloud Patterns
+Db shards
+API versioning 
+Почему Google использует Java, а не Python и их стандарты
+
+
+
+
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com
+
+Темы для следующего выпуска - https://github.com/razbor-poletov/
+
+Гости и участники:
+
+twitter:
+
+
+@gamussa
+@antonarhipov
+@a_abashev
+@dzmitryc 
+
+
+
+G+:
+
+
+gplus.to/gAmUssA
+gplus.to/aabashev
+https://plus.google.com/+AntonArhipov
+https://plus.google.com/+DmitryChurbanov
+
+
+
+
+
+
+
+   
+   Your browser does not support the audio tag.
+
+
+Подписаться по RSS
+
+
+
+
+
+
+Музыка ведущим предоставлена и ладно&#8230;
+]]></itunes:summary>
+    </item>
+    
+    <item>
+      <title>Episode 54 — Dart-аньян веб-разработки</title>
+      <link>http://razbor-poletov.com/2014/01/episode-54.html</link>
+      <pubDate>2014-01-26T16:37:00-05:00</pubDate>
+      <guid isPermalink="true">http://razbor-poletov.com/2014/01/episode-54</guid>
+      <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_54_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_54_text.jpg" width="350" /></a>
 </div>
 
@@ -3322,15 +6369,127 @@ January 30, 2014 from 6:00 PM to 8:30 PM, New York, NY</p>
 <p><a href="http://traffic.libsyn.com/razborpoletov/razbor_54.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
 
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 53 — Цейлонский выпуск]]></title>
-    <link href="http://razbor-poletov.com/2014/01/episode-53.html"/>
-    <updated>2014-01-12T17:01:00-05:00</updated>
-    <id>http://razbor-poletov.com/2014/01/episode-53</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
+]]></description>
+      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[
+
+
+
+
+Гость выпуска - Константин Щеглов, Google
+
+Подводим итоги конкурса на лучшую поздравительную открытку
+
+
+
+Конференция GeekOut 2014
+
+NYJavaSIG - Nashorn: Java and JavaScript. Shaken, Not Stirred
+January 30, 2014 from 6:00 PM to 8:30 PM, New York, NY
+
+
+
+Небольшой вброс в тему фронт-енда 1 2 3 4
+
+Говорим сегодня про Dart:
+
+
+Релиз Dart 1.0 и следом за ним 1.1
+Try Dart! 1 2
+Dart Event Loop
+Tools 1 2 3
+Dart build-in HTML methods vs jQuery
+AngularDart
+Стандартизация Dart
+Говорили про REST, Dart и конференции 
+
+
+
+Полезные ресурсы Dart:
+
+
+DartWeekly
+DartSphere
+Dart Cheat Sheet
+
+
+
+Книги по Dart:
+
+
+Dart Programming Language
+Dart For Hipsters
+Dart in Action
+
+
+
+Cool stuff: ICE code editor and Demo
+
+
+
+На правах рекламы:
+
+
+Онлайн курс Modern Web Application Development for Java Programmers Скидка $50 код RazborPoletov . Course agenda. Добавляйтесь в watchers на GitHub.
+
+
+
+
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com
+
+Темы для следующего выпуска - https://github.com/razbor-poletov/
+
+Гости и участники:
+
+twitter:
+
+
+@gamussa
+@antonarhipov
+@a_abashev
+@dzmitryc 
+
+
+
+G+:
+
+
+gplus.to/gAmUssA
+gplus.to/aabashev
+https://plus.google.com/+AntonArhipov
+https://plus.google.com/+DmitryChurbanov
+
+
+
+
+
+
+
+   
+   Your browser does not support the audio tag.
+
+
+Подписаться по RSS
+
+
+
+
+
+
+Музыка ведущим предоставлена и ладно&#8230;
+]]></itunes:summary>
+    </item>
+    
+    <item>
+      <title>Episode 53 — Цейлонский выпуск</title>
+      <link>http://razbor-poletov.com/2014/01/episode-53.html</link>
+      <pubDate>2014-01-12T17:01:00-05:00</pubDate>
+      <guid isPermalink="true">http://razbor-poletov.com/2014/01/episode-53</guid>
+      <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_53_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_53_text.jpg" width="350" /></a>
 </div>
 
@@ -3410,15 +6569,98 @@ January 30, 2014 from 6:00 PM to 8:30 PM, New York, NY</p>
 <p><a href="http://traffic.libsyn.com/razborpoletov/razbor_53.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
 
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Поздравительная открытка — 2013]]></title>
-    <link href="http://razbor-poletov.com/2013/12/greeting-card-2013.html"/>
-    <updated>2013-12-28T15:05:00-05:00</updated>
-    <id>http://razbor-poletov.com/2013/12/greeting-card-2013</id>
-    <content type="html"><![CDATA[<p>Уважаемые слушатели!</p>
+]]></description>
+      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[
+
+
+
+
+Итоги года 1, 2, 3.
+
+Про Ceylon 1, 2 и бонус от ZT 1, 2, 3
+
+Полезняшка
+
+
+MicroMongo
+Параметризованные jUnit tests 1 2
+Плагины для Quick Look
+Темы для админок
+
+
+
+Scaling Mercurial at Facebook
+
+Continuous Deliver = Continuous Disappointment
+
+Silence, I said!
+
+
+
+На правах рекламы:
+
+
+Онлайн курс Modern Web Application Development for Java Programmers Скидка $50 код RazborPoletov . Course agenda. Добавляйтесь в watchers на GitHub.
+
+
+
+
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com
+
+Темы для следующего выпуска - https://github.com/razbor-poletov/
+
+Гости и участники:
+
+twitter:
+
+
+@gamussa
+@antonarhipov
+@a_abashev
+@dzmitryc 
+
+
+
+G+:
+
+
+gplus.to/gAmUssA
+gplus.to/aabashev
+https://plus.google.com/+AntonArhipov
+https://plus.google.com/+DmitryChurbanov
+
+
+
+
+
+
+
+   
+   Your browser does not support the audio tag.
+
+
+Подписаться по RSS
+
+
+
+
+
+
+Музыка ведущим предоставлена и ладно&#8230;
+]]></itunes:summary>
+    </item>
+    
+    <item>
+      <title>Поздравительная открытка — 2013</title>
+      <link>http://razbor-poletov.com/2013/12/greeting-card-2013.html</link>
+      <pubDate>2013-12-28T15:05:00-05:00</pubDate>
+      <guid isPermalink="true">http://razbor-poletov.com/2013/12/greeting-card-2013</guid>
+      <description><![CDATA[<p>Уважаемые слушатели!</p>
 
 <p>Поздравляем с наступающим Новым Годом и Рождеством!</p>
 
@@ -3436,15 +6678,36 @@ January 30, 2014 from 6:00 PM to 8:30 PM, New York, NY</p>
 <p>Свои поздравления оставляйте в комментариях к этому посту или в G+ (ссылка на этот пост должна присутствовать).</p>
 
 <p><a href="http://razbor-poletov.com">Редакция подкаста «Разбор Полетов»</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 52 — Главный по IDEA]]></title>
-    <link href="http://razbor-poletov.com/2013/12/episode-52.html"/>
-    <updated>2013-12-22T17:03:00-05:00</updated>
-    <id>http://razbor-poletov.com/2013/12/episode-52</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
+]]></description>
+      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[Уважаемые слушатели!
+
+Поздравляем с наступающим Новым Годом и Рождеством!
+
+
+
+
+
+
+Поздравления с Новым Годом принимает компания ZeroTurnaround. Лучшие поздравления будут премированы Kindle Paperwhite. В качестве поздравлений принимаются скринкасты, блогпосты или классные багрепорты о JRebel или LiveRebel.
+
+Поздравления с Новым Годом принимает компания InfoboxCloud. Лучшие поздравления, скринкасты и блогпосты будут премированы зачислением 2014 рублей на счет ваших аккаунтов платформы Jelastic в облаке InfoboxCloud. Все остальные слушатели подкаста получают 201.4 рубля на счет, 3 клаудлета и 1 ip адрес бесплатно и навсегда после перехода с триала в коммерческий режим, просто зарегистрировавшись по ссылке.
+
+Так же поздравления принимают компании Jetbrains и JFrog. Лучшие поздравления будут премированы клёвыми футболками от JFrog и лицензиями на IntelliJ IDEA 13.
+
+Свои поздравления оставляйте в комментариях к этому посту или в G+ (ссылка на этот пост должна присутствовать).
+
+Редакция подкаста «Разбор Полетов»
+]]></itunes:summary>
+    </item>
+    
+    <item>
+      <title>Episode 52 — Главный по IDEA</title>
+      <link>http://razbor-poletov.com/2013/12/episode-52.html</link>
+      <pubDate>2013-12-22T17:03:00-05:00</pubDate>
+      <guid isPermalink="true">http://razbor-poletov.com/2013/12/episode-52</guid>
+      <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_52_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_52_text.jpg" width="350" /></a>
 </div>
 
@@ -3522,15 +6785,96 @@ January 30, 2014 from 6:00 PM to 8:30 PM, New York, NY</p>
 <p><a href="http://traffic.libsyn.com/razborpoletov/razbor_52.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
 
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 51 — Spring на нашей улице]]></title>
-    <link href="http://razbor-poletov.com/2013/12/episode-51.html"/>
-    <updated>2013-12-15T16:40:00-05:00</updated>
-    <id>http://razbor-poletov.com/2013/12/episode-51</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
+]]></description>
+      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[
+
+
+
+
+Гость выпуска — Андрей Чепцов из JetBrains
+
+
+What’s new
+Что нового в IDEA 13
+Presentation Assistant
+IntelliJ Code Golf
+Intellij Configuration Server Plugin
+Поддержка Spring Batch
+Изменения в лицензировании
+Использование профайлов
+Вопросы из зала
+C++ IDE private beta
+
+
+
+
+
+На правах рекламы:
+
+
+Онлайн курс Modern Web Application Development for Java Programmers Скидка $50 код RazborPoletov . Course agenda. Добавляйтесь в watchers на GitHub.
+
+
+
+
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com
+
+Темы для следующего выпуска - https://github.com/razbor-poletov/
+
+Гости и участники:
+
+twitter:
+
+
+@gamussa
+@antonarhipov
+@a_abashev
+@dzmitryc 
+@andrey_cheptsov 
+@jbaruch
+
+
+
+G+:
+
+
+gplus.to/gAmUssA
+gplus.to/aabashev
+https://plus.google.com/+AntonArhipov
+https://plus.google.com/+DmitryChurbanov
+
+
+
+
+
+
+
+   
+   Your browser does not support the audio tag.
+
+
+Подписаться по RSS
+
+
+
+
+
+
+Музыка ведущим предоставлена и ладно&#8230;
+]]></itunes:summary>
+    </item>
+    
+    <item>
+      <title>Episode 51 — Spring на нашей улице</title>
+      <link>http://razbor-poletov.com/2013/12/episode-51.html</link>
+      <pubDate>2013-12-15T16:40:00-05:00</pubDate>
+      <guid isPermalink="true">http://razbor-poletov.com/2013/12/episode-51</guid>
+      <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_51_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_51_text.jpg" width="350" /></a>
 </div>
 
@@ -3621,15 +6965,109 @@ January 30, 2014 from 6:00 PM to 8:30 PM, New York, NY</p>
 <p><a href="http://traffic.libsyn.com/razborpoletov/razbor_51.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
 
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 50 — I'm an architect and I don't know what I'm doing]]></title>
-    <link href="http://razbor-poletov.com/2013/12/episode-50.html"/>
-    <updated>2013-12-01T17:08:00-05:00</updated>
-    <id>http://razbor-poletov.com/2013/12/episode-50</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
+]]></description>
+      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[
+
+
+
+
+Кудо про наклейки и donations!
+
+Спасибо http://d-vision.kz и нашим слушателям!
+
+Ответ на Радио-Т про @Autowired и на почитать: 1 и 2
+
+Spring 4
+
+
+Everything about Java 8
+Разбираем фичи по полочкам
+
+
+
+Полезняшки:
+
+
+HikariCP and its Correctness
+OSX and TimeMachine Tips
+
+
+
+Чем лучше GCE
+
+
+GoogleCloudPlatform на гитхабе
+Starter Pack
+
+
+
+Темы слушателей
+
+
+
+На правах рекламы:
+
+
+Онлайн курс Modern Web Application Development for Java Programmers Скидка $50 код RazborPoletov . Course agenda. Добавляйтесь в watchers на GitHub.
+
+
+
+
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com
+
+Темы для следующего выпуска - https://github.com/razbor-poletov/
+
+Гости и участники:
+
+twitter:
+
+
+@gamussa
+@antonarhipov
+@a_abashev
+@dzmitryc 
+
+
+
+G+:
+
+
+gplus.to/gAmUssA
+gplus.to/aabashev
+https://plus.google.com/+AntonArhipov
+
+
+
+
+
+
+
+   
+   Your browser does not support the audio tag.
+
+
+Подписаться по RSS
+
+
+
+
+
+
+Музыка ведущим предоставлена и ладно&#8230;
+]]></itunes:summary>
+    </item>
+    
+    <item>
+      <title>Episode 50 — I&#8217;m an architect and I don&#8217;t know what I&#8217;m doing</title>
+      <link>http://razbor-poletov.com/2013/12/episode-50.html</link>
+      <pubDate>2013-12-01T17:08:00-05:00</pubDate>
+      <guid isPermalink="true">http://razbor-poletov.com/2013/12/episode-50</guid>
+      <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_50_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_50_text.jpg" width="350" /></a>
 </div>
 
@@ -3710,15 +7148,99 @@ January 30, 2014 from 6:00 PM to 8:30 PM, New York, NY</p>
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
 
 <p><a href="http://richardhuante.deviantart.com/art/Sexy-Architect-334903123">Картинка найдена в интернете</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 49 — Напиться пива и поработать сверхурочно]]></title>
-    <link href="http://razbor-poletov.com/2013/11/episode-49.html"/>
-    <updated>2013-11-17T19:28:00-05:00</updated>
-    <id>http://razbor-poletov.com/2013/11/episode-49</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
+]]></description>
+      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[
+
+
+
+
+Кудо про наклейки и donations!
+
+Спасибо http://d-vision.kz и нашим слушателям!
+
+Новости одной строкой:
+
+
+Gradle v.1.9
+резидент и контрибьютер подкаста теперь коммитеры в груви
+про фичи jdk8. А если ты в NYC, то приходи послушать про них из первых уст.
+
+
+
+И про мониторинг вообще поговорить 
+
+Полезняшки:
+
+
+tryjava8
+Rebase and Squash. И еще по теме
+jHipster
+
+
+
+Java-архитекторы, кто эти люди
+
+Как развивался их код 1 2 3
+
+Стоит ли опускать себя в угоду комманде
+
+Внеклассное чтение
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com
+
+Темы для следующего выпуска - https://github.com/razbor-poletov/
+
+Гости и участники:
+
+twitter:
+
+
+@gamussa
+@antonarhipov
+@a_abashev
+
+
+
+G+:
+
+
+gplus.to/gAmUssA
+gplus.to/aabashev
+https://plus.google.com/+AntonArhipov
+
+
+
+
+
+
+
+   
+   Your browser does not support the audio tag.
+
+
+Подписаться по RSS
+
+
+
+
+
+
+Музыка ведущим предоставлена и ладно&#8230;
+
+Картинка найдена в интернете
+]]></itunes:summary>
+    </item>
+    
+    <item>
+      <title>Episode 49 — Напиться пива и поработать сверхурочно</title>
+      <link>http://razbor-poletov.com/2013/11/episode-49.html</link>
+      <pubDate>2013-11-17T19:28:00-05:00</pubDate>
+      <guid isPermalink="true">http://razbor-poletov.com/2013/11/episode-49</guid>
+      <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_49_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_49_text.jpg" width="350" /></a>
 </div>
 
@@ -3788,15 +7310,88 @@ January 30, 2014 from 6:00 PM to 8:30 PM, New York, NY</p>
 <p><a href="http://traffic.libsyn.com/razborpoletov/razbor_49.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
 
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 48 — Потоки наших сознаний в Ваши уши]]></title>
-    <link href="http://razbor-poletov.com/2013/11/episode-48.html"/>
-    <updated>2013-11-08T15:00:00-05:00</updated>
-    <id>http://razbor-poletov.com/2013/11/episode-48</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
+]]></description>
+      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[
+
+
+
+
+Кудо про наклейки и donations!
+Спасибо http://d-vision.kz и нашим слушателям!
+
+
+Новости одной строкой: 1 2
+Про Спринг и вебсокеты
+Глава из нашей книги про WebSocket
+Benchmarks под это дело 1 2
+Cоветы знатоков
+
+
+
+Полезняшка:
+
+
+Code conventions
+Обзор IAASов
+Animatron
+
+
+
+Напиться пива и поработать сверхурочно
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com
+
+Темы для следующего выпуска - https://github.com/razbor-poletov/
+
+Гости и участники:
+
+twitter:
+
+
+@gamussa
+@antonarhipov
+@a_abashev
+@dzmitryc 
+
+
+
+G+:
+
+
+gplus.to/gAmUssA
+gplus.to/aabashev
+
+
+
+
+
+
+
+   
+   Your browser does not support the audio tag.
+
+
+Подписаться по RSS
+
+
+
+
+
+
+Музыка ведущим предоставлена и ладно&#8230;
+]]></itunes:summary>
+    </item>
+    
+    <item>
+      <title>Episode 48 — Потоки наших сознаний в Ваши уши</title>
+      <link>http://razbor-poletov.com/2013/11/episode-48.html</link>
+      <pubDate>2013-11-08T15:00:00-05:00</pubDate>
+      <guid isPermalink="true">http://razbor-poletov.com/2013/11/episode-48</guid>
+      <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_48_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_48_text.jpg" width="350" /></a>
 </div>
 
@@ -3874,15 +7469,96 @@ January 30, 2014 from 6:00 PM to 8:30 PM, New York, NY</p>
 <p><a href="http://traffic.libsyn.com/razborpoletov/razbor_48.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
 
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 47 — Дневники JavaOne 2013: День 3]]></title>
-    <link href="http://razbor-poletov.com/2013/09/episode-47.html"/>
-    <updated>2013-09-26T10:55:00-04:00</updated>
-    <id>http://razbor-poletov.com/2013/09/episode-47</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
+]]></description>
+      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[
+
+
+
+
+Кудо про наклейки и donations!
+Спасибо http://d-vision.kz и нашим слушателям!
+
+The trouble with timestamps
+
+Много про F1:
+
+
+http://research.google.com/pubs/pub41344.html
+http://research.google.com/pubs/pub41376.html
+
+
+
+Полезняшка
+
+
+// http://codenotes.me/usage - сдохла
+http://explainshell.com/
+http://www.shellcheck.net/about.html
+http://pitest.org/
+http://ideacolorthemes.org/
+
+
+
+Новая Java Монги
+
+Антипаттерны для презентаций
+
+Вьетнамцы с кувалдой
+
+Лог чата
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com
+
+Гости и участники:
+
+twitter:
+
+
+@gamussa
+@antonarhipov
+@a_abashev
+@dzmitryc 
+@umputun
+
+
+
+G+:
+
+
+gplus.to/gAmUssA
+gplus.to/aabashev
+
+
+
+
+
+
+
+   
+   Your browser does not support the audio tag.
+
+
+Подписаться по RSS
+
+
+
+
+
+
+Музыка ведущим предоставлена и ладно&#8230;
+]]></itunes:summary>
+    </item>
+    
+    <item>
+      <title>Episode 47 — Дневники JavaOne 2013: День 3</title>
+      <link>http://razbor-poletov.com/2013/09/episode-47.html</link>
+      <pubDate>2013-09-26T10:55:00-04:00</pubDate>
+      <guid isPermalink="true">http://razbor-poletov.com/2013/09/episode-47</guid>
+      <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_47_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_47_text.jpg" width="350" /></a>
 </div>
 
@@ -3927,15 +7603,63 @@ January 30, 2014 from 6:00 PM to 8:30 PM, New York, NY</p>
 <p><a href="http://traffic.libsyn.com/razborpoletov/razbor_47.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
 
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 46 — Дневники JavaOne 2013: День 2]]></title>
-    <link href="http://razbor-poletov.com/2013/09/episode-46.html"/>
-    <updated>2013-09-25T08:29:00-04:00</updated>
-    <id>http://razbor-poletov.com/2013/09/episode-46</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
+]]></description>
+      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[
+
+
+
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com
+
+Гости и участники:
+
+twitter:
+
+
+@gigabel
+@gamussa
+@antonarhipov
+@andrey_kogun
+
+
+
+G+:
+
+
+gplus.to/gAmUssA
+gplus.to/aabashev
+
+
+
+
+
+
+
+   
+   Your browser does not support the audio tag.
+
+
+Подписаться по RSS
+
+
+
+
+
+
+Музыка ведущим предоставлена и ладно&#8230;
+]]></itunes:summary>
+    </item>
+    
+    <item>
+      <title>Episode 46 — Дневники JavaOne 2013: День 2</title>
+      <link>http://razbor-poletov.com/2013/09/episode-46.html</link>
+      <pubDate>2013-09-25T08:29:00-04:00</pubDate>
+      <guid isPermalink="true">http://razbor-poletov.com/2013/09/episode-46</guid>
+      <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_46_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_46_text.jpg" width="350" /></a>
 </div>
 
@@ -3981,15 +7705,64 @@ January 30, 2014 from 6:00 PM to 8:30 PM, New York, NY</p>
 <p><a href="http://traffic.libsyn.com/razborpoletov/razbor_46.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
 
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 45 — Дневники JavaOne 2013: День 1]]></title>
-    <link href="http://razbor-poletov.com/2013/09/episode-45.html"/>
-    <updated>2013-09-24T01:33:00-04:00</updated>
-    <id>http://razbor-poletov.com/2013/09/episode-45</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
+]]></description>
+      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[
+
+
+
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com
+
+Гости и участники:
+
+twitter:
+
+
+@iNikem
+@gigabel
+@jbaruch
+@gamussa
+@antonarhipov
+
+
+
+G+:
+
+
+gplus.to/gAmUssA
+gplus.to/aabashev
+
+
+
+
+
+
+
+   
+   Your browser does not support the audio tag.
+
+
+Подписаться по RSS
+
+
+
+
+
+
+Музыка ведущим предоставлена и ладно&#8230;
+]]></itunes:summary>
+    </item>
+    
+    <item>
+      <title>Episode 45 — Дневники JavaOne 2013: День 1</title>
+      <link>http://razbor-poletov.com/2013/09/episode-45.html</link>
+      <pubDate>2013-09-24T01:33:00-04:00</pubDate>
+      <guid isPermalink="true">http://razbor-poletov.com/2013/09/episode-45</guid>
+      <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_45_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_45_text.jpg" width="350" /></a>
 </div>
 
@@ -4040,15 +7813,69 @@ January 30, 2014 from 6:00 PM to 8:30 PM, New York, NY</p>
 <p><a href="http://traffic.libsyn.com/razborpoletov/razbor_45.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
 
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 44 — О чем спляшем и споем на JavaOne]]></title>
-    <link href="http://razbor-poletov.com/2013/09/episode-44.html"/>
-    <updated>2013-09-16T16:31:00-04:00</updated>
-    <id>http://razbor-poletov.com/2013/09/episode-44</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
+]]></description>
+      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[
+
+
+
+
+Making Java Groovy
+Промокод MLGO13CF
+
+p.p.s. По многочисленным просьбам вернул музыку в конце подкаста.
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com
+
+Гости и участники:
+
+twitter:
+
+
+@andrey_kogun
+@iNikem
+@gamussa
+@antonarhipov
+@DanKalashnikov
+
+
+
+G+:
+
+
+gplus.to/gAmUssA
+gplus.to/aabashev
+
+
+
+
+
+
+
+   
+   Your browser does not support the audio tag.
+
+
+Подписаться по RSS
+
+
+
+
+
+
+Музыка ведущим предоставлена и ладно&#8230;
+]]></itunes:summary>
+    </item>
+    
+    <item>
+      <title>Episode 44 — О чем спляшем и споем на JavaOne</title>
+      <link>http://razbor-poletov.com/2013/09/episode-44.html</link>
+      <pubDate>2013-09-16T16:31:00-04:00</pubDate>
+      <guid isPermalink="true">http://razbor-poletov.com/2013/09/episode-44</guid>
+      <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_44_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_44_text.jpg" width="350" /></a>
 </div>
 
@@ -4151,15 +7978,121 @@ January 30, 2014 from 6:00 PM to 8:30 PM, New York, NY</p>
 <p><a href="http://traffic.libsyn.com/razborpoletov/razbor_44.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
 
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 43 — Диалоги о JetBrains]]></title>
-    <link href="http://razbor-poletov.com/2013/08/episode-43.html"/>
-    <updated>2013-08-23T14:41:00-04:00</updated>
-    <id>http://razbor-poletov.com/2013/08/episode-43</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
+]]></description>
+      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[
+
+
+
+
+Gold is best!
+
+Конференции
+
+
+JavaOne 2013. Куда сходить
+
+
+ Sessions Builder
+ Jake Blues
+ Elwood Blues
+ GlassFish Party
+ Code Garden
+
+
+
+
+
+Еще конференции:
+
+
+JavaDay Киев
+XPdays. Подробней&#8230;
+JavaDay Рига
+Joker
+
+
+
+Новости одной строкой:
+
+
+релиз JDK 1.7 u40 с поддержкой ретины и почему это важно. А так же Mission Control и Flight Recorder
+JDK 1.8 Developer Preview
+Nashorn Fireworks Demo
+
+
+
+Гавностратс 
+
+Полезняшки (очень много!!!):
+
+
+Очереди
+Workflows
+Забэкапь свой гит
+Правильный плагин для AsciiDoc
+Новое место для Spring
+Сервера:
+
+
+ Откат
+ Коротышка в плаще
+
+
+Если динамить, то сначала локально
+Собрать все лучшее из OSS и продавать
+
+
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com
+
+Гости и участники:
+
+twitter:
+
+
+@a_abashev
+@gamussa
+@antonarhipov
+
+
+
+G+:
+
+
+gplus.to/gAmUssA
+gplus.to/aabashev
+
+
+
+
+
+
+
+   
+   Your browser does not support the audio tag.
+
+
+Подписаться по RSS
+
+
+
+
+
+
+Музыка ведущим предоставлена и ладно&#8230;
+]]></itunes:summary>
+    </item>
+    
+    <item>
+      <title>Episode 43 — Диалоги о JetBrains</title>
+      <link>http://razbor-poletov.com/2013/08/episode-43.html</link>
+      <pubDate>2013-08-23T14:41:00-04:00</pubDate>
+      <guid isPermalink="true">http://razbor-poletov.com/2013/08/episode-43</guid>
+      <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_43_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_43_text.jpg" width="350" /></a>
 </div>
 
@@ -4228,15 +8161,87 @@ January 30, 2014 from 6:00 PM to 8:30 PM, New York, NY</p>
 <p><a href="http://traffic.libsyn.com/razborpoletov/razbor_43.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
 
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 42 — Отряд не заметил потери бойца]]></title>
-    <link href="http://razbor-poletov.com/2013/08/episode-42.html"/>
-    <updated>2013-08-15T17:24:00-04:00</updated>
-    <id>http://razbor-poletov.com/2013/08/episode-42</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
+]]></description>
+      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[
+
+
+
+
+
+Гость выпуска - Дмитрий Борисович Жемеров, CTO, Jetbrains
+Про продукты и плагины
+
+
+ Pair Programming 1 2
+Android Studio
+VCS
+IDEA
+UpSource
+Google Dart
+C++ IDE
+MPS 1
+Kotlin 1 2
+JetBrains Day
+Треп за IDE 1
+
+
+вопросы слушателей
+ИНСАЙДЫ!!!
+
+
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com
+
+Гости и участники:
+
+twitter:
+
+
+@a_abashev
+@gamussa
+@antonarhipov
+@intelliyole
+
+
+
+G+:
+
+
+gplus.to/gAmUssA
+gplus.to/aabashev
+gplus.to/dmitryc
+
+
+
+
+
+
+
+   
+   Your browser does not support the audio tag.
+
+
+Подписаться по RSS
+
+
+
+
+
+
+Музыка ведущим предоставлена и ладно&#8230;
+]]></itunes:summary>
+    </item>
+    
+    <item>
+      <title>Episode 42 — Отряд не заметил потери бойца</title>
+      <link>http://razbor-poletov.com/2013/08/episode-42.html</link>
+      <pubDate>2013-08-15T17:24:00-04:00</pubDate>
+      <guid isPermalink="true">http://razbor-poletov.com/2013/08/episode-42</guid>
+      <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_42_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_42_text.jpg" width="350" /></a>
 </div>
 
@@ -4296,15 +8301,78 @@ January 30, 2014 from 6:00 PM to 8:30 PM, New York, NY</p>
 <p><a href="http://traffic.libsyn.com/razborpoletov/razbor_42.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
 
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 41 — Исход из Интерпрайза]]></title>
-    <link href="http://razbor-poletov.com/2013/06/episode-41.html"/>
-    <updated>2013-06-16T21:41:00-04:00</updated>
-    <id>http://razbor-poletov.com/2013/06/episode-41</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
+]]></description>
+      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[
+
+
+
+
+
+Cпасибо слушателям за помощь!
+Про то как Google погрузился в &#8230;
+Они заполоняют
+Полезняшки
+
+
+Togglz, Feature Toggle.
+комент от слушателя
+Chrome DevTools Cheat Sheet
+
+
+We are russians
+
+
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com
+
+Гости и участники:
+
+twitter:
+
+
+@a_abashev
+@gamussa
+
+
+
+G+:
+
+
+gplus.to/gAmUssA
+gplus.to/aabashev
+gplus.to/dmitryc
+
+
+
+
+
+
+
+   
+   Your browser does not support the audio tag.
+
+
+Подписаться по RSS
+
+
+
+
+
+
+Музыка ведущим предоставлена и ладно&#8230;
+]]></itunes:summary>
+    </item>
+    
+    <item>
+      <title>Episode 41 — Исход из Интерпрайза</title>
+      <link>http://razbor-poletov.com/2013/06/episode-41.html</link>
+      <pubDate>2013-06-16T21:41:00-04:00</pubDate>
+      <guid isPermalink="true">http://razbor-poletov.com/2013/06/episode-41</guid>
+      <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_41_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_41_text.jpg" width="350" /></a>
 </div>
 
@@ -4368,15 +8436,82 @@ January 30, 2014 from 6:00 PM to 8:30 PM, New York, NY</p>
 <p><a href="http://traffic.libsyn.com/razborpoletov/razbor_41.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
 
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 40 — A Short Version]]></title>
-    <link href="http://razbor-poletov.com/2013/05/episode-40.html"/>
-    <updated>2013-05-30T14:38:00-04:00</updated>
-    <id>http://razbor-poletov.com/2013/05/episode-40</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
+]]></description>
+      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[
+
+
+
+
+
+Машинариум
+Java не тормозит ©
+Братва, не стреляйте в друг друга ©
+Проверь реакцию
+полезняшка
+
+
+http://jnario.org/
+HermesJMS
+SQl Joins
+
+
+В компании мечты
+
+
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com
+
+Гости и участники:
+
+twitter:
+
+
+@a_abashev
+@gamussa
+@jbaruch
+@antonarhipov
+@sbozhko
+
+
+
+G+:
+
+
+gplus.to/gAmUssA
+gplus.to/aabashev
+gplus.to/dmitryc
+
+
+
+
+
+
+
+   
+   Your browser does not support the audio tag.
+
+
+Подписаться по RSS
+
+
+
+
+
+
+Музыка ведущим предоставлена и ладно&#8230;
+]]></itunes:summary>
+    </item>
+    
+    <item>
+      <title>Episode 40 — A Short Version</title>
+      <link>http://razbor-poletov.com/2013/05/episode-40.html</link>
+      <pubDate>2013-05-30T14:38:00-04:00</pubDate>
+      <guid isPermalink="true">http://razbor-poletov.com/2013/05/episode-40</guid>
+      <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_40_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_40_text.jpg" width="350" /></a>
 </div>
 
@@ -4430,15 +8565,72 @@ January 30, 2014 from 6:00 PM to 8:30 PM, New York, NY</p>
 <p><a href="http://traffic.libsyn.com/razborpoletov/razbor_40.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
 
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 39 — Снова здоровый!]]></title>
-    <link href="http://razbor-poletov.com/2013/05/episode-39.html"/>
-    <updated>2013-05-14T20:14:00-04:00</updated>
-    <id>http://razbor-poletov.com/2013/05/episode-39</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
+]]></description>
+      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[
+
+
+
+
+
+Дима про IO
+Доверяй, но проверяй
+Конкурс красоты в зоопарке
+&#8220;Киборги, они заполоняют&#8221;
+
+
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com
+
+Гости и участники:
+
+twitter:
+
+
+@a_abashev
+@gamussa
+@jbaruch
+@antonarhipov
+
+
+
+G+:
+
+
+gplus.to/gAmUssA
+gplus.to/aabashev
+gplus.to/dmitryc
+
+
+
+
+
+
+
+   
+   Your browser does not support the audio tag.
+
+
+Подписаться по RSS
+
+
+
+
+
+
+Музыка ведущим предоставлена и ладно&#8230;
+]]></itunes:summary>
+    </item>
+    
+    <item>
+      <title>Episode 39 — Снова здоровый!</title>
+      <link>http://razbor-poletov.com/2013/05/episode-39.html</link>
+      <pubDate>2013-05-14T20:14:00-04:00</pubDate>
+      <guid isPermalink="true">http://razbor-poletov.com/2013/05/episode-39</guid>
+      <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/logo_final_w_512.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/logo_final_w_512.png" width="350" /></a>
 </div>
 
@@ -4527,15 +8719,107 @@ January 30, 2014 from 6:00 PM to 8:30 PM, New York, NY</p>
 <p><a href="http://traffic.libsyn.com/razborpoletov/razbor_39.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
 
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
-]]></content>
-  </entry>
+]]></description>
+      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[
+
+
+
+
+
+Новый логотип. Спасибо D-Vision!
+Вести с полей (одной строкой)
+
+
+ TypeSafe Platform
+ Spring XD
+
+
+Полезняшка
+
+
+ git-extras (demo)
+ CLOC
+ gitignore
+
+
+Берегите женщин, женщин берегитесь 1, 2
+И вновь о unit-testing
+
+
+Unitils
+
+
+Фактор-12
+
+
+
+
+
+Внимание! Конференции!
+
+
+JEE Conf - Конференция Java практиков в Украине
+
+
+правильный трейнинг по ExtJS - места еще есть, регистрируйтесь!
+
+
+Главная причина съездить в Таллин летом - Geekout 2013
+
+
+
+
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com
+
+Гости и участники:
+
+twitter:
+
+
+@a_abashev
+@gamussa
+@xpinjection
+
+
+
+G+:
+
+
+gplus.to/gAmUssA
+gplus.to/aabashev
+
+
+
+
+
+
+
   
-  <entry>
-    <title type="html"><![CDATA[Episode 38 — Правильные инструменты пыток и юнит-тесты]]></title>
-    <link href="http://razbor-poletov.com/2013/04/episode-38.html"/>
-    <updated>2013-04-22T15:28:00-04:00</updated>
-    <id>http://razbor-poletov.com/2013/04/episode-38</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
+  Your browser does not support the audio tag.
+
+
+Подписаться по RSS
+
+
+
+
+
+
+Музыка ведущим предоставлена и ладно&#8230;
+]]></itunes:summary>
+    </item>
+    
+    <item>
+      <title>Episode 38 — Правильные инструменты пыток и юнит-тесты</title>
+      <link>http://razbor-poletov.com/2013/04/episode-38.html</link>
+      <pubDate>2013-04-22T15:28:00-04:00</pubDate>
+      <guid isPermalink="true">http://razbor-poletov.com/2013/04/episode-38</guid>
+      <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_38_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_38_text.jpg" width="350" /></a>
 </div>
 
@@ -4633,15 +8917,116 @@ January 30, 2014 from 6:00 PM to 8:30 PM, New York, NY</p>
 <p><a href="http://traffic.libsyn.com/razborpoletov/razbor_38.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
 
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
-]]></content>
-  </entry>
+]]></description>
+      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[
+
+
+
+
+
+Кто-то расскажет про Play
+16 правильных способов замучить девелоперов
+Полезняшки:
+
+
+Facebook заопенсорсил BUCK и Немного истории откуда это взялось. Но почему не Gradle?
+http://logstash.net/
+
+
+Проекты - это зло
+Что же все-таки такое юнит-тесты
+Как сделать опинсорсный проект еще более охренительным
+
+
+Dynamically Rendering GitHub Files in Web Pages
+Asciidoctor
+
+
+
+
+
+
+
+Внимание! Конференции!
+
+
+JavaOne Россия
+
+
+Official event hashtag is: #JavaOneRussia
+Official twitter of the event is: @JavaOneRussia
+Пишите #razborpoletov на бэйджах, чтобы опознать наших!
+
+
+JEE Conf - Конференция Java практиков в Украине
+
+
+трейнинг по ExtJS - места еще есть, регистрируйтесь!
+
+
+JavaOne
+
+
+Call For Proposal open till April, 23
+
+
+Главная причина съездить в Таллин летом - Geekout 2013
+
+
+
+
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com
+
+Гости и участники:
+
+twitter:
+
+
+@a_abashev
+@gamussa
+@antonarhipov
+
+
+
+G+:
+
+
+gplus.to/gAmUssA
+gplus.to/aabashev
+gplus.to/dmitryc
+
+
+
+
+
+
+
   
-  <entry>
-    <title type="html"><![CDATA[Episode 37 — А ты прошел интервью в Google ?!]]></title>
-    <link href="http://razbor-poletov.com/2013/03/episode-37.html"/>
-    <updated>2013-03-31T10:43:00-04:00</updated>
-    <id>http://razbor-poletov.com/2013/03/episode-37</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
+  Your browser does not support the audio tag.
+
+
+Подписаться по RSS
+
+
+
+
+
+
+Музыка ведущим предоставлена и ладно&#8230;
+]]></itunes:summary>
+    </item>
+    
+    <item>
+      <title>Episode 37 — А ты прошел интервью в Google ?!</title>
+      <link>http://razbor-poletov.com/2013/03/episode-37.html</link>
+      <pubDate>2013-03-31T10:43:00-04:00</pubDate>
+      <guid isPermalink="true">http://razbor-poletov.com/2013/03/episode-37</guid>
+      <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_37_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_37_text.jpg" width="350" /></a></div>
 
 
@@ -4734,7 +9119,104 @@ January 30, 2014 from 6:00 PM to 8:30 PM, New York, NY</p>
 <p><a href="http://traffic.libsyn.com/razborpoletov/razbor_37.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
 
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
-]]></content>
-  </entry>
+]]></description>
+      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[
+
+
+
+
+Google открывает для себя новую бизнес нишу - рекрутинг. Каждый новый сотрудник в свой первый день получает специальный талон, что он теперь официально &#8220;прокачен&#8221; и должен приниматься в любую IT компанию Кремниевой долины или Нью-Йорка без собеседования.
+Мартин Одерски, известный как автор Scala, написал в своем блоге, что очень многому научился при написании этого языка и этот фундамент поможет ему в разработке нового языка программирования.
+Полезняшка:
+
+
+ Некто Huan выложил проект, который он один писал 5 лет - точная и полная реализация всех пользовательских проектов от Google.
+
+
+Новый программистский жаргон
+
+
+
+
+
+Внимание! Конференции!
+
+HTML5DevConf - Конференция front-end разработчиков в San Francisco, CA
+
+
+2-го Апреля выступает Ваш покорный слуга
+
+
+
+JEE Conf - Конференция Java практиков в Украине
+
+
+Call for papers open till April, 6
+Speakers
+
+
+
+JavaOne
+
+
+Call For Proposal open till April, 12
+
+
+
+JavaOne Россия
+
+
+Official event hashtag is: #JavaOneRussia
+Official twitter of the event is: @JavaOneRussia
+
+
+
+
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com
+
+Гости и участники:
+
+twitter:
+
+
+@a_abashev
+@gamussa
+@antonarhipov
+
+
+
+G+:
+
+
+gplus.to/gAmUssA
+gplus.to/aabashev
+gplus.to/dmitryc
+
+
+
+
+
+
+
   
-</feed>
+  Your browser does not support the audio tag.
+
+
+Подписаться по RSS
+
+
+
+
+
+
+Музыка ведущим предоставлена и ладно&#8230;
+]]></itunes:summary>
+    </item>
+    
+  </channel>
+</rss>
