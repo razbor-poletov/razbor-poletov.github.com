@@ -6,8 +6,8 @@
     <atom:link href="http://razbor-poletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2015-06-21T15:42:23-04:00</pubDate>
-    <lastBuildDate>2015-06-21T15:42:23-04:00</lastBuildDate>
+    <pubDate>2015-06-21T22:22:50-04:00</pubDate>
+    <lastBuildDate>2015-06-21T22:22:50-04:00</lastBuildDate>
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razbor-poletov.com/logoB.jpg" />
@@ -19,6 +19,265 @@
     </itunes:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:thumbnail url="http://razbor-poletov.com/logoB.jpg" />
+    
+    <item>
+      <title>Episode 86 — Заговор мясников</title>
+      <link>http://razbor-poletov.com/2015/06/episode-86.html</link>
+      <pubDate>2015-06-21T00:00:00-04:00</pubDate>
+      <guid isPermalink="true">http://razbor-poletov.com/2015/06/episode-86</guid>
+      <description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>Внимание, выпуск <strong>18+</strong></p>
+</div>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_86_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_86_text.jpg" width="350" /></a>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темки">Темки</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="http://tonsky.livejournal.com/303215.html">Почему мы убираем за собой</a></p>
+</li>
+<li>
+<p>Религиозная болтавня от Лёхи - &#8220;говнокод или ковнокомментарии?&#8221;</p>
+</li>
+<li>
+<p><a href="http://martinfowler.com/bliki/MonolithFirst.html">Монолиты</a> от Mr. Fauler</p>
+</li>
+<li>
+<p><a href="http://www.jamesward.com/2015/06/08/comparing-application-deployment-2005-vs-2015">Comparing application deployment 2005 vs 2015</a></p>
+</li>
+<li>
+<p>Как я нашел лучший в мире язык программирования <a href="http://habrahabr.ru/post/259831/">1</a>  <a href="http://habrahabr.ru/post/259841/">2</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="ПолезнЯшки">ПолезнЯшки</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Веб-фреймворки для микросервисов</p>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="http://jooby.org">Jobby</a></p>
+</li>
+<li>
+<p><a href="https://github.com/airlift/airlift">Airlif</a></p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p><a href="http://kangax.github.io/compat-table/es6/" class="bare">http://kangax.github.io/compat-table/es6/</a></p>
+</li>
+<li>
+<p><a href="https://zarkzork.com/servasm.html">Веб на асме</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="И-напоследок">И напоследок&#8230;&#8203;</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><a href="http://endoflineblog.com/gitflow-considered-harmful">Хейтеры git-flow</a></p>
+</div>
+<hr>
+<div class="paragraph">
+<p>Наши контакты:</p>
+</div>
+<div class="paragraph">
+<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
+</div>
+<div class="paragraph">
+<p><a href="http://razbor-poletov.com/broadcast.html">Информация о вещании</a></p>
+</div>
+<div class="paragraph">
+<p>Гости и участники:</p>
+</div>
+<div class="paragraph">
+<p>twitter:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://twitter.com/a_abashev">@a_abashev</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/antonarhipov">@antonarhipov</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/dzmitryc">@dzmitryc</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/tolkv">@tolkv</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/umputun">@umputun</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/23derevo">@23derevo</a></p>
+</li>
+</ul>
+</div>
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_86.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+<div class="paragraph">
+<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
+</div>
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_86.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+<div class="paragraph">
+<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
+</div>
+</div>
+</div>]]></description>
+      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_86.mp3" length="71684716" type="audio/mpeg" />
+      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_86.mp3" fileSize="71684716" type="audio/mpeg" />
+      <itunes:summary><![CDATA[
+
+
+Внимание, выпуск 18+
+
+
+
+
+
+
+
+Темки
+
+
+
+
+Почему мы убираем за собой
+
+
+Религиозная болтавня от Лёхи - "говнокод или ковнокомментарии?"
+
+
+Монолиты от Mr. Fauler
+
+
+Comparing application deployment 2005 vs 2015
+
+
+Как я нашел лучший в мире язык программирования 1  2
+
+
+
+
+
+
+ПолезнЯшки
+
+
+
+
+Веб-фреймворки для микросервисов
+
+
+
+Jobby
+
+
+Airlif
+
+
+
+
+
+http://kangax.github.io/compat-table/es6/
+
+
+Веб на асме
+
+
+
+
+
+
+И напоследок&#8230;&#8203;
+
+
+Хейтеры git-flow
+
+
+
+Наши контакты:
+
+
+Официальный сайт — http://razbor-poletov.com
+
+
+Информация о вещании
+
+
+Гости и участники:
+
+
+twitter:
+
+
+
+
+@a_abashev
+
+
+@antonarhipov
+
+
+@dzmitryc
+
+
+@gamussa
+
+
+@tolkv
+
+
+@umputun
+
+
+@23derevo
+
+
+
+
+
+
+   
+   Your browser does not support the audio tag.
+
+
+Подписаться по RSS
+
+
+
+
+Музыка ведущим предоставлена и ладно&#8230;&#8203;
+
+
+]]></itunes:summary>
+    </item>
     
     <item>
       <title>Episode 85 — Bob McWhirter - ты, кто такой!?</title>
@@ -8973,203 +9232,6 @@ Call For Proposal open till April, 23
 
 
 Главная причина съездить в Таллин летом - Geekout 2013
-
-
-
-
-
-Наши контакты:
-
-Официальный сайт — http://razbor-poletov.com
-
-Гости и участники:
-
-twitter:
-
-
-@a_abashev
-@gamussa
-@antonarhipov
-
-
-
-G+:
-
-
-gplus.to/gAmUssA
-gplus.to/aabashev
-gplus.to/dmitryc
-
-
-
-
-
-
-
-  
-  Your browser does not support the audio tag.
-
-
-Подписаться по RSS
-
-
-
-
-
-
-Музыка ведущим предоставлена и ладно&#8230;
-]]></itunes:summary>
-    </item>
-    
-    <item>
-      <title>Episode 37 — А ты прошел интервью в Google ?!</title>
-      <link>http://razbor-poletov.com/2013/03/episode-37.html</link>
-      <pubDate>2013-03-31T10:43:00-04:00</pubDate>
-      <guid isPermalink="true">http://razbor-poletov.com/2013/03/episode-37</guid>
-      <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="http://razbor-poletov.com/images/razbor_37_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_37_text.jpg" width="350" /></a></div>
-
-
-<ul>
-<li>Google открывает для себя новую бизнес нишу - <a href="http://www.businessinsider.com/ex-googlers-facebook-graph-search-2013-1">рекрутинг</a>. Каждый новый сотрудник в свой первый день получает специальный талон, что он теперь официально &#8220;прокачен&#8221; и должен приниматься в любую IT компанию Кремниевой долины или Нью-Йорка без собеседования.</li>
-<li>Мартин Одерски, известный как автор Scala, написал в своем блоге, что очень многому научился при написании этого языка и этот фундамент поможет ему в разработке <a href="http://www.scala-lang.org/node/143#talks">нового языка программирования</a>.</li>
-<li>Полезняшка:
-
-<ul>
-<li> Некто <a href="https://github.com/huan/">Huan</a> выложил проект, который он один писал 5 лет - точная и полная реализация всех пользовательских проектов от Google.</li>
-</ul>
-</li>
-<li><a href="http://www.codinghorror.com/blog/2012/07/new-programming-jargon.html">Новый программистский жаргон</a></li>
-</ul>
-
-
-<hr />
-
-<p><strong>Внимание! Конференции!</strong></p>
-
-<p><a href="http://html5devconf.com/">HTML5DevConf</a> - Конференция front-end разработчиков в San Francisco, CA</p>
-
-<ul>
-<li>2-го Апреля <a href="http://html5devconf.com/sessions.html#v_gamov">выступает</a> <a href="http://html5devconf.com/speakers.html#v_gamov">Ваш покорный слуга</a></li>
-</ul>
-
-
-<p><a href="http://jeeconf.com">JEE Conf</a> - Конференция Java практиков в Украине</p>
-
-<ul>
-<li><a href="https://docs.google.com/spreadsheet/viewform?formkey=dHR5NjhBU2M3OVQyX1djV29fY0FSbXc6MA">Call for papers open till April, 6</a></li>
-<li><a href="http://jeeconf.com/speakers/">Speakers</a></li>
-</ul>
-
-
-<p><a href="http://www.oracle.com/javaone/index.html">JavaOne</a></p>
-
-<ul>
-<li><a href="http://www.oracle.com/javaone/call-for-papers/information/index.html">Call For Proposal open till April, 12</a></li>
-</ul>
-
-
-<p><a href="http://javaone.ru">JavaOne Россия</a></p>
-
-<ul>
-<li>Official event hashtag is: #<a href="https://twitter.com/search?q=%23JavaOneRussia">JavaOneRussia</a></li>
-<li>Official twitter of the event is: <a href="https://twitter.com/JavaOneRussia">@JavaOneRussia</a></li>
-</ul>
-
-
-<hr />
-
-<p>Наши контакты:</p>
-
-<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
-
-<p>Гости и участники:</p>
-
-<p>twitter:</p>
-
-<ul>
-<li><a href="https://twitter.com/#!/a_abashev">@a_abashev</a></li>
-<li><a href="https://twitter.com/#!/gamussa">@gamussa</a></li>
-<li><a href="https://twitter.com/antonarhipov">@antonarhipov</a></li>
-</ul>
-
-
-<p>G+:</p>
-
-<ul>
-<li><a href="http://gplus.to/gAmUssA">gplus.to/gAmUssA</a></li>
-<li><a href="http://gplus.to/aabashev">gplus.to/aabashev</a></li>
-<li><a href="http://gplus.to/dmitryc">gplus.to/dmitryc</a></li>
-</ul>
-
-
-<!-- player goes here-->
-
-
-<p><audio preload="none">
-  <source src="http://traffic.libsyn.com/razborpoletov/razbor_37.mp3" type="audio/mp3" />
-  Your browser does not support the audio tag.
-</audio></p>
-
-<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
-
-<!-- episode file link goes here-->
-
-
-<p><a href="http://traffic.libsyn.com/razborpoletov/razbor_37.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
-
-<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
-]]></description>
-      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
-      <itunes:summary><![CDATA[
-
-
-
-
-Google открывает для себя новую бизнес нишу - рекрутинг. Каждый новый сотрудник в свой первый день получает специальный талон, что он теперь официально &#8220;прокачен&#8221; и должен приниматься в любую IT компанию Кремниевой долины или Нью-Йорка без собеседования.
-Мартин Одерски, известный как автор Scala, написал в своем блоге, что очень многому научился при написании этого языка и этот фундамент поможет ему в разработке нового языка программирования.
-Полезняшка:
-
-
- Некто Huan выложил проект, который он один писал 5 лет - точная и полная реализация всех пользовательских проектов от Google.
-
-
-Новый программистский жаргон
-
-
-
-
-
-Внимание! Конференции!
-
-HTML5DevConf - Конференция front-end разработчиков в San Francisco, CA
-
-
-2-го Апреля выступает Ваш покорный слуга
-
-
-
-JEE Conf - Конференция Java практиков в Украине
-
-
-Call for papers open till April, 6
-Speakers
-
-
-
-JavaOne
-
-
-Call For Proposal open till April, 12
-
-
-
-JavaOne Россия
-
-
-Official event hashtag is: #JavaOneRussia
-Official twitter of the event is: @JavaOneRussia
 
 
 
