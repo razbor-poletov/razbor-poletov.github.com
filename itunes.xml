@@ -6,8 +6,8 @@
     <atom:link href="http://razbor-poletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2015-06-22T08:40:53-04:00</pubDate>
-    <lastBuildDate>2015-06-22T08:40:53-04:00</lastBuildDate>
+    <pubDate>2015-06-22T09:20:44-04:00</pubDate>
+    <lastBuildDate>2015-06-22T09:20:44-04:00</lastBuildDate>
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razbor-poletov.com/logoB.jpg" />
@@ -147,8 +147,8 @@
 </div>
 </div>
 </div>]]></description>
-      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_86.mp3" length="71684716" type="audio/mpeg" />
-      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_86.mp3" fileSize="71684716" type="audio/mpeg" />
+      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_86.mp3" length="106826547" type="audio/mpeg" />
+      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_86.mp3" fileSize="106826547" type="audio/mpeg" />
       <itunes:summary><![CDATA[
 
 
