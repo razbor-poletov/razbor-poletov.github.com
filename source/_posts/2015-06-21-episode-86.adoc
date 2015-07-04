@@ -1,0 +1,75 @@
+---
+comments: true
+categories:
+uid: 86
+length: 106826547
+---
+= Episode 86 — Заговор мясников
+2015-06-21 18:47
+:layout: post
+:filename: razbor_86
+
+Внимание, выпуск *18+*
+
+++++
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_86_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_86_text.jpg" width="350" /></a>
+</div>
+++++
+
+== Темки
+
+* http://tonsky.livejournal.com/303215.html[Почему мы убираем за собой]
+* http://martinfowler.com/bliki/MonolithFirst.html[Монолиты] от Mr. Fauler
+* http://www.jamesward.com/2015/06/08/comparing-application-deployment-2005-vs-2015[Comparing application deployment 2005 vs 2015] 
+* Как я нашел лучший в мире язык программирования http://habrahabr.ru/post/259831/[1]  http://habrahabr.ru/post/259841/[2]
+
+== ПолезнЯшки
+
+* Веб-фреймворки для микросервисов 
+** http://jooby.org[Jobby] 
+** https://github.com/airlift/airlift[Airlif]
+* http://kangax.github.io/compat-table/es6/
+* https://zarkzork.com/servasm.html[Веб на асме]
+
+== И напоследок...
+
+http://endoflineblog.com/gitflow-considered-harmful[Хейтеры git-flow]
+
+'''
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com[http://razbor-poletov.com]
+
+http://razbor-poletov.com/broadcast.html[Информация о вещании]
+
+Гости и участники:
+
+twitter:
+
+  * https://twitter.com/a_abashev[@a_abashev]
+  * https://twitter.com/antonarhipov[@antonarhipov]
+  * https://twitter.com/dzmitryc[@dzmitryc]
+  * https://twitter.com/gamussa[@gamussa]
+  * https://twitter.com/tolkv[@tolkv]
+  * https://twitter.com/umputun[@umputun]
+  * https://twitter.com/23derevo[@23derevo]
+
+++++
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_86.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+++++
+
+Подписаться по http://feeds.feedburner.com/razbor-podcast[RSS]
+
+++++
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_86.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+++++
+
+Музыка ведущим http://www.audiobank.fm/single-music/27/111/More-And-Less/[предоставлена] и ладно...
