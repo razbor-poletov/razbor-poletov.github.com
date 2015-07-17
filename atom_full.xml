@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2015-07-16T16:00:50-04:00</updated>
+  <updated>2015-07-16T20:36:10-04:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov]]></name>
@@ -12,6 +12,172 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 87 — Прогулки по минным полям]]></title>
+    <link href="http://razbor-poletov.com/2015/07/episode-87.html"/>
+    <updated>2015-07-16T00:00:00-04:00</updated>
+    <id>http://razbor-poletov.com/2015/07/episode-87</id>
+    <content type="html"><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>Внимание, выпуск <strong>18+</strong></p>
+</div>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_87_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_87_text.jpg" width="350" /></a>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Новости-с-конференций">Новости с конференций</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="http://2015.geekout.ee/videos/">Видео с GeeokOut</a></p>
+</li>
+<li>
+<p><a href="http://habrahabr.ru/company/jugru/blog/262745/">Анонсирован Joker 2015</a></p>
+</li>
+<li>
+<p><a href="http://jetconf.by/main">JET Conf</a></p>
+</li>
+<li>
+<p><a href="http://www.meetup.com/hug-nyc/events/223530005/">Hazelcast User Group - HUG-NYC</a></p>
+</li>
+<li>
+<p><a href="https://2015.event.springone2gx.com/schedule/sessions/spring_framework_the_ultimate_configurations_battle.html">SpringOne</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="А-давайте-поговорим-за-gradle-code-code">А давайте поговорим за Gradle <code>:)</code></h2>
+<div class="sectionbody">
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p>Пассаж от Алексея</p>
+</li>
+<li>
+<p><a href="https://docs.gradle.org/2.5/release-notes">Вышел Gradle 2.5</a></p>
+</li>
+<li>
+<p>Vertx едет назад <a href="https://storify.com/gAmUssA/conversation-with-martiell-and-timfox">1</a> <a href="https://storify.com/gAmUssA/conversation-with-sjmaple-timfox-pilhuhn-and-infin">2</a></p>
+</li>
+<li>
+<p>Интервью с <a href="http://www.infoq.com/articles/vertx-3-tim-fox">Tim Fox</a> о <a href="https://groups.google.com/forum/?fromgroups=#!topic/vertx/xgGgQcDeX04">Vert.x 3</a></p>
+</li>
+</ol>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Свистопляски-вокруг-unsafe">Свистопляски вокруг Unsafe</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="http://anton-arhipov.livejournal.com/264843.html">Статья от резидента</a></p>
+</li>
+<li>
+<p>Вонючий вихрь <a href="http://blog.dripstat.com/removal-of-sun-misc-unsafe-a-disaster-in-the-making/">1</a> <a href="http://blog.dripstat.com/java-9-unsafe-issue-the-parts-you-never-read/">2</a></p>
+</li>
+<li>
+<p><a href="https://storify.com/gAmUssA/conversation-with-shipilev-and-kittylyst">Текущее состояние методов в Unsafe</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=DpA6xLGWSyA">Безопасные альтернативы</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Полезняшки">Полезняшки</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="http://www.javacodegeeks.com/2012/02/high-performance-libraries-in-java.html">Высокопроизводительный библиотеки</a></p>
+</li>
+<li>
+<p><a href="https://github.com/typicode/json-server">JSON-Server</a></p>
+</li>
+<li>
+<p><a href="https://github.com/square/leakcanary">Детектилка Memory Leak-ов для Android</a></p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Книжи</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="http://shop.oreilly.com/product/0636920030713.do">Java 8 Lambdas</a></p>
+</li>
+<li>
+<p><a href="http://www.amazon.com/RxJava-Essentials-Ivan-Morgillo/dp/1784399108/">RxJava Essentials</a></p>
+</li>
+</ul>
+</div>
+<hr>
+<div class="paragraph">
+<p>Наши контакты:</p>
+</div>
+<div class="paragraph">
+<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
+</div>
+<div class="paragraph">
+<p><a href="http://razbor-poletov.com/broadcast.html">Информация о вещании</a></p>
+</div>
+<div class="paragraph">
+<p>Гости и участники:</p>
+</div>
+<div class="paragraph">
+<p>twitter:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://twitter.com/a_abashev">@a_abashev</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/antonarhipov">@antonarhipov</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/tolkv">@tolkv</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/jbaruch">@jbaruch</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/shipilev">@shipilev</a></p>
+</li>
+</ul>
+</div>
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_87.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+<div class="paragraph">
+<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
+</div>
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_87.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+<div class="paragraph">
+<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
+</div>
+</div>
+</div>]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 86 — Заговор мясников]]></title>
