@@ -4,7 +4,7 @@
   <title><![CDATA[Category: podcast | Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/blog/categories/podcast/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2015-07-16T20:37:07-04:00</updated>
+  <updated>2015-07-30T15:56:36-04:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov]]></name>
@@ -126,6 +126,328 @@
   </entry>
   
   <entry>
+    <title type="html"><![CDATA[Episode 86 — Заговор мясников]]></title>
+    <link href="http://razbor-poletov.com/2015/06/episode-86.html"/>
+    <updated>2015-06-21T00:00:00-04:00</updated>
+    <id>http://razbor-poletov.com/2015/06/episode-86</id>
+    <content type="html"><![CDATA[<p>= Episode 86 — Заговор мясников
+2015-06-21 18:47
+:layout: post
+:filename: razbor_86</p>
+
+<p>Внимание, выпуск <em>18+</em></p>
+
+<p>++++</p>
+
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_86_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_86_text.jpg" width="350" /></a>
+</div>
+
+
+<p>++++</p>
+
+<p>== Темки</p>
+
+<ul>
+<li>http://tonsky.livejournal.com/303215.html[Почему мы убираем за собой]</li>
+<li>http://martinfowler.com/bliki/MonolithFirst.html[Монолиты] от Mr. Fauler</li>
+<li>http://www.jamesward.com/2015/06/08/comparing-application-deployment-2005-vs-2015[Comparing application deployment 2005 vs 2015]</li>
+<li>Как я нашел лучший в мире язык программирования http://habrahabr.ru/post/259831/[1]  http://habrahabr.ru/post/259841/[2]</li>
+</ul>
+
+
+<p>== ПолезнЯшки</p>
+
+<ul>
+<li>Веб-фреймворки для микросервисов
+<strong> http://jooby.org[Jobby]
+</strong> https://github.com/airlift/airlift[Airlif]</li>
+<li>http://kangax.github.io/compat-table/es6/</li>
+<li>https://zarkzork.com/servasm.html[Веб на асме]</li>
+</ul>
+
+
+<p>== И напоследок...</p>
+
+<p>http://endoflineblog.com/gitflow-considered-harmful[Хейтеры git-flow]</p>
+
+<p>'''</p>
+
+<p>Наши контакты:</p>
+
+<p>Официальный сайт — http://razbor-poletov.com[http://razbor-poletov.com]</p>
+
+<p>http://razbor-poletov.com/broadcast.html[Информация о вещании]</p>
+
+<p>Гости и участники:</p>
+
+<p>twitter:</p>
+
+<ul>
+<li>https://twitter.com/a_abashev[@a_abashev]</li>
+<li>https://twitter.com/antonarhipov[@antonarhipov]</li>
+<li>https://twitter.com/dzmitryc[@dzmitryc]</li>
+<li>https://twitter.com/gamussa[@gamussa]</li>
+<li>https://twitter.com/tolkv[@tolkv]</li>
+<li>https://twitter.com/umputun[@umputun]</li>
+<li>https://twitter.com/23derevo[@23derevo]</li>
+</ul>
+
+
+<p>++++</p>
+
+<!-- player goes here-->
+
+
+<p><audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_86.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+++++</p>
+
+<p>Подписаться по http://feeds.feedburner.com/razbor-podcast[RSS]</p>
+
+<p>++++</p>
+
+<!-- episode file link goes here-->
+
+
+<p><a href="http://traffic.libsyn.com/razborpoletov/razbor_86.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+++++</p>
+
+<p>Музыка ведущим http://www.audiobank.fm/single-music/27/111/More-And-Less/[предоставлена] и ладно...</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 85 — Bob McWhirter - ты, кто такой!?]]></title>
+    <link href="http://razbor-poletov.com/2015/05/episode-85.html"/>
+    <updated>2015-05-31T00:00:00-04:00</updated>
+    <id>http://razbor-poletov.com/2015/05/episode-85</id>
+    <content type="html"><![CDATA[<p>= Episode 85 — Bob McWhirter - ты, кто такой!?
+2015-05-31 18:11
+:layout: post
+:filename: razbor_85</p>
+
+<p>++++</p>
+
+<div class="separator" style="clear: both; text-align: center;"><a href="http://razbor-poletov.com/images/razbor_85_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_85_text.jpg" width="350" /></a></div>
+
+
+<p>++++</p>
+
+<p>== Оффтопик</p>
+
+<ul>
+<li>http://www.radio-t.com/p/2015/05/30/podcast-446/[Витя и Леша сходили в Радио-Т]</li>
+<li>https://jugmsk.timepad.ru/event/211342/[Moscow JUG]</li>
+</ul>
+
+
+<p>== Обсуждения</p>
+
+<ul>
+<li>http://mikemainguy.blogspot.ie/2015/05/the-myth-of-asynchronous-jdbc.html[Миф об асинхронном JDBC]
+<strong> https://twitter.com/antonarhipov/status/604905195970154496
+</strong> https://github.com/mauricio/postgresql-async</li>
+<li>https://news.ycombinator.com/item?id=9050114[Хипстер алерт]</li>
+<li>https://medium.com/@jstrachan/the-decline-of-java-application-servers-when-using-docker-containers-edbe032e1f30[Сервера приложений Java VS Docker]</li>
+</ul>
+
+
+<p>== Тема выпуска: Эй, ты, кто такой!?</p>
+
+<p>Bob <code>The Despot</code> McWhirter http://www.codehaus.org/about/history.html[1] http://projectodd.org[2] https://twitter.com/bobmcwhirter[3]</p>
+
+<p>== ПолезНяшки</p>
+
+<ul>
+<li>https://github.com/raydac/jute[Запуск JUnit тестов из Maven в отдельном процессе]</li>
+<li>http://javalibs.com/charts[Какая библиотека популярнее?]</li>
+<li>http://devrates.com/[Ещё о популярности всяких технологий]</li>
+<li>http://www.javadeathmatch.com/[Потешить чсв]</li>
+<li>https://github.com/mkarneim/pojobuilder[PojoBuilder]
+<strong> https://projectlombok.org/features/Builder.html
+</strong> http://news.dartlang.org/2012/02/method-cascades-in-dart-posted-by-gilad.html[Dart Methods cascades]</li>
+<li>https://developers.google.com/protocol-buffers/docs/proto3 [proto3]</li>
+</ul>
+
+
+<p>'''</p>
+
+<p>Наши контакты:</p>
+
+<p>Официальный сайт — http://razbor-poletov.com[http://razbor-poletov.com]</p>
+
+<p>http://razbor-poletov.com/broadcast.html[Информация о вещании]</p>
+
+<p>Гости и участники:</p>
+
+<p>twitter:</p>
+
+<ul>
+<li>https://twitter.com/antonarhipov[@antonarhipov]</li>
+<li>https://twitter.com/dzmitryc[@dzmitryc]</li>
+<li>https://twitter.com/gamussa[@gamussa]</li>
+<li>https://twitter.com/tolkv[@tolkv]</li>
+</ul>
+
+
+<p>++++</p>
+
+<!-- player goes here-->
+
+
+<p><audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_85.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+++++</p>
+
+<p>Подписаться по http://feeds.feedburner.com/razbor-podcast[RSS]</p>
+
+<p>++++</p>
+
+<!-- episode file link goes here-->
+
+
+<p><a href="http://traffic.libsyn.com/razborpoletov/razbor_85.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+++++</p>
+
+<p>Музыка ведущим http://www.audiobank.fm/single-music/27/111/More-And-Less/[предоставлена] и ладно...</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 84 - Прототипируй динамично!]]></title>
+    <link href="http://razbor-poletov.com/2015/05/episode-84.html"/>
+    <updated>2015-05-17T00:00:00-04:00</updated>
+    <id>http://razbor-poletov.com/2015/05/episode-84</id>
+    <content type="html"><![CDATA[<p>= Episode 84 - Прототипируй динамично!
+2015-05-17 18:49
+:layout: post
+:filename: razbor_84</p>
+
+<p>Внимание, выпуск <em>18+</em></p>
+
+<p>++++</p>
+
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_84_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_84_text.jpg" width="350" /></a>
+</div>
+
+
+<p>++++</p>
+
+<p>== Новости одной строкой:</p>
+
+<ul>
+<li>http://mail.openjdk.java.net/pipermail/jdk9-dev/2015-May/002172.html[Java 9: сэйв зэ дэйт!]</li>
+<li>https://github.com/google/guice/wiki/Guice40[Guice 4.0]</li>
+</ul>
+
+
+<p>== Темы</p>
+
+<ul>
+<li>http://www.thoughtworks.com/radar[Новый выпуск ThoughtWorks Tech Radar]. https://twitter.com/bodil/status/597766837548507136[Есть мнение что надо думать головой]</li>
+<li>https://www.voxxed.com/blog/2015/05/youre-not-going-microservices/[Микросервисы - не торт!]</li>
+<li>https://www.dartlang.org/events/2015/summit/[Интересности с Dart Developer Summit 2015]</li>
+</ul>
+
+
+<p>== Тема выпуска: Прототипирование</p>
+
+<p><em>Задача: как делать </em>живые<em> прототипы </em>быстро<em> и с достаточной точностью?</em></p>
+
+<p>. https://balsamiq.com/[Balsamiq] - хорош только для того чтобы набросать идею, но точности в нём нехватает.
+. Простой подход: рисовать в битмэп-редакторах: а-ля <em>Paint.NET</em>, <em>Seashore</em>, <em>Paintbrush</em>, <em>Pixelmator</em>
+<strong> трудно рисовать
+</strong> нет интерактивности
+. Сложный подход
+<strong> http://www.axure.com/[Axure] - штука для провессиональных UX-дизайнеров. Довольно сложная.
+</strong> https://www.uxpin.com[UXPin] выглядит очень многообещающе. Есть интеграция со Sketch и Photoshop
+. Требуется время на освоение
+<strong> https://www.omnigroup.com/omnigraffle
+</strong> https://www.lucidchart.com/personahomepage
+<strong> http://bohemiancoding.com/sketch/
+</strong> http://www.justinmind.com</p>
+
+<p><em>>>>>> Но это же не наш метод!&lt;&lt;&lt;&lt;&lt;</em></p>
+
+<ul>
+<li>https://www.google.com/webdesigner/</li>
+<li>https://facebook.github.io/origami/</li>
+<li>http://semantic-ui.com/[Semantic-UI]</li>
+<li>Angular? Dart?</li>
+<li>http://www.layoutit.com/[Генераторы для Bootstrap а-ля]</li>
+</ul>
+
+
+<p>== Полезняшки</p>
+
+<p>http://pilots.razbor-poletov.com/#/useful[Полезняшки искать тут]</p>
+
+<ul>
+<li>http://blog.arungupta.me/jdk9-repl-getting-started/[REPL в Java 9]</li>
+<li>http://rationalwiki.org/wiki/Frequency_illusion</li>
+<li>http://javaslang.com/[Программируем на Java функционально]</li>
+<li>https://softwaremill.com/mqperf/[Evaluating persistent, replicated message queues]</li>
+<li>http://blog.arungupta.me/wildfly-swarm-microservices-javaee/[Wildfly Swarm]</li>
+<li>https://github.com/oracle[Внезапно - Oracle на GitHub]</li>
+<li>https://www.jetbrains.com/cpp-today-oreilly/[Бесплатная книжка по С++ от JetBrains]</li>
+</ul>
+
+
+<p>'''</p>
+
+<p>Наши контакты:</p>
+
+<p>Официальный сайт — http://razbor-poletov.com[http://razbor-poletov.com]</p>
+
+<p>http://razbor-poletov.com/broadcast.html[Информация о вещании]</p>
+
+<p>Гости и участники:</p>
+
+<p>twitter:</p>
+
+<ul>
+<li>https://twitter.com/a_abashev[@a_abashev]</li>
+<li>https://twitter.com/antonarhipov[@antonarhipov]</li>
+<li>https://twitter.com/dzmitryc[@dzmitryc]</li>
+<li>https://twitter.com/gamussa[@gamussa]</li>
+<li>https://twitter.com/tolkv[@tolkv]</li>
+<li>https://twitter.com/jbaruch[@jbaruch]</li>
+</ul>
+
+
+<p>++++</p>
+
+<!-- player goes here-->
+
+
+<p><audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_84.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+++++</p>
+
+<p>Подписаться по http://feeds.feedburner.com/razbor-podcast[RSS]</p>
+
+<p>++++
+<img border="0" src="http://razbor-poletov.com/images/ec.jpg"/></p>
+
+<!-- episode file link goes here-->
+
+
+<p><a href="http://traffic.libsyn.com/razborpoletov/razbor_84.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+++++</p>
+
+<p>Музыка ведущим http://www.audiobank.fm/single-music/27/111/More-And-Less/[предоставлена] и ладно...</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Episode 83 — Привет с JPoint]]></title>
     <link href="http://razbor-poletov.com/2015/05/episode-83.html"/>
     <updated>2015-05-03T00:00:00-04:00</updated>
@@ -181,110 +503,6 @@
 
 
 <p><a href="http://traffic.libsyn.com/razborpoletov/razbor_83.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
-++++</p>
-
-<p>Музыка ведущим http://www.audiobank.fm/single-music/27/111/More-And-Less/[предоставлена] и ладно...</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 82 — Докладчик без слайдов]]></title>
-    <link href="http://razbor-poletov.com/2015/04/episode-82.html"/>
-    <updated>2015-04-12T00:00:00-04:00</updated>
-    <id>http://razbor-poletov.com/2015/04/episode-82</id>
-    <content type="html"><![CDATA[<p>= Episode 82 — Докладчик без слайдов
-2015-04-12 18:45
-:layout: post
-:filename: razbor_82</p>
-
-<p>++++</p>
-
-<div class="separator" style="clear: both; text-align: center;">
-<a href="http://razbor-poletov.com/images/razbor_82_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_82_text.jpg" width="350" /></a>
-</div>
-
-
-<p>++++</p>
-
-<p>== Все на Jpoint!</p>
-
-<ul>
-<li>http://javapoint.ru[JPoint]</li>
-<li>http://habrahabr.ru/company/jugru/blog/255219/[Проект «Без слайдов»]</li>
-</ul>
-
-
-<p>== Epic Fail Story</p>
-
-<p>как Витя заводил Glassfish под 10.10.3 https://java.net/jira/browse/GLASSFISH-21343[[1]] https://java.net/projects/glassfish/sources/svn/content/trunk/main/nucleus/admin/launcher/src/main/java/com/sun/enterprise/admin/launcher/GFLauncher.java?rev=63819[[2]]. https://truesecdev.wordpress.com/2015/04/09/hidden-backdoor-api-to-root-privileges-in-apple-os-x/[Проблема вся в чем?]</p>
-
-<p>== Новости одной строкой</p>
-
-<ul>
-<li>http://zeroturnaround.com/software/xrebel/features/[XRebel 2.0 вышел в свет]</li>
-<li>В Intellij IDEA 14.1.2 EAP починили груви</li>
-<li>Полезный плагин https://eddy.systems/</li>
-</ul>
-
-
-<p>== Полезные люди на Stackoverflow:</p>
-
-<ul>
-<li>http://stackoverflow.com/users/3553087/brian-goetz?tab=answers[Brian Goetz]</li>
-<li>http://stackoverflow.com/users/1441122/stuart-marks?tab=answers[Stuart Marks]</li>
-</ul>
-
-
-<p>== Вышел Grails 3.0</p>
-
-<ul>
-<li>http://grails.io/post/115110650393/grails-3-0-released-and-the-road-ahead[Вышел Grails 3.0 с кучей новых штучек]</li>
-<li>https://groups.google.com/forum/#!topic/grails-dev-discuss/6R2YaF96Uts[но не всем это по-вкусу]</li>
-<li>http://arhipov.blogspot.com/2015/04/grails-3-released-setting-up-javaagent.html[И <code>-javaagent</code> в него прикручивать нетривиально]</li>
-<li>http://interact.stltoday.com/pr/business/PR040915114421060[А ещё, у Grails новый дом]</li>
-</ul>
-
-
-<p>http://mobiusconf.com/presentations/Mobius2015_MatveyMalkov.pdf</p>
-
-<p>'''</p>
-
-<p>Наши контакты:</p>
-
-<p>Официальный сайт — http://razbor-poletov.com[http://razbor-poletov.com]</p>
-
-<p>http://razbor-poletov.com/broadcast.html[Информация о вещании]</p>
-
-<p>Гости и участники:</p>
-
-<p>twitter:</p>
-
-<ul>
-<li>https://twitter.com/antonarhipov[@antonarhipov]</li>
-<li>https://twitter.com/gamussa[@gamussa]</li>
-<li>https://twitter.com/tolkv[@tolkv]</li>
-</ul>
-
-
-<p>++++</p>
-
-<!-- player goes here-->
-
-
-<p><audio preload="none">
-   <source src="http://traffic.libsyn.com/razborpoletov/razbor_82.mp3" type="audio/mp3" />
-   Your browser does not support the audio tag.
-</audio>
-++++</p>
-
-<p>Подписаться по http://feeds.feedburner.com/razbor-podcast[RSS]</p>
-
-<p>++++</p>
-
-<!-- episode file link goes here-->
-
-
-<p><a href="http://traffic.libsyn.com/razborpoletov/razbor_82.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
 ++++</p>
 
 <p>Музыка ведущим http://www.audiobank.fm/single-music/27/111/More-And-Less/[предоставлена] и ладно...</p>
