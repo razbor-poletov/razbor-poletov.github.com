@@ -4,7 +4,7 @@
   <title><![CDATA[Category: podcast | Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/blog/categories/podcast/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2015-07-30T16:01:22-04:00</updated>
+  <updated>2015-07-31T14:14:31-04:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov]]></name>
@@ -12,6 +12,110 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 89 — Ниочем]]></title>
+    <link href="http://razbor-poletov.com/2015/07/episode-88.html"/>
+    <updated>2015-07-30T00:00:00-04:00</updated>
+    <id>http://razbor-poletov.com/2015/07/episode-88</id>
+    <content type="html"><![CDATA[<p>= Episode 89 — Ниочем
+2015-07-30 07:26
+:layout: post
+:filename: razbor_88</p>
+
+<p>++++</p>
+
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_88_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_88_text.jpg" width="350" /></a>
+</div>
+
+
+<p>++++
+http://s00.yaplakal.com/pics/pics_original/3/0/6/1322603.gif[Оригинал]</p>
+
+<p>== ЖЗЛ</p>
+
+<ul>
+<li>30 июля - день рождения https://en.wikipedia.org/wiki/Clive_Sinclair[Clive Sinclair] - создателя ZX Spectrum</li>
+<li>Инфоповод - какой был Ваш первый компьютер</li>
+<li>https://www.youtube.com/watch?v=xHXrBnipHyA[Немного о истории Play Station]</li>
+</ul>
+
+
+<p>== Конференции</p>
+
+<ul>
+<li>http://habrahabr.ru/company/jugru/blog/262745/[Анонсирован Joker 2015]</li>
+<li>http://jetconf.by/main[JET Conf]</li>
+<li>https://2015.event.springone2gx.com/schedule/sessions/spring_framework_the_ultimate_configurations_battle.html[SpringOne]</li>
+<li>https://codefreeze-msk.timepad.ru/event/224423/[CodeFreeze про Docker в банке]</li>
+</ul>
+
+
+<p>== Новости одной строкой</p>
+
+<ul>
+<li>Еще один велосипед. http://habrahabr.ru/post/248147/[На злобу дня к холивару о YAML vs World]</li>
+<li>Новости от Spring Boot http://spring.io/blog/2015/07/02/spring-boot-1-2-5-released[1] https://spring.io/blog/2015/06/12/spring-boot-1-3-0-m1-available-now[2] https://spring.io/blog/2015/07/10/spring-boot-1-3-0-m2-available-now[3]</li>
+<li>Новый репорт от ZT http://zeroturnaround.com/rebellabs/developer-productivity-report-2015-java-performance-survey-results/[1] https://www.dropbox.com/s/ozslst4k3m9nsha/Screenshot%202015-07-31%2001.22.54.png?dl=0[2]</li>
+<li>http://thebfed.com/[Бездельник Front End developer]</li>
+<li>Аджайл или agile. И всякие инструменты для визуализации процесса: Jira, Pivotaltracker, Kaiten, итп</li>
+</ul>
+
+
+<p>== Оффтоп</p>
+
+<ul>
+<li>Наушнички
+<strong> http://www.jaybirdsport.com/bluebuds-x-bluetooth-headphones/[BlueBuds X]
+</strong> http://www.amazon.com/Jabra-Wireless-Bluetooth-Earbuds-Monitor/dp/B00N2359DU/[Jabra душит]</li>
+</ul>
+
+
+<p>'''</p>
+
+<p>Наши контакты:</p>
+
+<p>Официальный сайт — http://razbor-poletov.com[http://razbor-poletov.com]</p>
+
+<p>http://razbor-poletov.com/broadcast.html[Информация о вещании]</p>
+
+<p>Гости и участники:</p>
+
+<p>twitter:</p>
+
+<ul>
+<li>https://twitter.com/antonarhipov[@antonarhipov]</li>
+<li>https://twitter.com/gamussa[@gamussa]</li>
+<li>https://twitter.com/tolkv[@tolkv]</li>
+<li>https://twitter.com/jbaruch[@jbaruch]</li>
+</ul>
+
+
+<p>++++</p>
+
+<!-- player goes here-->
+
+
+<p><audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_88.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+++++</p>
+
+<p>Подписаться по http://feeds.feedburner.com/razbor-podcast[RSS]</p>
+
+<p>++++</p>
+
+<!-- episode file link goes here-->
+
+
+<p><a href="http://traffic.libsyn.com/razborpoletov/razbor_88.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+++++</p>
+
+<p>Музыка ведущим http://www.audiobank.fm/single-music/27/111/More-And-Less/[предоставлена] и ладно...</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 87 — Прогулки по минным полям]]></title>
@@ -441,68 +545,6 @@
 
 
 <p><a href="http://traffic.libsyn.com/razborpoletov/razbor_84.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
-++++</p>
-
-<p>Музыка ведущим http://www.audiobank.fm/single-music/27/111/More-And-Less/[предоставлена] и ладно...</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 83 — Привет с JPoint]]></title>
-    <link href="http://razbor-poletov.com/2015/05/episode-83.html"/>
-    <updated>2015-05-03T00:00:00-04:00</updated>
-    <id>http://razbor-poletov.com/2015/05/episode-83</id>
-    <content type="html"><![CDATA[<p>= Episode 83 — Привет с JPoint
-2015-05-03 19:03
-:layout: post
-:filename: razbor_83</p>
-
-<p>++++</p>
-
-<div class="separator" style="clear: both; text-align: center;">
-<a href="http://razbor-poletov.com/images/razbor_83_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_83_text.jpg" width="350" /></a>
-</div>
-
-
-<p>++++</p>
-
-<p>Запись была сделана на конференции http://javapoint.ru[JPoint 2015] в апреле 2015го.</p>
-
-<p>Наши контакты:</p>
-
-<p>Официальный сайт — http://razbor-poletov.com[http://razbor-poletov.com]</p>
-
-<p>http://razbor-poletov.com/broadcast.html[Информация о вещании]</p>
-
-<p>Гости и участники:</p>
-
-<p>twitter:</p>
-
-<ul>
-<li>https://twitter.com/a_abashev[@a_abashev]</li>
-<li>https://twitter.com/antonarhipov[@antonarhipov]</li>
-<li>https://twitter.com/holyslon[@holyslon]
-++++</li>
-</ul>
-
-
-<!-- player goes here-->
-
-
-<p><audio preload="none">
-   <source src="http://traffic.libsyn.com/razborpoletov/razbor_83.mp3" type="audio/mp3" />
-   Your browser does not support the audio tag.
-</audio>
-++++</p>
-
-<p>Подписаться по http://feeds.feedburner.com/razbor-podcast[RSS]</p>
-
-<p>++++</p>
-
-<!-- episode file link goes here-->
-
-
-<p><a href="http://traffic.libsyn.com/razborpoletov/razbor_83.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
 ++++</p>
 
 <p>Музыка ведущим http://www.audiobank.fm/single-music/27/111/More-And-Less/[предоставлена] и ладно...</p>
