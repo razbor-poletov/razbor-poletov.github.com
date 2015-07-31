@@ -1,0 +1,80 @@
+---
+comments: true
+categories: podcast
+uid: 88
+length: 76717002
+---
+= Episode 89 — Ниочем
+2015-07-30 07:26
+:layout: post
+:filename: razbor_88
+
+++++
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_88_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_88_text.jpg" width="350" /></a>
+</div>
+++++
+http://s00.yaplakal.com/pics/pics_original/3/0/6/1322603.gif[Оригинал]
+
+== ЖЗЛ 
+
+- 30 июля - день рождения https://en.wikipedia.org/wiki/Clive_Sinclair[Clive Sinclair] - создателя ZX Spectrum
+- Инфоповод - какой был Ваш первый компьютер
+- https://www.youtube.com/watch?v=xHXrBnipHyA[Немного о истории Play Station]
+
+== Конференции
+
+* http://habrahabr.ru/company/jugru/blog/262745/[Анонсирован Joker 2015]
+* http://jetconf.by/main[JET Conf]
+* https://2015.event.springone2gx.com/schedule/sessions/spring_framework_the_ultimate_configurations_battle.html[SpringOne]
+* https://codefreeze-msk.timepad.ru/event/224423/[CodeFreeze про Docker в банке] 
+
+== Новости одной строкой
+
+* Еще один велосипед. http://habrahabr.ru/post/248147/[На злобу дня к холивару о YAML vs World]
+* Новости от Spring Boot http://spring.io/blog/2015/07/02/spring-boot-1-2-5-released[1] https://spring.io/blog/2015/06/12/spring-boot-1-3-0-m1-available-now[2] https://spring.io/blog/2015/07/10/spring-boot-1-3-0-m2-available-now[3]
+* Новый репорт от ZT http://zeroturnaround.com/rebellabs/developer-productivity-report-2015-java-performance-survey-results/[1] https://www.dropbox.com/s/ozslst4k3m9nsha/Screenshot%202015-07-31%2001.22.54.png?dl=0[2]
+* http://thebfed.com/[Бездельник Front End developer]
+* Аджайл или agile. И всякие инструменты для визуализации процесса: Jira, Pivotaltracker, Kaiten, итп
+
+== Оффтоп
+
+* Наушнички 
+** http://www.jaybirdsport.com/bluebuds-x-bluetooth-headphones/[BlueBuds X]
+** http://www.amazon.com/Jabra-Wireless-Bluetooth-Earbuds-Monitor/dp/B00N2359DU/[Jabra душит]
+
+'''
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com[http://razbor-poletov.com]
+
+http://razbor-poletov.com/broadcast.html[Информация о вещании]
+
+Гости и участники:
+
+twitter:
+
+  * https://twitter.com/antonarhipov[@antonarhipov]
+  * https://twitter.com/gamussa[@gamussa]
+  * https://twitter.com/tolkv[@tolkv]
+  * https://twitter.com/jbaruch[@jbaruch]
+  * https://twitter.com/golodnyj[@golodnyj]
+
+++++
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_88.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+++++
+
+Подписаться по http://feeds.feedburner.com/razbor-podcast[RSS]
+
+++++
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_88.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+++++
+
+Музыка ведущим http://www.audiobank.fm/single-music/27/111/More-And-Less/[предоставлена] и ладно...
