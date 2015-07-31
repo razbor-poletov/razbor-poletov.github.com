@@ -6,8 +6,8 @@
     <atom:link href="http://razbor-poletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2015-07-31T14:17:18-04:00</pubDate>
-    <lastBuildDate>2015-07-31T14:17:18-04:00</lastBuildDate>
+    <pubDate>2015-07-31T16:43:18-04:00</pubDate>
+    <lastBuildDate>2015-07-31T16:43:18-04:00</lastBuildDate>
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razbor-poletov.com/logoB.jpg" />
@@ -21,7 +21,7 @@
     <media:thumbnail url="http://razbor-poletov.com/logoB.jpg" />
     
     <item>
-      <title>Episode 89 — Ниочем</title>
+      <title>Episode 88 — Ниочем</title>
       <link>http://razbor-poletov.com/2015/07/episode-88.html</link>
       <pubDate>2015-07-30T00:00:00-04:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2015/07/episode-88</guid>
@@ -113,6 +113,9 @@
 <li>
 <p><a href="http://www.amazon.com/Jabra-Wireless-Bluetooth-Earbuds-Monitor/dp/B00N2359DU/">Jabra душит</a></p>
 </li>
+<li>
+<p><a href="http://en-us.sennheiser.com/momentum-wireless-headphones-with-mic">Модные сенхи</a></p>
+</li>
 </ul>
 </div>
 </li>
@@ -169,8 +172,8 @@
 </div>
 </div>
 </div>]]></description>
-      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_88.mp3" length="76717002" type="audio/mpeg" />
+      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_88.mp3" fileSize="76717002" type="audio/mpeg" />
       <itunes:summary><![CDATA[
 
 
@@ -258,6 +261,9 @@ BlueBuds X
 
 
 Jabra душит
+
+
+Модные сенхи
 
 
 
@@ -481,8 +487,8 @@ twitter:
 </div>
 </div>
 </div>]]></description>
-      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_87.mp3" length="106826547" type="audio/mpeg" />
-      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_87.mp3" fileSize="106826547" type="audio/mpeg" />
+      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_87.mp3" length="80179266" type="audio/mpeg" />
+      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_87.mp3" fileSize="80179266" type="audio/mpeg" />
       <itunes:summary><![CDATA[
 
 
