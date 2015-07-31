@@ -1,6 +1,6 @@
 ---
 comments: true
-categories:
+categories: podcast
 uid: 86
 length: 106826547
 ---
