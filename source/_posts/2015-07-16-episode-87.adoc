@@ -1,0 +1,87 @@
+---
+comments: true
+categories: podcast
+uid: 87
+length: 80179266
+---
+= Episode 87 — Прогулки по минным полям
+2015-07-16 20:02
+:layout: post
+:filename: razbor_87
+
+Внимание, выпуск *18+*
+++++
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_87_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_87_text.jpg" width="350" /></a>
+</div>
+++++
+
+== Новости с конференций
+
+* http://2015.geekout.ee/videos/[Видео с GeeokOut] 
+* http://habrahabr.ru/company/jugru/blog/262745/[Анонсирован Joker 2015]
+* http://jetconf.by/main[JET Conf]
+* http://www.meetup.com/hug-nyc/events/223530005/[Hazelcast User Group - HUG-NYC]
+* https://2015.event.springone2gx.com/schedule/sessions/spring_framework_the_ultimate_configurations_battle.html[SpringOne]
+
+== А давайте поговорим за Gradle `:)`
+
+. Пассаж от Алексея 
+. https://docs.gradle.org/2.5/release-notes[Вышел Gradle 2.5]
+. Vertx едет назад https://storify.com/gAmUssA/conversation-with-martiell-and-timfox[1] https://storify.com/gAmUssA/conversation-with-sjmaple-timfox-pilhuhn-and-infin[2]
+. Интервью с http://www.infoq.com/articles/vertx-3-tim-fox[Tim Fox] о https://groups.google.com/forum/?fromgroups=#!topic/vertx/xgGgQcDeX04[Vert.x 3]
+
+== Свистопляски вокруг Unsafe
+
+* http://anton-arhipov.livejournal.com/264843.html[Статья от резидента] 
+* Вонючий вихрь http://blog.dripstat.com/removal-of-sun-misc-unsafe-a-disaster-in-the-making/[1] http://blog.dripstat.com/java-9-unsafe-issue-the-parts-you-never-read/[2]
+* https://storify.com/gAmUssA/conversation-with-shipilev-and-kittylyst[Текущее состояние методов в Unsafe]
+* https://www.youtube.com/watch?v=DpA6xLGWSyA[Безопасные альтернативы] 
+
+== Полезняшки
+
+* http://www.javacodegeeks.com/2012/02/high-performance-libraries-in-java.html[Высокопроизводительный библиотеки]
+* https://github.com/typicode/json-server[JSON-Server]
+* https://github.com/square/leakcanary[Детектилка Memory Leak-ов для Android]
+
+Книжи
+
+* http://shop.oreilly.com/product/0636920030713.do[Java 8 Lambdas]
+* http://www.amazon.com/RxJava-Essentials-Ivan-Morgillo/dp/1784399108/[RxJava Essentials]
+
+'''
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com[http://razbor-poletov.com]
+
+http://razbor-poletov.com/broadcast.html[Информация о вещании]
+
+Гости и участники:
+
+twitter:
+
+  * https://twitter.com/a_abashev[@a_abashev]
+  * https://twitter.com/antonarhipov[@antonarhipov]
+  * https://twitter.com/gamussa[@gamussa]
+  * https://twitter.com/tolkv[@tolkv]
+  * https://twitter.com/jbaruch[@jbaruch]
+  * https://twitter.com/shipilev[@shipilev]
+
+++++
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_87.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+++++
+
+Подписаться по http://feeds.feedburner.com/razbor-podcast[RSS]
+
+++++
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_87.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+++++
+
+Музыка ведущим http://www.audiobank.fm/single-music/27/111/More-And-Less/[предоставлена] и ладно...
