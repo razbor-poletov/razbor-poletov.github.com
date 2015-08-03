@@ -6,8 +6,8 @@
     <atom:link href="http://razbor-poletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2015-07-31T16:43:18-04:00</pubDate>
-    <lastBuildDate>2015-07-31T16:43:18-04:00</lastBuildDate>
+    <pubDate>2015-08-03T09:07:44-04:00</pubDate>
+    <lastBuildDate>2015-08-03T09:07:44-04:00</lastBuildDate>
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razbor-poletov.com/logoB.jpg" />
@@ -1267,7 +1267,7 @@ twitter:
 <div class="ulist">
 <ul>
 <li>
-<p><a href="http://www.axure.com/">Axure</a> - штука для провессиональных UX-дизайнеров. Довольно сложная.</p>
+<p><a href="http://www.axure.com/">Axure</a> - штука для профессиональных UX-дизайнеров. Довольно сложная.</p>
 </li>
 <li>
 <p><a href="https://www.uxpin.com">UXPin</a> выглядит очень многообещающе. Есть интеграция со Sketch и Photoshop</p>
@@ -1480,7 +1480,7 @@ Balsamiq - хорош только для того чтобы набросать
 
 
 
-Axure - штука для провессиональных UX-дизайнеров. Довольно сложная.
+Axure - штука для профессиональных UX-дизайнеров. Довольно сложная.
 
 
 UXPin выглядит очень многообещающе. Есть интеграция со Sketch и Photoshop
