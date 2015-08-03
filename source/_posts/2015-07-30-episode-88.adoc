@@ -4,7 +4,7 @@ categories: podcast
 uid: 88
 length: 76717002
 ---
-= Episode 89 — Ниочем
+= Episode 88 — Ниочем
 2015-07-30 07:26
 :layout: post
 :filename: razbor_88
@@ -42,6 +42,7 @@ http://s00.yaplakal.com/pics/pics_original/3/0/6/1322603.gif[Оригинал]
 * Наушнички 
 ** http://www.jaybirdsport.com/bluebuds-x-bluetooth-headphones/[BlueBuds X]
 ** http://www.amazon.com/Jabra-Wireless-Bluetooth-Earbuds-Monitor/dp/B00N2359DU/[Jabra душит]
+** http://en-us.sennheiser.com/momentum-wireless-headphones-with-mic[Модные сенхи]
 
 '''
 
