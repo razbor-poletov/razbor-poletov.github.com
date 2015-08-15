@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "«Разбор Полетов» LIVE!"
-date: 2015-05-31 19:01
+date: 2015-08-13 19:01
 comments: false
 sharing: true
 footer: true
@@ -14,7 +14,7 @@ footer: true
    Your browser does not support the audio tag.
 </audio>
 
-Следующий эфир запланирован на 13 августа 2015, 23.00 по MSK.
+Следующий эфир запланирован на 27 августа 2015, 23.00 по MSK.
 Ссылка на mp3-поток будет доступна в день эфира.
 
 **Чат**
