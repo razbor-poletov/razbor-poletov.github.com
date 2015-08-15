@@ -6,8 +6,8 @@
     <atom:link href="http://razbor-poletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2015-08-13T16:03:58-04:00</pubDate>
-    <lastBuildDate>2015-08-13T16:03:58-04:00</lastBuildDate>
+    <pubDate>2015-08-14T22:49:35-04:00</pubDate>
+    <lastBuildDate>2015-08-14T22:49:35-04:00</lastBuildDate>
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razbor-poletov.com/logoB.jpg" />
@@ -19,6 +19,375 @@
     </itunes:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:thumbnail url="http://razbor-poletov.com/logoB.jpg" />
+    
+    <item>
+      <title>Episode 89 — Здесь случайных людей нет</title>
+      <link>http://razbor-poletov.com/2015/08/episode-89.html</link>
+      <pubDate>2015-08-14T00:00:00-04:00</pubDate>
+      <guid isPermalink="true">http://razbor-poletov.com/2015/08/episode-89</guid>
+      <description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_89_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_89_text.jpg" width="350" /></a>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Мероприятия">Мероприятия</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="http://www.meetup.com/bigmoscow/events/224231490/">Индексные структуры данных в реляционных СУБД и поисковых системах</a> - встречка с Рогозиным</p>
+</li>
+<li>
+<p><a href="http://habrahabr.ru/company/jugru/blog/264669/">Docker в банке, а банк в докере</a> отчитаться о codefreeze встречке</p>
+</li>
+<li>
+<p><a href="http://habrahabr.ru/company/jugru/blog/262745/">Анонсирован Joker 2015</a></p>
+</li>
+<li>
+<p><a href="http://jetconf.by/main">JET Conf</a></p>
+</li>
+<li>
+<p><a href="https://2015.event.springone2gx.com/schedule/sessions/spring_framework_the_ultimate_configurations_battle.html">SpringOne</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Релизы">Релизы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://spring.io/blog/2015/07/31/spring-framework-4-2-goes-ga">Spring 4.2</a></p>
+</li>
+<li>
+<p><a href="http://spring.io/blog/2015/08/03/coming-up-in-2016-spring-framework-4-3-5-0">Spring 4.3 &amp; 5.0</a></p>
+</li>
+<li>
+<p><a href="https://www.jetbrains.com/hub/">JetBrains Hub</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темки">Темки</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Снова про Unsafe</p>
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p><a href="http://mail.openjdk.java.net/pipermail/jigsaw-dev/2015-August/004433.html">Продавили!</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=4HG0YQVy8UM" class="bare">https://www.youtube.com/watch?v=4HG0YQVy8UM</a></p>
+</li>
+</ol>
+</div>
+</li>
+<li>
+<p><a href="https://twitter.com/_shrike_/status/627025025393164288">UPSource 2.5 ГБ после инсталла</a> 2.5 ГБ! И минимум 8 требует!</p>
+</li>
+<li>
+<p>Кто тут самый быстрый!? <a href="http://rick-hightower.blogspot.ru/2014/04/groovy-and-boon-provide-fastest-json.html">JSON Парсер используемый в Groovy - Boon</a></p>
+</li>
+<li>
+<p><a href="https://www.indiegogo.com/projects/junit-lambda#/story">JUnit needs your help</a> или пускай таки подохнет?</p>
+</li>
+<li>
+<p><a href="http://sirupsen.com/production-docker/">Чего не хватает докеру чтобы быть успешным по жизни?</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="полезняшки">Полезняшки</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="http://emacs.sexy/img/How-to-Learn-Emacs-v2-Large.png">Emacs - sexy</a> CheatSheat. Что делает любитель vim оказавшись за компьютером любителя Emacs? Верно, удаляет emacs, ставим vim, и делает <code>ln -s</code></p>
+</li>
+<li>
+<p>Четкое <a href="https://github.com/Froussios/Intro-To-RxJava">Intro по RxJava</a> в виде примеров разбитых на части.</p>
+</li>
+<li>
+<p><a href="http://wiremock.org/java-usage.html#the-client">Wiremock</a> - так же пишет о нем <a href="http://allegro.tech/testing-server-faults-with-Wiremock.html">тут</a></p>
+</li>
+<li>
+<p><a href="http://macradar.ru/software/crax-commander-luchshaya-alternativa-total-commander-dlya-os-x/">Use it</a> instead of TotalCommander on mac os x &#8594; From @Barlog-M (in gitter) -</p>
+</li>
+<li>
+<p><a href="http://bytecodeviewer.com/" class="bare">http://bytecodeviewer.com/</a></p>
+</li>
+<li>
+<p><a href="https://msdn.microsoft.com/en-us/library/jj554200.aspx">Книжка об CQRS</a></p>
+</li>
+<li>
+<p><a href="http://vk.com/video-37777824_171268487?list=a4917e6aec935fd4fb&amp;og=1">Docker в банке видео</a> выложили</p>
+</li>
+<li>
+<p><a href="http://binary-repositories-comparison.github.io/" class="bare">http://binary-repositories-comparison.github.io/</a> - ну вы вкурсэ. Теперь на гитхабе, аскидокторе и всё такое, поскольку Кодхаус - всё.</p>
+</li>
+<li>
+<p><a href="http://habrahabr.ru/company/jugru/blog/263905/">Интерьвю с Дмитрием Жемеров от Алексея</a></p>
+</li>
+<li>
+<p><a href="https://github.com/nvbn/thefuck">Da Fuck!</a></p>
+</li>
+<li>
+<p><a href="http://dev.yorhel.nl/ncdu">Клевая смотрелка занятого места на диске</a></p>
+</li>
+<li>
+<p><a href="https://openport.io" class="bare">https://openport.io</a></p>
+</li>
+</ul>
+</div>
+<hr>
+<div class="paragraph">
+<p>Наши контакты:</p>
+</div>
+<div class="paragraph">
+<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
+</div>
+<div class="paragraph">
+<p><a href="http://razbor-poletov.com/broadcast.html">Информация о вещании</a></p>
+</div>
+<div class="paragraph">
+<p>Гости и участники:</p>
+</div>
+<div class="paragraph">
+<p>twitter:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://twitter.com/antonarhipov">@antonarhipov</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/tolkv">@tolkv</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/jbaruch">@jbaruch</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/bsideup">@bsideup</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/aatarasoff">@aatarasoff</a></p>
+</li>
+</ul>
+</div>
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_89.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+<div class="paragraph">
+<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
+</div>
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_89.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+<div class="paragraph">
+<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
+</div>
+</div>
+</div>]]></description>
+      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_89.mp3" length="76717002" type="audio/mpeg" />
+      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_89.mp3" fileSize="76717002" type="audio/mpeg" />
+      <itunes:summary><![CDATA[
+
+
+
+
+
+
+
+Мероприятия
+
+
+
+
+Индексные структуры данных в реляционных СУБД и поисковых системах - встречка с Рогозиным
+
+
+Docker в банке, а банк в докере отчитаться о codefreeze встречке
+
+
+Анонсирован Joker 2015
+
+
+JET Conf
+
+
+SpringOne
+
+
+
+
+
+
+Релизы
+
+
+
+
+Spring 4.2
+
+
+Spring 4.3 &amp; 5.0
+
+
+JetBrains Hub
+
+
+
+
+
+
+Темки
+
+
+
+
+Снова про Unsafe
+
+
+
+Продавили!
+
+
+https://www.youtube.com/watch?v=4HG0YQVy8UM
+
+
+
+
+
+UPSource 2.5 ГБ после инсталла 2.5 ГБ! И минимум 8 требует!
+
+
+Кто тут самый быстрый!? JSON Парсер используемый в Groovy - Boon
+
+
+JUnit needs your help или пускай таки подохнет?
+
+
+Чего не хватает докеру чтобы быть успешным по жизни?
+
+
+
+
+
+
+Полезняшки
+
+
+
+
+Emacs - sexy CheatSheat. Что делает любитель vim оказавшись за компьютером любителя Emacs? Верно, удаляет emacs, ставим vim, и делает ln -s
+
+
+Четкое Intro по RxJava в виде примеров разбитых на части.
+
+
+Wiremock - так же пишет о нем тут
+
+
+Use it instead of TotalCommander on mac os x &#8594; From @Barlog-M (in gitter) -
+
+
+http://bytecodeviewer.com/
+
+
+Книжка об CQRS
+
+
+Docker в банке видео выложили
+
+
+http://binary-repositories-comparison.github.io/ - ну вы вкурсэ. Теперь на гитхабе, аскидокторе и всё такое, поскольку Кодхаус - всё.
+
+
+Интерьвю с Дмитрием Жемеров от Алексея
+
+
+Da Fuck!
+
+
+Клевая смотрелка занятого места на диске
+
+
+https://openport.io
+
+
+
+
+
+Наши контакты:
+
+
+Официальный сайт — http://razbor-poletov.com
+
+
+Информация о вещании
+
+
+Гости и участники:
+
+
+twitter:
+
+
+
+
+@antonarhipov
+
+
+@gamussa
+
+
+@tolkv
+
+
+@jbaruch
+
+
+@bsideup
+
+
+@aatarasoff
+
+
+
+
+
+
+   
+   Your browser does not support the audio tag.
+
+
+Подписаться по RSS
+
+
+
+
+Музыка ведущим предоставлена и ладно&#8230;&#8203;
+
+
+]]></itunes:summary>
+    </item>
     
     <item>
       <title>Episode 88 — Ниочем</title>
@@ -9358,125 +9727,6 @@ twitter:
 @jbaruch
 @antonarhipov
 @sbozhko
-
-
-
-G+:
-
-
-gplus.to/gAmUssA
-gplus.to/aabashev
-gplus.to/dmitryc
-
-
-
-
-
-
-
-   
-   Your browser does not support the audio tag.
-
-
-Подписаться по RSS
-
-
-
-
-
-
-Музыка ведущим предоставлена и ладно&#8230;
-]]></itunes:summary>
-    </item>
-    
-    <item>
-      <title>Episode 40 — A Short Version</title>
-      <link>http://razbor-poletov.com/2013/05/episode-40.html</link>
-      <pubDate>2013-05-30T14:38:00-04:00</pubDate>
-      <guid isPermalink="true">http://razbor-poletov.com/2013/05/episode-40</guid>
-      <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="http://razbor-poletov.com/images/razbor_40_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_40_text.jpg" width="350" /></a>
-</div>
-
-
-<ul>
-<li>Дима про IO</li>
-<li>Доверяй, но проверяй</li>
-<li><a href="http://zeroturnaround.com/labs/the-great-java-application-server-debate-tomcat/">Конкурс красоты в зоопарке</a></li>
-<li><a href="http://www.wired.com/wiredenterprise/2013/03/google-borg-twitter-mesos/all/">&#8220;Киборги, они заполоняют&#8221;</a></li>
-</ul>
-
-
-<p>Наши контакты:</p>
-
-<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
-
-<p>Гости и участники:</p>
-
-<p>twitter:</p>
-
-<ul>
-<li><a href="https://twitter.com/#!/a_abashev">@a_abashev</a></li>
-<li><a href="https://twitter.com/#!/gamussa">@gamussa</a></li>
-<li><a href="https://twitter.com/#!/jbaruch">@jbaruch</a></li>
-<li><a href="https://twitter.com/#!/antonarhipov">@antonarhipov</a></li>
-</ul>
-
-
-<p>G+:</p>
-
-<ul>
-<li><a href="http://gplus.to/gAmUssA">gplus.to/gAmUssA</a></li>
-<li><a href="http://gplus.to/aabashev">gplus.to/aabashev</a></li>
-<li><a href="http://gplus.to/dmitryc">gplus.to/dmitryc</a></li>
-</ul>
-
-
-<!-- player goes here-->
-
-
-<p><audio preload="none">
-   <source src="http://traffic.libsyn.com/razborpoletov/razbor_40.mp3" type="audio/mp3" />
-   Your browser does not support the audio tag.
-</audio></p>
-
-<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
-
-<!-- episode file link goes here-->
-
-
-<p><a href="http://traffic.libsyn.com/razborpoletov/razbor_40.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
-
-<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
-]]></description>
-      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
-      <itunes:summary><![CDATA[
-
-
-
-
-
-Дима про IO
-Доверяй, но проверяй
-Конкурс красоты в зоопарке
-&#8220;Киборги, они заполоняют&#8221;
-
-
-
-Наши контакты:
-
-Официальный сайт — http://razbor-poletov.com
-
-Гости и участники:
-
-twitter:
-
-
-@a_abashev
-@gamussa
-@jbaruch
-@antonarhipov
 
 
 
