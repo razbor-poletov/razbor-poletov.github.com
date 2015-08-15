@@ -1,0 +1,94 @@
+---
+comments: true
+categories: podcast
+uid: 89
+length: 76717002
+---
+= Episode 89 — Здесь случайных людей нет
+2015-08-14 22:05
+:layout: post
+:filename: razbor_89
+:upsource: https://twitter.com/_shrike_/status/627025025393164288
+
+++++
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_89_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_89_text.jpg" width="350" /></a>
+</div>
+++++
+
+== Мероприятия
+
+* http://www.meetup.com/bigmoscow/events/224231490/[Индексные структуры данных в реляционных СУБД и поисковых системах] - встречка с Рогозиным
+* http://habrahabr.ru/company/jugru/blog/264669/[Docker в банке, а банк в докере] отчитаться о codefreeze встречке
+* http://habrahabr.ru/company/jugru/blog/262745/[Анонсирован Joker 2015]
+* http://jetconf.by/main[JET Conf]
+* https://2015.event.springone2gx.com/schedule/sessions/spring_framework_the_ultimate_configurations_battle.html[SpringOne]
+
+== Релизы
+
+*  https://spring.io/blog/2015/07/31/spring-framework-4-2-goes-ga[Spring 4.2]
+* http://spring.io/blog/2015/08/03/coming-up-in-2016-spring-framework-4-3-5-0[Spring 4.3 & 5.0]
+* https://www.jetbrains.com/hub/[JetBrains Hub]
+
+== Темки
+
+* Снова про Unsafe
+    . http://mail.openjdk.java.net/pipermail/jigsaw-dev/2015-August/004433.html[Продавили!] 
+    . https://www.youtube.com/watch?v=4HG0YQVy8UM
+* {upsource}[UPSource 2.5 ГБ после инсталла] 2.5 ГБ! И минимум 8 требует!
+* Кто тут самый быстрый!? http://rick-hightower.blogspot.ru/2014/04/groovy-and-boon-provide-fastest-json.html[JSON Парсер используемый в Groovy - Boon]
+* https://www.indiegogo.com/projects/junit-lambda#/story[JUnit needs your help] или пускай таки подохнет?
+* http://sirupsen.com/production-docker/[Чего не хватает докеру чтобы быть успешным по жизни?]
+
+[#полезняшки]
+== Полезняшки
+
+* http://emacs.sexy/img/How-to-Learn-Emacs-v2-Large.png[Emacs - sexy] CheatSheat. Что делает любитель vim оказавшись за компьютером любителя Emacs? Верно, удаляет emacs, ставим vim, и делает `ln -s`
+* Четкое https://github.com/Froussios/Intro-To-RxJava[Intro по RxJava] в виде примеров разбитых на части.
+* http://wiremock.org/java-usage.html#the-client[Wiremock] - так же пишет о нем http://allegro.tech/testing-server-faults-with-Wiremock.html[тут]
+*  http://macradar.ru/software/crax-commander-luchshaya-alternativa-total-commander-dlya-os-x/[Use it] instead of TotalCommander on mac os x -> From @Barlog-M (in gitter) -
+* http://bytecodeviewer.com/
+* https://msdn.microsoft.com/en-us/library/jj554200.aspx[Книжка об CQRS]
+* http://vk.com/video-37777824_171268487?list=a4917e6aec935fd4fb&og=1[Docker в банке видео] выложили
+* http://binary-repositories-comparison.github.io/ - ну вы вкурсэ. Теперь на гитхабе, аскидокторе и всё такое, поскольку Кодхаус - всё.
+* http://habrahabr.ru/company/jugru/blog/263905/[Интерьвю с Дмитрием Жемеров от Алексея]
+* https://github.com/nvbn/thefuck[Da Fuck!]
+* http://dev.yorhel.nl/ncdu[Клевая смотрелка занятого места на диске]
+* https://openport.io
+
+'''
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com[http://razbor-poletov.com]
+
+http://razbor-poletov.com/broadcast.html[Информация о вещании]
+
+Гости и участники:
+
+twitter:
+
+  * https://twitter.com/antonarhipov[@antonarhipov]
+  * https://twitter.com/gamussa[@gamussa]
+  * https://twitter.com/tolkv[@tolkv]
+  * https://twitter.com/jbaruch[@jbaruch]
+  * https://twitter.com/bsideup[@bsideup]
+  * https://twitter.com/aatarasoff[@aatarasoff]
+
+++++
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_89.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+++++
+
+Подписаться по http://feeds.feedburner.com/razbor-podcast[RSS]
+
+++++
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_89.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+++++
+
+Музыка ведущим http://www.audiobank.fm/single-music/27/111/More-And-Less/[предоставлена] и ладно...
