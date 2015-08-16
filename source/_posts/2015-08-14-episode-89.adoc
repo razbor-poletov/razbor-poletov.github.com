@@ -51,7 +51,7 @@ length: 76717002
 * https://msdn.microsoft.com/en-us/library/jj554200.aspx[Книжка об CQRS]
 * http://vk.com/video-37777824_171268487?list=a4917e6aec935fd4fb&og=1[Docker в банке видео] выложили
 * http://binary-repositories-comparison.github.io/ - ну вы вкурсэ. Теперь на гитхабе, аскидокторе и всё такое, поскольку Кодхаус - всё.
-* http://habrahabr.ru/company/jugru/blog/263905/[Интерьвю с Дмитрием Жемеров от Алексея]
+* http://habrahabr.ru/company/jugru/blog/263905/[Интервью с Дмитрием Жемеровым от Алексея]
 * https://github.com/nvbn/thefuck[Da Fuck!]
 * http://dev.yorhel.nl/ncdu[Клевая смотрелка занятого места на диске]
 * https://openport.io
