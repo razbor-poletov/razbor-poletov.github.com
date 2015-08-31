@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2015-08-30T23:23:48-04:00</updated>
+  <updated>2015-08-30T23:25:12-04:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov]]></name>
@@ -37,7 +37,7 @@
 <p><a href="http://javaday.org.ua/kharkiv/">JavaDay Kiev</a></p>
 </li>
 <li>
-<p><a href="http://javaday.org.ua/kharkiv/" class="bare">http://javaday.org.ua/kharkiv/</a> [JavaDay Kharkiv]</p>
+<p><a href="http://javaday.org.ua/kharkiv/">JavaDay Kharkiv</a></p>
 </li>
 <li>
 <p><a href="https://www.youtube.com/watch?v=ciHK_B0AKWw">Про страусов</a></p>
@@ -64,7 +64,7 @@
 <p><a href="http://habrahabr.ru/post/260149/">Как я нашел лучший в мире язык программирования. Часть Йо (2.72)</a></p>
 </li>
 <li>
-<p><a href="http://eax.me/scala-one-year/" class="bare">http://eax.me/scala-one-year/</a> [Мои впечатления от языка Scala после года работы с ним]</p>
+<p><a href="http://eax.me/scala-one-year/">Мои впечатления от языка Scala после года работы с ним</a></p>
 </li>
 </ul>
 </div>
@@ -76,7 +76,7 @@
 <div class="ulist">
 <ul>
 <li>
-<p><a href="http://learnxinyminutes.com" class="bare">http://learnxinyminutes.com</a> [Учим X за Y минут]</p>
+<p><a href="http://learnxinyminutes.com">Учим X за Y минут</a></p>
 </li>
 </ul>
 </div>
