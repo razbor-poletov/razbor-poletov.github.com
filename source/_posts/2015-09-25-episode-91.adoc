@@ -1,0 +1,74 @@
+---
+comments: true
+categories: 
+---
+= Episode 91 — Чо, бабки есть? А если найду?
+2015-09-25 22:07
+:layout: post
+:filename: razbor_91
+
+++++
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_91_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_91_text.jpg" width="350" /></a>
+</div>
+++++
+
+== Мероприятия
+
+* http://habrahabr.ru/company/jugru/blog/264955/[Очередной обзор новых докладов на Joker]
+* http://university.jokerconf.com/[Joker university day]
+* https://www.youtube.com/watch?v=et7eTx0-IGg[CodeFreeze про DDOS с QRATOR.com]
+* https://www.youtube.com/watch?v=jGOkSerUPw4[Илья Космодемьянский — Внутреннее устройство PostgreSQL для практикующих инженеров]
+
+== Адженда
+* Фанатики-наркоманы vs нормальные люди
+* Сравнение разных моделей лицензирования софта. http://blog.jetbrains.com/blog/2015/09/18/final-update-on-the-jetbrains-toolbox-announcement/[Навеяно статьей из блога JB]
+* http://bitquabit.com/post/thoughts-on-entitlement-and-pricing/[Немного адеквата в мире безумия]
+* https://www.youtube.com/watch?v=ii693nUQwV0[Groovy podcast 17]
+
+== Полезняшки
+
+* https://iterm2.com/shell_integration.html[Новые фишечки для ITerm2]
+* http://zeroturnaround.com/rebellabs/5-command-line-tools-you-should-be-using/[5 commas line tool] от ZT
+* https://github.com/yudai/gotty/blob/master/README.md[Терминал шэринг] 
+* https://asciinema.org/[Asciinema]
+* http://blog.jetbrains.com/idea/2015/09/intellij-idea-15-eap-improves-debugger-and-git-support/[Intellij Idea early return] 
+* http://whatthecommit.com/index.txt 
+* http://gitup.co/[GitUP Painless Git]
+
+'''
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com[http://razbor-poletov.com]
+
+http://razbor-poletov.com/broadcast.html[Информация о вещании]
+
+Гости и участники:
+
+twitter:
+
+  * https://twitter.com/a_abashev[@a_abashev]
+  * https://twitter.com/antonarhipov[@antonarhipov]
+  * https://twitter.com/23derevo[@23derevo]
+  * https://twitter.com/gamussa[@gamussa]
+  * https://twitter.com/tolkv[@tolkv]
+  * https://twitter.com/jbaruch[@jbaruch]
+
+++++
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_91.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+++++
+
+Подписаться по http://feeds.feedburner.com/razbor-podcast[RSS]
+
+++++
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_91.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+++++
+
+Музыка ведущим http://www.audiobank.fm/single-music/27/111/More-And-Less/[предоставлена] и ладно...
