@@ -6,8 +6,8 @@
     <atom:link href="http://razbor-poletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2015-09-25T22:47:57-04:00</pubDate>
-    <lastBuildDate>2015-09-25T22:47:57-04:00</lastBuildDate>
+    <pubDate>2015-09-25T23:19:48-04:00</pubDate>
+    <lastBuildDate>2015-09-25T23:19:48-04:00</lastBuildDate>
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razbor-poletov.com/logoB.jpg" />
@@ -121,9 +121,6 @@
 <div class="ulist">
 <ul>
 <li>
-<p><a href="https://twitter.com/a_abashev">@a_abashev</a></p>
-</li>
-<li>
 <p><a href="https://twitter.com/antonarhipov">@antonarhipov</a></p>
 </li>
 <li>
@@ -137,6 +134,9 @@
 </li>
 <li>
 <p><a href="https://twitter.com/jbaruch">@jbaruch</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/shipilev">@shipilev</a></p>
 </li>
 </ul>
 </div>
@@ -254,9 +254,6 @@ twitter:
 
 
 
-@a_abashev
-
-
 @antonarhipov
 
 
@@ -270,6 +267,9 @@ twitter:
 
 
 @jbaruch
+
+
+@shipilev
 
 
 
