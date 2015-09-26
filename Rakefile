@@ -175,6 +175,7 @@ twitter:
 Музыка ведущим http://www.audiobank.fm/single-music/27/111/More-And-Less/[предоставлена] и ладно...
     eos
   end
+  `subl #{filename}`
 end
 
 # usage rake new_page[my-new-page] or rake new_page[my-new-page.html] or rake new_page (defaults to "new-page.markdown")
