@@ -17,7 +17,7 @@ https://twitter.com/glorphindale/status/499214765999546368[Шутка из вс�
 
 == Мероприятия
 
-* http://javaday.org.ua/kharkiv/[JavaDay Kiev]
+* http://javaday.org.ua/kyiv/[JavaDay Kiev]
 * http://javaday.org.ua/kharkiv/[JavaDay Kharkiv]
 * https://www.youtube.com/watch?v=ciHK_B0AKWw[Про страусов]
 
