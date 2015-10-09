@@ -13,6 +13,7 @@ before_script:
   - git config --global push.default simple
   - git config credential.helper "store --file=.git/credentials"
   - echo "https://$GH_TOKEN:@github.com" > .git/credentials
+  - git branch --set-upstream-to=origin/master master
   - git pull origin master
 script: bundle exec rake generate
 after_script:
