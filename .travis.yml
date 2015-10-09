@@ -1,4 +1,18 @@
 language: ruby
 rvm:
   - 1.9.3
+cache: bundler
+before_script:
+  # Set deployment target to github pages
+  - rake setup_github_pages[$REPO]
+  - cd _deploy
+  - git pull origin master
 script: bundle exec rake generate
+after_script:
+  # Workaround for travis not to try run rake on generated site
+  - ! 'echo ''script: "ls *.html"'' > public/.travis.yml'
+  # Deploy!
+  - rake deploy
+env:
+  global:
+    - REPO="git@github.com:razbor-poletov/razbor-poletov.github.com.git"
