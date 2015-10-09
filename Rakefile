@@ -25,7 +25,7 @@ stash_dir       = "_stash"    # directory to stash posts for speedy generation
 posts_dir       = "_posts"    # directory for blog files
 themes_dir      = ".themes"   # directory for blog files
 new_post_ext    = "adoc"  # default new post file extension when using the new_post task
-new_page_ext    = "markdown"  # default new page file extension when using the new_page task
+new_page_ext    = "adoc"  # default new page file extension when using the new_page task
 server_port     = "4000"      # port for preview server eg. localhost:4000
 asset_version   = Time.new.strftime("%y%m%d%H%M") # For asset versioning
 new_filename    = "razbor_"   #
@@ -205,19 +205,20 @@ task :new_page, :filename do |t, args|
     open(file, 'w') do |page|
       page.puts "---"
       page.puts "layout: page"
-      page.puts "title: \"#{title}\""
-      page.puts "date: #{Time.now.strftime('%Y-%m-%d %H:%M')}"
-      page.puts "comments: true"
       page.puts "sharing: true"
       page.puts "footer: true"
+      page.puts "comments: false"
+      page.puts "categories: "
       page.puts "---"
+      page.puts "= \"#{title.gsub(/&/,'&amp;')}\""
+      page.puts "#{Time.now.strftime('%Y-%m-%d %H:%M')}"
     end
   else
     puts "Syntax error: #{args.filename} contains unsupported characters"
   end
 end
 
-# usage rake isolate[my-post]
+# usage rake isolate[my-page]
 desc "Move all other posts than the one currently being worked on to a temporary stash location (stash) so regenerating the site happens much more quickly."
 task :isolate, :filename do |t, args|
   stash_dir = "#{source_dir}/#{stash_dir}"
