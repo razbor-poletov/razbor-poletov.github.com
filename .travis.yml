@@ -2,18 +2,17 @@ language: ruby
 rvm:
   - 1.9.3
 cache: bundler
-before_install:
-  - git config user.name "TravisCI"
-  - git config user.email "gamussa@gmail.com"
-  - git config --global push.default simple
-  - git config credential.helper "store --file=.git/credentials"
-  - echo "https://$GH_TOKEN:@github.com" > .git/credentials
 before_script:
   # Disable SSH server fingerprint verification
   - echo -e "Host github.com\n\tStrictHostKeyChecking no\n" >> ~/.ssh/config
   # Set deployment target to github pages
   - bundle exec rake setup_github_pages[$REPO]
   - cd _deploy
+  - git config user.name "TravisCI"
+  - git config user.email "gamussa@gmail.com"
+  - git config --global push.default simple
+  - git config credential.helper "store --file=.git/credentials"
+  - echo "https://$GH_TOKEN:@github.com" > .git/credentials
   - git pull origin master
 script: bundle exec rake generate
 after_script:
