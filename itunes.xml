@@ -6,8 +6,8 @@
     <atom:link href="http://razbor-poletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2015-10-09T17:42:30-04:00</pubDate>
-    <lastBuildDate>2015-10-09T17:42:30-04:00</lastBuildDate>
+    <pubDate>2015-10-09T23:20:13+00:00</pubDate>
+    <lastBuildDate>2015-10-09T23:20:13+00:00</lastBuildDate>
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razbor-poletov.com/logoB.jpg" />
@@ -23,7 +23,7 @@
     <item>
       <title>Episode 91 — Чо, бабки есть? А если найду?</title>
       <link>http://razbor-poletov.com/2015/09/episode-91.html</link>
-      <pubDate>2015-09-25T00:00:00-04:00</pubDate>
+      <pubDate>2015-09-25T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2015/09/episode-91</guid>
       <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
@@ -294,7 +294,7 @@ twitter:
     <item>
       <title>Episode 90 — В поисках Священного Грааля Языков Программирования</title>
       <link>http://razbor-poletov.com/2015/08/episode-90.html</link>
-      <pubDate>2015-08-30T00:00:00-04:00</pubDate>
+      <pubDate>2015-08-30T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2015/08/episode-90</guid>
       <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
@@ -541,7 +541,7 @@ twitter:
     <item>
       <title>Episode 89 — Здесь случайных людей нет</title>
       <link>http://razbor-poletov.com/2015/08/episode-89.html</link>
-      <pubDate>2015-08-14T00:00:00-04:00</pubDate>
+      <pubDate>2015-08-14T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2015/08/episode-89</guid>
       <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
@@ -910,7 +910,7 @@ twitter:
     <item>
       <title>Episode 88 — Ниочем</title>
       <link>http://razbor-poletov.com/2015/07/episode-88.html</link>
-      <pubDate>2015-07-30T00:00:00-04:00</pubDate>
+      <pubDate>2015-07-30T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2015/07/episode-88</guid>
       <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
@@ -1213,7 +1213,7 @@ twitter:
     <item>
       <title>Episode 87 — Прогулки по минным полям</title>
       <link>http://razbor-poletov.com/2015/07/episode-87.html</link>
-      <pubDate>2015-07-16T00:00:00-04:00</pubDate>
+      <pubDate>2015-07-16T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2015/07/episode-87</guid>
       <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
@@ -1540,7 +1540,7 @@ twitter:
     <item>
       <title>Episode 86 — Заговор мясников</title>
       <link>http://razbor-poletov.com/2015/06/episode-86.html</link>
-      <pubDate>2015-06-21T00:00:00-04:00</pubDate>
+      <pubDate>2015-06-21T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2015/06/episode-86</guid>
       <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
@@ -1793,7 +1793,7 @@ twitter:
     <item>
       <title>Episode 85 — Bob McWhirter - ты, кто такой!?</title>
       <link>http://razbor-poletov.com/2015/05/episode-85.html</link>
-      <pubDate>2015-05-31T00:00:00-04:00</pubDate>
+      <pubDate>2015-05-31T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2015/05/episode-85</guid>
       <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
@@ -2080,7 +2080,7 @@ twitter:
     <item>
       <title>Episode 84 - Прототипируй динамично!</title>
       <link>http://razbor-poletov.com/2015/05/episode-84.html</link>
-      <pubDate>2015-05-17T00:00:00-04:00</pubDate>
+      <pubDate>2015-05-17T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2015/05/episode-84</guid>
       <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
@@ -2511,7 +2511,7 @@ twitter:
     <item>
       <title>Episode 83 — Привет с JPoint</title>
       <link>http://razbor-poletov.com/2015/05/episode-83.html</link>
-      <pubDate>2015-05-03T00:00:00-04:00</pubDate>
+      <pubDate>2015-05-03T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2015/05/episode-83</guid>
       <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_83_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_83_text.jpg" width="350" /></a>
@@ -2616,7 +2616,7 @@ twitter:
     <item>
       <title>Episode 82 — Докладчик без слайдов</title>
       <link>http://razbor-poletov.com/2015/04/episode-82.html</link>
-      <pubDate>2015-04-12T00:00:00-04:00</pubDate>
+      <pubDate>2015-04-12T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2015/04/episode-82</guid>
       <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
@@ -2885,7 +2885,7 @@ twitter:
     <item>
       <title>Episode 81 — Про кишочки</title>
       <link>http://razbor-poletov.com/2015/03/episode-81.html</link>
-      <pubDate>2015-03-29T00:00:00-04:00</pubDate>
+      <pubDate>2015-03-29T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2015/03/episode-81</guid>
       <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
@@ -3152,7 +3152,7 @@ twitter:
     <item>
       <title>Episode 80 — Небольшой конференционный</title>
       <link>http://razbor-poletov.com/2015/03/episode-80.html</link>
-      <pubDate>2015-03-16T00:00:00-04:00</pubDate>
+      <pubDate>2015-03-16T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2015/03/episode-80</guid>
       <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
@@ -3395,7 +3395,7 @@ twitter:
     <item>
       <title>Episode 79 — Делать Open Source и Заколачивать Бабки</title>
       <link>http://razbor-poletov.com/2015/03/episode-79.html</link>
-      <pubDate>2015-03-08T00:00:00-05:00</pubDate>
+      <pubDate>2015-03-08T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2015/03/episode-79</guid>
       <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
@@ -3724,7 +3724,7 @@ twitter:
     <item>
       <title>Episode 78 — У каждого программиста свой дурдом</title>
       <link>http://razbor-poletov.com/2015/02/episode-78.html</link>
-      <pubDate>2015-02-22T00:00:00-05:00</pubDate>
+      <pubDate>2015-02-22T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2015/02/episode-78</guid>
       <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
@@ -4075,7 +4075,7 @@ twitter:
     <item>
       <title>Episode 77 — Чему бы поучиться на Java</title>
       <link>http://razbor-poletov.com/2015/02/episode-77.html</link>
-      <pubDate>2015-02-08T00:00:00-05:00</pubDate>
+      <pubDate>2015-02-08T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2015/02/episode-77</guid>
       <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_77_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_77_text.jpg" width="350" /></a>
@@ -4406,7 +4406,7 @@ twitter:
     <item>
       <title>Episode 76 — OSGi великий и ужасный</title>
       <link>http://razbor-poletov.com/2015/01/episode-76.html</link>
-      <pubDate>2015-01-25T16:13:00-05:00</pubDate>
+      <pubDate>2015-01-25T16:13:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2015/01/episode-76</guid>
       <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_76_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_76_text.jpg" width="350" /></a>
@@ -4625,7 +4625,7 @@ twitter:
     <item>
       <title>Episode 75 — Java вся такая белая и пушистая и в контейнере</title>
       <link>http://razbor-poletov.com/2015/01/episode-75.html</link>
-      <pubDate>2015-01-11T17:20:00-05:00</pubDate>
+      <pubDate>2015-01-11T17:20:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2015/01/episode-75</guid>
       <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_75_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_75_text.jpg" width="350" /></a>
@@ -4764,7 +4764,7 @@ twitter:
     <item>
       <title>Episode 74 — Ретроспективы и прогнозы</title>
       <link>http://razbor-poletov.com/2014/12/episode-74.html</link>
-      <pubDate>2014-12-28T15:47:00-05:00</pubDate>
+      <pubDate>2014-12-28T15:47:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2014/12/episode-74</guid>
       <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_74_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_74_text.jpg" width="350" /></a>
@@ -4915,7 +4915,7 @@ twitter:
     <item>
       <title>Episode 73 — Мы снова начинаем «Разбор Полетов»</title>
       <link>http://razbor-poletov.com/2014/11/episode-73.html</link>
-      <pubDate>2014-11-30T17:01:00-05:00</pubDate>
+      <pubDate>2014-11-30T17:01:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2014/11/episode-73</guid>
       <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_73_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_73_text.jpg" width="350" /></a>
@@ -5100,7 +5100,7 @@ twitter:
     <item>
       <title>Episode 72 — Банда снова в деле!</title>
       <link>http://razbor-poletov.com/2014/11/episode-72.html</link>
-      <pubDate>2014-11-10T13:47:00-05:00</pubDate>
+      <pubDate>2014-11-10T13:47:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2014/11/episode-72</guid>
       <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_72_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_72_text.jpg" width="350" /></a>
@@ -5269,7 +5269,7 @@ twitter:
     <item>
       <title>Episode 71 — Чемпионы и программизм</title>
       <link>http://razbor-poletov.com/2014/10/episode-71.html</link>
-      <pubDate>2014-10-22T23:33:00-04:00</pubDate>
+      <pubDate>2014-10-22T23:33:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2014/10/episode-71</guid>
       <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_71_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_71_text.jpg" width="350" /></a>
@@ -5450,7 +5450,7 @@ twitter:
     <item>
       <title>Episode 70 — Дневники JavaOne: день 2. Лечим индустрию</title>
       <link>http://razbor-poletov.com/2014/10/episode-70.html</link>
-      <pubDate>2014-10-01T00:18:00-04:00</pubDate>
+      <pubDate>2014-10-01T00:18:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2014/10/episode-70</guid>
       <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_70_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_70_text.jpg" width="350" /></a>
@@ -5563,7 +5563,7 @@ JavaOne
     <item>
       <title>Episode 69 — Дневники JavaOne 2014: день 1</title>
       <link>http://razbor-poletov.com/2014/09/episode-69.html</link>
-      <pubDate>2014-09-30T00:11:00-04:00</pubDate>
+      <pubDate>2014-09-30T00:11:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2014/09/episode-69</guid>
       <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_69_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_69_text.jpg" width="350" /></a>
@@ -5674,7 +5674,7 @@ JavaOne
     <item>
       <title>Episode 68 — Грузи всегда и везде!</title>
       <link>http://razbor-poletov.com/2014/09/episode-68.html</link>
-      <pubDate>2014-09-14T16:28:00-04:00</pubDate>
+      <pubDate>2014-09-14T16:28:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2014/09/episode-68</guid>
       <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_68_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_68_text.jpg" width="350" /></a>
@@ -5861,7 +5861,7 @@ twitter:
     <item>
       <title>Episode 67 — JCrete Special. Пляжный выпуск</title>
       <link>http://razbor-poletov.com/2014/09/episode-67.html</link>
-      <pubDate>2014-09-06T11:47:00-04:00</pubDate>
+      <pubDate>2014-09-06T11:47:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2014/09/episode-67</guid>
       <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_67_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_67_text.jpg" width="350" /></a>
@@ -6004,7 +6004,7 @@ twitter:
     <item>
       <title>Episode 66 — Инъекции, потрошители, кинжалы и пружинки</title>
       <link>http://razbor-poletov.com/2014/08/episode-66.html</link>
-      <pubDate>2014-08-27T21:39:00-04:00</pubDate>
+      <pubDate>2014-08-27T21:39:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2014/08/episode-66</guid>
       <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_66_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_66_text.jpg" width="350" /></a>
@@ -6127,7 +6127,7 @@ https://plus.google.com/+DmitryChurbanov
     <item>
       <title>Episode 65 — Microsoft уже не тот&#8230;</title>
       <link>http://razbor-poletov.com/2014/08/episode-65.html</link>
-      <pubDate>2014-08-14T00:25:00-04:00</pubDate>
+      <pubDate>2014-08-14T00:25:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2014/08/episode-65</guid>
       <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_65_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_65_text.jpg" width="350" /></a>
@@ -6254,7 +6254,7 @@ https://plus.google.com/+DmitryChurbanov
     <item>
       <title>Episode 64 — Будь профессионалом!</title>
       <link>http://razbor-poletov.com/2014/07/episode-64.html</link>
-      <pubDate>2014-07-28T19:31:00-04:00</pubDate>
+      <pubDate>2014-07-28T19:31:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2014/07/episode-64</guid>
       <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_64_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_64_text.jpg" width="350" /></a>
@@ -6455,7 +6455,7 @@ https://plus.google.com/+DmitryChurbanov
     <item>
       <title>Episode 63 — В Интернетах кто-то неправ</title>
       <link>http://razbor-poletov.com/2014/07/episode-63.html</link>
-      <pubDate>2014-07-15T00:22:00-04:00</pubDate>
+      <pubDate>2014-07-15T00:22:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2014/07/episode-63</guid>
       <description><![CDATA[<p><a href="http://xkcd.com/386/">Кто-то неправ</a></p>
 
@@ -6644,7 +6644,7 @@ https://plus.google.com/+DmitryChurbanov
     <item>
       <title>Episode 62 — Учимся на ошибках</title>
       <link>http://razbor-poletov.com/2014/06/episode-62.html</link>
-      <pubDate>2014-06-22T16:07:00-04:00</pubDate>
+      <pubDate>2014-06-22T16:07:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2014/06/episode-62</guid>
       <description><![CDATA[<p><a href="http://s2.developerslife.ru/public/images/gifs/63e1f331-bee2-4648-af36-709f123ea05d.gif"><strong>Выпуск 18+</strong></a></p>
 
@@ -6827,7 +6827,7 @@ https://plus.google.com/+DmitryChurbanov
     <item>
       <title>Episode 61 — Про яблоки и Свифт</title>
       <link>http://razbor-poletov.com/2014/06/episode-61.html</link>
-      <pubDate>2014-06-08T16:43:00-04:00</pubDate>
+      <pubDate>2014-06-08T16:43:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2014/06/episode-61</guid>
       <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_61_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_61_text.jpg" width="350" /></a>
@@ -6994,7 +6994,7 @@ https://plus.google.com/+AntonArhipov
     <item>
       <title>Episode 60 — Будьте бдительны!</title>
       <link>http://razbor-poletov.com/2014/05/episode-60.html</link>
-      <pubDate>2014-05-18T16:38:00-04:00</pubDate>
+      <pubDate>2014-05-18T16:38:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2014/05/episode-60</guid>
       <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_60_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_60_text.jpg" width="350" /></a>
@@ -7191,7 +7191,7 @@ https://plus.google.com/+AntonArhipov
     <item>
       <title>Episode 59 — Всех с восьмеркой, молодые, реактивные и динамичные</title>
       <link>http://razbor-poletov.com/2014/04/episode-59.html</link>
-      <pubDate>2014-04-06T16:00:00-04:00</pubDate>
+      <pubDate>2014-04-06T16:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2014/04/episode-59</guid>
       <description><![CDATA[<p>Гость выпуска <a href="https://twitter.com/#!/umputun">Umputun</a></p>
 
@@ -7388,7 +7388,7 @@ https://plus.google.com/+AntonArhipov
     <item>
       <title>Episode 58 — Конференции, анонимные программисты и добро</title>
       <link>http://razbor-poletov.com/2014/03/episode-58.html</link>
-      <pubDate>2014-03-23T17:44:00-04:00</pubDate>
+      <pubDate>2014-03-23T17:44:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2014/03/episode-58</guid>
       <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_58_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_58_text.jpg" width="350" /></a>
@@ -7557,7 +7557,7 @@ https://plus.google.com/+DmitryChurbanov
     <item>
       <title>Episode 57 — Новые технологии на нашем радаре</title>
       <link>http://razbor-poletov.com/2014/03/episode-57.html</link>
-      <pubDate>2014-03-16T16:40:00-04:00</pubDate>
+      <pubDate>2014-03-16T16:40:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2014/03/episode-57</guid>
       <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_57_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_57_text.jpg" width="350" /></a>
@@ -7708,7 +7708,7 @@ https://plus.google.com/+DmitryChurbanov
     <item>
       <title>Episode 56 — I eat Green Berets for breakfast</title>
       <link>http://razbor-poletov.com/2014/03/episode-56.html</link>
-      <pubDate>2014-03-02T16:17:00-05:00</pubDate>
+      <pubDate>2014-03-02T16:17:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2014/03/episode-56</guid>
       <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_56_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_56_text.jpg" width="350" /></a>
@@ -7887,7 +7887,7 @@ https://plus.google.com/+DmitryChurbanov
     <item>
       <title>Episode 55 — Dr. H. Kabutz, ты кто такой?! давайдосвиданья!</title>
       <link>http://razbor-poletov.com/2014/02/episode-55.html</link>
-      <pubDate>2014-02-16T17:45:00-05:00</pubDate>
+      <pubDate>2014-02-16T17:45:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2014/02/episode-55</guid>
       <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_55_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_55_text.jpg" width="350" /></a>
@@ -8028,7 +8028,7 @@ https://plus.google.com/+DmitryChurbanov
     <item>
       <title>Episode 54 — Dart-аньян веб-разработки</title>
       <link>http://razbor-poletov.com/2014/01/episode-54.html</link>
-      <pubDate>2014-01-26T16:37:00-05:00</pubDate>
+      <pubDate>2014-01-26T16:37:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2014/01/episode-54</guid>
       <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_54_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_54_text.jpg" width="350" /></a>
@@ -8257,7 +8257,7 @@ https://plus.google.com/+DmitryChurbanov
     <item>
       <title>Episode 53 — Цейлонский выпуск</title>
       <link>http://razbor-poletov.com/2014/01/episode-53.html</link>
-      <pubDate>2014-01-12T17:01:00-05:00</pubDate>
+      <pubDate>2014-01-12T17:01:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2014/01/episode-53</guid>
       <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_53_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_53_text.jpg" width="350" /></a>
@@ -8428,7 +8428,7 @@ https://plus.google.com/+DmitryChurbanov
     <item>
       <title>Поздравительная открытка — 2013</title>
       <link>http://razbor-poletov.com/2013/12/greeting-card-2013.html</link>
-      <pubDate>2013-12-28T15:05:00-05:00</pubDate>
+      <pubDate>2013-12-28T15:05:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2013/12/greeting-card-2013</guid>
       <description><![CDATA[<p>Уважаемые слушатели!</p>
 
@@ -8475,7 +8475,7 @@ https://plus.google.com/+DmitryChurbanov
     <item>
       <title>Episode 52 — Главный по IDEA</title>
       <link>http://razbor-poletov.com/2013/12/episode-52.html</link>
-      <pubDate>2013-12-22T17:03:00-05:00</pubDate>
+      <pubDate>2013-12-22T17:03:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2013/12/episode-52</guid>
       <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_52_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_52_text.jpg" width="350" /></a>
@@ -8642,7 +8642,7 @@ https://plus.google.com/+DmitryChurbanov
     <item>
       <title>Episode 51 — Spring на нашей улице</title>
       <link>http://razbor-poletov.com/2013/12/episode-51.html</link>
-      <pubDate>2013-12-15T16:40:00-05:00</pubDate>
+      <pubDate>2013-12-15T16:40:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2013/12/episode-51</guid>
       <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_51_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_51_text.jpg" width="350" /></a>
@@ -8835,7 +8835,7 @@ https://plus.google.com/+AntonArhipov
     <item>
       <title>Episode 50 — I&#8217;m an architect and I don&#8217;t know what I&#8217;m doing</title>
       <link>http://razbor-poletov.com/2013/12/episode-50.html</link>
-      <pubDate>2013-12-01T17:08:00-05:00</pubDate>
+      <pubDate>2013-12-01T17:08:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2013/12/episode-50</guid>
       <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_50_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_50_text.jpg" width="350" /></a>
@@ -9008,7 +9008,7 @@ https://plus.google.com/+AntonArhipov
     <item>
       <title>Episode 49 — Напиться пива и поработать сверхурочно</title>
       <link>http://razbor-poletov.com/2013/11/episode-49.html</link>
-      <pubDate>2013-11-17T19:28:00-05:00</pubDate>
+      <pubDate>2013-11-17T19:28:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2013/11/episode-49</guid>
       <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_49_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_49_text.jpg" width="350" /></a>
@@ -9159,7 +9159,7 @@ gplus.to/aabashev
     <item>
       <title>Episode 48 — Потоки наших сознаний в Ваши уши</title>
       <link>http://razbor-poletov.com/2013/11/episode-48.html</link>
-      <pubDate>2013-11-08T15:00:00-05:00</pubDate>
+      <pubDate>2013-11-08T15:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2013/11/episode-48</guid>
       <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_48_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_48_text.jpg" width="350" /></a>
@@ -9326,7 +9326,7 @@ gplus.to/aabashev
     <item>
       <title>Episode 47 — Дневники JavaOne 2013: День 3</title>
       <link>http://razbor-poletov.com/2013/09/episode-47.html</link>
-      <pubDate>2013-09-26T10:55:00-04:00</pubDate>
+      <pubDate>2013-09-26T10:55:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2013/09/episode-47</guid>
       <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_47_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_47_text.jpg" width="350" /></a>
@@ -9427,7 +9427,7 @@ gplus.to/aabashev
     <item>
       <title>Episode 46 — Дневники JavaOne 2013: День 2</title>
       <link>http://razbor-poletov.com/2013/09/episode-46.html</link>
-      <pubDate>2013-09-25T08:29:00-04:00</pubDate>
+      <pubDate>2013-09-25T08:29:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2013/09/episode-46</guid>
       <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_46_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_46_text.jpg" width="350" /></a>
@@ -9530,7 +9530,7 @@ gplus.to/aabashev
     <item>
       <title>Episode 45 — Дневники JavaOne 2013: День 1</title>
       <link>http://razbor-poletov.com/2013/09/episode-45.html</link>
-      <pubDate>2013-09-24T01:33:00-04:00</pubDate>
+      <pubDate>2013-09-24T01:33:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2013/09/episode-45</guid>
       <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_45_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_45_text.jpg" width="350" /></a>
@@ -9643,7 +9643,7 @@ gplus.to/aabashev
     <item>
       <title>Episode 44 — О чем спляшем и споем на JavaOne</title>
       <link>http://razbor-poletov.com/2013/09/episode-44.html</link>
-      <pubDate>2013-09-16T16:31:00-04:00</pubDate>
+      <pubDate>2013-09-16T16:31:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2013/09/episode-44</guid>
       <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_44_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_44_text.jpg" width="350" /></a>
@@ -9860,7 +9860,7 @@ gplus.to/aabashev
     <item>
       <title>Episode 43 — Диалоги о JetBrains</title>
       <link>http://razbor-poletov.com/2013/08/episode-43.html</link>
-      <pubDate>2013-08-23T14:41:00-04:00</pubDate>
+      <pubDate>2013-08-23T14:41:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2013/08/episode-43</guid>
       <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_43_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_43_text.jpg" width="350" /></a>
