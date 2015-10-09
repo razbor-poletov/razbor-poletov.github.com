@@ -3,8 +3,15 @@ rvm:
   - 1.9.3
 cache: bundler
 before_script:
+  - git config user.name "TravisCI"
+  - git config user.email "gamussa@gmail.com"
+  - git config --global push.default simple
+  - git config credential.helper "store --file=.git/credentials"
+  - echo "https://$GH_TOKEN:@github.com" > .git/credentials
+  # Disable SSH server fingerprint verification
+  - echo -e "Host github.com\n\tStrictHostKeyChecking no\n" >> ~/.ssh/config
   # Set deployment target to github pages
-  - bundle exec rake setup_github_pages[$REPO]
+  - bundle exec rake setup_github_pages["https://${GH_TOKEN}@${GH_REF}"]
   - cd _deploy
   - git pull origin master
 script: bundle exec rake generate
@@ -15,4 +22,5 @@ after_script:
   - bundle exec rake deploy
 env:
   global:
-    - REPO="git@github.com:razbor-poletov/razbor-poletov.github.com.git"
+    - GH_REF="github.com/razbor-poletov/razbor-poletov.github.com.git"
+    - secure: FE6GY6mm8DdZzh2Xq0mDTlqAyo6VmybQFavUVjimisB89/+9vDgK0Ikfm1RI7IwU2AJ6f62za1p7Cwhgi5FqvIB2e9HZvMOoRPitJeN28+Yo/P+CUNmiQijU5GQc7WWnMlgGuXH+RxstgQdqCUQ8z4iGDho0vdvk+5LfMgfDadA=
