@@ -1,0 +1,30 @@
+= Razbor-poletov.com setup
+
+https://gitter.im/razbor-poletov/razbor-poletov.github.com?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge[image:https://badges.gitter.im/Join%20Chat.svg[Join the chat at https://gitter.im/razbor-poletov/razbor-poletov.github.com]]
+
+== Build And Deploy razbor-poletov.com
+
+=== Setup Local Environment 
+
+. Clone sources form GH
+.. `git clone git@github.com:razbor-poletov/razbor-poletov.github.com.git`
+.. `git co source`
+. Setup Ruby
+.. `gem install bundler`
+.. `bundle install`
+. Setup deploy folder
+.. `rake setup_github_pages` and enter `git@github.com:razbor-poletov/razbor-poletov.github.com.git`
+.. `cd _deploy`
+.. `git pull origin master`
+
+=== Add New Post
+
+`rake new_post\[episode-100\]`
+
+=== Preview Website
+
+`rake clean preview`
+
+=== Generate and Deploy
+
+`rake clean gen_deploy`
