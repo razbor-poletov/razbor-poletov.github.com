@@ -48,12 +48,12 @@ http://razbor-poletov.com/broadcast.html[Информация о вещании]
 
 twitter:
 
-  * https://twitter.com/a_abashev[@a_abashev]
   * https://twitter.com/antonarhipov[@antonarhipov]
   * https://twitter.com/23derevo[@23derevo]
   * https://twitter.com/gamussa[@gamussa]
   * https://twitter.com/tolkv[@tolkv]
   * https://twitter.com/jbaruch[@jbaruch]
+  * https://twitter.com/shipilev[@shipilev]
 
 ++++
 <!-- player goes here-->
