@@ -5,15 +5,12 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>Episode 66 — Инъекции, потрошители, кинжалы и пружинки - Подкаст «Разбор Полетов»</title>
+  <title>Episode 92 — Clojure в каждый дом! - Подкаст «Разбор Полетов»</title>
   <meta name="author" content="Viktor Gamov, Alexey Abashev, Dmitry Churbanov">
 
   
-  <meta name="description" content="Приложение «Разбор Полетов» для Android. Гитхаб для пулл-реквестов
-Dagger Two. Видео
-Книга про DI
-«Spring-поторошитель» 1 2
-Полезняшка jacabi (log, &hellip;">
+  <meta name="description" content="Главный редактор - @tolkv
+Продюсер - @antonarhipov Темы выпуска Clojure ClojureScript DataScript Datomic Precursor Facebook Relay JSON Graph Новости &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -22,7 +19,7 @@ Dagger Two. Видео
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://razbor-poletov.com/2014/08/episode-66.html">
+  <link rel="canonical" href="http://razbor-poletov.com/2015/10/episode-92.html">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <!-- <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script> -->
@@ -123,7 +120,7 @@ $(document).ready(function() {
   
   <header>
     
-      <h1 class="entry-title">Episode 66 — Инъекции, потрошители, кинжалы и пружинки</h1>
+      <h1 class="entry-title">Episode 92 — Clojure в каждый дом!</h1>
     
     
       <p class="meta">
@@ -139,7 +136,7 @@ $(document).ready(function() {
   
 
 
-<time datetime="2014-08-27T21:39:00+00:00" pubdate data-updated="true">Aug 27<span>th</span>, 2014</time>
+<time datetime="2015-10-11T00:00:00+00:00" pubdate data-updated="true">Oct 11<span>th</span>, 2015</time>
         
          | <a href="#disqus_thread">Comments</a>
         
@@ -148,63 +145,135 @@ $(document).ready(function() {
   </header>
 
 
-<div class="entry-content"><div class="separator" style="clear: both; text-align: center;">
-<a href="http://razbor-poletov.com/images/razbor_66_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_66_text.jpg" width="350" /></a>
+<div class="entry-content"><div id="preamble">
+<div class="sectionbody">
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_92_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_92_text.jpg" width="350" /></a>
 </div>
-
-
+<div class="paragraph">
+<p>Главный редактор - <a href="https://twitter.com/tolkv">@tolkv</a>
+Продюсер - <a href="https://twitter.com/antonarhipov">@antonarhipov</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы-выпуска">Темы выпуска</h2>
+<div class="sectionbody">
+<div class="ulist">
 <ul>
-<li><a href="https://play.google.com/store/apps/details?id=com.shonenfactory.razborpoletov">Приложение «Разбор Полетов» для Android</a>. <a href="https://github.com/rsi2m/RazborPoletov">Гитхаб</a> для пулл-реквестов</li>
-<li><a href="https://github.com/google/dagger">Dagger Two</a>. <a href="https://www.youtube.com/watch?v=oK_XtfXPkqw">Видео</a></li>
-<li><a href="http://www.amazon.com/Dependency-Injection-Dhanji-R-Prasanna/dp/193398855X">Книга про DI</a></li>
-<li>«Spring-поторошитель» <a href="https://www.youtube.com/watch?v=BmBr5diz8WA">1</a> <a href="https://www.youtube.com/watch?v=cou_qomYLNU">2</a></li>
-<li>Полезняшка <a href="http://www.jcabi.com/index.html">jacabi</a> (log, VerboseThread, jdbc)</li>
-<li><a href="http://blog.jooq.org/2014/06/26/stop-unit-testing-database-code/">Перестаньте тестировать базу</a></li>
+<li>
+<p><a href="http://clojure.org/">Clojure</a></p>
+</li>
+<li>
+<p><a href="https://github.com/clojure/clojurescript">ClojureScript</a></p>
+</li>
+<li>
+<p><a href="https://github.com/tonsky/datascript">DataScript</a></p>
+</li>
+<li>
+<p><a href="http://www.datomic.com/">Datomic</a></p>
+</li>
+<li>
+<p><a href="https://precursorapp.com/">Precursor</a></p>
+</li>
+<li>
+<p><a href="https://facebook.github.io/relay/">Facebook Relay</a></p>
+</li>
+<li>
+<p><a href="http://netflix.github.io/falcor/documentation/jsongraph.html">JSON Graph</a></p>
+</li>
 </ul>
-
-
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Новости">Новости</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Stash переименовался в <a href="http://blog.bitbucket.org/2015/09/22/1-in-3-fortune-500-companies-agree-bitbucket-is-the-git-solution-for-professional-teams/">Bitbucket Server</a></p>
+</li>
+<li>
+<p>Дима теперь работает в <a href="http://www.businessinsider.com/google-alphabet-diagram-2015-8">Alphabet</a>?!</p>
+</li>
+<li>
+<p>Появился <a href="http://openjdk.java.net/jeps/266">JEР</a> приближающий Java к идеологии <a href="http://www.reactive-streams.org/">Reactive Streams</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Полезняшки">Полезняшки</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>GitHub потратил, наконец то, деньги инвесторов на <a href="https://classroom.github.com/">что то стоющее</a></p>
+</li>
+<li>
+<p>Теперь можно разрабатывать <a href="https://github.com/JetBrains/gradle-intellij-plugin">плагины для Idea с Gradle</a>. Ждем когда можно будет удобно использовать Gradle из самой Idea</p>
+</li>
+<li>
+<p><a href="https://github.com/Yelp/elastalert">Elastic Alert</a></p>
+</li>
+<li>
+<p><a href="http://beust.com/kobalt/home/index.html">Kobalt</a>, убийца Gradle?</p>
+</li>
+</ul>
+</div>
+<hr>
+<div class="paragraph">
 <p>Наши контакты:</p>
-
+</div>
+<div class="paragraph">
 <p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
-
-<p>Темы для следующего выпуска - <a href="https://github.com/razbor-poletov/razbor-poletov.github.com/issues?state=open">https://github.com/razbor-poletov/</a></p>
-
+</div>
+<div class="paragraph">
+<p><a href="http://razbor-poletov.com/broadcast.html">Информация о вещании</a></p>
+</div>
+<div class="paragraph">
 <p>Гости и участники:</p>
-
-<p>twitter:</p>
-
+</div>
+<div class="paragraph">
+<p>Twitter:</p>
+</div>
+<div class="ulist">
 <ul>
-<li><a href="https://twitter.com/#!/gamussa">@gamussa</a></li>
-<li><a href="https://twitter.com/#!/golodnyj">@golodnyj</a></li>
-<li><a href="https://twitter.com/#!/dzmitryc">@dzmitryc </a></li>
+<li>
+<p><a href="https://twitter.com/antonarhipov">@antonarhipov</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/tolkv">@tolkv</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/shipilev">@shipilev</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/dzmitryc">@dzmitryc</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/nikitonsky">@nikitonsky</a></p>
+</li>
 </ul>
-
-
-<p>G+:</p>
-
-<ul>
-<li><a href="http://gplus.to/gAmUssA">gplus.to/gAmUssA</a></li>
-<li><a href="https://plus.google.com/+DmitryChurbanov">https://plus.google.com/+DmitryChurbanov</a></li>
-</ul>
-
-
+</div>
 <!-- player goes here-->
 
-
-<p><audio preload="none">
-   <source src="http://traffic.libsyn.com/razborpoletov/razbor_66.mp3" type="audio/mp3" />
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_92.mp3" type="audio/mp3" />
    Your browser does not support the audio tag.
-</audio></p>
-
+</audio>
+<div class="paragraph">
 <p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
-
-<!-- episode file link goes here-->
-
-
-<p><a href="http://traffic.libsyn.com/razborpoletov/razbor_66.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
-
-<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
 </div>
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_92.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+<div class="paragraph">
+<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
+</div>
+</div>
+</div></div>
 
 
   <footer>
@@ -212,7 +281,7 @@ $(document).ready(function() {
       
   
 
-<span class="byline author vcard">Posted by <span class="fn">Viktor Gamov, Alexey Abashev, Dmitry Churbanov</span></span>
+<span class="byline author vcard">Posted by <span class="fn">2015-10-12 22:51</span></span>
 
       
 
@@ -226,7 +295,7 @@ $(document).ready(function() {
   
 
 
-<time datetime="2014-08-27T21:39:00+00:00" pubdate data-updated="true">Aug 27<span>th</span>, 2014</time>
+<time datetime="2015-10-11T00:00:00+00:00" pubdate data-updated="true">Oct 11<span>th</span>, 2015</time>
       
 
 
@@ -245,10 +314,8 @@ $(document).ready(function() {
     
     <p class="meta">
       
-        <a class="basic-alignment left" href="/2014/08/episode-65.html" title="Previous Post: Episode 65 — Microsoft уже не тот...">&laquo; Episode 65 — Microsoft уже не тот...</a>
+        <a class="basic-alignment left" href="/2015/09/episode-91.html" title="Previous Post: Episode 91 — Чо, бабки есть? А если найду?">&laquo; Episode 91 — Чо, бабки есть? А если найду?</a>
       
-      
-        <a class="basic-alignment right" href="/2014/09/episode-67.html" title="Next Post: Episode 67 — JCrete Special. Пляжный выпуск">Episode 67 — JCrete Special. Пляжный выпуск &raquo;</a>
       
     </p>
   </footer>
@@ -360,8 +427,8 @@ $(document).ready(function() {
       
         
         // var disqus_developer = 1;
-        var disqus_identifier = 'http://razbor-poletov.com/2014/08/episode-66.html';
-        var disqus_url = 'http://razbor-poletov.com/2014/08/episode-66.html';
+        var disqus_identifier = 'http://razbor-poletov.com/2015/10/episode-92.html';
+        var disqus_url = 'http://razbor-poletov.com/2015/10/episode-92.html';
         var disqus_script = 'embed.js';
       
 
@@ -375,7 +442,7 @@ $(document).ready(function() {
 
 <script>
     gapi.comments.render('gplus-pingback', { 
-	    href: 'http://razbor-poletov.com/2014/08/episode-66.html',
+	    href: 'http://razbor-poletov.com/2015/10/episode-92.html',
         first_party_property: 'BLOGGER',
         view_type: 'FILTERED_POSTMOD'
     });
