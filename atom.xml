@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2015-10-13T02:16:29+00:00</updated>
+  <updated>2015-10-13T06:10:23+00:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov]]></name>
@@ -83,7 +83,7 @@
 <div class="ulist">
 <ul>
 <li>
-<p>GitHub потратил, наконец то, деньги инвесторов на <a href="https://classroom.github.com/">что то стоющее</a></p>
+<p>GitHub потратил, наконец то, деньги инвесторов на <a href="https://classroom.github.com/">что-то стоящее</a></p>
 </li>
 <li>
 <p>Теперь можно разрабатывать <a href="https://github.com/JetBrains/gradle-intellij-plugin">плагины для Idea с Gradle</a>. Ждем когда можно будет удобно использовать Gradle из самой Idea</p>

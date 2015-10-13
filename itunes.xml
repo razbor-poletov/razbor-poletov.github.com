@@ -6,8 +6,8 @@
     <atom:link href="http://razbor-poletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2015-10-13T02:16:29+00:00</pubDate>
-    <lastBuildDate>2015-10-13T02:16:29+00:00</lastBuildDate>
+    <pubDate>2015-10-13T06:10:23+00:00</pubDate>
+    <lastBuildDate>2015-10-13T06:10:23+00:00</lastBuildDate>
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razbor-poletov.com/logoB.jpg" />
@@ -90,7 +90,7 @@
 <div class="ulist">
 <ul>
 <li>
-<p>GitHub потратил, наконец то, деньги инвесторов на <a href="https://classroom.github.com/">что то стоющее</a></p>
+<p>GitHub потратил, наконец то, деньги инвесторов на <a href="https://classroom.github.com/">что-то стоящее</a></p>
 </li>
 <li>
 <p>Теперь можно разрабатывать <a href="https://github.com/JetBrains/gradle-intellij-plugin">плагины для Idea с Gradle</a>. Ждем когда можно будет удобно использовать Gradle из самой Idea</p>
@@ -221,7 +221,7 @@ Stash переименовался в Bitbucket Server
 
 
 
-GitHub потратил, наконец то, деньги инвесторов на что то стоющее
+GitHub потратил, наконец то, деньги инвесторов на что-то стоящее
 
 
 Теперь можно разрабатывать плагины для Idea с Gradle. Ждем когда можно будет удобно использовать Gradle из самой Idea
