@@ -1,0 +1,76 @@
+---
+comments: true
+categories: 
+---
+= Episode 92 — Clojure в каждый дом!
+2015-10-12 22:51
+:layout: post
+:filename: razbor_92
+
+++++
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_92_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_92_text.jpg" width="350" /></a>
+</div>
+++++
+
+Главный редактор - https://twitter.com/tolkv[@tolkv]
+Продюсер - https://twitter.com/antonarhipov[@antonarhipov]
+
+== Темы выпуска
+
+* http://clojure.org/[Clojure]
+* https://github.com/clojure/clojurescript[ClojureScript]
+* https://github.com/tonsky/datascript[DataScript]
+* http://www.datomic.com/[Datomic]
+* https://precursorapp.com/[Precursor]
+* https://facebook.github.io/relay/[Facebook Relay]
+* http://netflix.github.io/falcor/documentation/jsongraph.html[JSON Graph]
+
+== Новости
+
+* Stash переименовался в http://blog.bitbucket.org/2015/09/22/1-in-3-fortune-500-companies-agree-bitbucket-is-the-git-solution-for-professional-teams/[Bitbucket Server]
+* Дима теперь работает в http://www.businessinsider.com/google-alphabet-diagram-2015-8[Alphabet]?!
+* Появился http://openjdk.java.net/jeps/266[JEР] приближающий Java к идеологии http://www.reactive-streams.org/[Reactive Streams]
+
+== Полезняшки
+
+* GitHub потратил, наконец то, деньги инвесторов на https://classroom.github.com/[что то стоющее]
+* Теперь можно разрабатывать https://github.com/JetBrains/gradle-intellij-plugin[плагины для Idea с Gradle]. Ждем когда можно будет удобно использовать Gradle из самой Idea
+* https://github.com/Yelp/elastalert[Elastic Alert]
+* http://beust.com/kobalt/home/index.html[Kobalt], убийца Gradle?
+
+'''
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com[http://razbor-poletov.com]
+
+http://razbor-poletov.com/broadcast.html[Информация о вещании]
+
+Гости и участники:
+
+Twitter:
+
+  * https://twitter.com/antonarhipov[@antonarhipov]
+  * https://twitter.com/tolkv[@tolkv]
+  * https://twitter.com/shipilev[@shipilev]
+  * https://twitter.com/dzmitryc[@dzmitryc]
+  * https://twitter.com/nikitonsky[@nikitonsky]
+
+++++
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_92.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+++++
+
+Подписаться по http://feeds.feedburner.com/razbor-podcast[RSS]
+
+++++
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_92.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+++++
+
+Музыка ведущим http://www.audiobank.fm/single-music/27/111/More-And-Less/[предоставлена] и ладно...
