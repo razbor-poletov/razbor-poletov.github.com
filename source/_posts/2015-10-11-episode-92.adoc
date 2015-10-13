@@ -34,7 +34,7 @@ categories:
 
 == Полезняшки
 
-* GitHub потратил, наконец то, деньги инвесторов на https://classroom.github.com/[что то стоющее]
+* GitHub потратил, наконец то, деньги инвесторов на https://classroom.github.com/[что-то стоящее]
 * Теперь можно разрабатывать https://github.com/JetBrains/gradle-intellij-plugin[плагины для Idea с Gradle]. Ждем когда можно будет удобно использовать Gradle из самой Idea
 * https://github.com/Yelp/elastalert[Elastic Alert]
 * http://beust.com/kobalt/home/index.html[Kobalt], убийца Gradle?
