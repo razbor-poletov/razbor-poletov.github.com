@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2015-10-27T07:25:14+00:00</updated>
+  <updated>2015-10-27T07:38:45+00:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov]]></name>
@@ -18,8 +18,20 @@
     <link href="http://razbor-poletov.com/2015/10/episode-93.html"/>
     <updated>2015-10-27T00:00:00+00:00</updated>
     <id>http://razbor-poletov.com/2015/10/episode-93</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
+    <content type="html"><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_93_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_93_text.jpg" width="350" /></a>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Шоуноты">Шоуноты</h2>
+<div class="sectionbody">
+<div class="imageblock">
+<div class="content">
+<img src="http://razbor-poletov.com/images/shownotes_93.JPG" alt="shownotes 93">
+</div>
 </div>
 <hr>
 <div class="paragraph">
@@ -69,6 +81,8 @@
 <a href="http://traffic.libsyn.com/razborpoletov/razbor_93.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
 <div class="paragraph">
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
+</div>
+</div>
 </div>]]></content>
   </entry>
   
