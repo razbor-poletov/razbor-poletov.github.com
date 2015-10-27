@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2015-10-27T07:21:06+00:00</updated>
+  <updated>2015-10-27T07:25:14+00:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Episode 92 — JavaOne Special - Взгляд из будки]]></title>
+    <title type="html"><![CDATA[Episode 93 — JavaOne Special - Взгляд из будки]]></title>
     <link href="http://razbor-poletov.com/2015/10/episode-93.html"/>
     <updated>2015-10-27T00:00:00+00:00</updated>
     <id>http://razbor-poletov.com/2015/10/episode-93</id>
