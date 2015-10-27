@@ -13,6 +13,10 @@ categories:
 </div>
 ++++
 
+== Шоуноты
+
+image::http://razbor-poletov.com/images/shownotes_93.JPG[]
+
 '''
 
 Наши контакты:
