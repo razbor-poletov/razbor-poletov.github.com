@@ -2,7 +2,7 @@
 comments: true
 categories: 
 ---
-= Episode 92 — JavaOne Special - Взгляд из будки
+= Episode 93 — JavaOne Special - Взгляд из будки
 2015-10-27 00:06
 :layout: post
 :filename: razbor_93
