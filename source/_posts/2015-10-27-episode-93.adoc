@@ -13,6 +13,8 @@ categories:
 </div>
 ++++
 
+Дайджест первого дня конференции JavaOne 2015 в городе Сан-Франциско штат Калифорния
+
 == Шоуноты
 
 image::http://razbor-poletov.com/images/shownotes_93.JPG[]
