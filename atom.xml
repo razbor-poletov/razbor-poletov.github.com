@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2015-11-06T03:32:06+00:00</updated>
+  <updated>2015-11-06T03:40:13+00:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov]]></name>
@@ -20,6 +20,9 @@
     <id>http://razbor-poletov.com/2015/11/episode-96</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
+<div class="paragraph">
+<p>Внимание, выпуск <strong>18+</strong></p>
+</div>
 <div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_96_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_96_text.jpg" width="350" /></a>
 </div>

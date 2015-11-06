@@ -6,8 +6,8 @@
     <atom:link href="http://razbor-poletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2015-11-06T03:32:06+00:00</pubDate>
-    <lastBuildDate>2015-11-06T03:32:06+00:00</lastBuildDate>
+    <pubDate>2015-11-06T03:40:13+00:00</pubDate>
+    <lastBuildDate>2015-11-06T03:40:13+00:00</lastBuildDate>
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razbor-poletov.com/logoB.jpg" />
@@ -27,6 +27,9 @@
       <guid isPermalink="true">http://razbor-poletov.com/2015/11/episode-96</guid>
       <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
+<div class="paragraph">
+<p>Внимание, выпуск <strong>18+</strong></p>
+</div>
 <div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_96_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_96_text.jpg" width="350" /></a>
 </div>
@@ -187,6 +190,9 @@
       <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
       <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[
+
+
+Внимание, выпуск 18+
 
 
 
