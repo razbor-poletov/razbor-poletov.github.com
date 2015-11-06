@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2015-11-05T20:17:12+00:00</updated>
+  <updated>2015-11-06T03:32:06+00:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov]]></name>
@@ -12,6 +12,172 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 96 — It&#8217;s a wrap!]]></title>
+    <link href="http://razbor-poletov.com/2015/11/episode-96.html"/>
+    <updated>2015-11-05T00:00:00+00:00</updated>
+    <id>http://razbor-poletov.com/2015/11/episode-96</id>
+    <content type="html"><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_96_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_96_text.jpg" width="350" /></a>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Мероприятия">Мероприятия</h2>
+<div class="sectionbody">
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p>Сделать recap of JavaOne. В последний день не записались. Поговорить про community <strong class="line-through">keynote</strong> party JavaOne 2015</p>
+<div class="olist loweralpha">
+<ol class="loweralpha" type="a">
+<li>
+<p><a href="https://www.reddit.com/r/java/comments/3requx/javaone_2015_sessions/" class="bare">https://www.reddit.com/r/java/comments/3requx/javaone_2015_sessions/</a></p>
+</li>
+</ol>
+</div>
+</li>
+<li>
+<p>Feedback по SpringOne2Gx</p>
+</li>
+<li>
+<p>JavaDay Kiev</p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=H9CCFf6XgyQ">Vjug про concurrency с хлебушком</a></p>
+</li>
+<li>
+<p><a href="https://events.yandex.ru/events/yagosti/19-september-2015-linux/"><em>OpenVZ 10 лет</a>. Встречка с разработчиками OpenVZ/Parallels. Можно узнать откуда у Docker растут ноги. Встречка прошла, <a href="http://habrahabr.ru/company/centosadmin/blog/268295/">_фидбек</em></a></p>
+</li>
+</ol>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Релизы">Релизы</h2>
+<div class="sectionbody">
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p><a href="http://zeroturnaround.com/blog/xrebel-2-3-release-brings-dynamodb-quartz-jms-and-more/">Новый иксребель</a></p>
+</li>
+<li>
+<p><a href="https://github.com/wasdev">IBM WASDev</a></p>
+</li>
+<li>
+<p>Вышел <a href="http://docs.hazelcast.org/docs/3.6-EA/manual/html-single/index.html#new-features">Hazelcast 3.6-EA</a></p>
+</li>
+<li>
+<p><a href="https://www.jfrog.com/mission-control/">JFrog Mission Control</a>
+..</p>
+<div class="olist loweralpha">
+<ol class="loweralpha" type="a">
+<li>
+<p><a href="https://www.youtube.com/watch?v=i9IRH9VhPog" class="bare">https://www.youtube.com/watch?v=i9IRH9VhPog</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=r3Mx-0P0JUo" class="bare">https://www.youtube.com/watch?v=r3Mx-0P0JUo</a></p>
+</li>
+</ol>
+</div>
+</li>
+<li>
+<p>Git-lfs <a href="https://git-lfs.github.com/" class="bare">https://git-lfs.github.com/</a></p>
+</li>
+<li>
+<p><a href="http://habrahabr.ru/company/JetBrains/blog/268117/">InteliJ IDEA 15</a></p>
+<div class="olist loweralpha">
+<ol class="loweralpha" type="a">
+<li>
+<p><a href="http://info.jetbrains.com/IDEA-Webinar-November2015-registration.html">IDEA для Spring разработчиков</a></p>
+</li>
+</ol>
+</div>
+</li>
+</ol>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p>sdkman.io: За что? Почему старый инструмент вынужден <a href="http://mike-neck.hatenadiary.com/entry/2015/09/17/234228">переименоваться, а новому пофиг?</a></p>
+</li>
+</ol>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Полезняшки">Полезняшки</h2>
+<div class="sectionbody">
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p><a href="http://www.capsule.io/">Контейнеры для Java приложений c поддержкой LXC</a></p>
+</li>
+<li>
+<p><a href="https://github.com/sindresorhus/awesome">Awesome Framework</a></p>
+</li>
+</ol>
+</div>
+<hr>
+<div class="paragraph">
+<p>Наши контакты:</p>
+</div>
+<div class="paragraph">
+<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
+</div>
+<div class="paragraph">
+<p><a href="http://razbor-poletov.com/broadcast.html">Информация о вещании</a></p>
+</div>
+<div class="paragraph">
+<p>Гости и участники:</p>
+</div>
+<div class="paragraph">
+<p>twitter:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://twitter.com/a_abashev">@a_abashev</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/antonarhipov">@antonarhipov</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/tolkv">@tolkv</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/jbaruch">@jbaruch</a></p>
+</li>
+</ul>
+</div>
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_96.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+<div class="paragraph">
+<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
+</div>
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_96.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+<div class="paragraph">
+<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
+</div>
+</div>
+</div>]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 95 — JavaOne Special - Scala-лазы]]></title>
@@ -5129,59 +5295,6 @@ January 30, 2014 from 6:00 PM to 8:30 PM, New York, NY</p>
 
 
 <p><a href="http://traffic.libsyn.com/razborpoletov/razbor_48.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
-
-<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 47 — Дневники JavaOne 2013: День 3]]></title>
-    <link href="http://razbor-poletov.com/2013/09/episode-47.html"/>
-    <updated>2013-09-26T10:55:00+00:00</updated>
-    <id>http://razbor-poletov.com/2013/09/episode-47</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="http://razbor-poletov.com/images/razbor_47_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_47_text.jpg" width="350" /></a>
-</div>
-
-
-<p>Наши контакты:</p>
-
-<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
-
-<p>Гости и участники:</p>
-
-<p>twitter:</p>
-
-<ul>
-<li><a href="https://twitter.com/#!/gigabel">@gigabel</a></li>
-<li><a href="https://twitter.com/#!/gamussa">@gamussa</a></li>
-<li><a href="https://twitter.com/#!/antonarhipov">@antonarhipov</a></li>
-<li><a href="https://twitter.com/#!/andrey_kogun">@andrey_kogun</a></li>
-</ul>
-
-
-<p>G+:</p>
-
-<ul>
-<li><a href="http://gplus.to/gAmUssA">gplus.to/gAmUssA</a></li>
-<li><a href="http://gplus.to/aabashev">gplus.to/aabashev</a></li>
-</ul>
-
-
-<!-- player goes here-->
-
-
-<p><audio preload="none">
-   <source src="http://traffic.libsyn.com/razborpoletov/razbor_47.mp3" type="audio/mp3" />
-   Your browser does not support the audio tag.
-</audio></p>
-
-<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
-
-<!-- episode file link goes here-->
-
-
-<p><a href="http://traffic.libsyn.com/razborpoletov/razbor_47.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
 
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
 ]]></content>
