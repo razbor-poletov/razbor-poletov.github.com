@@ -1,0 +1,83 @@
+---
+comments: true
+categories: 
+---
+= Episode 96 — It's a wrap!
+2015-11-05 22:17
+:layout: post
+:filename: razbor_96
+
+++++
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_96_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_96_text.jpg" width="350" /></a>
+</div>
+++++
+
+== Мероприятия
+
+.  Сделать recap of JavaOne. В последний день не записались. Поговорить про community [line-through]*keynote* party JavaOne 2015
+.. https://www.reddit.com/r/java/comments/3requx/javaone_2015_sessions/
+. Feedback по SpringOne2Gx
+. JavaDay Kiev
+. https://www.youtube.com/watch?v=H9CCFf6XgyQ[Vjug про concurrency с хлебушком]
+. https://events.yandex.ru/events/yagosti/19-september-2015-linux/[_OpenVZ 10 лет]. Встречка с разработчиками OpenVZ/Parallels. Можно узнать откуда у Docker растут ноги. Встречка прошла, http://habrahabr.ru/company/centosadmin/blog/268295/[_фидбек_]
+
+== Релизы
+
+.  http://zeroturnaround.com/blog/xrebel-2-3-release-brings-dynamodb-quartz-jms-and-more/[Новый иксребель]
+.  https://github.com/wasdev[IBM WASDev]
+.  Вышел http://docs.hazelcast.org/docs/3.6-EA/manual/html-single/index.html#new-features[Hazelcast 3.6-EA]
+.  https://www.jfrog.com/mission-control/[JFrog Mission Control]
+..  
+..  https://www.youtube.com/watch?v=i9IRH9VhPog
+..  https://www.youtube.com/watch?v=r3Mx-0P0JUo
+.  Git-lfs https://git-lfs.github.com/
+.  http://habrahabr.ru/company/JetBrains/blog/268117/[InteliJ IDEA 15]
+.. http://info.jetbrains.com/IDEA-Webinar-November2015-registration.html[IDEA для Spring разработчиков]
+
+== Темы
+
+.  sdkman.io: За что? Почему старый инструмент вынужден http://mike-neck.hatenadiary.com/entry/2015/09/17/234228[переименоваться, а новому пофиг?]
+
+== Полезняшки
+
+.  http://www.capsule.io/[Контейнеры для Java приложений c поддержкой LXC]
+.  https://github.com/sindresorhus/awesome[Awesome Framework]
+
+
+
+'''
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com[http://razbor-poletov.com]
+
+http://razbor-poletov.com/broadcast.html[Информация о вещании]
+
+Гости и участники:
+
+twitter:
+
+  * https://twitter.com/a_abashev[@a_abashev]
+  * https://twitter.com/antonarhipov[@antonarhipov]
+  * https://twitter.com/gamussa[@gamussa]
+  * https://twitter.com/tolkv[@tolkv]
+  * https://twitter.com/jbaruch[@jbaruch]
+
+++++
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_96.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+++++
+
+Подписаться по http://feeds.feedburner.com/razbor-podcast[RSS]
+
+++++
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_96.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+++++
+
+Музыка ведущим http://www.audiobank.fm/single-music/27/111/More-And-Less/[предоставлена] и ладно...
