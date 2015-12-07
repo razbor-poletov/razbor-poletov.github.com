@@ -65,7 +65,7 @@ twitter:
   * https://twitter.com/gamussa[@gamussa]
   * https://twitter.com/tolkv[@tolkv]
   * https://twitter.com/jbaruch[@jbaruch]
-  * https://twitter.com/golodniy[@golodniy]
+  * https://twitter.com/golodnyj[@golodnyj]
 
 ++++
 <!-- player goes here-->
