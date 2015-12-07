@@ -1,0 +1,86 @@
+---
+comments: true
+categories: 
+---
+= Episode 97 — Пиши инвертированные RB-деревья
+2015-12-06 18:49
+:layout: post
+:filename: razbor_97
+
+Выпуск 18+ 
+
+https://itunes.apple.com/us/album/never-gonna-give-you-up/id569227437?i=569227849[Музыка из вступления]
+
+++++
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_97_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_97_text.jpg" width="350" /></a>
+</div>
+++++
+
+== Мероприятия
+
+* *За Когуня словечко замолвить нужно*
+* О докладе Кирилла Толкачёва и Александра Тарасова про микросервисы на
+jug.msk.ru http://habrahabr.ru/post/272009/
+* Релиз груви не проходит без Баруха
+* Если Вы едите на JPoint 2016 и хотите что-то послушать в исполнении
+Виктора, заполните
+https://docs.google.com/forms/d/1cj6yYfm4iW9XJQI86Rk_jua5n57WEIlx65wqWklx_Cw/[опрос]
+
+== Темки
+
+* https://swift.org/[Swift]. Что в этом 
+** https://twitter.com/mrmrs_/status/673178834011734016 смешного?
+** http://perfect.org/[http://perfect.org]
+* http://www.theeffectiveengineer.com/blog/how-to-successfully-build-great-products-with-small-teams[Заметка в Quip о том как команда Quip пишет Quip]
+* http://devwp.eu/dont-call-yourself-a-developer-if-you-dont-code/[Почему надо кодить и собеседования]
+* http://eax.me/job-interviews-tips/[Что отпугивает людей на собеседовании]
+
+== Полезняшки
+
+* https://plumbr.eu/landing/handbook-java-lang-outofmemoryerror[Подборочка про OOME от Никиты и компании]
+* https://bugsnag.com/[сервис для сборки и агрегирования ошибок]
+* http://stefanbirkner.github.io/system-rules/[Тестим `System.out.println`]
+* https://gist.github.com/valadan/3721450[Наглядно о ненаглядном]
+* https://livesql.oracle.com/[_Livesql_] powered by oracle
+* Список вредных советов https://github.com/ayust/underhanded/blob/master/.bashrc[1]  https://github.com/NARKOZ/hacker-scripts[2]
+* https://cloudharmony.com/speedtest[Speedtest для клауда]
+* https://www.loggly.com/ultimate-guide/[Best practice про логи в одном месте]
+
+'''
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com[http://razbor-poletov.com]
+
+http://razbor-poletov.com/broadcast.html[Информация о вещании]
+
+Гости и участники:
+
+twitter:
+
+  * https://twitter.com/a_abashev[@a_abashev]
+  * https://twitter.com/antonarhipov[@antonarhipov]
+  * https://twitter.com/dzmitryc[@dzmitryc]
+  * https://twitter.com/gamussa[@gamussa]
+  * https://twitter.com/tolkv[@tolkv]
+  * https://twitter.com/jbaruch[@jbaruch]
+  * https://twitter.com/golodniy[@golodniy]
+
+++++
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_97.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+++++
+
+Подписаться по http://feeds.feedburner.com/razbor-podcast[RSS]
+
+++++
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_97.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+++++
+
+Музыка ведущим http://www.audiobank.fm/single-music/27/111/More-And-Less/[предоставлена] и ладно...
