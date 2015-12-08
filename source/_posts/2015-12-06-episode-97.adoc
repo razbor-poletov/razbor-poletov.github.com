@@ -23,7 +23,7 @@ https://itunes.apple.com/us/album/never-gonna-give-you-up/id569227437?i=56922784
 * О докладе Кирилла Толкачёва и Александра Тарасова про микросервисы на
 jug.msk.ru http://habrahabr.ru/post/272009/
 * Релиз груви не проходит без Баруха
-* Если Вы едите на JPoint 2016 и хотите что-то послушать в исполнении
+* Если Вы едете на JPoint 2016 и хотите что-то послушать в исполнении
 Виктора, заполните
 https://docs.google.com/forms/d/1wKf8RFO72fAYjrw_jLNPTG5r6DYWdudnp9O-JL8oNQw/viewform[опрос]
 
