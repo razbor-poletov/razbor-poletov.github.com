@@ -1,0 +1,93 @@
+---
+comments: true
+categories: podcast
+---
+= Episode 98 — Теорема-шляпа
+2015-12-19 09:20
+:layout: post
+:filename: razbor_98
+
+Выпуск 18+ 
+
+https://itunes.apple.com/us/album/never-gonna-give-you-up/id372568016?i=372568077[Музыка из вступления]
+
+++++
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_98_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_98_text.jpg" width="350" /></a>
+</div>
+++++
+
+== Мероприятия
+
+* http://habrahabr.ru/company/jugru/blog/273245/[Анонс JPoint 2016 на хабре с фоточками]
+** https://jugru.timepad.ru/event/272488/[на JUG.ru]
+** http://bit.ly/jpoint2016_survey[Голосуем за доклады Виктора]
+** http://goo.gl/forms/YSznsFti0D[Голосуем за доклады Баруха]
+* https://events.yandex.ru/events/yagosti/09-december-2015/[Jenkins Meetup]
+
+== Релизы
+
+* http://habrahabr.ru/company/JetBrains/blog/273469/[DataGrip зарелизился]
+* http://zeroturnaround.com/blog/announcing-jrebel-for-android-1-0-android-development-awakens/[JRebel for Android] релизнулся!
+
+== Темки
+
+* https://blogs.adobe.com/flashpro/welcome-adobe-animate-cc-a-new-era-for-flash-professional/[Смерть Flash]
+* Ребрендинг http://jetbrains.com/[jetbrains.com]
+** Не смущаемся что написано by design и https://youtrack.jetbrains.com/issue/IDEA-149169[голосуем за правильные иконки]
+* Барух побывал в https://customspaces.com/office/DhXb6EKlE9/github-office-san-francisco/[офисе гитхаба], тема про опенспейс vs личные комнаты
+* Gradle
+** https://www.pgrs.net/2015/09/01/migrating-from-gradle-to-bazel/[Gradle не нужен]
+** http://www.businesswire.com/news/home/20151210005335/en/Gradle-Raises-4.2M-True-Ventures-Data-Collective[Gradle] подняли бабла. 4млн. и зафигачили новый дизайн для сайта
+** Gradle new logo and interest https://twitter.com/gradle/status/658721886977826816[release chart]
+* https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html[Нельзя использовать CAP для объяснения всего]
+** http://codahale.com/you-cant-sacrifice-partition-tolerance/[CA систем не бывает]
+
+== Полезняшки
+
+* http://sonic-pi.net/[Психоделическая музыка устами Rasberry-pi]
+* http://www.amazon.com/Data-Structures-Algorithms-Java-Edition-ebook/dp/B00JDRQF8C/[Data Structures and Algorithms in Java, 6th Edition]
+* http://dataintensive.net/[http://dataintensive.net]
+* https://raft.github.io[Объяснялка Raft]
+* https://github.com/lukehutch/fast-classpath-scanner[Fast class path scanner]
+* http://www.hemingwayapp.com/
+* Очередной обзор популярности языков, на этот раз от https://github.com/blog/2047-language-trends-on-github[гитхаба и на основе его данных]
+* http://marked2app.com/[http://marked2app.com]
+
+
+'''
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com[http://razbor-poletov.com]
+
+http://razbor-poletov.com/broadcast.html[Информация о вещании]
+
+Гости и участники:
+
+twitter:
+
+  * https://twitter.com/a_abashev[@a_abashev]
+  * https://twitter.com/antonarhipov[@antonarhipov]
+  * https://twitter.com/golodnyj[@golodnyj]
+  * https://twitter.com/gamussa[@gamussa]
+  * https://twitter.com/tolkv[@tolkv]
+  * https://twitter.com/jbaruch[@jbaruch]
+
+++++
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_98.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+++++
+
+Подписаться по http://feeds.feedburner.com/razbor-podcast[RSS]
+
+++++
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_98.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+++++
+
+Музыка ведущим http://www.audiobank.fm/single-music/27/111/More-And-Less/[предоставлена] и ладно...
