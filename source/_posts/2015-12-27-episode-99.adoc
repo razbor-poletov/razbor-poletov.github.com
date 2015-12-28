@@ -1,0 +1,92 @@
+---
+comments: true
+categories: 
+---
+= Episode 99 — Бенчмарки пишешь, небось?
+2015-12-27 22:14
+:layout: post
+:filename: razbor_99
+
+Выпуск 18+ 
+
+https://itunes.apple.com/us/album/last-christmas/id268486282?i=268486680[Музыка из вступления]
+
+++++
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_99_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_99_text.jpg" width="350" /></a>
+</div>
+++++
+
+== Оффтоп
+
+* https://www.openttd.org/en/[Transport Tycoon Deluxe]
+
+== Мероприятия
+
+1.  https://vaadin.com/meetup/jfokus-2016
+2.  http://javapoint.ru/[JPoint 2016]
+** http://bit.ly/jpoint2016_survey[Голосуем за доклады Виктора]
+** http://goo.gl/forms/YSznsFti0D[Голосуем за доклады Баруха]
+3.  https://www.youtube.com/watch?v=eNamt1uTAJI[Михаил Дударев и Иван Кинаш — Protecting Java Bytecode from Hackers with invokedynamic]
+4.  https://www.youtube.com/watch?v=hqR41XVx3kM[Дмитрий Чуйко — CompletableFuture. Хочется взять и применить]
+
+== Темки
+
+.  https://github.com/samolisov/spring-vs-ejb-vs-cdi-benchmark[JMH benchmark for JavaEE: EJB vs Spring vs CDI]
+.  https://www.youtube.com/watch?v=9MKY4KypBzg[Понимай latency]
+.  http://www.youtube.com/watch?v=8pMfUopQ9Es[Понимай бенчмарк]
+.  Правильные тулы
+..  https://github.com/giltene/wrk2
+..  https://github.com/hazelcast/hazelcast-simulator
+..  http://spec.org/
+..  https://hazelcast.com/resources/benchmark-infinispan/
+..  https://hazelcast.com/resources/benchmark-gridgain/
+..  https://github.com/gridgain/yardstick
+.  Solution Architect - https://hazelcast.com/services/solutions-team/[эй ты кто такой]. *А чем
+занимается https://twitter.com/zaleslaw/status/678991194735689728[Solution Architect]?*
+.  http://www.infoq.com/articles/Java-The-Missing-Features[Чего не хватает в Java]
+..  http://openjdk.java.net/jeps/269
+
+
+== Полезняшки
+
+.  http://habrahabr.ru/company/luxoft/blog/256877/[Ваще дофига про коллекции http://habrahabr.ru/company/luxoft/blog/256877/]
+.  https://github.com/takari/maven-wrapper[Maven Wrapper]
+.  https://github.com/ben-manes/caffeine[Caffeine] — High performance Caching library based on Java 8
+
+'''
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com[http://razbor-poletov.com]
+
+http://razbor-poletov.com/broadcast.html[Информация о вещании]
+
+Гости и участники:
+
+twitter:
+
+  * https://twitter.com/a_abashev[@a_abashev]
+  * https://twitter.com/antonarhipov[@antonarhipov]
+  * https://twitter.com/shipilev[@shipilev]
+  * https://twitter.com/gamussa[@gamussa]
+  * https://twitter.com/tolkv[@tolkv]
+  * https://twitter.com/golodnyj[@golodnyj]
+
+++++
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_99.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+++++
+
+Подписаться по http://feeds.feedburner.com/razbor-podcast[RSS]
+
+++++
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_99.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+++++
+
+Музыка ведущим http://www.audiobank.fm/single-music/27/111/More-And-Less/[предоставлена] и ладно...
