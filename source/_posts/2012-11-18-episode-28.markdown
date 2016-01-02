@@ -33,6 +33,7 @@ categories:
 twitter: 
 
  * [@a_abashev](https://twitter.com/#!/a_abashev) 
+ * [@dzmitryc](https://twitter.com/#!/dzmitryc)
  * [@gamussa](https://twitter.com/#!/gamussa)
 
 G+:
