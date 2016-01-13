@@ -50,7 +50,7 @@ https://itunes.apple.com/us/album/last-christmas/id268486282?i=268486680[Муз�
 
 == Полезняшки
 
-.  http://habrahabr.ru/company/luxoft/blog/256877/[Ваще дофига про коллекции http://habrahabr.ru/company/luxoft/blog/256877/]
+.  http://habrahabr.ru/company/luxoft/blog/256877/[Ваще дофига про коллекции]
 .  https://github.com/takari/maven-wrapper[Maven Wrapper]
 .  https://github.com/ben-manes/caffeine[Caffeine] — High performance Caching library based on Java 8
 
