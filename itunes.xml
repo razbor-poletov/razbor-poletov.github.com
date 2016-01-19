@@ -6,8 +6,8 @@
     <atom:link href="http://razbor-poletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2016-01-19T00:47:26+00:00</pubDate>
-    <lastBuildDate>2016-01-19T00:47:26+00:00</lastBuildDate>
+    <pubDate>2016-01-19T01:13:56+00:00</pubDate>
+    <lastBuildDate>2016-01-19T01:13:56+00:00</lastBuildDate>
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razbor-poletov.com/logoB.jpg" />
@@ -101,8 +101,7 @@ JUG</a></p>
 <p><a href="http://www.rbc.ru/finances/15/01/2016/5698ce9d9a794791cf2c1748">Анализ от RBC</a></p>
 </li>
 <li>
-<p><a href="http://urazbaev.ru/post/pro-vystuplenie-grefa-na-gaidarovskom-forume-chto-on-imel-vvidu">Асхат
-немного высказался</a></p>
+<p><a href="http://urazbaev.ru/post/pro-vystuplenie-grefa-na-gaidarovskom-forume-chto-on-imel-vvidu">Асхат немного высказался</a></p>
 </li>
 </ol>
 </div>
@@ -155,19 +154,16 @@ JUG</a></p>
 <div class="ulist">
 <ul>
 <li>
-<p><a href="https://twitter.com/a_abashev">@a_abashev</a></p>
+<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
 </li>
 <li>
 <p><a href="https://twitter.com/antonarhipov">@antonarhipov</a></p>
 </li>
 <li>
-<p><a href="https://twitter.com/dzmitryc">@dzmitryc</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
-</li>
-<li>
 <p><a href="https://twitter.com/tolkv">@tolkv</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/golodnyj">@golodnyj</a></p>
 </li>
 <li>
 <p><a href="https://twitter.com/jbaruch">@jbaruch</a></p>
@@ -268,8 +264,7 @@ DevNexus
 Анализ от RBC
 
 
-Асхат
-немного высказался
+Асхат немного высказался
 
 
 
@@ -322,19 +317,16 @@ twitter:
 
 
 
-@a_abashev
+@gamussa
 
 
 @antonarhipov
 
 
-@dzmitryc
-
-
-@gamussa
-
-
 @tolkv
+
+
+@golodnyj
 
 
 @jbaruch
