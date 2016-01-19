@@ -1,0 +1,85 @@
+---
+comments: true
+categories: 
+---
+=  Episode `0x64` — Банки людям не нужны
+2016-01-18 17:52
+:layout: post
+:filename: razbor_100
+
+++++
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_100_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_100_text.jpg" width="350" /></a>
+</div>
+++++
+
+== Оффтоп
+
+* JUG теперь не только наши друзья, но и спонсоры `:)`
+* Сколько посещает людей JUG?
+
+== Мероприятия
+
+.  http://jeeconf.com/[JEEConf, 20-21 мая]
+.  http://javapoint.ru/[JPoint]
+.  http://2016.geekout.ee/[GeekOut]
+.  JUGs
+..  http://www.meetup.com/Toronto-Java-Users-Group/events/227477853/[Toronto
+JUG]
+..  http://www.cojug.org/index.php?option=com_eventlist&Itemid=27&func=details&did=205[COJUG]
+.  http://devnexus.com/[DevNexus]
+
+== Темки
+
+.  Впечатления Антона о Docker-е, или «как я собирал демо образы для XRebel».
+.  http://www.opennet.ru/opennews/art.shtml?num=43678[Новость от Opennet]
+..  https://www.youtube.com/watch?v=Tkj3sE492To[Выступление Германа Грефа]
+..  http://www.rbc.ru/finances/15/01/2016/5698ce9d9a794791cf2c1748[Анализ от RBC]
+..  http://urazbaev.ru/post/pro-vystuplenie-grefa-na-gaidarovskom-forume-chto-on-imel-vvidu[Асхат
+немного высказался]
+.  http://%20https://twitter.com/shipilev/status/688012425392697344[``А у вас есть возможность удалённой работы?'']
+
+== Полезняшки
+
+1.  http://projects.eclipse.org/projects/technology.collections[Eclipse Collections]
+2.  https://github.com/junegunn/fzf[Продвинутый reverse search] в консольке
+3.  http://www.sortd.com/[Kanban в вашем GMail]
+4.  https://www.hashtagtodo.com/index.html[TODO в календаре]
+5.  http://%20http://radar.oreilly.com/2015/10/swarm-v-fleet-v-kubernetes-v-mesos.html[Сравнение Swarm Fleet Kubernetes Mesos]
+
+'''
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com[http://razbor-poletov.com]
+
+http://razbor-poletov.com/broadcast.html[Информация о вещании]
+
+Гости и участники:
+
+twitter:
+
+  * https://twitter.com/a_abashev[@a_abashev]
+  * https://twitter.com/antonarhipov[@antonarhipov]
+  * https://twitter.com/dzmitryc[@dzmitryc]
+  * https://twitter.com/gamussa[@gamussa]
+  * https://twitter.com/tolkv[@tolkv]
+  * https://twitter.com/jbaruch[@jbaruch]
+
+++++
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_100.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+++++
+
+Подписаться по http://feeds.feedburner.com/razbor-podcast[RSS]
+
+++++
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_100.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+++++
+
+Музыка ведущим http://www.audiobank.fm/single-music/27/111/More-And-Less/[предоставлена] и ладно...
