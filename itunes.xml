@@ -6,8 +6,8 @@
     <atom:link href="http://razbor-poletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2016-01-19T01:13:56+00:00</pubDate>
-    <lastBuildDate>2016-01-19T01:13:56+00:00</lastBuildDate>
+    <pubDate>2016-01-22T00:31:57+00:00</pubDate>
+    <lastBuildDate>2016-01-22T00:31:57+00:00</lastBuildDate>
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razbor-poletov.com/logoB.jpg" />
@@ -131,7 +131,7 @@ JUG</a></p>
 <p><a href="https://www.hashtagtodo.com/index.html">TODO в календаре</a></p>
 </li>
 <li>
-<p><a href="http://%20http://radar.oreilly.com/2015/10/swarm-v-fleet-v-kubernetes-v-mesos.html">Сравнение Swarm Fleet Kubernetes Mesos</a></p>
+<p><a href="http://radar.oreilly.com/2015/10/swarm-v-fleet-v-kubernetes-v-mesos.html">Сравнение Swarm Fleet Kubernetes Mesos</a></p>
 </li>
 </ol>
 </div>
