@@ -44,7 +44,7 @@ JUG]
 2.  https://github.com/junegunn/fzf[Продвинутый reverse search] в консольке
 3.  http://www.sortd.com/[Kanban в вашем GMail]
 4.  https://www.hashtagtodo.com/index.html[TODO в календаре]
-5.  http://%20http://radar.oreilly.com/2015/10/swarm-v-fleet-v-kubernetes-v-mesos.html[Сравнение Swarm Fleet Kubernetes Mesos]
+5.  http://radar.oreilly.com/2015/10/swarm-v-fleet-v-kubernetes-v-mesos.html[Сравнение Swarm Fleet Kubernetes Mesos]
 
 '''
 
