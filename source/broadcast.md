@@ -14,11 +14,9 @@ footer: true
    Your browser does not support the audio tag.
 </audio-->
 
-Следующий эфир запланирован на <span> 21 января 2015 года </span>, 22.00 по MSK.
+Следующий эфир запланирован на <span> 26 января 2015 года </span>, 23.00 по MSK.
 Ссылка на mp3-поток будет доступна в день эфира.
 
 **Чат**
 
 [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/razbor-poletov/razbor-poletov.github.com)
-
-
