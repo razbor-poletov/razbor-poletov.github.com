@@ -7,12 +7,13 @@ categories:
 :layout: post
 :filename: razbor_101
 
+Выпуск 18+ 
+
 ++++
 <div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_101_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_101_text.jpg" width="350" /></a>
 </div>
 ++++
-
 
 == Оффтоп
 
@@ -21,7 +22,7 @@ categories:
 Картинка как бэ намекает
 
 .junit, test-ng и jtreg тестируют труп а Спок говорит что они дебилыбля все неправильно делают
-image::http://razbor-poletov.com/images/spock_png.jpg[]
+image::http://razbor-poletov.com/images/spock_body.png[]
 
 == Мероприятия
 
