@@ -1,0 +1,84 @@
+---
+comments: true
+categories:
+---
+= Episode 101 — Стресс-тестирование и Доминирование
+2016-01-26 16:27
+:layout: post
+:filename: razbor_101
+
+++++
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_101_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_101_text.jpg" width="350" /></a>
+</div>
+++++
+
+
+== Оффтоп
+
+* Spock vs Others баттл фанатиков и практиков
+
+Картинка как бэ намекает
+
+.junit, test-ng и jtreg тестируют труп а Спок говорит что они дебилыбля все неправильно делают
+image::http://razbor-poletov.com/images/spock_png.jpg[]
+
+== Мероприятия
+
+.  http://jeeconf.com/[JEEConf, 20-21 мая]
+.  JUG распределенное нагрузочное тестирование на Java http://www.slideshare.net/aragozin/java-57296922[Слайды]
+.. https://github.com/hazelcast/hazelcast-simulator[Hazelcast does that]
+.  Открыта регистрация на http://2015.geekout.ee/[GeekOut]
+
+== Темки
+
+. https://hazelcast.com/press-release/hazelcast-3-6-introduces-new-cloud-container-deployment-options-unprecedented-vertical-scalability-10s-tbs-ram/[hazelcast 3.6]
+.  Что такое TCK, зачем он нужен
+..  как его используют те, кто имплементят JCache
+..  Как JCache загружает новые имплементации? Viktor говорил что
+автоматом в спрингбуте подтянулось прям. Люто это..
+.  Spring cache + spring-boot-actuator - неправильные метрики связанные с provider specific feature. Viktor что то раскопал интересное
+
+== Полезняшки
+
+.  Configo: тула для https://github.com/zeroturnaround/configo/releases/tag/v0.1.0[загрузки] переменных окружения из разных источников
+.  http://app.programmingfonts.org/[Про фонты!]
+..  https://atom.io/packages/fonts
+.  JUnit https://rnorth.org/24/junit-integration-testing-with-docker-and-testcontainers[rules for Docker]
+
+'''
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com[http://razbor-poletov.com]
+
+http://razbor-poletov.com/broadcast.html[Информация о вещании]
+
+Гости и участники:
+
+twitter:
+
+  * https://twitter.com/a_abashev[@a_abashev]
+  * https://twitter.com/antonarhipov[@antonarhipov]
+  * https://twitter.com/gamussa[@gamussa]
+  * https://twitter.com/tolkv[@tolkv]
+  * https://twitter.com/jbaruch[@jbaruch]
+  * https://twitter.com/@xpinjection[@xpinjection ]
+
+++++
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_101.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+++++
+
+Подписаться по http://feeds.feedburner.com/razbor-podcast[RSS]
+
+++++
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_101.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+++++
+
+Музыка ведущим http://www.audiobank.fm/single-music/27/111/More-And-Less/[предоставлена] и ладно...
