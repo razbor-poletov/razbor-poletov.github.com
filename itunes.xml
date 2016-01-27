@@ -6,8 +6,8 @@
     <atom:link href="http://razbor-poletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2016-01-27T01:17:21+00:00</pubDate>
-    <lastBuildDate>2016-01-27T01:17:21+00:00</lastBuildDate>
+    <pubDate>2016-01-27T01:21:30+00:00</pubDate>
+    <lastBuildDate>2016-01-27T01:21:30+00:00</lastBuildDate>
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razbor-poletov.com/logoB.jpg" />
@@ -27,6 +27,9 @@
       <guid isPermalink="true">http://razbor-poletov.com/2016/01/episode-101</guid>
       <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
+<div class="paragraph">
+<p>Выпуск 18+</p>
+</div>
 <div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_101_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_101_text.jpg" width="350" /></a>
 </div>
@@ -47,7 +50,7 @@
 </div>
 <div class="imageblock">
 <div class="content">
-<img src="http://razbor-poletov.com/images/spock_png.jpg" alt="spock png">
+<img src="http://razbor-poletov.com/images/spock_body.png" alt="spock body">
 </div>
 <div class="title">Figure 1. junit, test-ng и jtreg тестируют труп а Спок говорит что они дебилыбля все неправильно делают</div>
 </div>
@@ -187,6 +190,9 @@
       <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
       <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[
+
+
+Выпуск 18+
 
 
 
@@ -354,6 +360,9 @@ twitter:
       <guid isPermalink="true">http://razbor-poletov.com/2016/01/episode-100</guid>
       <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
+<div class="paragraph">
+<p>Выпуск 18+</p>
+</div>
 <div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_100_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_100_text.jpg" width="350" /></a>
 </div>
@@ -516,6 +525,9 @@ JUG</a></p>
       <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
       <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[
+
+
+Выпуск 18+
 
 
 
