@@ -6,8 +6,8 @@
     <atom:link href="http://razbor-poletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2016-02-04T19:56:06+00:00</pubDate>
-    <lastBuildDate>2016-02-04T19:56:06+00:00</lastBuildDate>
+    <pubDate>2016-02-05T03:25:56+00:00</pubDate>
+    <lastBuildDate>2016-02-05T03:25:56+00:00</lastBuildDate>
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razbor-poletov.com/logoB.jpg" />
@@ -19,6 +19,253 @@
     </itunes:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:thumbnail url="http://razbor-poletov.com/logoB.jpg" />
+    
+    <item>
+      <title>Episode 102 — Kotlin, тесты и здоровый сон</title>
+      <link>http://razbor-poletov.com/2016/02/episode-102.html</link>
+      <pubDate>2016-02-04T00:00:00+00:00</pubDate>
+      <guid isPermalink="true">http://razbor-poletov.com/2016/02/episode-102</guid>
+      <description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>Выпуск 18+</p>
+</div>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_102_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_102_text.jpg" width="350" /></a>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Мероприятия">Мероприятия</h2>
+<div class="sectionbody">
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p><a href="http://jbreak.ru/" class="bare">http://jbreak.ru/</a></p>
+</li>
+<li>
+<p><a href="https://fosdem.org/2016/" class="bare">https://fosdem.org/2016/</a></p>
+</li>
+</ol>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темки">Темки</h2>
+<div class="sectionbody">
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p>Kotlin 1.0 RC - Философия Kotlin</p>
+</li>
+<li>
+<p>Java Test, TCP, JTreg и его связь с TestNG/JUnit и прочие вопросы в знатоку по этим вопросам</p>
+</li>
+<li>
+<p>Что нужно есть и сколько нужно спать, что бы быть белым русским мужчиной в Америке</p>
+</li>
+</ol>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Полезняшки">Полезняшки</h2>
+<div class="sectionbody">
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p>Клиент для Redis - <a href="https://github.com/luin/medis">Medis</a></p>
+</li>
+<li>
+<p><a href="http://javaby.github.io/awesome-kotlin/" class="bare">http://javaby.github.io/awesome-kotlin/</a></p>
+</li>
+<li>
+<p><a href="https://github.com/Originate/git-town" class="bare">https://github.com/Originate/git-town</a></p>
+</li>
+<li>
+<p><a href="https://libraries.io/" class="bare">https://libraries.io/</a></p>
+</li>
+</ol>
+</div>
+<hr>
+<div class="paragraph">
+<p>Наши контакты:</p>
+</div>
+<div class="paragraph">
+<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
+</div>
+<div class="paragraph">
+<p><a href="http://razbor-poletov.com/broadcast.html">Информация о вещании</a></p>
+</div>
+<div class="paragraph">
+<p>Гости и участники:</p>
+</div>
+<div class="paragraph">
+<p>twitter:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://twitter.com/antonarhipov">@antonarhipov</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/tolkv">@tolkv</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/jbaruch">@jbaruch</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/shipilev">@shipilev</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/23derevo">@23derevo</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/intelliyole">@intelliyole </a></p>
+</li>
+</ul>
+</div>
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_102.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+<div class="paragraph">
+<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
+</div>
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_102.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+<div class="paragraph">
+<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
+</div>
+</div>
+</div>]]></description>
+      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[
+
+
+Выпуск 18+
+
+
+
+
+
+
+
+Мероприятия
+
+
+
+
+http://jbreak.ru/
+
+
+https://fosdem.org/2016/
+
+
+
+
+
+
+Темки
+
+
+
+
+Kotlin 1.0 RC - Философия Kotlin
+
+
+Java Test, TCP, JTreg и его связь с TestNG/JUnit и прочие вопросы в знатоку по этим вопросам
+
+
+Что нужно есть и сколько нужно спать, что бы быть белым русским мужчиной в Америке
+
+
+
+
+
+
+Полезняшки
+
+
+
+
+Клиент для Redis - Medis
+
+
+http://javaby.github.io/awesome-kotlin/
+
+
+https://github.com/Originate/git-town
+
+
+https://libraries.io/
+
+
+
+
+
+Наши контакты:
+
+
+Официальный сайт — http://razbor-poletov.com
+
+
+Информация о вещании
+
+
+Гости и участники:
+
+
+twitter:
+
+
+
+
+@antonarhipov
+
+
+@gamussa
+
+
+@tolkv
+
+
+@jbaruch
+
+
+@shipilev
+
+
+@23derevo
+
+
+@intelliyole 
+
+
+
+
+
+
+   
+   Your browser does not support the audio tag.
+
+
+Подписаться по RSS
+
+
+
+
+Музыка ведущим предоставлена и ладно&#8230;&#8203;
+
+
+]]></itunes:summary>
+    </item>
     
     <item>
       <title>Episode 101 — Стресс-тестирование и Доминирование</title>
@@ -11208,53 +11455,6 @@ https://plus.google.com/+DmitryChurbanov
 
 
 Музыка ведущим предоставлена и ладно&#8230;
-]]></itunes:summary>
-    </item>
-    
-    <item>
-      <title>Поздравительная открытка — 2013</title>
-      <link>http://razbor-poletov.com/2013/12/greeting-card-2013.html</link>
-      <pubDate>2013-12-28T15:05:00+00:00</pubDate>
-      <guid isPermalink="true">http://razbor-poletov.com/2013/12/greeting-card-2013</guid>
-      <description><![CDATA[<p>Уважаемые слушатели!</p>
-
-<p>Поздравляем с наступающим Новым Годом и Рождеством!</p>
-
-<div class="separator" style="clear: both; text-align: center;">
-<a href="http://www.click2crop.com/postcard/big/aerspa017.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/aerspa017.jpg"/></a>
-</div>
-
-
-<p>Поздравления с Новым Годом принимает компания <a href="http://zeroturnaround.com/">ZeroTurnaround</a>. Лучшие поздравления будут премированы <a href="http://www.amazon.com/Kindle-Paperwhite-Ereader/dp/B00AWH595M/"><strong>Kindle Paperwhite</strong></a>. В качестве поздравлений принимаются скринкасты, блогпосты или классные багрепорты о JRebel или LiveRebel.</p>
-
-<p>Поздравления с Новым Годом принимает компания <a href="http://infobox.ru/">InfoboxCloud</a>. Лучшие поздравления, скринкасты и блогпосты будут премированы зачислением <strong>2014 рублей</strong> на счет ваших аккаунтов платформы <a href="http://jelastic.com/">Jelastic</a> в облаке <a href="http://infobox.ru/">InfoboxCloud</a>. Все остальные слушатели подкаста получают <strong>201.4 рубля</strong> на счет, <strong>3 клаудлета и 1 ip адрес бесплатно</strong> и навсегда после перехода с триала в коммерческий режим, просто зарегистрировавшись по <a href="http://infoboxcloud.ru/promo/tryjelastic2014/">ссылке</a>.</p>
-
-<p>Так же поздравления принимают компании <a href="http://www.jetbrains.com/">Jetbrains</a> и <a href="http://www.jfrog.com/">JFrog</a>. Лучшие поздравления будут премированы клёвыми футболками от JFrog и лицензиями на <a href="http://www.jetbrains.com/idea/">IntelliJ IDEA 13</a>.</p>
-
-<p>Свои поздравления оставляйте в комментариях к этому посту или в G+ (ссылка на этот пост должна присутствовать).</p>
-
-<p><a href="http://razbor-poletov.com">Редакция подкаста «Разбор Полетов»</a></p>
-]]></description>
-      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
-      <itunes:summary><![CDATA[Уважаемые слушатели!
-
-Поздравляем с наступающим Новым Годом и Рождеством!
-
-
-
-
-
-
-Поздравления с Новым Годом принимает компания ZeroTurnaround. Лучшие поздравления будут премированы Kindle Paperwhite. В качестве поздравлений принимаются скринкасты, блогпосты или классные багрепорты о JRebel или LiveRebel.
-
-Поздравления с Новым Годом принимает компания InfoboxCloud. Лучшие поздравления, скринкасты и блогпосты будут премированы зачислением 2014 рублей на счет ваших аккаунтов платформы Jelastic в облаке InfoboxCloud. Все остальные слушатели подкаста получают 201.4 рубля на счет, 3 клаудлета и 1 ip адрес бесплатно и навсегда после перехода с триала в коммерческий режим, просто зарегистрировавшись по ссылке.
-
-Так же поздравления принимают компании Jetbrains и JFrog. Лучшие поздравления будут премированы клёвыми футболками от JFrog и лицензиями на IntelliJ IDEA 13.
-
-Свои поздравления оставляйте в комментариях к этому посту или в G+ (ссылка на этот пост должна присутствовать).
-
-Редакция подкаста «Разбор Полетов»
 ]]></itunes:summary>
     </item>
     
