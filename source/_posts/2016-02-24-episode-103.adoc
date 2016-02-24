@@ -1,0 +1,71 @@
+---
+comments: true
+categories: 
+---
+= Episode 103 — DevNexus 2015 Special!
+2016-02-24 15:41
+:layout: post
+:filename: razbor_
+
+++++
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_103_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_103_text.jpg" width="350" /></a>
+</div>
+++++
+
+https://www.devnexus.com/s/index[Мы на девнексусе!]
+
+.Вещаем в перископ
+++++
+<blockquote class="twitter-tweet" data-lang="en"><p lang="und" dir="ltr"><a href="https://twitter.com/jbaruch">@jbaruch</a> <a href="https://t.co/PPvHNKUHbm">pic.twitter.com/PPvHNKUHbm</a></p>&mdash; Мак Сим (@maksim77) <a href="https://twitter.com/maksim77/status/700009460408913920">February 17, 2016</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+++++
+
+.Батл Spring конфигураций. Яков битбоксит!
+++++
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Spring config battle! <a href="https://twitter.com/hashtag/devnexus?src=hash">#devnexus</a> <a href="https://twitter.com/yfain">@yfain</a> <a href="https://twitter.com/gAmUssA">@gAmUssA</a> <a href="https://twitter.com/jbaruch">@jbaruch</a> <a href="https://t.co/nDa8vRssO6">pic.twitter.com/nDa8vRssO6</a></p>&mdash; Dave G (@djgraff209) <a href="https://twitter.com/djgraff209/status/699679561571790849">February 16, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+++++
+
+.Но сначала надо сделать сэлфи
+++++
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/jbaruch">@jbaruch</a> <a href="https://twitter.com/gAmUssA">@gAmUssA</a> taking selfie in front of the audience - rear view ;) <a href="https://twitter.com/hashtag/devnexus?src=hash">#devnexus</a> <a href="https://t.co/Vu1XgA2kJ4">pic.twitter.com/Vu1XgA2kJ4</a></p>&mdash; Andrei Karneyenka (@eyforia) <a href="https://twitter.com/eyforia/status/699679526444515330">February 16, 2016</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+++++
+
+Зашли в гости к Стивену Чину
+
+* https://www.youtube.com/watch?v=sK_AO1P99Gs[Барух в аду]
+* https://www.youtube.com/watch?v=lgabhNr6LqM&feature=youtu.be[Витя в гридах]
+
+'''
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com[http://razbor-poletov.com]
+
+http://razbor-poletov.com/broadcast.html[Информация о вещании]
+
+Гости и участники:
+
+twitter:
+
+  * https://twitter.com/jbaruch[@jbaruch]
+  * https://twitter.com/gamussa[@gamussa]
+  * https://twitter.com/yfain[@yfain]
+
+++++
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_103.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+++++
+
+Подписаться по http://feeds.feedburner.com/razbor-podcast[RSS]
+
+++++
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_103.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+++++
+
+Музыка ведущим http://www.audiobank.fm/single-music/27/111/More-And-Less/[предоставлена] и ладно...
