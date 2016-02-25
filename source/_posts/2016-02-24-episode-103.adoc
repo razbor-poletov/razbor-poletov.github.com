@@ -2,7 +2,7 @@
 comments: true
 categories: 
 ---
-= Episode 103 — DevNexus 2015 Special!
+= Episode 103 — DevNexus 2016 Special!
 2016-02-24 15:41
 :layout: post
 :filename: razbor_
