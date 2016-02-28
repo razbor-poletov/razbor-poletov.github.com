@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2016-02-26T20:05:41+00:00</updated>
+  <updated>2016-02-28T00:35:07+00:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov]]></name>
@@ -125,7 +125,7 @@
 <p>Kotlin 1.0 RC - Философия Kotlin</p>
 </li>
 <li>
-<p>Java Test, TCP, JTreg и его связь с TestNG/JUnit и прочие вопросы в знатоку по этим вопросам</p>
+<p>JavaTest, TCK, JTreg и его связь с TestNG/JUnit и прочие вопросы в знатоку по этим вопросам</p>
 </li>
 <li>
 <p>Что нужно есть и сколько нужно спать, что бы быть белым русским мужчиной в Америке</p>
