@@ -27,7 +27,7 @@ categories:
 .  Typesafe все? Lightbend наше все! https://www.lightbend.com/blog/typesafe-changes-name-to-lightbend
 .  @daigotsu в гиттере просил рассказать, что же в jfrog такого поведали разработчику bower и ушел ли он просветленным. Отжигает @jbaruch
 .  Downfall history. Atilla is now Senior Software Engineer in FaunaDB.
-.  Время идет, а ошибкиhttps://github.com/orientechnologies/orientdb/issues/4191#issuecomment-104617175[все те же]или почему OrientDB сомнительная DB. http://orientdbleaks.blogspot.com/
+.  Время идет, а ошибки https://github.com/orientechnologies/orientdb/issues/4191#issuecomment-104617175[все те же], или Почему OrientDB сомнительная DB. http://orientdbleaks.blogspot.com/
 
 == Полезняшки
 
@@ -38,7 +38,7 @@ categories:
 == Мероприятия
 
 .  https://www.youtube.com/watch?v=XZi67qYZ1UY&list=PLPHSBhlVtTyeJizEkMbrgr3cCrDyyQfWG[DevClub] с Глебом прошел.
-.  http://jetconf.by/[JET Conf] с пленарным заседанием Баруха прямо из Ада
+.  http://jetconf.by/[JET Conf] с пленарным докладом Баруха прямо из Ада.
 
 '''
 
