@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2016-02-29T00:58:35+00:00</updated>
+  <updated>2016-02-29T02:45:58+00:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov]]></name>
@@ -64,7 +64,7 @@
 <p>Downfall history. Atilla is now Senior Software Engineer in FaunaDB.</p>
 </li>
 <li>
-<p>Время идет, а ошибкиhttps://github.com/orientechnologies/orientdb/issues/4191#issuecomment-104617175[все те же]или почему OrientDB сомнительная DB. <a href="http://orientdbleaks.blogspot.com/" class="bare">http://orientdbleaks.blogspot.com/</a></p>
+<p>Время идет, а ошибки <a href="https://github.com/orientechnologies/orientdb/issues/4191#issuecomment-104617175">все те же</a>, или Почему OrientDB сомнительная DB. <a href="http://orientdbleaks.blogspot.com/" class="bare">http://orientdbleaks.blogspot.com/</a></p>
 </li>
 </ol>
 </div>
@@ -97,7 +97,7 @@
 <p><a href="https://www.youtube.com/watch?v=XZi67qYZ1UY&amp;list=PLPHSBhlVtTyeJizEkMbrgr3cCrDyyQfWG">DevClub</a> с Глебом прошел.</p>
 </li>
 <li>
-<p><a href="http://jetconf.by/">JET Conf</a> с пленарным заседанием Баруха прямо из Ада</p>
+<p><a href="http://jetconf.by/">JET Conf</a> с пленарным докладом Баруха прямо из Ада.</p>
 </li>
 </ol>
 </div>

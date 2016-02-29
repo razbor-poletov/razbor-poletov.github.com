@@ -6,8 +6,8 @@
     <atom:link href="http://razbor-poletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2016-02-29T00:58:35+00:00</pubDate>
-    <lastBuildDate>2016-02-29T00:58:35+00:00</lastBuildDate>
+    <pubDate>2016-02-29T02:45:58+00:00</pubDate>
+    <lastBuildDate>2016-02-29T02:45:58+00:00</lastBuildDate>
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razbor-poletov.com/logoB.jpg" />
@@ -71,7 +71,7 @@
 <p>Downfall history. Atilla is now Senior Software Engineer in FaunaDB.</p>
 </li>
 <li>
-<p>Время идет, а ошибкиhttps://github.com/orientechnologies/orientdb/issues/4191#issuecomment-104617175[все те же]или почему OrientDB сомнительная DB. <a href="http://orientdbleaks.blogspot.com/" class="bare">http://orientdbleaks.blogspot.com/</a></p>
+<p>Время идет, а ошибки <a href="https://github.com/orientechnologies/orientdb/issues/4191#issuecomment-104617175">все те же</a>, или Почему OrientDB сомнительная DB. <a href="http://orientdbleaks.blogspot.com/" class="bare">http://orientdbleaks.blogspot.com/</a></p>
 </li>
 </ol>
 </div>
@@ -104,7 +104,7 @@
 <p><a href="https://www.youtube.com/watch?v=XZi67qYZ1UY&amp;list=PLPHSBhlVtTyeJizEkMbrgr3cCrDyyQfWG">DevClub</a> с Глебом прошел.</p>
 </li>
 <li>
-<p><a href="http://jetconf.by/">JET Conf</a> с пленарным заседанием Баруха прямо из Ада</p>
+<p><a href="http://jetconf.by/">JET Conf</a> с пленарным докладом Баруха прямо из Ада.</p>
 </li>
 </ol>
 </div>
@@ -207,7 +207,7 @@ Typesafe все? Lightbend наше все! https://www.lightbend.com/blog/types
 Downfall history. Atilla is now Senior Software Engineer in FaunaDB.
 
 
-Время идет, а ошибкиhttps://github.com/orientechnologies/orientdb/issues/4191#issuecomment-104617175[все те же]или почему OrientDB сомнительная DB. http://orientdbleaks.blogspot.com/
+Время идет, а ошибки все те же, или Почему OrientDB сомнительная DB. http://orientdbleaks.blogspot.com/
 
 
 
@@ -240,7 +240,7 @@ https://github.com/rwos/gti
 DevClub с Глебом прошел.
 
 
-JET Conf с пленарным заседанием Баруха прямо из Ада
+JET Conf с пленарным докладом Баруха прямо из Ада.
 
 
 
