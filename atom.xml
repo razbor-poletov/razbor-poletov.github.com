@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2016-03-11T02:01:20+00:00</updated>
+  <updated>2016-03-11T02:08:05+00:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov]]></name>
@@ -20,6 +20,10 @@
     <id>http://razbor-poletov.com/2016/03/episode-105</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
+<div class="paragraph">
+<p>Выпусе 18+
+<a href="https://www.flickr.com/photos/hjagien/4854395625">Картинка предоставлена</a>.</p>
+</div>
 <div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_105_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_105_text.jpg" width="350" /></a>
 </div>
@@ -31,10 +35,10 @@
 <div class="ulist">
 <ul>
 <li>
-<p>Егор Бугаенко <a href="http://www.yegor256.com/">www.yegor256.com</a> <a href="https://twitter.com/yegor256" class="bare">https://twitter.com/yegor256</a></p>
+<p><a href="http://www.yegor256.com/">Егор Бугаенко</a>[www.yegor256.com]</p>
 </li>
 <li>
-<p>Алексей Шипилев <a href="http://shipilev.net/" class="bare">http://shipilev.net/</a></p>
+<p><a href="http://shipilev.net/">Алексей Шипилев</a></p>
 </li>
 </ul>
 </div>
