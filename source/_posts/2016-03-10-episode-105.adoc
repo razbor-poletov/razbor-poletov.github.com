@@ -7,16 +7,20 @@ categories:
 :layout: post
 :filename: razbor_105
 
+Выпусе 18+
+https://www.flickr.com/photos/hjagien/4854395625[Картинка предоставлена].
+
 ++++
 <div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_105_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_105_text.jpg" width="350" /></a>
 </div>
 ++++
 
+
 == Гости
 
-* Егор Бугаенко http://www.yegor256.com/[www.yegor256.com] https://twitter.com/yegor256
-* Алексей Шипилев http://shipilev.net/
+* http://www.yegor256.com/[Егор Бугаенко][www.yegor256.com]
+* http://shipilev.net/[Алексей Шипилев]
 
 == Релизы
 
