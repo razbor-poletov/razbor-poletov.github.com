@@ -7,7 +7,7 @@ categories:
 :layout: post
 :filename: razbor_105
 
-Выпусе 18+
+Выпуск 18+
 https://www.flickr.com/photos/hjagien/4854395625[Картинка предоставлена].
 
 ++++
@@ -19,7 +19,7 @@ https://www.flickr.com/photos/hjagien/4854395625[Картинка предост
 
 == Гости
 
-* http://www.yegor256.com/[Егор Бугаенко][www.yegor256.com]
+* http://www.yegor256.com/[Егор Бугаенко]
 * http://shipilev.net/[Алексей Шипилев]
 
 == Релизы
@@ -32,8 +32,8 @@ https://www.flickr.com/photos/hjagien/4854395625[Картинка предост
 
 == Темки
 
-.  Code Nazi с http://www.yegor256.com/[yegor256] . Когда абстракции текут, и код твой не красивый, возьми Kulis, запей кумысом, заткнись и фикси!
-.  Trade-Off в проектирование систем на Java
+.  Code Nazi с http://www.yegor256.com/[yegor256]. Когда абстракции текут, и код твой некрасивый, возьми http://www.qulice.com/[Qulice], запей кумысом, заткнись и фикси!
+.  Trade-Off в проектировании систем на Java
 .  CamelCaseWillBeDie
 .  50 оттенков грязи в коде
 
