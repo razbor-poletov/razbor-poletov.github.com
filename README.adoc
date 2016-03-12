@@ -13,7 +13,7 @@ image:https://travis-ci.org/razbor-poletov/razbor-poletov.github.com.svg?branch=
 
 === Setup Local Environment 
 
-. Clone sources form GH
+. Clone sources from GH
 .. `git clone git@github.com:razbor-poletov/razbor-poletov.github.com.git`
 .. `git co source`
 . Setup Ruby
