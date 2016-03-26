@@ -28,7 +28,7 @@ http://javapoint.ru/party/[Поддержка Jug.Ru, анонсировано p
 
 1.  http://jbreak.ru/
 2.  https://jugmsk.timepad.ru/event/303219/#eventregisterform[Kotlin с Бреславом и Жемеровым на JUGMSK]
-3.  JetConf промо для слушателей `JET_RAZBOR_POLETOV`
+3.  http://jetconf.by[jetconf.by] промо для слушателей `JET_RAZBOR_POLETOV`
 
 == Темки
 
