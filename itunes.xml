@@ -6,8 +6,8 @@
     <atom:link href="http://razbor-poletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2016-03-26T15:40:54+00:00</pubDate>
-    <lastBuildDate>2016-03-26T15:40:54+00:00</lastBuildDate>
+    <pubDate>2016-03-26T21:26:39+00:00</pubDate>
+    <lastBuildDate>2016-03-26T21:26:39+00:00</lastBuildDate>
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razbor-poletov.com/logoB.jpg" />
@@ -73,7 +73,7 @@
 <p><a href="https://jugmsk.timepad.ru/event/303219/#eventregisterform">Kotlin с Бреславом и Жемеровым на JUGMSK</a></p>
 </li>
 <li>
-<p>JetConf промо для слушателей <code>JET_RAZBOR_POLETOV</code></p>
+<p><a href="http://jetconf.by">jetconf.by</a> промо для слушателей <code>JET_RAZBOR_POLETOV</code></p>
 </li>
 </ol>
 </div>
@@ -262,7 +262,7 @@ http://jbreak.ru/
 Kotlin с Бреславом и Жемеровым на JUGMSK
 
 
-JetConf промо для слушателей JET_RAZBOR_POLETOV
+jetconf.by промо для слушателей JET_RAZBOR_POLETOV
 
 
 
