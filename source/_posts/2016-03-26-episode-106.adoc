@@ -22,7 +22,7 @@ http://javapoint.ru/party/[Поддержка Jug.Ru, анонсировано p
 == Гости
 
 * https://twitter.com/shipilev[Aleksey Shipilëv]
-* https://twitter.com/xpinjection[Николай Алимеков]
+* https://twitter.com/xpinjection[Николай Алименков]
 * https://twitter.com/yfain[Яков Файн]
 
 == Мероприятия
