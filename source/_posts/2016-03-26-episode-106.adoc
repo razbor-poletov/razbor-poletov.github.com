@@ -21,6 +21,7 @@ http://javapoint.ru/party/[Поддержка Jug.Ru, анонсировано p
 
 == Гости
 
+* https://twitter.com/shipilev[Aleksey Shipilëv]
 * https://twitter.com/xpinjection[Николай Алимеков]
 * https://twitter.com/yfain[Яков Файн]
 
@@ -73,6 +74,7 @@ twitter:
   * https://twitter.com/jbaruch[@jbaruch]
   * https://twitter.com/yfain[@yfain]
   * https://twitter.com/xpinjection[@yfain]
+  * https://twitter.com/shipilev[@shipilev]
 
 ++++
 <!-- player goes here-->
