@@ -73,7 +73,8 @@ twitter:
   * https://twitter.com/tolkv[@tolkv]
   * https://twitter.com/jbaruch[@jbaruch]
   * https://twitter.com/yfain[@yfain]
-  * https://twitter.com/xpinjection[@yfain]
+  * https://twitter.com/xpinjection[@xpinjection]
+  * https://twitter.com/shipilev[@shipilev]
 
 ++++
 <!-- player goes here-->
