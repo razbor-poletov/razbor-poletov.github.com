@@ -74,6 +74,7 @@ twitter:
   * https://twitter.com/jbaruch[@jbaruch]
   * https://twitter.com/yfain[@yfain]
   * https://twitter.com/xpinjection[@yfain]
+  * https://twitter.com/shipilev[@shipilev]
 
 ++++
 <!-- player goes here-->
