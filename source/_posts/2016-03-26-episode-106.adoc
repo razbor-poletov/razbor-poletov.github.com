@@ -13,11 +13,11 @@ categories:
 </div>
 ++++
 
-Подкаст выходит при поддержка JetBrains
+Подкаст выходит при поддержке JetBrains
 
 * https://www.youtube.com/watch?v=COKVKvFQ4yY[сходите поглядите видос] 
 * http://blog.jetbrains.com/blog/2016/03/09/jetbrains-toolbox-release-and-versioning-changes/[Новая схема версионирования]
-http://javapoint.ru/party/[Поддержка Jug.Ru, анонсировано party на JPoint]
+* http://javapoint.ru/party/[Поддержка Jug.Ru, анонсировано party на JPoint]
 
 == Гости
 
@@ -40,7 +40,7 @@ http://javapoint.ru/party/[Поддержка Jug.Ru, анонсировано p
 . loljs https://twitter.com/TobyKurien/status/712536641391484929
 .  Сама заварушка
 https://medium.com/@mproberts/a-discussion-about-the-breaking-of-the-internet-3d4d2a83aa4d#.6bgs0735u
-..  https://github.com/starters/kik[Сам проект, из за которого всё это случилось] 
+..  https://github.com/starters/kik[Сам проект, из-за которого всё это случилось] 
 ..  http://left-pad.io/[Модно стильно молодежно] - Left-Pad as a Service
 ..  https://www.jfrog.com/blog/how-not-to-care-about-unpublishgate/
 .  Работает не трогай
