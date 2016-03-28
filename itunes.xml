@@ -6,8 +6,8 @@
     <atom:link href="http://razbor-poletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2016-03-28T15:20:28+00:00</pubDate>
-    <lastBuildDate>2016-03-28T15:20:28+00:00</lastBuildDate>
+    <pubDate>2016-03-28T16:59:36+00:00</pubDate>
+    <lastBuildDate>2016-03-28T16:59:36+00:00</lastBuildDate>
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razbor-poletov.com/logoB.jpg" />
@@ -36,10 +36,10 @@
 <div class="ulist">
 <ul>
 <li>
-<p><a href="https://www.youtube.com/watch?v=COKVKvFQ4yY">сходите поглядите видос</a></p>
+<p><a href="https://www.youtube.com/watch?v=COKVKvFQ4yY">Editing Features in IntelliJ IDEA 2016.1</a></p>
 </li>
 <li>
-<p><a href="http://blog.jetbrains.com/blog/2016/03/09/jetbrains-toolbox-release-and-versioning-changes/">Новая схема версионирования</a></p>
+<p><a href="http://blog.jetbrains.com/blog/2016/03/09/jetbrains-toolbox-release-and-versioning-changes/">Новая схема версионирования продуктов JetBrains</a></p>
 </li>
 <li>
 <p><a href="http://javapoint.ru/party/">Поддержка Jug.Ru, анонсировано party на JPoint</a></p>
@@ -72,7 +72,7 @@
 <div class="olist arabic">
 <ol class="arabic">
 <li>
-<p><a href="http://jbreak.ru/" class="bare">http://jbreak.ru/</a></p>
+<p><a href="http://jbreak.ru/">JBreak — единственная Java‑конференция в Сибири</a></p>
 </li>
 <li>
 <p><a href="https://jugmsk.timepad.ru/event/303219/#eventregisterform">Kotlin с Бреславом и Жемеровым на JUGMSK</a></p>
@@ -233,10 +233,10 @@
 
 
 
-сходите поглядите видос
+Editing Features in IntelliJ IDEA 2016.1
 
 
-Новая схема версионирования
+Новая схема версионирования продуктов JetBrains
 
 
 Поддержка Jug.Ru, анонсировано party на JPoint
@@ -269,7 +269,7 @@ Aleksey Shipilëv
 
 
 
-http://jbreak.ru/
+JBreak — единственная Java‑конференция в Сибири
 
 
 Kotlin с Бреславом и Жемеровым на JUGMSK
