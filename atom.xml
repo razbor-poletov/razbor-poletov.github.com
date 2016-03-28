@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2016-03-28T12:56:23+00:00</updated>
+  <updated>2016-03-28T15:20:28+00:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov]]></name>
@@ -24,7 +24,7 @@
 <a href="http://razbor-poletov.com/images/razbor_106_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_106_text.jpg" width="350" /></a>
 </div>
 <div class="paragraph">
-<p>Подкаст выходит при поддержка JetBrains</p>
+<p>Подкаст выходит при поддержке JetBrains</p>
 </div>
 <div class="ulist">
 <ul>
@@ -32,8 +32,10 @@
 <p><a href="https://www.youtube.com/watch?v=COKVKvFQ4yY">сходите поглядите видос</a></p>
 </li>
 <li>
-<p><a href="http://blog.jetbrains.com/blog/2016/03/09/jetbrains-toolbox-release-and-versioning-changes/">Новая схема версионирования</a>
-<a href="http://javapoint.ru/party/">Поддержка Jug.Ru, анонсировано party на JPoint</a></p>
+<p><a href="http://blog.jetbrains.com/blog/2016/03/09/jetbrains-toolbox-release-and-versioning-changes/">Новая схема версионирования</a></p>
+</li>
+<li>
+<p><a href="http://javapoint.ru/party/">Поддержка Jug.Ru, анонсировано party на JPoint</a></p>
 </li>
 </ul>
 </div>
@@ -101,7 +103,7 @@
 <div class="olist loweralpha">
 <ol class="loweralpha" type="a">
 <li>
-<p><a href="https://github.com/starters/kik">Сам проект, из за которого всё это случилось</a></p>
+<p><a href="https://github.com/starters/kik">Сам проект, из-за которого всё это случилось</a></p>
 </li>
 <li>
 <p><a href="http://left-pad.io/">Модно стильно молодежно</a> - Left-Pad as a Service</p>
