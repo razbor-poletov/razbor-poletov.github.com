@@ -15,8 +15,8 @@ categories:
 
 Подкаст выходит при поддержке JetBrains
 
-* https://www.youtube.com/watch?v=COKVKvFQ4yY[сходите поглядите видос] 
-* http://blog.jetbrains.com/blog/2016/03/09/jetbrains-toolbox-release-and-versioning-changes/[Новая схема версионирования]
+* https://www.youtube.com/watch?v=COKVKvFQ4yY[Editing Features in IntelliJ IDEA 2016.1] 
+* http://blog.jetbrains.com/blog/2016/03/09/jetbrains-toolbox-release-and-versioning-changes/[Новая схема версионирования продуктов JetBrains]
 * http://javapoint.ru/party/[Поддержка Jug.Ru, анонсировано party на JPoint]
 
 == Гости
@@ -27,7 +27,7 @@ categories:
 
 == Мероприятия
 
-1.  http://jbreak.ru/
+1.  http://jbreak.ru/[JBreak — единственная Java‑конференция в Сибири]
 2.  https://jugmsk.timepad.ru/event/303219/#eventregisterform[Kotlin с Бреславом и Жемеровым на JUGMSK]
 3.  http://jetconf.by[jetconf.by] промо для слушателей `JET_RAZBOR_POLETOV`
 
