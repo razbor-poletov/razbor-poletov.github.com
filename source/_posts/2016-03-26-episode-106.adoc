@@ -33,7 +33,7 @@ http://javapoint.ru/party/[Поддержка Jug.Ru, анонсировано p
 
 == Темки
 
-.  Зачем ходить нужны тренинги?
+.  Зачем ходить на дополнительные обучающие курсы?
 .  https://www.youtube.com/watch?v=BFZdBaIO0ac[За что девушки] любят программистов
 .  А что ты знаешь об http://www.theregister.co.uk/2016/03/23/npm_left_pad_chaos/[ответственности]? Или ну давай, расскажи мне про свои ФакАпы
 . http://hadihariri.com/2016/03/23/the-responsible-developer/
