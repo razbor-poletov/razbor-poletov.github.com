@@ -5,13 +5,15 @@ categories:
 = Episode 108 - #razborpoletov live как никогда!
 2016-04-24 01:32
 :layout: post
-:filename: razbor_
+:filename: razbor_108
 
 ++++
 <div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_108_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_108_text.jpg" width="350" /></a>
 </div>
 ++++
+
+via https://www.instagram.com/p/BEhyi6Hytqn/[@papaminos]
 
 '''
 
