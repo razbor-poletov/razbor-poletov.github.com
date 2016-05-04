@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "«Разбор Полетов» LIVE!"
-date: 2015-10-11 19:01
+date: 2016-05-04 12:00
 comments: false
 sharing: true
 footer: true
