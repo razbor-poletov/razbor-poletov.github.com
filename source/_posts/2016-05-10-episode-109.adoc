@@ -1,0 +1,79 @@
+---
+comments: true
+categories: 
+---
+= Episode 109 — По Следам JPoint
+2016-05-10 17:10
+:layout: post
+:filename: razbor_
+
+++++
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_109_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_109_text.jpg" width="350" /></a>
+</div>
+++++
+
+* Юлия Крамаренко [@jkramr](https://twitter.com/jkramr)
+* Шипилев теперь с нами. И призирает статистические ошибки @shipilev
+* Евгений Борисов @jekaborisov
+* Алексей Федоров aka @23derevo
+
+== Мероприятия
+
+.  http://javapoint.ru/[JPoint]
+.  https://habrahabr.ru/post/283118/[JUG] с Виктором Гамовым
+
+== Темки
+
+.  https://habrahabr.ru/post/282810/[О прошедшем JPoint]
+.  http://www.angelikalanger.com/GenericsFAQ/JavaGenericsFAQ.html[Java Generics FULL FAQ]
+.  http://java.net/[java.net] и http://kinai.com/[kinai.com](http://kinai.com/[kinai.com] сейчас перекидывает на какие то левые сайты) все
+.  Рубрика *Вредные советы:*
+..  http://stackoverflow.com/questions/36413675/how-to-flatten-an-array-and-get-rid-of-null/36414287#36414287[JavaScript dev style in java. Шипилев и Валеев кричат от боли.]
+.  https://twitter.com/mjpt777/status/718419159563034624[Флаг для принудительного JIT’ования]
+
+== Полезняшки
+
+.  http://codepipes.com/presentations/spock-vs-junit.pdf
+.  http://blog.jetbrains.com/kotlin/2016/03/kotlin-educational-plugin/[Kotlin Edu plugin]
+.  https://www.clammr.com/ [аудио твиттер]
+
+'''
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com[http://razbor-poletov.com]
+
+http://razbor-poletov.com/broadcast.html[Информация о вещании]
+
+Гости и участники:
+
+twitter:
+
+  * https://twitter.com/antonarhipov[@antonarhipov]
+  * https://twitter.com/dzmitryc[@dzmitryc]
+  * https://twitter.com/gamussa[@gamussa]
+  * https://twitter.com/tolkv[@tolkv]
+  * https://twitter.com/jbaruch[@jbaruch]
+  * https://twitter.com/shipilev[@shipilev]
+  * https://twitter.com/jkramr[@jkramr]
+  * https://twitter.com/jekaborisov[@jekaborisov]
+  * https://twitter.com/23derevo[@23derevo]
+
+++++
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_109.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+++++
+
+Подписаться по http://feeds.feedburner.com/razbor-podcast[RSS]
+
+++++
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_109.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+++++
+
+Музыка ведущим http://www.audiobank.fm/single-music/27/111/More-And-Less/[предоставлена] и ладно...
