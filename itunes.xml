@@ -6,8 +6,8 @@
     <atom:link href="http://razbor-poletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2016-05-08T19:54:45+00:00</pubDate>
-    <lastBuildDate>2016-05-08T19:54:45+00:00</lastBuildDate>
+    <pubDate>2016-05-10T21:25:19+00:00</pubDate>
+    <lastBuildDate>2016-05-10T21:25:19+00:00</lastBuildDate>
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razbor-poletov.com/logoB.jpg" />
@@ -19,6 +19,311 @@
     </itunes:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:thumbnail url="http://razbor-poletov.com/logoB.jpg" />
+    
+    <item>
+      <title>Episode 109 — По Следам JPoint</title>
+      <link>http://razbor-poletov.com/2016/05/episode-109.html</link>
+      <pubDate>2016-05-10T00:00:00+00:00</pubDate>
+      <guid isPermalink="true">http://razbor-poletov.com/2016/05/episode-109</guid>
+      <description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_109_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_109_text.jpg" width="350" /></a>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Юлия Крамаренко [@jkramr](<a href="https://twitter.com/jkramr" class="bare">https://twitter.com/jkramr</a>)</p>
+</li>
+<li>
+<p>Шипилев теперь с нами. И призирает статистические ошибки @shipilev</p>
+</li>
+<li>
+<p>Евгений Борисов @jekaborisov</p>
+</li>
+<li>
+<p>Алексей Федоров aka @23derevo</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Мероприятия">Мероприятия</h2>
+<div class="sectionbody">
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p><a href="http://javapoint.ru/">JPoint</a></p>
+</li>
+<li>
+<p><a href="https://habrahabr.ru/post/283118/">JUG</a> с Виктором Гамовым</p>
+</li>
+</ol>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темки">Темки</h2>
+<div class="sectionbody">
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p><a href="https://habrahabr.ru/post/282810/">О прошедшем JPoint</a></p>
+</li>
+<li>
+<p><a href="http://www.angelikalanger.com/GenericsFAQ/JavaGenericsFAQ.html">Java Generics FULL FAQ</a></p>
+</li>
+<li>
+<p><a href="http://java.net/">java.net</a> и <a href="http://kinai.com/">kinai.com</a>(<a href="http://kinai.com/">kinai.com</a> сейчас перекидывает на какие то левые сайты) все</p>
+</li>
+<li>
+<p>Рубрика <strong>Вредные советы:</strong></p>
+<div class="olist loweralpha">
+<ol class="loweralpha" type="a">
+<li>
+<p><a href="http://stackoverflow.com/questions/36413675/how-to-flatten-an-array-and-get-rid-of-null/36414287#36414287">JavaScript dev style in java. Шипилев и Валеев кричат от боли.</a></p>
+</li>
+</ol>
+</div>
+</li>
+<li>
+<p><a href="https://twitter.com/mjpt777/status/718419159563034624">Флаг для принудительного JIT’ования</a></p>
+</li>
+</ol>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Полезняшки">Полезняшки</h2>
+<div class="sectionbody">
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p><a href="http://codepipes.com/presentations/spock-vs-junit.pdf" class="bare">http://codepipes.com/presentations/spock-vs-junit.pdf</a></p>
+</li>
+<li>
+<p><a href="http://blog.jetbrains.com/kotlin/2016/03/kotlin-educational-plugin/">Kotlin Edu plugin</a></p>
+</li>
+<li>
+<p><a href="https://www.clammr.com/" class="bare">https://www.clammr.com/</a> [аудио твиттер]</p>
+</li>
+</ol>
+</div>
+<hr>
+<div class="paragraph">
+<p>Наши контакты:</p>
+</div>
+<div class="paragraph">
+<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
+</div>
+<div class="paragraph">
+<p><a href="http://razbor-poletov.com/broadcast.html">Информация о вещании</a></p>
+</div>
+<div class="paragraph">
+<p>Гости и участники:</p>
+</div>
+<div class="paragraph">
+<p>twitter:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://twitter.com/antonarhipov">@antonarhipov</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/dzmitryc">@dzmitryc</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/tolkv">@tolkv</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/jbaruch">@jbaruch</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/shipilev">@shipilev</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/jkramr">@jkramr</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/jekaborisov">@jekaborisov</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/23derevo">@23derevo</a></p>
+</li>
+</ul>
+</div>
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_109.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+<div class="paragraph">
+<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
+</div>
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_109.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+<div class="paragraph">
+<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
+</div>
+</div>
+</div>]]></description>
+      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[
+
+
+
+
+
+
+
+Юлия Крамаренко [@jkramr](https://twitter.com/jkramr)
+
+
+Шипилев теперь с нами. И призирает статистические ошибки @shipilev
+
+
+Евгений Борисов @jekaborisov
+
+
+Алексей Федоров aka @23derevo
+
+
+
+
+
+
+Мероприятия
+
+
+
+
+JPoint
+
+
+JUG с Виктором Гамовым
+
+
+
+
+
+
+Темки
+
+
+
+
+О прошедшем JPoint
+
+
+Java Generics FULL FAQ
+
+
+java.net и kinai.com(kinai.com сейчас перекидывает на какие то левые сайты) все
+
+
+Рубрика Вредные советы:
+
+
+
+JavaScript dev style in java. Шипилев и Валеев кричат от боли.
+
+
+
+
+
+Флаг для принудительного JIT’ования
+
+
+
+
+
+
+Полезняшки
+
+
+
+
+http://codepipes.com/presentations/spock-vs-junit.pdf
+
+
+Kotlin Edu plugin
+
+
+https://www.clammr.com/ [аудио твиттер]
+
+
+
+
+
+Наши контакты:
+
+
+Официальный сайт — http://razbor-poletov.com
+
+
+Информация о вещании
+
+
+Гости и участники:
+
+
+twitter:
+
+
+
+
+@antonarhipov
+
+
+@dzmitryc
+
+
+@gamussa
+
+
+@tolkv
+
+
+@jbaruch
+
+
+@shipilev
+
+
+@jkramr
+
+
+@jekaborisov
+
+
+@23derevo
+
+
+
+
+
+
+   
+   Your browser does not support the audio tag.
+
+
+Подписаться по RSS
+
+
+
+
+Музыка ведущим предоставлена и ладно&#8230;&#8203;
+
+
+]]></itunes:summary>
+    </item>
     
     <item>
       <title>Episode 108 - #razborpoletov live как никогда!</title>
@@ -11772,203 +12077,6 @@ twitter:
 @gamussa
 @antonarhipov
 @a_abashev
-
-
-
-G+:
-
-
-gplus.to/gAmUssA
-gplus.to/aabashev
-https://plus.google.com/+AntonArhipov
-
-
-
-
-
-
-
-   
-   Your browser does not support the audio tag.
-
-
-Подписаться по RSS
-
-
-
-
-
-
-Музыка ведущим предоставлена и ладно&#8230;
-]]></itunes:summary>
-    </item>
-    
-    <item>
-      <title>Episode 59 — Всех с восьмеркой, молодые, реактивные и динамичные</title>
-      <link>http://razbor-poletov.com/2014/04/episode-59.html</link>
-      <pubDate>2014-04-06T16:00:00+00:00</pubDate>
-      <guid isPermalink="true">http://razbor-poletov.com/2014/04/episode-59</guid>
-      <description><![CDATA[<p>Гость выпуска <a href="https://twitter.com/#!/umputun">Umputun</a></p>
-
-<div class="separator" style="clear: both; text-align: center;">
-<a href="http://razbor-poletov.com/images/razbor_59_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_59_text.jpg" width="350" /></a>
-</div>
-
-
-<p><strong>Java 8</strong>:</p>
-
-<ul>
-<li><a href="http://nurkiewicz.blogspot.com/2013/05/java-8-definitive-guide-to.html">Java 8 Features</a></li>
-<li><a href="http://nurkiewicz.blogspot.com/2013/05/java-8-completablefuture-in-action.html">CompletableFuture in Java 8</a></li>
-<li><a href="https://spring.io/blog/2014/03/21/java-8-in-enterprise-projects">Java 8 in Enterprise Projects</a></li>
-<li><a href="http://www.youtube.com/watch?v=L-rKLSdPEMs">There is no future in Java Futures</a></li>
-<li><a href="http://blog.jonasbandi.net/2014/03/running-nodejs-applications-on-jvm-with.html">Running Node.js applications on the JVM with Nashorn and Java 8</a> + <a href="http://ariya.ofilabs.com/2014/03/nashorn-the-new-rhino-on-the-block.html">Benchmark</a></li>
-</ul>
-
-
-<p><strong>Reactive Programming</strong></p>
-
-<ul>
-<li><a href="https://github.com/Netflix/RxJava">RxJava</a></li>
-<li><a href="http://techblog.netflix.com/2013/02/rxjava-netflix-api.html">Functional Reactive in the Netflix API with RxJava</a></li>
-<li><a href="https://www.coursera.org/course/reactive">Principles of reactive programming at Coursera</a></li>
-<li><a href="https://github.com/Netflix/Hystrix">Hysterix (based on RxJava)</a></li>
-<li><a href="http://engineering.silk.co/post/80056130804/reactive-programming-in-javascript">Reactive Programming in JavaScript</a></li>
-<li><a href="http://facebook.github.io/react/">ReactJS</a></li>
-<li><a href="https://github.com/Reactive-Extensions/RxJS">RxJS</a></li>
-<li><a href="https://github.com/TomasMikula/ReactFX">Reactive extensions for JavaFx</a></li>
-<li><a href="http://eao197.blogspot.ru/2014/01/prog-reactive-manifesto.html">Несколько раздраженных комментариев по ходу чтения &#8220;The Reactive Manifesto&#8221;</a></li>
-</ul>
-
-
-<p>Полезняшки:</p>
-
-<ul>
-<li><a href="http://henryr.github.io/cap-faq/">CAP FAQ</a></li>
-<li><a href="http://devref.com/">The Web Developer&#8217;s Toolkit</a></li>
-<li>SparkShare <a href="http://sparkleshare.org/">1</a> <a href="https://github.com/hbons/SparkleShare">2</a></li>
-<li><a href="https://stackedit.io/">StackEdit</a></li>
-<li><a href="http://wildfly-mgreau.rhcloud.com/ad-editor/">AD-Editor</a></li>
-</ul>
-
-
-<p><a href="http://www.fastcompany.com/3028465/work-smart/10-surprising-ways-to-transform-your-creative-thinking">10 Surprising Ways To Transform Your Creative Thinking</a></p>
-
-<pre><code>Промо-код RAZBOR_POLETOV. Скидка на JPoint (25%) и JEEConf (20%)
-</code></pre>
-
-<p>Наши контакты:</p>
-
-<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
-
-<p>Темы для следующего выпуска - <a href="https://github.com/razbor-poletov/razbor-poletov.github.com/issues?state=open">https://github.com/razbor-poletov/</a></p>
-
-<p>Гости и участники:</p>
-
-<p>twitter:</p>
-
-<ul>
-<li><a href="https://twitter.com/#!/gamussa">@gamussa</a></li>
-<li><a href="https://twitter.com/#!/antonarhipov">@antonarhipov</a></li>
-<li><a href="https://twitter.com/#!/a_abashev">@a_abashev</a></li>
-<li><a href="https://twitter.com/#!/umputun">@umputun</a></li>
-<li><a href="https://twitter.com/#!/jbaruch">@jbaruch</a></li>
-</ul>
-
-
-<p>G+:</p>
-
-<ul>
-<li><a href="http://gplus.to/gAmUssA">gplus.to/gAmUssA</a></li>
-<li><a href="http://gplus.to/aabashev">gplus.to/aabashev</a></li>
-<li><a href="https://plus.google.com/+AntonArhipov">https://plus.google.com/+AntonArhipov</a></li>
-</ul>
-
-
-<!-- player goes here-->
-
-
-<p><audio preload="none">
-   <source src="http://traffic.libsyn.com/razborpoletov/razbor_59.mp3" type="audio/mp3" />
-   Your browser does not support the audio tag.
-</audio></p>
-
-<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
-
-<!-- episode file link goes here-->
-
-
-<p><a href="http://traffic.libsyn.com/razborpoletov/razbor_59.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
-
-<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
-]]></description>
-      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
-      <itunes:summary><![CDATA[Гость выпуска Umputun
-
-
-
-
-
-
-Java 8:
-
-
-Java 8 Features
-CompletableFuture in Java 8
-Java 8 in Enterprise Projects
-There is no future in Java Futures
-Running Node.js applications on the JVM with Nashorn and Java 8 + Benchmark
-
-
-
-Reactive Programming
-
-
-RxJava
-Functional Reactive in the Netflix API with RxJava
-Principles of reactive programming at Coursera
-Hysterix (based on RxJava)
-Reactive Programming in JavaScript
-ReactJS
-RxJS
-Reactive extensions for JavaFx
-Несколько раздраженных комментариев по ходу чтения &#8220;The Reactive Manifesto&#8221;
-
-
-
-Полезняшки:
-
-
-CAP FAQ
-The Web Developer&#8217;s Toolkit
-SparkShare 1 2
-StackEdit
-AD-Editor
-
-
-
-10 Surprising Ways To Transform Your Creative Thinking
-
-Промо-код RAZBOR_POLETOV. Скидка на JPoint (25%) и JEEConf (20%)
-
-
-Наши контакты:
-
-Официальный сайт — http://razbor-poletov.com
-
-Темы для следующего выпуска - https://github.com/razbor-poletov/
-
-Гости и участники:
-
-twitter:
-
-
-@gamussa
-@antonarhipov
-@a_abashev
-@umputun
-@jbaruch
 
 
 
