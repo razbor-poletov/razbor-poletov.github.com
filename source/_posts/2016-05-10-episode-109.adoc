@@ -13,7 +13,7 @@ categories:
 </div>
 ++++
 
-* Юлия Крамаренко [@jkramr](https://twitter.com/jkramr)
+* Юлия Крамаренко https://twitter.com/jkramr[@jkramr]
 * Шипилев теперь с нами. И презирает статистические ошибки @shipilev
 * Евгений Борисов @jekaborisov
 * Алексей Федоров aka @23derevo
