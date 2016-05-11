@@ -36,7 +36,7 @@ categories:
 
 .  http://codepipes.com/presentations/spock-vs-junit.pdf
 .  http://blog.jetbrains.com/kotlin/2016/03/kotlin-educational-plugin/[Kotlin Edu plugin]
-.  https://www.clammr.com/ [аудио твиттер]
+.  https://www.clammr.com/[аудио твиттер]
 
 '''
 
