@@ -27,7 +27,7 @@ categories:
 
 .  https://habrahabr.ru/post/282810/[О прошедшем JPoint]
 .  http://www.angelikalanger.com/GenericsFAQ/JavaGenericsFAQ.html[Java Generics FULL FAQ]
-.  http://java.net/[java.net] и http://kinai.com/[kinai.com](http://kinai.com/[kinai.com] сейчас перекидывает на какие то левые сайты) все
+.  http://java.net/[java.net] и http://kinai.com/[kinai.com] (http://kinai.com/[kinai.com] сейчас перекидывает на какие-то левые сайты) всё
 .  Рубрика *Вредные советы:*
 ..  http://stackoverflow.com/questions/36413675/how-to-flatten-an-array-and-get-rid-of-null/36414287#36414287[JavaScript dev style in java. Шипилёв и Валеев кричат от боли.]
 .  https://twitter.com/mjpt777/status/718419159563034624[Флаг для принудительного JIT’ования]
