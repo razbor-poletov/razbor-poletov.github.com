@@ -2,7 +2,7 @@
 comments: true
 categories: 
 ---
-= Episode 109 — По Следам JPoint
+= Episode 109 — По следам JPoint
 2016-05-10 17:10
 :layout: post
 :filename: razbor_
@@ -20,7 +20,7 @@ categories:
 
 == Мероприятия
 
-.  http://javapoint.ru/[JPoint]
+.  http://javapoint.ru/[JPoint 2016]
 .  https://habrahabr.ru/post/283118/[JUG] с Виктором Гамовым
 
 == Темки
@@ -29,7 +29,7 @@ categories:
 .  http://www.angelikalanger.com/GenericsFAQ/JavaGenericsFAQ.html[Java Generics FULL FAQ]
 .  http://java.net/[java.net] и http://kinai.com/[kinai.com] (http://kinai.com/[kinai.com] сейчас перекидывает на какие-то левые сайты) всё
 .  Рубрика *Вредные советы:*
-..  http://stackoverflow.com/questions/36413675/how-to-flatten-an-array-and-get-rid-of-null/36414287#36414287[JavaScript dev style in Java] Шипилёв и Валеев кричат от боли
+..  http://stackoverflow.com/questions/36413675/how-to-flatten-an-array-and-get-rid-of-null/36414287#36414287[JavaScript dev style in Java]. Шипилёв и Валеев кричат от боли
 .  https://twitter.com/mjpt777/status/718419159563034624[Флаг для принудительного JIT’ования]
 
 == Полезняшки
