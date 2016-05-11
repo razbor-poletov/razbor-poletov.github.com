@@ -14,9 +14,9 @@ categories:
 ++++
 
 * Юлия Крамаренко https://twitter.com/jkramr[@jkramr]
-* Шипилев теперь с нами. И презирает статистические ошибки @shipilev
+* Шипилёв теперь с нами. И презирает статистические ошибки @shipilev
 * Евгений Борисов @jekaborisov
-* Алексей Федоров aka @23derevo
+* Алексей Фёдоров aka @23derevo
 
 == Мероприятия
 
@@ -29,7 +29,7 @@ categories:
 .  http://www.angelikalanger.com/GenericsFAQ/JavaGenericsFAQ.html[Java Generics FULL FAQ]
 .  http://java.net/[java.net] и http://kinai.com/[kinai.com](http://kinai.com/[kinai.com] сейчас перекидывает на какие то левые сайты) все
 .  Рубрика *Вредные советы:*
-..  http://stackoverflow.com/questions/36413675/how-to-flatten-an-array-and-get-rid-of-null/36414287#36414287[JavaScript dev style in java. Шипилев и Валеев кричат от боли.]
+..  http://stackoverflow.com/questions/36413675/how-to-flatten-an-array-and-get-rid-of-null/36414287#36414287[JavaScript dev style in java. Шипилёв и Валеев кричат от боли.]
 .  https://twitter.com/mjpt777/status/718419159563034624[Флаг для принудительного JIT’ования]
 
 == Полезняшки
