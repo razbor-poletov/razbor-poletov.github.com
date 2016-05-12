@@ -6,8 +6,8 @@
     <atom:link href="http://razbor-poletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2016-05-11T17:08:46+00:00</pubDate>
-    <lastBuildDate>2016-05-11T17:08:46+00:00</lastBuildDate>
+    <pubDate>2016-05-12T20:12:10+00:00</pubDate>
+    <lastBuildDate>2016-05-12T20:12:10+00:00</lastBuildDate>
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razbor-poletov.com/logoB.jpg" />
@@ -75,7 +75,7 @@
 <p><a href="http://www.angelikalanger.com/GenericsFAQ/JavaGenericsFAQ.html">Java Generics FULL FAQ</a></p>
 </li>
 <li>
-<p><a href="http://java.net/">java.net</a> и <a href="http://kinai.com/">kinai.com</a> (<a href="http://kinai.com/">kinai.com</a> сейчас перекидывает на какие-то левые сайты) всё</p>
+<p><a href="http://java.net/">java.net</a> и <a href="https://kenai.com/">kenai.com</a></p>
 </li>
 <li>
 <p>Рубрика <strong>Вредные советы:</strong></p>
@@ -225,7 +225,7 @@ JUG с Виктором Гамовым
 Java Generics FULL FAQ
 
 
-java.net и kinai.com (kinai.com сейчас перекидывает на какие-то левые сайты) всё
+java.net и kenai.com
 
 
 Рубрика Вредные советы:
