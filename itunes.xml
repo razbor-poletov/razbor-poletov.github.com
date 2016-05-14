@@ -6,8 +6,8 @@
     <atom:link href="http://razbor-poletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2016-05-12T20:12:10+00:00</pubDate>
-    <lastBuildDate>2016-05-12T20:12:10+00:00</lastBuildDate>
+    <pubDate>2016-05-14T14:40:39+00:00</pubDate>
+    <lastBuildDate>2016-05-14T14:40:39+00:00</lastBuildDate>
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razbor-poletov.com/logoB.jpg" />
@@ -36,13 +36,13 @@
 <p>Юлия Крамаренко <a href="https://twitter.com/jkramr">@jkramr</a></p>
 </li>
 <li>
-<p>Шипилёв теперь с нами. И презирает статистические ошибки @shipilev</p>
+<p>Шипилёв теперь с нами. И презирает статистические ошибки <a href="https://twitter.com/shipilev">@shipilev</a></p>
 </li>
 <li>
-<p>Евгений Борисов @jekaborisov</p>
+<p>Евгений Борисов <a href="https://twitter.com/jekaborisov">@jekaborisov</a></p>
 </li>
 <li>
-<p>Алексей Фёдоров aka @23derevo</p>
+<p>Алексей Фёдоров aka <a href="https://twitter.com/23derevo">@23derevo</a></p>
 </li>
 </ul>
 </div>
