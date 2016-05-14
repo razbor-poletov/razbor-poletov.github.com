@@ -14,9 +14,9 @@ categories:
 ++++
 
 * Юлия Крамаренко https://twitter.com/jkramr[@jkramr]
-* Шипилёв теперь с нами. И презирает статистические ошибки @shipilev
-* Евгений Борисов @jekaborisov
-* Алексей Фёдоров aka @23derevo
+* Шипилёв теперь с нами. И презирает статистические ошибки https://twitter.com/shipilev[@shipilev]
+* Евгений Борисов https://twitter.com/jekaborisov[@jekaborisov]
+* Алексей Фёдоров aka https://twitter.com/23derevo[@23derevo]
 
 == Мероприятия
 
