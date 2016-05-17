@@ -6,8 +6,8 @@
     <atom:link href="http://razbor-poletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2016-05-14T19:23:06+00:00</pubDate>
-    <lastBuildDate>2016-05-14T19:23:06+00:00</lastBuildDate>
+    <pubDate>2016-05-17T15:06:50+00:00</pubDate>
+    <lastBuildDate>2016-05-17T15:06:50+00:00</lastBuildDate>
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razbor-poletov.com/logoB.jpg" />
@@ -508,7 +508,7 @@ twitter:
 <p>JavaEE Guardians</p>
 </li>
 <li>
-<p>Эльбрус шагает по плаете
+<p>Эльбрус шагает по планете
 <a href="http://www.cnews.ru/news/top/2016-03-30_iran_zainteresovalsya_rossijskimi_protsessorami" class="bare">http://www.cnews.ru/news/top/2016-03-30_iran_zainteresovalsya_rossijskimi_protsessorami</a></p>
 <div class="olist loweralpha">
 <ol class="loweralpha" type="a">
@@ -680,7 +680,7 @@ twitter:
 JavaEE Guardians
 
 
-Эльбрус шагает по плаете
+Эльбрус шагает по планете
 http://www.cnews.ru/news/top/2016-03-30_iran_zainteresovalsya_rossijskimi_protsessorami
 
 
