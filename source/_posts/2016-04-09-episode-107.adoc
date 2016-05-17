@@ -30,7 +30,7 @@ categories:
 == Темки
 
 .  JavaEE Guardians
-.  Эльбрус шагает по плаете
+.  Эльбрус шагает по планете
 http://www.cnews.ru/news/top/2016-03-30_iran_zainteresovalsya_rossijskimi_protsessorami
 ..  Кто портирует JVM на Эльбрус?
 ..  Какие сложности?
