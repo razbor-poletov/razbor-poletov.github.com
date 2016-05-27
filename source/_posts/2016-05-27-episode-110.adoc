@@ -1,0 +1,88 @@
+---
+comments: true
+categories: 
+---
+= Episode 110 — Теории Заговора
+2016-05-27 14:12
+:layout: post
+:filename: razbor_
+
+++++
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_110_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_110_text.jpg" width="350" /></a>
+</div>
+++++
+
+== Релизы
+
+* http://blog.jetbrains.com/blog/2016/05/25/introducing-jetbrains-toolbox-app/[JetBrains
+Toolbox]
+** Удобно устанавливать разные IDE
+** Удобно обновляться, особенно если вы сидите на EAP
+** Удобно запускать определённые версии продуктов, если у вас их много
+** Intellij IDEA EAP 2016.2
+
+== Гости
+
+* Илья Рыженков https://twitter.com/orangy[@orangy]
+
+== Мероприятия
+
+.  http://javaday.by/[JavaDay Minsk]
+.  https://twitter.com/orangy[Jenkins Spb Meetup] Инфраструктура и Администрирование
+.  GeekOut  
+
+== Темки
+
+.  http://gradle.org/blog/kotlin-meets-gradle/[Kotlin + Gradle] = <3 ?
+.  https://github.com/orangy/komplex/blob/master/samples/src/Sample.kt
+.  Жалкое существование с Groovy в IntelliJ IDEA
+.  http://techcrunch.com/2016/05/26/jury-finds-googles-implementation-of-java-in-android-was-fair-use/[Google vs Oracle]. Вердикт вынесен
+.  http://javaday.by/ 11 Июня `RAZBOR_POLETOV_JAVADAY_2016` - 10% скидка
+
+== Полезняшки
+
+.  http://mikepilone.blogspot.ru/2016/04/distributed-task-coordination-with.html[Distributed
+task card coordination]
+.  Git client https://github.com/integrations/gitkraken
+.  https://github.com/kamranahmedse/git-standup
+.  https://www.alfredapp.com/blog/announcements/alfred-3-is-here/
+.  https://github.com/danieldiekmeier/textexpander-to-alfred3
+.  http://ostagram.ru/static_pages/lenta?client_id=7551&locale=ru
+
+'''
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com[http://razbor-poletov.com]
+
+http://razbor-poletov.com/broadcast.html[Информация о вещании]
+
+Гости и участники:
+
+twitter:
+
+  * https://twitter.com/a_abashev[@a_abashev]
+  * https://twitter.com/antonarhipov[@antonarhipov]
+  * https://twitter.com/gamussa[@gamussa]
+  * https://twitter.com/tolkv[@tolkv]
+  * https://twitter.com/jbaruch[@jbaruch]
+  * https://twitter.com/golodnyj[@golodnyj]
+
+++++
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_110.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+++++
+
+Подписаться по http://feeds.feedburner.com/razbor-podcast[RSS]
+
+++++
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_110.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+++++
+
+Музыка ведущим http://www.audiobank.fm/single-music/27/111/More-And-Less/[предоставлена] и ладно...
