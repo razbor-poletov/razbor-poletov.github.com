@@ -15,8 +15,7 @@ categories:
 
 == Релизы
 
-* http://blog.jetbrains.com/blog/2016/05/25/introducing-jetbrains-toolbox-app/[JetBrains
-Toolbox]
+* http://blog.jetbrains.com/blog/2016/05/25/introducing-jetbrains-toolbox-app/[JetBrains Toolbox]
 ** Удобно устанавливать разные IDE
 ** Удобно обновляться, особенно если вы сидите на EAP
 ** Удобно запускать определённые версии продуктов, если у вас их много
@@ -36,18 +35,18 @@ Toolbox]
 
 .  http://gradle.org/blog/kotlin-meets-gradle/[Kotlin + Gradle] = <3 ?
 .  https://github.com/orangy/komplex/blob/master/samples/src/Sample.kt
-.  Жалкое существование с Groovy в IntelliJ IDEA
+.  https://youtrack.jetbrains.com/oauth?state=%2Fissue%2FIDEA-53476#comment=27-485527[Жалкое существование с Groovy DSL в IntelliJ IDEA]
 .  http://techcrunch.com/2016/05/26/jury-finds-googles-implementation-of-java-in-android-was-fair-use/[Google vs Oracle]. Вердикт вынесен
-.  http://javaday.by/ 11 Июня `RAZBOR_POLETOV_JAVADAY_2016` - 10% скидка
+.  http://javaday.by/ 11 Июня 
+.. `RAZBOR_POLETOV_JAVADAY_2016` - 10% скидка
 
 == Полезняшки
 
-.  http://mikepilone.blogspot.ru/2016/04/distributed-task-coordination-with.html[Distributed
-task card coordination]
-.  Git client https://github.com/integrations/gitkraken
-.  https://github.com/kamranahmedse/git-standup
-.  https://www.alfredapp.com/blog/announcements/alfred-3-is-here/
-.  https://github.com/danieldiekmeier/textexpander-to-alfred3
+.  http://mikepilone.blogspot.ru/2016/04/distributed-task-coordination-with.html[Distributed task card coordination]
+.  https://github.com/integrations/gitkraken[GitKraken]
+.  https://github.com/kamranahmedse/git-standup[Git Standup]
+.  https://www.alfredapp.com/blog/announcements/alfred-3-is-here/[Alfred 3]
+..  https://github.com/danieldiekmeier/textexpander-to-alfred3[мигрируем с TextExpander на Alfred 3]
 .  http://ostagram.ru/static_pages/lenta?client_id=7551&locale=ru
 
 '''
