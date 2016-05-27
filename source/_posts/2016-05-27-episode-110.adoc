@@ -30,7 +30,7 @@ Toolbox]
 
 .  http://javaday.by/[JavaDay Minsk]
 .  https://twitter.com/orangy[Jenkins Spb Meetup] Инфраструктура и Администрирование
-.  GeekOut  
+.  http://2016.geekout.ee[GeekOut]  
 
 == Темки
 
@@ -68,6 +68,8 @@ twitter:
   * https://twitter.com/tolkv[@tolkv]
   * https://twitter.com/jbaruch[@jbaruch]
   * https://twitter.com/golodnyj[@golodnyj]
+  * https://twitter.com/shipilev[@shipilev]
+
 
 ++++
 <!-- player goes here-->
