@@ -6,8 +6,8 @@
     <atom:link href="http://razbor-poletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2016-05-27T18:18:36+00:00</pubDate>
-    <lastBuildDate>2016-05-27T18:18:36+00:00</lastBuildDate>
+    <pubDate>2016-05-27T19:36:34+00:00</pubDate>
+    <lastBuildDate>2016-05-27T19:36:34+00:00</lastBuildDate>
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razbor-poletov.com/logoB.jpg" />
@@ -85,7 +85,7 @@ Toolbox</a></p>
 <p><a href="https://twitter.com/orangy">Jenkins Spb Meetup</a> Инфраструктура и Администрирование</p>
 </li>
 <li>
-<p>GeekOut</p>
+<p><a href="http://2016.geekout.ee">GeekOut</a></p>
 </li>
 </ol>
 </div>
@@ -176,6 +176,9 @@ task card coordination</a></p>
 </li>
 <li>
 <p><a href="https://twitter.com/golodnyj">@golodnyj</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/shipilev">@shipilev</a></p>
 </li>
 </ul>
 </div>
@@ -348,6 +351,9 @@ twitter:
 
 
 @golodnyj
+
+
+@shipilev
 
 
 

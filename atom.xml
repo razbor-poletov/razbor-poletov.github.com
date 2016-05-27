@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2016-05-27T18:18:36+00:00</updated>
+  <updated>2016-05-27T19:36:34+00:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov]]></name>
@@ -78,7 +78,7 @@ Toolbox</a></p>
 <p><a href="https://twitter.com/orangy">Jenkins Spb Meetup</a> Инфраструктура и Администрирование</p>
 </li>
 <li>
-<p>GeekOut</p>
+<p><a href="http://2016.geekout.ee">GeekOut</a></p>
 </li>
 </ol>
 </div>
@@ -169,6 +169,9 @@ task card coordination</a></p>
 </li>
 <li>
 <p><a href="https://twitter.com/golodnyj">@golodnyj</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/shipilev">@shipilev</a></p>
 </li>
 </ul>
 </div>
