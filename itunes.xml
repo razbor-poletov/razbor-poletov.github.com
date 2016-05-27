@@ -6,8 +6,8 @@
     <atom:link href="http://razbor-poletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2016-05-27T19:36:34+00:00</pubDate>
-    <lastBuildDate>2016-05-27T19:36:34+00:00</lastBuildDate>
+    <pubDate>2016-05-27T20:36:09+00:00</pubDate>
+    <lastBuildDate>2016-05-27T20:36:09+00:00</lastBuildDate>
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razbor-poletov.com/logoB.jpg" />
@@ -38,8 +38,7 @@
 <div class="ulist">
 <ul>
 <li>
-<p><a href="http://blog.jetbrains.com/blog/2016/05/25/introducing-jetbrains-toolbox-app/">JetBrains
-Toolbox</a></p>
+<p><a href="http://blog.jetbrains.com/blog/2016/05/25/introducing-jetbrains-toolbox-app/">JetBrains Toolbox</a></p>
 <div class="ulist">
 <ul>
 <li>
@@ -103,13 +102,20 @@ Toolbox</a></p>
 <p><a href="https://github.com/orangy/komplex/blob/master/samples/src/Sample.kt" class="bare">https://github.com/orangy/komplex/blob/master/samples/src/Sample.kt</a></p>
 </li>
 <li>
-<p>Жалкое существование с Groovy в IntelliJ IDEA</p>
+<p><a href="https://youtrack.jetbrains.com/oauth?state=%2Fissue%2FIDEA-53476#comment=27-485527">Жалкое существование с Groovy DSL в IntelliJ IDEA</a></p>
 </li>
 <li>
 <p><a href="http://techcrunch.com/2016/05/26/jury-finds-googles-implementation-of-java-in-android-was-fair-use/">Google vs Oracle</a>. Вердикт вынесен</p>
 </li>
 <li>
-<p><a href="http://javaday.by/" class="bare">http://javaday.by/</a> 11 Июня <code>RAZBOR_POLETOV_JAVADAY_2016</code> - 10% скидка</p>
+<p><a href="http://javaday.by/" class="bare">http://javaday.by/</a> 11 Июня</p>
+<div class="olist loweralpha">
+<ol class="loweralpha" type="a">
+<li>
+<p><code>RAZBOR_POLETOV_JAVADAY_2016</code> - 10% скидка</p>
+</li>
+</ol>
+</div>
 </li>
 </ol>
 </div>
@@ -121,20 +127,23 @@ Toolbox</a></p>
 <div class="olist arabic">
 <ol class="arabic">
 <li>
-<p><a href="http://mikepilone.blogspot.ru/2016/04/distributed-task-coordination-with.html">Distributed
-task card coordination</a></p>
+<p><a href="http://mikepilone.blogspot.ru/2016/04/distributed-task-coordination-with.html">Distributed task card coordination</a></p>
 </li>
 <li>
-<p>Git client <a href="https://github.com/integrations/gitkraken" class="bare">https://github.com/integrations/gitkraken</a></p>
+<p><a href="https://github.com/integrations/gitkraken">GitKraken</a></p>
 </li>
 <li>
-<p><a href="https://github.com/kamranahmedse/git-standup" class="bare">https://github.com/kamranahmedse/git-standup</a></p>
+<p><a href="https://github.com/kamranahmedse/git-standup">Git Standup</a></p>
 </li>
 <li>
-<p><a href="https://www.alfredapp.com/blog/announcements/alfred-3-is-here/" class="bare">https://www.alfredapp.com/blog/announcements/alfred-3-is-here/</a></p>
-</li>
+<p><a href="https://www.alfredapp.com/blog/announcements/alfred-3-is-here/">Alfred 3</a></p>
+<div class="olist loweralpha">
+<ol class="loweralpha" type="a">
 <li>
-<p><a href="https://github.com/danieldiekmeier/textexpander-to-alfred3" class="bare">https://github.com/danieldiekmeier/textexpander-to-alfred3</a></p>
+<p><a href="https://github.com/danieldiekmeier/textexpander-to-alfred3">мигрируем с TextExpander на Alfred 3</a></p>
+</li>
+</ol>
+</div>
 </li>
 <li>
 <p><a href="http://ostagram.ru/static_pages/lenta?client_id=7551&amp;locale=ru" class="bare">http://ostagram.ru/static_pages/lenta?client_id=7551&amp;locale=ru</a></p>
@@ -213,8 +222,7 @@ task card coordination</a></p>
 
 
 
-JetBrains
-Toolbox
+JetBrains Toolbox
 
 
 
@@ -278,13 +286,20 @@ Kotlin + Gradle = &lt;3 ?
 https://github.com/orangy/komplex/blob/master/samples/src/Sample.kt
 
 
-Жалкое существование с Groovy в IntelliJ IDEA
+Жалкое существование с Groovy DSL в IntelliJ IDEA
 
 
 Google vs Oracle. Вердикт вынесен
 
 
-http://javaday.by/ 11 Июня RAZBOR_POLETOV_JAVADAY_2016 - 10% скидка
+http://javaday.by/ 11 Июня
+
+
+
+RAZBOR_POLETOV_JAVADAY_2016 - 10% скидка
+
+
+
 
 
 
@@ -296,20 +311,23 @@ http://javaday.by/ 11 Июня RAZBOR_POLETOV_JAVADAY_2016 - 10% скидка
 
 
 
-Distributed
-task card coordination
+Distributed task card coordination
 
 
-Git client https://github.com/integrations/gitkraken
+GitKraken
 
 
-https://github.com/kamranahmedse/git-standup
+Git Standup
 
 
-https://www.alfredapp.com/blog/announcements/alfred-3-is-here/
+Alfred 3
 
 
-https://github.com/danieldiekmeier/textexpander-to-alfred3
+
+мигрируем с TextExpander на Alfred 3
+
+
+
 
 
 http://ostagram.ru/static_pages/lenta?client_id=7551&amp;locale=ru
