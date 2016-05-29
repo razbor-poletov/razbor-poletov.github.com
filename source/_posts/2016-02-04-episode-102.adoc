@@ -29,7 +29,7 @@ categories:
 == Полезняшки
 
 .  Клиент для Redis - https://github.com/luin/medis[Medis]
-.  http://javaby.github.io/awesome-kotlin/
+.  http://kotlin.link/
 .  https://github.com/Originate/git-town
 .  https://libraries.io/
 
