@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2016-05-27T20:36:09+00:00</updated>
+  <updated>2016-05-29T17:22:48+00:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov]]></name>
@@ -1220,7 +1220,7 @@
 <p>Клиент для Redis - <a href="https://github.com/luin/medis">Medis</a></p>
 </li>
 <li>
-<p><a href="http://javaby.github.io/awesome-kotlin/" class="bare">http://javaby.github.io/awesome-kotlin/</a></p>
+<p><a href="http://kotlin.link/" class="bare">http://kotlin.link/</a></p>
 </li>
 <li>
 <p><a href="https://github.com/Originate/git-town" class="bare">https://github.com/Originate/git-town</a></p>
