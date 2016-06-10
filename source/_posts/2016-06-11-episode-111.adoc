@@ -30,12 +30,12 @@ twitter:
   * https://twitter.com/gamussa[@gamussa]
   * https://twitter.com/johnwings[@johnwings]
   * https://twitter.com/antonarhipov[@antonarhipov]
-  * https://twitter.com/‪andrey_kogun‬[@‪andrey_kogun‬]
-  * https://twitter.com/‪‪pjBooms‬[@‪pjBooms‬]
-  * https://twitter.com/‪antonkeks‬[@‪antonkeks‬]
-  * https://twitter.com/‪‪jkramr‬[@‪jkramr‬]
-  * https://twitter.com/‪‪‪Boui2837‬[@‪Boui2837]
-  * https://twitter.com/‪‪‪bsideup‬‬[‪@bsideup‬]
+  * https://twitter.com/andrey_kogun‬[@‪andrey_kogun‬]
+  * https://twitter.com/pjBooms‬[@‪pjBooms‬]
+  * https://twitter.com/antonkeks‬[@‪antonkeks‬]
+  * https://twitter.com/jkramr‬[@‪jkramr‬]
+  * https://twitter.com/Boui2837‬[@‪Boui2837]
+  * https://twitter.com/bsideup‬‬[‪@bsideup‬]
 
 ++++
 <!-- player goes here-->
