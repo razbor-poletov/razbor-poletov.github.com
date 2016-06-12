@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2016-06-12T21:34:46+00:00</updated>
+  <updated>2016-06-12T21:35:53+00:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov]]></name>
@@ -22,7 +22,7 @@
 <a href="http://razbor-poletov.com/images/razbor_111_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_111_text.jpg" width="350" /></a>
 </div>
 <div class="paragraph">
-<p>Запись проходила в офисе компании ZeroTurnaround в Таллине.</p>
+<p>Запись проходила в офисе компании <a href="http://zeroturnaround.com/">ZeroTurnaround</a> в Таллине.</p>
 </div>
 <hr>
 <div class="paragraph">
@@ -36,9 +36,6 @@
 </div>
 <div class="paragraph">
 <p>Гости и участники:</p>
-</div>
-<div class="paragraph">
-<p>twitter:</p>
 </div>
 <div class="ulist">
 <ul>
