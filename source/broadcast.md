@@ -14,7 +14,7 @@ footer: true
    Your browser does not support the audio tag.
 </audio-->
 
-Следующий эфир запланирован на <span> 12 июня, воскресенье</span>, 23:00 по МСК.
+Следующий эфир запланирован. Ждите :)
 
 **Чат**
 
