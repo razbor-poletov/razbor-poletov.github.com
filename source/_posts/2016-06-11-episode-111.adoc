@@ -13,7 +13,7 @@ categories:
 </div>
 ++++
 
-Запись проходила в офисе компании ZeroTurnaround в Таллине.
+Запись проходила в офисе компании http://zeroturnaround.com/[ZeroTurnaround] в Таллине.
 
 '''
 
@@ -24,8 +24,6 @@ categories:
 http://razbor-poletov.com/broadcast.html[Информация о вещании]
 
 Гости и участники:
-
-twitter:
 
   * https://twitter.com/gamussa[@gamussa]
   * https://twitter.com/johnwings[@johnwings]
