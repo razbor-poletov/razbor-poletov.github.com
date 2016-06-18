@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "«Разбор Полетов» LIVE!"
-date: 2016-05-04 12:00
+date: 2016-06-19 12:00
 comments: false
 sharing: true
 footer: true
@@ -14,7 +14,7 @@ footer: true
    Your browser does not support the audio tag.
 </audio-->
 
-Следующий эфир запланирован. Ждите :)
+Следующий эфир запланирован на 19 июня, воскресение, 23:00. Ждите! :)
 
 **Чат**
 
