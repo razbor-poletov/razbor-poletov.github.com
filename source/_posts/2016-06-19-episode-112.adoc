@@ -1,0 +1,95 @@
+---
+comments: true
+categories: 
+---
+= Episode 112 — Java в огне!
+2016-06-19 23:49
+:layout: post
+:filename: razbor_112
+
+++++
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_112_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_112_text.jpg" width="350" /></a>
+</div>
+++++
+
+== Релизы
+
+* Юлия Крамаренко с днем рождения!
+* https://github.com/blog/2188-git-2-9-has-been-released[Git 2.9]
+
+== Мероприятия
+
+.  http://www.meetup.com/DevOps-Moscow-in-Russian/events/231684156/[DevOps Meetup Docker]
+.  http://jokerconf.com/#callforpapers-form[http://jokerconf.com/]
+
+== Темки
+
+.  Лигатуры в Intellij Idea
+..  шрифт https://github.com/i-tu/Hasklig
+..  Fira Code https://github.com/tonsky/FiraCode
+..  Hack Font http://sourcefoundry.org/hack/
+..  http://programmingfonts.org/
+.  Java https://gist.github.com/lavcraft/8528536a3d3996f8f064198b9ebe9914[тормозит] или ручки не те? Какой язык не дал выстрелить в ногу?
+.  Статический анализ
+https://medium.com/@Coder_HarryLee/openjdk-check-by-pvs-studio-f25a2187b8a0#.b9d56fepr[OpenJDK].
+Каким анализатором пользуются jvm разработчики?
+.  Комьюнити JVM разработчиков сегодня глазами Шипилёва
+.  http://www.brendangregg.com/blog/2015-11-06/java-mixed-mode-flame-graphs.html[Flame Graph] и с чем его едят. 
+.. Еще один из способов профайлинга Java приложения через flame диаграммы http://techblog.netflix.com/2015/07/java-in-flames.html + крутая презенташка про http://www.slideshare.net/brendangregg/blazing-performance-with-flame-graphs/40[flameGrapth]
+..  http://www.brendangregg.com/FlameGraphs/cpuflamegraphs.html
+..  http://www.brendangregg.com/flamegraphs.html
+
+== Полезняшки
+
+.  https://blog.jetbrains.com/idea/2016/06/how-to-support-case-only-rename-in-git/?platform=hootsuite[How
+to Support Case-only Rename in Git]
+.  https://github.com/twitter/diffy
+.  https://github.com/firehol/netdata http://my-netdata.io/
+.  Интелектуальный https://github.com/twitter/diffy/blob/master/README.md[_diff для REST/Thrift _]и в виде сервис http://requestdiff.com/[RequestDiff]
+.  https://www.crowdsupply.com/ugl/ultimate-hacking-keyboard[Клава] для извращенцов. 
+.. Немного http://geektimes.ru/post/246490/[осоздании] http://geektimes.ru/p/264734/[review]
+.  https://www.pluralsight.com/courses/hazelcast-getting-started[Учимся Hazelcast]
+.  http://shop.oreilly.com/product/0636920050872.do[Docker for Java Developers]
+
+== Конференции
+
+. JUG MSK про Hazelcast
+.. https://www.youtube.com/watch?v=XI3_aOCh1gI
+.. https://www.youtube.com/watch?v=RLRlmSk9-PQ&feature=youtu.be
+
+'''
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com[http://razbor-poletov.com]
+
+http://razbor-poletov.com/broadcast.html[Информация о вещании]
+
+Гости и участники:
+
+twitter:
+
+  * https://twitter.com/antonarhipov[@antonarhipov]
+  * https://twitter.com/dzmitryc[@dzmitryc]
+  * https://twitter.com/gamussa[@gamussa]
+  * https://twitter.com/tolkv[@tolkv]
+  * https://twitter.com/shipilev[@shipilev]
+
+++++
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_112.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+++++
+
+Подписаться по http://feeds.feedburner.com/razbor-podcast[RSS]
+
+++++
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_112.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+++++
+
+Музыка ведущим http://www.audiobank.fm/single-music/27/111/More-And-Less/[предоставлена] и ладно...
