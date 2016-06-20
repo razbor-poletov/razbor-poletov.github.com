@@ -15,7 +15,7 @@ categories:
 
 == Релизы
 
-* Юлия Крамаренко с днем рождения!
+* https://www.youtube.com/watch?v=KJvSGLpScdw[Юлия Крамаренко с днем рождения!] https://www.youtube.com/watch?v=hmbSLWA9Njs[Счастья, здоровья!]
 * https://github.com/blog/2188-git-2-9-has-been-released[Git 2.9]
 
 == Мероприятия
