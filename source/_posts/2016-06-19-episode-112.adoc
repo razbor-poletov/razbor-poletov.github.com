@@ -25,7 +25,7 @@ categories:
 
 == Темки
 
-.  Лигатуры в Intellij Idea
+.  Лигатуры в IntelliJ IDEA
 ..  шрифт https://github.com/i-tu/Hasklig
 ..  Fira Code https://github.com/tonsky/FiraCode
 ..  Hack Font http://sourcefoundry.org/hack/
@@ -33,10 +33,10 @@ categories:
 .  Java https://gist.github.com/lavcraft/8528536a3d3996f8f064198b9ebe9914[тормозит] или ручки не те? Какой язык не дал выстрелить в ногу?
 .  Статический анализ
 https://medium.com/@Coder_HarryLee/openjdk-check-by-pvs-studio-f25a2187b8a0#.b9d56fepr[OpenJDK].
-Каким анализатором пользуются jvm разработчики?
+Каким анализатором пользуются разработчики JVM?
 .  Комьюнити JVM разработчиков сегодня глазами Шипилёва
 .  http://www.brendangregg.com/blog/2015-11-06/java-mixed-mode-flame-graphs.html[Flame Graph] и с чем его едят. 
-.. Еще один из способов профайлинга Java приложения через flame диаграммы http://techblog.netflix.com/2015/07/java-in-flames.html + крутая презенташка про http://www.slideshare.net/brendangregg/blazing-performance-with-flame-graphs/40[flameGrapth]
+.. Еще один из способов профилирования Java приложения через flame диаграммы http://techblog.netflix.com/2015/07/java-in-flames.html + крутая презенташка про http://www.slideshare.net/brendangregg/blazing-performance-with-flame-graphs/40[Flame Graphs]
 ..  http://www.brendangregg.com/FlameGraphs/cpuflamegraphs.html
 ..  http://www.brendangregg.com/flamegraphs.html
 
@@ -47,8 +47,8 @@ to Support Case-only Rename in Git]
 .  https://github.com/twitter/diffy
 .  https://github.com/firehol/netdata http://my-netdata.io/
 .  Интелектуальный https://github.com/twitter/diffy/blob/master/README.md[_diff для REST/Thrift _]и в виде сервис http://requestdiff.com/[RequestDiff]
-.  https://www.crowdsupply.com/ugl/ultimate-hacking-keyboard[Клава] для извращенцов. 
-.. Немного http://geektimes.ru/post/246490/[осоздании] http://geektimes.ru/p/264734/[review]
+.  https://www.crowdsupply.com/ugl/ultimate-hacking-keyboard[Клава] для извращенцев. 
+.. Немного http://geektimes.ru/post/246490/[о создании] http://geektimes.ru/p/264734/[review]
 .  https://www.pluralsight.com/courses/hazelcast-getting-started[Учимся Hazelcast]
 .  http://shop.oreilly.com/product/0636920050872.do[Docker for Java Developers]
 
