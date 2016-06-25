@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2016-06-25T20:32:34+00:00</updated>
+  <updated>2016-06-25T21:39:44+00:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov]]></name>
@@ -88,7 +88,7 @@
 Каким анализатором пользуются разработчики JVM?</p>
 </li>
 <li>
-<p>Комьюнити JVM разработчиков сегодня глазами Шипилёва</p>
+<p>Сообщество JVM разработчиков сегодня глазами Шипилёва</p>
 </li>
 <li>
 <p><a href="http://www.brendangregg.com/blog/2015-11-06/java-mixed-mode-flame-graphs.html">Flame Graph</a> и с чем его едят.</p>
