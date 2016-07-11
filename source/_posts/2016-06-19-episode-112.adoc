@@ -21,7 +21,7 @@ categories:
 == Мероприятия
 
 .  http://www.meetup.com/DevOps-Moscow-in-Russian/events/231684156/[DevOps Meetup Docker]
-.  http://jokerconf.com/#callforpapers-form[http://jokerconf.com/]
+.  http://jokerconf.com/[http://jokerconf.com/]
 
 == Темки
 
