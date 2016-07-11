@@ -6,8 +6,8 @@
     <atom:link href="http://razbor-poletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2016-06-25T21:39:44+00:00</pubDate>
-    <lastBuildDate>2016-06-25T21:39:44+00:00</lastBuildDate>
+    <pubDate>2016-07-11T16:46:23+00:00</pubDate>
+    <lastBuildDate>2016-07-11T16:46:23+00:00</lastBuildDate>
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razbor-poletov.com/logoB.jpg" />
@@ -56,7 +56,7 @@
 <p><a href="http://www.meetup.com/DevOps-Moscow-in-Russian/events/231684156/">DevOps Meetup Docker</a></p>
 </li>
 <li>
-<p><a href="http://jokerconf.com/#callforpapers-form">http://jokerconf.com/</a></p>
+<p><a href="http://jokerconf.com/">http://jokerconf.com/</a></p>
 </li>
 </ol>
 </div>
