@@ -14,7 +14,7 @@ footer: true
    Your browser does not support the audio tag.
 </audio>
 
-[Ссылка на поток](http://188.166.65.114:8000/razbor.m3u)
+[Ссылка на поток](http://188.166.65.114:8000/razbor)
 
 **Чат**
 
