@@ -7,7 +7,7 @@ sharing: true
 footer: true
 ---
 
-Чтобы слушать, нажмите Play
+Чтобы слушать, нажмите кнопку Play
 <!-- http://stardust.wavestreamer.com:8062/live/;stream/1 -->
 <audio preload="none">
    <source src="http://shipilev.net:8000/razbor" type="audio/mp3" />
