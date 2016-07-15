@@ -1,0 +1,97 @@
+---
+comments: true
+categories: 
+---
+= Episode 113 — Тариг и стримы
+2016-07-15 16:26
+:layout: post
+:filename: razbor_113
+
+++++
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_113_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_113_text.jpg" width="350" /></a>
+</div>
+++++
+
+== Релизы
+
+* https://blog.jetbrains.com/idea/2016/07/intellij-idea-2016-2-is-here/[IntelliJ IDEA 2016.2] 
+
+== Гости
+
+* Тагир Валеев https://twitter.com/tagir_valeev[@tagir_valeev]
+    ** 11 закрытых issues в openjkd багтрекере. 
+    *** 5 из которых баги
+
+== Мероприятия
+
+1. Народ спрашивает в чатике не охренел ли Baruch преподавать Мавен в Люксофте, будет ли он преподавать вместо него Грейдл, и не надавать ли ему за это по морде.
+2. 100500 докладов от ведущих на JavaOne
+
+== Темки
+
+. Как люди начинают контрибьютить в OpenJDK
+    .. К чему приводит людей `Splitterator`
+    .. http://bugs.java.com/[bugs.sun.com] тоже работает
+    .. https://habrahabr.ru/post/209876/ [статья Тагира] чем отличается OpenSource OpenJDK от любого другого OpenSource проекта.
+    .. https://github.com/google/guava/wiki/IdeaGraveyard[Tuple зло]
+    .. Что делают, и бывает ли такое, что приходит кастомер с патчем решающим какую то проблему, которая воспроизводится только в сложных условиях этого кастомера( нагрузка например итд)
+. http://mail.openjdk.java.net/pipermail/hotspot-gc-dev/2016-July/018545.html[JEP291 - deprecating cms]
+. http://zeroturnaround.com/rebellabs/java-tools-and-technologies-landscape-2016/
+. @jbaruch. Luxoft. Maven. Что там?
+
+== Полезняшки
+
+1. https://github.com/amaembo/streamex[StreamEx] и http://www.jooq.org/[JooQ] по случаю прихода Тагира
+2. PromoCode `razborpoletov` для http://www.lcpsoft.com/ru/index.html
+
+== Вопросы от lcpsoft
+
+6 вопросов - 6 лицензий.
+
+1. Почему нельзя написать программу, подобную JRrcoverer, для восстановления паролей базы данных IBM DB2 (5-я по популярности база данных)?
+2. Какая единственная статья на сайте Алексея Шипилёва посвящена криптографии?
+3. Как называется популярная программа для восстановления паролей, название которой похоже на название доклада Евгения Борисова?
+4. Как зовут двух постоянных докладчиков конференций JPoint/Joker/JBreak,
+5. продукты компаний которых (компаний, в которых они работают) являются обфускаторами Java-кода или могут быть использованы как обфускаторы? Назвать докладчиков (хотя бы), компании и продукты.
+6. Какие факторы облегчают восстановление паролей?
+
+Кто первый отвечает на вопрос в комментариях - получает лицензию!
+
+'''
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com[http://razbor-poletov.com]
+
+http://razbor-poletov.com/broadcast.html[Информация о вещании]
+
+Гости и участники:
+
+twitter:
+
+  * https://twitter.com/a_abashev[@a_abashev]
+  * https://twitter.com/antonarhipov[@antonarhipov]
+  * https://twitter.com/gamussa[@gamussa]
+  * https://twitter.com/tolkv[@tolkv]
+  * https://twitter.com/jbaruch[@jbaruch]
+  * https://twitter.com/shipilev[@shipilev]
+  * https://twitter.com/tagir_valeev[@tagir_valeev]
+
+++++
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_113.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+++++
+
+Подписаться по http://feeds.feedburner.com/razbor-podcast[RSS]
+
+++++
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_113.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+++++
+
+Музыка ведущим http://www.audiobank.fm/single-music/27/111/More-And-Less/[предоставлена] и ладно...
