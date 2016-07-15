@@ -2,7 +2,7 @@
 comments: true
 categories: 
 ---
-= Episode 113 — Тариг и стримы
+= Episode 113 — Тагир и стримы
 2016-07-15 16:26
 :layout: post
 :filename: razbor_113
