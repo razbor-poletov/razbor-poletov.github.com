@@ -6,8 +6,8 @@
     <atom:link href="http://razbor-poletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2016-07-18T13:16:41+00:00</pubDate>
-    <lastBuildDate>2016-07-18T13:16:41+00:00</lastBuildDate>
+    <pubDate>2016-07-18T13:17:32+00:00</pubDate>
+    <lastBuildDate>2016-07-18T13:17:32+00:00</lastBuildDate>
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razbor-poletov.com/logoB.jpg" />
@@ -131,7 +131,7 @@
 <div class="olist arabic">
 <ol class="arabic">
 <li>
-<p><a href="https://github.com/amaembo/streamex">StreamEx</a> и <a href="http://www.jooq.org/">JooQ</a> по случаю прихода Тагира</p>
+<p><a href="https://github.com/amaembo/streamex">StreamEx</a> и <a href="http://www.jooq.org/">jOOQ</a> по случаю прихода Тагира</p>
 </li>
 <li>
 <p>PromoCode <code>razborpoletov</code> для <a href="http://www.lcpsoft.com/">JRecoverer</a></p>
@@ -336,7 +336,7 @@ http://zeroturnaround.com/rebellabs/java-tools-and-technologies-landscape-2016/
 
 
 
-StreamEx и JooQ по случаю прихода Тагира
+StreamEx и jOOQ по случаю прихода Тагира
 
 
 PromoCode razborpoletov для JRecoverer
