@@ -43,7 +43,7 @@ categories:
 
 == Полезняшки
 
-1. https://github.com/amaembo/streamex[StreamEx] и http://www.jooq.org/[JooQ] по случаю прихода Тагира
+1. https://github.com/amaembo/streamex[StreamEx] и http://www.jooq.org/[jOOQ] по случаю прихода Тагира
 2. PromoCode `razborpoletov` для http://www.lcpsoft.com/[JRecoverer]
 
 == Вопросы от lcpsoft
