@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2016-07-17T02:28:24+00:00</updated>
+  <updated>2016-07-18T13:16:41+00:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov]]></name>
@@ -47,7 +47,7 @@
 <div class="ulist">
 <ul>
 <li>
-<p>11 закрытых issues в openjkd багтрекере.</p>
+<p>11 закрытых issues в OpenJDK багтрекере.</p>
 <div class="ulist">
 <ul>
 <li>
