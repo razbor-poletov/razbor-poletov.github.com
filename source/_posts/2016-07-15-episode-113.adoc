@@ -32,7 +32,7 @@ categories:
 == Темки
 
 . Как люди начинают контрибьютить в OpenJDK
-    .. К чему приводит людей `Splitterator`
+    .. К чему приводит людей `Spliterator`
     .. http://bugs.java.com/[bugs.sun.com] тоже работает
     .. https://habrahabr.ru/post/209876/ [статья Тагира] чем отличается OpenSource OpenJDK от любого другого OpenSource проекта.
     .. https://github.com/google/guava/wiki/IdeaGraveyard[Tuple зло]
