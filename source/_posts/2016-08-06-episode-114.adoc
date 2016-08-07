@@ -1,0 +1,92 @@
+---
+comments: true
+categories: 
+---
+= Episode 114 — Техногенный угар
+2016-08-06 23:35
+:layout: post
+:filename: razbor_
+
+++++
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_114_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_114_text.jpg" width="350" /></a>
+</div>
+++++
+
+== Гости
+
+* https://twitter.com/PapaMinos[Никита Макаров] из OK.ru
+* https://twitter.com/GoblinGame[Сергей Высоцкий] из Spotify
+
+== Релизы
+
+* https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-1.4-Release-Notes#upgrading-from-spring-boot-13[Spring Boot 1.4] guava cache deprecated , viva la caffeine cache
+* IntelliJ IDEA 2016.2
+https://blog.jetbrains.com/idea/2016/07/intellij-idea-2016-2-is-here/
+* http://www.dropwizard.io/1.0.0/docs/about/release-notes.html[dropwizard 1.0 http://www.dropwizard.io/1.0.0/docs/about/release-notes.html]
+* https://habrahabr.ru/post/305384/[Nginx Amplify]
+* https://github.com/google/protobuf/releases/tag/v3.0.0
+* http://mesos.apache.org/blog/mesos-1-0-0-released/[Mesos 1.0]
+
+== Мероприятия
+
+.  Прошли
+..  https://springoneplatform.io/[SpringOne]
+..  http://www.meetup.com/Belarus-Jenkins-Meetup/events/232279096/?comment_table_id=468410729&comment_table_name=event_comment[Jenkins BY Meetup] прошел успешно
+. Будут
+..  http://heisenbug.ru/
+
+== Темки
+
+1.  SpringOne news
+2.  Микросервисы и PaaS в каждый дом
+..  http://contiv.github.io/articles/2016/03/06/scaling-microservices.html
+3.  https://labs.spotify.com/2016/03/25/managing-machines-at-spotify/
+
+== Полезняшки
+
+.  Всякое от Spotify
+..  https://github.com/spotify/apollo
+..  https://github.com/spotify/helios/blob/master/docs/helios_solo.md
+..  https://github.com/spotify/luigi
+..  https://labs.spotify.com/2016/03/25/managing-machines-at-spotify/
+.  http://shop.oreilly.com/product/0636920037545.do[Ratpack от Dan Woods]
+.  https://github.com/linkedin/ambry/wiki[LinkedIn Ambry]
+.  http://graphwalker.github.io/
+.  https://www.google.com/chromecast/
+.  http://github-awards.com/
+.  https://github.com/tombujok/hazelcast-rxjava[Hazelcast RxJava Plugin]
+
+'''
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com[http://razbor-poletov.com]
+
+http://razbor-poletov.com/broadcast.html[Информация о вещании]
+
+Гости и участники:
+
+twitter:
+
+  * https://twitter.com/antonarhipov[@antonarhipov]
+  * https://twitter.com/gamussa[@gamussa]
+  * https://twitter.com/tolkv[@tolkv]
+
+++++
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_114.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+++++
+
+Подписаться по http://feeds.feedburner.com/razbor-podcast[RSS]
+
+++++
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_114.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+++++
+
+Музыка ведущим http://www.audiobank.fm/single-music/27/111/More-And-Less/[предоставлена] и ладно...
