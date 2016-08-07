@@ -65,9 +65,7 @@ https://blog.jetbrains.com/idea/2016/07/intellij-idea-2016-2-is-here/
 
 http://razbor-poletov.com/broadcast.html[Информация о вещании]
 
-Гости и участники:
-
-twitter:
+Ведущие:
 
   * https://twitter.com/antonarhipov[@antonarhipov]
   * https://twitter.com/gamussa[@gamussa]
