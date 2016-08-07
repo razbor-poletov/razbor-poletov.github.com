@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2016-08-05T22:56:56+00:00</updated>
+  <updated>2016-08-07T18:00:46+00:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov]]></name>
@@ -12,6 +12,209 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 114 — Техногенный угар]]></title>
+    <link href="http://razbor-poletov.com/2016/08/episode-114.html"/>
+    <updated>2016-08-06T00:00:00+00:00</updated>
+    <id>http://razbor-poletov.com/2016/08/episode-114</id>
+    <content type="html"><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_114_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_114_text.jpg" width="350" /></a>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Гости">Гости</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://twitter.com/PapaMinos">Никита Макаров</a> из OK.ru</p>
+</li>
+<li>
+<p><a href="https://twitter.com/GoblinGame">Сергей Высоцкий</a> из Spotify</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Релизы">Релизы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-1.4-Release-Notes#upgrading-from-spring-boot-13">Spring Boot 1.4</a> guava cache deprecated , viva la caffeine cache</p>
+</li>
+<li>
+<p>IntelliJ IDEA 2016.2
+<a href="https://blog.jetbrains.com/idea/2016/07/intellij-idea-2016-2-is-here/" class="bare">https://blog.jetbrains.com/idea/2016/07/intellij-idea-2016-2-is-here/</a></p>
+</li>
+<li>
+<p><a href="http://www.dropwizard.io/1.0.0/docs/about/release-notes.html">dropwizard 1.0 http://www.dropwizard.io/1.0.0/docs/about/release-notes.html</a></p>
+</li>
+<li>
+<p><a href="https://habrahabr.ru/post/305384/">Nginx Amplify</a></p>
+</li>
+<li>
+<p><a href="https://github.com/google/protobuf/releases/tag/v3.0.0" class="bare">https://github.com/google/protobuf/releases/tag/v3.0.0</a></p>
+</li>
+<li>
+<p><a href="http://mesos.apache.org/blog/mesos-1-0-0-released/">Mesos 1.0</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Мероприятия">Мероприятия</h2>
+<div class="sectionbody">
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p>Прошли</p>
+<div class="olist loweralpha">
+<ol class="loweralpha" type="a">
+<li>
+<p><a href="https://springoneplatform.io/">SpringOne</a></p>
+</li>
+<li>
+<p><a href="http://www.meetup.com/Belarus-Jenkins-Meetup/events/232279096/?comment_table_id=468410729&amp;comment_table_name=event_comment">Jenkins BY Meetup</a> прошел успешно</p>
+</li>
+</ol>
+</div>
+</li>
+<li>
+<p>Будут</p>
+<div class="olist loweralpha">
+<ol class="loweralpha" type="a">
+<li>
+<p><a href="http://heisenbug.ru/" class="bare">http://heisenbug.ru/</a></p>
+</li>
+</ol>
+</div>
+</li>
+</ol>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темки">Темки</h2>
+<div class="sectionbody">
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p>SpringOne news</p>
+</li>
+<li>
+<p>Микросервисы и PaaS в каждый дом</p>
+<div class="olist loweralpha">
+<ol class="loweralpha" type="a">
+<li>
+<p><a href="http://contiv.github.io/articles/2016/03/06/scaling-microservices.html" class="bare">http://contiv.github.io/articles/2016/03/06/scaling-microservices.html</a></p>
+</li>
+</ol>
+</div>
+</li>
+<li>
+<p><a href="https://labs.spotify.com/2016/03/25/managing-machines-at-spotify/" class="bare">https://labs.spotify.com/2016/03/25/managing-machines-at-spotify/</a></p>
+</li>
+</ol>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Полезняшки">Полезняшки</h2>
+<div class="sectionbody">
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p>Всякое от Spotify</p>
+<div class="olist loweralpha">
+<ol class="loweralpha" type="a">
+<li>
+<p><a href="https://github.com/spotify/apollo" class="bare">https://github.com/spotify/apollo</a></p>
+</li>
+<li>
+<p><a href="https://github.com/spotify/helios/blob/master/docs/helios_solo.md" class="bare">https://github.com/spotify/helios/blob/master/docs/helios_solo.md</a></p>
+</li>
+<li>
+<p><a href="https://github.com/spotify/luigi" class="bare">https://github.com/spotify/luigi</a></p>
+</li>
+<li>
+<p><a href="https://labs.spotify.com/2016/03/25/managing-machines-at-spotify/" class="bare">https://labs.spotify.com/2016/03/25/managing-machines-at-spotify/</a></p>
+</li>
+</ol>
+</div>
+</li>
+<li>
+<p><a href="http://shop.oreilly.com/product/0636920037545.do">Ratpack от Dan Woods</a></p>
+</li>
+<li>
+<p><a href="https://github.com/linkedin/ambry/wiki">LinkedIn Ambry</a></p>
+</li>
+<li>
+<p><a href="http://graphwalker.github.io/" class="bare">http://graphwalker.github.io/</a></p>
+</li>
+<li>
+<p><a href="https://www.google.com/chromecast/" class="bare">https://www.google.com/chromecast/</a></p>
+</li>
+<li>
+<p><a href="http://github-awards.com/" class="bare">http://github-awards.com/</a></p>
+</li>
+<li>
+<p><a href="https://github.com/tombujok/hazelcast-rxjava">Hazelcast RxJava Plugin</a></p>
+</li>
+</ol>
+</div>
+<hr>
+<div class="paragraph">
+<p>Наши контакты:</p>
+</div>
+<div class="paragraph">
+<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
+</div>
+<div class="paragraph">
+<p><a href="http://razbor-poletov.com/broadcast.html">Информация о вещании</a></p>
+</div>
+<div class="paragraph">
+<p>Гости и участники:</p>
+</div>
+<div class="paragraph">
+<p>twitter:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://twitter.com/antonarhipov">@antonarhipov</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/tolkv">@tolkv</a></p>
+</li>
+</ul>
+</div>
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_114.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+<div class="paragraph">
+<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
+</div>
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_114.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+<div class="paragraph">
+<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
+</div>
+</div>
+</div>]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 113 — Тагир и стримы]]></title>
@@ -6371,109 +6574,6 @@ jug.msk.ru <a href="http://habrahabr.ru/post/272009/" class="bare">http://habrah
 
 
 <p><a href="http://traffic.libsyn.com/razborpoletov/razbor_65.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
-
-<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 64 — Будь профессионалом!]]></title>
-    <link href="http://razbor-poletov.com/2014/07/episode-64.html"/>
-    <updated>2014-07-28T19:31:00+00:00</updated>
-    <id>http://razbor-poletov.com/2014/07/episode-64</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="http://razbor-poletov.com/images/razbor_64_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_64_text.jpg" width="350" /></a>
-</div>
-
-
-<p>Конференции:</p>
-
-<ul>
-<li><a href="http://springone2gx.com">SpringOne2GX</a></li>
-<li><p><a href="https://www.oracle.com/javaone/index.html">JavaOne</a></p>
-
-<ul>
-<li><a href="https://oracleus.activeevents.com/2014/connect/sessionDetail.ww?SESSION_ID=3503">Виктор</a></li>
-<li><a href="https://oracleus.activeevents.com/2014/connect/sessionDetail.ww?SESSION_ID=1724">Антон</a></li>
-<li><a href="https://oracleus.activeevents.com/2014/connect/sessionDetail.ww?SESSION_ID=1752">Барух</a></li>
-</ul>
-</li>
-<li><p>Треп за Groovy</p>
-
-<ul>
-<li><a href="http://gr8conf.us/#/">gr8conf</a></li>
-<li><a href="http://appspot.us4.list-manage.com/subscribe?u=cb8b56e9d6a1cb1696cecc673&amp;id=1a76961630">Groovy Weekly</a></li>
-<li>Кому работы на Groovy <a href="http://www.groovy.io/jobs/list">1</a> <a href="http://www.indeed.com/jobtrends?q=groovy%2C+scala&amp;l=">2</a></li>
-</ul>
-</li>
-<li><p>Microservices <a href="http://microservices.io/patterns/microservices.html">1</a> <a href="http://www.infoq.com/articles/microservices-intro">2</a> <a href="http://highscalability.com/blog/2014/4/8/microservices-not-a-free-lunch.html">3</a></p></li>
-<li><p>Полезняшки.</p>
-
-<ul>
-<li><a href="http://www.mattstine.com/microservices">Список &#8220;на почитать&#8221; про сервисы</a></li>
-<li>Вышел Tower 2</li>
-<li><a href="https://github.com/vladmihalcea/flexy-pool">Профайлер Connection Pool-ов</a>. <a href="https://github.com/brettwooldridge/HikariCP/wiki/About-Pool-Sizing">Размер имеет значение</a></li>
-</ul>
-</li>
-<li><a href="http://philip.greenspun.com/ancient-history/professionalism-for-software-engineers">Будь профессионалом</a>, <a href="https://twitter.com/ValaAfshar/status/492869616272953344">будь</a>!</li>
-<li><a href="http://zeroturnaround.com/rebellabs/why-it-rocks-to-finally-understand-java-jit-with-jitwatch/">Разбор черной магии JIT</a></li>
-</ul>
-
-
-<hr />
-
-<p><em>На правах рекламы:</em></p>
-
-<ul>
-<li>Онлайн курс <a href="http://www.eventbrite.com/e/web-application-development-with-javascript-and-angularjs-starts-sep-6-2014-tickets-12121418489?aff=eorg">Web Application Development with JavaScript and AngularJS</a> на английском. Скидка-код <strong>RazborPoletov</strong></li>
-</ul>
-
-
-<hr />
-
-<p>Наши контакты:</p>
-
-<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
-
-<p>Темы для следующего выпуска - <a href="https://github.com/razbor-poletov/razbor-poletov.github.com/issues?state=open">https://github.com/razbor-poletov/</a></p>
-
-<p>Гости и участники:</p>
-
-<p>twitter:</p>
-
-<ul>
-<li><a href="https://twitter.com/#!/gamussa">@gamussa</a></li>
-<li><a href="https://twitter.com/#!/a_abashev">@a_abashev</a></li>
-<li><a href="https://twitter.com/#!/antonarhipov">@antonarhipov</a></li>
-<li><a href="https://twitter.com/#!/dzmitryc">@dzmitryc </a></li>
-<li><a href="https://twitter.com/#!/jbaruch">@jbaruch</a></li>
-</ul>
-
-
-<p>G+:</p>
-
-<ul>
-<li><a href="http://gplus.to/gAmUssA">gplus.to/gAmUssA</a></li>
-<li><a href="https://plus.google.com/+AntonArhipov">https://plus.google.com/+AntonArhipov</a></li>
-<li><a href="http://gplus.to/aabashev">gplus.to/aabashev</a></li>
-<li><a href="https://plus.google.com/+DmitryChurbanov">https://plus.google.com/+DmitryChurbanov</a></li>
-</ul>
-
-
-<!-- player goes here-->
-
-
-<p><audio preload="none">
-   <source src="http://traffic.libsyn.com/razborpoletov/razbor_64.mp3" type="audio/mp3" />
-   Your browser does not support the audio tag.
-</audio></p>
-
-<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
-
-<!-- episode file link goes here-->
-
-
-<p><a href="http://traffic.libsyn.com/razborpoletov/razbor_64.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
 
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
 ]]></content>
