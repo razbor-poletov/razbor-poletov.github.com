@@ -15,7 +15,7 @@ categories:
 
 == Гости
 
-* https://twitter.com/PapaMinos[Никита Макаров] из OK.ru
+* https://twitter.com/PapaMinos[Никита Макаров] из Одноклассников
 * https://twitter.com/GoblinGame[Сергей Высоцкий] из Spotify
 
 == Релизы
