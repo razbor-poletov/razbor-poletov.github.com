@@ -129,7 +129,7 @@ task :new_post, :title do |t, args|
 
 ++++
 <div class="separator" style="clear: both; text-align: center;">
-<a href="http://razbor-poletov.com/images/{filename}_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_80_text.jpg" width="350" /></a>
+<a href="http://razbor-poletov.com/images/{filename}_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/{filename}_text.jpg" width="350" /></a>
 </div>
 ++++
 
@@ -153,8 +153,9 @@ twitter:
   * https://twitter.com/antonarhipov[@antonarhipov]
   * https://twitter.com/dzmitryc[@dzmitryc]
   * https://twitter.com/gamussa[@gamussa]
-  * https://twitter.com/tolkv[@tolkv]
   * https://twitter.com/jbaruch[@jbaruch]
+  * https://twitter.com/shipilev[@shipilev]
+  * https://twitter.com/tolkv[@tolkv]
 
 ++++
 <!-- player goes here-->

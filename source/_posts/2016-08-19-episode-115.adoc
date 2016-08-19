@@ -1,0 +1,105 @@
+---
+comments: true
+categories: 
+---
+= Episode 115 — Java 10, будет...
+2016-08-19 09:43
+:layout: post
+:filename: razbor_115
+
+Выпуск 18+
+
+++++
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_115_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_115_text.jpg" width="350" /></a>
+</div>
+++++
+http://cg-zander.deviantart.com/art/Dreams-of-Valhalla-384587225[оригинальная картинка]
+
+== Гости
+
+https://twitter.com/johnwings[Иван Крылов] 
+
+== Релизы
+
+. https://docs.gradle.org/3.0/release-notes[Gradle 3.0]
+. Hazelcast 3.7
+.. http://download.hazelcast.com/download.jsp?version=hazelcast-3.7&p=[Качаем]
+.. http://blog.hazelcast.com/introducing-hazelcast-3-7-ea-better-faster-hazelcast/[Что нового]
+.. https://hazelcast.atlassian.net/wiki/display/COM/Avoid+Data+Loss+on+Migration+-+Solution+Design
+
+== Мероприятия
+
+.  http://www.jcrete.org/[JCreate] - Иван там был
+..  https://www.youtube.com/watch?v=oq7nTwtN3js[Ваня топит за 9ку]
+..  https://www.youtube.com/watch?v=yaWq20AFN9U[Graal]
+.  http://jokerconf.com/#schedule
+
+== Темки
+
+.  Про JEPы
+..  http://cr.openjdk.java.net/~mr/jep/jep-2.0.html[От СамогО]
+..  https://habrahabr.ru/post/209876/[От Тагира]
+..  https://hazelcast.atlassian.net/wiki/display/COM/Hazelcast+Enhancement+Proposals[HEP]
+..  https://blogs.oracle.com/jrose/entry/larval_objects_in_the_vm
+.  https://www.youtube.com/playlist?list=PLX8CzqL3ArzUY6rQAQTwI_jKvqJxrRrP_[JVMLS] 
+..  https://www.youtube.com/watch?v=gii6ySfsVfs&list=PLX8CzqL3ArzUY6rQAQTwI_jKvqJxrRrP_&index=4[VM Futures]
+..  https://www.youtube.com/watch?v=Tc9vs_HFHVo[Valhalla]
+..  https://www.youtube.com/watch?v=pUXeNAeyY34[Immutable collections]
+..  https://www.youtube.com/watch?v=QnMDsI2GbOc&list=PLX8CzqL3ArzUY6rQAQTwI_jKvqJxrRrP_&index=1[Jigsaw]
+
+== С нами пытаются говорить
+
+----
+@Barlog: 
+Подскажите пожалуйста ответ на такой вопрос (попался в опроснике для собеседования:
+
+** Какие, на ваш взгляд, есть примеры неудачного дизайна классов, входящих в состав JDK? Как можно было бы их улучшить?
+** На этот вопрос есть общепринятые ответы? 
+Мне пришол в голову только такой:
+** Например класс File, который может представлять как файл, так и директорию. 
+И хотя внутри файловой системы директория действительно есть файл определённого формата, но работа с ней отличается от работы с файлом, поэтому согласно принципу single responsibility можно было бы сделать отдельный класс Directory.
+----
+
+== Полезняшки
+
+1.  https://dzone.com/articles/how-to-take-thread-dumps-7-options[Как снимать тред-дампы]
+2.  http://www.java9countdown.xyz/[Когда выйдет java 9]
+3.  https://blogs.oracle.com/OracleCoherence/entry/coherencerx_reactive_extensions_for_oracle[CoherenceRx]
+
+'''
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com[http://razbor-poletov.com]
+
+http://razbor-poletov.com/broadcast.html[Информация о вещании]
+
+Гости и участники:
+
+twitter:
+
+  * https://twitter.com/a_abashev[@a_abashev]
+  * https://twitter.com/antonarhipov[@antonarhipov]
+  * https://twitter.com/gamussa[@gamussa]
+  * https://twitter.com/jbaruch[@jbaruch]
+  * https://twitter.com/shipilev[@shipilev]
+  * https://twitter.com/tolkv[@tolkv]
+
+++++
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_115.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+++++
+
+Подписаться по http://feeds.feedburner.com/razbor-podcast[RSS]
+
+++++
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_115.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+++++
+
+Музыка ведущим http://www.audiobank.fm/single-music/27/111/More-And-Less/[предоставлена] и ладно...
