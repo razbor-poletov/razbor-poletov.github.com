@@ -85,6 +85,7 @@ twitter:
   * https://twitter.com/jbaruch[@jbaruch]
   * https://twitter.com/shipilev[@shipilev]
   * https://twitter.com/tolkv[@tolkv]
+  * https://twitter.com/johnwings[@johnwings]
 
 ++++
 <!-- player goes here-->
