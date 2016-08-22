@@ -6,8 +6,8 @@
     <atom:link href="http://razbor-poletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2016-08-20T20:29:12+00:00</pubDate>
-    <lastBuildDate>2016-08-20T20:29:12+00:00</lastBuildDate>
+    <pubDate>2016-08-22T19:54:38+00:00</pubDate>
+    <lastBuildDate>2016-08-22T19:54:38+00:00</lastBuildDate>
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razbor-poletov.com/logoB.jpg" />
@@ -80,7 +80,7 @@
 <div class="olist arabic">
 <ol class="arabic">
 <li>
-<p><a href="http://www.jcrete.org/">JCreate</a> - Иван там был</p>
+<p><a href="http://www.jcrete.org/">JCrete</a> — Иван там был</p>
 <div class="olist loweralpha">
 <ol class="loweralpha" type="a">
 <li>
@@ -293,7 +293,7 @@ https://hazelcast.atlassian.net/wiki/display/COM/Avoid+Data+Loss+on+Migration+-+
 
 
 
-JCreate - Иван там был
+JCrete — Иван там был
 
 
 
