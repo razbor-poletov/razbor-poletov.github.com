@@ -30,7 +30,7 @@ https://twitter.com/johnwings[Иван Крылов], ведущий инжен�
 
 == Мероприятия
 
-.  http://www.jcrete.org/[JCreate] - Иван там был
+.  http://www.jcrete.org/[JCrete] — Иван там был
 ..  https://www.youtube.com/watch?v=oq7nTwtN3js[Ваня топит за 9ку]
 ..  https://www.youtube.com/watch?v=yaWq20AFN9U[Graal]
 .  http://jokerconf.com/#schedule
