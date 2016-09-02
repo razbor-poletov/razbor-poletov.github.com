@@ -30,7 +30,7 @@ categories:
 
 .  https://habrahabr.ru/company/jugru/blog/308914/[ООП Будущего]
 .  Геттеры против бабы яги + http://www.yegor256.com/2016/04/05/printers-instead-of-getters.html +
-Если ``лямбда'' не захочет, кобель не вскочит
+Если «лямбда» не захочет, кобель не вскочит
 .  JEP 277: Enhanced Deprecation: http://openjdk.java.net/jeps/277
 
 
@@ -38,7 +38,7 @@ categories:
 
 1.  https://www.youtube.com/watch?v=f4uXBpP_xxY&feature=share[Алексей Симоненко — Как я перестал верить технологиям]
 2.  https://github.com/tsenart/vegeta
-3.  Stranger Things
+3.  https://www.netflix.com/title/80057281[Stranger Things]
 
 '''
 
