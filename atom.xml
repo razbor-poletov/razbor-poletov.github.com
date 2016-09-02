@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2016-09-02T21:30:18+00:00</updated>
+  <updated>2016-09-02T21:38:34+00:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov]]></name>
@@ -31,7 +31,7 @@
 <div class="ulist">
 <ul>
 <li>
-<p><a href="https://twitter.com/johnwings">Иван Крылов</a> Again</p>
+<p><a href="https://twitter.com/johnwings">Иван Крылов</a> (забыл уйти)</p>
 </li>
 <li>
 <p><a href="https://twitter.com/yegor256">Егор Бугаенко</a></p>
@@ -52,7 +52,13 @@
 <p><a href="http://holyjs.ru/">HolyJS</a></p>
 </li>
 <li>
+<p><a href="https://jugmsk.timepad.ru/event/368790/">jug.msk.ru с Кириллом и Барухом</a></p>
+</li>
+<li>
 <p><a href="http://jokerconf.com/#jokerlong">Joker</a></p>
+</li>
+<li>
+<p><a href="http://javaday.org.ua">JavaDay Kiev</a></p>
 </li>
 <li>
 <p><a href="http://heisenbug.ru/">Heisenbug</a></p>
