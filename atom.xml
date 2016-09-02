@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2016-09-01T23:24:31+00:00</updated>
+  <updated>2016-09-02T21:19:37+00:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov]]></name>
@@ -12,6 +12,151 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 116 — ООП-дичь]]></title>
+    <link href="http://razbor-poletov.com/2016/09/episode-116.html"/>
+    <updated>2016-09-02T00:00:00+00:00</updated>
+    <id>http://razbor-poletov.com/2016/09/episode-116</id>
+    <content type="html"><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_116_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_116_text.jpg" width="350" /></a>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Гости">Гости</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://twitter.com/johnwings">Иван Крылов</a> Again</p>
+</li>
+<li>
+<p><a href="https://twitter.com/yegor256">Егор Бугаенко</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/yfain">Яков Файн</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Мероприятия">Мероприятия</h2>
+<div class="sectionbody">
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p><a href="http://holyjs.ru/">HolyJS</a></p>
+</li>
+<li>
+<p><a href="http://jokerconf.com/#jokerlong">Joker</a></p>
+</li>
+<li>
+<p><a href="http://heisenbug.ru/">Heisenbug</a></p>
+</li>
+<li>
+<p><a href="http://jpoint.ru/callforpapers/">JPoint принимает доклады</a></p>
+</li>
+</ol>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темки">Темки</h2>
+<div class="sectionbody">
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p><a href="https://habrahabr.ru/company/jugru/blog/308914/">ООП Будущего</a></p>
+</li>
+<li>
+<p>Геттеры против бабы яги + <a href="http://www.yegor256.com/2016/04/05/printers-instead-of-getters.html" class="bare">http://www.yegor256.com/2016/04/05/printers-instead-of-getters.html</a><br>
+Если &#8220;лямбда&#8221; не захочет, кобель не вскочит</p>
+</li>
+<li>
+<p>JEP 277: Enhanced Deprecation: <a href="http://openjdk.java.net/jeps/277" class="bare">http://openjdk.java.net/jeps/277</a></p>
+</li>
+</ol>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Полезняшки">Полезняшки</h2>
+<div class="sectionbody">
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p><a href="https://www.youtube.com/watch?v=f4uXBpP_xxY&amp;feature=share">Алексей Симоненко — Как я перестал верить технологиям</a></p>
+</li>
+<li>
+<p><a href="https://github.com/tsenart/vegeta" class="bare">https://github.com/tsenart/vegeta</a></p>
+</li>
+<li>
+<p>Stranger Things</p>
+</li>
+</ol>
+</div>
+<hr>
+<div class="paragraph">
+<p>Наши контакты:</p>
+</div>
+<div class="paragraph">
+<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
+</div>
+<div class="paragraph">
+<p><a href="http://razbor-poletov.com/broadcast.html">Информация о вещании</a></p>
+</div>
+<div class="paragraph">
+<p>Гости и участники:</p>
+</div>
+<div class="paragraph">
+<p>twitter:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://twitter.com/antonarhipov">@antonarhipov</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/jbaruch">@jbaruch</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/shipilev">@shipilev</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/tolkv">@tolkv</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/yfain">@yfain</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/yegor256">@yegor256</a></p>
+</li>
+</ul>
+</div>
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_116.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+<div class="paragraph">
+<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
+</div>
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_116.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+<div class="paragraph">
+<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
+</div>
+</div>
+</div>]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 115 — Java 10, будет&#8230;&#8203;]]></title>
@@ -6659,70 +6804,6 @@ jug.msk.ru <a href="http://habrahabr.ru/post/272009/" class="bare">http://habrah
 
 
 <p><a href="http://traffic.libsyn.com/razborpoletov/razbor_67.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
-
-<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 66 — Инъекции, потрошители, кинжалы и пружинки]]></title>
-    <link href="http://razbor-poletov.com/2014/08/episode-66.html"/>
-    <updated>2014-08-27T21:39:00+00:00</updated>
-    <id>http://razbor-poletov.com/2014/08/episode-66</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="http://razbor-poletov.com/images/razbor_66_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_66_text.jpg" width="350" /></a>
-</div>
-
-
-<ul>
-<li><a href="https://play.google.com/store/apps/details?id=com.shonenfactory.razborpoletov">Приложение «Разбор Полетов» для Android</a>. <a href="https://github.com/rsi2m/RazborPoletov">Гитхаб</a> для пулл-реквестов</li>
-<li><a href="https://github.com/google/dagger">Dagger Two</a>. <a href="https://www.youtube.com/watch?v=oK_XtfXPkqw">Видео</a></li>
-<li><a href="http://www.amazon.com/Dependency-Injection-Dhanji-R-Prasanna/dp/193398855X">Книга про DI</a></li>
-<li>«Spring-поторошитель» <a href="https://www.youtube.com/watch?v=BmBr5diz8WA">1</a> <a href="https://www.youtube.com/watch?v=cou_qomYLNU">2</a></li>
-<li>Полезняшка <a href="http://www.jcabi.com/index.html">jacabi</a> (log, VerboseThread, jdbc)</li>
-<li><a href="http://blog.jooq.org/2014/06/26/stop-unit-testing-database-code/">Перестаньте тестировать базу</a></li>
-</ul>
-
-
-<p>Наши контакты:</p>
-
-<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
-
-<p>Темы для следующего выпуска - <a href="https://github.com/razbor-poletov/razbor-poletov.github.com/issues?state=open">https://github.com/razbor-poletov/</a></p>
-
-<p>Гости и участники:</p>
-
-<p>twitter:</p>
-
-<ul>
-<li><a href="https://twitter.com/#!/gamussa">@gamussa</a></li>
-<li><a href="https://twitter.com/#!/golodnyj">@golodnyj</a></li>
-<li><a href="https://twitter.com/#!/dzmitryc">@dzmitryc </a></li>
-</ul>
-
-
-<p>G+:</p>
-
-<ul>
-<li><a href="http://gplus.to/gAmUssA">gplus.to/gAmUssA</a></li>
-<li><a href="https://plus.google.com/+DmitryChurbanov">https://plus.google.com/+DmitryChurbanov</a></li>
-</ul>
-
-
-<!-- player goes here-->
-
-
-<p><audio preload="none">
-   <source src="http://traffic.libsyn.com/razborpoletov/razbor_66.mp3" type="audio/mp3" />
-   Your browser does not support the audio tag.
-</audio></p>
-
-<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
-
-<!-- episode file link goes here-->
-
-
-<p><a href="http://traffic.libsyn.com/razborpoletov/razbor_66.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
 
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
 ]]></content>
