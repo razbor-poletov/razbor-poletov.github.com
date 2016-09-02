@@ -6,8 +6,8 @@
     <atom:link href="http://razbor-poletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2016-09-02T21:28:46+00:00</pubDate>
-    <lastBuildDate>2016-09-02T21:28:46+00:00</lastBuildDate>
+    <pubDate>2016-09-02T21:30:18+00:00</pubDate>
+    <lastBuildDate>2016-09-02T21:30:18+00:00</lastBuildDate>
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razbor-poletov.com/logoB.jpg" />
@@ -81,7 +81,7 @@
 </li>
 <li>
 <p>Геттеры против бабы яги + <a href="http://www.yegor256.com/2016/04/05/printers-instead-of-getters.html" class="bare">http://www.yegor256.com/2016/04/05/printers-instead-of-getters.html</a><br>
-Если &#8220;лямбда&#8221; не захочет, кобель не вскочит</p>
+Если «лямбда» не захочет, кобель не вскочит</p>
 </li>
 <li>
 <p>JEP 277: Enhanced Deprecation: <a href="http://openjdk.java.net/jeps/277" class="bare">http://openjdk.java.net/jeps/277</a></p>
@@ -102,7 +102,7 @@
 <p><a href="https://github.com/tsenart/vegeta" class="bare">https://github.com/tsenart/vegeta</a></p>
 </li>
 <li>
-<p>Stranger Things</p>
+<p><a href="https://www.netflix.com/title/80057281">Stranger Things</a></p>
 </li>
 </ol>
 </div>
@@ -221,7 +221,7 @@ JPoint принимает доклады
 
 
 Геттеры против бабы яги + http://www.yegor256.com/2016/04/05/printers-instead-of-getters.html
-Если ``лямбда'' не захочет, кобель не вскочит
+Если «лямбда» не захочет, кобель не вскочит
 
 
 JEP 277: Enhanced Deprecation: http://openjdk.java.net/jeps/277
