@@ -15,14 +15,16 @@ categories:
 
 == Гости
 
-* https://twitter.com/johnwings[Иван Крылов] Again
+* https://twitter.com/johnwings[Иван Крылов] (забыл уйти)
 * https://twitter.com/yegor256[Егор Бугаенко]
 * https://twitter.com/yfain[Яков Файн]
 
 == Мероприятия
 
 .  http://holyjs.ru/[HolyJS]
+.  https://jugmsk.timepad.ru/event/368790/[jug.msk.ru с Кириллом и Барухом]
 .  http://jokerconf.com/#jokerlong[Joker]
+.  http://javaday.org.ua[JavaDay Kiev]
 .  http://heisenbug.ru/[Heisenbug]
 .  http://jpoint.ru/callforpapers/[JPoint принимает доклады]
 
