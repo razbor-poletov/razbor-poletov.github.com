@@ -16,7 +16,7 @@ footer: true
    Your browser does not support the audio tag.
 </audio-->
 
-Ссылка на поток будет доступна во день эфира!
+Ссылка на поток будет доступна в день эфира!
 
 **Чат**
 
