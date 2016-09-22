@@ -31,6 +31,7 @@ twitter:
   * https://twitter.com/gamussa[@gamussa]
   * https://twitter.com/jbaruch[@jbaruch]
   * https://twitter.com/23derevo[@23derevo]
+  * https://twitter.com/Yuriy_Artamonov[@jreznot]
 
 ++++
 <!-- player goes here-->
