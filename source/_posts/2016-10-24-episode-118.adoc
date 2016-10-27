@@ -30,6 +30,7 @@ twitter:
   * https://twitter.com/antonarhipov[@antonarhipov]
   * https://twitter.com/gamussa[@gamussa]
   * https://twitter.com/tolkv[@tolkv]
+  * https://twitter.com/m0nstermind[@m0nstermind]
 
 ++++
 <!-- player goes here-->
