@@ -35,8 +35,7 @@ NOTE: За анонсами онлайн вещания лучше следит�
 .. https://www.reddit.com/r/apple/comments/59yrxg/the_true_reason_the_mbp_doesnt_come_with_ddr4_or/
 .. http://blog.fosketts.net/2016/10/29/total-nightmare-usb-c-thunderbolt-3
 .. https://twitter.com/bulenkov/status/792499393907855360
-.. Можно и Jack на iPhone 7 высверлить
-.. https://twitter.com/bulenkov/status/792499393907855360
+.. https://www.youtube.com/watch?v=5tqH-Un9SFU[Можно и Jack на iPhone 7 высверлить]
 . Немного про AOT в Java 9
 . Отложили релиз Java 9 из-за сложности внедрения http://openjdk.java.net/projects/jdk9[Jigsaw]
 .. Jigsaw и layouts
