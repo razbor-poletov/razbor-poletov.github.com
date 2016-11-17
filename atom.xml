@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2016-11-17T19:55:14+00:00</updated>
+  <updated>2016-11-17T20:38:24+00:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov]]></name>
@@ -142,6 +142,9 @@
 </li>
 <li>
 <p><a href="https://github.com/julianhyde/sqlline" class="bare">https://github.com/julianhyde/sqlline</a></p>
+</li>
+<li>
+<p><a href="http://mactracker.ca" class="bare">http://mactracker.ca</a></p>
 </li>
 </ol>
 </div>

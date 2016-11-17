@@ -6,8 +6,8 @@
     <atom:link href="http://razbor-poletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2016-11-17T19:55:14+00:00</pubDate>
-    <lastBuildDate>2016-11-17T19:55:14+00:00</lastBuildDate>
+    <pubDate>2016-11-17T20:38:24+00:00</pubDate>
+    <lastBuildDate>2016-11-17T20:38:24+00:00</lastBuildDate>
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razbor-poletov.com/logoB.jpg" />
@@ -149,6 +149,9 @@
 </li>
 <li>
 <p><a href="https://github.com/julianhyde/sqlline" class="bare">https://github.com/julianhyde/sqlline</a></p>
+</li>
+<li>
+<p><a href="http://mactracker.ca" class="bare">http://mactracker.ca</a></p>
 </li>
 </ol>
 </div>
@@ -326,6 +329,9 @@ Java 9 Ultime Guide
 
 
 https://github.com/julianhyde/sqlline
+
+
+http://mactracker.ca
 
 
 
