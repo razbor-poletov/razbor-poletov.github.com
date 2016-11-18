@@ -1,0 +1,68 @@
+---
+comments: true
+categories: podcast
+---
+= Episode 120 — Роботы, XRay и conan
+2016-11-17 18:14
+:layout: post
+:filename: razbor_
+
+++++
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_120_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_120_text.jpg" width="350" /></a>
+</div>
+++++
+
+== Полезняшки
+
+* OWC Thunderbolt 2
+** https://eshop.macsales.com/shop/Thunderbolt/Dock/OWC/Thunderbolt2-Dock/
+** http://thewirecutter.com/reviews/best-thunderbolt-dock/
+* Двигаем окошки
+** Moom https://manytricks.com/moom/ ← было уже когда-то, не грех еще раз напомнить
+** Spectacle - https://www.spectacleapp.com/
+* Забэкапить свои приложения OSX https://github.com/lra/mackup
+* Все сервисы в одном окошке http://rambox.pro[Rambox]
+
+== Темки
+
+* @jbaruch расскажи про новый менеджер пакетов С в артифкатори пока что
+* @jbaruch расскажи про Helm и зачем вы взяли себе экс-гуглера на работу
+* Что такое JFrog XRay? https://www.jfrog.com/xray/
+* Baruch говорит в темки, чувак не знает чем подход с ./gradlew лучше чем качать грейд ставить и юзать. Мне кажется это просто троллинг и не нужно об этом вещать долго и упорно..
+
+'''
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com[http://razbor-poletov.com]
+
+http://razbor-poletov.com/broadcast.html[Информация о вещании]
+
+Гости и участники:
+
+twitter:
+
+  * https://twitter.com/antonarhipov[@antonarhipov]
+  * https://twitter.com/gamussa[@gamussa]
+  * https://twitter.com/jbaruch[@jbaruch]
+  * https://twitter.com/tolkv[@tolkv]
+  * https://twitter.com/golodnyj[@golodnyj]
+
+++++
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_120.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+++++
+
+Подписаться по http://feeds.feedburner.com/razbor-podcast[RSS]
+
+++++
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_120.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+++++
+
+Музыка ведущим http://www.audiobank.fm/single-music/27/111/More-And-Less/[предоставлена] и ладно...
