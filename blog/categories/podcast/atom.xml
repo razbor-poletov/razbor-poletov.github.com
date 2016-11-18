@@ -4,7 +4,7 @@
   <title><![CDATA[Category: podcast | Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/blog/categories/podcast/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2016-11-17T22:44:52+00:00</updated>
+  <updated>2016-11-18T15:45:58+00:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov]]></name>
@@ -12,6 +12,95 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 120 — Роботы, XRay и conan]]></title>
+    <link href="http://razbor-poletov.com/2016/11/episode-120.html"/>
+    <updated>2016-11-17T00:00:00+00:00</updated>
+    <id>http://razbor-poletov.com/2016/11/episode-120</id>
+    <content type="html"><![CDATA[<p>= Episode 120 — Роботы, XRay и conan
+2016-11-17 18:14
+:layout: post
+:filename: razbor_</p>
+
+<p>++++</p>
+
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_120_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_120_text.jpg" width="350" /></a>
+</div>
+
+
+<p>++++</p>
+
+<p>== Полезняшки</p>
+
+<ul>
+<li>OWC Thunderbolt 2
+<strong> https://eshop.macsales.com/shop/Thunderbolt/Dock/OWC/Thunderbolt2-Dock/
+</strong> http://thewirecutter.com/reviews/best-thunderbolt-dock/</li>
+<li>Двигаем окошки
+<strong> Moom https://manytricks.com/moom/ ← было уже когда-то, не грех еще раз напомнить
+</strong> Spectacle - https://www.spectacleapp.com/</li>
+<li>Забэкапить свои приложения OSX https://github.com/lra/mackup</li>
+<li>Все сервисы в одном окошке http://rambox.pro[Rambox]</li>
+</ul>
+
+
+<p>== Темки</p>
+
+<ul>
+<li>@jbaruch расскажи про новый менеджер пакетов С в артифкатори пока что</li>
+<li>@jbaruch расскажи про Helm и зачем вы взяли себе экс-гуглера на работу</li>
+<li>Что такое JFrog XRay? https://www.jfrog.com/xray/</li>
+<li>Baruch говорит в темки, чувак не знает чем подход с ./gradlew лучше чем качать грейд ставить и юзать. Мне кажется это просто троллинг и не нужно об этом вещать долго и упорно..</li>
+</ul>
+
+
+<p>'''</p>
+
+<p>Наши контакты:</p>
+
+<p>Официальный сайт — http://razbor-poletov.com[http://razbor-poletov.com]</p>
+
+<p>http://razbor-poletov.com/broadcast.html[Информация о вещании]</p>
+
+<p>Гости и участники:</p>
+
+<p>twitter:</p>
+
+<ul>
+<li>https://twitter.com/antonarhipov[@antonarhipov]</li>
+<li>https://twitter.com/gamussa[@gamussa]</li>
+<li>https://twitter.com/jbaruch[@jbaruch]</li>
+<li>https://twitter.com/tolkv[@tolkv]</li>
+<li>https://twitter.com/golodnyj[@golodnyj]</li>
+</ul>
+
+
+<p>++++</p>
+
+<!-- player goes here-->
+
+
+<p><audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_120.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+++++</p>
+
+<p>Подписаться по http://feeds.feedburner.com/razbor-podcast[RSS]</p>
+
+<p>++++</p>
+
+<!-- episode file link goes here-->
+
+
+<p><a href="http://traffic.libsyn.com/razborpoletov/razbor_120.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+++++</p>
+
+<p>Музыка ведущим http://www.audiobank.fm/single-music/27/111/More-And-Less/[предоставлена] и ладно...</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 98 — Теорема-шляпа]]></title>
@@ -463,100 +552,6 @@ http://s00.yaplakal.com/pics/pics_original/3/0/6/1322603.gif[Оригинал]</
 
 
 <p><a href="http://traffic.libsyn.com/razborpoletov/razbor_87.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
-++++</p>
-
-<p>Музыка ведущим http://www.audiobank.fm/single-music/27/111/More-And-Less/[предоставлена] и ладно...</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 86 — Заговор мясников]]></title>
-    <link href="http://razbor-poletov.com/2015/06/episode-86.html"/>
-    <updated>2015-06-21T00:00:00+00:00</updated>
-    <id>http://razbor-poletov.com/2015/06/episode-86</id>
-    <content type="html"><![CDATA[<p>= Episode 86 — Заговор мясников
-2015-06-21 18:47
-:layout: post
-:filename: razbor_86</p>
-
-<p>Внимание, выпуск <em>18+</em></p>
-
-<p>++++</p>
-
-<div class="separator" style="clear: both; text-align: center;">
-<a href="http://razbor-poletov.com/images/razbor_86_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_86_text.jpg" width="350" /></a>
-</div>
-
-
-<p>++++</p>
-
-<p>== Темки</p>
-
-<ul>
-<li>http://tonsky.livejournal.com/303215.html[Почему мы убираем за собой]</li>
-<li>http://martinfowler.com/bliki/MonolithFirst.html[Монолиты] от Mr. Fauler</li>
-<li>http://www.jamesward.com/2015/06/08/comparing-application-deployment-2005-vs-2015[Comparing application deployment 2005 vs 2015]</li>
-<li>Как я нашел лучший в мире язык программирования http://habrahabr.ru/post/259831/[1]  http://habrahabr.ru/post/259841/[2]</li>
-</ul>
-
-
-<p>== ПолезнЯшки</p>
-
-<ul>
-<li>Веб-фреймворки для микросервисов
-<strong> http://jooby.org[Jobby]
-</strong> https://github.com/airlift/airlift[Airlif]</li>
-<li>http://kangax.github.io/compat-table/es6/</li>
-<li>https://zarkzork.com/servasm.html[Веб на асме]</li>
-</ul>
-
-
-<p>== И напоследок...</p>
-
-<p>http://endoflineblog.com/gitflow-considered-harmful[Хейтеры git-flow]</p>
-
-<p>'''</p>
-
-<p>Наши контакты:</p>
-
-<p>Официальный сайт — http://razbor-poletov.com[http://razbor-poletov.com]</p>
-
-<p>http://razbor-poletov.com/broadcast.html[Информация о вещании]</p>
-
-<p>Гости и участники:</p>
-
-<p>twitter:</p>
-
-<ul>
-<li>https://twitter.com/a_abashev[@a_abashev]</li>
-<li>https://twitter.com/antonarhipov[@antonarhipov]</li>
-<li>https://twitter.com/dzmitryc[@dzmitryc]</li>
-<li>https://twitter.com/gamussa[@gamussa]</li>
-<li>https://twitter.com/tolkv[@tolkv]</li>
-<li>https://twitter.com/umputun[@umputun]</li>
-<li>https://twitter.com/23derevo[@23derevo]</li>
-</ul>
-
-
-<p>++++</p>
-
-<!-- player goes here-->
-
-
-<p><audio preload="none">
-   <source src="http://traffic.libsyn.com/razborpoletov/razbor_86.mp3" type="audio/mp3" />
-   Your browser does not support the audio tag.
-</audio>
-++++</p>
-
-<p>Подписаться по http://feeds.feedburner.com/razbor-podcast[RSS]</p>
-
-<p>++++</p>
-
-<!-- episode file link goes here-->
-
-
-<p><a href="http://traffic.libsyn.com/razborpoletov/razbor_86.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
 ++++</p>
 
 <p>Музыка ведущим http://www.audiobank.fm/single-music/27/111/More-And-Less/[предоставлена] и ладно...</p>
