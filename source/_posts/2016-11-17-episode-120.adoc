@@ -26,10 +26,10 @@ categories: podcast
 
 == Темки
 
-* @jbaruch расскажи про новый менеджер пакетов С в артифкатори пока что
-* @jbaruch расскажи про Helm и зачем вы взяли себе экс-гуглера на работу
+* @jbaruch расскажи про новый менеджер пакетов С в артифкатори пока что  - [Conan Joins JFrog](https://www.jfrog.com/blog/conan-joins-jfrog/)
+* @jbaruch расскажи про Helm и зачем вы взяли себе экс-гуглера на работу [How JFrog’s Artifactory Puts Open Source at the Helm](http://thenewstack.io/jfrogs-artifactory-puts-open-source-helm/)
 * Что такое JFrog XRay? https://www.jfrog.com/xray/
-* Baruch говорит в темки, чувак не знает чем подход с ./gradlew лучше чем качать грейд ставить и юзать. Мне кажется это просто троллинг и не нужно об этом вещать долго и упорно..
+* Baruch говорит в темки, чувак не знает чем подход с ./gradlew лучше чем качать грейд ставить и юзать. Мне кажется это просто троллинг и не нужно об этом вещать долго и упорно.. [Use the Gradle Wrapper and Stop Wasting Valuable Time](https://dzone.com/articles/use-gradle-wrapper-and-stop)
 
 '''
 
