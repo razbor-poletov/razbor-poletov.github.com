@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2016-11-18T15:45:58+00:00</updated>
+  <updated>2016-11-18T17:23:06+00:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov]]></name>
@@ -72,16 +72,16 @@
 <div class="ulist">
 <ul>
 <li>
-<p>@jbaruch расскажи про новый менеджер пакетов С в артифкатори пока что</p>
+<p>@jbaruch расскажи про новый менеджер пакетов С в артифкатори пока что  - [Conan Joins JFrog](<a href="https://www.jfrog.com/blog/conan-joins-jfrog/" class="bare">https://www.jfrog.com/blog/conan-joins-jfrog/</a>)</p>
 </li>
 <li>
-<p>@jbaruch расскажи про Helm и зачем вы взяли себе экс-гуглера на работу</p>
+<p>@jbaruch расскажи про Helm и зачем вы взяли себе экс-гуглера на работу [How JFrog’s Artifactory Puts Open Source at the Helm](<a href="http://thenewstack.io/jfrogs-artifactory-puts-open-source-helm/" class="bare">http://thenewstack.io/jfrogs-artifactory-puts-open-source-helm/</a>)</p>
 </li>
 <li>
 <p>Что такое JFrog XRay? <a href="https://www.jfrog.com/xray/" class="bare">https://www.jfrog.com/xray/</a></p>
 </li>
 <li>
-<p>Baruch говорит в темки, чувак не знает чем подход с ./gradlew лучше чем качать грейд ставить и юзать. Мне кажется это просто троллинг и не нужно об этом вещать долго и упорно..</p>
+<p>Baruch говорит в темки, чувак не знает чем подход с ./gradlew лучше чем качать грейд ставить и юзать. Мне кажется это просто троллинг и не нужно об этом вещать долго и упорно.. [Use the Gradle Wrapper and Stop Wasting Valuable Time](<a href="https://dzone.com/articles/use-gradle-wrapper-and-stop" class="bare">https://dzone.com/articles/use-gradle-wrapper-and-stop</a>)</p>
 </li>
 </ul>
 </div>
