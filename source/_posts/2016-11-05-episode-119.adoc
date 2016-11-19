@@ -13,31 +13,31 @@ categories:
 </div>
 ++++
 
-NOTE: За анонсами онлайн вещания лучше следить на http://facebook.com/razborPoletovPodcast/[Facebook]
+NOTE: За анонсами онлайн-вещания лучше следить на http://facebook.com/razborPoletovPodcast/[Facebook]
 
 == Гости
 
-* https://twitter.com/@JohnWings[@JohnWings] Иван Крылов из Azul Systems
+* https://twitter.com/JohnWings[@JohnWings] Иван Крылов из Azul Systems
 
 == Релизы
 
-* Новый подкаст про DevOps от https://twitter.com/bsideup[@bsideup] и https://twitter.com/tolkv[@tolkv] - http://2d1o.ru[http://2d1o.ru] 
+* https://www.2d1o.ru/[Two Devs One Ops] — новый подкаст про DevOps от https://twitter.com/bsideup[@bsideup] и https://twitter.com/tolkv[@tolkv]
 
 == Мероприятия
 
 . JUG с Иваном Крыловым в Москве 15 декабря в офисе КРОКа. Регистрации ждать тут https://jugmsk.timepad.ru/events/
-. https://www.meetup.com/Moscow-Jenkins-Meetup[Jenkins Meetup Moscow]
-. http://devopspro.ru[Конференция DevOps Pro]. `PODKAST30` - промокод на скидку
+. https://www.meetup.com/Moscow-Jenkins-Meetup[Moscow Jenkins Meetup]
+. http://devopspro.ru[Конференция DevOps Pro]. `PODKAST30` — промокод на скидку
 
 == Темки
 
-. Про маки
+. Про Маки
 .. https://www.reddit.com/r/apple/comments/59yrxg/the_true_reason_the_mbp_doesnt_come_with_ddr4_or/
 .. http://blog.fosketts.net/2016/10/29/total-nightmare-usb-c-thunderbolt-3
 .. https://twitter.com/bulenkov/status/792499393907855360
 .. https://www.youtube.com/watch?v=5tqH-Un9SFU[Можно и Jack на iPhone 7 высверлить]
 . Немного про AOT в Java 9
-. Отложили релиз Java 9 из-за сложности внедрения http://openjdk.java.net/projects/jdk9[Jigsaw]
+. Отложили релиз Java 9 из-за сложности внедрения http://openjdk.java.net/projects/jigsaw/[Jigsaw]
 .. Jigsaw и layouts
 .. Stack Trace Walker
 .. HTTP 2 Client
@@ -46,7 +46,7 @@ NOTE: За анонсами онлайн вещания лучше следит�
 
 == Полезняшки
 
-. https://www.sitepoint.com/ultimate-guide-to-java-9[Java 9 Ultime Guide]
+. https://www.sitepoint.com/ultimate-guide-to-java-9[Java 9 Ultimate Guide]
 . https://github.com/julianhyde/sqlline
 . http://mactracker.ca
 
