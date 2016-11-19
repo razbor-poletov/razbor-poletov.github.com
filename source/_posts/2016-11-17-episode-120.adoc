@@ -2,7 +2,7 @@
 comments: true
 categories: podcast
 ---
-= Episode 120 — Роботы, XRay и conan
+= Episode 120 — Роботы, Xray и Conan
 2016-11-17 18:14
 :layout: post
 :filename: razbor_
@@ -28,7 +28,7 @@ categories: podcast
 
 * @jbaruch расскажи про новый менеджер пакетов С в артифкатори пока что  - [Conan Joins JFrog](https://www.jfrog.com/blog/conan-joins-jfrog/)
 * @jbaruch расскажи про Helm и зачем вы взяли себе экс-гуглера на работу [How JFrog’s Artifactory Puts Open Source at the Helm](http://thenewstack.io/jfrogs-artifactory-puts-open-source-helm/)
-* Что такое JFrog XRay? https://www.jfrog.com/xray/
+* Что такое JFrog Xray? https://www.jfrog.com/xray/
 * Baruch говорит в темки, чувак не знает чем подход с ./gradlew лучше чем качать грейд ставить и юзать. Мне кажется это просто троллинг и не нужно об этом вещать долго и упорно.. [Use the Gradle Wrapper and Stop Wasting Valuable Time](https://dzone.com/articles/use-gradle-wrapper-and-stop)
 
 '''
