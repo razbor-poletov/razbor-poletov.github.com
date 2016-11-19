@@ -6,8 +6,8 @@
     <atom:link href="http://razbor-poletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2016-11-18T17:23:06+00:00</pubDate>
-    <lastBuildDate>2016-11-18T17:23:06+00:00</lastBuildDate>
+    <pubDate>2016-11-19T09:01:04+00:00</pubDate>
+    <lastBuildDate>2016-11-19T09:01:04+00:00</lastBuildDate>
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razbor-poletov.com/logoB.jpg" />
@@ -282,7 +282,7 @@ twitter:
 <div class="title">Note</div>
 </td>
 <td class="content">
-За анонсами онлайн вещания лучше следить на <a href="http://facebook.com/razborPoletovPodcast/">Facebook</a>
+За анонсами онлайн-вещания лучше следить на <a href="http://facebook.com/razborPoletovPodcast/">Facebook</a>
 </td>
 </tr>
 </table>
@@ -295,7 +295,7 @@ twitter:
 <div class="ulist">
 <ul>
 <li>
-<p><a href="https://twitter.com/@JohnWings">@JohnWings</a> Иван Крылов из Azul Systems</p>
+<p><a href="https://twitter.com/JohnWings">@JohnWings</a> Иван Крылов из Azul Systems</p>
 </li>
 </ul>
 </div>
@@ -307,7 +307,7 @@ twitter:
 <div class="ulist">
 <ul>
 <li>
-<p>Новый подкаст про DevOps от <a href="https://twitter.com/bsideup">@bsideup</a> и <a href="https://twitter.com/tolkv">@tolkv</a> - <a href="http://2d1o.ru">http://2d1o.ru</a></p>
+<p><a href="https://www.2d1o.ru/">Two Devs One Ops</a> — новый подкаст про DevOps от <a href="https://twitter.com/bsideup">@bsideup</a> и <a href="https://twitter.com/tolkv">@tolkv</a></p>
 </li>
 </ul>
 </div>
@@ -322,10 +322,10 @@ twitter:
 <p>JUG с Иваном Крыловым в Москве 15 декабря в офисе КРОКа. Регистрации ждать тут <a href="https://jugmsk.timepad.ru/events/" class="bare">https://jugmsk.timepad.ru/events/</a></p>
 </li>
 <li>
-<p><a href="https://www.meetup.com/Moscow-Jenkins-Meetup">Jenkins Meetup Moscow</a></p>
+<p><a href="https://www.meetup.com/Moscow-Jenkins-Meetup">Moscow Jenkins Meetup</a></p>
 </li>
 <li>
-<p><a href="http://devopspro.ru">Конференция DevOps Pro</a>. <code>PODKAST30</code> - промокод на скидку</p>
+<p><a href="http://devopspro.ru">Конференция DevOps Pro</a>. <code>PODKAST30</code> — промокод на скидку</p>
 </li>
 </ol>
 </div>
@@ -337,7 +337,7 @@ twitter:
 <div class="olist arabic">
 <ol class="arabic">
 <li>
-<p>Про маки</p>
+<p>Про Маки</p>
 <div class="olist loweralpha">
 <ol class="loweralpha" type="a">
 <li>
@@ -359,7 +359,7 @@ twitter:
 <p>Немного про AOT в Java 9</p>
 </li>
 <li>
-<p>Отложили релиз Java 9 из-за сложности внедрения <a href="http://openjdk.java.net/projects/jdk9">Jigsaw</a></p>
+<p>Отложили релиз Java 9 из-за сложности внедрения <a href="http://openjdk.java.net/projects/jigsaw/">Jigsaw</a></p>
 <div class="olist loweralpha">
 <ol class="loweralpha" type="a">
 <li>
@@ -390,7 +390,7 @@ twitter:
 <div class="olist arabic">
 <ol class="arabic">
 <li>
-<p><a href="https://www.sitepoint.com/ultimate-guide-to-java-9">Java 9 Ultime Guide</a></p>
+<p><a href="https://www.sitepoint.com/ultimate-guide-to-java-9">Java 9 Ultimate Guide</a></p>
 </li>
 <li>
 <p><a href="https://github.com/julianhyde/sqlline" class="bare">https://github.com/julianhyde/sqlline</a></p>
@@ -462,7 +462,7 @@ twitter:
 Note
 
 
-За анонсами онлайн вещания лучше следить на Facebook
+За анонсами онлайн-вещания лучше следить на Facebook
 
 
 
@@ -487,7 +487,7 @@ Note
 
 
 
-Новый подкаст про DevOps от @bsideup и @tolkv - http://2d1o.ru
+Two Devs One Ops — новый подкаст про DevOps от @bsideup и @tolkv
 
 
 
@@ -502,10 +502,10 @@ Note
 JUG с Иваном Крыловым в Москве 15 декабря в офисе КРОКа. Регистрации ждать тут https://jugmsk.timepad.ru/events/
 
 
-Jenkins Meetup Moscow
+Moscow Jenkins Meetup
 
 
-Конференция DevOps Pro. PODKAST30 - промокод на скидку
+Конференция DevOps Pro. PODKAST30 — промокод на скидку
 
 
 
@@ -517,7 +517,7 @@ Jenkins Meetup Moscow
 
 
 
-Про маки
+Про Маки
 
 
 
@@ -570,7 +570,7 @@ Project Graal
 
 
 
-Java 9 Ultime Guide
+Java 9 Ultimate Guide
 
 
 https://github.com/julianhyde/sqlline
