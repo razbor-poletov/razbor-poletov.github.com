@@ -4,7 +4,7 @@
   <title><![CDATA[Category: podcast | Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/blog/categories/podcast/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2016-11-19T09:01:04+00:00</updated>
+  <updated>2016-11-19T09:57:05+00:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov]]></name>
@@ -14,11 +14,11 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Episode 120 — Роботы, XRay и conan]]></title>
+    <title type="html"><![CDATA[Episode 120 — Роботы, Xray и Conan]]></title>
     <link href="http://razbor-poletov.com/2016/11/episode-120.html"/>
     <updated>2016-11-17T00:00:00+00:00</updated>
     <id>http://razbor-poletov.com/2016/11/episode-120</id>
-    <content type="html"><![CDATA[<p>= Episode 120 — Роботы, XRay и conan
+    <content type="html"><![CDATA[<p>= Episode 120 — Роботы, Xray и Conan
 2016-11-17 18:14
 :layout: post
 :filename: razbor_</p>
@@ -51,7 +51,7 @@
 <ul>
 <li>@jbaruch расскажи про новый менеджер пакетов С в артифкатори пока что  - <a href="https://www.jfrog.com/blog/conan-joins-jfrog/">Conan Joins JFrog</a></li>
 <li>@jbaruch расскажи про Helm и зачем вы взяли себе экс-гуглера на работу <a href="http://thenewstack.io/jfrogs-artifactory-puts-open-source-helm/">How JFrog’s Artifactory Puts Open Source at the Helm</a></li>
-<li>Что такое JFrog XRay? https://www.jfrog.com/xray/</li>
+<li>Что такое JFrog Xray? https://www.jfrog.com/xray/</li>
 <li>Baruch говорит в темки, чувак не знает чем подход с ./gradlew лучше чем качать грейд ставить и юзать. Мне кажется это просто троллинг и не нужно об этом вещать долго и упорно.. <a href="https://dzone.com/articles/use-gradle-wrapper-and-stop">Use the Gradle Wrapper and Stop Wasting Valuable Time</a></li>
 </ul>
 
