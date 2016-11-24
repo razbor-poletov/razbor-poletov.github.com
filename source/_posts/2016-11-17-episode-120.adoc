@@ -2,7 +2,7 @@
 comments: true
 categories: podcast
 ---
-= Episode 120 — Роботы, Xray и Conan
+= Episode 120 — Роботы, XRay и Conan
 2016-11-17 18:14
 :layout: post
 :filename: razbor_
