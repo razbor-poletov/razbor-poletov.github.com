@@ -6,8 +6,8 @@
     <atom:link href="http://razbor-poletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2016-11-19T09:57:05+00:00</pubDate>
-    <lastBuildDate>2016-11-19T09:57:05+00:00</lastBuildDate>
+    <pubDate>2016-11-24T18:47:39+00:00</pubDate>
+    <lastBuildDate>2016-11-24T18:47:39+00:00</lastBuildDate>
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razbor-poletov.com/logoB.jpg" />
@@ -21,7 +21,7 @@
     <media:thumbnail url="http://razbor-poletov.com/logoB.jpg" />
     
     <item>
-      <title>Episode 120 — Роботы, Xray и Conan</title>
+      <title>Episode 120 — Роботы, XRay и Conan</title>
       <link>http://razbor-poletov.com/2016/11/episode-120.html</link>
       <pubDate>2016-11-17T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2016/11/episode-120</guid>
