@@ -1,0 +1,97 @@
+---
+comments: true
+categories: 
+---
+= Episode 121 — JVM vs CLR: Чужой не против Хищника!
+2016-11-30 20:34
+:layout: post
+:filename: razbor_121
+
+++++
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_121_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_121_text.jpg" width="350" /></a>
+</div>
+++++
+
+== Гости
+
+* https://twitter.com/goldshtn[@goldshtn] Sasha Goldshtein
+* https://twitter.com/shipilev[@shipilev] Alexey Shipilev
+* https://twitter.com/23derevo[@23derevo] Alexey Fyodorov
+* https://twitter.com/andrey_akinshin[@andrey_akinshin] Andrey Akinshin
+
+== Правильные .NET конференции
+
+* http://dotnext.ru/en/
+* http://dotnext-helsinki.com *7 December 2016*
+* http://dotnext-moscow.ru/en/ *9 December 2016*
+* http://dotnext-piter.ru/en/
+
+== Темы
+
+* http://medianetwork.oracle.com/video/player/1785479320001[JVMLS 2012: CLR Features That Might Benefit the JVM]
+* http://blogs.microsoft.co.il/sasha/2014/04/22/c-vectorization-microsoft-bcl-simd/[.NET _SIMD_ support in RyuJIT]
+* _GC tuning_: Is this something people do? We don't have that kind of level of customization on the CLR side. https://docs.oracle.com/javase/8/docs/technotes/guides/vm/gctuning/[Should we? ]
+* _Customizing_ the runtime/custom runtime/custom GC/custom whatever — CLR is “open”, but then you have 30KLOC https://github.com/dotnet/coreclr/blob/master/src/gc/gc.cpp[gc.cpp]
+* I heard Java (?) has something to offer in terms of local objects that are allocated from a thread-local memory arena, deallocated at the end of a scope, and don't put pressure on the GC. Is is true? I really wish we had that.
+
+== Темы (что реально обсудили)
+
+. https://blogs.msdn.microsoft.com/patrick_dussud/2006/11/21/how-it-all-startedaka-the-birth-of-the-clr/[Как все начиналось]
+. https://github.com/dotnet/coreclr/blob/master/Documentation/botr/garbage-collection.md[GС Design] 
+. https://github.com/dotnet/coreclr/tree/master/Documentation/botr[Book of Runtime] 
+. Как Александр стал «Не экспертом» по .NET
+. OpenSource и CLR – для галочки?
+. HotSpot  тоже было не легко выкинуть в Open Source
+. GC для C# – что ты такое?
+. Библиотеки и экосистема – разница в подходах JVM и .NET миров
+. Зачем идти в кроссплатформенность .NET? Почему MS не топит за винду?
+. MS идет в сторону активного использования Linux. https://twitter.com/dev_console/status/799097696959287296/photo/1[SQL Server для Linux]
+. RxJava vs RxNet – победитель RxJava. О там как устроено в RxJava читать http://akarnokd.blogspot.ru[тут]
+. Андрей Акиншин немного о Rider IDE
+. Тормозит ли Mono?
+
+== Полезняшки
+
+* http://xn--h1affdobp.xn--p1ai[http://соснули.рф]
+* https://www.amazon.com/Pro-NET-Performance-Applications-Professional/dp/1430244585
+* Про GC в дотнете можно блог Maoni Stephens https://blogs.msdn.microsoft.com/maoni/[почитать]
+* Встречаем https://www.jetbrains.com/rider/[Rider]
+* https://github.com/quozd/awesome-dotnet
+* http://nancyfx.org[http://nancyfx.org]
+
+'''
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com[http://razbor-poletov.com]
+
+http://razbor-poletov.com/broadcast.html[Информация о вещании]
+
+Гости и участники:
+
+twitter:
+
+  * https://twitter.com/a_abashev[@a_abashev]
+  * https://twitter.com/gamussa[@gamussa]
+  * https://twitter.com/jbaruch[@jbaruch]
+  * https://twitter.com/shipilev[@shipilev]
+  * https://twitter.com/tolkv[@tolkv]
+
+++++
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_121.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+++++
+
+Подписаться по http://feeds.feedburner.com/razbor-podcast[RSS]
+
+++++
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_121.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+++++
+
+Музыка ведущим http://www.audiobank.fm/single-music/27/111/More-And-Less/[предоставлена] и ладно...
