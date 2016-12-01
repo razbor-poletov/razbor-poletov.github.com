@@ -23,9 +23,9 @@ categories:
 == Правильные .NET конференции
 
 * http://dotnext.ru/en/
-* http://dotnext-helsinki.com *7 December 2016*
-* http://dotnext-moscow.ru/en/ *9 December 2016*
-* http://dotnext-piter.ru/en/
+* http://dotnext-helsinki.com *7 декабря 2016*
+* http://dotnext-moscow.ru/en/ *9 декабря 2016*
+* http://dotnext-piter.ru/en/ *19-20 мая 2017*
 
 == Темы
 
