@@ -6,8 +6,8 @@
     <atom:link href="http://razbor-poletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2016-12-01T14:52:07+00:00</pubDate>
-    <lastBuildDate>2016-12-01T14:52:07+00:00</lastBuildDate>
+    <pubDate>2016-12-01T15:34:35+00:00</pubDate>
+    <lastBuildDate>2016-12-01T15:34:35+00:00</lastBuildDate>
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razbor-poletov.com/logoB.jpg" />
@@ -38,16 +38,19 @@
 <div class="ulist">
 <ul>
 <li>
-<p><a href="https://twitter.com/goldshtn">@goldshtn</a> Sasha Goldshtein</p>
+<p><a href="https://twitter.com/goldshtn">@goldshtn</a> Саша Голдштейн</p>
 </li>
 <li>
-<p><a href="https://twitter.com/shipilev">@shipilev</a> Alexey Shipilev</p>
+<p><a href="https://twitter.com/shipilev">@shipilev</a> Алексей Шипилёв</p>
 </li>
 <li>
-<p><a href="https://twitter.com/23derevo">@23derevo</a> Alexey Fyodorov</p>
+<p><a href="https://twitter.com/23derevo">@23derevo</a> Алексей Фёдоров</p>
 </li>
 <li>
-<p><a href="https://twitter.com/andrey_akinshin">@andrey_akinshin</a> Andrey Akinshin</p>
+<p><a href="https://twitter.com/andrey_akinshin">@andrey_akinshin</a> Андрей Акиншин</p>
+</li>
+<li>
+<p><a href="https://twitter.com/JohnWings">@JohnWings</a> Иван Крылов</p>
 </li>
 </ul>
 </div>
@@ -237,16 +240,19 @@
 
 
 
-@goldshtn Sasha Goldshtein
+@goldshtn Саша Голдштейн
 
 
-@shipilev Alexey Shipilev
+@shipilev Алексей Шипилёв
 
 
-@23derevo Alexey Fyodorov
+@23derevo Алексей Фёдоров
 
 
-@andrey_akinshin Andrey Akinshin
+@andrey_akinshin Андрей Акиншин
+
+
+@JohnWings Иван Крылов
 
 
 
