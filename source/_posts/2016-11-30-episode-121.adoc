@@ -15,10 +15,11 @@ categories:
 
 == Гости
 
-* https://twitter.com/goldshtn[@goldshtn] Sasha Goldshtein
-* https://twitter.com/shipilev[@shipilev] Alexey Shipilev
-* https://twitter.com/23derevo[@23derevo] Alexey Fyodorov
-* https://twitter.com/andrey_akinshin[@andrey_akinshin] Andrey Akinshin
+* https://twitter.com/goldshtn[@goldshtn] Саша Голдштейн
+* https://twitter.com/shipilev[@shipilev] Алексей Шипилёв
+* https://twitter.com/23derevo[@23derevo] Алексей Фёдоров
+* https://twitter.com/andrey_akinshin[@andrey_akinshin] Андрей Акиншин
+* https://twitter.com/JohnWings[@JohnWings] Иван Крылов
 
 == Правильные .NET конференции
 
