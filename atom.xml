@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2016-12-01T15:34:35+00:00</updated>
+  <updated>2016-12-05T09:07:48+00:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov]]></name>
@@ -40,7 +40,7 @@
 <p><a href="https://twitter.com/23derevo">@23derevo</a> Алексей Фёдоров</p>
 </li>
 <li>
-<p><a href="https://twitter.com/andrey_akinshin">@andrey_akinshin</a> Андрей Акиншин</p>
+<p><a href="https://twitter.com/andrey_akinshin">@andrey_akinshin</a> Андрей Акиньшин</p>
 </li>
 <li>
 <p><a href="https://twitter.com/JohnWings">@JohnWings</a> Иван Крылов</p>
@@ -133,7 +133,7 @@
 <p>RxJava vs RxNet – победитель RxJava. О там как устроено в RxJava читать <a href="http://akarnokd.blogspot.ru">тут</a></p>
 </li>
 <li>
-<p>Андрей Акиншин немного о Rider IDE</p>
+<p>Андрей Акиньшин немного о Rider IDE</p>
 </li>
 <li>
 <p>Тормозит ли Mono?</p>

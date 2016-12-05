@@ -6,8 +6,8 @@
     <atom:link href="http://razbor-poletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2016-12-01T15:34:35+00:00</pubDate>
-    <lastBuildDate>2016-12-01T15:34:35+00:00</lastBuildDate>
+    <pubDate>2016-12-05T09:07:48+00:00</pubDate>
+    <lastBuildDate>2016-12-05T09:07:48+00:00</lastBuildDate>
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razbor-poletov.com/logoB.jpg" />
@@ -47,7 +47,7 @@
 <p><a href="https://twitter.com/23derevo">@23derevo</a> Алексей Фёдоров</p>
 </li>
 <li>
-<p><a href="https://twitter.com/andrey_akinshin">@andrey_akinshin</a> Андрей Акиншин</p>
+<p><a href="https://twitter.com/andrey_akinshin">@andrey_akinshin</a> Андрей Акиньшин</p>
 </li>
 <li>
 <p><a href="https://twitter.com/JohnWings">@JohnWings</a> Иван Крылов</p>
@@ -140,7 +140,7 @@
 <p>RxJava vs RxNet – победитель RxJava. О там как устроено в RxJava читать <a href="http://akarnokd.blogspot.ru">тут</a></p>
 </li>
 <li>
-<p>Андрей Акиншин немного о Rider IDE</p>
+<p>Андрей Акиньшин немного о Rider IDE</p>
 </li>
 <li>
 <p>Тормозит ли Mono?</p>
@@ -249,7 +249,7 @@
 @23derevo Алексей Фёдоров
 
 
-@andrey_akinshin Андрей Акиншин
+@andrey_akinshin Андрей Акиньшин
 
 
 @JohnWings Иван Крылов
@@ -342,7 +342,7 @@ MS идет в сторону активного использования Linu
 RxJava vs RxNet – победитель RxJava. О там как устроено в RxJava читать тут
 
 
-Андрей Акиншин немного о Rider IDE
+Андрей Акиньшин немного о Rider IDE
 
 
 Тормозит ли Mono?
