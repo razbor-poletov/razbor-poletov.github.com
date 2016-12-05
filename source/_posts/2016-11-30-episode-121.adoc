@@ -18,7 +18,7 @@ categories:
 * https://twitter.com/goldshtn[@goldshtn] Саша Голдштейн
 * https://twitter.com/shipilev[@shipilev] Алексей Шипилёв
 * https://twitter.com/23derevo[@23derevo] Алексей Фёдоров
-* https://twitter.com/andrey_akinshin[@andrey_akinshin] Андрей Акиншин
+* https://twitter.com/andrey_akinshin[@andrey_akinshin] Андрей Акиньшин
 * https://twitter.com/JohnWings[@JohnWings] Иван Крылов
 
 == Правильные .NET конференции
@@ -49,7 +49,7 @@ categories:
 . Зачем идти в кроссплатформенность .NET? Почему MS не топит за винду?
 . MS идет в сторону активного использования Linux. https://twitter.com/dev_console/status/799097696959287296/photo/1[SQL Server для Linux]
 . RxJava vs RxNet – победитель RxJava. О там как устроено в RxJava читать http://akarnokd.blogspot.ru[тут]
-. Андрей Акиншин немного о Rider IDE
+. Андрей Акиньшин немного о Rider IDE
 . Тормозит ли Mono?
 
 == Полезняшки
