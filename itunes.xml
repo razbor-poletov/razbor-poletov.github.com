@@ -6,8 +6,8 @@
     <atom:link href="http://razbor-poletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2016-12-05T09:07:48+00:00</pubDate>
-    <lastBuildDate>2016-12-05T09:07:48+00:00</lastBuildDate>
+    <pubDate>2016-12-06T23:19:29+00:00</pubDate>
+    <lastBuildDate>2016-12-06T23:19:29+00:00</lastBuildDate>
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razbor-poletov.com/logoB.jpg" />
@@ -728,7 +728,7 @@ twitter:
 <div class="olist arabic">
 <ol class="arabic">
 <li>
-<p>JUG с Иваном Крыловым в Москве 15 декабря в офисе КРОКа. Регистрации ждать тут <a href="https://jugmsk.timepad.ru/events/" class="bare">https://jugmsk.timepad.ru/events/</a></p>
+<p>JUG с Иваном Крыловым в Москве 15 декабря в офисе КРОКа. Регистрации ждать тут <a href="https://jugmsk.timepad.ru/event/416359/" class="bare">https://jugmsk.timepad.ru/event/416359/</a></p>
 </li>
 <li>
 <p><a href="https://www.meetup.com/Moscow-Jenkins-Meetup">Moscow Jenkins Meetup</a></p>
@@ -908,7 +908,7 @@ Two Devs One Ops — новый подкаст про DevOps от @bsideup и @t
 
 
 
-JUG с Иваном Крыловым в Москве 15 декабря в офисе КРОКа. Регистрации ждать тут https://jugmsk.timepad.ru/events/
+JUG с Иваном Крыловым в Москве 15 декабря в офисе КРОКа. Регистрации ждать тут https://jugmsk.timepad.ru/event/416359/
 
 
 Moscow Jenkins Meetup
