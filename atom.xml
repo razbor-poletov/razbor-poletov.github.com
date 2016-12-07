@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2016-12-06T23:27:25+00:00</updated>
+  <updated>2016-12-07T03:59:52+00:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov]]></name>
@@ -12,6 +12,59 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 122 — Нетрадиционный Евангелизм]]></title>
+    <link href="http://razbor-poletov.com/2016/12/episode-122.html"/>
+    <updated>2016-12-06T00:00:00+00:00</updated>
+    <id>http://razbor-poletov.com/2016/12/episode-122</id>
+    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_122_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_122_text.jpg" width="350" /></a>
+</div>
+<div class="paragraph">
+<p><a href="https://twitter.com/gamussa">@gamussa</a> и <a href="https://twitter.com/jbaruch">@jbaruch</a> ведут допрос с пристрастием <a href="https://twitter.com/23derevo">@23derevo</a> на предмет технического евангелизма.</p>
+</div>
+<hr>
+<div class="paragraph">
+<p>Наши контакты:</p>
+</div>
+<div class="paragraph">
+<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
+</div>
+<div class="paragraph">
+<p><a href="http://razbor-poletov.com/broadcast.html">Информация о вещании</a></p>
+</div>
+<div class="paragraph">
+<p>Гости и участники:</p>
+</div>
+<div class="paragraph">
+<p>twitter:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/jbaruch">@jbaruch</a></p>
+</li>
+</ul>
+</div>
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_122.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+<div class="paragraph">
+<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
+</div>
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_122.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+<div class="paragraph">
+<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
+</div>]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 121 — JVM vs CLR: Чужой не против Хищника!]]></title>
@@ -6981,93 +7034,6 @@ jug.msk.ru <a href="http://habrahabr.ru/post/272009/" class="bare">http://habrah
 
 
 <p><a href="http://traffic.libsyn.com/razborpoletov/razbor_73.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
-
-<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 72 — Банда снова в деле!]]></title>
-    <link href="http://razbor-poletov.com/2014/11/episode-72.html"/>
-    <updated>2014-11-10T13:47:00+00:00</updated>
-    <id>http://razbor-poletov.com/2014/11/episode-72</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="http://razbor-poletov.com/images/razbor_72_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_72_text.jpg" width="350" /></a>
-</div>
-
-
-<ul>
-<li><a href="http://jugmsk.timepad.ru/event/158310/">Носороги на воле и они будут в Москве!!!</a></li>
-<li>Новое приложение «Разбор Полетов»</li>
-<li><a href="http://yandex.ru/yac2014/">Yac</a></li>
-<li><a href="http://www.highload.ru">Highload++</a>
-
-<ul>
-<li><a href="http://www.silkjs.net">SilkJS</a></li>
-<li><a href="https://www.netflix.com/openconnect">Netflix OpenConnect</a></li>
-</ul>
-</li>
-<li><a href="http://blog.jetbrains.com/idea/2014/11/intellij-idea-14-is-released/">IntelliJ IDEA 14</a>. <a href="https://www.jetbrains.com/idea/whatsnew/">Что нового?</a></li>
-<li><a href="http://zeroturnaround.com/blog/jrebel-6-released/">JRebel 6 :)</a></li>
-<li><a href="https://cloud.google.com/container-engine/">Google Container Engine</a></li>
-<li><p><a href="https://cloud.google.com/tools/cloud-debugger">Google Cloud Debugger</a></p></li>
-<li><p>Полезняшки</p>
-
-<ul>
-<li><a href="http://githut.info/">GitHut</a></li>
-<li><a href="https://github.com/tripit/slate">Slate</a></li>
-<li><a href="http://coolors.co/">Coolors</a></li>
-<li><a href="http://brackets.io/">Brackets 1.0</a></li>
-</ul>
-</li>
-<li><a href="http://javatalks.ru/topics/44084">Интерфейсы за и против</a></li>
-</ul>
-
-
-<hr />
-
-<ul>
-<li><a href="https://play.google.com/store/apps/details?id=com.shonenfactory.razborpoletov">Приложение «Разбор Полетов» для Android</a>. <a href="https://github.com/rsi2m/RazborPoletov">Гитхаб</a> для пулл-реквестов</li>
-<li>Еще одно (!) <a href="https://play.google.com/store/apps/details?id=aga.android.razbor">приложение «Разбор Полетов для Android»</a></li>
-</ul>
-
-
-<hr />
-
-<p>Наши контакты:</p>
-
-<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
-
-<p><a href="http://razbor-poletov.com/broadcast.html">Информация о вещании</a></p>
-
-<p>Темы для следующего выпуска - <a href="https://github.com/razbor-poletov/razbor-poletov.github.com/issues?state=open">https://github.com/razbor-poletov/</a></p>
-
-<p>Гости и участники:</p>
-
-<p>twitter:</p>
-
-<ul>
-<li><a href="https://twitter.com/#!/a_abashev">@a_abashev</a></li>
-<li><a href="https://twitter.com/#!/antonarhipov">@antonarhipov</a></li>
-<li><a href="https://twitter.com/#!/gamussa">@gamussa</a></li>
-<li><a href="https://twitter.com/#!/dzmitryc">@dzmitryc </a></li>
-</ul>
-
-
-<!-- player goes here-->
-
-
-<p><audio preload="none">
-   <source src="http://traffic.libsyn.com/razborpoletov/razbor_72.mp3" type="audio/mp3" />
-   Your browser does not support the audio tag.
-</audio></p>
-
-<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
-
-<!-- episode file link goes here-->
-
-
-<p><a href="http://traffic.libsyn.com/razborpoletov/razbor_72.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
 
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
 ]]></content>
