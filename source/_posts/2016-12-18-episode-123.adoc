@@ -1,0 +1,80 @@
+---
+comments: true
+categories: 
+---
+= Episode 123 — Scala снова с нами
+2016-12-18 08:22
+:layout: post
+:filename: razbor_123
+
+++++
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_123_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_123_text.jpg" width="350" /></a>
+</div>
+++++
+
+== Гости
+
+* https://twitter.com/hmemcpy[@hmemcpy] Igal Tabachnik
+* https://twitter.com/yelbota[@yelbota] Aleksey Fomkin
+
+== Мероприятия
+
+* https://www.meetup.com/Scala-Moscow[Scala Meetup]
+
+== Темы
+
+* Не  TIOBE единым:
+** http://pypl.github.io/PYPL.html (источник Google Trends),
+   У Scala 15 место между перлом и VB
+** (источник Github и StackOverflow), http://redmonk.com/sogrady/2016/07/20/language-rankings-6-16[Scala 14 место между Go и Perl] тогда как груви там делит 20 место с Сlojure
+** У http://pypl.github.io/PYPL.html[Scala 15 место между перлом и VB] (Google Trends)
+* Scala лестница к Haskell
+* Как функциональная парадигма помогает вам лучше работать? И помогает ли!
+
+- https://www.youtube.com/watch?v=U0lK0hnbc4U[Free monad is not free] 
+- https://www.infoq.com/presentations/io-functional-side-effects[Purely Functional I/O] 
+- https://www.ohaskell.guide/[О Haskell по-человечески]
+
+http://www.eff-lang.org/ - Effects are first-class citizens
+
+== Полезняшки
+
+* Scala podcast http://scalalaz.ru[scalalaz]
+* https://www.youtube.com/watch?v=__PLkxx6Yko[Scala performance для сомневающихся]
+
+'''
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com[http://razbor-poletov.com]
+
+http://razbor-poletov.com/broadcast.html[Информация о вещании]
+
+Гости и участники:
+
+twitter:
+
+  * https://twitter.com/antonarhipov[@antonarhipov]
+  * https://twitter.com/gamussa[@gamussa]
+  * https://twitter.com/jbaruch[@jbaruch]
+  * https://twitter.com/shipilev[@shipilev]
+  * https://twitter.com/tolkv[@tolkv]
+
+++++
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_123.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+++++
+
+Подписаться по http://feeds.feedburner.com/razbor-podcast[RSS]
+
+++++
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_123.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+++++
+
+Музыка ведущим http://www.audiobank.fm/single-music/27/111/More-And-Less/[предоставлена] и ладно...
