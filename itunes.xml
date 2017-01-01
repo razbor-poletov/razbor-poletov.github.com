@@ -6,8 +6,8 @@
     <atom:link href="http://razbor-poletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2016-12-30T00:10:55+00:00</pubDate>
-    <lastBuildDate>2016-12-30T00:10:55+00:00</lastBuildDate>
+    <pubDate>2017-01-01T03:00:40+00:00</pubDate>
+    <lastBuildDate>2017-01-01T03:00:40+00:00</lastBuildDate>
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razbor-poletov.com/logoB.jpg" />
@@ -19,6 +19,247 @@
     </itunes:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:thumbnail url="http://razbor-poletov.com/logoB.jpg" />
+    
+    <item>
+      <title>Episode 124 — Растаманские народные сказки</title>
+      <link>http://razbor-poletov.com/2016/12/episode-124.html</link>
+      <pubDate>2016-12-31T00:00:00+00:00</pubDate>
+      <guid isPermalink="true">http://razbor-poletov.com/2016/12/episode-124</guid>
+      <description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_124_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_124_text.jpg" width="350" /></a>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Гости">Гости</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://twitter.com/splix">@splix</a> / <a href="http://twitter.com/iartamonov">@iartamonov</a> Igor Artamonov</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Блокчейн и Биткоин</p>
+</li>
+<li>
+<p>Проблема централизации и центральных майнеров. Проблема 51´го %</p>
+</li>
+<li>
+<p>“Альтернативные” блокчейны. <a href="https://www.linkedin.com/pulse/rust-js-developers-ethereum-classic-igor-artamonov?trk=prof-post">Ethereum</a> и смарт контракты</p>
+</li>
+<li>
+<p>Чем пахнет Rust</p>
+</li>
+<li>
+<p><a href="https://vimeo.com/170745386">Concurrency in Rust (GeekOut video)</a></p>
+</li>
+<li>
+<p><a href="https://bitnovosti.com/2015/09/29/bitcoin-explained-to-kid/">Биткоин для самых маленьких</a></p>
+</li>
+<li>
+<p><a href="https://geektimes.ru/company/hashflare/blog/283882/">Стоимость биткоина</a></p>
+</li>
+<li>
+<p><a href="http://words.steveklabnik.com/rust-is-more-than-safety">Rust is more than safety</a></p>
+</li>
+<li>
+<p><a href="https://vimeo.com/170745386">Concurrency in Rust (GeekOut video)</a></p>
+</li>
+<li>
+<p><a href="https://intellij-rust.github.io/">Rust for IntelliJ IDEA</a></p>
+</li>
+<li>
+<p>Как “спасти” Rust комьюнити</p>
+</li>
+<li>
+<p>DevRel – Developer Ralationships</p>
+</li>
+</ul>
+</div>
+<hr>
+<div class="paragraph">
+<p>Наши контакты:</p>
+</div>
+<div class="paragraph">
+<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
+</div>
+<div class="paragraph">
+<p><a href="http://razbor-poletov.com/broadcast.html">Информация о вещании</a></p>
+</div>
+<div class="paragraph">
+<p>Гости и участники:</p>
+</div>
+<div class="paragraph">
+<p>twitter:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://twitter.com/a_abashev">@a_abashev</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/antonarhipov">@antonarhipov</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/dzmitryc">@dzmitryc</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/jbaruch">@jbaruch</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/tolkv">@tolkv</a></p>
+</li>
+</ul>
+</div>
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_124.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+<div class="paragraph">
+<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
+</div>
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_124.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+<div class="paragraph">
+<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
+</div>
+</div>
+</div>]]></description>
+      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[
+
+
+
+
+
+
+
+Гости
+
+
+
+
+@splix / @iartamonov Igor Artamonov
+
+
+
+
+
+
+Темы
+
+
+
+
+Блокчейн и Биткоин
+
+
+Проблема централизации и центральных майнеров. Проблема 51´го %
+
+
+“Альтернативные” блокчейны. Ethereum и смарт контракты
+
+
+Чем пахнет Rust
+
+
+Concurrency in Rust (GeekOut video)
+
+
+Биткоин для самых маленьких
+
+
+Стоимость биткоина
+
+
+Rust is more than safety
+
+
+Concurrency in Rust (GeekOut video)
+
+
+Rust for IntelliJ IDEA
+
+
+Как “спасти” Rust комьюнити
+
+
+DevRel – Developer Ralationships
+
+
+
+
+
+Наши контакты:
+
+
+Официальный сайт — http://razbor-poletov.com
+
+
+Информация о вещании
+
+
+Гости и участники:
+
+
+twitter:
+
+
+
+
+@a_abashev
+
+
+@antonarhipov
+
+
+@dzmitryc
+
+
+@gamussa
+
+
+@jbaruch
+
+
+@tolkv
+
+
+
+
+
+
+   
+   Your browser does not support the audio tag.
+
+
+Подписаться по RSS
+
+
+
+
+Музыка ведущим предоставлена и ладно&#8230;&#8203;
+
+
+]]></itunes:summary>
+    </item>
     
     <item>
       <title>Episode 123 — Scala снова с нами</title>
@@ -13764,157 +14005,6 @@ twitter:
 
 @antonarhipov
 @dzmitryc 
-@gamussa
-
-
-
-
-
-
-
-   
-   Your browser does not support the audio tag.
-
-
-Подписаться по RSS
-
-
-
-
-
-
-Музыка ведущим предоставлена и ладно&#8230;
-]]></itunes:summary>
-    </item>
-    
-    <item>
-      <title>Episode 74 — Ретроспективы и прогнозы</title>
-      <link>http://razbor-poletov.com/2014/12/episode-74.html</link>
-      <pubDate>2014-12-28T15:47:00+00:00</pubDate>
-      <guid isPermalink="true">http://razbor-poletov.com/2014/12/episode-74</guid>
-      <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="http://razbor-poletov.com/images/razbor_74_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_74_text.jpg" width="350" /></a>
-</div>
-
-
-<p><strong>2014</strong></p>
-
-<ul>
-<li><a href="http://next.javaheadbrain.com/posts/2014/12/13/goodbye-farata-hello-hazelcast.html">Превед, Hazelcast!</a></li>
-<li><a href="http://www.javaadvent.com/2014/12/the-java-ecosystem-my-top-5-highlights.html">Martijn Verburg: Top 5 Java ecosystem highlights in 2014</a></li>
-<li><a href="http://jaxenter.com/best-programming-language-2014-113110.html">Лучший ЯП в 2014</a></li>
-<li><a href="http://www.marcobehler.com/2014/12/27/marco-behlers-2014-ultimate-java-developer-library-tool-people-list/">The ultimate Java tools/libs/ppl list v2014</a></li>
-</ul>
-
-
-<p><strong>Полезняшки:</strong></p>
-
-<ul>
-<li><a href="https://luckymarmot.com/paw">Офигенный REST client</a> - <a href="https://www.youtube.com/watch?v=zbeMDM-zDNI">видео</a></li>
-<li><a href="http://gogs.io/">Self-hosted Git service, written in Go, comes as a Docker image</a></li>
-<li><a href="http://beyondgrep.com/">Прикольная грепалка</a></li>
-<li><a href="https://code.google.com/p/psi-probe/">Мониторилка</a></li>
-</ul>
-
-
-<p><strong>2015</strong></p>
-
-<ul>
-<li><a href="http://www.businessinsider.com/enterprise-tech-predictions-for-2015-by-vcs-2014-12?op=1">А что дядьки с деньгами думают от технологиях в перспективе 2015 года?</a></li>
-<li><a href="http://www.thoughtworks.com/radar">ThoughtWorks Radar</a></li>
-</ul>
-
-
-<hr />
-
-<p>Наши контакты:</p>
-
-<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
-
-<p><a href="http://razbor-poletov.com/broadcast.html">Информация о вещании</a></p>
-
-<p>Темы для следующего выпуска - <a href="https://github.com/razbor-poletov/razbor-poletov.github.com/issues?state=open">https://github.com/razbor-poletov/</a></p>
-
-<p>Гости и участники:</p>
-
-<p>twitter:</p>
-
-<ul>
-<li><a href="https://twitter.com/#!/a_abashev">@a_abashev</a></li>
-<li><a href="https://twitter.com/#!/antonarhipov">@antonarhipov</a></li>
-<li><a href="https://twitter.com/#!/gamussa">@gamussa</a></li>
-</ul>
-
-
-<!-- player goes here-->
-
-
-<p><audio preload="none">
-   <source src="http://traffic.libsyn.com/razborpoletov/razbor_74.mp3" type="audio/mp3" />
-   Your browser does not support the audio tag.
-</audio></p>
-
-<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
-
-<!-- episode file link goes here-->
-
-
-<p><a href="http://traffic.libsyn.com/razborpoletov/razbor_74.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
-
-<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
-]]></description>
-      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
-      <itunes:summary><![CDATA[
-
-
-
-
-2014
-
-
-Превед, Hazelcast!
-Martijn Verburg: Top 5 Java ecosystem highlights in 2014
-Лучший ЯП в 2014
-The ultimate Java tools/libs/ppl list v2014
-
-
-
-Полезняшки:
-
-
-Офигенный REST client - видео
-Self-hosted Git service, written in Go, comes as a Docker image
-Прикольная грепалка
-Мониторилка
-
-
-
-2015
-
-
-А что дядьки с деньгами думают от технологиях в перспективе 2015 года?
-ThoughtWorks Radar
-
-
-
-
-
-Наши контакты:
-
-Официальный сайт — http://razbor-poletov.com
-
-Информация о вещании
-
-Темы для следующего выпуска - https://github.com/razbor-poletov/
-
-Гости и участники:
-
-twitter:
-
-
-@a_abashev
-@antonarhipov
 @gamussa
 
 
