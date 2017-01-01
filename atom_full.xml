@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2017-01-01T03:00:40+00:00</updated>
+  <updated>2017-01-01T21:31:58+00:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov]]></name>
@@ -65,9 +65,6 @@
 </li>
 <li>
 <p><a href="http://words.steveklabnik.com/rust-is-more-than-safety">Rust is more than safety</a></p>
-</li>
-<li>
-<p><a href="https://vimeo.com/170745386">Concurrency in Rust (GeekOut video)</a></p>
 </li>
 <li>
 <p><a href="https://intellij-rust.github.io/">Rust for IntelliJ IDEA</a></p>

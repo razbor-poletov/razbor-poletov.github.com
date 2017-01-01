@@ -6,8 +6,8 @@
     <atom:link href="http://razbor-poletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2017-01-01T03:00:40+00:00</pubDate>
-    <lastBuildDate>2017-01-01T03:00:40+00:00</lastBuildDate>
+    <pubDate>2017-01-01T21:31:58+00:00</pubDate>
+    <lastBuildDate>2017-01-01T21:31:58+00:00</lastBuildDate>
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razbor-poletov.com/logoB.jpg" />
@@ -72,9 +72,6 @@
 </li>
 <li>
 <p><a href="http://words.steveklabnik.com/rust-is-more-than-safety">Rust is more than safety</a></p>
-</li>
-<li>
-<p><a href="https://vimeo.com/170745386">Concurrency in Rust (GeekOut video)</a></p>
 </li>
 <li>
 <p><a href="https://intellij-rust.github.io/">Rust for IntelliJ IDEA</a></p>
@@ -190,9 +187,6 @@ Concurrency in Rust (GeekOut video)
 
 
 Rust is more than safety
-
-
-Concurrency in Rust (GeekOut video)
 
 
 Rust for IntelliJ IDEA
