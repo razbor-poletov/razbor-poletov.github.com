@@ -27,7 +27,6 @@ categories:
 * https://bitnovosti.com/2015/09/29/bitcoin-explained-to-kid/[Биткоин для самых маленьких]
 * https://geektimes.ru/company/hashflare/blog/283882/[Стоимость биткоина]
 * http://words.steveklabnik.com/rust-is-more-than-safety[Rust is more than safety]
-* https://vimeo.com/170745386[Concurrency in Rust (GeekOut video)]
 * https://intellij-rust.github.io/[Rust for IntelliJ IDEA]
 * Как “спасти” Rust комьюнити
 * DevRel – Developer Ralationships
