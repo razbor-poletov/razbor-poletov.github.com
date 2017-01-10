@@ -6,8 +6,8 @@
     <atom:link href="http://razbor-poletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2017-01-01T21:31:58+00:00</pubDate>
-    <lastBuildDate>2017-01-01T21:31:58+00:00</lastBuildDate>
+    <pubDate>2017-01-10T13:20:10+00:00</pubDate>
+    <lastBuildDate>2017-01-10T13:20:10+00:00</lastBuildDate>
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razbor-poletov.com/logoB.jpg" />
@@ -80,7 +80,7 @@
 <p>Как “спасти” Rust комьюнити</p>
 </li>
 <li>
-<p>DevRel – Developer Ralationships</p>
+<p>DevRel – Developer Relationships</p>
 </li>
 </ul>
 </div>
@@ -195,7 +195,7 @@ Rust for IntelliJ IDEA
 Как “спасти” Rust комьюнити
 
 
-DevRel – Developer Ralationships
+DevRel – Developer Relationships
 
 
 
