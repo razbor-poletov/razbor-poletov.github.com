@@ -29,7 +29,7 @@ categories:
 * http://words.steveklabnik.com/rust-is-more-than-safety[Rust is more than safety]
 * https://intellij-rust.github.io/[Rust for IntelliJ IDEA]
 * Как “спасти” Rust комьюнити
-* DevRel – Developer Ralationships
+* DevRel – Developer Relationships
 
 
 '''
