@@ -39,6 +39,7 @@ categories:
 * https://marketplace.visualstudio.com/items?itemName=redhat.java[Java для VS Code]
 * http://langserver.org[Language server]
 * https://habrahabr.ru/post/319774[IDEA пора закапывать]
+* https://medium.com/@andrerpena/is-jetbrains-going-to-remain-relevant-in-the-next-10-years-dc5717a221d5#.1j1ieusrr[Is Jetbrains going to remain relevant in the next 10 years?]
 * https://blog.jetbrains.com/go/2016/12/15/announcing-gogland-brand-new-go-ide-from-jetbrains[Gogland] - IDE для JetBrains
 * Ещё одно IDE в облаке - http://www.koding.com[Koding]
 
