@@ -1,0 +1,84 @@
+---
+comments: true
+categories: 
+---
+= Episode 125 — Apache Groovy, baby, yeah!
+2017-01-22 09:14
+:layout: post
+:filename: razbor_
+
+++++
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_125_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_125_text.jpg" width="350" /></a>
+</div>
+++++
+
+== Гости
+
+* Сергей Егоров https://twitter.com/bsideup[@bsideup]
+* Тагир Валеев https://twitter.com/tagir_valeev[@tagir_valeev]
+
+== Темы
+
+* Сага “Сергей и Apache Groovy”
+** Groovy Macro “С Сереги ссылка на пример который он всем рассказывает про логгер”
+** Чо там как в Apache? Groovy еще как жив!
+** Groovy 3.0 и планы на будущее
+*** http://groovy-lang.org/objectorientation.html#_meta_annotations[Meta of meta]
+*** Поддержка синтаксиса лямбд из Java 8
+** Groovy, Jenkins и выкидышь CpsScript
+* Сага “Тагир и Биткоин”
+** Что он с ним делал?
+** Что такое биткоин и зачем его сделали. Причем тут блокчейн то..
+*** Устройство транзакции
+*** Что нам показывает https://blockchain.info/
+*** Чем подкреплен Биткоин
+*** Что там с инфляцией
+*** Зачем биржы и релеи? Что такое Transaction relay и как все устроено?
+* http://www.eclipse.org/che[Eclipse Che]
+* https://marketplace.visualstudio.com/items?itemName=redhat.java[Java для VS Code]
+* http://langserver.org[Language server]
+* https://habrahabr.ru/post/319774[IDEA пора закапывать]
+* https://blog.jetbrains.com/go/2016/12/15/announcing-gogland-brand-new-go-ide-from-jetbrains[Gogland] - IDE для JetBrains
+* Ещё одно IDE в облаке - http://www.koding.com[Koding]
+
+== Полезняшки
+
+* https://www.expeditedssl.com/azure-in-plain-english
+* https://www.expeditedssl.com/aws-in-plain-english
+* https://github.com/bsideup/gradle-maven-sync-plugin
+
+'''
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com[http://razbor-poletov.com]
+
+http://razbor-poletov.com/broadcast.html[Информация о вещании]
+
+Гости и участники:
+
+twitter:
+
+  * https://twitter.com/antonarhipov[@antonarhipov]
+  * https://twitter.com/gamussa[@gamussa]
+  * https://twitter.com/jbaruch[@jbaruch]
+  * https://twitter.com/tolkv[@tolkv]
+
+++++
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_125.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+++++
+
+Подписаться по http://feeds.feedburner.com/razbor-podcast[RSS]
+
+++++
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_125.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+++++
+
+Музыка ведущим http://www.audiobank.fm/single-music/27/111/More-And-Less/[предоставлена] и ладно...
