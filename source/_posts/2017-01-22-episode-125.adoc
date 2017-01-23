@@ -21,7 +21,9 @@ categories:
 == Темы
 
 * Сага “Сергей и Apache Groovy”
-** Groovy Macro “С Сереги ссылка на пример который он всем рассказывает про логгер”
+** http://github.com/bsideup/groovy-macro-methods-proposal[Groovy Macro methods]
+*** https://github.com/bsideup/groovy-pattern-match/blob/master/src/test/groovy/ru/trylogic/groovy/pattern/PatternMatchingMacroMethodsTest.groovy[пример Pattern matching-а на макро методах]
+*** https://github.com/touchez-du-bois/akatsuki/blob/master/src/test/groovy/org/jggug/magica/akatsuki/DoWithDataMacroTest.groovy[Таблицы на макро методах "как в Spock"]
 ** Чо там как в Apache? Groovy еще как жив!
 ** Groovy 3.0 и планы на будущее
 *** http://groovy-lang.org/objectorientation.html#_meta_annotations[Meta of meta]
