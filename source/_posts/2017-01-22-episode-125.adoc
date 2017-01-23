@@ -26,10 +26,10 @@ categories:
 ** Groovy 3.0 и планы на будущее
 *** http://groovy-lang.org/objectorientation.html#_meta_annotations[Meta of meta]
 *** Поддержка синтаксиса лямбд из Java 8
-** Groovy, Jenkins и выкидышь CpsScript
+** Groovy, Jenkins и выкидыш CpsScript
 * Сага “Тагир и Биткоин”
 ** Что он с ним делал?
-** Что такое биткоин и зачем его сделали. Причем тут блокчейн то..
+** Что такое биткоин и зачем его сделали. Причем тут блокчейн-то...
 *** Устройство транзакции
 *** Что нам показывает https://blockchain.info/
 *** Чем подкреплен Биткоин
