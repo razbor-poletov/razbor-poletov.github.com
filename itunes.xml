@@ -6,8 +6,8 @@
     <atom:link href="http://razbor-poletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2017-01-22T20:01:25+00:00</pubDate>
-    <lastBuildDate>2017-01-22T20:01:25+00:00</lastBuildDate>
+    <pubDate>2017-01-23T08:09:17+00:00</pubDate>
+    <lastBuildDate>2017-01-23T08:09:17+00:00</lastBuildDate>
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razbor-poletov.com/logoB.jpg" />
@@ -76,7 +76,7 @@
 </div>
 </li>
 <li>
-<p>Groovy, Jenkins и выкидышь CpsScript</p>
+<p>Groovy, Jenkins и выкидыш CpsScript</p>
 </li>
 </ul>
 </div>
@@ -89,7 +89,7 @@
 <p>Что он с ним делал?</p>
 </li>
 <li>
-<p>Что такое биткоин и зачем его сделали. Причем тут блокчейн то..</p>
+<p>Что такое биткоин и зачем его сделали. Причем тут блокчейн-то&#8230;&#8203;</p>
 <div class="ulist">
 <ul>
 <li>
@@ -255,7 +255,7 @@ Meta of meta
 
 
 
-Groovy, Jenkins и выкидышь CpsScript
+Groovy, Jenkins и выкидыш CpsScript
 
 
 
@@ -268,7 +268,7 @@ Groovy, Jenkins и выкидышь CpsScript
 Что он с ним делал?
 
 
-Что такое биткоин и зачем его сделали. Причем тут блокчейн то..
+Что такое биткоин и зачем его сделали. Причем тут блокчейн-то&#8230;&#8203;
 
 
 
