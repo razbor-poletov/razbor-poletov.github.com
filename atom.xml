@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2017-01-23T08:09:17+00:00</updated>
+  <updated>2017-01-24T05:58:38+00:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov]]></name>
@@ -50,7 +50,17 @@
 <div class="ulist">
 <ul>
 <li>
-<p>Groovy Macro “С Сереги ссылка на пример который он всем рассказывает про логгер”</p>
+<p><a href="http://github.com/bsideup/groovy-macro-methods-proposal">Groovy Macro methods</a></p>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://github.com/bsideup/groovy-pattern-match/blob/master/src/test/groovy/ru/trylogic/groovy/pattern/PatternMatchingMacroMethodsTest.groovy">пример Pattern matching-а на макро методах</a></p>
+</li>
+<li>
+<p><a href="https://github.com/touchez-du-bois/akatsuki/blob/master/src/test/groovy/org/jggug/magica/akatsuki/DoWithDataMacroTest.groovy">Таблицы на макро методах &#8220;как в Spock&#8221;</a></p>
+</li>
+</ul>
+</div>
 </li>
 <li>
 <p>Чо там как в Apache? Groovy еще как жив!</p>
@@ -69,7 +79,7 @@
 </div>
 </li>
 <li>
-<p>Groovy, Jenkins и выкидыш CpsScript</p>
+<p>Groovy, Jenkins и выкидыш <a href="https://github.com/cloudbees/groovy-cps">CPS</a></p>
 </li>
 </ul>
 </div>
