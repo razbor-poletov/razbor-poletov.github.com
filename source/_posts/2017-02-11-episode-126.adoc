@@ -21,16 +21,19 @@ categories:
 
 == **Мероприятия**
 
-* https://jpoint.ru[JPoint] 8-9 апреля
-* https://2017.jbreak.ru[JBreak] 4 апреля
-* https://swampup.jfrog.com[Swampup] 24-26 мая
+* https://www.devnexus.com/s/index[DevNexus] 22-24 февраля
 * http://devoxx.us[Devoxx US] 21-23 марта
+* https://2017.jbreak.ru[JBreak] 4 апреля
+* https://jpoint.ru[JPoint] 8-9 апреля
+* https://rigadevdays.lv[Riga Dev Days] 15-17 мая
+* https://2017.geecon.org/[GeeCON] 17-19 мая
+* https://swampup.jfrog.com[Swampup] 24-26 мая
 * https://2017.geekout.ee[GeekOut] 8-9 июня
-* https://rigadevdays.lv[Riga Dev Days ]15-17 мая
+
 
 == Темы
 
-* https://www.jfrog.com/confluence/display/RTF/Release+Notes#ReleaseNotes-Artifactory5.0[Artifactory 5]
+* https://www.jfrog.com/confluence/display/RTF/Release+Notes#ReleaseNotes-Artifactory5.0[Релиз Artifactory 5]
 ** Cloud Native Storage. NFS не нужен!
 ** Sticky sessions больше не нужны
 ** Безгеморойное управление лицензиями кластера
@@ -64,6 +67,7 @@ twitter:
   * https://twitter.com/gamussa[@gamussa]
   * https://twitter.com/jbaruch[@jbaruch]
   * https://twitter.com/tolkv[@tolkv]
+  * https://twitter.com/golodnyj[@golodnyj]
 
 ++++
 <!-- player goes here-->
