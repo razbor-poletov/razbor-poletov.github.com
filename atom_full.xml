@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2017-02-11T21:14:49+00:00</updated>
+  <updated>2017-02-11T22:09:37+00:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov]]></name>
@@ -53,22 +53,28 @@
 <div class="ulist">
 <ul>
 <li>
-<p><a href="https://jpoint.ru">JPoint</a> 8-9 апреля</p>
-</li>
-<li>
-<p><a href="https://2017.jbreak.ru">JBreak</a> 4 апреля</p>
-</li>
-<li>
-<p><a href="https://swampup.jfrog.com">Swampup</a> 24-26 мая</p>
+<p><a href="https://www.devnexus.com/s/index">DevNexus</a> 22-24 февраля</p>
 </li>
 <li>
 <p><a href="http://devoxx.us">Devoxx US</a> 21-23 марта</p>
 </li>
 <li>
-<p><a href="https://2017.geekout.ee">GeekOut</a> 8-9 июня</p>
+<p><a href="https://2017.jbreak.ru">JBreak</a> 4 апреля</p>
 </li>
 <li>
-<p><a href="https://rigadevdays.lv">Riga Dev Days </a>15-17 мая</p>
+<p><a href="https://jpoint.ru">JPoint</a> 8-9 апреля</p>
+</li>
+<li>
+<p><a href="https://rigadevdays.lv">Riga Dev Days</a> 15-17 мая</p>
+</li>
+<li>
+<p><a href="https://2017.geecon.org/">GeeCON</a> 17-19 мая</p>
+</li>
+<li>
+<p><a href="https://swampup.jfrog.com">Swampup</a> 24-26 мая</p>
+</li>
+<li>
+<p><a href="https://2017.geekout.ee">GeekOut</a> 8-9 июня</p>
 </li>
 </ul>
 </div>
@@ -80,7 +86,7 @@
 <div class="ulist">
 <ul>
 <li>
-<p><a href="https://www.jfrog.com/confluence/display/RTF/Release+Notes#ReleaseNotes-Artifactory5.0">Artifactory 5</a></p>
+<p><a href="https://www.jfrog.com/confluence/display/RTF/Release+Notes#ReleaseNotes-Artifactory5.0">Релиз Artifactory 5</a></p>
 <div class="ulist">
 <ul>
 <li>
@@ -170,6 +176,9 @@
 </li>
 <li>
 <p><a href="https://twitter.com/tolkv">@tolkv</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/golodnyj">@golodnyj</a></p>
 </li>
 </ul>
 </div>

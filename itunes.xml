@@ -6,8 +6,8 @@
     <atom:link href="http://razbor-poletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2017-02-11T21:14:49+00:00</pubDate>
-    <lastBuildDate>2017-02-11T21:14:49+00:00</lastBuildDate>
+    <pubDate>2017-02-11T22:09:37+00:00</pubDate>
+    <lastBuildDate>2017-02-11T22:09:37+00:00</lastBuildDate>
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razbor-poletov.com/logoB.jpg" />
@@ -60,22 +60,28 @@
 <div class="ulist">
 <ul>
 <li>
-<p><a href="https://jpoint.ru">JPoint</a> 8-9 апреля</p>
-</li>
-<li>
-<p><a href="https://2017.jbreak.ru">JBreak</a> 4 апреля</p>
-</li>
-<li>
-<p><a href="https://swampup.jfrog.com">Swampup</a> 24-26 мая</p>
+<p><a href="https://www.devnexus.com/s/index">DevNexus</a> 22-24 февраля</p>
 </li>
 <li>
 <p><a href="http://devoxx.us">Devoxx US</a> 21-23 марта</p>
 </li>
 <li>
-<p><a href="https://2017.geekout.ee">GeekOut</a> 8-9 июня</p>
+<p><a href="https://2017.jbreak.ru">JBreak</a> 4 апреля</p>
 </li>
 <li>
-<p><a href="https://rigadevdays.lv">Riga Dev Days </a>15-17 мая</p>
+<p><a href="https://jpoint.ru">JPoint</a> 8-9 апреля</p>
+</li>
+<li>
+<p><a href="https://rigadevdays.lv">Riga Dev Days</a> 15-17 мая</p>
+</li>
+<li>
+<p><a href="https://2017.geecon.org/">GeeCON</a> 17-19 мая</p>
+</li>
+<li>
+<p><a href="https://swampup.jfrog.com">Swampup</a> 24-26 мая</p>
+</li>
+<li>
+<p><a href="https://2017.geekout.ee">GeekOut</a> 8-9 июня</p>
 </li>
 </ul>
 </div>
@@ -87,7 +93,7 @@
 <div class="ulist">
 <ul>
 <li>
-<p><a href="https://www.jfrog.com/confluence/display/RTF/Release+Notes#ReleaseNotes-Artifactory5.0">Artifactory 5</a></p>
+<p><a href="https://www.jfrog.com/confluence/display/RTF/Release+Notes#ReleaseNotes-Artifactory5.0">Релиз Artifactory 5</a></p>
 <div class="ulist">
 <ul>
 <li>
@@ -178,6 +184,9 @@
 <li>
 <p><a href="https://twitter.com/tolkv">@tolkv</a></p>
 </li>
+<li>
+<p><a href="https://twitter.com/golodnyj">@golodnyj</a></p>
+</li>
 </ul>
 </div>
 <!-- player goes here-->
@@ -233,22 +242,28 @@ Tinkoff bank
 
 
 
-JPoint 8-9 апреля
-
-
-JBreak 4 апреля
-
-
-Swampup 24-26 мая
+DevNexus 22-24 февраля
 
 
 Devoxx US 21-23 марта
 
 
-GeekOut 8-9 июня
+JBreak 4 апреля
+
+
+JPoint 8-9 апреля
 
 
 Riga Dev Days 15-17 мая
+
+
+GeeCON 17-19 мая
+
+
+Swampup 24-26 мая
+
+
+GeekOut 8-9 июня
 
 
 
@@ -260,7 +275,7 @@ Riga Dev Days 15-17 мая
 
 
 
-Artifactory 5
+Релиз Artifactory 5
 
 
 
@@ -350,6 +365,9 @@ twitter:
 
 
 @tolkv
+
+
+@golodnyj
 
 
 
