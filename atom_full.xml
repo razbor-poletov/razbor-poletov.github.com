@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2017-02-11T14:43:13+00:00</updated>
+  <updated>2017-02-11T21:14:49+00:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov]]></name>
@@ -12,6 +12,184 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 126 — Неадекватное интервью]]></title>
+    <link href="http://razbor-poletov.com/2017/02/episode-126.html"/>
+    <updated>2017-02-11T00:00:00+00:00</updated>
+    <id>http://razbor-poletov.com/2017/02/episode-126</id>
+    <content type="html"><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_126_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_126_text.jpg" width="350" /></a>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Спонсоры">Спонсоры</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://www.tinkoff.ru">Tinkoff bank</a></p>
+<div class="ulist">
+<ul>
+<li>
+<p>Москва/Питер вакансии <a href="mailto:scala@tinkoff.ru">scala@tinkoff.ru</a></p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p><a href="https://stackoverflow.com/jobs/129435/senior-java-developer-hazelcast">приходите работать в Hazelcast</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="strong-Мероприятия-strong"><strong>Мероприятия</strong></h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://jpoint.ru">JPoint</a> 8-9 апреля</p>
+</li>
+<li>
+<p><a href="https://2017.jbreak.ru">JBreak</a> 4 апреля</p>
+</li>
+<li>
+<p><a href="https://swampup.jfrog.com">Swampup</a> 24-26 мая</p>
+</li>
+<li>
+<p><a href="http://devoxx.us">Devoxx US</a> 21-23 марта</p>
+</li>
+<li>
+<p><a href="https://2017.geekout.ee">GeekOut</a> 8-9 июня</p>
+</li>
+<li>
+<p><a href="https://rigadevdays.lv">Riga Dev Days </a>15-17 мая</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://www.jfrog.com/confluence/display/RTF/Release+Notes#ReleaseNotes-Artifactory5.0">Artifactory 5</a></p>
+<div class="ulist">
+<ul>
+<li>
+<p>Cloud Native Storage. NFS не нужен!</p>
+</li>
+<li>
+<p>Sticky sessions больше не нужны</p>
+</li>
+<li>
+<p>Безгеморойное управление лицензиями кластера</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Релиз <a href="http://jet.hazelcast.org">Hazelcast Jet</a></p>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://blog.hazelcast.com/introducing-hazelcast-jet">JET Introduction</a></p>
+</li>
+<li>
+<p><a href="https://www.infoq.com/news/2017/02/HazlecastJetOSS">JET OSS</a></p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>GitLab <a href="https://habr.ru/p/309102">все в одном</a>.</p>
+<div class="ulist">
+<ul>
+<li>
+<p>От успеха до факапа <a href="https://docs.google.com/document/d/1GCK53YDcBWQveod9kfzW-VCxIABGiryG7_z_6jHdVik/pub">один шаг</a></p>
+</li>
+<li>
+<p><a href="https://about.gitlab.com/2017/02/10/postmortem-of-database-outage-of-january-31">Post Mortem</a></p>
+</li>
+<li>
+<p>Немного о Netflix Eureka и AWS AZs</p>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Полезняшки">Полезняшки</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://www.youtube.com/watch?v=Vlb_Is-rRTQ">Неадекват про интервью</a></p>
+</li>
+</ul>
+</div>
+<hr>
+<div class="paragraph">
+<p>Наши контакты:</p>
+</div>
+<div class="paragraph">
+<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
+</div>
+<div class="paragraph">
+<p><a href="http://razbor-poletov.com/broadcast.html">Информация о вещании</a></p>
+</div>
+<div class="paragraph">
+<p>Гости и участники:</p>
+</div>
+<div class="paragraph">
+<p>twitter:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://twitter.com/a_abashev">@a_abashev</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/antonarhipov">@antonarhipov</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/jbaruch">@jbaruch</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/tolkv">@tolkv</a></p>
+</li>
+</ul>
+</div>
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_126.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+<div class="paragraph">
+<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
+</div>
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_126.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+<div class="paragraph">
+<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
+</div>
+</div>
+</div>]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 125 — Apache Groovy, baby, yeah!]]></title>
