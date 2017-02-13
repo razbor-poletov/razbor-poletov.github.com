@@ -6,8 +6,8 @@
     <atom:link href="http://razbor-poletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2017-02-11T22:17:23+00:00</pubDate>
-    <lastBuildDate>2017-02-11T22:17:23+00:00</lastBuildDate>
+    <pubDate>2017-02-13T14:40:13+00:00</pubDate>
+    <lastBuildDate>2017-02-13T14:40:13+00:00</lastBuildDate>
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razbor-poletov.com/logoB.jpg" />
@@ -63,7 +63,7 @@
 <p><a href="https://www.devnexus.com/s/index">DevNexus</a> 22-24 февраля</p>
 </li>
 <li>
-<p><a href="http://devoxx.us">Devoxx US</a> 21-23 марта</p>
+<p><a href="https://devoxx.us">Devoxx US</a> 21-23 марта</p>
 </li>
 <li>
 <p><a href="https://2017.jbreak.ru">JBreak</a> 4 апреля</p>
@@ -75,10 +75,10 @@
 <p><a href="https://rigadevdays.lv">Riga Dev Days</a> 15-17 мая</p>
 </li>
 <li>
-<p><a href="https://2017.geecon.org/">GeeCON</a> 17-19 мая</p>
+<p><a href="https://2017.geecon.org">GeeCON</a> 17-19 мая</p>
 </li>
 <li>
-<p><a href="https://swampup.jfrog.com">Swampup</a> 24-26 мая</p>
+<p><a href="https://swampup.jfrog.com">swampUP</a> 24-26 мая</p>
 </li>
 <li>
 <p><a href="https://2017.geekout.ee">GeekOut</a> 8-9 июня</p>
@@ -103,7 +103,7 @@
 <p>Sticky sessions больше не нужны</p>
 </li>
 <li>
-<p>Безгеморойное управление лицензиями кластера</p>
+<p>Безгеморройное управление лицензиями кластера</p>
 </li>
 </ul>
 </div>
@@ -113,29 +113,32 @@
 <div class="ulist">
 <ul>
 <li>
-<p><a href="https://blog.hazelcast.com/introducing-hazelcast-jet">JET Introduction</a></p>
+<p><a href="https://blog.hazelcast.com/introducing-hazelcast-jet">Introducing Hazelcast Jet 0.3</a></p>
 </li>
 <li>
-<p><a href="https://www.infoq.com/news/2017/02/HazlecastJetOSS">JET OSS</a></p>
+<p><a href="https://www.infoq.com/news/2017/02/HazlecastJetOSS">Hazelcast Release Jet, Open-Source Stream Processing Engine</a></p>
 </li>
 </ul>
 </div>
 </li>
 <li>
-<p>GitLab <a href="https://habr.ru/p/309102">все в одном</a>.</p>
+<p>GitLab, всё в одном</p>
 <div class="ulist">
 <ul>
+<li>
+<p><a href="https://habr.ru/p/309102">GitLab Container Registry</a></p>
+</li>
 <li>
 <p>От успеха до факапа <a href="https://docs.google.com/document/d/1GCK53YDcBWQveod9kfzW-VCxIABGiryG7_z_6jHdVik/pub">один шаг</a></p>
 </li>
 <li>
 <p><a href="https://about.gitlab.com/2017/02/10/postmortem-of-database-outage-of-january-31">Post Mortem</a></p>
 </li>
-<li>
-<p>Немного о Netflix Eureka и AWS AZs</p>
-</li>
 </ul>
 </div>
+</li>
+<li>
+<p>Немного о Netflix Eureka и AWS AZs</p>
 </li>
 </ul>
 </div>
@@ -260,7 +263,7 @@ Riga Dev Days 15-17 мая
 GeeCON 17-19 мая
 
 
-Swampup 24-26 мая
+swampUP 24-26 мая
 
 
 GeekOut 8-9 июня
@@ -285,7 +288,7 @@ Cloud Native Storage. NFS не нужен!
 Sticky sessions больше не нужны
 
 
-Безгеморойное управление лицензиями кластера
+Безгеморройное управление лицензиями кластера
 
 
 
@@ -295,17 +298,20 @@ Sticky sessions больше не нужны
 
 
 
-JET Introduction
+Introducing Hazelcast Jet 0.3
 
 
-JET OSS
+Hazelcast Release Jet, Open-Source Stream Processing Engine
 
 
 
 
 
-GitLab все в одном.
+GitLab, всё в одном
 
+
+
+GitLab Container Registry
 
 
 От успеха до факапа один шаг
@@ -314,10 +320,10 @@ GitLab все в одном.
 Post Mortem
 
 
+
+
+
 Немного о Netflix Eureka и AWS AZs
-
-
-
 
 
 

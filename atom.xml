@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2017-02-11T22:17:23+00:00</updated>
+  <updated>2017-02-13T14:40:13+00:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov]]></name>
@@ -56,7 +56,7 @@
 <p><a href="https://www.devnexus.com/s/index">DevNexus</a> 22-24 февраля</p>
 </li>
 <li>
-<p><a href="http://devoxx.us">Devoxx US</a> 21-23 марта</p>
+<p><a href="https://devoxx.us">Devoxx US</a> 21-23 марта</p>
 </li>
 <li>
 <p><a href="https://2017.jbreak.ru">JBreak</a> 4 апреля</p>
@@ -68,10 +68,10 @@
 <p><a href="https://rigadevdays.lv">Riga Dev Days</a> 15-17 мая</p>
 </li>
 <li>
-<p><a href="https://2017.geecon.org/">GeeCON</a> 17-19 мая</p>
+<p><a href="https://2017.geecon.org">GeeCON</a> 17-19 мая</p>
 </li>
 <li>
-<p><a href="https://swampup.jfrog.com">Swampup</a> 24-26 мая</p>
+<p><a href="https://swampup.jfrog.com">swampUP</a> 24-26 мая</p>
 </li>
 <li>
 <p><a href="https://2017.geekout.ee">GeekOut</a> 8-9 июня</p>
@@ -96,7 +96,7 @@
 <p>Sticky sessions больше не нужны</p>
 </li>
 <li>
-<p>Безгеморойное управление лицензиями кластера</p>
+<p>Безгеморройное управление лицензиями кластера</p>
 </li>
 </ul>
 </div>
@@ -106,29 +106,32 @@
 <div class="ulist">
 <ul>
 <li>
-<p><a href="https://blog.hazelcast.com/introducing-hazelcast-jet">JET Introduction</a></p>
+<p><a href="https://blog.hazelcast.com/introducing-hazelcast-jet">Introducing Hazelcast Jet 0.3</a></p>
 </li>
 <li>
-<p><a href="https://www.infoq.com/news/2017/02/HazlecastJetOSS">JET OSS</a></p>
+<p><a href="https://www.infoq.com/news/2017/02/HazlecastJetOSS">Hazelcast Release Jet, Open-Source Stream Processing Engine</a></p>
 </li>
 </ul>
 </div>
 </li>
 <li>
-<p>GitLab <a href="https://habr.ru/p/309102">все в одном</a>.</p>
+<p>GitLab, всё в одном</p>
 <div class="ulist">
 <ul>
+<li>
+<p><a href="https://habr.ru/p/309102">GitLab Container Registry</a></p>
+</li>
 <li>
 <p>От успеха до факапа <a href="https://docs.google.com/document/d/1GCK53YDcBWQveod9kfzW-VCxIABGiryG7_z_6jHdVik/pub">один шаг</a></p>
 </li>
 <li>
 <p><a href="https://about.gitlab.com/2017/02/10/postmortem-of-database-outage-of-january-31">Post Mortem</a></p>
 </li>
-<li>
-<p>Немного о Netflix Eureka и AWS AZs</p>
-</li>
 </ul>
 </div>
+</li>
+<li>
+<p>Немного о Netflix Eureka и AWS AZs</p>
 </li>
 </ul>
 </div>
