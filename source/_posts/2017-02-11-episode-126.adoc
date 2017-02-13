@@ -22,12 +22,12 @@ categories:
 == **Мероприятия**
 
 * https://www.devnexus.com/s/index[DevNexus] 22-24 февраля
-* http://devoxx.us[Devoxx US] 21-23 марта
+* https://devoxx.us[Devoxx US] 21-23 марта
 * https://2017.jbreak.ru[JBreak] 4 апреля
 * https://jpoint.ru[JPoint] 8-9 апреля
 * https://rigadevdays.lv[Riga Dev Days] 15-17 мая
-* https://2017.geecon.org/[GeeCON] 17-19 мая
-* https://swampup.jfrog.com[Swampup] 24-26 мая
+* https://2017.geecon.org[GeeCON] 17-19 мая
+* https://swampup.jfrog.com[swampUP] 24-26 мая
 * https://2017.geekout.ee[GeekOut] 8-9 июня
 
 
@@ -36,14 +36,15 @@ categories:
 * Релиз https://www.jfrog.com/confluence/display/RTF/Release+Notes#ReleaseNotes-Artifactory5.0[Artifactory 5]
 ** Cloud Native Storage. NFS не нужен!
 ** Sticky sessions больше не нужны
-** Безгеморойное управление лицензиями кластера
+** Безгеморройное управление лицензиями кластера
 * Релиз http://jet.hazelcast.org[Hazelcast Jet]
-** https://blog.hazelcast.com/introducing-hazelcast-jet[JET Introduction]
-** https://www.infoq.com/news/2017/02/HazlecastJetOSS[JET OSS]
-* GitLab https://habr.ru/p/309102[все в одном].
+** https://blog.hazelcast.com/introducing-hazelcast-jet[Introducing Hazelcast Jet 0.3]
+** https://www.infoq.com/news/2017/02/HazlecastJetOSS[Hazelcast Release Jet, Open-Source Stream Processing Engine]
+* GitLab, всё в одном
+** https://habr.ru/p/309102[GitLab Container Registry]
 ** От успеха до факапа https://docs.google.com/document/d/1GCK53YDcBWQveod9kfzW-VCxIABGiryG7_z_6jHdVik/pub[один шаг]
 ** https://about.gitlab.com/2017/02/10/postmortem-of-database-outage-of-january-31[Post Mortem]
-** Немного о Netflix Eureka и AWS AZs
+* Немного о Netflix Eureka и AWS AZs
 
 == Полезняшки
 
