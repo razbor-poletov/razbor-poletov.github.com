@@ -5,7 +5,7 @@
 url: http://razbor-poletov.com
 title: Подкаст «Разбор Полетов»
 subtitle: «Правильный подкаст для IT-шников»
-author: Viktor Gamov, Alexey Abashev, Dmitry Churbanov
+author: Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky
 simple_search: http://google.com/search
 description: "Болтологический подкаст, популярный в узких кругах"
 
@@ -19,7 +19,7 @@ date_format: "ordinal"
 subscribe_rss: http://feeds.feedburner.com/razbor-podcast
 subscribe_email:
 # RSS feeds can list your email address if you like
-email:
+email: razbor.poletov1@gmail.com
 
 # ----------------------- #
 #    Jekyll & Plugins     #
