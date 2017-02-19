@@ -6,8 +6,8 @@
     <atom:link href="http://razbor-poletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2017-02-15T18:47:48+00:00</pubDate>
-    <lastBuildDate>2017-02-15T18:47:48+00:00</lastBuildDate>
+    <pubDate>2017-02-19T12:59:35+00:00</pubDate>
+    <lastBuildDate>2017-02-19T12:59:35+00:00</lastBuildDate>
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razbor-poletov.com/logoB.jpg" />
@@ -69,7 +69,7 @@
 <p><a href="https://2017.jbreak.ru">JBreak</a> 4 апреля</p>
 </li>
 <li>
-<p><a href="https://jpoint.ru">JPoint</a> 8-9 апреля</p>
+<p><a href="https://jpoint.ru">JPoint</a> 7-8 апреля</p>
 </li>
 <li>
 <p><a href="https://rigadevdays.lv">Riga Dev Days</a> 15-17 мая</p>
@@ -254,7 +254,7 @@ Devoxx US 21-23 марта
 JBreak 4 апреля
 
 
-JPoint 8-9 апреля
+JPoint 7-8 апреля
 
 
 Riga Dev Days 15-17 мая
