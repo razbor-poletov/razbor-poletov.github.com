@@ -24,7 +24,7 @@ categories:
 * https://www.devnexus.com/s/index[DevNexus] 22-24 февраля
 * https://devoxx.us[Devoxx US] 21-23 марта
 * https://2017.jbreak.ru[JBreak] 4 апреля
-* https://jpoint.ru[JPoint] 8-9 апреля
+* https://jpoint.ru[JPoint] 7-8 апреля
 * https://rigadevdays.lv[Riga Dev Days] 15-17 мая
 * https://2017.geecon.org[GeeCON] 17-19 мая
 * https://swampup.jfrog.com[swampUP] 24-26 мая
