@@ -1,0 +1,56 @@
+---
+comments: true
+categories: 
+---
+= Episode 127 — DevNexus Special: Привет, Андрей!
+2017-02-24 18:38
+:layout: post
+:filename: razbor_
+
+++++
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_127_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_127_text.jpg" width="350" /></a>
+</div>
+++++
+
+Традиционно, записались на конференции DevNexus в городе Атланта, штат Джорджия!
+
+== Пробы пера в видеотрансляции
+
+.подписывайтесь на канал
+++++
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3CUG32VVZ0A?rel=0" frameborder="0" allowfullscreen></iframe>
+++++
+
+'''
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com[http://razbor-poletov.com]
+
+http://razbor-poletov.com/broadcast.html[Информация о вещании]
+
+Гости и участники:
+
+twitter:
+
+  * https://twitter.com/yfain[@yfain]
+  * https://twitter.com/gamussa[@gamussa]
+  * https://twitter.com/jbaruch[@jbaruch]
+++++
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_127.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+++++
+
+Подписаться по http://feeds.feedburner.com/razbor-podcast[RSS]
+
+++++
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_127.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+++++
+
+Музыка ведущим http://www.audiobank.fm/single-music/27/111/More-And-Less/[предоставлена] и ладно...
