@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2017-02-24T23:58:54+00:00</updated>
+  <updated>2017-02-25T00:02:35+00:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -25,6 +25,25 @@
 </div>
 <div class="paragraph">
 <p>Традиционно, записались на конференции DevNexus в городе Атланта, штат Джорджия!</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Спонсоры">Спонсоры</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://www.tinkoff.ru">Tinkoff bank</a></p>
+<div class="ulist">
+<ul>
+<li>
+<p>Москва/Питер вакансии <a href="mailto:scala@tinkoff.ru">scala@tinkoff.ru</a></p>
+</li>
+</ul>
+</div>
+</li>
+</ul>
 </div>
 </div>
 </div>

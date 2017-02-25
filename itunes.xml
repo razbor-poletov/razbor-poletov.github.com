@@ -6,8 +6,8 @@
     <atom:link href="http://razbor-poletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2017-02-24T23:58:54+00:00</pubDate>
-    <lastBuildDate>2017-02-24T23:58:54+00:00</lastBuildDate>
+    <pubDate>2017-02-25T00:02:35+00:00</pubDate>
+    <lastBuildDate>2017-02-25T00:02:35+00:00</lastBuildDate>
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razbor-poletov.com/logoB.jpg" />
@@ -32,6 +32,25 @@
 </div>
 <div class="paragraph">
 <p>Традиционно, записались на конференции DevNexus в городе Атланта, штат Джорджия!</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Спонсоры">Спонсоры</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://www.tinkoff.ru">Tinkoff bank</a></p>
+<div class="ulist">
+<ul>
+<li>
+<p>Москва/Питер вакансии <a href="mailto:scala@tinkoff.ru">scala@tinkoff.ru</a></p>
+</li>
+</ul>
+</div>
+</li>
+</ul>
 </div>
 </div>
 </div>
@@ -93,6 +112,25 @@
 
 
 Традиционно, записались на конференции DevNexus в городе Атланта, штат Джорджия!
+
+
+
+
+Спонсоры
+
+
+
+
+Tinkoff bank
+
+
+
+Москва/Питер вакансии scala@tinkoff.ru
+
+
+
+
+
 
 
 
