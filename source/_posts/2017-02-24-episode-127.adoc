@@ -15,6 +15,11 @@ categories:
 
 Традиционно, записались на конференции DevNexus в городе Атланта, штат Джорджия!
 
+== Спонсоры
+
+* https://www.tinkoff.ru[Tinkoff bank]
+** Москва/Питер вакансии link:mailto:scala@tinkoff.ru[scala@tinkoff.ru]
+
 == Пробы пера в видеотрансляции
 
 .подписывайтесь на канал
