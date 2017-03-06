@@ -6,8 +6,8 @@
     <atom:link href="http://razbor-poletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2017-03-02T23:23:54+00:00</pubDate>
-    <lastBuildDate>2017-03-02T23:23:54+00:00</lastBuildDate>
+    <pubDate>2017-03-06T20:13:52+00:00</pubDate>
+    <lastBuildDate>2017-03-06T20:13:52+00:00</lastBuildDate>
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razbor-poletov.com/logoB.jpg" />
@@ -19,6 +19,153 @@
     </itunes:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:thumbnail url="http://razbor-poletov.com/logoB.jpg" />
+    
+    <item>
+      <title>Episode 128 — Home Automation Special</title>
+      <link>http://razbor-poletov.com/2017/03/episode-128.html</link>
+      <pubDate>2017-03-06T00:00:00+00:00</pubDate>
+      <guid isPermalink="true">http://razbor-poletov.com/2017/03/episode-128</guid>
+      <description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_128_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_128_text.jpg" width="350" /></a>
+</div>
+<div class="paragraph">
+<p>Виктор и Барух болтают о home automation и IoT по дороге на конференцию OracleCode в Сан Франциско.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Спонсоры">Спонсоры</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://www.tinkoff.ru">Tinkoff bank</a></p>
+<div class="ulist">
+<ul>
+<li>
+<p>Москва/Питер вакансии <a href="mailto:scala@tinkoff.ru">scala@tinkoff.ru</a></p>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+<hr>
+<div class="paragraph">
+<p>Наши контакты:</p>
+</div>
+<div class="paragraph">
+<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
+</div>
+<div class="paragraph">
+<p><a href="http://razbor-poletov.com/broadcast.html">Информация о вещании</a></p>
+</div>
+<div class="paragraph">
+<p>Гости и участники:</p>
+</div>
+<div class="paragraph">
+<p>twitter:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/jbaruch">@jbaruch</a></p>
+</li>
+</ul>
+</div>
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_128.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+<div class="paragraph">
+<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
+</div>
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_128.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+<div class="paragraph">
+<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
+</div>
+</div>
+</div>]]></description>
+      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[
+
+
+
+
+
+Виктор и Барух болтают о home automation и IoT по дороге на конференцию OracleCode в Сан Франциско.
+
+
+
+
+Спонсоры
+
+
+
+
+Tinkoff bank
+
+
+
+Москва/Питер вакансии scala@tinkoff.ru
+
+
+
+
+
+
+
+
+Наши контакты:
+
+
+Официальный сайт — http://razbor-poletov.com
+
+
+Информация о вещании
+
+
+Гости и участники:
+
+
+twitter:
+
+
+
+
+@gamussa
+
+
+@jbaruch
+
+
+
+
+
+
+   
+   Your browser does not support the audio tag.
+
+
+Подписаться по RSS
+
+
+
+
+Музыка ведущим предоставлена и ладно&#8230;&#8203;
+
+
+]]></itunes:summary>
+    </item>
     
     <item>
       <title>Episode 127 — DevNexus Special: Привет, Андрей!</title>
@@ -13884,357 +14031,6 @@ twitter:
 
 
 @ligolnik
-
-
-
-
-
-
-   
-   Your browser does not support the audio tag.
-
-
-Подписаться по RSS
-
-
-
-
-Музыка ведущим предоставлена и ладно&#8230;&#8203;
-
-
-]]></itunes:summary>
-    </item>
-    
-    <item>
-      <title>Episode 78 — У каждого программиста свой дурдом</title>
-      <link>http://razbor-poletov.com/2015/02/episode-78.html</link>
-      <pubDate>2015-02-22T00:00:00+00:00</pubDate>
-      <guid isPermalink="true">http://razbor-poletov.com/2015/02/episode-78</guid>
-      <description><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="http://razbor-poletov.com/images/razbor_78_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_78_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Конференции">Конференции</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="http://www.meetup.com/Tampa-JUG/events/220123702/">Февральский TampaJUG</a></p>
-</li>
-<li>
-<p><a href="http://2015.geekout.ee/registration/">GeekOut</a></p>
-</li>
-<li>
-<p>DevNexus: <a href="http://devnexus.com/s/speakers#Baruch_Sadogursky">Барух</a> и <a href="http://devnexus.com/s/speakers#Viktor_Gamov">Виктор</a></p>
-</li>
-<li>
-<p>Виктор на <a href="http://codepalousa.com/schedule/sessions/ground-up-introduction-to-in-memory-data/">CodePaloUSA</a></p>
-</li>
-<li>
-<p><a href="http://javapoint.ru">JPoint</a></p>
-</li>
-<li>
-<p><a href="http://jeeconf.com">JEEConf</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Тема-выпуска">Тема выпуска</h2>
-<div class="sectionbody">
-<div class="paragraph">
-<p><a href="http://www.daskeyboard.com/daskeyboard-4-professional/">Механические клавиатуры</a>. Ссылки, упомянутые в беседе, ищите в <a href="https://gitter.im/razbor-poletov/razbor-poletov.github.com/archives/2015/02/22">логе чата</a>.</p>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Новости-одной-строкой">Новости одной строкой</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="http://groovy.329449.n5.nabble.com/Moving-Groovy-to-a-Foundation-td5722483.html">Groovy moves to foundation</a></p>
-</li>
-<li>
-<p>Новый Gradle</p>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="http://forums.gradle.org/gradle/topics/gradle-2-3-released">Gradle 2.3</a></p>
-</li>
-<li>
-<p><a href="http://gradle.org/docs/current/release-notes#potential-breaking-changes">Много чего может сломаться</a></p>
-</li>
-<li>
-<p><a href="https://www.voxxed.com/blog/2015/02/speed-gradle-build-90-8-minutes/">Accelerate Gradle build from 90 to 8 minutes </a></p>
-</li>
-</ul>
-</div>
-</li>
-<li>
-<p><a href="http://hazelcast.org">Hazelcast</a> 3.4.1. <a href="https://github.com/hazelcast/hazelcast/issues?q=is%3Aissue+milestone%3A3.4.1+is%3Aclosed">Что нового</a>?</p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Полезняшки">Полезняшки</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><code>curl start.spring.io</code> и</p>
-</li>
-<li>
-<p><a href="http://websocketd.com/" class="bare">http://websocketd.com/</a> или красивый код на GO</p>
-</li>
-<li>
-<p><a href="https://github.com/HubPress/hubpress.io">HubPress</a></p>
-</li>
-<li>
-<p><a href="https://jitpack.io/">Билдсистема в клауде для Java</a></p>
-</li>
-<li>
-<p><a href="https://github.com/yaronn/blessed-contrib">TurboVision на Node.JS</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="В-заключении">В заключении&#8230;&#8203;</h2>
-<div class="sectionbody">
-<div class="paragraph">
-<p><a href="http://eax.me/avoid-metaprogramming/">Десять причин избегать метапрограммирования</a></p>
-</div>
-<div class="paragraph">
-<p><a href="https://gitter.im/razbor-poletov/razbor-poletov.github.com/archives/2015/02/22">Лог чата</a></p>
-</div>
-<hr>
-<div class="paragraph">
-<p><em>На правах рекламы:</em></p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="http://www.startupjobs.asia/job/3790-senior-java-engineer-technical-paktor&#8212;&#8203;singapore">Вакансия от Алексея</a>. <a href="mailto:alexey@abashev.ru">Присылайте резюме</a></p>
-</li>
-</ul>
-</div>
-<hr>
-<div class="paragraph">
-<p>Наши контакты:</p>
-</div>
-<div class="paragraph">
-<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
-</div>
-<div class="paragraph">
-<p><a href="http://razbor-poletov.com/broadcast.html">Информация о вещании</a></p>
-</div>
-<div class="paragraph">
-<p>Гости и участники:</p>
-</div>
-<div class="paragraph">
-<p>twitter:</p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://twitter.com/a_abashev">@a_abashev</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/antonarhipov">@antonarhipov</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/dzmitryc">@dzmitryc</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/tolkv">@tolkv</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/golodnyj">@golodnyj</a></p>
-</li>
-</ul>
-</div>
-<!-- player goes here-->
-
-<audio preload="none">
-   <source src="http://traffic.libsyn.com/razborpoletov/razbor_78.mp3" type="audio/mp3" />
-   Your browser does not support the audio tag.
-</audio>
-<div class="paragraph">
-<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
-</div>
-<!-- episode file link goes here-->
-<a href="http://traffic.libsyn.com/razborpoletov/razbor_78.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
-<div class="paragraph">
-<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
-</div>
-</div>
-</div>]]></description>
-      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
-      <itunes:summary><![CDATA[
-
-
-
-
-
-
-
-Конференции
-
-
-
-
-Февральский TampaJUG
-
-
-GeekOut
-
-
-DevNexus: Барух и Виктор
-
-
-Виктор на CodePaloUSA
-
-
-JPoint
-
-
-JEEConf
-
-
-
-
-
-
-Тема выпуска
-
-
-Механические клавиатуры. Ссылки, упомянутые в беседе, ищите в логе чата.
-
-
-
-
-Новости одной строкой
-
-
-
-
-Groovy moves to foundation
-
-
-Новый Gradle
-
-
-
-Gradle 2.3
-
-
-Много чего может сломаться
-
-
-Accelerate Gradle build from 90 to 8 minutes 
-
-
-
-
-
-Hazelcast 3.4.1. Что нового?
-
-
-
-
-
-
-Полезняшки
-
-
-
-
-curl start.spring.io и
-
-
-http://websocketd.com/ или красивый код на GO
-
-
-HubPress
-
-
-Билдсистема в клауде для Java
-
-
-TurboVision на Node.JS
-
-
-
-
-
-
-В заключении&#8230;&#8203;
-
-
-Десять причин избегать метапрограммирования
-
-
-Лог чата
-
-
-
-На правах рекламы:
-
-
-
-
-Вакансия от Алексея. Присылайте резюме
-
-
-
-
-
-Наши контакты:
-
-
-Официальный сайт — http://razbor-poletov.com
-
-
-Информация о вещании
-
-
-Гости и участники:
-
-
-twitter:
-
-
-
-
-@a_abashev
-
-
-@antonarhipov
-
-
-@dzmitryc
-
-
-@gamussa
-
-
-@tolkv
-
-
-@golodnyj
 
 
 
