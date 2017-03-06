@@ -68,7 +68,7 @@ twitter:
 
  * [@a_abashev](https://twitter.com/a_abashev)
  * [@antonarhipov](https://twitter.com/antonarhipov)
- * [@dzmitryc ](https://twitter.com/dzmitryc)
+ * [@dzmitryc](https://twitter.com/dzmitryc)
  * [@gamussa](https://twitter.com/gamussa)
  * [@jbaruch](https://twitter.com/jbaruch)
  * [@tolkv](https://twitter.com/tolkv)
