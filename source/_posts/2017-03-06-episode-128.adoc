@@ -13,7 +13,7 @@ categories:
 </div>
 ++++
 
-Виктор и Барух болтают о home automation и IoT по дороге на конференцию OracleCode в Сан Франциско.
+Виктор и Барух болтают о home automation и IoT по дороге на конференцию OracleCode в Сан-Франциско.
 
 == Спонсоры
 
