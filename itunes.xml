@@ -6,8 +6,8 @@
     <atom:link href="http://razbor-poletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2017-03-24T22:11:12+00:00</pubDate>
-    <lastBuildDate>2017-03-24T22:11:12+00:00</lastBuildDate>
+    <pubDate>2017-03-25T22:21:28+00:00</pubDate>
+    <lastBuildDate>2017-03-25T22:21:28+00:00</lastBuildDate>
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razbor-poletov.com/logoB.jpg" />
@@ -19,6 +19,165 @@
     </itunes:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:thumbnail url="http://razbor-poletov.com/logoB.jpg" />
+    
+    <item>
+      <title>Episode 130: Devoxx US Special!</title>
+      <link>http://razbor-poletov.com/2017/03/episode-130.html</link>
+      <pubDate>2017-03-25T00:00:00+00:00</pubDate>
+      <guid isPermalink="true">http://razbor-poletov.com/2017/03/episode-130</guid>
+      <description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_130_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_130_text.jpg" width="350" /></a>
+</div>
+<div class="paragraph">
+<p>Традиционно, записались на конференции Devoxx US в городе Сан Хоcе, штат Калифорния!</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Спонсоры">Спонсоры</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://www.tinkoff.ru">Tinkoff bank</a></p>
+<div class="ulist">
+<ul>
+<li>
+<p>Москва/Питер вакансии <a href="mailto:scala@tinkoff.ru">scala@tinkoff.ru</a></p>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Запись-трансляции">Запись трансляции</h2>
+<div class="sectionbody">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ozEhWThxFjw?rel=0" frameborder="0" allowfullscreen></iframe>
+<hr>
+<div class="paragraph">
+<p>Наши контакты:</p>
+</div>
+<div class="paragraph">
+<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
+</div>
+<div class="paragraph">
+<p><a href="http://razbor-poletov.com/broadcast.html">Информация о вещании</a></p>
+</div>
+<div class="paragraph">
+<p>Гости и участники:</p>
+</div>
+<div class="paragraph">
+<p>twitter:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/jbaruch">@jbaruch</a></p>
+</li>
+</ul>
+</div>
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_130.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+<div class="paragraph">
+<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
+</div>
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_130.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+<div class="paragraph">
+<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
+</div>
+</div>
+</div>]]></description>
+      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[
+
+
+
+
+
+Традиционно, записались на конференции Devoxx US в городе Сан Хоcе, штат Калифорния!
+
+
+
+
+Спонсоры
+
+
+
+
+Tinkoff bank
+
+
+
+Москва/Питер вакансии scala@tinkoff.ru
+
+
+
+
+
+
+
+
+
+Запись трансляции
+
+
+
+
+Наши контакты:
+
+
+Официальный сайт — http://razbor-poletov.com
+
+
+Информация о вещании
+
+
+Гости и участники:
+
+
+twitter:
+
+
+
+
+@gamussa
+
+
+@jbaruch
+
+
+
+
+
+
+   
+   Your browser does not support the audio tag.
+
+
+Подписаться по RSS
+
+
+
+
+Музыка ведущим предоставлена и ладно&#8230;&#8203;
+
+
+]]></itunes:summary>
+    </item>
     
     <item>
       <title>Episode 129 — Элегантные субъекты</title>
@@ -13780,249 +13939,6 @@ twitter:
 
 
 @shipilev
-
-
-
-
-
-
-   
-   Your browser does not support the audio tag.
-
-
-Подписаться по RSS
-
-
-
-
-Музыка ведущим предоставлена и ладно&#8230;&#8203;
-
-
-]]></itunes:summary>
-    </item>
-    
-    <item>
-      <title>Episode 80 — Небольшой конференционный</title>
-      <link>http://razbor-poletov.com/2015/03/episode-80.html</link>
-      <pubDate>2015-03-16T00:00:00+00:00</pubDate>
-      <guid isPermalink="true">http://razbor-poletov.com/2015/03/episode-80</guid>
-      <description><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="http://razbor-poletov.com/images/razbor_80_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_80_text.jpg" width="350" /></a>
-</div>
-<div class="paragraph">
-<p>Запись велась с помощью чудного устройства <a href="http://www.zoom.co.jp/products/iq6">Zoom iQ6</a> в ресторане <a href="https://www.google.com/maps/place/Maggiano&#8217;s+Little+Italy,+3368+Peachtree+Rd,+Atlanta,+GA+30326/@33.7677129,-84.420604,12z/data=!4m2!3m1!1s0x88f50f58606e2717:0xaa15fcf0fe93bfb1">Maggiano Little Italy</a>.</p>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Конференции">Конференции</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p>DevNexus: <a href="http://devnexus.com/s/speakers#Baruch_Sadogursky">Барух</a> и <a href="http://devnexus.com/s/speakers#Viktor_Gamov">Виктор</a></p>
-</li>
-<li>
-<p>Пара фоточек с конференции</p>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://instagram.com/p/0Fka_4H7yM/">1</a></p>
-</li>
-<li>
-<p><a href="https://instagram.com/p/0Fq3rzH77b/">2</a></p>
-</li>
-<li>
-<p><a href="https://instagram.com/p/0Gtam-H772/">3</a></p>
-</li>
-<li>
-<p><a href="https://instagram.com/p/0GwWRGH7wE/">4</a></p>
-</li>
-<li>
-<p><a href="https://instagram.com/p/0IZVrWn79S/">5</a></p>
-</li>
-<li>
-<p><a href="https://instagram.com/p/0I1fzQn77J/">6</a></p>
-</li>
-</ul>
-</div>
-</li>
-<li>
-<p><a href="http://capedwarf.org" class="bare">http://capedwarf.org</a></p>
-</li>
-<li>
-<p><a href="http://atom.io/">Atom.io</a></p>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://github.com/asciidoctor/atom-asciidoc-preview">Asciidoc Preview</a></p>
-</li>
-<li>
-<p><a href="https://github.com/asciidoctor/atom-language-asciidoc">Asciidoc Language Support</a></p>
-</li>
-</ul>
-</div>
-</li>
-<li>
-<p><a href="http://nighthacking.com/event/devnexus2015/">NightHacking</a></p>
-</li>
-</ul>
-</div>
-<hr>
-<div class="paragraph">
-<p><em>На правах рекламы:</em></p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="http://www.startupjobs.asia/job/3790-senior-java-engineer-technical-paktor&#8212;&#8203;singapore">Вакансия от Алексея</a>. <a href="mailto:alexey@abashev.ru">Присылайте резюме</a></p>
-</li>
-</ul>
-</div>
-<hr>
-<div class="paragraph">
-<p>Наши контакты:</p>
-</div>
-<div class="paragraph">
-<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
-</div>
-<div class="paragraph">
-<p><a href="http://razbor-poletov.com/broadcast.html">Информация о вещании</a></p>
-</div>
-<div class="paragraph">
-<p>Гости и участники:</p>
-</div>
-<div class="paragraph">
-<p>twitter:</p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/jbaruch">@jbaruch</a></p>
-</li>
-</ul>
-</div>
-<!-- player goes here-->
-
-<audio preload="none">
-   <source src="http://traffic.libsyn.com/razborpoletov/razbor_80.mp3" type="audio/mp3" />
-   Your browser does not support the audio tag.
-</audio>
-<div class="paragraph">
-<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
-</div>
-<!-- episode file link goes here-->
-<a href="http://traffic.libsyn.com/razborpoletov/razbor_80.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
-<div class="paragraph">
-<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
-</div>
-</div>
-</div>]]></description>
-      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_80.mp3" length="18234993" type="audio/mpeg" />
-      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_80.mp3" fileSize="18234993" type="audio/mpeg" />
-      <itunes:summary><![CDATA[
-
-
-
-
-
-Запись велась с помощью чудного устройства Zoom iQ6 в ресторане Maggiano Little Italy.
-
-
-
-
-Конференции
-
-
-
-
-DevNexus: Барух и Виктор
-
-
-Пара фоточек с конференции
-
-
-
-1
-
-
-2
-
-
-3
-
-
-4
-
-
-5
-
-
-6
-
-
-
-
-
-http://capedwarf.org
-
-
-Atom.io
-
-
-
-Asciidoc Preview
-
-
-Asciidoc Language Support
-
-
-
-
-
-NightHacking
-
-
-
-
-
-На правах рекламы:
-
-
-
-
-Вакансия от Алексея. Присылайте резюме
-
-
-
-
-
-Наши контакты:
-
-
-Официальный сайт — http://razbor-poletov.com
-
-
-Информация о вещании
-
-
-Гости и участники:
-
-
-twitter:
-
-
-
-
-@gamussa
-
-
-@jbaruch
 
 
 
