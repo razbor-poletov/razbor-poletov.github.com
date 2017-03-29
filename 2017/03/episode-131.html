@@ -5,14 +5,11 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>Episode 71 — Чемпионы и программизм - Подкаст «Разбор Полетов»</title>
+  <title>Episode 131 – Что JPoint грядущий нам готовит? - Подкаст «Разбор Полетов»</title>
   <meta name="author" content="Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky">
 
   
-  <meta name="description" content="В полку чемпионов прибыло. Наши поздравления мистеру Архипову!
-Добить JavaOne: Reflection
-Do you really get your IDE?
-JavaOne keynotes: Intel &hellip;">
+  <meta name="description" content="Спонсоры Tinkoff bank Москва/Питер вакансии scala@tinkoff.ru Гости @23derevo Мероприятия JBreak и JPoint совсем близко 4 апреля Riga Dev Days 15-17 &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -21,7 +18,7 @@ JavaOne keynotes: Intel &hellip;">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://razbor-poletov.com/2014/10/episode-71.html">
+  <link rel="canonical" href="http://razbor-poletov.com/2017/03/episode-131.html">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <!-- <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script> -->
@@ -122,7 +119,7 @@ $(document).ready(function() {
   
   <header>
     
-      <h1 class="entry-title">Episode 71 — Чемпионы и программизм</h1>
+      <h1 class="entry-title">Episode 131 – Что JPoint грядущий нам готовит?</h1>
     
     
       <p class="meta">
@@ -138,7 +135,7 @@ $(document).ready(function() {
   
 
 
-<time datetime="2014-10-22T23:33:00+00:00" pubdate data-updated="true">Oct 22<span>nd</span>, 2014</time>
+<time datetime="2017-03-29T00:00:00+00:00" pubdate data-updated="true">Mar 29<span>th</span>, 2017</time>
         
          | <a href="#disqus_thread">Comments</a>
         
@@ -147,92 +144,135 @@ $(document).ready(function() {
   </header>
 
 
-<div class="entry-content"><div class="separator" style="clear: both; text-align: center;">
-<a href="http://razbor-poletov.com/images/razbor_71_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_71_text.jpg" width="350" /></a>
+<div class="entry-content"><div id="preamble">
+<div class="sectionbody">
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_131_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_131_text.jpg" width="350" /></a>
 </div>
-
-
+</div>
+</div>
+<div class="sect1">
+<h2 id="Спонсоры">Спонсоры</h2>
+<div class="sectionbody">
+<div class="ulist">
 <ul>
-<li>В полку <a href="https://java-champions.java.net">чемпионов</a> прибыло. <a href="https://blogs.oracle.com/java/entry/new_java_champions_mario_torre">Наши поздравления мистеру Архипову!</a></li>
-<li>Добить JavaOne:
-
+<li>
+<p><a href="https://www.tinkoff.ru">Tinkoff bank</a></p>
+<div class="ulist">
 <ul>
-<li><a href="https://oracleus.activeevents.com/2014/connect/fileDownload/session/753320BEF30DCDCF22F06D12DB4E302D/CON3565_Robertson-ScienceAndArtOfBackwardsCompatability.pdf">Reflection</a></li>
-<li><a href="https://parleys.com/play/543f977ce4b06e1184ae417f">Do you really get your IDE?</a></li>
-<li>JavaOne keynotes:
-
-<ul>
-<li><a href="http://medianetwork.oracle.com/video/player/3818220797001">Intel Keynote</a></li>
-<li><a href="http://medianetwork.oracle.com/video/player/3811045975001">Technical Keynote</a></li>
-<li><a href="http://medianetwork.oracle.com/video/player/3818408543001">Community Keynote</a></li>
-</ul>
+<li>
+<p>Москва/Питер вакансии <a href="mailto:scala@tinkoff.ru">scala@tinkoff.ru</a></p>
 </li>
-<li><a href="http://openjdk.java.net/projects/panama/">Project Panama</a></li>
-<li><a href="http://openjdk.java.net/projects/valhalla/">Project Valhalla</a></li>
 </ul>
+</div>
 </li>
-<li><a href="http://www.infoq.com/articles/Kicking-Off-Java-EE-8">Java EE 8 is Kicking Off</a></li>
-<li><a href="http://www.oracle.com/technetwork/articles/java/mvc-2280472.html">Why another MVC?</a></li>
 </ul>
-
-
-<p><a href="https://www.chrisnewland.com/cpu-pinning-java-threads-with-jstack-and-taskset-380">CPU pinning Java threads with stack and task set</a></p>
-
-<p>Полезняшки:</p>
-
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Гости">Гости</h2>
+<div class="sectionbody">
+<div class="ulist">
 <ul>
-<li><a href="http://takari.io/2014/10/16/incremental-compilation.html">maven incremental compilation</a></li>
-<li><a href="http://pantsbuild.github.io/">Штаны</a></li>
-<li><a href="http://readme.io">Readme</a></li>
-<li><a href="http://slackatwork.com/">Шлангуй на работе</a></li>
-<li><a href="https://github.com/andrewgaul/modernizer-maven-plugin">Используй только свежее</a></li>
+<li>
+<p><a href="https://twitter.com/23derevo">@23derevo</a></p>
+</li>
 </ul>
-
-
-<hr />
-
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="strong-Мероприятия-strong"><strong>Мероприятия</strong></h2>
+<div class="sectionbody">
+<div class="ulist">
 <ul>
-<li><a href="https://play.google.com/store/apps/details?id=com.shonenfactory.razborpoletov">Приложение «Разбор Полетов» для Android</a>. <a href="https://github.com/rsi2m/RazborPoletov">Гитхаб</a> для пулл-реквестов</li>
+<li>
+<p><a href="https://2017.jbreak.ru">JBreak</a> и <a href="https://jpoint.ru">JPoint</a> совсем близко 4 апреля</p>
+</li>
+<li>
+<p><a href="https://rigadevdays.lv">Riga Dev Days </a>15-17 мая</p>
+</li>
+<li>
+<p><a href="https://2017.geekout.ee">GeekOut</a> 8-9 июня</p>
+</li>
 </ul>
-
-
-<hr />
-
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Запуск ресурса <a href="http://jug.ru">jug.ru</a> <a href="http://jug.ru/2016/09/jug-ru-relaunch/" class="bare">http://jug.ru/2016/09/jug-ru-relaunch/</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Полезняшки">Полезняшки</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Еще один <a href="http://blog.jevsejev.io/2017/02/19/java-libraries-you-cannot-miss-in-2017/?utm_source=ycombinator">обзорчик библиотек</a></p>
+</li>
+<li>
+<p>Промокод на JPoint: <strong>razbor_poletov</strong></p>
+</li>
+</ul>
+</div>
+<hr>
+<div class="paragraph">
 <p>Наши контакты:</p>
-
+</div>
+<div class="paragraph">
 <p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
-
-<p>Темы для следующего выпуска - <a href="https://github.com/razbor-poletov/razbor-poletov.github.com/issues?state=open">https://github.com/razbor-poletov/</a></p>
-
+</div>
+<div class="paragraph">
+<p><a href="http://razbor-poletov.com/broadcast.html">Информация о вещании</a></p>
+</div>
+<div class="paragraph">
 <p>Гости и участники:</p>
-
+</div>
+<div class="paragraph">
 <p>twitter:</p>
-
+</div>
+<div class="ulist">
 <ul>
-<li><a href="https://twitter.com/#!/a_abashev">@a_abashev</a></li>
-<li><a href="https://twitter.com/#!/antonarhipov">@antonarhipov</a></li>
-<li><a href="https://twitter.com/#!/gamussa">@gamussa</a></li>
-<li><a href="https://twitter.com/#!/dzmitryc">@dzmitryc </a></li>
+<li>
+<p><a href="https://twitter.com/antonarhipov">@antonarhipov</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/jbaruch">@jbaruch</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/tolkv">@tolkv</a></p>
+</li>
 </ul>
-
-
+</div>
 <!-- player goes here-->
 
-
-<p><audio preload="none">
-   <source src="http://traffic.libsyn.com/razborpoletov/razbor_71.mp3" type="audio/mp3" />
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_131.mp3" type="audio/mp3" />
    Your browser does not support the audio tag.
-</audio></p>
-
+</audio>
+<div class="paragraph">
 <p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
-
-<!-- episode file link goes here-->
-
-
-<p><a href="http://traffic.libsyn.com/razborpoletov/razbor_71.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a></p>
-
-<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
 </div>
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_131.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+<div class="paragraph">
+<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
+</div>
+</div>
+</div></div>
 
 
   <footer>
@@ -240,7 +280,7 @@ $(document).ready(function() {
       
   
 
-<span class="byline author vcard">Posted by <span class="fn">Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky</span></span>
+<span class="byline author vcard">Posted by <span class="fn">2017-03-29 17:10</span></span>
 
       
 
@@ -254,7 +294,7 @@ $(document).ready(function() {
   
 
 
-<time datetime="2014-10-22T23:33:00+00:00" pubdate data-updated="true">Oct 22<span>nd</span>, 2014</time>
+<time datetime="2017-03-29T00:00:00+00:00" pubdate data-updated="true">Mar 29<span>th</span>, 2017</time>
       
 
 
@@ -273,10 +313,8 @@ $(document).ready(function() {
     
     <p class="meta">
       
-        <a class="basic-alignment left" href="/2014/10/episode-70.html" title="Previous Post: Episode 70 — Дневники JavaOne: день 2. Лечим индустрию">&laquo; Episode 70 — Дневники JavaOne: день 2. Лечим индустрию</a>
+        <a class="basic-alignment left" href="/2017/03/episode-130.html" title="Previous Post: Episode 130: Devoxx US Special!">&laquo; Episode 130: Devoxx US Special!</a>
       
-      
-        <a class="basic-alignment right" href="/2014/11/episode-72.html" title="Next Post: Episode 72 — Банда снова в деле!">Episode 72 — Банда снова в деле! &raquo;</a>
       
     </p>
   </footer>
@@ -402,8 +440,8 @@ $(document).ready(function() {
       
         
         // var disqus_developer = 1;
-        var disqus_identifier = 'http://razbor-poletov.com/2014/10/episode-71.html';
-        var disqus_url = 'http://razbor-poletov.com/2014/10/episode-71.html';
+        var disqus_identifier = 'http://razbor-poletov.com/2017/03/episode-131.html';
+        var disqus_url = 'http://razbor-poletov.com/2017/03/episode-131.html';
         var disqus_script = 'embed.js';
       
 
@@ -417,7 +455,7 @@ $(document).ready(function() {
 
 <script>
     gapi.comments.render('gplus-pingback', { 
-	    href: 'http://razbor-poletov.com/2014/10/episode-71.html',
+	    href: 'http://razbor-poletov.com/2017/03/episode-131.html',
         first_party_property: 'BLOGGER',
         view_type: 'FILTERED_POSTMOD'
     });
