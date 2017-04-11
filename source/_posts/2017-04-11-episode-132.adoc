@@ -1,0 +1,57 @@
+---
+comments: true
+categories: 
+---
+= Episode 132 — Scala Тинькова
+2017-04-11 15:44
+:layout: post
+:filename: razbor_
+
+++++
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_132_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_132_text.jpg" width="350" /></a>
+</div>
+++++
+
+Зашли в гости к команде бэкенда, которые пишут на Scala и им это нравится!
+
+https://github.com/TinkoffCreditSystems[Открытые проекты Тинькова] 
+
+== Спонсоры
+
+* https://www.tinkoff.ru[Tinkoff bank]
+** Москва/Питер вакансии link:mailto:scala@tinkoff.ru[scala@tinkoff.ru]
+
+
+'''
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com[http://razbor-poletov.com]
+
+http://razbor-poletov.com/broadcast.html[Информация о вещании]
+
+Гости и участники:
+
+twitter:
+
+  * https://twitter.com/a_abashev[@a_abashev]
+  * https://twitter.com/gamussa[@gamussa]
+
+++++
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_132.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+++++
+
+Подписаться по http://feeds.feedburner.com/razbor-podcast[RSS]
+
+++++
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_132.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+++++
+
+Музыка ведущим http://www.audiobank.fm/single-music/27/111/More-And-Less/[предоставлена] и ладно...
