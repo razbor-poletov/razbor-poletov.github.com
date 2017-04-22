@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2017-04-22T20:41:06+00:00</updated>
+  <updated>2017-04-22T22:38:32+00:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,180 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 133 —]]></title>
+    <link href="http://razbor-poletov.com/2017/04/episode-133.html"/>
+    <updated>2017-04-23T00:00:00+00:00</updated>
+    <id>http://razbor-poletov.com/2017/04/episode-133</id>
+    <content type="html"><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_133_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_133_text.jpg" width="350" /></a>
+</div>
+</div>
+</div>
+<h1 id="133-episode-14-season-06" class="sect0">133: Episode 14 Season 06</h1>
+<div class="sect1">
+<h2 id="Спонсоры">Спонсоры</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Платформа вещания <a href="https://shipilev.net/" class="bare">https://shipilev.net/</a></p>
+</li>
+<li>
+<p>пишешь на Scala - пиши сюда <a href="mailto:scala@tinkoff.ru">scala@tinkoff.ru</a></p>
+</li>
+<li>
+<p>Очень странный сетап и локация <a href="https://twitter.com/gAmUssA/status/855514452673875968" class="bare">https://twitter.com/gAmUssA/status/855514452673875968</a></p>
+</li>
+<li>
+<p>Внекласное чтение в отпуске <a href="https://twitter.com/gAmUssA/status/854016716229283840" class="bare">https://twitter.com/gAmUssA/status/854016716229283840</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Гости">Гости</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://twitter.com/@ligolnik">@ligolnik</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="strong-Мероприятия-strong"><strong>Мероприятия</strong></h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://rigadevdays.lv">Riga Dev Days </a>15-17 мая</p>
+</li>
+<li>
+<p><a href="https://2017.geekout.ee">GeekOut</a> 8-9 июня</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Лёня, ты кто такой будешь?</p>
+</li>
+<li>
+<p>APM Wily</p>
+</li>
+<li>
+<p>Как покупать и продавать компании</p>
+</li>
+<li>
+<p>Что там в долине? Как поживаете?</p>
+</li>
+<li>
+<p>Чем платят в кремниевой долине?</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Полезняшки">Полезняшки</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://www.ozon.ru/context/detail/id/19379723">Книга о том как мотивировать и удерживать </a>по совету <a href="https://twitter.com/@ligolnik">@ligolnik</a></p>
+</li>
+<li>
+<p><a href="https://www.amazon.com/Hatching-Twitter-Story-Friendship-Betrayal/dp/1591847087" class="bare">https://www.amazon.com/Hatching-Twitter-Story-Friendship-Betrayal/dp/1591847087</a></p>
+</li>
+<li>
+<p><a href="https://www.amazon.com/dp/B003F3PKSQ/ref=dp-kindle-redirect?_encoding=UTF8&amp;btkr=1">How You Can Negotiate to Succeed in Work and Life</a></p>
+</li>
+<li>
+<p><a href="https://www.amazon.com/Difference-Between-God-Larry-Ellison/dp/0060008768" class="bare">https://www.amazon.com/Difference-Between-God-Larry-Ellison/dp/0060008768</a></p>
+</li>
+<li>
+<p><a href="https://www.amazon.com/Softwar-Intimate-Portrait-Ellison-Oracle/dp/0743225058/ref=pd_bxgy_14_2?_encoding=UTF8&amp;pd_rd_i=0743225058&amp;pd_rd_r=M8A9BPJC0KHXRPMKQ8RT&amp;pd_rd_w=JfElK&amp;pd_rd_wg=xweBX&amp;psc=1&amp;refRID=M8A9BPJC0KHXRPMKQ8RT">https://www.amazon.com/Softwar-Intimate-Portrait-Ellison-Oracle/dp/0743225058/</a></p>
+</li>
+<li>
+<p>Getting More <a href="https://www.amazon.com/dp/B003F3PKSQ/ref=dp-kindle-redirect?_encoding=UTF8&amp;btkr=1">https://www.amazon.com/dp/B003F3PKSQ/</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Дополнительно">Дополнительно</h2>
+<div class="sectionbody">
+<hr>
+<div class="paragraph">
+<p>Наши контакты:</p>
+</div>
+<div class="paragraph">
+<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
+</div>
+<div class="paragraph">
+<p><a href="http://razbor-poletov.com/broadcast.html">Информация о вещании</a></p>
+</div>
+<div class="paragraph">
+<p>Гости и участники:</p>
+</div>
+<div class="paragraph">
+<p>twitter:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://twitter.com/a_abashev">@a_abashev</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/antonarhipov">@antonarhipov</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/dzmitryc">@dzmitryc</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/jbaruch">@jbaruch</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/shipilev">@shipilev</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/tolkv">@tolkv</a></p>
+</li>
+</ul>
+</div>
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_133.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+<div class="paragraph">
+<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
+</div>
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_133.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+<div class="paragraph">
+<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
+</div>
+</div>
+</div>]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 132 — Scala Тинькова]]></title>
@@ -6992,61 +7166,6 @@ jug.msk.ru <a href="http://habrahabr.ru/post/272009/" class="bare">http://habrah
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
 </div>
 </div>
-</div>]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 83 — Привет с JPoint]]></title>
-    <link href="http://razbor-poletov.com/2015/05/episode-83.html"/>
-    <updated>2015-05-03T00:00:00+00:00</updated>
-    <id>http://razbor-poletov.com/2015/05/episode-83</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="http://razbor-poletov.com/images/razbor_83_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_83_text.jpg" width="350" /></a>
-</div>
-<div class="paragraph">
-<p>Запись была сделана на конференции <a href="http://javapoint.ru">JPoint 2015</a> в апреле 2015го.</p>
-</div>
-<div class="paragraph">
-<p>Наши контакты:</p>
-</div>
-<div class="paragraph">
-<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
-</div>
-<div class="paragraph">
-<p><a href="http://razbor-poletov.com/broadcast.html">Информация о вещании</a></p>
-</div>
-<div class="paragraph">
-<p>Гости и участники:</p>
-</div>
-<div class="paragraph">
-<p>twitter:</p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://twitter.com/a_abashev">@a_abashev</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/antonarhipov">@antonarhipov</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/holyslon">@holyslon</a></p>
-</li>
-</ul>
-</div>
-<!-- player goes here-->
-
-<audio preload="none">
-   <source src="http://traffic.libsyn.com/razborpoletov/razbor_83.mp3" type="audio/mp3" />
-   Your browser does not support the audio tag.
-</audio>
-<div class="paragraph">
-<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
-</div>
-<!-- episode file link goes here-->
-<a href="http://traffic.libsyn.com/razborpoletov/razbor_83.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
-<div class="paragraph">
-<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
 </div>]]></content>
   </entry>
   
