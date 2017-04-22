@@ -1,0 +1,89 @@
+---
+comments: true
+categories: 
+---
+= Episode 133 — 
+2017-04-23 00:38
+:layout: post
+:filename: razbor_
+
+++++
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_133_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_133_text.jpg" width="350" /></a>
+</div>
+++++
+
+= 133: Episode 14 Season 06
+
+== Спонсоры
+
+* Платформа вещания https://shipilev.net/
+* пишешь на Scala - пиши сюда link:mailto:scala@tinkoff.ru[scala@tinkoff.ru]
+* Очень странный сетап и локация https://twitter.com/gAmUssA/status/855514452673875968
+* Внекласное чтение в отпуске https://twitter.com/gAmUssA/status/854016716229283840
+
+== Гости
+
+* https://twitter.com/@ligolnik[@ligolnik]
+
+== **Мероприятия**
+
+* https://rigadevdays.lv[Riga Dev Days ]15-17 мая
+* https://2017.geekout.ee[GeekOut] 8-9 июня
+
+== Темы
+
+* Лёня, ты кто такой будешь?
+* APM Wily
+* Как покупать и продавать компании
+* Что там в долине? Как поживаете?
+* Чем платят в кремниевой долине?
+
+== Полезняшки
+
+* https://www.ozon.ru/context/detail/id/19379723[Книга о том как мотивировать и удерживать ]по совету https://twitter.com/@ligolnik[@ligolnik]
+* https://www.amazon.com/Hatching-Twitter-Story-Friendship-Betrayal/dp/1591847087
+* https://www.amazon.com/dp/B003F3PKSQ/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1[How You Can Negotiate to Succeed in Work and Life]
+* https://www.amazon.com/Difference-Between-God-Larry-Ellison/dp/0060008768
+* https://www.amazon.com/Softwar-Intimate-Portrait-Ellison-Oracle/dp/0743225058/ref=pd_bxgy_14_2?_encoding=UTF8&pd_rd_i=0743225058&pd_rd_r=M8A9BPJC0KHXRPMKQ8RT&pd_rd_w=JfElK&pd_rd_wg=xweBX&psc=1&refRID=M8A9BPJC0KHXRPMKQ8RT[https://www.amazon.com/Softwar-Intimate-Portrait-Ellison-Oracle/dp/0743225058/]
+* Getting More https://www.amazon.com/dp/B003F3PKSQ/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1[https://www.amazon.com/dp/B003F3PKSQ/]
+
+== Дополнительно
+
+'''
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com[http://razbor-poletov.com]
+
+http://razbor-poletov.com/broadcast.html[Информация о вещании]
+
+Гости и участники:
+
+twitter:
+
+  * https://twitter.com/a_abashev[@a_abashev]
+  * https://twitter.com/antonarhipov[@antonarhipov]
+  * https://twitter.com/dzmitryc[@dzmitryc]
+  * https://twitter.com/gamussa[@gamussa]
+  * https://twitter.com/jbaruch[@jbaruch]
+  * https://twitter.com/shipilev[@shipilev]
+  * https://twitter.com/tolkv[@tolkv]
+
+++++
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_133.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+++++
+
+Подписаться по http://feeds.feedburner.com/razbor-podcast[RSS]
+
+++++
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_133.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+++++
+
+Музыка ведущим http://www.audiobank.fm/single-music/27/111/More-And-Less/[предоставлена] и ладно...
