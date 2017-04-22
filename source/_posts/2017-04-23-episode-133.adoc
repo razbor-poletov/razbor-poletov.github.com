@@ -2,7 +2,7 @@
 comments: true
 categories: 
 ---
-= Episode 133 — 
+= Episode 133 — VP of Engineering и инвестиции
 2017-04-23 00:38
 :layout: post
 :filename: razbor_
