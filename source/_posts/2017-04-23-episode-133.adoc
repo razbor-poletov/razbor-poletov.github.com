@@ -13,8 +13,6 @@ categories:
 </div>
 ++++
 
-= 133: Episode 14 Season 06
-
 == Спонсоры
 
 * Платформа вещания https://shipilev.net/
