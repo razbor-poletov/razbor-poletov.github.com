@@ -58,8 +58,6 @@ http://razbor-poletov.com/broadcast.html[Информация о вещании]
 
 Гости и участники:
 
-twitter:
-
   * https://twitter.com/a_abashev[@a_abashev]
   * https://twitter.com/gamussa[@gamussa]
   * https://twitter.com/jbaruch[@jbaruch]
