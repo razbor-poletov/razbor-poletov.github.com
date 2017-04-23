@@ -17,8 +17,8 @@ categories:
 
 * Платформа вещания https://shipilev.net/
 * Пишешь на Scala - пиши сюда link:mailto:scala@tinkoff.ru[scala@tinkoff.ru]
-* Очень странный сетап и локация https://twitter.com/gAmUssA/status/855514452673875968
-* Внеклассное чтение в отпуске https://twitter.com/gAmUssA/status/854016716229283840
+* https://twitter.com/gAmUssA/status/855514452673875968[Очень странный сетап и локация]
+* https://twitter.com/gAmUssA/status/854016716229283840[Внеклассное чтение в отпуске]
 
 == Гости
 
