@@ -26,7 +26,16 @@ categories:
 
 == **Мероприятия**
 
-* https://rigadevdays.lv[Riga Dev Days ]15-17 мая
+Riga Dev Days 15-17 мая
+
+
+
+
+
+* https://rigadevdays.lv[Riga Dev Days] 15-17 мая
+* https://2017.geecon.org[GeeCON] 17-19 мая
+* https://swampup.jfrog.com[swampUP] 24-26 мая
+* http://jeeconf.com[JEEConf] 26-27 мая
 * https://2017.geekout.ee[GeekOut] 8-9 июня
 
 == Темы
