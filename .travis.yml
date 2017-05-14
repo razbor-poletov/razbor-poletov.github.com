@@ -24,4 +24,4 @@ after_script:
 env:
   global:
     - REPO="https://github.com/razbor-poletov/razbor-poletov.github.com.git"
-    - secure: FE6GY6mm8DdZzh2Xq0mDTlqAyo6VmybQFavUVjimisB89/+9vDgK0Ikfm1RI7IwU2AJ6f62za1p7Cwhgi5FqvIB2e9HZvMOoRPitJeN28+Yo/P+CUNmiQijU5GQc7WWnMlgGuXH+RxstgQdqCUQ8z4iGDho0vdvk+5LfMgfDadA=
+    - secure: GWdAGUnCaXU+hiLzSrzSMS+0GKfmfO1WBzt/U8lrZTCGPIKOXYlAb5e3JcnCMXl4tgmegeiKnBjand5KeCS18rhLuh/o2XbXew8s0UWigO6+7xFSDb9REKF/uKCOnf/ePTn0dcruO2Rz4h4YlIPvZtDk+wyk0qHe2xdXlrVcfsU=
