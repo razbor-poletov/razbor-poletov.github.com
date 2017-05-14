@@ -1,0 +1,111 @@
+---
+comments: true
+categories: 
+---
+= Episode 134 — Jigsaw и Docker
+2017-05-14 14:11
+:layout: post
+:filename: razbor_
+
+++++
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_134_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_134_text.jpg" width="350" /></a>
+</div>
+++++
+
+== Мероприятия
+
+* https://rigadevdays.lv[Riga Dev Days ]15-16 мая
+* https://geecon.org[GeeCON] 17-19 мая
+* JUG.MSK в Кроке 22 мая
+* https://developer.oracle.com/code/moscow[Oracle Code Moscow] 23 мая
+* http://jeeconf.com[JEEConf] 26-27 мая
+* https://holyjs-piter.ru[HolyJS] — 2-3 июня
+* https://heisenbug-piter.ru[Гейзенбаг] — 4 июня
+* https://2017.geekout.ee[GeekOut] 8-9 июня
+
+== Темы
+
+Java 9
+
+* https://www.infoq.com/news/2017/05/no-jigsaw[“No Jigsaw!”] - IBM и Red Hat против
+** Спросить у Шипилева - чего не хватает редхату что принять Jigsaw в себя `:)`
+* https://blog.plan99.net/is-jigsaw-good-or-is-it-wack-ec634d36dd6f?t[Is Jigsaw good or is it wack?]
+* http://mail.openjdk.java.net/pipermail/jpms-spec-experts/2017-February/000582.html[How to name modules, automatic and otherwise (JDK9)]
+** http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html[jpms module naming]
+** http://blog.joda.org/2017/05/java-se-9-jpms-automatic-modules.html[jpms automatic modules]
+* http://mail.openjdk.java.net/pipermail/jpms-spec-observers/2017-May/000870.html[Concerns with JPMS spec and Jigsaw implementation]
+* И всё равно, модули https://www.infoq.com/news/2017/05/jigsaw-public-review[пойдут в паблик ревью]
+* An http://mreinhold.org/blog/to-the-jcp-ec
+** и ответ http://mail.openjdk.java.net/pipermail/jpms-spec-observers/2017-May/000874.html
+* И ещё http://mydailyjava.blogspot.com.ee/2017/05/yet-another-jigsaw-opinion-piece.html[одно мнение о Jigsaw]
+* http://www.tomitribe.com/blog/2017/05/is-jigsaw-dead-not-quite[Jigsaw is not dead]
+
+=== Baruch про DokerCon
+
+* инфоповод https://www.kencochrane.net/2017/03/24/5-years-at-docker[5 years at Docker]
+* https://jpetazzo.github.io/2017/02/24/from-dotcloud-to-docker/
+* поговорить про Moby https://twitter.com/chuhnk/status/855019102410346497
+* https://twitter.com/arungupta/status/861974802021658624
+
+==== Rocket
+
+* https://coreos.com/blog/rocket.html
+* https://github.com/rkt/rkt/
+* https://coreos.com/blog/rkt-and-kubernetes.html
+
+=== Полезняшки
+
+* https://try.crashlytics.com[Crashlytics]
+* https://twitter.com/intellijidea/status/862961379329888256[Stream API Debugger]
+* https://twitter.com/gAmUssA/status/859697461639733248[Don't get confused with lambdas]
+* https://twitter.com/ApacheGroovy/status/861924721453084672[Java 8 data/time support ] for Groovy 
+* https://www.testcontainers.org[TestContainers]
+* https://github.com/arquillian/arquillian-cube[Arquillian Cude]
+* https://github.com/shrinkwrap[ShrinkWrap]
+* http://seleniumcamp.com/talk/testng-vs-junit-5-battle[TestNG vs JUnit5]
+* https://isitonaws.com[IsItOnAWS]
+* https://www.getpostman.com[Postman]
+* https://insights.stackoverflow.com/trends[StackOverflow trends]
+* https://twitter.com/gAmUssA/status/854016716229283840
+
+=== Чтиво
+
+* https://www.mann-ivanov-ferber.ru/books/dzhedajskie-texniki[Максим Дорофеев - Джедайские техники]
+
+'''
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com[http://razbor-poletov.com]
+
+http://razbor-poletov.com/broadcast.html[Информация о вещании]
+
+Гости и участники:
+
+twitter:
+
+  * https://twitter.com/a_abashev[@a_abashev]
+  * https://twitter.com/antonarhipov[@antonarhipov]
+  * https://twitter.com/gamussa[@gamussa]
+  * https://twitter.com/jbaruch[@jbaruch]
+  * https://twitter.com/shipilev[@shipilev]
+  * https://twitter.com/tolkv[@tolkv]
+
+++++
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_134.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+++++
+
+Подписаться по http://feeds.feedburner.com/razbor-podcast[RSS]
+
+++++
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_134.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+++++
+
+Музыка ведущим http://www.audiobank.fm/single-music/27/111/More-And-Less/[предоставлена] и ладно...
