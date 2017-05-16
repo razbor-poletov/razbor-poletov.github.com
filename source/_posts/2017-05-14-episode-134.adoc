@@ -17,7 +17,7 @@ categories:
 
 * https://rigadevdays.lv[Riga Dev Days ]15-16 мая
 * https://geecon.org[GeeCON] 17-19 мая
-* https://jugmsk.timepad.ru/event/491263/[JUG.MSK в Кроке] 22 мая
+* https://jugmsk.timepad.ru/event/491263/[JUG.MSK.RU в Кроке] 22 мая
 * https://developer.oracle.com/code/moscow[Oracle Code Moscow] 23 мая
 * http://jeeconf.com[JEEConf] 26-27 мая
 * https://holyjs-piter.ru[HolyJS] — 2-3 июня
