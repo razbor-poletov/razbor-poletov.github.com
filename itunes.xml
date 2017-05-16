@@ -6,8 +6,8 @@
     <atom:link href="http://razbor-poletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2017-05-15T09:01:05+00:00</pubDate>
-    <lastBuildDate>2017-05-15T09:01:05+00:00</lastBuildDate>
+    <pubDate>2017-05-16T10:15:56+00:00</pubDate>
+    <lastBuildDate>2017-05-16T10:15:56+00:00</lastBuildDate>
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razbor-poletov.com/logoB.jpg" />
@@ -44,7 +44,7 @@
 <p><a href="https://geecon.org">GeeCON</a> 17-19 мая</p>
 </li>
 <li>
-<p>JUG.MSK в Кроке 22 мая</p>
+<p><a href="https://jugmsk.timepad.ru/event/491263/">JUG.MSK в Кроке</a> 22 мая</p>
 </li>
 <li>
 <p><a href="https://developer.oracle.com/code/moscow">Oracle Code Moscow</a> 23 мая</p>
