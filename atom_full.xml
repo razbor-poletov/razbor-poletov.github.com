@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2017-06-19T22:02:24+00:00</updated>
+  <updated>2017-06-19T22:42:29+00:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,101 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 137 – Мир database с Postgresql]]></title>
+    <link href="http://razbor-poletov.com/2017/06/episode-137.html"/>
+    <updated>2017-06-19T00:00:00+00:00</updated>
+    <id>http://razbor-poletov.com/2017/06/episode-137</id>
+    <content type="html"><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_137_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_137_text.jpg" width="350" /></a>
+</div>
+</div>
+</div>
+<div class="sect2">
+<h3 id="Спикер-конференции-РИТ-2017">Спикер конференции РИТ++ 2017</h3>
+<div class="paragraph">
+<p>Илья Космодемьянский (Data Egret)</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Postgresql vs Mongodb</p>
+</li>
+<li>
+<p>Как работать с opensource</p>
+</li>
+<li>
+<p>Заграничные паспорта — Эльбрусы, Postgresql, Linux</p>
+</li>
+<li>
+<p>Кто и как контрибьютить в Postgresql</p>
+</li>
+<li>
+<p>Хранимые процедуры</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Чтиво">Чтиво</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="http://db.cs.berkeley.edu/papers/fntdb07-architecture.pdf">Architecture of a Database System – Hellerstein, Stonebraker &amp; Hamilton, 2007.</a></p>
+</li>
+<li>
+<p><a href="http://www.labirint.ru/books/365257/">Настройка приложений баз данных - Новиков Б., Домбровская Г.</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<h1 id="Гости-и-участники" class="sect0">Гости и участники:</h1>
+<hr>
+<div class="paragraph">
+<p>Наши контакты:</p>
+</div>
+<div class="paragraph">
+<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
+</div>
+<div class="paragraph">
+<p><a href="http://razbor-poletov.com/broadcast.html">Информация о вещании</a></p>
+</div>
+<div class="paragraph">
+<p>Гости и участники:</p>
+</div>
+<div class="paragraph">
+<p>twitter:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://twitter.com/the_hydrobiont">@the_hydrobiont</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/golodnyj">@golodnyj</a></p>
+</li>
+</ul>
+</div>
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_137.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+<div class="paragraph">
+<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
+</div>
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_137.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+<div class="paragraph">
+<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
+</div>]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 136 – РИТ Special: Прокрастинация как она есть]]></title>
