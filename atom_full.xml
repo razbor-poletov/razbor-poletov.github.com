@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2017-06-19T21:34:06+00:00</updated>
+  <updated>2017-06-19T22:02:24+00:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,107 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 136 – РИТ Special: Прокрастинация как она есть]]></title>
+    <link href="http://razbor-poletov.com/2017/06/episode-136.html"/>
+    <updated>2017-06-19T00:00:00+00:00</updated>
+    <id>http://razbor-poletov.com/2017/06/episode-136</id>
+    <content type="html"><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_136_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_136_text.jpg" width="350" /></a>
+</div>
+</div>
+</div>
+<div class="sect2">
+<h3 id="Спикер-конференции-РИТ-2017">Спикер конференции РИТ++ 2017</h3>
+<div class="paragraph">
+<p>Максим Дорофеев (@cartmendum)</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="Резидент-подкаста-Подлодка">Резидент подкаста Подлодка:</h3>
+<div class="paragraph">
+<p>Глеб Новик</p>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Прокрастинация разработчиков и менеджеров</p>
+</li>
+<li>
+<p>Бабушка интуиция против</p>
+</li>
+<li>
+<p>Персональные ассистенты и девочки обезьяны</p>
+</li>
+<li>
+<p>Состояние потока для разработчика</p>
+</li>
+<li>
+<p>Планы на новые книги</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Чтиво">Чтиво</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Максим Дорофеев - <a href="https://www.mann-ivanov-ferber.ru/books/dzhedajskie-texniki/">Джедайские техники</a></p>
+</div>
+<hr>
+<div class="paragraph">
+<p>Наши контакты:</p>
+</div>
+<div class="paragraph">
+<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
+</div>
+<div class="paragraph">
+<p><a href="http://razbor-poletov.com/broadcast.html">Информация о вещании</a></p>
+</div>
+<div class="paragraph">
+<p>Гости и участники:</p>
+</div>
+<div class="paragraph">
+<p>twitter:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://twitter.com/cartmendum">@cartmendum</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/golodnyj">@golodnyj</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/tolkv">@tolkv</a></p>
+</li>
+</ul>
+</div>
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_136.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+<div class="paragraph">
+<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
+</div>
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_136.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+<div class="paragraph">
+<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
+</div>
+</div>
+</div>]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 135 — РИТ Special: DevOps и культура]]></title>
