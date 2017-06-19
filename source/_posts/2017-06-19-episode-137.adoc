@@ -2,7 +2,7 @@
 comments: true
 categories: 
 ---
-= Episode 137 – Мир database с Postgresql
+= Episode 137 – РИТ Special: Мир database с Postgresql
 2017-06-19 18:18
 :layout: post
 :filename: razbor_
