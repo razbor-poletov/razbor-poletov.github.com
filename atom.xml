@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2017-06-17T11:13:11+00:00</updated>
+  <updated>2017-06-19T21:34:06+00:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,122 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 135 — РИТ Special: DevOps и культура]]></title>
+    <link href="http://razbor-poletov.com/2017/06/episode-135.html"/>
+    <updated>2017-06-19T00:00:00+00:00</updated>
+    <id>http://razbor-poletov.com/2017/06/episode-135</id>
+    <content type="html"><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="separator" style="clear: both; texhttps://twitter.com/-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_135_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_135_text.jpg" width="350" /></a>
+</div>
+</div>
+</div>
+<div class="sect2">
+<h3 id="Спикеры-конференции-РИТ-2017">Спикеры конференции РИТ++ 2017</h3>
+<div class="ulist">
+<ul>
+<li>
+<p>Александр Титов (Экспресс 42)</p>
+</li>
+<li>
+<p>Александр Тарасов (Одноклассники)</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect2">
+<h3 id="Резиденты-подкаста-a-href-http-devopsdeflope-ru-devops-Дефлопе-a">Резиденты подкаста <a href="http://devopsdeflope.ru">DevOps Дефлопе</a>:</h3>
+<div class="ulist">
+<ul>
+<li>
+<p>Никита Борзых</p>
+</li>
+<li>
+<p>Константин Назаров</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>RootConf на РИТ++ 2017</p>
+</li>
+<li>
+<p>Четыре роли разработчиков</p>
+</li>
+<li>
+<p>Зерги и протосы разные стратегии набора людей</p>
+</li>
+<li>
+<p>Взращивание культуры DevOps в компании</p>
+</li>
+<li>
+<p>Common sense vs Здравый смысл</p>
+</li>
+</ul>
+</div>
+<hr>
+<div class="paragraph">
+<p>Наши контакты:</p>
+</div>
+<div class="paragraph">
+<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
+</div>
+<div class="paragraph">
+<p><a href="http://razbor-poletov.com/broadcast.html">Информация о вещании</a></p>
+</div>
+<div class="paragraph">
+<p>Гости и участники:</p>
+</div>
+<div class="paragraph">
+<p>twitter:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://twitter.com/osminog" class="bare">https://twitter.com/osminog</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/aatarasoff" class="bare">https://twitter.com/aatarasoff</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/ex_sample" class="bare">https://twitter.com/ex_sample</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/racktear" class="bare">https://twitter.com/racktear</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/tolkv" class="bare">https://twitter.com/tolkv</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/golodnyj" class="bare">https://twitter.com/golodnyj</a></p>
+</li>
+</ul>
+</div>
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_135.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+<div class="paragraph">
+<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
+</div>
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_135.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+<div class="paragraph">
+<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
+</div>
+</div>
+</div>]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 134 — Jigsaw и Docker]]></title>
@@ -7047,152 +7163,6 @@ jug.msk.ru <a href="http://habrahabr.ru/post/272009/" class="bare">http://habrah
 </div>
 <!-- episode file link goes here-->
 <a href="http://traffic.libsyn.com/razborpoletov/razbor_86.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
-<div class="paragraph">
-<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
-</div>
-</div>
-</div>]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 85 — Bob McWhirter - ты, кто такой!?]]></title>
-    <link href="http://razbor-poletov.com/2015/05/episode-85.html"/>
-    <updated>2015-05-31T00:00:00+00:00</updated>
-    <id>http://razbor-poletov.com/2015/05/episode-85</id>
-    <content type="html"><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;"><a href="http://razbor-poletov.com/images/razbor_85_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_85_text.jpg" width="350" /></a></div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Оффтопик">Оффтопик</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="http://www.radio-t.com/p/2015/05/30/podcast-446/">Витя и Леша сходили в Радио-Т</a></p>
-</li>
-<li>
-<p><a href="https://jugmsk.timepad.ru/event/211342/">Moscow JUG</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Обсуждения">Обсуждения</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="http://mikemainguy.blogspot.ie/2015/05/the-myth-of-asynchronous-jdbc.html">Миф об асинхронном JDBC</a></p>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://twitter.com/antonarhipov/status/604905195970154496" class="bare">https://twitter.com/antonarhipov/status/604905195970154496</a></p>
-</li>
-<li>
-<p><a href="https://github.com/mauricio/postgresql-async" class="bare">https://github.com/mauricio/postgresql-async</a></p>
-</li>
-</ul>
-</div>
-</li>
-<li>
-<p><a href="https://news.ycombinator.com/item?id=9050114">Хипстер алерт</a></p>
-</li>
-<li>
-<p><a href="https://medium.com/@jstrachan/the-decline-of-java-application-servers-when-using-docker-containers-edbe032e1f30">Сервера приложений Java VS Docker</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Тема-выпуска-Эй-ты-кто-такой">Тема выпуска: Эй, ты, кто такой!?</h2>
-<div class="sectionbody">
-<div class="paragraph">
-<p>Bob <code>The Despot</code> McWhirter <a href="http://www.codehaus.org/about/history.html">1</a> <a href="http://projectodd.org">2</a> <a href="https://twitter.com/bobmcwhirter">3</a></p>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="ПолезНяшки">ПолезНяшки</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://github.com/raydac/jute">Запуск JUnit тестов из Maven в отдельном процессе</a></p>
-</li>
-<li>
-<p><a href="http://javalibs.com/charts">Какая библиотека популярнее?</a></p>
-</li>
-<li>
-<p><a href="http://devrates.com/">Ещё о популярности всяких технологий</a></p>
-</li>
-<li>
-<p><a href="http://www.javadeathmatch.com/">Потешить чсв</a></p>
-</li>
-<li>
-<p><a href="https://github.com/mkarneim/pojobuilder">PojoBuilder</a></p>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://projectlombok.org/features/Builder.html" class="bare">https://projectlombok.org/features/Builder.html</a></p>
-</li>
-<li>
-<p><a href="http://news.dartlang.org/2012/02/method-cascades-in-dart-posted-by-gilad.html">Dart Methods cascades</a></p>
-</li>
-</ul>
-</div>
-</li>
-<li>
-<p><a href="https://developers.google.com/protocol-buffers/docs/proto3" class="bare">https://developers.google.com/protocol-buffers/docs/proto3</a> [proto3]</p>
-</li>
-</ul>
-</div>
-<hr>
-<div class="paragraph">
-<p>Наши контакты:</p>
-</div>
-<div class="paragraph">
-<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
-</div>
-<div class="paragraph">
-<p><a href="http://razbor-poletov.com/broadcast.html">Информация о вещании</a></p>
-</div>
-<div class="paragraph">
-<p>Гости и участники:</p>
-</div>
-<div class="paragraph">
-<p>twitter:</p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://twitter.com/antonarhipov">@antonarhipov</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/dzmitryc">@dzmitryc</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/tolkv">@tolkv</a></p>
-</li>
-</ul>
-</div>
-<!-- player goes here-->
-
-<audio preload="none">
-   <source src="http://traffic.libsyn.com/razborpoletov/razbor_85.mp3" type="audio/mp3" />
-   Your browser does not support the audio tag.
-</audio>
-<div class="paragraph">
-<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
-</div>
-<!-- episode file link goes here-->
-<a href="http://traffic.libsyn.com/razborpoletov/razbor_85.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
 <div class="paragraph">
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
 </div>
