@@ -6,8 +6,8 @@
     <atom:link href="http://razbor-poletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2017-06-19T22:42:29+00:00</pubDate>
-    <lastBuildDate>2017-06-19T22:42:29+00:00</lastBuildDate>
+    <pubDate>2017-06-19T23:31:34+00:00</pubDate>
+    <lastBuildDate>2017-06-19T23:31:34+00:00</lastBuildDate>
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razbor-poletov.com/logoB.jpg" />
@@ -21,7 +21,7 @@
     <media:thumbnail url="http://razbor-poletov.com/logoB.jpg" />
     
     <item>
-      <title>Episode 137 – Мир database с Postgresql</title>
+      <title>Episode 137 – РИТ Special: Мир database с Postgresql</title>
       <link>http://razbor-poletov.com/2017/06/episode-137.html</link>
       <pubDate>2017-06-19T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2017/06/episode-137</guid>
