@@ -2,7 +2,7 @@
 comments: true
 categories: 
 ---
-= Episode 137 – РИТ Special: Мир database с Postgresql
+= Episode 137 – РИТ Special: Мир database с PostgreSQL
 2017-06-19 18:18
 :layout: post
 :filename: razbor_
@@ -17,10 +17,10 @@ categories:
 
 Илья Космодемьянский (Data Egret)
 
-* Postgresql vs Mongodb
-* Как работать с opensource
-* Заграничные паспорта — Эльбрусы, Postgresql, Linux
-* Кто и как контрибьютить в Postgresql
+* PostgreSQL vs MongoDB
+* Как работать с OSS
+* Заграничные паспорта — Эльбрусы, PostgreSQL, Linux
+* Кто и как контрибьютить в PostgreSQL
 * Хранимые процедуры
 
 == Чтиво
