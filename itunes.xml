@@ -6,8 +6,8 @@
     <atom:link href="http://razbor-poletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2017-06-19T23:31:34+00:00</pubDate>
-    <lastBuildDate>2017-06-19T23:31:34+00:00</lastBuildDate>
+    <pubDate>2017-06-20T09:52:16+00:00</pubDate>
+    <lastBuildDate>2017-06-20T09:52:16+00:00</lastBuildDate>
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razbor-poletov.com/logoB.jpg" />
@@ -21,7 +21,7 @@
     <media:thumbnail url="http://razbor-poletov.com/logoB.jpg" />
     
     <item>
-      <title>Episode 137 – РИТ Special: Мир database с Postgresql</title>
+      <title>Episode 137 – РИТ Special: Мир database с PostgreSQL</title>
       <link>http://razbor-poletov.com/2017/06/episode-137.html</link>
       <pubDate>2017-06-19T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2017/06/episode-137</guid>
@@ -40,16 +40,16 @@
 <div class="ulist">
 <ul>
 <li>
-<p>Postgresql vs Mongodb</p>
+<p>PostgreSQL vs MongoDB</p>
 </li>
 <li>
-<p>Как работать с opensource</p>
+<p>Как работать с OSS</p>
 </li>
 <li>
-<p>Заграничные паспорта — Эльбрусы, Postgresql, Linux</p>
+<p>Заграничные паспорта — Эльбрусы, PostgreSQL, Linux</p>
 </li>
 <li>
-<p>Кто и как контрибьютить в Postgresql</p>
+<p>Кто и как контрибьютить в PostgreSQL</p>
 </li>
 <li>
 <p>Хранимые процедуры</p>
@@ -130,16 +130,16 @@
 
 
 
-Postgresql vs Mongodb
+PostgreSQL vs MongoDB
 
 
-Как работать с opensource
+Как работать с OSS
 
 
-Заграничные паспорта — Эльбрусы, Postgresql, Linux
+Заграничные паспорта — Эльбрусы, PostgreSQL, Linux
 
 
-Кто и как контрибьютить в Postgresql
+Кто и как контрибьютить в PostgreSQL
 
 
 Хранимые процедуры
