@@ -1,0 +1,99 @@
+---
+comments: true
+categories: 
+---
+= Episode 138 — Чемпионы и Котлин
+2017-06-28 15:21
+:layout: post
+:filename: razbor_
+
+++++
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_138_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_138_text.jpg" width="350" /></a>
+</div>
+++++
+
+== Гости
+
+* Роман Елизаров https://twitter.com/relizarov[@relizarov]
+
+== Темки
+
+. Twitch и Шипилев и как Леша соперничает с блогером “Кариной” а.к.а. летсплей
+. Как Роман пришел в ACM ICPC
+. Команда ИТМО снова победила **ICPC **– какое отношение к этому имеет Роман?
+.. http://icpcnews.tumblr.com/post/161036626694/the-results-are-in-from-rapid-city[ICPC and ITMO – gold medal]
+.. https://habrahabr.ru/company/spbifmo/blog/301098[Онлайн-трансляция ACM ICPC: Как это устроен]о
+.. Какова судьба участников/победителей ICPC
+. DevExperts и чем занимался Роман, что привело в финансовую математику
+.. Какие бывают задачи в “кванте”?
+. Рома и JetBrains – как, почему, зачем
+. Kotlin – как Роман способствовал становления Котлина?)
+.. https://blog.jetbrains.com/kotlin/2017/05/kotlin-on-android-now-official[Kotlin on Android]. First class citizen support
+... Google promote Kotlin on Google IO
+... Можно упомянуть про KotlinConf
+... https://twitter.com/relizarov/status/865265905185542144 What about Android architecture feature with Kotlin
+.. Любовный треугольник: https://vimeo.com/221399691[Kotlin + Spring = <3].  А как же Groovy?
+. Kotlin – будущее. Раз Рома отвечает за него, то классно было бы услышать vision Kotlin как продукта :)
+.. ну и конечно же, зачем Kotlin JetBrains. http://www.forbes.ru/tehnologii/345781-andrey-breslav-jetbrains-pryamoy-monetizacii-yazykov-programmirovaniya-skoree[Уже вложили 15 млн], к чему все это?: )
+.. корутины!!
+
+== Факты
+
+. Роман Елизаров рассказывал про Kotlin – народу тьма!
+
+== Мероприятия
+
+* https://jugmsk.timepad.ru/event/511609[JUG Msk Cuba Platform изнутри]
+* Done http://bit.ly/2s1f9ad[Курс Якова про Angular] - Angular online workshop on Razor Poletov. The promo code *razborpoletov* will lower the tuition fee by 15%.
+* Лёня на Kiev JUG (Повтор http://odjug.blogspot.ru/2017/06/java.html?m=1[Одесса JUG)]
+* GeekOut прошел, видео докладов скоро будут.
+** Реактивный Spring https://vimeo.com/221399691
+* РИТ++ прошел
+* Done Видосики с swampUP–a
+* http://www.devoxx.pl[http://www.devoxx.pl]
+* 20 Октября http://devops.jugru.org[DevOpsConf]
+* 21 Октября https://smartdataconf.ru[SmartData]
+
+== Полезняшки
+
+* https://vimeo.com/221399691[Functional web applications with Spring and Kotlin - Sebastien Deleuze]
+* https://2017.geekout.ee/videos/#day2-10[Co-routines by Roman]
+* https://habrahabr.ru/company/spbifmo/blog/301098[Как устроена трансляция ACP ICPC]
+
+'''
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com[http://razbor-poletov.com]
+
+http://razbor-poletov.com/broadcast.html[Информация о вещании]
+
+Гости и участники:
+
+twitter:
+
+  * https://twitter.com/a_abashev[@a_abashev]
+  * https://twitter.com/antonarhipov[@antonarhipov]
+  * https://twitter.com/dzmitryc[@dzmitryc]
+  * https://twitter.com/gamussa[@gamussa]
+  * https://twitter.com/jbaruch[@jbaruch]
+  * https://twitter.com/shipilev[@shipilev]
+  * https://twitter.com/tolkv[@tolkv]
+
+++++
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_138.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+++++
+
+Подписаться по http://feeds.feedburner.com/razbor-podcast[RSS]
+
+++++
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_138.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+++++
+
+Музыка ведущим http://www.audiobank.fm/single-music/27/111/More-And-Less/[предоставлена] и ладно...
