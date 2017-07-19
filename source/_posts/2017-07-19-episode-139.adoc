@@ -1,0 +1,80 @@
+---
+comments: true
+categories: 
+---
+= Episode 139 — Дарт жив!
+2017-07-07 16:00
+:layout: post
+:filename: razbor_139
+
+++++
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_139_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_139_text.jpg" width="350" /></a>
+</div>
+++++
+
+== Гости
+
+. Слава Егоров https://twitter.com/mraleph[@mraleph ]
+. Алексей Фёдоров https://twitter.com/23derevo[@23derevo]
+. Леонид Игольник https://twitter.com/ligolnik[@ligolnik]
+
+== Мероприятия
+
+. https://devoops.ru[DevOops], 20 октября
+. https://smartdataconf.ru[SmartData], 21 октября
+. https://jokerconf.com[Joker], 3-4 ноября
+. https://heisenbug-moscow.ru[Heisenbug], 8-9 декабря
+
+== Темы
+
+. Что там в Дарте происходит? Жив ли пациент?
+.. http://news.dartlang.org/2017/06/dart-124-faster-edit-refresh-cycle-on.html[Жив и дышит]
+.. https://flutter.io/[Dart для мобильников]
+.. https://www.dartlang.org/dart-vm[Dart для сервера]
+.. https://webdev.dartlang.org/tools/dart2js[Dart для веба]
+.. https://jaxenter.com/dart-2-0-strong-mode-135438.html[Будет Dart 2.0]
+. http://redmonk.com/sogrady/2017/06/08/language-rankings-6-17[RedMonk's  language rankings, June 2017]
+. Java 9
+.. https://jcp.org/en/jsr/results?id=6016[Jigsaw быть]!
+.. Случился https://developer.ibm.com/javasdk/2017/05/26/building-consensus-jsr-376-java-platform-module-system[консенсус]
+.. http://iteratrlearning.com/java9/2016/09/05/java9-optional.html[Optional improvements in Java 9]
+.. Версии в релизах Java
+
+'''
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com[http://razbor-poletov.com]
+
+http://razbor-poletov.com/broadcast.html[Информация о вещании]
+
+Гости и участники:
+
+twitter:
+
+  * https://twitter.com/a_abashev[@a_abashev]
+  * https://twitter.com/antonarhipov[@antonarhipov]
+  * https://twitter.com/dzmitryc[@dzmitryc]
+  * https://twitter.com/gamussa[@gamussa]
+  * https://twitter.com/jbaruch[@jbaruch]
+  * https://twitter.com/shipilev[@shipilev]
+  * https://twitter.com/tolkv[@tolkv]
+
+++++
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_139.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+++++
+
+Подписаться по http://feeds.feedburner.com/razbor-podcast[RSS]
+
+++++
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_139.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+++++
+
+Музыка ведущим http://www.audiobank.fm/single-music/27/111/More-And-Less/[предоставлена] и ладно...
