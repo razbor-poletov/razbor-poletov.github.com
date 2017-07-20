@@ -6,8 +6,8 @@
     <atom:link href="http://razbor-poletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2017-07-19T19:37:05+00:00</pubDate>
-    <lastBuildDate>2017-07-19T19:37:05+00:00</lastBuildDate>
+    <pubDate>2017-07-20T22:50:22+00:00</pubDate>
+    <lastBuildDate>2017-07-20T22:50:22+00:00</lastBuildDate>
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razbor-poletov.com/logoB.jpg" />
@@ -19,323 +19,6 @@
     </itunes:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:thumbnail url="http://razbor-poletov.com/logoB.jpg" />
-    
-    <item>
-      <title>Episode 139 — Дарт жив!</title>
-      <link>http://razbor-poletov.com/2017/07/episode-139.html</link>
-      <pubDate>2017-07-07T00:00:00+00:00</pubDate>
-      <guid isPermalink="true">http://razbor-poletov.com/2017/07/episode-139</guid>
-      <description><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="http://razbor-poletov.com/images/razbor_139_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_139_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Гости">Гости</h2>
-<div class="sectionbody">
-<div class="olist arabic">
-<ol class="arabic">
-<li>
-<p>Слава Егоров <a href="https://twitter.com/mraleph">@mraleph </a></p>
-</li>
-<li>
-<p>Алексей Фёдоров <a href="https://twitter.com/23derevo">@23derevo</a></p>
-</li>
-<li>
-<p>Леонид Игольник <a href="https://twitter.com/ligolnik">@ligolnik</a></p>
-</li>
-</ol>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Мероприятия">Мероприятия</h2>
-<div class="sectionbody">
-<div class="olist arabic">
-<ol class="arabic">
-<li>
-<p><a href="https://devoops.ru">DevOops</a>, 20 октября</p>
-</li>
-<li>
-<p><a href="https://smartdataconf.ru">SmartData</a>, 21 октября</p>
-</li>
-<li>
-<p><a href="https://jokerconf.com">Joker</a>, 3-4 ноября</p>
-</li>
-<li>
-<p><a href="https://heisenbug-moscow.ru">Heisenbug</a>, 8-9 декабря</p>
-</li>
-</ol>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Темы">Темы</h2>
-<div class="sectionbody">
-<div class="olist arabic">
-<ol class="arabic">
-<li>
-<p>Что там в Дарте происходит? Жив ли пациент?</p>
-<div class="olist loweralpha">
-<ol class="loweralpha" type="a">
-<li>
-<p><a href="http://news.dartlang.org/2017/06/dart-124-faster-edit-refresh-cycle-on.html">Жив и дышит</a></p>
-</li>
-<li>
-<p><a href="https://flutter.io/">Dart для мобильников</a></p>
-</li>
-<li>
-<p><a href="https://www.dartlang.org/dart-vm">Dart для сервера</a></p>
-</li>
-<li>
-<p><a href="https://webdev.dartlang.org/tools/dart2js">Dart для веба</a></p>
-</li>
-<li>
-<p><a href="https://jaxenter.com/dart-2-0-strong-mode-135438.html">Будет Dart 2.0</a></p>
-</li>
-</ol>
-</div>
-</li>
-<li>
-<p><a href="http://redmonk.com/sogrady/2017/06/08/language-rankings-6-17">RedMonk&#8217;s  language rankings, June 2017</a></p>
-</li>
-<li>
-<p>Java 9</p>
-<div class="olist loweralpha">
-<ol class="loweralpha" type="a">
-<li>
-<p><a href="https://jcp.org/en/jsr/results?id=6016">Jigsaw быть</a>!</p>
-</li>
-<li>
-<p>Случился <a href="https://developer.ibm.com/javasdk/2017/05/26/building-consensus-jsr-376-java-platform-module-system">консенсус</a></p>
-</li>
-<li>
-<p><a href="http://iteratrlearning.com/java9/2016/09/05/java9-optional.html">Optional improvements in Java 9</a></p>
-</li>
-<li>
-<p>Версии в релизах Java</p>
-</li>
-</ol>
-</div>
-</li>
-</ol>
-</div>
-<hr>
-<div class="paragraph">
-<p>Наши контакты:</p>
-</div>
-<div class="paragraph">
-<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
-</div>
-<div class="paragraph">
-<p><a href="http://razbor-poletov.com/broadcast.html">Информация о вещании</a></p>
-</div>
-<div class="paragraph">
-<p>Гости и участники:</p>
-</div>
-<div class="paragraph">
-<p>twitter:</p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://twitter.com/a_abashev">@a_abashev</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/antonarhipov">@antonarhipov</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/dzmitryc">@dzmitryc</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/jbaruch">@jbaruch</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/shipilev">@shipilev</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/tolkv">@tolkv</a></p>
-</li>
-</ul>
-</div>
-<!-- player goes here-->
-
-<audio preload="none">
-   <source src="http://traffic.libsyn.com/razborpoletov/razbor_139.mp3" type="audio/mp3" />
-   Your browser does not support the audio tag.
-</audio>
-<div class="paragraph">
-<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
-</div>
-<!-- episode file link goes here-->
-<a href="http://traffic.libsyn.com/razborpoletov/razbor_139.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
-<div class="paragraph">
-<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
-</div>
-</div>
-</div>]]></description>
-      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
-      <itunes:summary><![CDATA[
-
-
-
-
-
-
-
-Гости
-
-
-
-
-Слава Егоров @mraleph 
-
-
-Алексей Фёдоров @23derevo
-
-
-Леонид Игольник @ligolnik
-
-
-
-
-
-
-Мероприятия
-
-
-
-
-DevOops, 20 октября
-
-
-SmartData, 21 октября
-
-
-Joker, 3-4 ноября
-
-
-Heisenbug, 8-9 декабря
-
-
-
-
-
-
-Темы
-
-
-
-
-Что там в Дарте происходит? Жив ли пациент?
-
-
-
-Жив и дышит
-
-
-Dart для мобильников
-
-
-Dart для сервера
-
-
-Dart для веба
-
-
-Будет Dart 2.0
-
-
-
-
-
-RedMonk&#8217;s  language rankings, June 2017
-
-
-Java 9
-
-
-
-Jigsaw быть!
-
-
-Случился консенсус
-
-
-Optional improvements in Java 9
-
-
-Версии в релизах Java
-
-
-
-
-
-
-
-
-Наши контакты:
-
-
-Официальный сайт — http://razbor-poletov.com
-
-
-Информация о вещании
-
-
-Гости и участники:
-
-
-twitter:
-
-
-
-
-@a_abashev
-
-
-@antonarhipov
-
-
-@dzmitryc
-
-
-@gamussa
-
-
-@jbaruch
-
-
-@shipilev
-
-
-@tolkv
-
-
-
-
-
-
-   
-   Your browser does not support the audio tag.
-
-
-Подписаться по RSS
-
-
-
-
-Музыка ведущим предоставлена и ладно&#8230;&#8203;
-
-
-]]></itunes:summary>
-    </item>
     
     <item>
       <title>Episode 138 — Чемпионы и Котлин</title>
@@ -13979,6 +13662,375 @@ twitter:
 
 
 @andriirodionov
+
+
+
+
+
+
+   
+   Your browser does not support the audio tag.
+
+
+Подписаться по RSS
+
+
+
+
+Музыка ведущим предоставлена и ладно&#8230;&#8203;
+
+
+]]></itunes:summary>
+    </item>
+    
+    <item>
+      <title>Episode 89 — Здесь случайных людей нет</title>
+      <link>http://razbor-poletov.com/2015/08/episode-89.html</link>
+      <pubDate>2015-08-14T00:00:00+00:00</pubDate>
+      <guid isPermalink="true">http://razbor-poletov.com/2015/08/episode-89</guid>
+      <description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_89_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_89_text.jpg" width="350" /></a>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Мероприятия">Мероприятия</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="http://www.meetup.com/bigmoscow/events/224231490/">Индексные структуры данных в реляционных СУБД и поисковых системах</a> - встречка с Рогозиным</p>
+</li>
+<li>
+<p><a href="http://habrahabr.ru/company/jugru/blog/264669/">Docker в банке, а банк в докере</a> отчитаться о codefreeze встречке</p>
+</li>
+<li>
+<p><a href="http://habrahabr.ru/company/jugru/blog/262745/">Анонсирован Joker 2015</a></p>
+</li>
+<li>
+<p><a href="http://jetconf.by/main">JET Conf</a></p>
+</li>
+<li>
+<p><a href="https://2015.event.springone2gx.com/schedule/sessions/spring_framework_the_ultimate_configurations_battle.html">SpringOne</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Релизы">Релизы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://spring.io/blog/2015/07/31/spring-framework-4-2-goes-ga">Spring 4.2</a></p>
+</li>
+<li>
+<p><a href="http://spring.io/blog/2015/08/03/coming-up-in-2016-spring-framework-4-3-5-0">Spring 4.3 &amp; 5.0</a></p>
+</li>
+<li>
+<p><a href="https://www.jetbrains.com/hub/">JetBrains Hub</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темки">Темки</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Снова про Unsafe</p>
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p><a href="http://mail.openjdk.java.net/pipermail/jigsaw-dev/2015-August/004433.html">Продавили!</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=4HG0YQVy8UM" class="bare">https://www.youtube.com/watch?v=4HG0YQVy8UM</a></p>
+</li>
+</ol>
+</div>
+</li>
+<li>
+<p><a href="https://twitter.com/_shrike_/status/627025025393164288">UPSource 2.5 ГБ после инсталла</a> 2.5 ГБ! И минимум 8 требует!</p>
+</li>
+<li>
+<p>Кто тут самый быстрый!? <a href="http://rick-hightower.blogspot.ru/2014/04/groovy-and-boon-provide-fastest-json.html">JSON Парсер используемый в Groovy - Boon</a></p>
+</li>
+<li>
+<p><a href="https://www.indiegogo.com/projects/junit-lambda#/story">JUnit needs your help</a> или пускай таки подохнет?</p>
+</li>
+<li>
+<p><a href="http://sirupsen.com/production-docker/">Чего не хватает докеру чтобы быть успешным по жизни?</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="полезняшки">Полезняшки</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="http://emacs.sexy/img/How-to-Learn-Emacs-v2-Large.png">Emacs - sexy</a> CheatSheat. Что делает любитель vim оказавшись за компьютером любителя Emacs? Верно, удаляет emacs, ставим vim, и делает <code>ln -s</code></p>
+</li>
+<li>
+<p>Четкое <a href="https://github.com/Froussios/Intro-To-RxJava">Intro по RxJava</a> в виде примеров разбитых на части.</p>
+</li>
+<li>
+<p><a href="http://wiremock.org/java-usage.html#the-client">Wiremock</a> - так же пишет о нем <a href="http://allegro.tech/testing-server-faults-with-Wiremock.html">тут</a></p>
+</li>
+<li>
+<p><a href="http://macradar.ru/software/crax-commander-luchshaya-alternativa-total-commander-dlya-os-x/">Use it</a> instead of TotalCommander on mac os x &#8594; From @Barlog-M (in gitter) -</p>
+</li>
+<li>
+<p><a href="http://bytecodeviewer.com/" class="bare">http://bytecodeviewer.com/</a></p>
+</li>
+<li>
+<p><a href="https://msdn.microsoft.com/en-us/library/jj554200.aspx">Книжка об CQRS</a></p>
+</li>
+<li>
+<p><a href="http://vk.com/video-37777824_171268487?list=a4917e6aec935fd4fb&amp;og=1">Docker в банке видео</a> выложили</p>
+</li>
+<li>
+<p><a href="http://binary-repositories-comparison.github.io/" class="bare">http://binary-repositories-comparison.github.io/</a> - ну вы вкурсэ. Теперь на гитхабе, аскидокторе и всё такое, поскольку Кодхаус - всё.</p>
+</li>
+<li>
+<p><a href="http://habrahabr.ru/company/jugru/blog/263905/">Интервью с Дмитрием Жемеровым от Алексея</a></p>
+</li>
+<li>
+<p><a href="https://github.com/nvbn/thefuck">Da Fuck!</a></p>
+</li>
+<li>
+<p><a href="http://dev.yorhel.nl/ncdu">Клевая смотрелка занятого места на диске</a></p>
+</li>
+<li>
+<p><a href="https://openport.io" class="bare">https://openport.io</a></p>
+</li>
+</ul>
+</div>
+<hr>
+<div class="paragraph">
+<p>Наши контакты:</p>
+</div>
+<div class="paragraph">
+<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
+</div>
+<div class="paragraph">
+<p><a href="http://razbor-poletov.com/broadcast.html">Информация о вещании</a></p>
+</div>
+<div class="paragraph">
+<p>Гости и участники:</p>
+</div>
+<div class="paragraph">
+<p>twitter:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://twitter.com/antonarhipov">@antonarhipov</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/tolkv">@tolkv</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/jbaruch">@jbaruch</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/bsideup">@bsideup</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/aatarasoff">@aatarasoff</a></p>
+</li>
+</ul>
+</div>
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_89.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+<div class="paragraph">
+<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
+</div>
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_89.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+<div class="paragraph">
+<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
+</div>
+</div>
+</div>]]></description>
+      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_89.mp3" length="76717002" type="audio/mpeg" />
+      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_89.mp3" fileSize="76717002" type="audio/mpeg" />
+      <itunes:summary><![CDATA[
+
+
+
+
+
+
+
+Мероприятия
+
+
+
+
+Индексные структуры данных в реляционных СУБД и поисковых системах - встречка с Рогозиным
+
+
+Docker в банке, а банк в докере отчитаться о codefreeze встречке
+
+
+Анонсирован Joker 2015
+
+
+JET Conf
+
+
+SpringOne
+
+
+
+
+
+
+Релизы
+
+
+
+
+Spring 4.2
+
+
+Spring 4.3 &amp; 5.0
+
+
+JetBrains Hub
+
+
+
+
+
+
+Темки
+
+
+
+
+Снова про Unsafe
+
+
+
+Продавили!
+
+
+https://www.youtube.com/watch?v=4HG0YQVy8UM
+
+
+
+
+
+UPSource 2.5 ГБ после инсталла 2.5 ГБ! И минимум 8 требует!
+
+
+Кто тут самый быстрый!? JSON Парсер используемый в Groovy - Boon
+
+
+JUnit needs your help или пускай таки подохнет?
+
+
+Чего не хватает докеру чтобы быть успешным по жизни?
+
+
+
+
+
+
+Полезняшки
+
+
+
+
+Emacs - sexy CheatSheat. Что делает любитель vim оказавшись за компьютером любителя Emacs? Верно, удаляет emacs, ставим vim, и делает ln -s
+
+
+Четкое Intro по RxJava в виде примеров разбитых на части.
+
+
+Wiremock - так же пишет о нем тут
+
+
+Use it instead of TotalCommander on mac os x &#8594; From @Barlog-M (in gitter) -
+
+
+http://bytecodeviewer.com/
+
+
+Книжка об CQRS
+
+
+Docker в банке видео выложили
+
+
+http://binary-repositories-comparison.github.io/ - ну вы вкурсэ. Теперь на гитхабе, аскидокторе и всё такое, поскольку Кодхаус - всё.
+
+
+Интервью с Дмитрием Жемеровым от Алексея
+
+
+Da Fuck!
+
+
+Клевая смотрелка занятого места на диске
+
+
+https://openport.io
+
+
+
+
+
+Наши контакты:
+
+
+Официальный сайт — http://razbor-poletov.com
+
+
+Информация о вещании
+
+
+Гости и участники:
+
+
+twitter:
+
+
+
+
+@antonarhipov
+
+
+@gamussa
+
+
+@tolkv
+
+
+@jbaruch
+
+
+@bsideup
+
+
+@aatarasoff
 
 
 
