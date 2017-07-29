@@ -17,4 +17,4 @@ group :development do
 end
 
 gem 'sinatra', '~> 1.4.2'
-gem 'asciidoctor', '~> 1.5.5'
+gem 'asciidoctor', '~> 1.5.6.1'
