@@ -1,0 +1,100 @@
+---
+comments: true
+categories: 
+---
+= Episode 140 — Про гриды и грибы
+2017-07-29 15:00
+:layout: post
+:filename: razbor_
+
+++++
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_140_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_140_text.jpg" width="350" /></a>
+</div>
+++++
+
+== Гости
+
+. Леонид Игольник https://twitter.com/ligolnik[@ligolnik]
+. Сергей Егоров https://twitter.com/bsideup[@bsideup]
+. Алексей Рагозин https://twitter.com/aragozin[@aragozin]
+
+== Мероприятия
+
+. http://gamov.io/posts/2017/07/20/testcontainers-ajug.html[Atlanta JUG]
+
+== Темы
+
+. Гриды
+. от Рагозина на JUG MSK
+.. https://www.youtube.com/watch?v=fCVt7KIfj38
+.. https://www.youtube.com/watch?v=eNcnUK5puIE
+. TestContainers и JUnit
+. NanoCloud и революция костылей
+. http://gamov.io/posts/2017/07/21/goodbye-hazelcast.html[@gamussa меняет работу]
+
+== Полезняшки
+
+. http://testcontainers.org[TestContainers]
+. http://slack.testcontainers.org[Slack TestContainers]
+. https://insights.stackoverflow.com/trends[Stackoverflow Trends]
+. https://github.com/TNG/ArchUnit[ArchUnit]
+. http://blog.takipi.com/java-bullshifier-generate-massive-random-code-bases/[Java Bullshifier]
+. https://blog.jetbrains.com/kotlin/2016/03/kotlin-educational-plugin/[Учим Котлин]
+
+== Таймлайн
+
+. 23:21 Что такое “Гриды” - 5:26
+. 23:28 Отвечает Виктор Гамов
+. 23:31 Гриды–Грибы
+. 23:45 Что за TestContainers такое?
+. 23:55 Когда подымаются
+. 00:00 Вернулись к гридам. Докладывает Алексей Рогозин.
+. 00:04 Тестирование Гридов
+. 00:05 nanoCloud и революция костылей
+. 00:08 Сравниваем nanoCloud и TestContainers
+. 00:26 nanoCloud – суперпозиция костылей
+. 00:34 nanoCloud это как ansible на java :)
+. 00:40 Куда уходит @gamussa
+. 00:53 Клиенту на Go для Hazelcast быть
+. 00:55 @gamussa теперь работает в ...
+. 00:59 Полезняшки
+. 01:05 Писал ли Виктор код на доске и что он рассказывал на собеседовании
+
+'''
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com[http://razbor-poletov.com]
+
+http://razbor-poletov.com/broadcast.html[Информация о вещании]
+
+Гости и участники:
+
+twitter:
+
+  * https://twitter.com/a_abashev[@a_abashev]
+  * https://twitter.com/antonarhipov[@antonarhipov]
+  * https://twitter.com/dzmitryc[@dzmitryc]
+  * https://twitter.com/gamussa[@gamussa]
+  * https://twitter.com/jbaruch[@jbaruch]
+  * https://twitter.com/shipilev[@shipilev]
+  * https://twitter.com/tolkv[@tolkv]
+
+++++
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_140.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+++++
+
+Подписаться по http://feeds.feedburner.com/razbor-podcast[RSS]
+
+++++
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_140.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+++++
+
+Музыка ведущим http://www.audiobank.fm/single-music/27/111/More-And-Less/[предоставлена] и ладно...
