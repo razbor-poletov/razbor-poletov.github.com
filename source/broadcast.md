@@ -7,8 +7,8 @@ sharing: true
 footer: true
 ---
 
-Вещание в [Facebook][1] группе и [Periscope][2]
-В Twitter можно следить за трансляцией [@razbor_poletov][3]
+* Вещание в [Facebook][1] группе и [Periscope][2]
+* В Twitter можно следить за трансляцией [@razbor_poletov][3]
 
 **Чат**
 
