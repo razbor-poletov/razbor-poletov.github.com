@@ -1,33 +1,19 @@
 ---
 layout: page
 title: "«Разбор Полетов» LIVE!"
-date: 2016-06-19 12:00
+date: 2017-08-24 22:00
 comments: false
 sharing: true
 footer: true
 ---
 
-За анонсами онлайн вещания лучше следить 
-
-* в Twitter аккаунте [@razbor_poletov][2]
-* по хэштегу [`#razborpoletov`][3]
-* на [Facebook][4]
-
-<!-- Чтобы слушать, нажмите кнопку Play -->
-<!-- http://stardust.wavestreamer.com:8062/live/;stream/1 -->
-<audio preload="none">
-   <source src="http://shipilev.net:8000/razbor" type="audio/mp3" />
-   Your browser does not support the audio tag.
-</audio>
-
-Ссылка на [поток][1]!
+Вещание в [Facebook][1] группе и [Periscope][2]
+В Twitter можно следить за трансляцией [@razbor_poletov][3]
 
 **Чат**
 
 [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/razbor-poletov/razbor-poletov.github.com)
 
-
-[1]: http://shipilev.net:8000/razbor
-[2]: http://twitter.com/razbor_poletov
-[3]: https://twitter.com/hashtag/razborpoletov
-[4]: http://facebook.com/razborPoletovPodcast/
+[1]: http://facebook.com/razborPoletovPodcast/
+[2]: https://www.periscope.tv/razbor_poletov
+[3]: http://twitter.com/razbor_poletov
