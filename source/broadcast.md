@@ -10,6 +10,10 @@ footer: true
 * Вещание в [Facebook][1] группе, [YouTube][2] и [Periscope][3]
 * В Twitter можно следить за трансляцией [@razbor_poletov][4]
 
+<audio preload="none">
+   <source src="http://shipilev.net:8000/razbor" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
 
 **Чат**
 
