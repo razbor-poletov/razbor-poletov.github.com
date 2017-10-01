@@ -1,0 +1,93 @@
+---
+comments: true
+categories: 
+---
+= "episode-141"
+2017-10-01 00:39
+:layout: post
+:filename: razbor_
+
+++++
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_141_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_141_text.jpg" width="350" /></a>
+</div>
+++++
+
+== Видео трансляция
+
+. https://www.youtube.com/watch?v=cMbddSMmyAg
+. https://www.youtube.com/watch?v=0VHuNJXnRBc
+
+== Гости
+
+. Андрей Дмитриев  https://twitter.com/it_improve
+
+== Мероприятия
+
+. https://jugmsk.timepad.ru/event/559823[Jug MSK Андрей Ершов Future в Java & Scala]
+. https://2017.javazone.no[JavaZone], Осло, 13-14 сентября
+. https://www.oracle.com/javaone/index.html[JavaOne], Сан Франциско, 1-5 октября
+. https://devoops.ru[DevOops], СПБ, 20 октября
+. https://smartdataconf.ru[SmartData], СПБ, 21 октября
+. https://jokerconf.com[Joker], СПБ, 3-4 ноября
+. http://javaday.org.ua[JavaDay Киев], 4-5 ноября
+. https://heisenbug-moscow.ru[Heisenbug], Москва, 8-9 декабря
+
+== Релизы
+
+. https://blog.jetbrains.com/idea/2017/08/intellij-idea-2017-2-2-kotlin-1-1-4-better-performance-and-more/[IDEA 2017.2.2]
+
+== Темки
+
+. Как запихать IDE в Docker?
+.. https://github.com/fgrehm/docker-eclipse — чёт неочень работает
+.. @shipilev запихал https://hub.docker.com/r/shipilev/openjdk[jdk10] в docker
+... https://hub.docker.com/r/shipilev/openjdk
+... зачем и почему
+... какие трудности
+... почему не на http://shipilev.net[shipilev.net] 
+. DevOops
+. SmartData
+. JokerConf
+
+== Полезняшки
+
+. https://plugins.jetbrains.com/plugin/8575-nyan-progress-bar[Самый полезный плагин для IntelliJ IDEA]
+. https://plugins.jetbrains.com/plugin/1003-key-promoter[Key promoter plugin] оказался хорош
+. https://www.youtube.com/watch?v=Z2F-wZKbG8M
+
+'''
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com[http://razbor-poletov.com]
+
+http://razbor-poletov.com/broadcast.html[Информация о вещании]
+
+Гости и участники:
+
+twitter:
+
+* http://twitter.com/tolkv[@tolkv]
+* https://twitter.com/gamussa[@gamussa]
+* https://twitter.com/jbaruch[@jbaruch]
+* https://twitter.com/shipilev[@shipilev]
+* https://twitter.com/antonarhipov[@antonarhipov]
+
+++++
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_141.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+++++
+
+Подписаться по http://feeds.feedburner.com/razbor-podcast[RSS]
+
+++++
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_141.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+++++
+
+Музыка ведущим http://www.audiobank.fm/single-music/27/111/More-And-Less/[предоставлена] и ладно...
