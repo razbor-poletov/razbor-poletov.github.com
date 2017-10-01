@@ -68,11 +68,11 @@ http://razbor-poletov.com/broadcast.html[Информация о вещании]
 
 twitter:
 
-* http://twitter.com/tolkv[@tolkv]
-* https://twitter.com/gamussa[@gamussa]
-* https://twitter.com/jbaruch[@jbaruch]
-* https://twitter.com/shipilev[@shipilev]
-* https://twitter.com/antonarhipov[@antonarhipov]
+ * http://twitter.com/tolkv[@tolkv]
+ * https://twitter.com/gamussa[@gamussa]
+ * https://twitter.com/jbaruch[@jbaruch] 
+ * https://twitter.com/shipilev[@shipilev]
+ * https://twitter.com/antonarhipov[@antonarhipov]
 
 ++++
 <!-- player goes here-->

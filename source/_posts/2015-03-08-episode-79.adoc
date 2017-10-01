@@ -2,7 +2,6 @@
 comments: true
 categories: 
 ---
-
 = Episode 79 — Делать Open Source и Заколачивать Бабки
 2015-03-08 18:27
 :layout: post

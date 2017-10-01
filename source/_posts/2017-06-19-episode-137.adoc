@@ -13,7 +13,7 @@ categories:
 </div>
 ++++
 
-=== Спикер конференции РИТ++ 2017
+== Спикер конференции РИТ++ 2017
 
 Илья Космодемьянский (Data Egret)
 
@@ -28,7 +28,7 @@ categories:
 - http://db.cs.berkeley.edu/papers/fntdb07-architecture.pdf[Architecture of a Database System – Hellerstein, Stonebraker & Hamilton, 2007.]
 - http://www.labirint.ru/books/365257/[Настройка приложений баз данных - Новиков Б., Домбровская Г.]
 
-= Гости и участники:
+== Гости и участники:
 
 '''
 

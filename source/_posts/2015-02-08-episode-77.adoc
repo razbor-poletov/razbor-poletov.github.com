@@ -21,14 +21,14 @@ http://razbor-poletov.com/images/razbor_77_text.jpg[Картинка]
 - https://www.youtube.com/watch?v=8u6_hctdhqI&feature=youtu.be[Видео с последнего JUGa]
 - http://virtualjug.com[Виртуальный JUG]
 
-По вашим письмам:
+== По вашим письмам:
 
 * MVC фрэймворки - что предпочтительней для больших и маленьких проектов, особенно хочется послушать про Spring и Play 2 http://www.slideshare.net/jbaruch/everything-you-wanted-to-know-about-writing-async-concurrent-http-apps-in-java-44250919[1] http://raibledesigns.com/[2] http://zeroturnaround.com/rebellabs/the-2014-decision-makers-guide-to-java-web-frameworks/[3]
 * JVM языки - преимущества и недостатки, и вообще, стоит ли учить что-нибудь кроме Java http://zeroturnaround.com/rebellabs/the-adventurous-developers-guide-to-jvm-languages-java-scala-groovy-fantom-clojure-ceylon-kotlin-xtend/[1]
 * книги и советы по развитию http://www.manning.com/evans/[The Well-Grounded Java Developer] http://www.amazon.com/The-Pragmatic-Programmer-Journeyman-Master/dp/020161622X[Pragmatic Programmer]
 * какие-нибудь темы, на которые стоит обратить внимание https://github.com/yfain/WebDevForJavaProgrammers[1]
 
-Полезняшки
+== Полезняшки
 
 * Шумы: 
 ** http://www.noisli.com/[Noisli] 

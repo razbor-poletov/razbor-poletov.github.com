@@ -2,7 +2,7 @@
 comments: true
 categories: 
 ---
-=  Episode `0x64` — Банки людям не нужны
+= Episode `0x64` — Банки людям не нужны
 2016-01-18 17:52
 :layout: post
 :filename: razbor_100

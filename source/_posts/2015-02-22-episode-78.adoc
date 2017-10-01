@@ -2,7 +2,6 @@
 comments: true
 categories: 
 ---
-
 = Episode 78 — У каждого программиста свой дурдом
 2015-02-22 19:51
 :layout: post
