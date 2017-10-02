@@ -1,0 +1,100 @@
+---
+comments: true
+categories: 
+---
+= Episode 142 – Кафка и OpenJDK
+2017-10-01 21:45
+:layout: post
+:filename: razbor_
+
+++++
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_142_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_142_text.jpg" width="350" /></a>
+</div>
+++++
+
+== Гости
+
+* Все свои
+/usr/local/Cellar/rbenv/1.1.0/versions/2.3.0/bin/asciidoctor
+== Мероприятия
+
+* https://jokerconf.com[Joker] 3-4 Ноября
+* https://kafka-summit.org[KafkaSummit]
+
+== Темы
+
+* KafkaSummit и что нам приготовил Confluent *https://www.confluent.io/kafka-summit-nyc17/resource/[[NYC]]* *https://www.confluent.io/kafka-summit-sf17/resource/[[SF]]*
+* Java хотят релизить чаще
+** https://mreinhold.org/blog/forward-faster[Moving Java Forward Faster]
+** https://twitter.com/mreinhold/status/905476085256617985[И чем это грозит]
+** https://twitter.com/DonaldOJDK/status/905734415984320513
+** https://adoptopenjdk.net/
+** https://ci.adoptopenjdk.net/
+** https://github.com/AdoptOpenJDK
+* https://blogs.oracle.com/theaquarium/opening-up-ee-update[Java EE всё?]
+* https://www.theregister.co.uk/2017/09/04/oracle_layoffs_solaris_sparc_teams[Solaris все?]
+* Flight Recorder перекочует в OpenJDK. https://blogs.oracle.com/java-platform-group/faster-and-easier-use-and-redistribution-of-java-se[Оракл отдает платные фичи в опенсорс]
+
+== Полезняшки
+
+. https://vimeo.com/javazone[JavaZone Vimeo]
+. Kafka Summit https://www.confluent.io/kafka-summit-sf17/resource/
+. Вышел https://www.sublimetext.com/blog/articles/sublime-text-3-point-0[Sublime Text 3]
+. Релизнулся https://github.com/junit-team/junit5/releases[JUnit 5]
+
+== Timeline
+
+----
+10-00 Не одним агентом JRebel единым :)
+12-00 KafkaSummit
+14-20 Kafka 0.11 – Революция. 1.0 уже не так масштабно
+15-30 Kafka 1.0 – Ждем в конце октября
+18-00 Почему 1.0 именно сейчас?
+20-00 Confluent Platform – Что ты такое
+27-00 Все продукты Confluent написаны на Java :)
+30-00 Schema Registry
+41-00 OpenJDK и OracleJDK сблизятся
+44-00 Нумерация Java – Naming is hard, Class Version is hard
+50-00 Частые релизы Java и к чему это ведёт
+1-05 Сертификация X на соответствие какой то версии Java (см JavaEE)
+1-11 javaslang попросили переименовать в vavr, а RxJava живет как то
+1-17 Flight Recorder перекочует в OpenJDK. https://blogs.oracle.com/java-platform-group/faster-and-easier-use-and-redistribution-of-java-se[Оракл отдает платные фичи в опенсорс]
+1-23 За С++ не стоит большой компании, но живет же как то
+1-30 Finish him!
+----
+
+'''
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com[http://razbor-poletov.com]
+
+http://razbor-poletov.com/broadcast.html[Информация о вещании]
+
+Гости и участники:
+
+twitter:
+
+  * https://twitter.com/antonarhipov[@antonarhipov]
+  * https://twitter.com/gamussa[@gamussa]
+  * https://twitter.com/tolkv[@tolkv]
+  * http://
+
+++++
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_142.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+++++
+
+Подписаться по http://feeds.feedburner.com/razbor-podcast[RSS]
+
+++++
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_142.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+++++
+
+Музыка ведущим http://www.audiobank.fm/single-music/27/111/More-And-Less/[предоставлена] и ладно...
