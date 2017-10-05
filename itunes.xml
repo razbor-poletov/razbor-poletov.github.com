@@ -6,8 +6,8 @@
     <atom:link href="http://razbor-poletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2017-10-02T02:12:16+00:00</pubDate>
-    <lastBuildDate>2017-10-02T02:12:16+00:00</lastBuildDate>
+    <pubDate>2017-10-05T07:45:34+00:00</pubDate>
+    <lastBuildDate>2017-10-05T07:45:34+00:00</lastBuildDate>
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razbor-poletov.com/logoB.jpg" />
@@ -177,7 +177,7 @@
 <p><a href="https://twitter.com/tolkv">@tolkv</a></p>
 </li>
 <li>
-<p>http://</p>
+<p><a href="https://twitter.com/johnwings">@johnwings</a></p>
 </li>
 </ul>
 </div>
@@ -351,7 +351,7 @@ twitter:
 @tolkv
 
 
-http://
+@johnwings
 
 
 
