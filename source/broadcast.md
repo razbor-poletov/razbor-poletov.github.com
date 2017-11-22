@@ -7,7 +7,7 @@ sharing: true
 footer: true
 ---
 
-* Вещание в [Facebook][1] группе, [YouTube][2] 
+* Вещание в [Facebook][1] группе, или в [YouTube][2] канале
 * В Twitter можно следить за трансляцией [@razbor_poletov][3]
 
 <audio preload="none">
