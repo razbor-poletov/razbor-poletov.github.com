@@ -6,8 +6,8 @@
     <atom:link href="http://razbor-poletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2017-11-26T02:17:02+00:00</pubDate>
-    <lastBuildDate>2017-11-26T02:17:02+00:00</lastBuildDate>
+    <pubDate>2017-11-26T02:39:42+00:00</pubDate>
+    <lastBuildDate>2017-11-26T02:39:42+00:00</lastBuildDate>
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razbor-poletov.com/logoB.jpg" />
@@ -19,6 +19,161 @@
     </itunes:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:thumbnail url="http://razbor-poletov.com/logoB.jpg" />
+    
+    <item>
+      <title>Episode 145 — Дешевле, надёжнее, проще</title>
+      <link>http://razbor-poletov.com/2017/11/episode-145.html</link>
+      <pubDate>2017-11-25T00:00:00+00:00</pubDate>
+      <guid isPermalink="true">http://razbor-poletov.com/2017/11/episode-145</guid>
+      <description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_145_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_145_text.jpg" width="350" /></a>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Кирилл Толкачёв @tolkv</p>
+</li>
+<li>
+<p>Антон Чернусов @golodnyj</p>
+</li>
+<li>
+<p>Олег Анастасьев</p>
+</li>
+<li>
+<p>Александр Христофоров</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://research.google.com/pubs/pub43438.html">Large-scale cluster management at Google with Borg </a></p>
+</li>
+<li>
+<p><a href="https://speakerdeck.com/m0nstermind/one-cloud-sistiema-upravlieniia-data-tsientrom-v-odnoklassnikakh">One-cloud система управления дата-центром в Одноклассниках</a></p>
+</li>
+<li>
+<p><a href="https://speakerdeck.com/m0nstermind/dieshievlie-nadiozhnieie-proshchie-khranieniie-pietabaitov-vidieo-i-foto-v-ok-alieksandr-khristoforov">Дешевле, надёжнее, проще. Хранение петабайтов видео и фото в ОК. Александр Христофоров</a></p>
+</li>
+<li>
+<p><a href="https://github.com/odnoklassniki/one-nio">Опенсорс библиотека one-nio от ОК</a></p>
+</li>
+</ul>
+</div>
+<hr>
+<div class="paragraph">
+<p>Наши контакты:</p>
+</div>
+<div class="paragraph">
+<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
+</div>
+<div class="paragraph">
+<p><a href="http://razbor-poletov.com/broadcast.html">Информация о вещании</a></p>
+</div>
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_145.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+<div class="paragraph">
+<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
+</div>
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_145.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+<div class="paragraph">
+<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
+</div>
+</div>
+</div>]]></description>
+      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[
+
+
+
+
+
+
+
+Гости и участники
+
+
+
+
+Кирилл Толкачёв @tolkv
+
+
+Антон Чернусов @golodnyj
+
+
+Олег Анастасьев
+
+
+Александр Христофоров
+
+
+
+
+
+
+Темы
+
+
+
+
+Large-scale cluster management at Google with Borg 
+
+
+One-cloud система управления дата-центром в Одноклассниках
+
+
+Дешевле, надёжнее, проще. Хранение петабайтов видео и фото в ОК. Александр Христофоров
+
+
+Опенсорс библиотека one-nio от ОК
+
+
+
+
+
+Наши контакты:
+
+
+Официальный сайт — http://razbor-poletov.com
+
+
+Информация о вещании
+
+
+
+
+   
+   Your browser does not support the audio tag.
+
+
+Подписаться по RSS
+
+
+
+
+Музыка ведущим предоставлена и ладно&#8230;&#8203;
+
+
+]]></itunes:summary>
+    </item>
     
     <item>
       <title>Episode 144 — #Devoxx Special: Перворманс в Европе</title>
@@ -14250,137 +14405,6 @@ twitter:
 Музыка ведущим предоставлена и ладно&#8230;&#8203;
 
 
-]]></itunes:summary>
-    </item>
-    
-    <item>
-      <title>Episode 95 — JavaOne Special - Scala-лазы</title>
-      <link>http://razbor-poletov.com/2015/10/episode-95.html</link>
-      <pubDate>2015-10-28T00:00:00+00:00</pubDate>
-      <guid isPermalink="true">http://razbor-poletov.com/2015/10/episode-95</guid>
-      <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="http://razbor-poletov.com/images/razbor_95_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_95_text.jpg" width="350" /></a>
-</div>
-<div class="paragraph">
-<p>Дайджест третьего дня конференции JavaOne 2015 в городе Сан-Франциско штат Калифорния.</p>
-</div>
-<div class="paragraph">
-<p><strong>p.s.</strong> Внимание! Подкаст содержит внезапное окончание.</p>
-</div>
-<hr>
-<div class="paragraph">
-<p>Наши контакты:</p>
-</div>
-<div class="paragraph">
-<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
-</div>
-<div class="paragraph">
-<p><a href="http://razbor-poletov.com/broadcast.html">Информация о вещании</a></p>
-</div>
-<div class="paragraph">
-<p>Гости и участники:</p>
-</div>
-<div class="paragraph">
-<p>twitter:</p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/antonarhipov">@antonarhipov</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/dzmitryc">@dzmitryc</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/bofhe">@bofhe - он же jdevelop</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/andrey_kogun">@andrey_kogun</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/gigabel">@gigabel</a></p>
-</li>
-</ul>
-</div>
-<!-- player goes here-->
-
-<audio preload="none">
-   <source src="http://traffic.libsyn.com/razborpoletov/razbor_95.mp3" type="audio/mp3" />
-   Your browser does not support the audio tag.
-</audio>
-<div class="paragraph">
-<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
-</div>
-<!-- episode file link goes here-->
-<a href="http://traffic.libsyn.com/razborpoletov/razbor_95.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
-<div class="paragraph">
-<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
-</div>]]></description>
-      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
-      <itunes:summary><![CDATA[
-
-
-
-Дайджест третьего дня конференции JavaOne 2015 в городе Сан-Франциско штат Калифорния.
-
-
-p.s. Внимание! Подкаст содержит внезапное окончание.
-
-
-
-Наши контакты:
-
-
-Официальный сайт — http://razbor-poletov.com
-
-
-Информация о вещании
-
-
-Гости и участники:
-
-
-twitter:
-
-
-
-
-@gamussa
-
-
-@antonarhipov
-
-
-@dzmitryc
-
-
-@bofhe - он же jdevelop
-
-
-@andrey_kogun
-
-
-@gigabel
-
-
-
-
-
-
-   
-   Your browser does not support the audio tag.
-
-
-Подписаться по RSS
-
-
-
-
-Музыка ведущим предоставлена и ладно&#8230;&#8203;
 ]]></itunes:summary>
     </item>
     
