@@ -1,0 +1,54 @@
+---
+comments: true
+categories: 
+---
+= Episode 145 — Дешевле, надёжнее, проще
+2017-11-25 21:34
+:layout: post
+:filename: razbor_145
+
+++++
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_145_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_145_text.jpg" width="350" /></a>
+</div>
+++++
+
+== Гости и участники
+
+* Кирилл Толкачёв @tolkv
+* Антон Чернусов @golodnyj
+* Олег Анастасьев
+* Александр Христофоров 
+
+== Темы
+
+* https://research.google.com/pubs/pub43438.html[Large-scale cluster management at Google with Borg ]
+* https://speakerdeck.com/m0nstermind/one-cloud-sistiema-upravlieniia-data-tsientrom-v-odnoklassnikakh[One-cloud система управления дата-центром в Одноклассниках] 
+* https://speakerdeck.com/m0nstermind/dieshievlie-nadiozhnieie-proshchie-khranieniie-pietabaitov-vidieo-i-foto-v-ok-alieksandr-khristoforov[Дешевле, надёжнее, проще. Хранение петабайтов видео и фото в ОК. Александр Христофоров]
+* https://github.com/odnoklassniki/one-nio[Опенсорс библиотека one-nio от ОК]
+
+'''
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com[http://razbor-poletov.com]
+
+http://razbor-poletov.com/broadcast.html[Информация о вещании]
+
+++++
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_145.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+++++
+
+Подписаться по http://feeds.feedburner.com/razbor-podcast[RSS]
+
+++++
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_145.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+++++
+
+Музыка ведущим http://www.audiobank.fm/single-music/27/111/More-And-Less/[предоставлена] и ладно...
