@@ -2,7 +2,7 @@
 comments: true
 categories: 
 ---
-= Episode 143 - JavaOne Special ThreadPool Karaoke
+= Episode 143 — JavaOne Special ThreadPool Karaoke
 2017-10-27 01:20
 :layout: post
 :filename: razbor_
