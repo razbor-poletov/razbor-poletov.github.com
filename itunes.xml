@@ -6,8 +6,8 @@
     <atom:link href="http://razbor-poletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2017-12-05T18:32:55+00:00</pubDate>
-    <lastBuildDate>2017-12-05T18:32:55+00:00</lastBuildDate>
+    <pubDate>2017-12-05T21:23:32+00:00</pubDate>
+    <lastBuildDate>2017-12-05T21:23:32+00:00</lastBuildDate>
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razbor-poletov.com/logoB.jpg" />
@@ -19,6 +19,205 @@
     </itunes:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:thumbnail url="http://razbor-poletov.com/logoB.jpg" />
+    
+    <item>
+      <title>Episode 147 — Техрадар Lamoda</title>
+      <link>http://razbor-poletov.com/2017/12/episode-147.html</link>
+      <pubDate>2017-12-05T00:00:00+00:00</pubDate>
+      <guid isPermalink="true">http://razbor-poletov.com/2017/12/episode-147</guid>
+      <description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_147_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_147_text.jpg" width="350" /></a>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="lamoda-и-её-платформа">Lamoda и её платформа</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="http://tech.lamoda.ru/">Техрадар</a></p>
+</li>
+<li>
+<p>Как отказались от MySQL в пользу PostgreSQL</p>
+</li>
+<li>
+<p>Kotlin, Scala, Java</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники:</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Антон Чернусов</p>
+</li>
+<li>
+<p>Konstantin Burkalev</p>
+</li>
+<li>
+<p>Пётр Мазин</p>
+</li>
+<li>
+<p>Павел Савельев</p>
+</li>
+<li>
+<p>Михаил Леонов</p>
+</li>
+</ul>
+</div>
+<hr>
+<div class="paragraph">
+<p>Наши контакты:</p>
+</div>
+<div class="paragraph">
+<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
+</div>
+<div class="paragraph">
+<p><a href="http://razbor-poletov.com/broadcast.html">Информация о вещании</a></p>
+</div>
+<div class="paragraph">
+<p>Гости и участники:</p>
+</div>
+<div class="paragraph">
+<p>twitter:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://twitter.com/golodnyj">@golodnyj</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/KSDaemon">@KSDaemon</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/PetrMyazin">@PetrMyazin</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/stateofzuse">@stateofzuse</a></p>
+</li>
+</ul>
+</div>
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_147.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+<div class="paragraph">
+<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
+</div>
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_147.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+<div class="paragraph">
+<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
+</div>
+</div>
+</div>]]></description>
+      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[
+
+
+
+
+
+
+
+Lamoda и её платформа
+
+
+
+
+Техрадар
+
+
+Как отказались от MySQL в пользу PostgreSQL
+
+
+Kotlin, Scala, Java
+
+
+
+
+
+
+Гости и участники:
+
+
+
+
+Антон Чернусов
+
+
+Konstantin Burkalev
+
+
+Пётр Мазин
+
+
+Павел Савельев
+
+
+Михаил Леонов
+
+
+
+
+
+Наши контакты:
+
+
+Официальный сайт — http://razbor-poletov.com
+
+
+Информация о вещании
+
+
+Гости и участники:
+
+
+twitter:
+
+
+
+
+@golodnyj
+
+
+@KSDaemon
+
+
+@PetrMyazin
+
+
+@stateofzuse
+
+
+
+
+
+
+   
+   Your browser does not support the audio tag.
+
+
+Подписаться по RSS
+
+
+
+
+Музыка ведущим предоставлена и ладно&#8230;&#8203;
+
+
+]]></itunes:summary>
+    </item>
     
     <item>
       <title>Episode 146 — Сложности performance-тестирования в потустороннем мире</title>
@@ -13872,327 +14071,6 @@ twitter:
 
 
 @jbaruch
-
-
-
-
-
-
-   
-   Your browser does not support the audio tag.
-
-
-Подписаться по RSS
-
-
-
-
-Музыка ведущим предоставлена и ладно&#8230;&#8203;
-
-
-]]></itunes:summary>
-    </item>
-    
-    <item>
-      <title>Episode 97 — Пиши инвертированные RB-деревья</title>
-      <link>http://razbor-poletov.com/2015/12/episode-97.html</link>
-      <pubDate>2015-12-06T00:00:00+00:00</pubDate>
-      <guid isPermalink="true">http://razbor-poletov.com/2015/12/episode-97</guid>
-      <description><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="paragraph">
-<p>Выпуск 18+</p>
-</div>
-<div class="paragraph">
-<p><a href="https://itunes.apple.com/us/album/never-gonna-give-you-up/id569227437?i=569227849">Музыка из вступления</a></p>
-</div>
-<div class="separator" style="clear: both; text-align: center;">
-<a href="http://razbor-poletov.com/images/razbor_97_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_97_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Мероприятия">Мероприятия</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><strong>За Когуня словечко замолвить нужно</strong></p>
-</li>
-<li>
-<p>О докладе Кирилла Толкачёва и Александра Тарасова про микросервисы на
-jug.msk.ru <a href="http://habrahabr.ru/post/272009/" class="bare">http://habrahabr.ru/post/272009/</a></p>
-</li>
-<li>
-<p>Релиз груви не проходит без Баруха</p>
-</li>
-<li>
-<p>Если Вы едете на JPoint 2016 и хотите что-то послушать в исполнении
-Виктора, заполните
-<a href="https://docs.google.com/forms/d/1wKf8RFO72fAYjrw_jLNPTG5r6DYWdudnp9O-JL8oNQw/viewform">опрос</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Темки">Темки</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://swift.org/">Swift</a>. Что в этом</p>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://twitter.com/mrmrs_/status/673178834011734016" class="bare">https://twitter.com/mrmrs_/status/673178834011734016</a> смешного?</p>
-</li>
-<li>
-<p><a href="http://perfect.org/">http://perfect.org</a></p>
-</li>
-</ul>
-</div>
-</li>
-<li>
-<p><a href="http://www.theeffectiveengineer.com/blog/how-to-successfully-build-great-products-with-small-teams">Заметка в Quip о том как команда Quip пишет Quip</a></p>
-</li>
-<li>
-<p><a href="http://devwp.eu/dont-call-yourself-a-developer-if-you-dont-code/">Почему надо кодить и собеседования</a></p>
-</li>
-<li>
-<p><a href="http://eax.me/job-interviews-tips/">Что отпугивает людей на собеседовании</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Полезняшки">Полезняшки</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://plumbr.eu/landing/handbook-java-lang-outofmemoryerror">Подборочка про OOME от Никиты и компании</a></p>
-</li>
-<li>
-<p><a href="https://bugsnag.com/">сервис для сборки и агрегирования ошибок</a></p>
-</li>
-<li>
-<p><a href="http://stefanbirkner.github.io/system-rules/">Тестим <code>System.out.println</code></a></p>
-</li>
-<li>
-<p><a href="https://gist.github.com/valadan/3721450">Наглядно о ненаглядном</a></p>
-</li>
-<li>
-<p><a href="https://livesql.oracle.com/"><em>Livesql</em></a> powered by oracle</p>
-</li>
-<li>
-<p>Список вредных советов <a href="https://github.com/ayust/underhanded/blob/master/.bashrc">1</a>  <a href="https://github.com/NARKOZ/hacker-scripts">2</a></p>
-</li>
-<li>
-<p><a href="https://cloudharmony.com/speedtest">Speedtest для клауда</a></p>
-</li>
-<li>
-<p><a href="https://www.loggly.com/ultimate-guide/">Best practice про логи в одном месте</a></p>
-</li>
-</ul>
-</div>
-<hr>
-<div class="paragraph">
-<p>Наши контакты:</p>
-</div>
-<div class="paragraph">
-<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
-</div>
-<div class="paragraph">
-<p><a href="http://razbor-poletov.com/broadcast.html">Информация о вещании</a></p>
-</div>
-<div class="paragraph">
-<p>Гости и участники:</p>
-</div>
-<div class="paragraph">
-<p>twitter:</p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://twitter.com/a_abashev">@a_abashev</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/antonarhipov">@antonarhipov</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/dzmitryc">@dzmitryc</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/tolkv">@tolkv</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/jbaruch">@jbaruch</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/golodnyj">@golodnyj</a></p>
-</li>
-</ul>
-</div>
-<!-- player goes here-->
-
-<audio preload="none">
-   <source src="http://traffic.libsyn.com/razborpoletov/razbor_97.mp3" type="audio/mp3" />
-   Your browser does not support the audio tag.
-</audio>
-<div class="paragraph">
-<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
-</div>
-<!-- episode file link goes here-->
-<a href="http://traffic.libsyn.com/razborpoletov/razbor_97.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
-<div class="paragraph">
-<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
-</div>
-</div>
-</div>]]></description>
-      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
-      <itunes:summary><![CDATA[
-
-
-Выпуск 18+
-
-
-Музыка из вступления
-
-
-
-
-
-
-
-Мероприятия
-
-
-
-
-За Когуня словечко замолвить нужно
-
-
-О докладе Кирилла Толкачёва и Александра Тарасова про микросервисы на
-jug.msk.ru http://habrahabr.ru/post/272009/
-
-
-Релиз груви не проходит без Баруха
-
-
-Если Вы едете на JPoint 2016 и хотите что-то послушать в исполнении
-Виктора, заполните
-опрос
-
-
-
-
-
-
-Темки
-
-
-
-
-Swift. Что в этом
-
-
-
-https://twitter.com/mrmrs_/status/673178834011734016 смешного?
-
-
-http://perfect.org
-
-
-
-
-
-Заметка в Quip о том как команда Quip пишет Quip
-
-
-Почему надо кодить и собеседования
-
-
-Что отпугивает людей на собеседовании
-
-
-
-
-
-
-Полезняшки
-
-
-
-
-Подборочка про OOME от Никиты и компании
-
-
-сервис для сборки и агрегирования ошибок
-
-
-Тестим System.out.println
-
-
-Наглядно о ненаглядном
-
-
-Livesql powered by oracle
-
-
-Список вредных советов 1  2
-
-
-Speedtest для клауда
-
-
-Best practice про логи в одном месте
-
-
-
-
-
-Наши контакты:
-
-
-Официальный сайт — http://razbor-poletov.com
-
-
-Информация о вещании
-
-
-Гости и участники:
-
-
-twitter:
-
-
-
-
-@a_abashev
-
-
-@antonarhipov
-
-
-@dzmitryc
-
-
-@gamussa
-
-
-@tolkv
-
-
-@jbaruch
-
-
-@golodnyj
 
 
 
