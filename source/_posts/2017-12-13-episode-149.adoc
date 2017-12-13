@@ -1,0 +1,68 @@
+---
+comments: true
+categories: 
+---
+= Episode 149 — Мой любимый SQL!
+2017-12-13 10:23
+:layout: post
+:filename: razbor_
+
+++++
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_149_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_149_text.jpg" width="350" /></a>
+</div>
+++++
+
+*ВНИМАНИЕ : Выпуск местами немножечко 18+*
+
+== Мероприятия
+
+* https://2018.jbreak.ru/[JBreak]
+* https://jpoint.ru/en/[JPoint]
+
+== Темы
+
+* https://grafeas.io[Grafeas] – что это и с чем едят
+* https://twitter.com/Java_Champions/status/933194279412891648[В полку жавачампионов прибыло]
+* Что такое https://www.confluent.io/blog/november-update-ksql-developer-preview-available[KSQL].
+** https://github.com/confluentinc/cp-demo[Демка]
+
+== Полезняшки
+
+* https://www.confluent.io/blog[Годноты блог без СМС]
+
+'''
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com[http://razbor-poletov.com]
+
+http://razbor-poletov.com/broadcast.html[Информация о вещании]
+
+Гости и участники:
+
+twitter:
+
+  * https://twitter.com/a_abashev[@a_abashev]
+  * https://twitter.com/antonarhipov[@antonarhipov]
+  * https://twitter.com/gamussa[@gamussa]
+  * https://twitter.com/jbaruch[@jbaruch]
+  * https://twitter.com/tolkv[@tolkv]
+
+++++
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_149.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+++++
+
+Подписаться по http://feeds.feedburner.com/razbor-podcast[RSS]
+
+++++
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_149.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+++++
+
+Музыка ведущим http://www.audiobank.fm/single-music/27/111/More-And-Less/[предоставлена] и ладно...
