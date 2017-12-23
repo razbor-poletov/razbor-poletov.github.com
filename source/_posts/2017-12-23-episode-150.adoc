@@ -1,0 +1,79 @@
+---
+comments: true
+categories: 
+---
+= Episode 150 — WTF is Техно-пиар?
+2017-12-23 17:30
+:layout: post
+:filename: razbor_
+
+++++
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_150_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_150_text.jpg" width="350" /></a>
+</div>
+++++
+
+== Гости
+
+* https://twitter.com/ligolnik[@ligolnik] Леонид Игольник
+* https://twitter.com/23derevo[@23derevo ] Алексей Фёдоров
+* https://twitter.com/froken_smilla[@froken_smilla] Дарья Богомолова
+* https://twitter.com/olegbunin[@olegbunin] Олег Бунин
+* https://twitter.com/olegchir[@olegchir] Олег Чирухин – 1й на habrahabr.ru!
+
+== Темы [которым пытались следовать]
+
+. Кто такой DevRel?
+.. В Европе
+.. В России
+.. Кого то забыли?
+.. Чем отличается от евангелиста?
+. Существует всего два типа DevRel`ов...
+. Нужен ли технический бэкграунд такому человеку?
+. DevRel в России и в окрестностях России
+.. В чем разница
+.. Кто был первым?
+.. Как называть одинаковые вещи одинаково?
+. Проблемы организации конференций. HL++/JUGRU мир дружба любовь
+
+== Полезняшки
+
+. *https://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805[Drive: The Surprising Truth About What Motivates Us]*
+. https://www.amazon.com/Strategy-Maps-Converting-Intangible-Tangible/dp/1591391342[*Strategy Maps: Converting Intangible Assets into Tangible Outcome*]
+.. https://www.amazon.com/Balanced-Scorecard-Translating-Strategy-Action/dp/0875846513/ref=pd_sim_14_1?_encoding=UTF8&pd_rd_i=0875846513&pd_rd_r=RF5WRY5J56K95ATTVB8X&pd_rd_w=L4y3F&pd_rd_wg=8K80o&psc=1&refRID=RF5WRY5J56K95ATTVB8X[Balanced Scorecard] в нагрузку
+
+'''
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com[http://razbor-poletov.com]
+
+http://razbor-poletov.com/broadcast.html[Информация о вещании]
+
+Гости и участники:
+
+twitter:
+
+  * https://twitter.com/a_abashev[@a_abashev]
+  * https://twitter.com/antonarhipov[@antonarhipov]
+  * https://twitter.com/gamussa[@gamussa]
+  * https://twitter.com/jbaruch[@jbaruch]
+  * https://twitter.com/tolkv[@tolkv]
+
+++++
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_150.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+++++
+
+Подписаться по http://feeds.feedburner.com/razbor-podcast[RSS]
+
+++++
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_150.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+++++
+
+Музыка ведущим http://www.audiobank.fm/single-music/27/111/More-And-Less/[предоставлена] и ладно...
