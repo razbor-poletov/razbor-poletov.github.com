@@ -6,8 +6,8 @@
     <atom:link href="http://razbor-poletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2017-12-23T22:41:45+00:00</pubDate>
-    <lastBuildDate>2017-12-23T22:41:45+00:00</lastBuildDate>
+    <pubDate>2017-12-23T23:00:42+00:00</pubDate>
+    <lastBuildDate>2017-12-23T23:00:42+00:00</lastBuildDate>
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razbor-poletov.com/logoB.jpg" />
@@ -19,6 +19,325 @@
     </itunes:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:thumbnail url="http://razbor-poletov.com/logoB.jpg" />
+    
+    <item>
+      <title>Episode 150 — WTF is Техно-пиар?</title>
+      <link>http://razbor-poletov.com/2017/12/episode-150.html</link>
+      <pubDate>2017-12-23T00:00:00+00:00</pubDate>
+      <guid isPermalink="true">http://razbor-poletov.com/2017/12/episode-150</guid>
+      <description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_150_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_150_text.jpg" width="350" /></a>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Гости">Гости</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://twitter.com/ligolnik">@ligolnik</a> Леонид Игольник</p>
+</li>
+<li>
+<p><a href="https://twitter.com/23derevo">@23derevo </a> Алексей Фёдоров</p>
+</li>
+<li>
+<p><a href="https://twitter.com/froken_smilla">@froken_smilla</a> Дарья Богомолова</p>
+</li>
+<li>
+<p><a href="https://twitter.com/olegbunin">@olegbunin</a> Олег Бунин</p>
+</li>
+<li>
+<p><a href="https://twitter.com/olegchir">@olegchir</a> Олег Чирухин – 1й на habrahabr.ru!</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы-которым-пытались-следовать">Темы [которым пытались следовать]</h2>
+<div class="sectionbody">
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p>Кто такой DevRel?</p>
+<div class="olist loweralpha">
+<ol class="loweralpha" type="a">
+<li>
+<p>В Европе</p>
+</li>
+<li>
+<p>В России</p>
+</li>
+<li>
+<p>Кого то забыли?</p>
+</li>
+<li>
+<p>Чем отличается от евангелиста?</p>
+</li>
+</ol>
+</div>
+</li>
+<li>
+<p>Существует всего два типа DevRel`ов&#8230;&#8203;</p>
+</li>
+<li>
+<p>Нужен ли технический бэкграунд такому человеку?</p>
+</li>
+<li>
+<p>DevRel в России и в окрестностях России</p>
+<div class="olist loweralpha">
+<ol class="loweralpha" type="a">
+<li>
+<p>В чем разница</p>
+</li>
+<li>
+<p>Кто был первым?</p>
+</li>
+<li>
+<p>Как называть одинаковые вещи одинаково?</p>
+</li>
+</ol>
+</div>
+</li>
+<li>
+<p>Проблемы организации конференций. HL++/JUGRU мир дружба любовь</p>
+</li>
+</ol>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Полезняшки">Полезняшки</h2>
+<div class="sectionbody">
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p><strong><a href="https://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805">Drive: The Surprising Truth About What Motivates Us</a></strong></p>
+</li>
+<li>
+<p><a href="https://www.amazon.com/Strategy-Maps-Converting-Intangible-Tangible/dp/1591391342"><strong>Strategy Maps: Converting Intangible Assets into Tangible Outcome</strong></a></p>
+<div class="olist loweralpha">
+<ol class="loweralpha" type="a">
+<li>
+<p><a href="https://www.amazon.com/Balanced-Scorecard-Translating-Strategy-Action/dp/0875846513/ref=pd_sim_14_1?_encoding=UTF8&amp;pd_rd_i=0875846513&amp;pd_rd_r=RF5WRY5J56K95ATTVB8X&amp;pd_rd_w=L4y3F&amp;pd_rd_wg=8K80o&amp;psc=1&amp;refRID=RF5WRY5J56K95ATTVB8X">Balanced Scorecard</a> в нагрузку</p>
+</li>
+</ol>
+</div>
+</li>
+</ol>
+</div>
+<hr>
+<div class="paragraph">
+<p>Наши контакты:</p>
+</div>
+<div class="paragraph">
+<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
+</div>
+<div class="paragraph">
+<p><a href="http://razbor-poletov.com/broadcast.html">Информация о вещании</a></p>
+</div>
+<div class="paragraph">
+<p>Гости и участники:</p>
+</div>
+<div class="paragraph">
+<p>twitter:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://twitter.com/a_abashev">@a_abashev</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/antonarhipov">@antonarhipov</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/jbaruch">@jbaruch</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/tolkv">@tolkv</a></p>
+</li>
+</ul>
+</div>
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_150.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+<div class="paragraph">
+<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
+</div>
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_150.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+<div class="paragraph">
+<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
+</div>
+</div>
+</div>]]></description>
+      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[
+
+
+
+
+
+
+
+Гости
+
+
+
+
+@ligolnik Леонид Игольник
+
+
+@23derevo  Алексей Фёдоров
+
+
+@froken_smilla Дарья Богомолова
+
+
+@olegbunin Олег Бунин
+
+
+@olegchir Олег Чирухин – 1й на habrahabr.ru!
+
+
+
+
+
+
+Темы [которым пытались следовать]
+
+
+
+
+Кто такой DevRel?
+
+
+
+В Европе
+
+
+В России
+
+
+Кого то забыли?
+
+
+Чем отличается от евангелиста?
+
+
+
+
+
+Существует всего два типа DevRel`ов&#8230;&#8203;
+
+
+Нужен ли технический бэкграунд такому человеку?
+
+
+DevRel в России и в окрестностях России
+
+
+
+В чем разница
+
+
+Кто был первым?
+
+
+Как называть одинаковые вещи одинаково?
+
+
+
+
+
+Проблемы организации конференций. HL++/JUGRU мир дружба любовь
+
+
+
+
+
+
+Полезняшки
+
+
+
+
+Drive: The Surprising Truth About What Motivates Us
+
+
+Strategy Maps: Converting Intangible Assets into Tangible Outcome
+
+
+
+Balanced Scorecard в нагрузку
+
+
+
+
+
+
+
+
+Наши контакты:
+
+
+Официальный сайт — http://razbor-poletov.com
+
+
+Информация о вещании
+
+
+Гости и участники:
+
+
+twitter:
+
+
+
+
+@a_abashev
+
+
+@antonarhipov
+
+
+@gamussa
+
+
+@jbaruch
+
+
+@tolkv
+
+
+
+
+
+
+   
+   Your browser does not support the audio tag.
+
+
+Подписаться по RSS
+
+
+
+
+Музыка ведущим предоставлена и ладно&#8230;&#8203;
+
+
+]]></itunes:summary>
+    </item>
     
     <item>
       <title>Episode 149 — Мой любимый SQL!</title>
@@ -13360,343 +13679,6 @@ twitter:
 
 
 @xpinjection 
-
-
-
-
-
-
-   
-   Your browser does not support the audio tag.
-
-
-Подписаться по RSS
-
-
-
-
-Музыка ведущим предоставлена и ладно&#8230;&#8203;
-
-
-]]></itunes:summary>
-    </item>
-    
-    <item>
-      <title>Episode <code>0x64</code> — Банки людям не нужны</title>
-      <link>http://razbor-poletov.com/2016/01/episode-100.html</link>
-      <pubDate>2016-01-18T00:00:00+00:00</pubDate>
-      <guid isPermalink="true">http://razbor-poletov.com/2016/01/episode-100</guid>
-      <description><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="paragraph">
-<p>Выпуск 18+</p>
-</div>
-<div class="separator" style="clear: both; text-align: center;">
-<a href="http://razbor-poletov.com/images/razbor_100_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_100_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Оффтоп">Оффтоп</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p>JUG теперь не только наши друзья, но и спонсоры <code>:)</code></p>
-</li>
-<li>
-<p>Сколько посещает людей JUG?</p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Мероприятия">Мероприятия</h2>
-<div class="sectionbody">
-<div class="olist arabic">
-<ol class="arabic">
-<li>
-<p><a href="http://jeeconf.com/">JEEConf, 20-21 мая</a></p>
-</li>
-<li>
-<p><a href="http://javapoint.ru/">JPoint</a></p>
-</li>
-<li>
-<p><a href="http://2016.geekout.ee/">GeekOut</a></p>
-</li>
-<li>
-<p>JUGs</p>
-<div class="olist loweralpha">
-<ol class="loweralpha" type="a">
-<li>
-<p><a href="http://www.meetup.com/Toronto-Java-Users-Group/events/227477853/">Toronto
-JUG</a></p>
-</li>
-<li>
-<p><a href="http://www.cojug.org/index.php?option=com_eventlist&amp;Itemid=27&amp;func=details&amp;did=205">COJUG</a></p>
-</li>
-</ol>
-</div>
-</li>
-<li>
-<p><a href="http://devnexus.com/">DevNexus</a></p>
-</li>
-</ol>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Темки">Темки</h2>
-<div class="sectionbody">
-<div class="olist arabic">
-<ol class="arabic">
-<li>
-<p>Впечатления Антона о Docker-е, или «как я собирал демо образы для XRebel».</p>
-</li>
-<li>
-<p><a href="http://www.opennet.ru/opennews/art.shtml?num=43678">Новость от Opennet</a></p>
-<div class="olist loweralpha">
-<ol class="loweralpha" type="a">
-<li>
-<p><a href="https://www.youtube.com/watch?v=Tkj3sE492To">Выступление Германа Грефа</a></p>
-</li>
-<li>
-<p><a href="http://www.rbc.ru/finances/15/01/2016/5698ce9d9a794791cf2c1748">Анализ от RBC</a></p>
-</li>
-<li>
-<p><a href="http://urazbaev.ru/post/pro-vystuplenie-grefa-na-gaidarovskom-forume-chto-on-imel-vvidu">Асхат немного высказался</a></p>
-</li>
-</ol>
-</div>
-</li>
-<li>
-<p><a href="https://twitter.com/shipilev/status/688012425392697344">А у вас есть возможность удалённой работы?</a></p>
-</li>
-</ol>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Полезняшки">Полезняшки</h2>
-<div class="sectionbody">
-<div class="olist arabic">
-<ol class="arabic">
-<li>
-<p><a href="http://projects.eclipse.org/projects/technology.collections">Eclipse Collections</a></p>
-</li>
-<li>
-<p><a href="https://github.com/junegunn/fzf">Продвинутый reverse search</a> в консольке</p>
-</li>
-<li>
-<p><a href="http://www.sortd.com/">Kanban в вашем GMail</a></p>
-</li>
-<li>
-<p><a href="https://www.hashtagtodo.com/index.html">TODO в календаре</a></p>
-</li>
-<li>
-<p><a href="http://radar.oreilly.com/2015/10/swarm-v-fleet-v-kubernetes-v-mesos.html">Сравнение Swarm Fleet Kubernetes Mesos</a></p>
-</li>
-</ol>
-</div>
-<hr>
-<div class="paragraph">
-<p>Наши контакты:</p>
-</div>
-<div class="paragraph">
-<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
-</div>
-<div class="paragraph">
-<p><a href="http://razbor-poletov.com/broadcast.html">Информация о вещании</a></p>
-</div>
-<div class="paragraph">
-<p>Гости и участники:</p>
-</div>
-<div class="paragraph">
-<p>twitter:</p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/antonarhipov">@antonarhipov</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/tolkv">@tolkv</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/golodnyj">@golodnyj</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/jbaruch">@jbaruch</a></p>
-</li>
-</ul>
-</div>
-<!-- player goes here-->
-
-<audio preload="none">
-   <source src="http://traffic.libsyn.com/razborpoletov/razbor_100.mp3" type="audio/mp3" />
-   Your browser does not support the audio tag.
-</audio>
-<div class="paragraph">
-<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
-</div>
-<!-- episode file link goes here-->
-<a href="http://traffic.libsyn.com/razborpoletov/razbor_100.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
-<div class="paragraph">
-<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
-</div>
-</div>
-</div>]]></description>
-      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
-      <itunes:summary><![CDATA[
-
-
-Выпуск 18+
-
-
-
-
-
-
-
-Оффтоп
-
-
-
-
-JUG теперь не только наши друзья, но и спонсоры :)
-
-
-Сколько посещает людей JUG?
-
-
-
-
-
-
-Мероприятия
-
-
-
-
-JEEConf, 20-21 мая
-
-
-JPoint
-
-
-GeekOut
-
-
-JUGs
-
-
-
-Toronto
-JUG
-
-
-COJUG
-
-
-
-
-
-DevNexus
-
-
-
-
-
-
-Темки
-
-
-
-
-Впечатления Антона о Docker-е, или «как я собирал демо образы для XRebel».
-
-
-Новость от Opennet
-
-
-
-Выступление Германа Грефа
-
-
-Анализ от RBC
-
-
-Асхат немного высказался
-
-
-
-
-
-А у вас есть возможность удалённой работы?
-
-
-
-
-
-
-Полезняшки
-
-
-
-
-Eclipse Collections
-
-
-Продвинутый reverse search в консольке
-
-
-Kanban в вашем GMail
-
-
-TODO в календаре
-
-
-Сравнение Swarm Fleet Kubernetes Mesos
-
-
-
-
-
-Наши контакты:
-
-
-Официальный сайт — http://razbor-poletov.com
-
-
-Информация о вещании
-
-
-Гости и участники:
-
-
-twitter:
-
-
-
-
-@gamussa
-
-
-@antonarhipov
-
-
-@tolkv
-
-
-@golodnyj
-
-
-@jbaruch
 
 
 
