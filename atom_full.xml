@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2017-12-24T01:55:25+00:00</updated>
+  <updated>2017-12-24T01:57:46+00:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -69,6 +69,12 @@
 <ul>
 <li>
 <p><a href="https://insomnia.rest" class="bare">https://insomnia.rest</a></p>
+</li>
+<li>
+<p><a href="https://t.me/AwesomeKafka_ru">Канал Виктора в телеграм про Кафку</a></p>
+</li>
+<li>
+<p><a href="https://t.me/tradeoffs">Канал Алексея в телеграм про Трейдофы</a></p>
 </li>
 </ul>
 </div>
