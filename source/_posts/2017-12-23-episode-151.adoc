@@ -34,7 +34,7 @@ https://spb.hh.ru/vacancy/23476432[Вакансия от партнера]
 
 * https://insomnia.rest 
 * https://t.me/AwesomeKafka_ru[Канал Виктора в телеграм про Кафку]
-* https://t.me/tradeoffs[Канал Алексея в телеграм про Трейдофы]
+* https://t.me/tradeoffs[Телеграм-канал Алексея Федорова про то, как делаются конференции]
 
 
 '''
