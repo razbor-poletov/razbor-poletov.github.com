@@ -1,0 +1,81 @@
+---
+comments: true
+categories: 
+---
+= Episode 152 — Итоги 2017
+2018-01-01 15:21
+:layout: post
+:filename: razbor_152
+
+++++
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_152_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_152_text.jpg" width="350" /></a>
+</div>
+++++
+
+== В этом году с вами были
+
+* https://twitter.com/tolkv[@tolkv] Мутный Кирилл
+* https://twitter.com/jbaruch[@jbaruch] Стремительный Барух
+* https://twitter.com/gamussa[@gamussa] Портящий вступления Виктор
+* https://twitter.com/antonarhipov[@antonarhipov] Развивающийся Антон
+
+и многие другие!
+
+== Мероприятия
+
+* https://2018.jbreak.ru[JBreak]
+* https://jpoint.ru[JPoint]
+
+== Темы [которым пытаемся следовать]
+
+. https://psono.com/psono-now-supported-jfrog/[psono and jfrog]
+. о технологиях, которые сделали 2017 для ведущих
+.. https://linuxcontainers.org
+.. https://kubernetes.io
+.. https://docs.oracle.com/javase/9/whatsnew/toc.htm[Java 9]
+.. http://developer.smartthings.com[SmartThings] 
+. https://silverbulleters.org/[CI/CD по русски (как 1С)]
+. https://www.thoughtworks.com/radar[Новый Радар]
+
+
+== Полезняшка
+
+* https://t.me/AwesomeKafka_ru[Канал Виктора в телеграм про Кафку]
+* https://t.me/tradeoffs[Телеграм-канал Алексея Федорова про то, как делаются конференции]
+
+
+'''
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com[http://razbor-poletov.com]
+
+http://razbor-poletov.com/broadcast.html[Информация о вещании]
+
+Гости и участники:
+
+twitter:
+
+  * https://twitter.com/antonarhipov[@antonarhipov]
+  * https://twitter.com/gamussa[@gamussa]
+  * https://twitter.com/jbaruch[@jbaruch]
+  * https://twitter.com/tolkv[@tolkv]
+
+++++
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_152.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+++++
+
+Подписаться по http://feeds.feedburner.com/razbor-podcast[RSS]
+
+++++
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_152.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+++++
+
+Музыка ведущим http://www.audiobank.fm/single-music/27/111/More-And-Less/[предоставлена] и ладно...
