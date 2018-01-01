@@ -6,8 +6,8 @@
     <atom:link href="http://razbor-poletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2018-01-01T16:56:50-05:00</pubDate>
-    <lastBuildDate>2018-01-01T16:56:50-05:00</lastBuildDate>
+    <pubDate>2018-01-01T23:47:23+00:00</pubDate>
+    <lastBuildDate>2018-01-01T23:47:23+00:00</lastBuildDate>
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razbor-poletov.com/logoB.jpg" />
@@ -23,7 +23,7 @@
     <item>
       <title>Episode 152 — Итоги 2017</title>
       <link>http://razbor-poletov.com/2018/01/episode-152.html</link>
-      <pubDate>2018-01-01T00:00:00-05:00</pubDate>
+      <pubDate>2018-01-01T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2018/01/episode-152</guid>
       <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
@@ -320,7 +320,7 @@ twitter:
     <item>
       <title>Episode 151 — Уходя-уходи!</title>
       <link>http://razbor-poletov.com/2017/12/episode-151.html</link>
-      <pubDate>2017-12-23T00:00:00-05:00</pubDate>
+      <pubDate>2017-12-23T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2017/12/episode-151</guid>
       <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
@@ -563,7 +563,7 @@ twitter:
     <item>
       <title>Episode 150 — WTF is Техно-пиар?</title>
       <link>http://razbor-poletov.com/2017/12/episode-150.html</link>
-      <pubDate>2017-12-23T00:00:00-05:00</pubDate>
+      <pubDate>2017-12-23T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2017/12/episode-150</guid>
       <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
@@ -882,7 +882,7 @@ twitter:
     <item>
       <title>Episode 149 — Мой любимый SQL!</title>
       <link>http://razbor-poletov.com/2017/12/episode-149.html</link>
-      <pubDate>2017-12-13T00:00:00-05:00</pubDate>
+      <pubDate>2017-12-13T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2017/12/episode-149</guid>
       <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
@@ -1113,7 +1113,7 @@ twitter:
     <item>
       <title>Episode 148 — Подпольщики из MTS</title>
       <link>http://razbor-poletov.com/2017/12/episode-148.html</link>
-      <pubDate>2017-12-05T00:00:00-05:00</pubDate>
+      <pubDate>2017-12-05T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2017/12/episode-148</guid>
       <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
@@ -1276,7 +1276,7 @@ twitter:
     <item>
       <title>Episode 147 — Техрадар Lamoda</title>
       <link>http://razbor-poletov.com/2017/12/episode-147.html</link>
-      <pubDate>2017-12-05T00:00:00-05:00</pubDate>
+      <pubDate>2017-12-05T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2017/12/episode-147</guid>
       <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
@@ -1475,7 +1475,7 @@ twitter:
     <item>
       <title>Episode 146 — Сложности performance-тестирования в потустороннем мире</title>
       <link>http://razbor-poletov.com/2017/12/episode-146.html</link>
-      <pubDate>2017-12-05T00:00:00-05:00</pubDate>
+      <pubDate>2017-12-05T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2017/12/episode-146</guid>
       <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_146_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_146_text.jpg" width="350" /></a>
@@ -1614,7 +1614,7 @@ twitter:
     <item>
       <title>Episode 145 — Дешевле, надёжнее, проще</title>
       <link>http://razbor-poletov.com/2017/11/episode-145.html</link>
-      <pubDate>2017-11-25T00:00:00-05:00</pubDate>
+      <pubDate>2017-11-25T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2017/11/episode-145</guid>
       <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
@@ -1769,7 +1769,7 @@ One-cloud система управления дата-центром в Одн�
     <item>
       <title>Episode 144 — #Devoxx Special: Перворманс в Европе</title>
       <link>http://razbor-poletov.com/2017/11/episode-144.html</link>
-      <pubDate>2017-11-25T00:00:00-05:00</pubDate>
+      <pubDate>2017-11-25T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2017/11/episode-144</guid>
       <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_144_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_144_text.jpg" width="350" /></a>
@@ -1894,7 +1894,7 @@ twitter:
     <item>
       <title>Episode 143 — JavaOne Special ThreadPool Karaoke</title>
       <link>http://razbor-poletov.com/2017/10/episode-143.html</link>
-      <pubDate>2017-10-27T00:00:00-04:00</pubDate>
+      <pubDate>2017-10-27T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2017/10/episode-143</guid>
       <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_143_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_143_text.jpg" width="350" /></a>
@@ -2029,7 +2029,7 @@ twitter:
     <item>
       <title>Episode 142 – Кафка и OpenJDK</title>
       <link>http://razbor-poletov.com/2017/10/episode-142.html</link>
-      <pubDate>2017-10-01T00:00:00-04:00</pubDate>
+      <pubDate>2017-10-01T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2017/10/episode-142</guid>
       <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
@@ -2382,7 +2382,7 @@ twitter:
     <item>
       <title>Episode 141 — Засунь что-нибудь в Docker!</title>
       <link>http://razbor-poletov.com/2017/10/episode-141.html</link>
-      <pubDate>2017-10-01T00:00:00-04:00</pubDate>
+      <pubDate>2017-10-01T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2017/10/episode-141</guid>
       <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
@@ -2777,7 +2777,7 @@ twitter:
     <item>
       <title>Episode 140 — Про гриды и грибы</title>
       <link>http://razbor-poletov.com/2017/07/episode-140.html</link>
-      <pubDate>2017-07-29T00:00:00-04:00</pubDate>
+      <pubDate>2017-07-29T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2017/07/episode-140</guid>
       <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
@@ -3206,7 +3206,7 @@ twitter:
     <item>
       <title>Episode 139 — Дарт жив!</title>
       <link>http://razbor-poletov.com/2017/07/episode-139.html</link>
-      <pubDate>2017-07-07T00:00:00-04:00</pubDate>
+      <pubDate>2017-07-07T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2017/07/episode-139</guid>
       <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
@@ -3523,7 +3523,7 @@ twitter:
     <item>
       <title>Episode 138 — Чемпионы и Котлин</title>
       <link>http://razbor-poletov.com/2017/06/episode-138.html</link>
-      <pubDate>2017-06-28T00:00:00-04:00</pubDate>
+      <pubDate>2017-06-28T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2017/06/episode-138</guid>
       <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
@@ -3992,7 +3992,7 @@ twitter:
     <item>
       <title>Episode 137 – РИТ Special: Мир database с PostgreSQL</title>
       <link>http://razbor-poletov.com/2017/06/episode-137.html</link>
-      <pubDate>2017-06-19T00:00:00-04:00</pubDate>
+      <pubDate>2017-06-19T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2017/06/episode-137</guid>
       <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
@@ -4189,7 +4189,7 @@ twitter:
     <item>
       <title>Episode 136 – РИТ Special: Прокрастинация как она есть</title>
       <link>http://razbor-poletov.com/2017/06/episode-136.html</link>
-      <pubDate>2017-06-19T00:00:00-04:00</pubDate>
+      <pubDate>2017-06-19T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2017/06/episode-136</guid>
       <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
@@ -4394,7 +4394,7 @@ twitter:
     <item>
       <title>Episode 135 — РИТ Special: DevOps и культура</title>
       <link>http://razbor-poletov.com/2017/06/episode-135.html</link>
-      <pubDate>2017-06-19T00:00:00-04:00</pubDate>
+      <pubDate>2017-06-19T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2017/06/episode-135</guid>
       <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
@@ -4629,7 +4629,7 @@ https://twitter.com/golodnyj
     <item>
       <title>Episode 134 — Jigsaw и Docker</title>
       <link>http://razbor-poletov.com/2017/05/episode-134.html</link>
-      <pubDate>2017-05-14T00:00:00-04:00</pubDate>
+      <pubDate>2017-05-14T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2017/05/episode-134</guid>
       <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
@@ -5130,7 +5130,7 @@ twitter:
     <item>
       <title>Episode 133 — VP of Engineering и инвестиции</title>
       <link>http://razbor-poletov.com/2017/04/episode-133.html</link>
-      <pubDate>2017-04-23T00:00:00-04:00</pubDate>
+      <pubDate>2017-04-23T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2017/04/episode-133</guid>
       <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
@@ -5465,7 +5465,7 @@ Getting More: How You Can Negotiate to Succeed in Work and Life
     <item>
       <title>Episode 132 — Scala Тинькова</title>
       <link>http://razbor-poletov.com/2017/04/episode-132.html</link>
-      <pubDate>2017-04-11T00:00:00-04:00</pubDate>
+      <pubDate>2017-04-11T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2017/04/episode-132</guid>
       <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
@@ -5618,7 +5618,7 @@ twitter:
     <item>
       <title>Episode 131 – Что JPoint грядущий нам готовит?</title>
       <link>http://razbor-poletov.com/2017/03/episode-131.html</link>
-      <pubDate>2017-03-29T00:00:00-04:00</pubDate>
+      <pubDate>2017-03-29T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2017/03/episode-131</guid>
       <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
@@ -5885,7 +5885,7 @@ twitter:
     <item>
       <title>Episode 130: Devoxx US Special!</title>
       <link>http://razbor-poletov.com/2017/03/episode-130.html</link>
-      <pubDate>2017-03-25T00:00:00-04:00</pubDate>
+      <pubDate>2017-03-25T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2017/03/episode-130</guid>
       <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
@@ -6044,7 +6044,7 @@ twitter:
     <item>
       <title>Episode 129 — Элегантные субъекты</title>
       <link>http://razbor-poletov.com/2017/03/episode-129.html</link>
-      <pubDate>2017-03-11T00:00:00-05:00</pubDate>
+      <pubDate>2017-03-11T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2017/03/episode-129</guid>
       <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
@@ -6365,7 +6365,7 @@ twitter:
     <item>
       <title>Episode 128 — Home Automation Special</title>
       <link>http://razbor-poletov.com/2017/03/episode-128.html</link>
-      <pubDate>2017-03-06T00:00:00-05:00</pubDate>
+      <pubDate>2017-03-06T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2017/03/episode-128</guid>
       <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
@@ -6512,7 +6512,7 @@ twitter:
     <item>
       <title>Episode 127 — DevNexus Special: Привет, Андрей!</title>
       <link>http://razbor-poletov.com/2017/02/episode-127.html</link>
-      <pubDate>2017-02-24T00:00:00-05:00</pubDate>
+      <pubDate>2017-02-24T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2017/02/episode-127</guid>
       <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
@@ -6677,7 +6677,7 @@ twitter:
     <item>
       <title>Episode 126 — Неадекватное интервью</title>
       <link>http://razbor-poletov.com/2017/02/episode-126.html</link>
-      <pubDate>2017-02-11T00:00:00-05:00</pubDate>
+      <pubDate>2017-02-11T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2017/02/episode-126</guid>
       <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
@@ -7052,7 +7052,7 @@ twitter:
     <item>
       <title>Episode 125 — Apache Groovy, baby, yeah!</title>
       <link>http://razbor-poletov.com/2017/01/episode-125.html</link>
-      <pubDate>2017-01-22T00:00:00-05:00</pubDate>
+      <pubDate>2017-01-22T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2017/01/episode-125</guid>
       <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
@@ -7435,7 +7435,7 @@ twitter:
     <item>
       <title>Episode 124 — Растаманские народные сказки</title>
       <link>http://razbor-poletov.com/2016/12/episode-124.html</link>
-      <pubDate>2016-12-31T00:00:00-05:00</pubDate>
+      <pubDate>2016-12-31T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2016/12/episode-124</guid>
       <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
@@ -7670,7 +7670,7 @@ twitter:
     <item>
       <title>Episode 123 — Scala снова с нами</title>
       <link>http://razbor-poletov.com/2016/12/episode-123.html</link>
-      <pubDate>2016-12-18T00:00:00-05:00</pubDate>
+      <pubDate>2016-12-18T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2016/12/episode-123</guid>
       <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
@@ -7971,7 +7971,7 @@ twitter:
     <item>
       <title>Episode 122 — Нетрадиционный Евангелизм</title>
       <link>http://razbor-poletov.com/2016/12/episode-122.html</link>
-      <pubDate>2016-12-06T00:00:00-05:00</pubDate>
+      <pubDate>2016-12-06T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2016/12/episode-122</guid>
       <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_122_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_122_text.jpg" width="350" /></a>
@@ -8072,7 +8072,7 @@ twitter:
     <item>
       <title>Episode 121 — JVM vs CLR: Чужой не против Хищника!</title>
       <link>http://razbor-poletov.com/2016/11/episode-121.html</link>
-      <pubDate>2016-11-30T00:00:00-05:00</pubDate>
+      <pubDate>2016-11-30T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2016/11/episode-121</guid>
       <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
@@ -8481,7 +8481,7 @@ twitter:
     <item>
       <title>Episode 120 — Роботы, XRay и Conan</title>
       <link>http://razbor-poletov.com/2016/11/episode-120.html</link>
-      <pubDate>2016-11-17T00:00:00-05:00</pubDate>
+      <pubDate>2016-11-17T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2016/11/episode-120</guid>
       <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
@@ -8726,7 +8726,7 @@ twitter:
     <item>
       <title>Episode 119 — Маки и Java 9</title>
       <link>http://razbor-poletov.com/2016/11/episode-119.html</link>
-      <pubDate>2016-11-05T00:00:00-04:00</pubDate>
+      <pubDate>2016-11-05T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2016/11/episode-119</guid>
       <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
@@ -9091,7 +9091,7 @@ twitter:
     <item>
       <title>Episode 118 — JokerConf Special!</title>
       <link>http://razbor-poletov.com/2016/10/episode-118.html</link>
-      <pubDate>2016-10-24T00:00:00-04:00</pubDate>
+      <pubDate>2016-10-24T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2016/10/episode-118</guid>
       <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_118_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_118_text.jpg" width="350" /></a>
@@ -9204,7 +9204,7 @@ twitter:
     <item>
       <title>Episode 117 — Лысый и Бразерс</title>
       <link>http://razbor-poletov.com/2016/09/episode-117.html</link>
-      <pubDate>2016-09-21T00:00:00-04:00</pubDate>
+      <pubDate>2016-09-21T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2016/09/episode-117</guid>
       <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_117_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_117_text.jpg" width="350" /></a>
@@ -9323,7 +9323,7 @@ twitter:
     <item>
       <title>Episode 116 — ООП-дичь</title>
       <link>http://razbor-poletov.com/2016/09/episode-116.html</link>
-      <pubDate>2016-09-03T00:00:00-04:00</pubDate>
+      <pubDate>2016-09-03T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2016/09/episode-116</guid>
       <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
@@ -9620,7 +9620,7 @@ twitter:
     <item>
       <title>Episode 115 — Java 10, будет&#8230;&#8203;</title>
       <link>http://razbor-poletov.com/2016/08/episode-115.html</link>
-      <pubDate>2016-08-19T00:00:00-04:00</pubDate>
+      <pubDate>2016-08-19T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2016/08/episode-115</guid>
       <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
@@ -10051,7 +10051,7 @@ twitter:
     <item>
       <title>Episode 114 — Техногенный угар</title>
       <link>http://razbor-poletov.com/2016/08/episode-114.html</link>
-      <pubDate>2016-08-06T00:00:00-04:00</pubDate>
+      <pubDate>2016-08-06T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2016/08/episode-114</guid>
       <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
@@ -10446,7 +10446,7 @@ Hazelcast RxJava Plugin
     <item>
       <title>Episode 113 — Тагир и стримы</title>
       <link>http://razbor-poletov.com/2016/07/episode-113.html</link>
-      <pubDate>2016-07-15T00:00:00-04:00</pubDate>
+      <pubDate>2016-07-15T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2016/07/episode-113</guid>
       <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
@@ -10855,7 +10855,7 @@ twitter:
     <item>
       <title>Episode 112 — Java в огне!</title>
       <link>http://razbor-poletov.com/2016/06/episode-112.html</link>
-      <pubDate>2016-06-19T00:00:00-04:00</pubDate>
+      <pubDate>2016-06-19T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2016/06/episode-112</guid>
       <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
@@ -11266,7 +11266,7 @@ twitter:
     <item>
       <title>Episode 111 — Geekout Special!</title>
       <link>http://razbor-poletov.com/2016/06/episode-111.html</link>
-      <pubDate>2016-06-11T00:00:00-04:00</pubDate>
+      <pubDate>2016-06-11T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2016/06/episode-111</guid>
       <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_111_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_111_text.jpg" width="350" /></a>
@@ -11403,7 +11403,7 @@ twitter:
     <item>
       <title>Episode 110 — Теории Заговора</title>
       <link>http://razbor-poletov.com/2016/05/episode-110.html</link>
-      <pubDate>2016-05-27T00:00:00-04:00</pubDate>
+      <pubDate>2016-05-27T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2016/05/episode-110</guid>
       <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
@@ -11776,7 +11776,7 @@ twitter:
     <item>
       <title>Episode 109 — По следам JPoint</title>
       <link>http://razbor-poletov.com/2016/05/episode-109.html</link>
-      <pubDate>2016-05-10T00:00:00-04:00</pubDate>
+      <pubDate>2016-05-10T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2016/05/episode-109</guid>
       <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
@@ -12081,7 +12081,7 @@ twitter:
     <item>
       <title>Episode 108 - #razborpoletov live как никогда!</title>
       <link>http://razbor-poletov.com/2016/04/episode-108.html</link>
-      <pubDate>2016-04-24T00:00:00-04:00</pubDate>
+      <pubDate>2016-04-24T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2016/04/episode-108</guid>
       <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_108_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_108_text.jpg" width="350" /></a>
@@ -12206,7 +12206,7 @@ twitter:
     <item>
       <title>Episode 107 — Истории альпинистов</title>
       <link>http://razbor-poletov.com/2016/04/episode-107.html</link>
-      <pubDate>2016-04-09T00:00:00-04:00</pubDate>
+      <pubDate>2016-04-09T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2016/04/episode-107</guid>
       <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
@@ -12555,7 +12555,7 @@ twitter:
     <item>
       <title>Episode 106 — Нормально делай, нормально будет!</title>
       <link>http://razbor-poletov.com/2016/03/episode-106.html</link>
-      <pubDate>2016-03-26T00:00:00-04:00</pubDate>
+      <pubDate>2016-03-26T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2016/03/episode-106</guid>
       <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
@@ -12954,7 +12954,7 @@ twitter:
     <item>
       <title>Episode 105 — Как не наложить в скоуп</title>
       <link>http://razbor-poletov.com/2016/03/episode-105.html</link>
-      <pubDate>2016-03-10T00:00:00-05:00</pubDate>
+      <pubDate>2016-03-10T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2016/03/episode-105</guid>
       <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
@@ -13245,7 +13245,7 @@ twitter:
     <item>
       <title>Episode 104 — Со Scala до гроба!</title>
       <link>http://razbor-poletov.com/2016/02/episode-104.html</link>
-      <pubDate>2016-02-28T00:00:00-05:00</pubDate>
+      <pubDate>2016-02-28T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2016/02/episode-104</guid>
       <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
@@ -13522,7 +13522,7 @@ twitter:
     <item>
       <title>Episode 103 — DevNexus 2016 Special!</title>
       <link>http://razbor-poletov.com/2016/02/episode-103.html</link>
-      <pubDate>2016-02-24T00:00:00-05:00</pubDate>
+      <pubDate>2016-02-24T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2016/02/episode-103</guid>
       <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_103_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_103_text.jpg" width="350" /></a>
