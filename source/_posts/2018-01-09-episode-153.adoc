@@ -2,7 +2,7 @@
 comments: true
 categories: 
 ---
-= Episode 153 — РП: Devops - Rancher, Kubernetes и новый CI
+= Episode 153 — РП: Devops - Rancher, Kubernetes и новый CI на Kotlin
 2018-01-09 15:49
 :layout: post
 :filename: razbor_153
