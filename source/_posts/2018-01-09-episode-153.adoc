@@ -16,7 +16,7 @@ categories:
 == Гости
 
 * https://twitter.com/@lemonjet[@lemonjet] - Алёна Прохорчик. Principal Engineer at Rancher
-* https://twitter.com/@fedor[@fedor] Фёдор - автор нового CI сервера на Kotlin из Cirrus Labs
+* https://twitter.com/@fedor[@fedor] Фёдор Коротков - автор нового CI сервера на Kotlin из Cirrus Labs
 
 == Темки
 
