@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2018-01-09T21:07:44+00:00</updated>
+  <updated>2018-01-09T21:24:10+00:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,178 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 153 — РП: Devops - Rancher, Kubernetes и новый CI]]></title>
+    <link href="http://razbor-poletov.com/2018/01/episode-153.html"/>
+    <updated>2018-01-09T00:00:00+00:00</updated>
+    <id>http://razbor-poletov.com/2018/01/episode-153</id>
+    <content type="html"><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_153_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_153_text.jpg" width="350" /></a>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Гости">Гости</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://twitter.com/@lemonjet">@lemonjet</a> - Алёна Прохорчик. Principal Engineer at Rancher</p>
+</li>
+<li>
+<p><a href="https://twitter.com/@fedor">@fedor</a> Фёдор - автор нового CI сервера на Kotlin из Cirrus Labs</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темки">Темки</h2>
+<div class="sectionbody">
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p><strong>Rancher</strong></p>
+<div class="olist loweralpha">
+<ol class="loweralpha" type="a">
+<li>
+<p>Алёна и Rancher Inc, время интересных историй</p>
+</li>
+<li>
+<p>Что это такое?</p>
+</li>
+<li>
+<p>В чём отличие от kubernetes, DC/OS, Mesos++</p>
+</li>
+<li>
+<p>Когда не стоит использовать?</p>
+</li>
+<li>
+<p>Кто основные клиента, разработчики? Ынтерпрайз?</p>
+</li>
+<li>
+<p>Почему в Cirrus Labs не используют Rancher?</p>
+</li>
+</ol>
+</div>
+</li>
+<li>
+<p>Почему Kubernetes так популярен</p>
+</li>
+<li>
+<p>Абстракции и Kubernetes</p>
+</li>
+<li>
+<p><strong>Cirrus Labs</strong></p>
+<div class="olist loweralpha">
+<ol class="loweralpha" type="a">
+<li>
+<p><a href="https://medium.com/cirruslabs/introducing-cirrus-ci-a75cd1f49af0" class="bare">https://medium.com/cirruslabs/introducing-cirrus-ci-a75cd1f49af0</a></p>
+</li>
+<li>
+<p>Что за компания такая?</p>
+</li>
+<li>
+<p>Зачем ещё один CI?</p>
+</li>
+<li>
+<p>И почему не на Rancher!?</p>
+</li>
+</ol>
+</div>
+</li>
+<li>
+<p>Про Docker</p>
+<div class="olist loweralpha">
+<ol class="loweralpha" type="a">
+<li>
+<p>Docker Inc - мёртв <a href="https://chrisshort.net/docker-inc-is-dead/" class="bare">https://chrisshort.net/docker-inc-is-dead/</a></p>
+</li>
+<li>
+<p><a href="https://habrahabr.ru/company/itsumma/blog/345976/" class="bare">https://habrahabr.ru/company/itsumma/blog/345976/</a></p>
+</li>
+<li>
+<p>Docker GC - зачем? что делает? как работает?</p>
+<div class="olist lowerroman">
+<ol class="lowerroman" type="i">
+<li>
+<p><a href="https://github.com/spotify/docker-gc" class="bare">https://github.com/spotify/docker-gc</a></p>
+</li>
+</ol>
+</div>
+</li>
+</ol>
+</div>
+</li>
+<li>
+<p><a href="https://www.envoyproxy.io/" class="bare">https://www.envoyproxy.io/</a></p>
+</li>
+</ol>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Полезняшки">Полезняшки</h2>
+<div class="sectionbody">
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p><a href="http://cirrus-ci.org">Cirrus-CI</a> - бесплатный CI на время беты</p>
+</li>
+</ol>
+</div>
+<hr>
+<div class="paragraph">
+<p>Наши контакты:</p>
+</div>
+<div class="paragraph">
+<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
+</div>
+<div class="paragraph">
+<p><a href="http://razbor-poletov.com/broadcast.html">Информация о вещании</a></p>
+</div>
+<div class="paragraph">
+<p>Гости и участники:</p>
+</div>
+<div class="paragraph">
+<p>twitter:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://twitter.com/antonarhipov">@antonarhipov</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/jbaruch">@jbaruch</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/tolkv">@tolkv</a></p>
+</li>
+</ul>
+</div>
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_153.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+<div class="paragraph">
+<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
+</div>
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_153.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+<div class="paragraph">
+<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
+</div>
+</div>
+</div>]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 152 — Итоги 2017]]></title>
