@@ -6,8 +6,8 @@
     <atom:link href="http://razbor-poletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2018-02-13T17:08:45+00:00</pubDate>
-    <lastBuildDate>2018-02-13T17:08:45+00:00</lastBuildDate>
+    <pubDate>2018-02-13T17:26:35+00:00</pubDate>
+    <lastBuildDate>2018-02-13T17:26:35+00:00</lastBuildDate>
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razbor-poletov.com/logoB.jpg" />
@@ -29,6 +29,26 @@
 <div class="sectionbody">
 <div class="separator" style="clear: both; text-align: center;">
 <a href="http://razbor-poletov.com/images/razbor_154_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_154_text.jpg" width="350" /></a>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
+<div class="sectionbody">
+<div class="listingblock">
+<div class="content">
+<pre>👇 👇 👇 Официальный стикерпак Разбора Полетов и полуофициальный Чат в Телеграме 👇 👇 👇</pre>
+</div>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://t.me/addstickers/razbor_poletov">стикеры</a></p>
+</li>
+<li>
+<p>Чат в Телеграм - <a href="https://t.me/jvmchat">pro.jvm</a></p>
+</li>
+</ul>
 </div>
 </div>
 </div>
@@ -229,6 +249,26 @@
       <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[
 
+
+
+
+
+
+
+Партнеры выпуска
+
+
+
+👇 👇 👇 Официальный стикерпак Разбора Полетов и полуофициальный Чат в Телеграме 👇 👇 👇
+
+
+
+
+
+стикеры
+
+
+Чат в Телеграм - pro.jvm
 
 
 
