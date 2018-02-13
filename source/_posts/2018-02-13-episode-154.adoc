@@ -1,0 +1,91 @@
+---
+comments: true
+categories: 
+---
+= Episode 154 — Атака на Новый Год
+2018-02-13 11:45
+:layout: post
+:filename: razbor_
+
+++++
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_154_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_154_text.jpg" width="350" /></a>
+</div>
+++++
+
+== Гости
+
+. https://twitter.com/@shipilev[@shipilev] Алексей Шипилёв
+. https://twitter.com/JohnWings[@JonhWings] Ваня Крылов
+. https://twitter.com/@kuksenk0[@kuksenk0] Сергей Куксенко
+
+== Ведущие
+
+. https://twitter.com/jbaruch[@jbaruch]
+. https://twitter.com/tolkv[@tolkv]
+
+== Темки
+
+. В новый год с Meltdow и Spectre
+.. Что и кто подвержены?
+... RedHat слил инфу о том, что https://access.redhat.com/security/vulnerabilities/speculativeexecution?sc_cid=701f2000000tsLNAAY[подвержены IBM System Z, POWER8 (Big Endian and Little Endian), and POWER9 (Little Endian).] (в том числе и кто открещивался)
+... Три варианта уязвимостей (https://googleprojectzero.blogspot.ru/2018/01/reading-privileged-memory-with-side.html[описание от google])
+.... Variant 1: bounds check bypass (CVE-2017-5753)
+.... Variant 2: branch target injection (CVE-2017-5715)
+.... Variant 3: rogue data cache load (CVE-2017-5754)
+.. Как такое вообще ищут?
+.. Насколько это вообще серьёзно?
+... https://twitter.com/@shipilev[@shipilev] про https://twitter.com/shipilev/status/948711336736886785[Meltdown]
+. Насколько вообще важны относительно тяжело эксплуатируемые хардверные уязвимости, когда у нас есть npm. Тут недавно Npm won again
+.. Очередное неожиданное удаление пакета из npm. На этот раз http://www.opennet.ru/opennews/art.shtml?num=47891[по вине автоматики]
+.. Фантазии про https://hackernoon.com/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5[шаткое положение индустрии распространения кода] в целом
+. NPM модуля распространяются как чума, а что этому может помешать? Developers Code And License
+.. GitHub репозитории без лицензии - read-only код? (по мотивам обсуждения https://twitter.com/@olegchir[@olegchir])
+.. Oracle планирует https://blogs.oracle.com/oraclemagazine/the-future-is-open[поставлять OpenJDK под GPL] да и вообще OSS во все щели
+
+== Полезняшки
+
+* https://xakep.ru/2006/12/16/35784/
+* https://groups.google.com/forum/#!topic/mechanical-sympathy/L9mHTbeQLNU
+* https://gist.github.com/Szpadel/003798ac7f4d98bc3583c2a5f3064cb3
+* https://skyfallattack.com/
+* https://access.redhat.com/articles/3307751
+* http://hypervsir.blogspot.ru/2014/11/improve-performance-for-separating.html
+* https://spectreattack.com/
+
+
+'''
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com[http://razbor-poletov.com]
+
+http://razbor-poletov.com/broadcast.html[Информация о вещании]
+
+Гости и участники:
+
+twitter:
+
+  * https://twitter.com/antonarhipov[@antonarhipov]
+  * https://twitter.com/gamussa[@gamussa]
+  * https://twitter.com/jbaruch[@jbaruch]
+  * https://twitter.com/shipilev[@shipilev]
+  * https://twitter.com/tolkv[@tolkv]
+
+++++
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_154.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+++++
+
+Подписаться по http://feeds.feedburner.com/razbor-podcast[RSS]
+
+++++
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_154.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+++++
+
+Музыка ведущим http://www.audiobank.fm/single-music/27/111/More-And-Less/[предоставлена] и ладно...
