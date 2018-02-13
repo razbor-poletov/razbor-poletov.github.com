@@ -133,6 +133,13 @@ task :new_post, :title do |t, args|
 </div>
 ++++
 
+== Партнеры выпуска
+----
+👇 👇 👇 Официальный стикерпак Разбора Полетов и полуофициальный Чат pro.jvm в Телеграме 👇 👇 👇
+----
+* https://t.me/addstickers/razbor_poletov[стикеры]
+* https://t.me/jvmchat[pro.jvm]
+
 == <Topic 1>
 
 == <Topic 2>
