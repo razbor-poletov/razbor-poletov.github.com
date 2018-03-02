@@ -2,7 +2,7 @@
 comments: true
 categories: 
 ---
-= Episode 154 — РП: Конференции - DevNexus и выгорание
+= Episode 155 — РП: Конференции - DevNexus и выгорание
 2018-03-02 14:01
 :layout: post
 :filename: razbor_
