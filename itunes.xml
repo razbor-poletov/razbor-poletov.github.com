@@ -6,8 +6,8 @@
     <atom:link href="http://razbor-poletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2018-03-30T22:42:56+00:00</pubDate>
-    <lastBuildDate>2018-03-30T22:42:56+00:00</lastBuildDate>
+    <pubDate>2018-03-30T23:40:48+00:00</pubDate>
+    <lastBuildDate>2018-03-30T23:40:48+00:00</lastBuildDate>
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razbor-poletov.com/logoB.jpg" />
@@ -19,6 +19,425 @@
     </itunes:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:thumbnail url="http://razbor-poletov.com/logoB.jpg" />
+    
+    <item>
+      <title>Episode 157 – РП: Java - Про детятку</title>
+      <link>http://razbor-poletov.com/2018/03/episode-157.html</link>
+      <pubDate>2018-03-30T00:00:00+00:00</pubDate>
+      <guid isPermalink="true">http://razbor-poletov.com/2018/03/episode-157</guid>
+      <description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_157_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_157_text.jpg" width="350" /></a>
+</div>
+<div class="paragraph">
+<p>МОЛНИЯ!!! Промо конференции <a href="https://jpoint.ru/">JPoint</a> в Москве!</p>
+</div>
+<div class="paragraph">
+<p>С кодом <strong>RazborJPoint</strong> вам будет предоставлена скидка на билет!
+p.s. Если идете на JPoint 2018, то дослушайте до конца, там для вас есть конкурс на футболку!</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
+<div class="sectionbody">
+<div class="listingblock">
+<div class="content">
+<pre>👇 👇 👇 Официальный стикерпак Разбора Полетов и полуофициальный Чат pro.jvm в Телеграме 👇 👇 👇</pre>
+</div>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://t.me/addstickers/razbor_poletov">стикеры</a></p>
+</li>
+<li>
+<p><a href="https://t.me/jvmchat">pro.jvm</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Гости">Гости</h2>
+<div class="sectionbody">
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p><a href="https://twitter.com/@andrey_kogun">@andrey_kogun</a> Андрей Когунь</p>
+</li>
+<li>
+<p><a href="https://twitter.com/@olegchir">@olegchir</a> Олег Чирухин</p>
+</li>
+<li>
+<p><a href="https://twitter.com/tagir_valeev">@tagir_valeev</a> Тагир Валеев</p>
+</li>
+</ol>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Ведущие">Ведущие</h2>
+<div class="sectionbody">
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p><a href="https://twitter.com/jbaruch">@jbaruch</a> Барух Садоругский</p>
+</li>
+<li>
+<p><a href="https://twitter.com/tolkv">@tolkv</a> Толкачёв Кирилл</p>
+</li>
+<li>
+<p><a href="https://twitter.com/@gamussa">@gamussa</a> Викто Гамов</p>
+</li>
+<li>
+<p><a href="https://twitter.com/antonarhipov">@antonarhipov</a> Антон Архипов</p>
+</li>
+</ol>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темки">Темки</h2>
+<div class="sectionbody">
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p><a href="https://www.wired.com/story/the-case-that-never-ends-oracle-wins-latest-round-vs-google">Oracle vs Google</a> - нет худа без добра</p>
+</li>
+<li>
+<p>От 9ки до 10ки и жизнь после</p>
+<div class="olist loweralpha">
+<ol class="loweralpha" type="a">
+<li>
+<p>var и пазлеры</p>
+</li>
+<li>
+<p>raw string</p>
+</li>
+<li>
+<p>HttpClient <a href="https://twitter.com/@kuksenko">@kuksenko</a> в Java 11 похоже уже не incubating</p>
+</li>
+<li>
+<p>switch expression и сложности с ним связанные</p>
+</li>
+<li>
+<p>non-denotable types</p>
+</li>
+</ol>
+</div>
+</li>
+<li>
+<p><a href="https://developer.oracle.com/devo/res/pdf/1385446602743/Oracle-Java10.pdf">Java 10 white paper</a></p>
+</li>
+<li>
+<p><a href="http://openjdk.java.net/jeps/328">Когда ждать JFR и где он будет?</a></p>
+</li>
+<li>
+<p>VisualVM и кто придёт на смену?</p>
+</li>
+<li>
+<p>Лицензии на софт в Docker</p>
+</li>
+<li>
+<p><a href="https://medium.com/@rservant/how-did-the-j9-in-openj9-get-its-name-95a6416b4cb9">Тайна названия J9</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/@solomonstre">Solomon Hykes</a> уходит из Docker</p>
+<div class="olist loweralpha">
+<ol class="loweralpha" type="a">
+<li>
+<p><a href="https://blog.docker.com/2018/03/au-revoir/" class="bare">https://blog.docker.com/2018/03/au-revoir/</a></p>
+</li>
+</ol>
+</div>
+</li>
+</ol>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Полезняшки">Полезняшки</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="http://openjdk.java.net/projects/amber/LVTIstyle.html">Гайд по использование var</a></p>
+</li>
+<li>
+<p><a href="https://developer.oracle.com/devo/res/pdf/1385446602743/Oracle-Java10.pdf">Java 10 white paper</a></p>
+</li>
+<li>
+<p><a href="https://visualvm.github.io/" class="bare">https://visualvm.github.io/</a></p>
+</li>
+</ul>
+</div>
+<hr>
+<div class="paragraph">
+<p>Наши контакты:</p>
+</div>
+<div class="paragraph">
+<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
+</div>
+<div class="paragraph">
+<p><a href="http://razbor-poletov.com/broadcast.html">Информация о вещании</a></p>
+</div>
+<div class="paragraph">
+<p>Гости и участники:</p>
+</div>
+<div class="paragraph">
+<p>twitter:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://twitter.com/a_abashev">@a_abashev</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/antonarhipov">@antonarhipov</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/dzmitryc">@dzmitryc</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/jbaruch">@jbaruch</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/shipilev">@shipilev</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/tolkv">@tolkv</a></p>
+</li>
+</ul>
+</div>
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_157.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+<div class="paragraph">
+<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
+</div>
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_157.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+<div class="paragraph">
+<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
+</div>
+</div>
+</div>]]></description>
+      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[
+
+
+
+
+
+МОЛНИЯ!!! Промо конференции JPoint в Москве!
+
+
+С кодом RazborJPoint вам будет предоставлена скидка на билет!
+p.s. Если идете на JPoint 2018, то дослушайте до конца, там для вас есть конкурс на футболку!
+
+
+
+
+Партнеры выпуска
+
+
+
+👇 👇 👇 Официальный стикерпак Разбора Полетов и полуофициальный Чат pro.jvm в Телеграме 👇 👇 👇
+
+
+
+
+
+стикеры
+
+
+pro.jvm
+
+
+
+
+
+
+Гости
+
+
+
+
+@andrey_kogun Андрей Когунь
+
+
+@olegchir Олег Чирухин
+
+
+@tagir_valeev Тагир Валеев
+
+
+
+
+
+
+Ведущие
+
+
+
+
+@jbaruch Барух Садоругский
+
+
+@tolkv Толкачёв Кирилл
+
+
+@gamussa Викто Гамов
+
+
+@antonarhipov Антон Архипов
+
+
+
+
+
+
+Темки
+
+
+
+
+Oracle vs Google - нет худа без добра
+
+
+От 9ки до 10ки и жизнь после
+
+
+
+var и пазлеры
+
+
+raw string
+
+
+HttpClient @kuksenko в Java 11 похоже уже не incubating
+
+
+switch expression и сложности с ним связанные
+
+
+non-denotable types
+
+
+
+
+
+Java 10 white paper
+
+
+Когда ждать JFR и где он будет?
+
+
+VisualVM и кто придёт на смену?
+
+
+Лицензии на софт в Docker
+
+
+Тайна названия J9
+
+
+Solomon Hykes уходит из Docker
+
+
+
+https://blog.docker.com/2018/03/au-revoir/
+
+
+
+
+
+
+
+
+
+Полезняшки
+
+
+
+
+Гайд по использование var
+
+
+Java 10 white paper
+
+
+https://visualvm.github.io/
+
+
+
+
+
+Наши контакты:
+
+
+Официальный сайт — http://razbor-poletov.com
+
+
+Информация о вещании
+
+
+Гости и участники:
+
+
+twitter:
+
+
+
+
+@a_abashev
+
+
+@antonarhipov
+
+
+@dzmitryc
+
+
+@gamussa
+
+
+@jbaruch
+
+
+@shipilev
+
+
+@tolkv
+
+
+
+
+
+
+   
+   Your browser does not support the audio tag.
+
+
+Подписаться по RSS
+
+
+
+
+Музыка ведущим предоставлена и ладно&#8230;&#8203;
+
+
+]]></itunes:summary>
+    </item>
     
     <item>
       <title>Episode 156 — РП: Фронтенд - JavaScript и мемасики</title>
@@ -13380,355 +13799,6 @@ twitter:
 
 
 Музыка ведущим предоставлена и ладно&#8230;&#8203;
-]]></itunes:summary>
-    </item>
-    
-    <item>
-      <title>Episode 107 — Истории альпинистов</title>
-      <link>http://razbor-poletov.com/2016/04/episode-107.html</link>
-      <pubDate>2016-04-09T00:00:00+00:00</pubDate>
-      <guid isPermalink="true">http://razbor-poletov.com/2016/04/episode-107</guid>
-      <description><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="paragraph">
-<p>Выпуск 18+</p>
-</div>
-<div class="separator" style="clear: both; text-align: center;">
-<a href="http://razbor-poletov.com/images/razbor_107_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_107_text.jpg" width="350" /></a>
-</div>
-<div class="paragraph">
-<p>Подкаст выходит при поддержке JetBrains и JUG.ru</p>
-</div>
-<div class="paragraph">
-<p>Сегодня у нас День Эльбруса</p>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Гости">Гости</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p>Роман Артемьев из Унипро</p>
-<div class="ulist">
-<ul>
-<li>
-<p>Портирует JVM на Эльбрус</p>
-</li>
-<li>
-<p>Портирует V8 на Эльбрус</p>
-</li>
-<li>
-<p>По совместительству студент-физик</p>
-</li>
-</ul>
-</div>
-</li>
-<li>
-<p>ААААалексей Шипилёв</p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Темки">Темки</h2>
-<div class="sectionbody">
-<div class="olist arabic">
-<ol class="arabic">
-<li>
-<p>JavaEE Guardians</p>
-</li>
-<li>
-<p>Эльбрус шагает по планете
-<a href="http://www.cnews.ru/news/top/2016-03-30_iran_zainteresovalsya_rossijskimi_protsessorami" class="bare">http://www.cnews.ru/news/top/2016-03-30_iran_zainteresovalsya_rossijskimi_protsessorami</a></p>
-<div class="olist loweralpha">
-<ol class="loweralpha" type="a">
-<li>
-<p>Кто портирует JVM на Эльбрус?</p>
-</li>
-<li>
-<p>Какие сложности?</p>
-</li>
-<li>
-<p>Что такое этот ваше Эльбрус?</p>
-</li>
-<li>
-<p>v8 на эльбрусе</p>
-</li>
-</ol>
-</div>
-</li>
-<li>
-<p>JSF наконец отвалился <a href="https://www.thoughtworks.com/radar" class="bare">https://www.thoughtworks.com/radar</a></p>
-</li>
-<li>
-<p>Барух юзает <a href="https://keybase.io/" class="bare">https://keybase.io/</a> , Витя в недоумении - зачем это
-юзать и как можно жить с одним ключем от всех дверей. Как Барух защищает
-свое самое драгоценное - свои..Свои?!.. СВОЙ ключ. Ведь его у него
-никогда..</p>
-</li>
-<li>
-<p>NPM наносит ответный удар. Follow UP от Баруха.</p>
-</li>
-</ol>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Полезняшки">Полезняшки</h2>
-<div class="sectionbody">
-<div class="olist arabic">
-<ol class="arabic">
-<li>
-<p>О Эльбрусе <a href="http://mcst.ru/">mcst.ru</a> , всё, кроме коммерческой тайны</p>
-</li>
-<li>
-<p><a href="https://www.youtube.com/watch?v=PUNJ_tkq2hk&amp;feature=youtu.be">Doom на Эльбрусе</a></p>
-</li>
-<li>
-<p><a href="https://github.com/aphyr/jepsen" class="bare">https://github.com/aphyr/jepsen</a></p>
-</li>
-<li>
-<p><a href="http://concourse.ci/" class="bare">http://concourse.ci/</a></p>
-</li>
-<li>
-<p><a href="http://www.microservicesweekly.com/">http://www.microservicesweekly.com</a></p>
-</li>
-<li>
-<p><a href="http://deadlockempire.github.io/" class="bare">http://deadlockempire.github.io/</a></p>
-</li>
-<li>
-<p><a href="https://keybase.io/" class="bare">https://keybase.io/</a></p>
-</li>
-</ol>
-</div>
-<hr>
-<div class="paragraph">
-<p>Наши контакты:</p>
-</div>
-<div class="paragraph">
-<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
-</div>
-<div class="paragraph">
-<p><a href="http://razbor-poletov.com/broadcast.html">Информация о вещании</a></p>
-</div>
-<div class="paragraph">
-<p>Гости и участники:</p>
-</div>
-<div class="paragraph">
-<p>twitter:</p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://twitter.com/antonarhipov">@antonarhipov</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/tolkv">@tolkv</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/jbaruch">@jbaruch</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/shipilev">@shipilev</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/ru_ostroumova">@ru_ostroumova</a></p>
-</li>
-</ul>
-</div>
-<!-- player goes here-->
-
-<audio preload="none">
-   <source src="http://traffic.libsyn.com/razborpoletov/razbor_107.mp3" type="audio/mp3" />
-   Your browser does not support the audio tag.
-</audio>
-<div class="paragraph">
-<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
-</div>
-<!-- episode file link goes here-->
-<a href="http://traffic.libsyn.com/razborpoletov/razbor_107.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
-<div class="paragraph">
-<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
-</div>
-</div>
-</div>]]></description>
-      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
-      <itunes:summary><![CDATA[
-
-
-Выпуск 18+
-
-
-
-
-
-Подкаст выходит при поддержке JetBrains и JUG.ru
-
-
-Сегодня у нас День Эльбруса
-
-
-
-
-Гости
-
-
-
-
-Роман Артемьев из Унипро
-
-
-
-Портирует JVM на Эльбрус
-
-
-Портирует V8 на Эльбрус
-
-
-По совместительству студент-физик
-
-
-
-
-
-ААААалексей Шипилёв
-
-
-
-
-
-
-Темки
-
-
-
-
-JavaEE Guardians
-
-
-Эльбрус шагает по планете
-http://www.cnews.ru/news/top/2016-03-30_iran_zainteresovalsya_rossijskimi_protsessorami
-
-
-
-Кто портирует JVM на Эльбрус?
-
-
-Какие сложности?
-
-
-Что такое этот ваше Эльбрус?
-
-
-v8 на эльбрусе
-
-
-
-
-
-JSF наконец отвалился https://www.thoughtworks.com/radar
-
-
-Барух юзает https://keybase.io/ , Витя в недоумении - зачем это
-юзать и как можно жить с одним ключем от всех дверей. Как Барух защищает
-свое самое драгоценное - свои..Свои?!.. СВОЙ ключ. Ведь его у него
-никогда..
-
-
-NPM наносит ответный удар. Follow UP от Баруха.
-
-
-
-
-
-
-Полезняшки
-
-
-
-
-О Эльбрусе mcst.ru , всё, кроме коммерческой тайны
-
-
-Doom на Эльбрусе
-
-
-https://github.com/aphyr/jepsen
-
-
-http://concourse.ci/
-
-
-http://www.microservicesweekly.com
-
-
-http://deadlockempire.github.io/
-
-
-https://keybase.io/
-
-
-
-
-
-Наши контакты:
-
-
-Официальный сайт — http://razbor-poletov.com
-
-
-Информация о вещании
-
-
-Гости и участники:
-
-
-twitter:
-
-
-
-
-@antonarhipov
-
-
-@gamussa
-
-
-@tolkv
-
-
-@jbaruch
-
-
-@shipilev
-
-
-@ru_ostroumova
-
-
-
-
-
-
-   
-   Your browser does not support the audio tag.
-
-
-Подписаться по RSS
-
-
-
-
-Музыка ведущим предоставлена и ладно&#8230;&#8203;
-
-
 ]]></itunes:summary>
     </item>
     
