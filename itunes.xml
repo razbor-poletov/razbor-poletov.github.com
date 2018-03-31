@@ -6,8 +6,8 @@
     <atom:link href="http://razbor-poletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2018-03-31T01:10:32+00:00</pubDate>
-    <lastBuildDate>2018-03-31T01:10:32+00:00</lastBuildDate>
+    <pubDate>2018-03-31T02:52:44+00:00</pubDate>
+    <lastBuildDate>2018-03-31T02:52:44+00:00</lastBuildDate>
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razbor-poletov.com/logoB.jpg" />
@@ -21,7 +21,7 @@
     <media:thumbnail url="http://razbor-poletov.com/logoB.jpg" />
     
     <item>
-      <title>Episode 157 – РП: Java - Про детятку</title>
+      <title>Episode 157 – РП: Java - Про десятку</title>
       <link>http://razbor-poletov.com/2018/03/episode-157.html</link>
       <pubDate>2018-03-30T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razbor-poletov.com/2018/03/episode-157</guid>
