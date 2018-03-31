@@ -30,6 +30,7 @@ p.s. Если идете на JPoint 2018, то дослушайте до кон
 . https://twitter.com/@andrey_kogun[@andrey_kogun] Андрей Когунь
 . https://twitter.com/@olegchir[@olegchir] Олег Чирухин
 . https://twitter.com/tagir_valeev[@tagir_valeev] Тагир Валеев
+. https://twitter.com/@JohnWings[@JohnWings] Иван Крылов
 
 == Ведущие
 
@@ -54,6 +55,8 @@ p.s. Если идете на JPoint 2018, то дослушайте до кон
 . https://medium.com/@rservant/how-did-the-j9-in-openj9-get-its-name-95a6416b4cb9[Тайна названия J9]
 . https://twitter.com/@solomonstre[Solomon Hykes] уходит из Docker
 .. https://blog.docker.com/2018/03/au-revoir/
+
+. https://jugmsk.timepad.ru/event/678951/[Встреча jug.msk.ru] 5 апреля 2018 с Рустамом Мехмандаровым и Александром Тарасовым - семантические чудеса и автоматизация экспериментов
 
 == Полезняшки
 
