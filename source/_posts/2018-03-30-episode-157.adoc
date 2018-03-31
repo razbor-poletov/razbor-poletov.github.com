@@ -2,7 +2,7 @@
 comments: true
 categories: 
 ---
-= Episode 157 – РП: Java - Про детятку
+= Episode 157 – РП: Java - Про десятку
 2018-03-30 19:03
 :layout: post
 :filename: razbor_
