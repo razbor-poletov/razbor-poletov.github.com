@@ -6,8 +6,8 @@
     <atom:link href="http://razbor-poletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2018-03-30T23:40:48+00:00</pubDate>
-    <lastBuildDate>2018-03-30T23:40:48+00:00</lastBuildDate>
+    <pubDate>2018-03-31T01:10:32+00:00</pubDate>
+    <lastBuildDate>2018-03-31T01:10:32+00:00</lastBuildDate>
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razbor-poletov.com/logoB.jpg" />
@@ -72,6 +72,9 @@ p.s. Если идете на JPoint 2018, то дослушайте до кон
 </li>
 <li>
 <p><a href="https://twitter.com/tagir_valeev">@tagir_valeev</a> Тагир Валеев</p>
+</li>
+<li>
+<p><a href="https://twitter.com/@JohnWings">@JohnWings</a> Иван Крылов</p>
 </li>
 </ol>
 </div>
@@ -152,6 +155,9 @@ p.s. Если идете на JPoint 2018, то дослушайте до кон
 </li>
 </ol>
 </div>
+</li>
+<li>
+<p><a href="https://jugmsk.timepad.ru/event/678951/">Встреча jug.msk.ru</a> 5 апреля 2018 с Рустамом Мехмандаровым и Александром Тарасовым - семантические чудеса и автоматизация экспериментов</p>
 </li>
 </ol>
 </div>
@@ -281,6 +287,9 @@ pro.jvm
 @tagir_valeev Тагир Валеев
 
 
+@JohnWings Иван Крылов
+
+
 
 
 
@@ -359,6 +368,9 @@ https://blog.docker.com/2018/03/au-revoir/
 
 
 
+
+
+Встреча jug.msk.ru 5 апреля 2018 с Рустамом Мехмандаровым и Александром Тарасовым - семантические чудеса и автоматизация экспериментов
 
 
 
