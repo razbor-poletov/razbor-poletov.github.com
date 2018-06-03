@@ -19,6 +19,8 @@ categories:
 * Евгений Борисов https://twitter.com/jekaborisov[@jekaborisov]
 * Антон Черноусов https://twitter.com/golodnyj[@golodnyj]
 
+== Темы
+
 . Spring Spring Spring, куда мы движемся словами Juergen Hoeller
 . Problem Solving — Новый формат раскрытия преступлений
 . Новости из мира С++, Conan мужает
