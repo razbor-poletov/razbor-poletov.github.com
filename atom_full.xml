@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2018-06-02T20:54:20+00:00</updated>
+  <updated>2018-06-03T02:12:28+00:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -151,6 +151,33 @@
 <p>Владислав Гончаров</p>
 </li>
 </ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p>Падал телеграмм, еще до блокировок</p>
+</li>
+<li>
+<p>Что такое платформа Сбербанка и сколько их есть?</p>
+</li>
+<li>
+<p>Китайский AWS, как страшно жить</p>
+</li>
+<li>
+<p>Классическая Труба Devops</p>
+</li>
+<li>
+<p>Микросервисы в Сбербанке</p>
+</li>
+<li>
+<p>Автоматизация экспериментов</p>
+</li>
+</ol>
 </div>
 </div>
 </div>

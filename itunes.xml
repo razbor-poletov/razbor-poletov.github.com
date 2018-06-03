@@ -6,8 +6,8 @@
     <atom:link href="http://razbor-poletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2018-06-02T20:54:20+00:00</pubDate>
-    <lastBuildDate>2018-06-02T20:54:20+00:00</lastBuildDate>
+    <pubDate>2018-06-03T02:12:28+00:00</pubDate>
+    <lastBuildDate>2018-06-03T02:12:28+00:00</lastBuildDate>
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razbor-poletov.com/logoB.jpg" />
@@ -265,6 +265,33 @@ twitter:
 </div>
 </div>
 <div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p>Падал телеграмм, еще до блокировок</p>
+</li>
+<li>
+<p>Что такое платформа Сбербанка и сколько их есть?</p>
+</li>
+<li>
+<p>Китайский AWS, как страшно жить</p>
+</li>
+<li>
+<p>Классическая Труба Devops</p>
+</li>
+<li>
+<p>Микросервисы в Сбербанке</p>
+</li>
+<li>
+<p>Автоматизация экспериментов</p>
+</li>
+</ol>
+</div>
+</div>
+</div>
+<div class="sect1">
 <h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
 <div class="sectionbody">
 <div class="listingblock">
@@ -352,6 +379,33 @@ twitter:
 
 
 Владислав Гончаров
+
+
+
+
+
+
+Темы
+
+
+
+
+Падал телеграмм, еще до блокировок
+
+
+Что такое платформа Сбербанка и сколько их есть?
+
+
+Китайский AWS, как страшно жить
+
+
+Классическая Труба Devops
+
+
+Микросервисы в Сбербанке
+
+
+Автоматизация экспериментов
 
 
 
