@@ -1,0 +1,71 @@
+---
+comments: true
+categories: 
+---
+= Episode 162 – РП: Конференции — JPoint 2018: Бенефис Kotlin 
+2018-06-11 12:48
+:layout: post
+:filename: razbor_
+
+++++
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_162_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_162_text.jpg" width="350" /></a>
+</div>
+++++
+
+== Партнеры выпуска
+----
+👇 👇 👇 Официальный стикерпак Разбора Полетов и полуофициальный Чат pro.jvm в Телеграме 👇 👇 👇
+----
+* https://t.me/addstickers/razbor_poletov[стикеры]
+* https://t.me/jvmchat[pro.jvm]
+
+== Гости и ведущие
+
+* Дмитрий Жемеров https://twitter.com/intelliyole[@intelliyole]
+* Антон Архипов https://twitter.com/antonarhipov[@antonarhipov]
+* Антон Черноусов https://twitter.com/golodnyj[@golodnyj]
+* Алексей Абашев https://twitter.com/a_abashev[@a_abashev]
+
+== Темы 
+
+. Идиоматичный Kotlin без классической завязки развязки
+. KotlinConf 3-5 октября https://kotlinconf.com/
+. Куда движется Kotlin
+. Большие против kotlin
+. YouTrack, IDEA, UX и Евангелисты в JetBrains
+
+'''
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com[http://razbor-poletov.com]
+
+http://razbor-poletov.com/broadcast.html[Информация о вещании]
+
+Гости и участники:
+
+twitter:
+
+  * https://twitter.com/a_abashev[@a_abashev]
+  * https://twitter.com/antonarhipov[@antonarhipov]
+  * Антон Черноусов https://twitter.com/golodnyj[@golodnyj]
+ 
+
+++++
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_162.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+++++
+
+Подписаться по http://feeds.feedburner.com/razbor-podcast[RSS]
+
+++++
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_162.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+++++
+
+Музыка ведущим http://www.audiobank.fm/single-music/27/111/More-And-Less/[предоставлена] и ладно...
