@@ -49,7 +49,7 @@ twitter:
 
   * https://twitter.com/a_abashev[@a_abashev]
   * https://twitter.com/antonarhipov[@antonarhipov]
-  * Антон Черноусов https://twitter.com/golodnyj[@golodnyj]
+  * https://twitter.com/golodnyj[@golodnyj]
  
 
 ++++
