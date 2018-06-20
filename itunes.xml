@@ -6,8 +6,8 @@
     <atom:link href="http://razbor-poletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2018-06-19T16:40:29+00:00</pubDate>
-    <lastBuildDate>2018-06-19T16:40:29+00:00</lastBuildDate>
+    <pubDate>2018-06-20T15:03:56+00:00</pubDate>
+    <lastBuildDate>2018-06-20T15:03:56+00:00</lastBuildDate>
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razbor-poletov.com/logoB.jpg" />
@@ -19,6 +19,257 @@
     </itunes:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:thumbnail url="http://razbor-poletov.com/logoB.jpg" />
+    
+    <item>
+      <title>Episode 164 – РП: Конференции — swampUP 2018 Special</title>
+      <link>http://razbor-poletov.com/2018/06/episode-164.html</link>
+      <pubDate>2018-06-20T00:00:00+00:00</pubDate>
+      <guid isPermalink="true">http://razbor-poletov.com/2018/06/episode-164</guid>
+      <description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_164_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_164_text.jpg" width="350" /></a>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
+<div class="sectionbody">
+<div class="listingblock">
+<div class="content">
+<pre>👇 👇 👇 Конференция Joker 2018 уже анонсирована! 👇 👇 👇
+Промокод: Joker2018Razbor
+Работает только для https://jokerconf.com/prices/#personal</pre>
+</div>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://t.me/addstickers/razbor_poletov">стикеры</a></p>
+</li>
+<li>
+<p><a href="https://t.me/jvmchat">pro.jvm</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Гости-и-ведущие">Гости и ведущие</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Витя</p>
+</li>
+<li>
+<p>Барух</p>
+</li>
+<li>
+<p>Наш штатный VP of Engineering <a href="https://twitter.com/ligolnik">Леонид Игольник</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темки">Темки</h2>
+<div class="sectionbody">
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p>swampUp 2018</p>
+<div class="olist loweralpha">
+<ol class="loweralpha" type="a">
+<li>
+<p><a href="https://www.youtube.com/watch?v=C-5JIiRy5LU">Витя и Барух спикают</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=NSvQ141qRZ0">Леонид и Кори спикают</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=oxnwnb7c6x4&amp;list=PLY0Zjn5rFo4OuGDcUEgb48JcObItA4TLW">Остальные видосики уже на youtube</a></p>
+</li>
+</ol>
+</div>
+</li>
+<li>
+<p><a href="http://liquidsoftware.com/">Новая книжка Баруха</a></p>
+</li>
+<li>
+<p>Разжиженное ПО</p>
+</li>
+<li>
+<p>Вари контейнеры правильно</p>
+</li>
+</ol>
+</div>
+<hr>
+<div class="paragraph">
+<p>Наши контакты:</p>
+</div>
+<div class="paragraph">
+<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
+</div>
+<div class="paragraph">
+<p><a href="http://razbor-poletov.com/broadcast.html">Информация о вещании</a></p>
+</div>
+<div class="paragraph">
+<p>Гости и участники:</p>
+</div>
+<div class="paragraph">
+<p>twitter:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/jbaruch">@jbaruch</a></p>
+</li>
+</ul>
+</div>
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_164.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+<div class="paragraph">
+<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
+</div>
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_164.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+<div class="paragraph">
+<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
+</div>
+</div>
+</div>]]></description>
+      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[
+
+
+
+
+
+
+
+Партнеры выпуска
+
+
+
+👇 👇 👇 Конференция Joker 2018 уже анонсирована! 👇 👇 👇
+Промокод: Joker2018Razbor
+Работает только для https://jokerconf.com/prices/#personal
+
+
+
+
+
+стикеры
+
+
+pro.jvm
+
+
+
+
+
+
+Гости и ведущие
+
+
+
+
+Витя
+
+
+Барух
+
+
+Наш штатный VP of Engineering Леонид Игольник
+
+
+
+
+
+
+Темки
+
+
+
+
+swampUp 2018
+
+
+
+Витя и Барух спикают
+
+
+Леонид и Кори спикают
+
+
+Остальные видосики уже на youtube
+
+
+
+
+
+Новая книжка Баруха
+
+
+Разжиженное ПО
+
+
+Вари контейнеры правильно
+
+
+
+
+
+Наши контакты:
+
+
+Официальный сайт — http://razbor-poletov.com
+
+
+Информация о вещании
+
+
+Гости и участники:
+
+
+twitter:
+
+
+
+
+@gamussa
+
+
+@jbaruch
+
+
+
+
+
+
+   
+   Your browser does not support the audio tag.
+
+
+Подписаться по RSS
+
+
+
+
+Музыка ведущим предоставлена и ладно&#8230;&#8203;
+
+
+]]></itunes:summary>
+    </item>
     
     <item>
       <title>Episode 163 – РП: Конференции — JPoint 2018: Liberica, Xtend и Alibaba</title>
@@ -12932,401 +13183,6 @@ twitter:
 
 
 @johnwings
-
-
-
-
-
-
-   
-   Your browser does not support the audio tag.
-
-
-Подписаться по RSS
-
-
-
-
-Музыка ведущим предоставлена и ладно&#8230;&#8203;
-
-
-]]></itunes:summary>
-    </item>
-    
-    <item>
-      <title>Episode 114 — Техногенный угар</title>
-      <link>http://razbor-poletov.com/2016/08/episode-114.html</link>
-      <pubDate>2016-08-06T00:00:00+00:00</pubDate>
-      <guid isPermalink="true">http://razbor-poletov.com/2016/08/episode-114</guid>
-      <description><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="http://razbor-poletov.com/images/razbor_114_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_114_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Гости">Гости</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://twitter.com/PapaMinos">Никита Макаров</a> из Одноклассников</p>
-</li>
-<li>
-<p><a href="https://twitter.com/GoblinGame">Сергей Высоцкий</a> из Spotify</p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Релизы">Релизы</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-1.4-Release-Notes#upgrading-from-spring-boot-13">Spring Boot 1.4</a> guava cache deprecated , viva la caffeine cache</p>
-</li>
-<li>
-<p>IntelliJ IDEA 2016.2
-<a href="https://blog.jetbrains.com/idea/2016/07/intellij-idea-2016-2-is-here/" class="bare">https://blog.jetbrains.com/idea/2016/07/intellij-idea-2016-2-is-here/</a></p>
-</li>
-<li>
-<p><a href="http://www.dropwizard.io/1.0.0/docs/about/release-notes.html">dropwizard 1.0 http://www.dropwizard.io/1.0.0/docs/about/release-notes.html</a></p>
-</li>
-<li>
-<p><a href="https://habrahabr.ru/post/305384/">Nginx Amplify</a></p>
-</li>
-<li>
-<p><a href="https://github.com/google/protobuf/releases/tag/v3.0.0" class="bare">https://github.com/google/protobuf/releases/tag/v3.0.0</a></p>
-</li>
-<li>
-<p><a href="http://mesos.apache.org/blog/mesos-1-0-0-released/">Mesos 1.0</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Мероприятия">Мероприятия</h2>
-<div class="sectionbody">
-<div class="olist arabic">
-<ol class="arabic">
-<li>
-<p>Прошли</p>
-<div class="olist loweralpha">
-<ol class="loweralpha" type="a">
-<li>
-<p><a href="https://springoneplatform.io/">SpringOne</a></p>
-</li>
-<li>
-<p><a href="http://www.meetup.com/Belarus-Jenkins-Meetup/events/232279096/?comment_table_id=468410729&amp;comment_table_name=event_comment">Jenkins BY Meetup</a> прошел успешно</p>
-</li>
-</ol>
-</div>
-</li>
-<li>
-<p>Будут</p>
-<div class="olist loweralpha">
-<ol class="loweralpha" type="a">
-<li>
-<p><a href="http://heisenbug.ru/" class="bare">http://heisenbug.ru/</a></p>
-</li>
-</ol>
-</div>
-</li>
-</ol>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Темки">Темки</h2>
-<div class="sectionbody">
-<div class="olist arabic">
-<ol class="arabic">
-<li>
-<p>SpringOne news</p>
-</li>
-<li>
-<p>Микросервисы и PaaS в каждый дом</p>
-<div class="olist loweralpha">
-<ol class="loweralpha" type="a">
-<li>
-<p><a href="http://contiv.github.io/articles/2016/03/06/scaling-microservices.html" class="bare">http://contiv.github.io/articles/2016/03/06/scaling-microservices.html</a></p>
-</li>
-</ol>
-</div>
-</li>
-<li>
-<p><a href="https://labs.spotify.com/2016/03/25/managing-machines-at-spotify/" class="bare">https://labs.spotify.com/2016/03/25/managing-machines-at-spotify/</a></p>
-</li>
-</ol>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Полезняшки">Полезняшки</h2>
-<div class="sectionbody">
-<div class="olist arabic">
-<ol class="arabic">
-<li>
-<p>Всякое от Spotify</p>
-<div class="olist loweralpha">
-<ol class="loweralpha" type="a">
-<li>
-<p><a href="https://github.com/spotify/apollo" class="bare">https://github.com/spotify/apollo</a></p>
-</li>
-<li>
-<p><a href="https://github.com/spotify/helios/blob/master/docs/helios_solo.md" class="bare">https://github.com/spotify/helios/blob/master/docs/helios_solo.md</a></p>
-</li>
-<li>
-<p><a href="https://github.com/spotify/luigi" class="bare">https://github.com/spotify/luigi</a></p>
-</li>
-<li>
-<p><a href="https://labs.spotify.com/2016/03/25/managing-machines-at-spotify/" class="bare">https://labs.spotify.com/2016/03/25/managing-machines-at-spotify/</a></p>
-</li>
-</ol>
-</div>
-</li>
-<li>
-<p><a href="http://shop.oreilly.com/product/0636920037545.do">Ratpack от Dan Woods</a></p>
-</li>
-<li>
-<p><a href="https://github.com/linkedin/ambry/wiki">LinkedIn Ambry</a></p>
-</li>
-<li>
-<p><a href="http://graphwalker.github.io/" class="bare">http://graphwalker.github.io/</a></p>
-</li>
-<li>
-<p><a href="https://www.google.com/chromecast/" class="bare">https://www.google.com/chromecast/</a></p>
-</li>
-<li>
-<p><a href="http://github-awards.com/" class="bare">http://github-awards.com/</a></p>
-</li>
-<li>
-<p><a href="https://github.com/tombujok/hazelcast-rxjava">Hazelcast RxJava Plugin</a></p>
-</li>
-</ol>
-</div>
-<hr>
-<div class="paragraph">
-<p>Наши контакты:</p>
-</div>
-<div class="paragraph">
-<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
-</div>
-<div class="paragraph">
-<p><a href="http://razbor-poletov.com/broadcast.html">Информация о вещании</a></p>
-</div>
-<div class="paragraph">
-<p>Ведущие:</p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://twitter.com/antonarhipov">@antonarhipov</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/tolkv">@tolkv</a></p>
-</li>
-</ul>
-</div>
-<!-- player goes here-->
-
-<audio preload="none">
-   <source src="http://traffic.libsyn.com/razborpoletov/razbor_114.mp3" type="audio/mp3" />
-   Your browser does not support the audio tag.
-</audio>
-<div class="paragraph">
-<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
-</div>
-<!-- episode file link goes here-->
-<a href="http://traffic.libsyn.com/razborpoletov/razbor_114.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
-<div class="paragraph">
-<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
-</div>
-</div>
-</div>]]></description>
-      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
-      <itunes:summary><![CDATA[
-
-
-
-
-
-
-
-Гости
-
-
-
-
-Никита Макаров из Одноклассников
-
-
-Сергей Высоцкий из Spotify
-
-
-
-
-
-
-Релизы
-
-
-
-
-Spring Boot 1.4 guava cache deprecated , viva la caffeine cache
-
-
-IntelliJ IDEA 2016.2
-https://blog.jetbrains.com/idea/2016/07/intellij-idea-2016-2-is-here/
-
-
-dropwizard 1.0 http://www.dropwizard.io/1.0.0/docs/about/release-notes.html
-
-
-Nginx Amplify
-
-
-https://github.com/google/protobuf/releases/tag/v3.0.0
-
-
-Mesos 1.0
-
-
-
-
-
-
-Мероприятия
-
-
-
-
-Прошли
-
-
-
-SpringOne
-
-
-Jenkins BY Meetup прошел успешно
-
-
-
-
-
-Будут
-
-
-
-http://heisenbug.ru/
-
-
-
-
-
-
-
-
-
-Темки
-
-
-
-
-SpringOne news
-
-
-Микросервисы и PaaS в каждый дом
-
-
-
-http://contiv.github.io/articles/2016/03/06/scaling-microservices.html
-
-
-
-
-
-https://labs.spotify.com/2016/03/25/managing-machines-at-spotify/
-
-
-
-
-
-
-Полезняшки
-
-
-
-
-Всякое от Spotify
-
-
-
-https://github.com/spotify/apollo
-
-
-https://github.com/spotify/helios/blob/master/docs/helios_solo.md
-
-
-https://github.com/spotify/luigi
-
-
-https://labs.spotify.com/2016/03/25/managing-machines-at-spotify/
-
-
-
-
-
-Ratpack от Dan Woods
-
-
-LinkedIn Ambry
-
-
-http://graphwalker.github.io/
-
-
-https://www.google.com/chromecast/
-
-
-http://github-awards.com/
-
-
-Hazelcast RxJava Plugin
-
-
-
-
-
-Наши контакты:
-
-
-Официальный сайт — http://razbor-poletov.com
-
-
-Информация о вещании
-
-
-Ведущие:
-
-
-
-
-@antonarhipov
-
-
-@gamussa
-
-
-@tolkv
 
 
 
