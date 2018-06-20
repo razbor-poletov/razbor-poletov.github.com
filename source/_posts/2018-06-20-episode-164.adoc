@@ -1,0 +1,73 @@
+---
+comments: true
+categories: 
+---
+= Episode 164 – РП: Конференции — swampUP 2018 Special
+2018-06-20 10:35
+:layout: post
+:filename: razbor_
+
+++++
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_164_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_164_text.jpg" width="350" /></a>
+</div>
+++++
+
+== Партнеры выпуска
+----
+👇 👇 👇 Конференция Joker 2018 уже анонсирована! 👇 👇 👇
+Промокод: Joker2018Razbor
+Работает только для https://jokerconf.com/prices/#personal  
+----
+
+* https://t.me/addstickers/razbor_poletov[стикеры]
+* https://t.me/jvmchat[pro.jvm]
+
+== Гости и ведущие
+
+* Витя 
+* Барух
+* Наш штатный VP of Engineering https://twitter.com/ligolnik[Леонид Игольник] 
+
+== Темки 
+
+. swampUp 2018
+.. https://www.youtube.com/watch?v=C-5JIiRy5LU[Витя и Барух спикают]
+.. https://www.youtube.com/watch?v=NSvQ141qRZ0[Леонид и Кори спикают]
+.. https://www.youtube.com/watch?v=oxnwnb7c6x4&list=PLY0Zjn5rFo4OuGDcUEgb48JcObItA4TLW[Остальные видосики уже на youtube] 
+. http://liquidsoftware.com/[Новая книжка Баруха]
+. Разжиженное ПО
+. Вари контейнеры правильно
+
+'''
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com[http://razbor-poletov.com]
+
+http://razbor-poletov.com/broadcast.html[Информация о вещании]
+
+Гости и участники:
+
+twitter:
+
+  * https://twitter.com/gamussa[@gamussa]
+  * https://twitter.com/jbaruch[@jbaruch]
+
+++++
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_164.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+++++
+
+Подписаться по http://feeds.feedburner.com/razbor-podcast[RSS]
+
+++++
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_164.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+++++
+
+Музыка ведущим http://www.audiobank.fm/single-music/27/111/More-And-Less/[предоставлена] и ладно...
