@@ -6,8 +6,8 @@
     <atom:link href="http://razbor-poletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2018-06-20T15:03:56+00:00</pubDate>
-    <lastBuildDate>2018-06-20T15:03:56+00:00</lastBuildDate>
+    <pubDate>2018-06-26T16:32:58+00:00</pubDate>
+    <lastBuildDate>2018-06-26T16:32:58+00:00</lastBuildDate>
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razbor-poletov.com/logoB.jpg" />
@@ -19,6 +19,219 @@
     </itunes:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:thumbnail url="http://razbor-poletov.com/logoB.jpg" />
+    
+    <item>
+      <title>Episode 165 – РП: Java Дайдждест — В ожидании Java 11</title>
+      <link>http://razbor-poletov.com/2018/06/episode-165.html</link>
+      <pubDate>2018-06-26T00:00:00+00:00</pubDate>
+      <guid isPermalink="true">http://razbor-poletov.com/2018/06/episode-165</guid>
+      <description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_165_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_165_text.jpg" width="350" /></a>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
+<div class="sectionbody">
+<div class="listingblock">
+<div class="content">
+<pre>👇 👇 👇 Конференция Joker 2018 уже анонсирована! 👇 👇 👇
+Промокод: Joker2018Razbor
+Работает только для https://jokerconf.com/prices/#personal</pre>
+</div>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://t.me/addstickers/razbor_poletov">стикеры</a></p>
+</li>
+<li>
+<p><a href="https://t.me/jvmchat">pro.jvm</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Витя</p>
+</li>
+<li>
+<p>Барух</p>
+</li>
+<li>
+<p><a href="https://twitter.com/olegchir">Олег Чирухин</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://jug.ru/2018/06/digest-week-63">Java Дайджест №62</a></p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><a href="http://pixanews.com/wp-content/uploads/2013/04/Meerkats_pixanews-1.jpg">Картинку взяли тут</a></p>
+</div>
+<hr>
+<div class="paragraph">
+<p>Наши контакты:</p>
+</div>
+<div class="paragraph">
+<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
+</div>
+<div class="paragraph">
+<p><a href="http://razbor-poletov.com/broadcast.html">Информация о вещании</a></p>
+</div>
+<div class="paragraph">
+<p>Гости и участники:</p>
+</div>
+<div class="paragraph">
+<p>twitter:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/jbaruch">@jbaruch</a></p>
+</li>
+</ul>
+</div>
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_165.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+<div class="paragraph">
+<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
+</div>
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_165.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+<div class="paragraph">
+<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
+</div>
+</div>
+</div>]]></description>
+      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[
+
+
+
+
+
+
+
+Партнеры выпуска
+
+
+
+👇 👇 👇 Конференция Joker 2018 уже анонсирована! 👇 👇 👇
+Промокод: Joker2018Razbor
+Работает только для https://jokerconf.com/prices/#personal
+
+
+
+
+
+стикеры
+
+
+pro.jvm
+
+
+
+
+
+
+Гости и участники
+
+
+
+
+Витя
+
+
+Барух
+
+
+Олег Чирухин
+
+
+
+
+
+
+Темы
+
+
+
+
+Java Дайджест №62
+
+
+
+
+Картинку взяли тут
+
+
+
+Наши контакты:
+
+
+Официальный сайт — http://razbor-poletov.com
+
+
+Информация о вещании
+
+
+Гости и участники:
+
+
+twitter:
+
+
+
+
+@gamussa
+
+
+@jbaruch
+
+
+
+
+
+
+   
+   Your browser does not support the audio tag.
+
+
+Подписаться по RSS
+
+
+
+
+Музыка ведущим предоставлена и ладно&#8230;&#8203;
+
+
+]]></itunes:summary>
+    </item>
     
     <item>
       <title>Episode 164 – РП: Конференции — swampUP 2018 Special</title>
@@ -12752,437 +12965,6 @@ twitter:
 
 
 @yegor256
-
-
-
-
-
-
-   
-   Your browser does not support the audio tag.
-
-
-Подписаться по RSS
-
-
-
-
-Музыка ведущим предоставлена и ладно&#8230;&#8203;
-
-
-]]></itunes:summary>
-    </item>
-    
-    <item>
-      <title>Episode 115 — Java 10, будет&#8230;&#8203;</title>
-      <link>http://razbor-poletov.com/2016/08/episode-115.html</link>
-      <pubDate>2016-08-19T00:00:00+00:00</pubDate>
-      <guid isPermalink="true">http://razbor-poletov.com/2016/08/episode-115</guid>
-      <description><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="paragraph">
-<p>Выпуск 18+</p>
-</div>
-<div class="separator" style="clear: both; text-align: center;">
-<a href="http://razbor-poletov.com/images/razbor_115_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_115_text.jpg" width="350" /></a>
-</div>
-<div class="paragraph">
-<p><a href="http://cg-zander.deviantart.com/art/Dreams-of-Valhalla-384587225">оригинальная картинка</a></p>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Гости">Гости</h2>
-<div class="sectionbody">
-<div class="paragraph">
-<p><a href="https://twitter.com/johnwings">Иван Крылов</a>, ведущий инженер, Azul Systems</p>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Релизы">Релизы</h2>
-<div class="sectionbody">
-<div class="olist arabic">
-<ol class="arabic">
-<li>
-<p><a href="https://docs.gradle.org/3.0/release-notes">Gradle 3.0</a></p>
-</li>
-<li>
-<p>Hazelcast 3.7</p>
-<div class="olist loweralpha">
-<ol class="loweralpha" type="a">
-<li>
-<p><a href="http://download.hazelcast.com/download.jsp?version=hazelcast-3.7&amp;p=">Качаем</a></p>
-</li>
-<li>
-<p><a href="http://blog.hazelcast.com/introducing-hazelcast-3-7-ea-better-faster-hazelcast/">Что нового</a></p>
-</li>
-<li>
-<p><a href="https://hazelcast.atlassian.net/wiki/display/COM/Avoid+Data+Loss+on+Migration+-+Solution+Design" class="bare">https://hazelcast.atlassian.net/wiki/display/COM/Avoid+Data+Loss+on+Migration+-+Solution+Design</a></p>
-</li>
-</ol>
-</div>
-</li>
-</ol>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Мероприятия">Мероприятия</h2>
-<div class="sectionbody">
-<div class="olist arabic">
-<ol class="arabic">
-<li>
-<p><a href="http://www.jcrete.org/">JCrete</a> — Иван там был</p>
-<div class="olist loweralpha">
-<ol class="loweralpha" type="a">
-<li>
-<p><a href="https://www.youtube.com/watch?v=oq7nTwtN3js">Ваня топит за 9ку</a></p>
-</li>
-<li>
-<p><a href="https://www.youtube.com/watch?v=yaWq20AFN9U">Graal</a></p>
-</li>
-</ol>
-</div>
-</li>
-<li>
-<p><a href="http://jokerconf.com/#schedule" class="bare">http://jokerconf.com/#schedule</a></p>
-</li>
-</ol>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Темки">Темки</h2>
-<div class="sectionbody">
-<div class="olist arabic">
-<ol class="arabic">
-<li>
-<p>Про JEPы</p>
-<div class="olist loweralpha">
-<ol class="loweralpha" type="a">
-<li>
-<p><a href="http://cr.openjdk.java.net/~mr/jep/jep-2.0.html">От СамогО</a></p>
-</li>
-<li>
-<p><a href="https://habrahabr.ru/post/209876/">От Тагира</a></p>
-</li>
-<li>
-<p><a href="https://hazelcast.atlassian.net/wiki/display/COM/Hazelcast+Enhancement+Proposals">HEP</a></p>
-</li>
-<li>
-<p><a href="https://blogs.oracle.com/jrose/entry/larval_objects_in_the_vm" class="bare">https://blogs.oracle.com/jrose/entry/larval_objects_in_the_vm</a></p>
-</li>
-</ol>
-</div>
-</li>
-<li>
-<p><a href="https://www.youtube.com/playlist?list=PLX8CzqL3ArzUY6rQAQTwI_jKvqJxrRrP_">JVMLS</a></p>
-<div class="olist loweralpha">
-<ol class="loweralpha" type="a">
-<li>
-<p><a href="https://www.youtube.com/watch?v=gii6ySfsVfs&amp;list=PLX8CzqL3ArzUY6rQAQTwI_jKvqJxrRrP_&amp;index=4">VM Futures</a></p>
-</li>
-<li>
-<p><a href="https://www.youtube.com/watch?v=Tc9vs_HFHVo">Valhalla</a></p>
-</li>
-<li>
-<p><a href="https://www.youtube.com/watch?v=pUXeNAeyY34">Immutable collections</a></p>
-</li>
-<li>
-<p><a href="https://www.youtube.com/watch?v=QnMDsI2GbOc&amp;list=PLX8CzqL3ArzUY6rQAQTwI_jKvqJxrRrP_&amp;index=1">Jigsaw</a></p>
-</li>
-</ol>
-</div>
-</li>
-</ol>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="С-нами-пытаются-говорить">С нами пытаются говорить</h2>
-<div class="sectionbody">
-<div class="listingblock">
-<div class="content">
-<pre>@Barlog:
-Подскажите пожалуйста ответ на такой вопрос (попался в опроснике для собеседования:
-
-** Какие, на ваш взгляд, есть примеры неудачного дизайна классов, входящих в состав JDK? Как можно было бы их улучшить?
-** На этот вопрос есть общепринятые ответы?
-Мне пришол в голову только такой:
-** Например класс File, который может представлять как файл, так и директорию.
-И хотя внутри файловой системы директория действительно есть файл определённого формата, но работа с ней отличается от работы с файлом, поэтому согласно принципу single responsibility можно было бы сделать отдельный класс Directory.</pre>
-</div>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Полезняшки">Полезняшки</h2>
-<div class="sectionbody">
-<div class="olist arabic">
-<ol class="arabic">
-<li>
-<p><a href="https://dzone.com/articles/how-to-take-thread-dumps-7-options">Как снимать тред-дампы</a></p>
-</li>
-<li>
-<p><a href="http://www.java9countdown.xyz/">Когда выйдет java 9</a></p>
-</li>
-<li>
-<p><a href="https://blogs.oracle.com/OracleCoherence/entry/coherencerx_reactive_extensions_for_oracle">CoherenceRx</a></p>
-</li>
-</ol>
-</div>
-<hr>
-<div class="paragraph">
-<p>Наши контакты:</p>
-</div>
-<div class="paragraph">
-<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
-</div>
-<div class="paragraph">
-<p><a href="http://razbor-poletov.com/broadcast.html">Информация о вещании</a></p>
-</div>
-<div class="paragraph">
-<p>Гости и участники:</p>
-</div>
-<div class="paragraph">
-<p>twitter:</p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://twitter.com/a_abashev">@a_abashev</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/antonarhipov">@antonarhipov</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/jbaruch">@jbaruch</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/shipilev">@shipilev</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/tolkv">@tolkv</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/johnwings">@johnwings</a></p>
-</li>
-</ul>
-</div>
-<!-- player goes here-->
-
-<audio preload="none">
-   <source src="http://traffic.libsyn.com/razborpoletov/razbor_115.mp3" type="audio/mp3" />
-   Your browser does not support the audio tag.
-</audio>
-<div class="paragraph">
-<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
-</div>
-<!-- episode file link goes here-->
-<a href="http://traffic.libsyn.com/razborpoletov/razbor_115.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
-<div class="paragraph">
-<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
-</div>
-</div>
-</div>]]></description>
-      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
-      <itunes:summary><![CDATA[
-
-
-Выпуск 18+
-
-
-
-
-
-оригинальная картинка
-
-
-
-
-Гости
-
-
-Иван Крылов, ведущий инженер, Azul Systems
-
-
-
-
-Релизы
-
-
-
-
-Gradle 3.0
-
-
-Hazelcast 3.7
-
-
-
-Качаем
-
-
-Что нового
-
-
-https://hazelcast.atlassian.net/wiki/display/COM/Avoid+Data+Loss+on+Migration+-+Solution+Design
-
-
-
-
-
-
-
-
-
-Мероприятия
-
-
-
-
-JCrete — Иван там был
-
-
-
-Ваня топит за 9ку
-
-
-Graal
-
-
-
-
-
-http://jokerconf.com/#schedule
-
-
-
-
-
-
-Темки
-
-
-
-
-Про JEPы
-
-
-
-От СамогО
-
-
-От Тагира
-
-
-HEP
-
-
-https://blogs.oracle.com/jrose/entry/larval_objects_in_the_vm
-
-
-
-
-
-JVMLS
-
-
-
-VM Futures
-
-
-Valhalla
-
-
-Immutable collections
-
-
-Jigsaw
-
-
-
-
-
-
-
-
-
-С нами пытаются говорить
-
-
-
-@Barlog:
-Подскажите пожалуйста ответ на такой вопрос (попался в опроснике для собеседования:
-
-** Какие, на ваш взгляд, есть примеры неудачного дизайна классов, входящих в состав JDK? Как можно было бы их улучшить?
-** На этот вопрос есть общепринятые ответы?
-Мне пришол в голову только такой:
-** Например класс File, который может представлять как файл, так и директорию.
-И хотя внутри файловой системы директория действительно есть файл определённого формата, но работа с ней отличается от работы с файлом, поэтому согласно принципу single responsibility можно было бы сделать отдельный класс Directory.
-
-
-
-
-
-Полезняшки
-
-
-
-
-Как снимать тред-дампы
-
-
-Когда выйдет java 9
-
-
-CoherenceRx
-
-
-
-
-
-Наши контакты:
-
-
-Официальный сайт — http://razbor-poletov.com
-
-
-Информация о вещании
-
-
-Гости и участники:
-
-
-twitter:
-
-
-
-
-@a_abashev
-
-
-@antonarhipov
-
-
-@gamussa
-
-
-@jbaruch
-
-
-@shipilev
-
-
-@tolkv
-
-
-@johnwings
 
 
 
