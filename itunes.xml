@@ -6,8 +6,8 @@
     <atom:link href="http://razbor-poletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2018-06-26T21:17:56+00:00</pubDate>
-    <lastBuildDate>2018-06-26T21:17:56+00:00</lastBuildDate>
+    <pubDate>2018-07-01T22:21:13+00:00</pubDate>
+    <lastBuildDate>2018-07-01T22:21:13+00:00</lastBuildDate>
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razbor-poletov.com/logoB.jpg" />
@@ -19,6 +19,275 @@
     </itunes:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:thumbnail url="http://razbor-poletov.com/logoB.jpg" />
+    
+    <item>
+      <title>Episode 166 – РП: Classic — Новости! Релизы! Покупки! и всё, и всё, и всё!</title>
+      <link>http://razbor-poletov.com/2018/07/episode-166.html</link>
+      <pubDate>2018-07-01T00:00:00+00:00</pubDate>
+      <guid isPermalink="true">http://razbor-poletov.com/2018/07/episode-166</guid>
+      <description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_166_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_166_text.jpg" width="350" /></a>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
+<div class="sectionbody">
+<div class="listingblock">
+<div class="content">
+<pre>👇 👇 👇 Конференция Joker 2018 уже анонсирована! 👇 👇 👇
+Промокод: Joker2018Razbor
+Работает только для https://jokerconf.com/prices/#personal</pre>
+</div>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://t.me/addstickers/razbor_poletov">стикеры</a></p>
+</li>
+<li>
+<p><a href="https://t.me/jvmchat">pro.jvm</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p>Microsoft покупает GitHub</p>
+</li>
+<li>
+<p>релиз TeamCity</p>
+<div class="olist loweralpha">
+<ol class="loweralpha" type="a">
+<li>
+<p>улучшения работы с S3</p>
+</li>
+<li>
+<p>Kotlin DSL</p>
+</li>
+</ol>
+</div>
+</li>
+</ol>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Полезняшки">Полезняшки</h2>
+<div class="sectionbody">
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p><a href="https://dev.yorhel.nl/ncdu">​ncdu</a></p>
+</li>
+<li>
+<p><a href="https://github.com/jonas/tig">tig</a></p>
+</li>
+<li>
+<p><a href="https://rainbowhackerhorse.github.io/bash-Is-Not-sh/" class="bare">https://rainbowhackerhorse.github.io/bash-Is-Not-sh/</a></p>
+</li>
+</ol>
+</div>
+<hr>
+<div class="paragraph">
+<p>Наши контакты:</p>
+</div>
+<div class="paragraph">
+<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
+</div>
+<div class="paragraph">
+<p><a href="http://razbor-poletov.com/broadcast.html">Информация о вещании</a></p>
+</div>
+<div class="paragraph">
+<p>Гости и участники:</p>
+</div>
+<div class="paragraph">
+<p>twitter:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://twitter.com/a_abashev">@a_abashev</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/antonarhipov">@antonarhipov</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/dzmitryc">@dzmitryc</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/jbaruch">@jbaruch</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/shipilev">@shipilev</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/tolkv">@tolkv</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/ligolnik">@ligolnik</a></p>
+</li>
+</ul>
+</div>
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_166.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+<div class="paragraph">
+<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
+</div>
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_166.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+<div class="paragraph">
+<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
+</div>
+</div>
+</div>]]></description>
+      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[
+
+
+
+
+
+
+
+Партнеры выпуска
+
+
+
+👇 👇 👇 Конференция Joker 2018 уже анонсирована! 👇 👇 👇
+Промокод: Joker2018Razbor
+Работает только для https://jokerconf.com/prices/#personal
+
+
+
+
+
+стикеры
+
+
+pro.jvm
+
+
+
+
+
+
+Темы
+
+
+
+
+Microsoft покупает GitHub
+
+
+релиз TeamCity
+
+
+
+улучшения работы с S3
+
+
+Kotlin DSL
+
+
+
+
+
+
+
+
+
+Полезняшки
+
+
+
+
+​ncdu
+
+
+tig
+
+
+https://rainbowhackerhorse.github.io/bash-Is-Not-sh/
+
+
+
+
+
+Наши контакты:
+
+
+Официальный сайт — http://razbor-poletov.com
+
+
+Информация о вещании
+
+
+Гости и участники:
+
+
+twitter:
+
+
+
+
+@a_abashev
+
+
+@antonarhipov
+
+
+@dzmitryc
+
+
+@gamussa
+
+
+@jbaruch
+
+
+@shipilev
+
+
+@tolkv
+
+
+@ligolnik
+
+
+
+
+
+
+   
+   Your browser does not support the audio tag.
+
+
+Подписаться по RSS
+
+
+
+
+Музыка ведущим предоставлена и ладно&#8230;&#8203;
+
+
+]]></itunes:summary>
+    </item>
     
     <item>
       <title>Episode 165 – РП: Java Дайдждест — В ожидании Java 11</title>
@@ -12686,303 +12955,6 @@ twitter:
 
 
 Музыка ведущим предоставлена и ладно&#8230;&#8203;
-]]></itunes:summary>
-    </item>
-    
-    <item>
-      <title>Episode 116 — ООП-дичь</title>
-      <link>http://razbor-poletov.com/2016/09/episode-116.html</link>
-      <pubDate>2016-09-03T00:00:00+00:00</pubDate>
-      <guid isPermalink="true">http://razbor-poletov.com/2016/09/episode-116</guid>
-      <description><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="http://razbor-poletov.com/images/razbor_116_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_116_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Гости">Гости</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://twitter.com/johnwings">Иван Крылов</a> (забыл уйти)</p>
-</li>
-<li>
-<p><a href="https://twitter.com/yegor256">Егор Бугаенко</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/yfain">Яков Файн</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Мероприятия">Мероприятия</h2>
-<div class="sectionbody">
-<div class="olist arabic">
-<ol class="arabic">
-<li>
-<p><a href="http://holyjs.ru/">HolyJS</a></p>
-</li>
-<li>
-<p><a href="https://jugmsk.timepad.ru/event/368790/">jug.msk.ru с Кириллом и Барухом</a></p>
-</li>
-<li>
-<p><a href="http://jokerconf.com/#jokerlong">Joker</a></p>
-</li>
-<li>
-<p><a href="http://javaday.org.ua">JavaDay Kiev</a></p>
-</li>
-<li>
-<p><a href="http://heisenbug.ru/">Heisenbug</a></p>
-</li>
-<li>
-<p><a href="http://jpoint.ru/callforpapers/">JPoint принимает доклады</a></p>
-</li>
-</ol>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Темки">Темки</h2>
-<div class="sectionbody">
-<div class="olist arabic">
-<ol class="arabic">
-<li>
-<p><a href="https://habrahabr.ru/company/jugru/blog/308914/">ООП Будущего</a></p>
-</li>
-<li>
-<p>Геттеры против бабы яги + <a href="http://www.yegor256.com/2016/04/05/printers-instead-of-getters.html" class="bare">http://www.yegor256.com/2016/04/05/printers-instead-of-getters.html</a><br>
-Если «лямбда» не захочет, кобель не вскочит</p>
-</li>
-<li>
-<p>JEP 277: Enhanced Deprecation: <a href="http://openjdk.java.net/jeps/277" class="bare">http://openjdk.java.net/jeps/277</a></p>
-</li>
-</ol>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Полезняшки">Полезняшки</h2>
-<div class="sectionbody">
-<div class="olist arabic">
-<ol class="arabic">
-<li>
-<p><a href="https://www.youtube.com/watch?v=f4uXBpP_xxY&amp;feature=share">Алексей Симоненко — Как я перестал верить технологиям</a></p>
-</li>
-<li>
-<p><a href="https://github.com/tsenart/vegeta" class="bare">https://github.com/tsenart/vegeta</a></p>
-</li>
-<li>
-<p><a href="https://www.netflix.com/title/80057281">Stranger Things</a></p>
-</li>
-</ol>
-</div>
-<hr>
-<div class="paragraph">
-<p>Наши контакты:</p>
-</div>
-<div class="paragraph">
-<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
-</div>
-<div class="paragraph">
-<p><a href="http://razbor-poletov.com/broadcast.html">Информация о вещании</a></p>
-</div>
-<div class="paragraph">
-<p>Гости и участники:</p>
-</div>
-<div class="paragraph">
-<p>twitter:</p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://twitter.com/antonarhipov">@antonarhipov</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/jbaruch">@jbaruch</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/shipilev">@shipilev</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/tolkv">@tolkv</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/yfain">@yfain</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/yegor256">@yegor256</a></p>
-</li>
-</ul>
-</div>
-<!-- player goes here-->
-
-<audio preload="none">
-   <source src="http://traffic.libsyn.com/razborpoletov/razbor_116.mp3" type="audio/mp3" />
-   Your browser does not support the audio tag.
-</audio>
-<div class="paragraph">
-<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
-</div>
-<!-- episode file link goes here-->
-<a href="http://traffic.libsyn.com/razborpoletov/razbor_116.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
-<div class="paragraph">
-<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
-</div>
-</div>
-</div>]]></description>
-      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
-      <itunes:summary><![CDATA[
-
-
-
-
-
-
-
-Гости
-
-
-
-
-Иван Крылов (забыл уйти)
-
-
-Егор Бугаенко
-
-
-Яков Файн
-
-
-
-
-
-
-Мероприятия
-
-
-
-
-HolyJS
-
-
-jug.msk.ru с Кириллом и Барухом
-
-
-Joker
-
-
-JavaDay Kiev
-
-
-Heisenbug
-
-
-JPoint принимает доклады
-
-
-
-
-
-
-Темки
-
-
-
-
-ООП Будущего
-
-
-Геттеры против бабы яги + http://www.yegor256.com/2016/04/05/printers-instead-of-getters.html
-Если «лямбда» не захочет, кобель не вскочит
-
-
-JEP 277: Enhanced Deprecation: http://openjdk.java.net/jeps/277
-
-
-
-
-
-
-Полезняшки
-
-
-
-
-Алексей Симоненко — Как я перестал верить технологиям
-
-
-https://github.com/tsenart/vegeta
-
-
-Stranger Things
-
-
-
-
-
-Наши контакты:
-
-
-Официальный сайт — http://razbor-poletov.com
-
-
-Информация о вещании
-
-
-Гости и участники:
-
-
-twitter:
-
-
-
-
-@antonarhipov
-
-
-@gamussa
-
-
-@jbaruch
-
-
-@shipilev
-
-
-@tolkv
-
-
-@yfain
-
-
-@yegor256
-
-
-
-
-
-
-   
-   Your browser does not support the audio tag.
-
-
-Подписаться по RSS
-
-
-
-
-Музыка ведущим предоставлена и ладно&#8230;&#8203;
-
-
 ]]></itunes:summary>
     </item>
     
