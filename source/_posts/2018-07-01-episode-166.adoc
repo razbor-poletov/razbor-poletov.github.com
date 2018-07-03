@@ -25,10 +25,12 @@ categories:
 
 == Темы 
 
-. Microsoft покупает GitHub
-. релиз TeamCity
-.. улучшения работы с S3
+. https://meduza.io/feature/2018/06/07/microsoft-kupila-github-eto-horosho-eto-ploho-vse-isportitsya-chto-budet-dalshe[Microsoft покупает GitHub]
+. https://blog.jetbrains.com/teamcity/2018/06/teamcity-2018-1-released-revamped-kotlin-dsl-read-only-server-new-docker-runner-and-bundled-s3-integration/[релиз TeamCity] 
 .. Kotlin DSL
+.. Хранения артефактов в S3
+.. Улучшение интеграции с Docker
+
 
 == Полезняшки
 
