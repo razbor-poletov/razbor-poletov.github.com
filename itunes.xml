@@ -6,8 +6,8 @@
     <atom:link href="http://razbor-poletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2018-07-09T17:07:53+00:00</pubDate>
-    <lastBuildDate>2018-07-09T17:07:53+00:00</lastBuildDate>
+    <pubDate>2018-07-16T17:17:32+00:00</pubDate>
+    <lastBuildDate>2018-07-16T17:17:32+00:00</lastBuildDate>
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razbor-poletov.com/logoB.jpg" />
@@ -19,6 +19,207 @@
     </itunes:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:thumbnail url="http://razbor-poletov.com/logoB.jpg" />
+    
+    <item>
+      <title>Episode 169 – РП: Java Дайдждест — Котлин уходит в нейтив</title>
+      <link>http://razbor-poletov.com/2018/07/episode-169.html</link>
+      <pubDate>2018-07-16T00:00:00+00:00</pubDate>
+      <guid isPermalink="true">http://razbor-poletov.com/2018/07/episode-169</guid>
+      <description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_169_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_169_text.jpg" width="350" /></a>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
+<div class="sectionbody">
+<div class="listingblock">
+<div class="content">
+<pre>👇 👇 👇 Конференция Joker 2018 уже анонсирована! 👇 👇 👇
+Промокод: Joker2018Razbor
+Работает только для https://jokerconf.com/prices/#personal</pre>
+</div>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://t.me/addstickers/razbor_poletov">стикеры</a></p>
+</li>
+<li>
+<p><a href="https://t.me/jvmchat">pro.jvm</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Барух</p>
+</li>
+<li>
+<p><a href="https://twitter.com/olegchir">Олег Чирухин</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://jug.ru/2018/07/digest-week-66/">Java Дайджест №66</a></p>
+</li>
+</ul>
+</div>
+<hr>
+<div class="paragraph">
+<p>Наши контакты:</p>
+</div>
+<div class="paragraph">
+<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
+</div>
+<div class="paragraph">
+<p><a href="http://razbor-poletov.com/broadcast.html">Информация о вещании</a></p>
+</div>
+<div class="paragraph">
+<p>Гости и участники:</p>
+</div>
+<div class="paragraph">
+<p>twitter:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/jbaruch">@jbaruch</a></p>
+</li>
+</ul>
+</div>
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_169.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+<div class="paragraph">
+<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
+</div>
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_169.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+<div class="paragraph">
+<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
+</div>
+</div>
+</div>]]></description>
+      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[
+
+
+
+
+
+
+
+Партнеры выпуска
+
+
+
+👇 👇 👇 Конференция Joker 2018 уже анонсирована! 👇 👇 👇
+Промокод: Joker2018Razbor
+Работает только для https://jokerconf.com/prices/#personal
+
+
+
+
+
+стикеры
+
+
+pro.jvm
+
+
+
+
+
+
+Гости и участники
+
+
+
+
+Барух
+
+
+Олег Чирухин
+
+
+
+
+
+
+Темы
+
+
+
+
+Java Дайджест №66
+
+
+
+
+
+Наши контакты:
+
+
+Официальный сайт — http://razbor-poletov.com
+
+
+Информация о вещании
+
+
+Гости и участники:
+
+
+twitter:
+
+
+
+
+@gamussa
+
+
+@jbaruch
+
+
+
+
+
+
+   
+   Your browser does not support the audio tag.
+
+
+Подписаться по RSS
+
+
+
+
+Музыка ведущим предоставлена и ладно&#8230;&#8203;
+
+
+]]></itunes:summary>
+    </item>
     
     <item>
       <title>Episode 168 – РП: Java Дайдждест — Наш поезд в огне</title>
@@ -12742,371 +12943,6 @@ twitter:
 
 
 @golodnyj
-
-
-
-
-
-
-   
-   Your browser does not support the audio tag.
-
-
-Подписаться по RSS
-
-
-
-
-Музыка ведущим предоставлена и ладно&#8230;&#8203;
-
-
-]]></itunes:summary>
-    </item>
-    
-    <item>
-      <title>Episode 119 — Маки и Java 9</title>
-      <link>http://razbor-poletov.com/2016/11/episode-119.html</link>
-      <pubDate>2016-11-05T00:00:00+00:00</pubDate>
-      <guid isPermalink="true">http://razbor-poletov.com/2016/11/episode-119</guid>
-      <description><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="http://razbor-poletov.com/images/razbor_119_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_119_text.jpg" width="350" /></a>
-</div>
-<div class="admonitionblock note">
-<table>
-<tr>
-<td class="icon">
-<div class="title">Note</div>
-</td>
-<td class="content">
-За анонсами онлайн-вещания лучше следить на <a href="http://facebook.com/razborPoletovPodcast/">Facebook</a>
-</td>
-</tr>
-</table>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Гости">Гости</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://twitter.com/JohnWings">@JohnWings</a> Иван Крылов из Azul Systems</p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Релизы">Релизы</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://www.2d1o.ru/">Two Devs One Ops</a> — новый подкаст про DevOps от <a href="https://twitter.com/bsideup">@bsideup</a> и <a href="https://twitter.com/tolkv">@tolkv</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Мероприятия">Мероприятия</h2>
-<div class="sectionbody">
-<div class="olist arabic">
-<ol class="arabic">
-<li>
-<p>JUG с Иваном Крыловым в Москве 15 декабря в офисе КРОКа. Регистрации ждать тут <a href="https://jugmsk.timepad.ru/event/416359/" class="bare">https://jugmsk.timepad.ru/event/416359/</a></p>
-</li>
-<li>
-<p><a href="https://www.meetup.com/Moscow-Jenkins-Meetup">Moscow Jenkins Meetup</a></p>
-</li>
-<li>
-<p><a href="http://devopspro.ru">Конференция DevOps Pro</a>. <code>PODKAST30</code> — промокод на скидку</p>
-</li>
-</ol>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Темки">Темки</h2>
-<div class="sectionbody">
-<div class="olist arabic">
-<ol class="arabic">
-<li>
-<p>Про Маки</p>
-<div class="olist loweralpha">
-<ol class="loweralpha" type="a">
-<li>
-<p><a href="https://www.reddit.com/r/apple/comments/59yrxg/the_true_reason_the_mbp_doesnt_come_with_ddr4_or/" class="bare">https://www.reddit.com/r/apple/comments/59yrxg/the_true_reason_the_mbp_doesnt_come_with_ddr4_or/</a></p>
-</li>
-<li>
-<p><a href="http://blog.fosketts.net/2016/10/29/total-nightmare-usb-c-thunderbolt-3" class="bare">http://blog.fosketts.net/2016/10/29/total-nightmare-usb-c-thunderbolt-3</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/bulenkov/status/792499393907855360" class="bare">https://twitter.com/bulenkov/status/792499393907855360</a></p>
-</li>
-<li>
-<p><a href="https://www.youtube.com/watch?v=5tqH-Un9SFU">Можно и Jack на iPhone 7 высверлить</a></p>
-</li>
-</ol>
-</div>
-</li>
-<li>
-<p>Немного про AOT в Java 9</p>
-</li>
-<li>
-<p>Отложили релиз Java 9 из-за сложности внедрения <a href="http://openjdk.java.net/projects/jigsaw/">Jigsaw</a></p>
-<div class="olist loweralpha">
-<ol class="loweralpha" type="a">
-<li>
-<p>Jigsaw и layouts</p>
-</li>
-<li>
-<p>Stack Trace Walker</p>
-</li>
-<li>
-<p>HTTP 2 Client</p>
-</li>
-<li>
-<p>Project Graal</p>
-</li>
-</ol>
-</div>
-</li>
-<li>
-<p>Немного Low latency GC</p>
-</li>
-</ol>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Полезняшки">Полезняшки</h2>
-<div class="sectionbody">
-<div class="olist arabic">
-<ol class="arabic">
-<li>
-<p><a href="https://www.sitepoint.com/ultimate-guide-to-java-9">Java 9 Ultimate Guide</a></p>
-</li>
-<li>
-<p><a href="https://github.com/julianhyde/sqlline" class="bare">https://github.com/julianhyde/sqlline</a></p>
-</li>
-<li>
-<p><a href="http://mactracker.ca" class="bare">http://mactracker.ca</a></p>
-</li>
-</ol>
-</div>
-<hr>
-<div class="paragraph">
-<p>Наши контакты:</p>
-</div>
-<div class="paragraph">
-<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
-</div>
-<div class="paragraph">
-<p><a href="http://razbor-poletov.com/broadcast.html">Информация о вещании</a></p>
-</div>
-<div class="paragraph">
-<p>Гости и участники:</p>
-</div>
-<div class="paragraph">
-<p>twitter:</p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://twitter.com/antonarhipov">@antonarhipov</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/jbaruch">@jbaruch</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/tolkv">@tolkv</a></p>
-</li>
-</ul>
-</div>
-<!-- player goes here-->
-
-<audio preload="none">
-   <source src="http://traffic.libsyn.com/razborpoletov/razbor_119.mp3" type="audio/mp3" />
-   Your browser does not support the audio tag.
-</audio>
-<div class="paragraph">
-<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
-</div>
-<!-- episode file link goes here-->
-<a href="http://traffic.libsyn.com/razborpoletov/razbor_119.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
-<div class="paragraph">
-<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
-</div>
-</div>
-</div>]]></description>
-      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
-      <itunes:summary><![CDATA[
-
-
-
-
-
-
-
-
-Note
-
-
-За анонсами онлайн-вещания лучше следить на Facebook
-
-
-
-
-
-
-
-Гости
-
-
-
-
-@JohnWings Иван Крылов из Azul Systems
-
-
-
-
-
-
-Релизы
-
-
-
-
-Two Devs One Ops — новый подкаст про DevOps от @bsideup и @tolkv
-
-
-
-
-
-
-Мероприятия
-
-
-
-
-JUG с Иваном Крыловым в Москве 15 декабря в офисе КРОКа. Регистрации ждать тут https://jugmsk.timepad.ru/event/416359/
-
-
-Moscow Jenkins Meetup
-
-
-Конференция DevOps Pro. PODKAST30 — промокод на скидку
-
-
-
-
-
-
-Темки
-
-
-
-
-Про Маки
-
-
-
-https://www.reddit.com/r/apple/comments/59yrxg/the_true_reason_the_mbp_doesnt_come_with_ddr4_or/
-
-
-http://blog.fosketts.net/2016/10/29/total-nightmare-usb-c-thunderbolt-3
-
-
-https://twitter.com/bulenkov/status/792499393907855360
-
-
-Можно и Jack на iPhone 7 высверлить
-
-
-
-
-
-Немного про AOT в Java 9
-
-
-Отложили релиз Java 9 из-за сложности внедрения Jigsaw
-
-
-
-Jigsaw и layouts
-
-
-Stack Trace Walker
-
-
-HTTP 2 Client
-
-
-Project Graal
-
-
-
-
-
-Немного Low latency GC
-
-
-
-
-
-
-Полезняшки
-
-
-
-
-Java 9 Ultimate Guide
-
-
-https://github.com/julianhyde/sqlline
-
-
-http://mactracker.ca
-
-
-
-
-
-Наши контакты:
-
-
-Официальный сайт — http://razbor-poletov.com
-
-
-Информация о вещании
-
-
-Гости и участники:
-
-
-twitter:
-
-
-
-
-@antonarhipov
-
-
-@gamussa
-
-
-@jbaruch
-
-
-@tolkv
 
 
 
