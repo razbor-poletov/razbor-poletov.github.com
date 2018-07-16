@@ -2,7 +2,7 @@
 comments: true
 categories: 
 ---
-= Episode 169 – РП: Java Дайдждест — Котлин уходит в нейтив
+= Episode 169 – РП: Java Дайдждест — Котлин уходит в Нейтив
 2018-07-16 12:31
 :layout: post
 :filename: razbor_
