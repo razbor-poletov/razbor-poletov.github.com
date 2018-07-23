@@ -9,7 +9,7 @@
   <meta name="author" content="Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky">
 
   
-  <meta name="description" content="Выпуск 18+ Оффтоп JUG теперь не только наши друзья, но и спонсоры :) Сколько посещает людей JUG? Мероприятия JEEConf, 20-21 мая JPoint GeekOut JUGs &hellip;">
+  <meta name="description" content="Выпуск 18+ Оффтоп Spock vs Others баттл фанатиков и практиков Картинка как бэ намекает Figure 1. junit, test-ng и jtreg тестируют труп а Спок &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -116,6 +116,204 @@ $(document).ready(function() {
     <div id="content">
       <div class="blog-index">
   
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/2016/01/episode-101.html">Episode 101 — Стресс-тестирование и Доминирование</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2016-01-26T00:00:00+00:00" pubdate data-updated="true">Jan 26<span>th</span>, 2016</time>
+        
+         | <a href="/2016/01/episode-101.html#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>Выпуск 18+</p>
+</div>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_101_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_101_text.jpg" width="350" /></a>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Оффтоп">Оффтоп</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Spock vs Others баттл фанатиков и практиков</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Картинка как бэ намекает</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="http://razbor-poletov.com/images/spock_body.png" alt="spock body">
+</div>
+<div class="title">Figure 1. junit, test-ng и jtreg тестируют труп а Спок говорит что они дебилыбля все неправильно делают</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Мероприятия">Мероприятия</h2>
+<div class="sectionbody">
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p><a href="http://jeeconf.com/">JEEConf, 20-21 мая</a></p>
+</li>
+<li>
+<p>JUG распределенное нагрузочное тестирование на Java <a href="http://www.slideshare.net/aragozin/java-57296922">Слайды</a></p>
+<div class="olist loweralpha">
+<ol class="loweralpha" type="a">
+<li>
+<p><a href="https://github.com/hazelcast/hazelcast-simulator">Hazelcast does that</a></p>
+</li>
+</ol>
+</div>
+</li>
+<li>
+<p>Открыта регистрация на <a href="http://2015.geekout.ee/">GeekOut</a></p>
+</li>
+</ol>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темки">Темки</h2>
+<div class="sectionbody">
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p><a href="https://hazelcast.com/press-release/hazelcast-3-6-introduces-new-cloud-container-deployment-options-unprecedented-vertical-scalability-10s-tbs-ram/">hazelcast 3.6</a></p>
+</li>
+<li>
+<p>Что такое TCK, зачем он нужен</p>
+<div class="olist loweralpha">
+<ol class="loweralpha" type="a">
+<li>
+<p>как его используют те, кто имплементят JCache</p>
+</li>
+<li>
+<p>Как JCache загружает новые имплементации? Viktor говорил что
+автоматом в спрингбуте подтянулось прям. Люто это..</p>
+</li>
+</ol>
+</div>
+</li>
+<li>
+<p>Spring cache + spring-boot-actuator - неправильные метрики связанные с provider specific feature. Viktor что то раскопал интересное</p>
+</li>
+</ol>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Полезняшки">Полезняшки</h2>
+<div class="sectionbody">
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p>Configo: тула для <a href="https://github.com/zeroturnaround/configo/releases/tag/v0.1.0">загрузки</a> переменных окружения из разных источников</p>
+</li>
+<li>
+<p><a href="http://app.programmingfonts.org/">Про фонты!</a></p>
+<div class="olist loweralpha">
+<ol class="loweralpha" type="a">
+<li>
+<p><a href="https://atom.io/packages/fonts" class="bare">https://atom.io/packages/fonts</a></p>
+</li>
+</ol>
+</div>
+</li>
+<li>
+<p>JUnit <a href="https://rnorth.org/24/junit-integration-testing-with-docker-and-testcontainers">rules for Docker</a></p>
+</li>
+</ol>
+</div>
+<hr>
+<div class="paragraph">
+<p>Наши контакты:</p>
+</div>
+<div class="paragraph">
+<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
+</div>
+<div class="paragraph">
+<p><a href="http://razbor-poletov.com/broadcast.html">Информация о вещании</a></p>
+</div>
+<div class="paragraph">
+<p>Гости и участники:</p>
+</div>
+<div class="paragraph">
+<p>twitter:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://twitter.com/a_abashev">@a_abashev</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/antonarhipov">@antonarhipov</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/tolkv">@tolkv</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/jbaruch">@jbaruch</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/@xpinjection">@xpinjection </a></p>
+</li>
+</ul>
+</div>
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_101.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+<div class="paragraph">
+<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
+</div>
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_101.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+<div class="paragraph">
+<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
+</div>
+</div>
+</div></div>
+  
+  
+
+
+    </article>
   
   
     <article>
@@ -1627,173 +1825,6 @@ jug.msk.ru <a href="http://habrahabr.ru/post/272009/" class="bare">http://habrah
 
     </article>
   
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/2015/09/episode-91.html">Episode 91 — Чо, бабки есть? А если найду?</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2015-09-25T00:00:00+00:00" pubdate data-updated="true">Sep 25<span>th</span>, 2015</time>
-        
-         | <a href="/2015/09/episode-91.html#disqus_thread">Comments</a>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="http://razbor-poletov.com/images/razbor_91_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_91_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Мероприятия">Мероприятия</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="http://habrahabr.ru/company/jugru/blog/264955/">Очередной обзор новых докладов на Joker</a></p>
-</li>
-<li>
-<p><a href="http://university.jokerconf.com/">Joker university day</a></p>
-</li>
-<li>
-<p><a href="https://www.youtube.com/watch?v=et7eTx0-IGg">CodeFreeze про DDOS с QRATOR.com</a></p>
-</li>
-<li>
-<p><a href="https://www.youtube.com/watch?v=jGOkSerUPw4">Илья Космодемьянский — Внутреннее устройство PostgreSQL для практикующих инженеров</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Адженда">Адженда</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p>Фанатики-наркоманы vs нормальные люди</p>
-</li>
-<li>
-<p>Сравнение разных моделей лицензирования софта. <a href="http://blog.jetbrains.com/blog/2015/09/18/final-update-on-the-jetbrains-toolbox-announcement/">Навеяно статьей из блога JB</a></p>
-</li>
-<li>
-<p><a href="http://bitquabit.com/post/thoughts-on-entitlement-and-pricing/">Немного адеквата в мире безумия</a></p>
-</li>
-<li>
-<p><a href="https://www.youtube.com/watch?v=ii693nUQwV0">Groovy podcast 17</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Полезняшки">Полезняшки</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://iterm2.com/shell_integration.html">Новые фишечки для ITerm2</a></p>
-</li>
-<li>
-<p><a href="http://zeroturnaround.com/rebellabs/5-command-line-tools-you-should-be-using/">5 commas line tool</a> от ZT</p>
-</li>
-<li>
-<p><a href="https://github.com/yudai/gotty/blob/master/README.md">Терминал шэринг</a></p>
-</li>
-<li>
-<p><a href="https://asciinema.org/">Asciinema</a></p>
-</li>
-<li>
-<p><a href="http://blog.jetbrains.com/idea/2015/09/intellij-idea-15-eap-improves-debugger-and-git-support/">Intellij Idea early return</a></p>
-</li>
-<li>
-<p><a href="http://whatthecommit.com/index.txt" class="bare">http://whatthecommit.com/index.txt</a></p>
-</li>
-<li>
-<p><a href="http://gitup.co/">GitUP Painless Git</a></p>
-</li>
-</ul>
-</div>
-<hr>
-<div class="paragraph">
-<p>Наши контакты:</p>
-</div>
-<div class="paragraph">
-<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
-</div>
-<div class="paragraph">
-<p><a href="http://razbor-poletov.com/broadcast.html">Информация о вещании</a></p>
-</div>
-<div class="paragraph">
-<p>Гости и участники:</p>
-</div>
-<div class="paragraph">
-<p>twitter:</p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://twitter.com/antonarhipov">@antonarhipov</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/23derevo">@23derevo</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/tolkv">@tolkv</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/jbaruch">@jbaruch</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/shipilev">@shipilev</a></p>
-</li>
-</ul>
-</div>
-<!-- player goes here-->
-
-<audio preload="none">
-   <source src="http://traffic.libsyn.com/razborpoletov/razbor_91.mp3" type="audio/mp3" />
-   Your browser does not support the audio tag.
-</audio>
-<div class="paragraph">
-<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
-</div>
-<!-- episode file link goes here-->
-<a href="http://traffic.libsyn.com/razborpoletov/razbor_91.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
-<div class="paragraph">
-<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
-</div>
-</div>
-</div></div>
-  
-  
-
-
-    </article>
-  
   <div class="pagination">
     
       <a class="prev" href="/blog/page/9/">&larr; Older</a>
@@ -1841,6 +1872,10 @@ jug.msk.ru <a href="http://habrahabr.ru/post/272009/" class="bare">http://habrah
   <ul id="recent_posts">
     
       <li class="post">
+        <a href="/2018/07/episode-171.html">Episode 171 – РП: Java Дайдждест — Эклипс на войне с пробками</a>
+      </li>
+    
+      <li class="post">
         <a href="/2018/07/episode-170.html">Episode 170 — РП: DevOps — DevOps и Духи</a>
       </li>
     
@@ -1866,10 +1901,6 @@ jug.msk.ru <a href="http://habrahabr.ru/post/272009/" class="bare">http://habrah
     
       <li class="post">
         <a href="/2018/06/episode-164.html">Episode 164 – РП: Конференции — swampUP 2018 Special</a>
-      </li>
-    
-      <li class="post">
-        <a href="/2018/06/episode-163.html">Episode 163 – РП: Конференции — JPoint 2018: Liberica, Xtend и Alibaba</a>
       </li>
     
   </ul>
