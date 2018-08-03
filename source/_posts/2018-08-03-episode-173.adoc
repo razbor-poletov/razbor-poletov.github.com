@@ -48,6 +48,7 @@ https://twitter.com/OlehDokuka[Олег Докука]
 
 == Чатики и группы
 
+. http://t.me/razbor_poletov_chat[ 🎉 🎉 🎉 Официальный чатик нашего подкаста]
 . https://t.me/jvmchat[pro.jvm]
 . https://t.me/proKafka[Чатик про Кафку]
 
