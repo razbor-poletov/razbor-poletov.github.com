@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2018-08-03T23:14:04+00:00</updated>
+  <updated>2018-08-03T23:26:22+00:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -95,6 +95,9 @@
 <div class="sectionbody">
 <div class="olist arabic">
 <ol class="arabic">
+<li>
+<p><a href="http://t.me/razbor_poletov_chat"> 🎉 🎉 🎉 Официальный чатик нашего подкаста</a></p>
+</li>
 <li>
 <p><a href="https://t.me/jvmchat">pro.jvm</a></p>
 </li>
