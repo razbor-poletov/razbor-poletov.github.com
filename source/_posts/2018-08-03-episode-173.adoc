@@ -1,0 +1,130 @@
+---
+comments: true
+categories: 
+---
+= Episode 173 — РП: Classic — Реактивщина «Вашим детям понравится!»
+2018-08-03 18:13
+:layout: post
+:filename: razbor_173
+
+++++
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_173_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_173_text.jpg" width="350" /></a>
+</div>
+++++
+
+----
+Официальный Чат Разбора Полетов Телеграме 👇 👇 👇
+----
+* http://t.me/razbor_poletov_chat[ 🎉 🎉 🎉 Новый официальный чатик нашего подкаста в Telegram!!!]
+* https://t.me/addstickers/razbor_poletov[Официальный стикер-пак]
+* https://twitter.com/razbor_poletov/[Твиттер]
+* http://facebook.com/razborPoletovPodcast/[Facebook]
+
+<<<
+
+== Партнеры выпуска
+----
+👇 👇 👇 Конференция Joker 2018 уже анонсирована! 👇 👇 👇
+Промокод: Joker2018Razbor
+Работает только для https://jokerconf.com/prices/#personal  
+-------------------------------------------------------------
+👇 👇 👇 Конференция DevOops 2018 уже анонсирована! 👇 👇 👇
+Промокод: DevOops2018Razbor
+Работает только для https://devoops.ru/prices/#personal
+----
+
+*ВНИМАНИЕ : Выпуск местами немножечко 18+*
+
+== Гости
+
+https://twitter.com/bsideup[@bsideup] Сергей Егоров
+https://twitter.com/OlehDokuka[Олег Докука]
+
+== Мероприятия
+
+* https://techtrain.ru/[TechTrain] в Питере, 1-2 сентября
+* Kafka Summit https://www.confluent.io/blog/highlights-of-the-kafka-summit-san-francisco-2018-agenda/ Код от Виктора **KS18Comm25 **registration http://myeventi.events/kafka18/na/
+
+== Чатики и группы
+
+. https://t.me/jvmchat[pro.jvm]
+. https://t.me/proKafka[Чатик про Кафку]
+
+== Релизы
+
+. IntelliJ IDEA 2018.2
+ .. https://www.jetbrains.com/idea/specials/idea/whatsnew.html[What's new?]
+ .. https://blog.jetbrains.com/idea/2018/07/intellij-idea-2018-2-macbook-touch-bar-java-11-breakpoint-intentions-spring-boot-version-control-and-more/[Список обновлений]
+ .. https://blog.jetbrains.com/blog/2018/06/26/new-icons-in-intellij-platform-2018-2/[Новые иконки]
+. https://twitter.com/bsideup/status/1024221527628296193[TestContainers 1.8.2  - тестировать кафку стало быстрей!]
+. https://lists.apache.org/thread.html/ba8fc98076fbbdcb5c125ece6c92e90bf6695794410752876f084bb4@%3Cusers.kafka.apache.org%3E[Apache Kafka 2.0.0 Released]
+ .. https://lists.apache.org/thread.html/8a5ccd348c5ee6b16976ec4acf69bda074fa2e253ebc17be6110f776@%3Cdev.kafka.apache.org%3E[Why 2.0?]
+ .. https://www.apache.org/dist/kafka/2.0.0/RELEASE_NOTES.html[Release notes]
+. https://www.confluent.io/blog/introducing-confluent-platform-5-0/[Confluent Platform 5.0]
+. https://twitter.com/gprussell/status/1024707260470251520[Spring Integration 5.0.7 with Kafka]
+. https://github.com/reactor/reactor-kafka/releases/tag/v1.0.1.RELEASE[Kafka Ractor] 1.0.1
+
+== Темки
+
+. https://www.linkedin.com/pulse/lidl-cancels-sap-introduction-after-spending-500m-euro-andrea-cravero/[Один маленький немецкий стартап решил отказаться от услуг другого маленького немецкого стартапа]
+. https://assets.thoughtworks.com/assets/technology-radar-vol-18-en.pdf[ThoughtWorks Radar v18]
+. https://medium.com/netflix-techblog/zuul-2-the-netflix-journey-to-asynchronous-non-blocking-systems-45947377fb5c[Zuul 2]: The Netflix Journey to Asynchronous, Non-Blocking Systems
+. https://blog.cloudflare.com/how-we-scaled-nginx-and-saved-the-world-54-years-every-day/[How we scaled nginx and saved the world 54 years every day]
+. http://alexsderkach.io/comparing-java-8-rxjava-reactor/[Java 8 vs RxJava vs Reactor]
+. https://github.com/akarnokd/akarnokd-misc/issues/7[RxJava 1, 2, and Reactor benchmarks]
+. http://akarnokd.blogspot.com/[Блог Дэвида Корнока]
+. http://t.me/razbor_poletov_chat/5039[Нам пишут]
+.. https://twitter.com/bsideup/status/1025289808543928320?s=21[ответ Сергея]
+. https://www.confluent.io/blog/welcoming-the-distributed-masonry-team-to-confluent/[Distributed Masonry], http://pyrostore.io/[Pyrostore]
+
+== Полезняшки
+
+. https://github.com/reactor/reactor-core/blob/master/src/docs/asciidoc/debugging.adoc[Debugging Reactor]
+. https://github.com/davidmoten/rxjava2-jdbc[RxJava2-JDBC]
+. https://github.com/bsideup/liiklus[gRPC-based Gateway for the event-based systems] - от @bsideup
+. https://gitea.io/en-us/ - мини-клон гитхаба
+. https://cloud.google.com/intellij/[Google Cloud Tools for IntelliJ] - для работы с гугловыми API из IDEA
+. https://dependabot.com/[Dependabot] - Cоздает  PR  на каждую либу, которую можно обновить
+. https://github.com/ben-manes/gradle-versions-plugin[Gradle versions plugin] - для обновления зависимостей
+. https://github.com/nebula-plugins/gradle-dependency-lock-plugin[Nebula Lock Plugin] - для лока зависимостей от Netflix
+. https://github.com/nebula-plugins/gradle-lint-plugin/wiki[Nebula Lint Plugin] - eslint для Gradle :D
+. https://github.com/nebula-plugins/gradle-resolution-rules-plugin/wiki/Dependency-Rule-Types[Nebula Dependency Rule Plugin] - для управления правилами разрешения зависимостей
+
+'''
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com[http://razbor-poletov.com]
+
+http://razbor-poletov.com/broadcast.html[Информация о вещании]
+
+Гости и участники:
+
+twitter:
+
+  * https://twitter.com/a_abashev[@a_abashev]
+  * https://twitter.com/antonarhipov[@antonarhipov]
+  * https://twitter.com/dzmitryc[@dzmitryc]
+  * https://twitter.com/gamussa[@gamussa]
+  * https://twitter.com/jbaruch[@jbaruch]
+  * https://twitter.com/shipilev[@shipilev]
+  * https://twitter.com/tolkv[@tolkv]
+
+++++
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_173.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+++++
+
+Подписаться по http://feeds.feedburner.com/razbor-podcast[RSS]
+
+++++
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_173.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+++++
+
+Музыка ведущим http://www.audiobank.fm/single-music/27/111/More-And-Less/[предоставлена] и ладно...
