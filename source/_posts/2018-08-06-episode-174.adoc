@@ -56,13 +56,8 @@ http://razbor-poletov.com/broadcast.html[Информация о вещании]
 
 twitter:
 
-  * https://twitter.com/a_abashev[@a_abashev]
-  * https://twitter.com/antonarhipov[@antonarhipov]
-  * https://twitter.com/dzmitryc[@dzmitryc]
   * https://twitter.com/gamussa[@gamussa]
   * https://twitter.com/jbaruch[@jbaruch]
-  * https://twitter.com/shipilev[@shipilev]
-  * https://twitter.com/tolkv[@tolkv]
 
 ++++
 <!-- player goes here-->
