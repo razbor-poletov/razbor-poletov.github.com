@@ -38,8 +38,8 @@ categories:
 
 == Гости
 
-https://twitter.com/bsideup[@bsideup] Сергей Егоров
-https://twitter.com/OlehDokuka[Олег Докука]
+* https://twitter.com/bsideup[Сергей Егоров] 
+* https://twitter.com/OlehDokuka[Олег Докука]
 
 == Мероприятия
 
