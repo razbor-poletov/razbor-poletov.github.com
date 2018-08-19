@@ -6,8 +6,8 @@
     <atom:link href="http://razbor-poletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2018-08-13T16:25:48+00:00</pubDate>
-    <lastBuildDate>2018-08-13T16:25:48+00:00</lastBuildDate>
+    <pubDate>2018-08-19T07:20:59+00:00</pubDate>
+    <lastBuildDate>2018-08-19T07:20:59+00:00</lastBuildDate>
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razbor-poletov.com/logoB.jpg" />
@@ -548,9 +548,15 @@ twitter:
 <div class="sect1">
 <h2 id="Гости">Гости</h2>
 <div class="sectionbody">
-<div class="paragraph">
-<p><a href="https://twitter.com/bsideup">@bsideup</a> Сергей Егоров
-<a href="https://twitter.com/OlehDokuka">Олег Докука</a></p>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://twitter.com/bsideup">Сергей Егоров</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/OlehDokuka">Олег Докука</a></p>
+</li>
+</ul>
 </div>
 </div>
 </div>
@@ -816,8 +822,14 @@ Facebook
 Гости
 
 
-@bsideup Сергей Егоров
+
+
+Сергей Егоров
+
+
 Олег Докука
+
+
 
 
 
