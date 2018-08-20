@@ -6,8 +6,8 @@
     <atom:link href="http://razbor-poletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2018-08-19T07:20:59+00:00</pubDate>
-    <lastBuildDate>2018-08-19T07:20:59+00:00</lastBuildDate>
+    <pubDate>2018-08-20T16:50:02+00:00</pubDate>
+    <lastBuildDate>2018-08-20T16:50:02+00:00</lastBuildDate>
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razbor-poletov.com/logoB.jpg" />
@@ -19,6 +19,245 @@
     </itunes:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:thumbnail url="http://razbor-poletov.com/logoB.jpg" />
+    
+    <item>
+      <title>Episode 176 — РП: Java — Дайдждест — Duke, Thorntail, Tomcat и прочие животные</title>
+      <link>http://razbor-poletov.com/2018/08/episode-176.html</link>
+      <pubDate>2018-08-20T00:00:00+00:00</pubDate>
+      <guid isPermalink="true">http://razbor-poletov.com/2018/08/episode-176</guid>
+      <description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_176_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_176_text.jpg" width="350" /></a>
+</div>
+<div class="listingblock">
+<div class="content">
+<pre>Официальный Чат Разбора Полетов Телеграме 👇 👇 👇</pre>
+</div>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="http://t.me/razbor_poletov_chat"> 🎉 🎉 🎉 Новый официальный чатик нашего подкаста в Telegram!!!</a></p>
+</li>
+<li>
+<p><a href="https://t.me/addstickers/razbor_poletov">Официальный стикер-пак</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/razbor_poletov/">Твиттер</a></p>
+</li>
+<li>
+<p><a href="http://facebook.com/razborPoletovPodcast/">Facebook</a></p>
+</li>
+</ul>
+</div>
+<div style="page-break-after: always;"></div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
+<div class="sectionbody">
+<div class="listingblock">
+<div class="content">
+<pre>👇 👇 👇 Конференция Joker 2018 уже анонсирована! 👇 👇 👇
+Промокод: Joker2018Razbor
+Работает только для https://jokerconf.com/prices/#personal
+-------------------------------------------------------------
+👇 👇 👇 Конференция DevOops 2018 уже анонсирована! 👇 👇 👇
+Промокод: DevOops2018Razbor
+Работает только для https://devoops.ru/prices/#personal</pre>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Барух</p>
+</li>
+<li>
+<p>Витя</p>
+</li>
+<li>
+<p><a href="https://twitter.com/olegchir">Олег Чирухин</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://jug.ru/2018/08/digest-week-71">Java Дайджест №71</a></p>
+</li>
+</ul>
+</div>
+<hr>
+<div class="paragraph">
+<p>Наши контакты:</p>
+</div>
+<div class="paragraph">
+<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
+</div>
+<div class="paragraph">
+<p><a href="http://razbor-poletov.com/broadcast.html">Информация о вещании</a></p>
+</div>
+<div class="paragraph">
+<p>Гости и участники:</p>
+</div>
+<div class="paragraph">
+<p>twitter:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/jbaruch">@jbaruch</a></p>
+</li>
+</ul>
+</div>
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_176.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+<div class="paragraph">
+<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
+</div>
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_176.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+<div class="paragraph">
+<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
+</div>
+</div>
+</div>]]></description>
+      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[
+
+
+
+
+
+
+Официальный Чат Разбора Полетов Телеграме 👇 👇 👇
+
+
+
+
+
+ 🎉 🎉 🎉 Новый официальный чатик нашего подкаста в Telegram!!!
+
+
+Официальный стикер-пак
+
+
+Твиттер
+
+
+Facebook
+
+
+
+
+
+
+
+Партнеры выпуска
+
+
+
+👇 👇 👇 Конференция Joker 2018 уже анонсирована! 👇 👇 👇
+Промокод: Joker2018Razbor
+Работает только для https://jokerconf.com/prices/#personal
+-------------------------------------------------------------
+👇 👇 👇 Конференция DevOops 2018 уже анонсирована! 👇 👇 👇
+Промокод: DevOops2018Razbor
+Работает только для https://devoops.ru/prices/#personal
+
+
+
+
+
+Гости и участники
+
+
+
+
+Барух
+
+
+Витя
+
+
+Олег Чирухин
+
+
+
+
+
+
+Темы
+
+
+
+
+Java Дайджест №71
+
+
+
+
+
+Наши контакты:
+
+
+Официальный сайт — http://razbor-poletov.com
+
+
+Информация о вещании
+
+
+Гости и участники:
+
+
+twitter:
+
+
+
+
+@gamussa
+
+
+@jbaruch
+
+
+
+
+
+
+   
+   Your browser does not support the audio tag.
+
+
+Подписаться по RSS
+
+
+
+
+Музыка ведущим предоставлена и ладно&#8230;&#8203;
+
+
+]]></itunes:summary>
+    </item>
     
     <item>
       <title>Episode 175 — РП: Java Дайдждест — Плохой хороший Open Source</title>
@@ -12804,381 +13043,6 @@ twitter:
 
 
 @jbaruch
-
-
-
-
-
-
-   
-   Your browser does not support the audio tag.
-
-
-Подписаться по RSS
-
-
-
-
-Музыка ведущим предоставлена и ладно&#8230;&#8203;
-
-
-]]></itunes:summary>
-    </item>
-    
-    <item>
-      <title>Episode 126 — Неадекватное интервью</title>
-      <link>http://razbor-poletov.com/2017/02/episode-126.html</link>
-      <pubDate>2017-02-11T00:00:00+00:00</pubDate>
-      <guid isPermalink="true">http://razbor-poletov.com/2017/02/episode-126</guid>
-      <description><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="http://razbor-poletov.com/images/razbor_126_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_126_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Спонсоры">Спонсоры</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://www.tinkoff.ru">Tinkoff bank</a></p>
-<div class="ulist">
-<ul>
-<li>
-<p>Москва/Питер вакансии <a href="mailto:scala@tinkoff.ru">scala@tinkoff.ru</a></p>
-</li>
-</ul>
-</div>
-</li>
-<li>
-<p><a href="https://stackoverflow.com/jobs/129435/senior-java-developer-hazelcast">приходите работать в Hazelcast</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="strong-Мероприятия-strong"><strong>Мероприятия</strong></h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://www.devnexus.com/s/index">DevNexus</a> 22-24 февраля</p>
-</li>
-<li>
-<p><a href="https://devoxx.us">Devoxx US</a> 21-23 марта</p>
-</li>
-<li>
-<p><a href="https://2017.jbreak.ru">JBreak</a> 4 апреля</p>
-</li>
-<li>
-<p><a href="https://jpoint.ru">JPoint</a> 7-8 апреля</p>
-</li>
-<li>
-<p><a href="https://rigadevdays.lv">Riga Dev Days</a> 15-17 мая</p>
-</li>
-<li>
-<p><a href="https://2017.geecon.org">GeeCON</a> 17-19 мая</p>
-</li>
-<li>
-<p><a href="https://swampup.jfrog.com">swampUP</a> 24-26 мая</p>
-</li>
-<li>
-<p><a href="https://2017.geekout.ee">GeekOut</a> 8-9 июня</p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Темы">Темы</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p>Релиз <a href="https://www.jfrog.com/confluence/display/RTF/Release+Notes#ReleaseNotes-Artifactory5.0">Artifactory 5</a></p>
-<div class="ulist">
-<ul>
-<li>
-<p>Cloud Native Storage. NFS не нужен!</p>
-</li>
-<li>
-<p>Sticky sessions больше не нужны</p>
-</li>
-<li>
-<p>Безгеморройное управление лицензиями кластера</p>
-</li>
-</ul>
-</div>
-</li>
-<li>
-<p>Релиз <a href="http://jet.hazelcast.org">Hazelcast Jet</a></p>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://blog.hazelcast.com/introducing-hazelcast-jet">Introducing Hazelcast Jet 0.3</a></p>
-</li>
-<li>
-<p><a href="https://www.infoq.com/news/2017/02/HazlecastJetOSS">Hazelcast Release Jet, Open-Source Stream Processing Engine</a></p>
-</li>
-</ul>
-</div>
-</li>
-<li>
-<p>GitLab, всё в одном</p>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://habr.ru/p/309102">GitLab Container Registry</a></p>
-</li>
-<li>
-<p>От успеха до факапа <a href="https://docs.google.com/document/d/1GCK53YDcBWQveod9kfzW-VCxIABGiryG7_z_6jHdVik/pub">один шаг</a></p>
-</li>
-<li>
-<p><a href="https://about.gitlab.com/2017/02/10/postmortem-of-database-outage-of-january-31">Post Mortem</a></p>
-</li>
-</ul>
-</div>
-</li>
-<li>
-<p>Немного о Netflix Eureka и AWS AZs</p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Полезняшки">Полезняшки</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://www.youtube.com/watch?v=Vlb_Is-rRTQ">Неадекват про интервью</a></p>
-</li>
-</ul>
-</div>
-<hr>
-<div class="paragraph">
-<p>Наши контакты:</p>
-</div>
-<div class="paragraph">
-<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
-</div>
-<div class="paragraph">
-<p><a href="http://razbor-poletov.com/broadcast.html">Информация о вещании</a></p>
-</div>
-<div class="paragraph">
-<p>Гости и участники:</p>
-</div>
-<div class="paragraph">
-<p>twitter:</p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://twitter.com/a_abashev">@a_abashev</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/antonarhipov">@antonarhipov</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/jbaruch">@jbaruch</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/tolkv">@tolkv</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/golodnyj">@golodnyj</a></p>
-</li>
-</ul>
-</div>
-<!-- player goes here-->
-
-<audio preload="none">
-   <source src="http://traffic.libsyn.com/razborpoletov/razbor_126.mp3" type="audio/mp3" />
-   Your browser does not support the audio tag.
-</audio>
-<div class="paragraph">
-<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
-</div>
-<!-- episode file link goes here-->
-<a href="http://traffic.libsyn.com/razborpoletov/razbor_126.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
-<div class="paragraph">
-<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
-</div>
-</div>
-</div>]]></description>
-      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
-      <itunes:summary><![CDATA[
-
-
-
-
-
-
-
-Спонсоры
-
-
-
-
-Tinkoff bank
-
-
-
-Москва/Питер вакансии scala@tinkoff.ru
-
-
-
-
-
-приходите работать в Hazelcast
-
-
-
-
-
-
-Мероприятия
-
-
-
-
-DevNexus 22-24 февраля
-
-
-Devoxx US 21-23 марта
-
-
-JBreak 4 апреля
-
-
-JPoint 7-8 апреля
-
-
-Riga Dev Days 15-17 мая
-
-
-GeeCON 17-19 мая
-
-
-swampUP 24-26 мая
-
-
-GeekOut 8-9 июня
-
-
-
-
-
-
-Темы
-
-
-
-
-Релиз Artifactory 5
-
-
-
-Cloud Native Storage. NFS не нужен!
-
-
-Sticky sessions больше не нужны
-
-
-Безгеморройное управление лицензиями кластера
-
-
-
-
-
-Релиз Hazelcast Jet
-
-
-
-Introducing Hazelcast Jet 0.3
-
-
-Hazelcast Release Jet, Open-Source Stream Processing Engine
-
-
-
-
-
-GitLab, всё в одном
-
-
-
-GitLab Container Registry
-
-
-От успеха до факапа один шаг
-
-
-Post Mortem
-
-
-
-
-
-Немного о Netflix Eureka и AWS AZs
-
-
-
-
-
-
-Полезняшки
-
-
-
-
-Неадекват про интервью
-
-
-
-
-
-Наши контакты:
-
-
-Официальный сайт — http://razbor-poletov.com
-
-
-Информация о вещании
-
-
-Гости и участники:
-
-
-twitter:
-
-
-
-
-@a_abashev
-
-
-@antonarhipov
-
-
-@gamussa
-
-
-@jbaruch
-
-
-@tolkv
-
-
-@golodnyj
 
 
 
