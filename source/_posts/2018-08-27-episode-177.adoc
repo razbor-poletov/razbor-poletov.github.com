@@ -37,15 +37,15 @@ categories:
 == Темки
 
 . Надо ли коммитить в OSS
-. Модули Redis стали Apache 2.0 + CC https://redislabs.com/community/licenses/
- .. Публика негодует https://twitter.com/webmink/status/1032016976170967040
- .. antirez погрозил кулаком https://news.ycombinator.com/item?id=17818907
+. https://redislabs.com/community/licenses/[Модули Redis стали Apache 2.0 + CC]
+ .. https://twitter.com/webmink/status/1032016976170967040[Публика негодует] 
+ .. https://news.ycombinator.com/item?id=17818907[antirez погрозил кулаком] 
 . Обзор дырок в безопасности
- .. Снова дырки в OpenSSH https://nvd.nist.gov/vuln/detail/CVE-2018-11776
- .. Struts2 https://nvd.nist.gov/vuln/detail/CVE-2018-11776
- .. Бага в Oracle DB http://www.oracle.com/technetwork/security-advisory/alert-cve-2018-3110-5032149.html
-. ClickHouse от Yandex https://clickhouse.yandex/
- .. Появилась поддержка в IntelliJ IDEA 2018.2.2 https://blog.jetbrains.com/idea/2018/08/intellij-idea-2018-2-2-is-released/
+ .. https://nvd.nist.gov/vuln/detail/CVE-2018-11776[Снова дырки в OpenSSH]
+ .. https://nvd.nist.gov/vuln/detail/CVE-2018-11776[Struts2]
+ .. http://www.oracle.com/technetwork/security-advisory/alert-cve-2018-3110-5032149.html[Бага в Oracle DB]
+. https://clickhouse.yandex/[ClickHouse от Yandex] 
+ .. https://blog.jetbrains.com/idea/2018/08/intellij-idea-2018-2-2-is-released/[Появилась поддержка в IntelliJ IDEA 2018.2.2]
 
 '''
 
