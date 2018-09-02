@@ -6,8 +6,8 @@
     <atom:link href="http://razbor-poletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2018-08-27T17:19:21+00:00</pubDate>
-    <lastBuildDate>2018-08-27T17:19:21+00:00</lastBuildDate>
+    <pubDate>2018-09-02T18:47:45+00:00</pubDate>
+    <lastBuildDate>2018-09-02T18:47:45+00:00</lastBuildDate>
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razbor-poletov.com/logoB.jpg" />
@@ -306,14 +306,14 @@ twitter:
 <p>Надо ли коммитить в OSS</p>
 </li>
 <li>
-<p>Модули Redis стали Apache 2.0 + CC <a href="https://redislabs.com/community/licenses/" class="bare">https://redislabs.com/community/licenses/</a></p>
+<p><a href="https://redislabs.com/community/licenses/">Модули Redis стали Apache 2.0 + CC</a></p>
 <div class="olist loweralpha">
 <ol class="loweralpha" type="a">
 <li>
-<p>Публика негодует <a href="https://twitter.com/webmink/status/1032016976170967040" class="bare">https://twitter.com/webmink/status/1032016976170967040</a></p>
+<p><a href="https://twitter.com/webmink/status/1032016976170967040">Публика негодует</a></p>
 </li>
 <li>
-<p>antirez погрозил кулаком <a href="https://news.ycombinator.com/item?id=17818907" class="bare">https://news.ycombinator.com/item?id=17818907</a></p>
+<p><a href="https://news.ycombinator.com/item?id=17818907">antirez погрозил кулаком</a></p>
 </li>
 </ol>
 </div>
@@ -323,23 +323,23 @@ twitter:
 <div class="olist loweralpha">
 <ol class="loweralpha" type="a">
 <li>
-<p>Снова дырки в OpenSSH <a href="https://nvd.nist.gov/vuln/detail/CVE-2018-11776" class="bare">https://nvd.nist.gov/vuln/detail/CVE-2018-11776</a></p>
+<p><a href="https://nvd.nist.gov/vuln/detail/CVE-2018-11776">Снова дырки в OpenSSH</a></p>
 </li>
 <li>
-<p>Struts2 <a href="https://nvd.nist.gov/vuln/detail/CVE-2018-11776" class="bare">https://nvd.nist.gov/vuln/detail/CVE-2018-11776</a></p>
+<p><a href="https://nvd.nist.gov/vuln/detail/CVE-2018-11776">Struts2</a></p>
 </li>
 <li>
-<p>Бага в Oracle DB <a href="http://www.oracle.com/technetwork/security-advisory/alert-cve-2018-3110-5032149.html" class="bare">http://www.oracle.com/technetwork/security-advisory/alert-cve-2018-3110-5032149.html</a></p>
+<p><a href="http://www.oracle.com/technetwork/security-advisory/alert-cve-2018-3110-5032149.html">Бага в Oracle DB</a></p>
 </li>
 </ol>
 </div>
 </li>
 <li>
-<p>ClickHouse от Yandex <a href="https://clickhouse.yandex/" class="bare">https://clickhouse.yandex/</a></p>
+<p><a href="https://clickhouse.yandex/">ClickHouse от Yandex</a></p>
 <div class="olist loweralpha">
 <ol class="loweralpha" type="a">
 <li>
-<p>Появилась поддержка в IntelliJ IDEA 2018.2.2 <a href="https://blog.jetbrains.com/idea/2018/08/intellij-idea-2018-2-2-is-released/" class="bare">https://blog.jetbrains.com/idea/2018/08/intellij-idea-2018-2-2-is-released/</a></p>
+<p><a href="https://blog.jetbrains.com/idea/2018/08/intellij-idea-2018-2-2-is-released/">Появилась поддержка в IntelliJ IDEA 2018.2.2</a></p>
 </li>
 </ol>
 </div>
@@ -447,14 +447,14 @@ Facebook
 Надо ли коммитить в OSS
 
 
-Модули Redis стали Apache 2.0 + CC https://redislabs.com/community/licenses/
+Модули Redis стали Apache 2.0 + CC
 
 
 
-Публика негодует https://twitter.com/webmink/status/1032016976170967040
+Публика негодует
 
 
-antirez погрозил кулаком https://news.ycombinator.com/item?id=17818907
+antirez погрозил кулаком
 
 
 
@@ -464,23 +464,23 @@ antirez погрозил кулаком https://news.ycombinator.com/item?id=178
 
 
 
-Снова дырки в OpenSSH https://nvd.nist.gov/vuln/detail/CVE-2018-11776
+Снова дырки в OpenSSH
 
 
-Struts2 https://nvd.nist.gov/vuln/detail/CVE-2018-11776
+Struts2
 
 
-Бага в Oracle DB http://www.oracle.com/technetwork/security-advisory/alert-cve-2018-3110-5032149.html
-
-
-
-
-
-ClickHouse от Yandex https://clickhouse.yandex/
+Бага в Oracle DB
 
 
 
-Появилась поддержка в IntelliJ IDEA 2018.2.2 https://blog.jetbrains.com/idea/2018/08/intellij-idea-2018-2-2-is-released/
+
+
+ClickHouse от Yandex
+
+
+
+Появилась поддержка в IntelliJ IDEA 2018.2.2
 
 
 
