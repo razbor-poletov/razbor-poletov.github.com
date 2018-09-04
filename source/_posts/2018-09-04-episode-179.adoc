@@ -2,7 +2,7 @@
 comments: true
 categories: 
 ---
-= "episode-179"
+= Episode 179 — РП: Java — Дайдждест — В поисках ниши
 2018-09-04 15:35
 :layout: post
 :filename: razbor_
