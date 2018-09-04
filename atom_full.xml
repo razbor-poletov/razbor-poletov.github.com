@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2018-09-04T19:41:39+00:00</updated>
+  <updated>2018-09-04T19:47:12+00:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA["episode-179"]]></title>
+    <title type="html"><![CDATA[Episode 179 — РП: Java — Дайдждест — В поисках ниши]]></title>
     <link href="http://razbor-poletov.com/2018/09/episode-179.html"/>
     <updated>2018-09-04T00:00:00+00:00</updated>
     <id>http://razbor-poletov.com/2018/09/episode-179</id>
