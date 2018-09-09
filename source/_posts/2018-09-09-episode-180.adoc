@@ -2,7 +2,7 @@
 comments: true
 categories: 
 ---
-= "episode-180"
+= Episode 180 — РП: Classic — Java 11,12 и костры рябин
 2018-09-09 18:56
 :layout: post
 :filename: razbor_
@@ -12,6 +12,8 @@ categories:
 <a href="http://razbor-poletov.com/images/razbor_180_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_180_text.jpg" width="350" /></a>
 </div>
 ++++
+
+*ВНИМАНИЕ : Выпуск местами немножечко 18+*
 
 ----
 Официальный Чат Разбора Полетов Телеграме 👇 👇 👇
