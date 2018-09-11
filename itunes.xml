@@ -6,8 +6,8 @@
     <atom:link href="http://razbor-poletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2018-09-11T13:24:24+00:00</pubDate>
-    <lastBuildDate>2018-09-11T13:24:24+00:00</lastBuildDate>
+    <pubDate>2018-09-11T13:29:23+00:00</pubDate>
+    <lastBuildDate>2018-09-11T13:29:23+00:00</lastBuildDate>
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razbor-poletov.com/logoB.jpg" />
@@ -91,7 +91,7 @@
 <div class="ulist">
 <ul>
 <li>
-<p><a href="https://jug.ru/2018/09/digest-week-73/">Java Дайджест №73</a></p>
+<p><a href="https://jug.ru/2018/09/digest-week-74/">Java Дайджест №74</a></p>
 </li>
 </ul>
 </div>
@@ -202,7 +202,7 @@ Facebook
 
 
 
-Java Дайджест №73
+Java Дайджест №74
 
 
 
