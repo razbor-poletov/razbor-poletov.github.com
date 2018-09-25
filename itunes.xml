@@ -6,8 +6,8 @@
     <atom:link href="http://razbor-poletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2018-09-24T21:33:13+00:00</pubDate>
-    <lastBuildDate>2018-09-24T21:33:13+00:00</lastBuildDate>
+    <pubDate>2018-09-25T01:04:47+00:00</pubDate>
+    <lastBuildDate>2018-09-25T01:04:47+00:00</lastBuildDate>
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razbor-poletov.com/logoB.jpg" />
@@ -19,6 +19,239 @@
     </itunes:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:thumbnail url="http://razbor-poletov.com/logoB.jpg" />
+    
+    <item>
+      <title>Episode 183 — РП: Java — Дайдждест — Много новостей</title>
+      <link>http://razbor-poletov.com/2018/09/episode-183.html</link>
+      <pubDate>2018-09-24T00:00:00+00:00</pubDate>
+      <guid isPermalink="true">http://razbor-poletov.com/2018/09/episode-183</guid>
+      <description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_183_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_183_text.jpg" width="350" /></a>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
+<div class="sectionbody">
+<div class="sidebarblock">
+<div class="content">
+<div class="paragraph">
+<p>👇 👇 👇 Конференция Joker 2018 уже анонсирована! 👇 👇 👇</p>
+</div>
+<div class="paragraph">
+<p>Промокод: Joker2018Razbor
+Работает только для <a href="https://jokerconf.com/buy/personal/" class="bare">https://jokerconf.com/buy/personal/</a></p>
+</div>
+<div class="paragraph">
+<p>👇 👇 👇 Конференция DevOops 2018 уже анонсирована! 👇 👇 👇</p>
+</div>
+<div class="paragraph">
+<p>Промокод: DevOops2018Razbor
+Работает только для <a href="https://devoops.ru/prices/#personal" class="bare">https://devoops.ru/prices/#personal</a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Барух</p>
+</li>
+<li>
+<p><a href="https://twitter.com/olegchir">Олег Чирухин</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://jug.ru/2018/09/digest-week-76/">Java Дайджест №75</a></p>
+</li>
+</ul>
+</div>
+<hr>
+<div class="paragraph">
+<p>Наши контакты:</p>
+</div>
+<div class="paragraph">
+<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
+</div>
+<div class="paragraph">
+<p><a href="http://razbor-poletov.com/broadcast.html">Информация о вещании</a></p>
+</div>
+<div class="paragraph">
+<p>Гости и участники:</p>
+</div>
+<div class="paragraph">
+<p>twitter:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://twitter.com/a_abashev">@a_abashev</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/antonarhipov">@antonarhipov</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/dzmitryc">@dzmitryc</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/jbaruch">@jbaruch</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/shipilev">@shipilev</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/tolkv">@tolkv</a></p>
+</li>
+</ul>
+</div>
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_183.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+<div class="paragraph">
+<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
+</div>
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_183.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+<div class="paragraph">
+<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
+</div>
+</div>
+</div>]]></description>
+      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[
+
+
+
+
+
+
+
+Партнеры выпуска
+
+
+
+
+👇 👇 👇 Конференция Joker 2018 уже анонсирована! 👇 👇 👇
+
+
+Промокод: Joker2018Razbor
+Работает только для https://jokerconf.com/buy/personal/
+
+
+👇 👇 👇 Конференция DevOops 2018 уже анонсирована! 👇 👇 👇
+
+
+Промокод: DevOops2018Razbor
+Работает только для https://devoops.ru/prices/#personal
+
+
+
+
+
+
+Гости и участники
+
+
+
+
+Барух
+
+
+Олег Чирухин
+
+
+
+
+
+
+Темы
+
+
+
+
+Java Дайджест №75
+
+
+
+
+
+Наши контакты:
+
+
+Официальный сайт — http://razbor-poletov.com
+
+
+Информация о вещании
+
+
+Гости и участники:
+
+
+twitter:
+
+
+
+
+@a_abashev
+
+
+@antonarhipov
+
+
+@dzmitryc
+
+
+@gamussa
+
+
+@jbaruch
+
+
+@shipilev
+
+
+@tolkv
+
+
+
+
+
+
+   
+   Your browser does not support the audio tag.
+
+
+Подписаться по RSS
+
+
+
+
+Музыка ведущим предоставлена и ладно&#8230;&#8203;
+
+
+]]></itunes:summary>
+    </item>
     
     <item>
       <title>Episode 182 — РП: Java — Дайдждест — Микрофреймворки летят в энтерпрайз</title>
@@ -57,15 +290,22 @@
 <div class="sect1">
 <h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
 <div class="sectionbody">
-<div class="listingblock">
+<div class="sidebarblock">
 <div class="content">
-<pre>👇 👇 👇 Конференция Joker 2018 уже анонсирована! 👇 👇 👇
-Промокод: Joker2018Razbor
-Работает только для https://jokerconf.com/buy/personal/
--------------------------------------------------------------
-👇 👇 👇 Конференция DevOops 2018 уже анонсирована! 👇 👇 👇
-Промокод: DevOops2018Razbor
-Работает только для https://devoops.ru/prices/#personal</pre>
+<div class="paragraph">
+<p>👇 👇 👇 Конференция Joker 2018 уже анонсирована! 👇 👇 👇</p>
+</div>
+<div class="paragraph">
+<p>Промокод: Joker2018Razbor
+Работает только для <a href="https://jokerconf.com/buy/personal/" class="bare">https://jokerconf.com/buy/personal/</a></p>
+</div>
+<div class="paragraph">
+<p>👇 👇 👇 Конференция DevOops 2018 уже анонсирована! 👇 👇 👇</p>
+</div>
+<div class="paragraph">
+<p>Промокод: DevOops2018Razbor
+Работает только для <a href="https://devoops.ru/prices/#personal" class="bare">https://devoops.ru/prices/#personal</a></p>
+</div>
 </div>
 </div>
 </div>
@@ -173,13 +413,20 @@ Facebook
 
 
 
+
 👇 👇 👇 Конференция Joker 2018 уже анонсирована! 👇 👇 👇
+
+
 Промокод: Joker2018Razbor
 Работает только для https://jokerconf.com/buy/personal/
--------------------------------------------------------------
+
+
 👇 👇 👇 Конференция DevOops 2018 уже анонсирована! 👇 👇 👇
+
+
 Промокод: DevOops2018Razbor
 Работает только для https://devoops.ru/prices/#personal
+
 
 
 
@@ -290,15 +537,22 @@ twitter:
 <div class="sect1">
 <h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
 <div class="sectionbody">
-<div class="listingblock">
+<div class="sidebarblock">
 <div class="content">
-<pre>👇 👇 👇 Конференция Joker 2018 уже анонсирована! 👇 👇 👇
-Промокод: Joker2018Razbor
-Работает только для https://jokerconf.com/buy/personal/
--------------------------------------------------------------
-👇 👇 👇 Конференция DevOops 2018 уже анонсирована! 👇 👇 👇
-Промокод: DevOops2018Razbor
-Работает только для https://devoops.ru/prices/#personal</pre>
+<div class="paragraph">
+<p>👇 👇 👇 Конференция Joker 2018 уже анонсирована! 👇 👇 👇</p>
+</div>
+<div class="paragraph">
+<p>Промокод: Joker2018Razbor
+Работает только для <a href="https://jokerconf.com/buy/personal/" class="bare">https://jokerconf.com/buy/personal/</a></p>
+</div>
+<div class="paragraph">
+<p>👇 👇 👇 Конференция DevOops 2018 уже анонсирована! 👇 👇 👇</p>
+</div>
+<div class="paragraph">
+<p>Промокод: DevOops2018Razbor
+Работает только для <a href="https://devoops.ru/prices/#personal" class="bare">https://devoops.ru/prices/#personal</a></p>
+</div>
 </div>
 </div>
 </div>
@@ -403,13 +657,20 @@ Facebook
 
 
 
+
 👇 👇 👇 Конференция Joker 2018 уже анонсирована! 👇 👇 👇
+
+
 Промокод: Joker2018Razbor
 Работает только для https://jokerconf.com/buy/personal/
--------------------------------------------------------------
+
+
 👇 👇 👇 Конференция DevOops 2018 уже анонсирована! 👇 👇 👇
+
+
 Промокод: DevOops2018Razbor
 Работает только для https://devoops.ru/prices/#personal
+
 
 
 
@@ -520,21 +781,55 @@ twitter:
 <div class="sect1">
 <h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
 <div class="sectionbody">
-<div class="listingblock">
+<div class="sidebarblock">
 <div class="content">
-<pre>👇 👇 👇 Конференция Joker 2018! 👇 👇 👇
-Промокод: Joker2018Razbor
-Работает только для https://jokerconf.com/buy/personal/
--------------------------------------------------------------
-👇 👇 👇 Конференция DevOops 2018! 👇 👇 👇
-Промокод: DevOops2018Razbor
-Работает только для https://devoops.ru/prices/#personal</pre>
+<div class="paragraph">
+<p>👇 👇 👇 Конференция Joker 2018 уже анонсирована! 👇 👇 👇</p>
+</div>
+<div class="paragraph">
+<p>Промокод: Joker2018Razbor
+Работает только для <a href="https://jokerconf.com/buy/personal/" class="bare">https://jokerconf.com/buy/personal/</a></p>
+</div>
+<div class="paragraph">
+<p>👇 👇 👇 Конференция DevOops 2018 уже анонсирована! 👇 👇 👇</p>
+</div>
+<div class="paragraph">
+<p>Промокод: DevOops2018Razbor
+Работает только для <a href="https://devoops.ru/prices/#personal" class="bare">https://devoops.ru/prices/#personal</a></p>
+</div>
 </div>
 </div>
 </div>
 </div>
 <div class="sect1">
 <h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Барух</p>
+</li>
+<li>
+<p><a href="https://twitter.com/olegchir">Олег Чирухин</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://jug.ru/2018/09/digest-week-75/">Java Дайджест №75</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Гости-и-участники-2">Гости и участники</h2>
 <div class="sectionbody">
 <div class="ulist">
 <ul>
@@ -685,13 +980,47 @@ Facebook
 
 
 
-👇 👇 👇 Конференция Joker 2018! 👇 👇 👇
+
+👇 👇 👇 Конференция Joker 2018 уже анонсирована! 👇 👇 👇
+
+
 Промокод: Joker2018Razbor
 Работает только для https://jokerconf.com/buy/personal/
--------------------------------------------------------------
-👇 👇 👇 Конференция DevOops 2018! 👇 👇 👇
+
+
+👇 👇 👇 Конференция DevOops 2018 уже анонсирована! 👇 👇 👇
+
+
 Промокод: DevOops2018Razbor
 Работает только для https://devoops.ru/prices/#personal
+
+
+
+
+
+
+Гости и участники
+
+
+
+
+Барух
+
+
+Олег Чирухин
+
+
+
+
+
+
+Темы
+
+
+
+
+Java Дайджест №75
+
 
 
 
@@ -848,15 +1177,22 @@ twitter:
 <div class="sect1">
 <h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
 <div class="sectionbody">
-<div class="listingblock">
+<div class="sidebarblock">
 <div class="content">
-<pre>👇 👇 👇 Конференция Joker 2018 уже анонсирована! 👇 👇 👇
-Промокод: Joker2018Razbor
-Работает только для https://jokerconf.com/buy/personal/
--------------------------------------------------------------
-👇 👇 👇 Конференция DevOops 2018 уже анонсирована! 👇 👇 👇
-Промокод: DevOops2018Razbor
-Работает только для https://devoops.ru/prices/#personal</pre>
+<div class="paragraph">
+<p>👇 👇 👇 Конференция Joker 2018 уже анонсирована! 👇 👇 👇</p>
+</div>
+<div class="paragraph">
+<p>Промокод: Joker2018Razbor
+Работает только для <a href="https://jokerconf.com/buy/personal/" class="bare">https://jokerconf.com/buy/personal/</a></p>
+</div>
+<div class="paragraph">
+<p>👇 👇 👇 Конференция DevOops 2018 уже анонсирована! 👇 👇 👇</p>
+</div>
+<div class="paragraph">
+<p>Промокод: DevOops2018Razbor
+Работает только для <a href="https://devoops.ru/prices/#personal" class="bare">https://devoops.ru/prices/#personal</a></p>
+</div>
 </div>
 </div>
 </div>
@@ -964,13 +1300,20 @@ Facebook
 
 
 
+
 👇 👇 👇 Конференция Joker 2018 уже анонсирована! 👇 👇 👇
+
+
 Промокод: Joker2018Razbor
 Работает только для https://jokerconf.com/buy/personal/
--------------------------------------------------------------
+
+
 👇 👇 👇 Конференция DevOops 2018 уже анонсирована! 👇 👇 👇
+
+
 Промокод: DevOops2018Razbor
 Работает только для https://devoops.ru/prices/#personal
+
 
 
 
@@ -1081,15 +1424,22 @@ twitter:
 <div class="sect1">
 <h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
 <div class="sectionbody">
-<div class="listingblock">
+<div class="sidebarblock">
 <div class="content">
-<pre>👇 👇 👇 Конференция Joker 2018 уже анонсирована! 👇 👇 👇
-Промокод: Joker2018Razbor
-Работает только для https://jokerconf.com/buy/personal/
--------------------------------------------------------------
-👇 👇 👇 Конференция DevOops 2018 уже анонсирована! 👇 👇 👇
-Промокод: DevOops2018Razbor
-Работает только для https://devoops.ru/prices/#personal</pre>
+<div class="paragraph">
+<p>👇 👇 👇 Конференция Joker 2018 уже анонсирована! 👇 👇 👇</p>
+</div>
+<div class="paragraph">
+<p>Промокод: Joker2018Razbor
+Работает только для <a href="https://jokerconf.com/buy/personal/" class="bare">https://jokerconf.com/buy/personal/</a></p>
+</div>
+<div class="paragraph">
+<p>👇 👇 👇 Конференция DevOops 2018 уже анонсирована! 👇 👇 👇</p>
+</div>
+<div class="paragraph">
+<p>Промокод: DevOops2018Razbor
+Работает только для <a href="https://devoops.ru/prices/#personal" class="bare">https://devoops.ru/prices/#personal</a></p>
+</div>
 </div>
 </div>
 </div>
@@ -1194,13 +1544,20 @@ Facebook
 
 
 
+
 👇 👇 👇 Конференция Joker 2018 уже анонсирована! 👇 👇 👇
+
+
 Промокод: Joker2018Razbor
 Работает только для https://jokerconf.com/buy/personal/
--------------------------------------------------------------
+
+
 👇 👇 👇 Конференция DevOops 2018 уже анонсирована! 👇 👇 👇
+
+
 Промокод: DevOops2018Razbor
 Работает только для https://devoops.ru/prices/#personal
+
 
 
 
@@ -1308,15 +1665,22 @@ twitter:
 <div class="sect1">
 <h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
 <div class="sectionbody">
-<div class="listingblock">
+<div class="sidebarblock">
 <div class="content">
-<pre>👇 👇 👇 Конференция Joker 2018 уже анонсирована! 👇 👇 👇
-Промокод: Joker2018Razbor
-Работает только для https://jokerconf.com/buy/personal/
--------------------------------------------------------------
-👇 👇 👇 Конференция DevOops 2018 уже анонсирована! 👇 👇 👇
-Промокод: DevOops2018Razbor
-Работает только для https://devoops.ru/prices/#personal</pre>
+<div class="paragraph">
+<p>👇 👇 👇 Конференция Joker 2018 уже анонсирована! 👇 👇 👇</p>
+</div>
+<div class="paragraph">
+<p>Промокод: Joker2018Razbor
+Работает только для <a href="https://jokerconf.com/buy/personal/" class="bare">https://jokerconf.com/buy/personal/</a></p>
+</div>
+<div class="paragraph">
+<p>👇 👇 👇 Конференция DevOops 2018 уже анонсирована! 👇 👇 👇</p>
+</div>
+<div class="paragraph">
+<p>Промокод: DevOops2018Razbor
+Работает только для <a href="https://devoops.ru/prices/#personal" class="bare">https://devoops.ru/prices/#personal</a></p>
+</div>
 </div>
 </div>
 </div>
@@ -1451,13 +1815,20 @@ Facebook
 
 
 
+
 👇 👇 👇 Конференция Joker 2018 уже анонсирована! 👇 👇 👇
+
+
 Промокод: Joker2018Razbor
 Работает только для https://jokerconf.com/buy/personal/
--------------------------------------------------------------
+
+
 👇 👇 👇 Конференция DevOops 2018 уже анонсирована! 👇 👇 👇
+
+
 Промокод: DevOops2018Razbor
 Работает только для https://devoops.ru/prices/#personal
+
 
 
 
@@ -1595,15 +1966,22 @@ twitter:
 <div class="sect1">
 <h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
 <div class="sectionbody">
-<div class="listingblock">
+<div class="sidebarblock">
 <div class="content">
-<pre>👇 👇 👇 Конференция Joker 2018 уже анонсирована! 👇 👇 👇
-Промокод: Joker2018Razbor
-Работает только для https://jokerconf.com/buy/personal/
--------------------------------------------------------------
-👇 👇 👇 Конференция DevOops 2018 уже анонсирована! 👇 👇 👇
-Промокод: DevOops2018Razbor
-Работает только для https://devoops.ru/prices/#personal</pre>
+<div class="paragraph">
+<p>👇 👇 👇 Конференция Joker 2018 уже анонсирована! 👇 👇 👇</p>
+</div>
+<div class="paragraph">
+<p>Промокод: Joker2018Razbor
+Работает только для <a href="https://jokerconf.com/buy/personal/" class="bare">https://jokerconf.com/buy/personal/</a></p>
+</div>
+<div class="paragraph">
+<p>👇 👇 👇 Конференция DevOops 2018 уже анонсирована! 👇 👇 👇</p>
+</div>
+<div class="paragraph">
+<p>Промокод: DevOops2018Razbor
+Работает только для <a href="https://devoops.ru/prices/#personal" class="bare">https://devoops.ru/prices/#personal</a></p>
+</div>
 </div>
 </div>
 </div>
@@ -1714,13 +2092,20 @@ Facebook
 
 
 
+
 👇 👇 👇 Конференция Joker 2018 уже анонсирована! 👇 👇 👇
+
+
 Промокод: Joker2018Razbor
 Работает только для https://jokerconf.com/buy/personal/
--------------------------------------------------------------
+
+
 👇 👇 👇 Конференция DevOops 2018 уже анонсирована! 👇 👇 👇
+
+
 Промокод: DevOops2018Razbor
 Работает только для https://devoops.ru/prices/#personal
+
 
 
 
@@ -1834,15 +2219,22 @@ twitter:
 <div class="sect1">
 <h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
 <div class="sectionbody">
-<div class="listingblock">
+<div class="sidebarblock">
 <div class="content">
-<pre>👇 👇 👇 Конференция Joker 2018 уже анонсирована! 👇 👇 👇
-Промокод: Joker2018Razbor
-Работает только для https://jokerconf.com/buy/personal/
--------------------------------------------------------------
-👇 👇 👇 Конференция DevOops 2018 уже анонсирована! 👇 👇 👇
-Промокод: DevOops2018Razbor
-Работает только для https://devoops.ru/prices/#personal</pre>
+<div class="paragraph">
+<p>👇 👇 👇 Конференция Joker 2018 уже анонсирована! 👇 👇 👇</p>
+</div>
+<div class="paragraph">
+<p>Промокод: Joker2018Razbor
+Работает только для <a href="https://jokerconf.com/buy/personal/" class="bare">https://jokerconf.com/buy/personal/</a></p>
+</div>
+<div class="paragraph">
+<p>👇 👇 👇 Конференция DevOops 2018 уже анонсирована! 👇 👇 👇</p>
+</div>
+<div class="paragraph">
+<p>Промокод: DevOops2018Razbor
+Работает только для <a href="https://devoops.ru/prices/#personal" class="bare">https://devoops.ru/prices/#personal</a></p>
+</div>
 </div>
 </div>
 </div>
@@ -1953,13 +2345,20 @@ Facebook
 
 
 
+
 👇 👇 👇 Конференция Joker 2018 уже анонсирована! 👇 👇 👇
+
+
 Промокод: Joker2018Razbor
 Работает только для https://jokerconf.com/buy/personal/
--------------------------------------------------------------
+
+
 👇 👇 👇 Конференция DevOops 2018 уже анонсирована! 👇 👇 👇
+
+
 Промокод: DevOops2018Razbor
 Работает только для https://devoops.ru/prices/#personal
+
 
 
 
@@ -2073,15 +2472,22 @@ twitter:
 <div class="sect1">
 <h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
 <div class="sectionbody">
-<div class="listingblock">
+<div class="sidebarblock">
 <div class="content">
-<pre>👇 👇 👇 Конференция Joker 2018 уже анонсирована! 👇 👇 👇
-Промокод: Joker2018Razbor
-Работает только для https://jokerconf.com/buy/personal/
--------------------------------------------------------------
-👇 👇 👇 Конференция DevOops 2018 уже анонсирована! 👇 👇 👇
-Промокод: DevOops2018Razbor
-Работает только для https://devoops.ru/prices/#personal</pre>
+<div class="paragraph">
+<p>👇 👇 👇 Конференция Joker 2018 уже анонсирована! 👇 👇 👇</p>
+</div>
+<div class="paragraph">
+<p>Промокод: Joker2018Razbor
+Работает только для <a href="https://jokerconf.com/buy/personal/" class="bare">https://jokerconf.com/buy/personal/</a></p>
+</div>
+<div class="paragraph">
+<p>👇 👇 👇 Конференция DevOops 2018 уже анонсирована! 👇 👇 👇</p>
+</div>
+<div class="paragraph">
+<p>Промокод: DevOops2018Razbor
+Работает только для <a href="https://devoops.ru/prices/#personal" class="bare">https://devoops.ru/prices/#personal</a></p>
+</div>
 </div>
 </div>
 </div>
@@ -2189,13 +2595,20 @@ Facebook
 
 
 
+
 👇 👇 👇 Конференция Joker 2018 уже анонсирована! 👇 👇 👇
+
+
 Промокод: Joker2018Razbor
 Работает только для https://jokerconf.com/buy/personal/
--------------------------------------------------------------
+
+
 👇 👇 👇 Конференция DevOops 2018 уже анонсирована! 👇 👇 👇
+
+
 Промокод: DevOops2018Razbor
 Работает только для https://devoops.ru/prices/#personal
+
 
 
 
@@ -2306,15 +2719,22 @@ twitter:
 <div class="sect1">
 <h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
 <div class="sectionbody">
-<div class="listingblock">
+<div class="sidebarblock">
 <div class="content">
-<pre>👇 👇 👇 Конференция Joker 2018 уже анонсирована! 👇 👇 👇
-Промокод: Joker2018Razbor
-Работает только для https://jokerconf.com/buy/personal/
--------------------------------------------------------------
-👇 👇 👇 Конференция DevOops 2018 уже анонсирована! 👇 👇 👇
-Промокод: DevOops2018Razbor
-Работает только для https://devoops.ru/prices/#personal</pre>
+<div class="paragraph">
+<p>👇 👇 👇 Конференция Joker 2018 уже анонсирована! 👇 👇 👇</p>
+</div>
+<div class="paragraph">
+<p>Промокод: Joker2018Razbor
+Работает только для <a href="https://jokerconf.com/buy/personal/" class="bare">https://jokerconf.com/buy/personal/</a></p>
+</div>
+<div class="paragraph">
+<p>👇 👇 👇 Конференция DevOops 2018 уже анонсирована! 👇 👇 👇</p>
+</div>
+<div class="paragraph">
+<p>Промокод: DevOops2018Razbor
+Работает только для <a href="https://devoops.ru/prices/#personal" class="bare">https://devoops.ru/prices/#personal</a></p>
+</div>
 </div>
 </div>
 <div class="paragraph">
@@ -2581,13 +3001,20 @@ Facebook
 
 
 
+
 👇 👇 👇 Конференция Joker 2018 уже анонсирована! 👇 👇 👇
+
+
 Промокод: Joker2018Razbor
 Работает только для https://jokerconf.com/buy/personal/
--------------------------------------------------------------
+
+
 👇 👇 👇 Конференция DevOops 2018 уже анонсирована! 👇 👇 👇
+
+
 Промокод: DevOops2018Razbor
 Работает только для https://devoops.ru/prices/#personal
+
 
 
 
@@ -2860,15 +3287,22 @@ twitter:
 <div class="sect1">
 <h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
 <div class="sectionbody">
-<div class="listingblock">
+<div class="sidebarblock">
 <div class="content">
-<pre>👇 👇 👇 Конференция Joker 2018 уже анонсирована! 👇 👇 👇
-Промокод: Joker2018Razbor
-Работает только для https://jokerconf.com/buy/personal/
--------------------------------------------------------------
-👇 👇 👇 Конференция DevOops 2018 уже анонсирована! 👇 👇 👇
-Промокод: DevOops2018Razbor
-Работает только для https://devoops.ru/prices/#personal</pre>
+<div class="paragraph">
+<p>👇 👇 👇 Конференция Joker 2018 уже анонсирована! 👇 👇 👇</p>
+</div>
+<div class="paragraph">
+<p>Промокод: Joker2018Razbor
+Работает только для <a href="https://jokerconf.com/buy/personal/" class="bare">https://jokerconf.com/buy/personal/</a></p>
+</div>
+<div class="paragraph">
+<p>👇 👇 👇 Конференция DevOops 2018 уже анонсирована! 👇 👇 👇</p>
+</div>
+<div class="paragraph">
+<p>Промокод: DevOops2018Razbor
+Работает только для <a href="https://devoops.ru/prices/#personal" class="bare">https://devoops.ru/prices/#personal</a></p>
+</div>
 </div>
 </div>
 </div>
@@ -2982,13 +3416,20 @@ Facebook
 
 
 
+
 👇 👇 👇 Конференция Joker 2018 уже анонсирована! 👇 👇 👇
+
+
 Промокод: Joker2018Razbor
 Работает только для https://jokerconf.com/buy/personal/
--------------------------------------------------------------
+
+
 👇 👇 👇 Конференция DevOops 2018 уже анонсирована! 👇 👇 👇
+
+
 Промокод: DevOops2018Razbor
 Работает только для https://devoops.ru/prices/#personal
+
 
 
 
@@ -3105,15 +3546,22 @@ twitter:
 <div class="sect1">
 <h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
 <div class="sectionbody">
-<div class="listingblock">
+<div class="sidebarblock">
 <div class="content">
-<pre>👇 👇 👇 Конференция Joker 2018 уже анонсирована! 👇 👇 👇
-Промокод: Joker2018Razbor
-Работает только для https://jokerconf.com/buy/personal/
--------------------------------------------------------------
-👇 👇 👇 Конференция DevOops 2018 уже анонсирована! 👇 👇 👇
-Промокод: DevOops2018Razbor
-Работает только для https://devoops.ru/prices/#personal</pre>
+<div class="paragraph">
+<p>👇 👇 👇 Конференция Joker 2018 уже анонсирована! 👇 👇 👇</p>
+</div>
+<div class="paragraph">
+<p>Промокод: Joker2018Razbor
+Работает только для <a href="https://jokerconf.com/buy/personal/" class="bare">https://jokerconf.com/buy/personal/</a></p>
+</div>
+<div class="paragraph">
+<p>👇 👇 👇 Конференция DevOops 2018 уже анонсирована! 👇 👇 👇</p>
+</div>
+<div class="paragraph">
+<p>Промокод: DevOops2018Razbor
+Работает только для <a href="https://devoops.ru/prices/#personal" class="bare">https://devoops.ru/prices/#personal</a></p>
+</div>
 </div>
 </div>
 </div>
@@ -3224,13 +3672,20 @@ Facebook
 
 
 
+
 👇 👇 👇 Конференция Joker 2018 уже анонсирована! 👇 👇 👇
+
+
 Промокод: Joker2018Razbor
 Работает только для https://jokerconf.com/buy/personal/
--------------------------------------------------------------
+
+
 👇 👇 👇 Конференция DevOops 2018 уже анонсирована! 👇 👇 👇
+
+
 Промокод: DevOops2018Razbor
 Работает только для https://devoops.ru/prices/#personal
+
 
 
 
@@ -3347,15 +3802,22 @@ twitter:
 <div class="sect1">
 <h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
 <div class="sectionbody">
-<div class="listingblock">
+<div class="sidebarblock">
 <div class="content">
-<pre>👇 👇 👇 Конференция Joker 2018 уже анонсирована! 👇 👇 👇
-Промокод: Joker2018Razbor
-Работает только для https://jokerconf.com/buy/personal/
--------------------------------------------------------------
-👇 👇 👇 Конференция DevOops 2018 уже анонсирована! 👇 👇 👇
-Промокод: DevOops2018Razbor
-Работает только для https://devoops.ru/prices/#personal</pre>
+<div class="paragraph">
+<p>👇 👇 👇 Конференция Joker 2018 уже анонсирована! 👇 👇 👇</p>
+</div>
+<div class="paragraph">
+<p>Промокод: Joker2018Razbor
+Работает только для <a href="https://jokerconf.com/buy/personal/" class="bare">https://jokerconf.com/buy/personal/</a></p>
+</div>
+<div class="paragraph">
+<p>👇 👇 👇 Конференция DevOops 2018 уже анонсирована! 👇 👇 👇</p>
+</div>
+<div class="paragraph">
+<p>Промокод: DevOops2018Razbor
+Работает только для <a href="https://devoops.ru/prices/#personal" class="bare">https://devoops.ru/prices/#personal</a></p>
+</div>
 </div>
 </div>
 </div>
@@ -3541,13 +4003,20 @@ Facebook
 
 
 
+
 👇 👇 👇 Конференция Joker 2018 уже анонсирована! 👇 👇 👇
+
+
 Промокод: Joker2018Razbor
 Работает только для https://jokerconf.com/buy/personal/
--------------------------------------------------------------
+
+
 👇 👇 👇 Конференция DevOops 2018 уже анонсирована! 👇 👇 👇
+
+
 Промокод: DevOops2018Razbor
 Работает только для https://devoops.ru/prices/#personal
+
 
 
 
@@ -13050,341 +13519,6 @@ twitter:
 
 Музыка ведущим предоставлена и ладно&#8230;&#8203;
 
-
-
-]]></itunes:summary>
-    </item>
-    
-    <item>
-      <title>Episode 133 — VP of Engineering и инвестиции</title>
-      <link>http://razbor-poletov.com/2017/04/episode-133.html</link>
-      <pubDate>2017-04-23T00:00:00+00:00</pubDate>
-      <guid isPermalink="true">http://razbor-poletov.com/2017/04/episode-133</guid>
-      <description><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="http://razbor-poletov.com/images/razbor_133_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_133_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Спонсоры">Спонсоры</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p>Платформа вещания <a href="https://shipilev.net/" class="bare">https://shipilev.net/</a></p>
-</li>
-<li>
-<p>Пишешь на Scala - пиши сюда <a href="mailto:scala@tinkoff.ru">scala@tinkoff.ru</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/gAmUssA/status/855514452673875968">Очень странный сетап и локация</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/gAmUssA/status/854016716229283840">Внеклассное чтение в отпуске</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Гости">Гости</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://twitter.com/@ligolnik">@ligolnik</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="strong-Мероприятия-strong"><strong>Мероприятия</strong></h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://rigadevdays.lv">Riga Dev Days</a> 15-17 мая</p>
-</li>
-<li>
-<p><a href="https://2017.geecon.org">GeeCON</a> 17-19 мая</p>
-</li>
-<li>
-<p><a href="https://swampup.jfrog.com">swampUP</a> 24-26 мая</p>
-</li>
-<li>
-<p><a href="http://jeeconf.com">JEEConf</a> 26-27 мая</p>
-</li>
-<li>
-<p><a href="https://2017.geekout.ee">GeekOut</a> 8-9 июня</p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Темы">Темы</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p>Лёня, ты кто такой будешь?</p>
-</li>
-<li>
-<p>APM Wily</p>
-</li>
-<li>
-<p>Как покупать и продавать компании</p>
-</li>
-<li>
-<p>Что там в долине? Как поживаете?</p>
-</li>
-<li>
-<p>Чем платят в кремниевой долине?</p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Книжки-полезняшки">Книжки-полезняшки</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://www.ozon.ru/context/detail/id/19379723">Книга о том как мотивировать и удерживать</a> по совету <a href="https://twitter.com/@ligolnik">@ligolnik</a></p>
-</li>
-<li>
-<p><a href="https://www.amazon.com/Hatching-Twitter-Story-Friendship-Betrayal/dp/1591847087">Hatching Twitter: A True Story of Money, Power, Friendship, and Betrayal</a></p>
-</li>
-<li>
-<p><a href="https://www.amazon.com/dp/B003F3PKSQ/ref=dp-kindle-redirect?_encoding=UTF8&amp;btkr=1">How You Can Negotiate to Succeed in Work and Life</a></p>
-</li>
-<li>
-<p><a href="https://www.amazon.com/Difference-Between-God-Larry-Ellison/dp/0060008768">The Difference Between God and Larry Ellison: *God Doesn&#8217;t Think He&#8217;s Larry Ellison</a></p>
-</li>
-<li>
-<p><a href="https://www.amazon.com/Softwar-Intimate-Portrait-Ellison-Oracle/dp/0743225058">Softwar: An Intimate Portrait of Larry Ellison and Oracle</a></p>
-</li>
-<li>
-<p><a href="https://www.amazon.com/dp/B003F3PKSQ/">Getting More: How You Can Negotiate to Succeed in Work and Life</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Дополнительно">Дополнительно</h2>
-<div class="sectionbody">
-<hr>
-<div class="paragraph">
-<p>Наши контакты:</p>
-</div>
-<div class="paragraph">
-<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
-</div>
-<div class="paragraph">
-<p><a href="http://razbor-poletov.com/broadcast.html">Информация о вещании</a></p>
-</div>
-<div class="paragraph">
-<p>Гости и участники:</p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://twitter.com/a_abashev">@a_abashev</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/jbaruch">@jbaruch</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/tolkv">@tolkv</a></p>
-</li>
-</ul>
-</div>
-<!-- player goes here-->
-
-<audio preload="none">
-   <source src="http://traffic.libsyn.com/razborpoletov/razbor_133.mp3" type="audio/mp3" />
-   Your browser does not support the audio tag.
-</audio>
-<div class="paragraph">
-<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
-</div>
-<!-- episode file link goes here-->
-<a href="http://traffic.libsyn.com/razborpoletov/razbor_133.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
-<div class="paragraph">
-<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
-</div>
-</div>
-</div>]]></description>
-      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
-      <itunes:summary><![CDATA[
-
-
-
-
-
-
-
-Спонсоры
-
-
-
-
-Платформа вещания https://shipilev.net/
-
-
-Пишешь на Scala - пиши сюда scala@tinkoff.ru
-
-
-Очень странный сетап и локация
-
-
-Внеклассное чтение в отпуске
-
-
-
-
-
-
-Гости
-
-
-
-
-@ligolnik
-
-
-
-
-
-
-Мероприятия
-
-
-
-
-Riga Dev Days 15-17 мая
-
-
-GeeCON 17-19 мая
-
-
-swampUP 24-26 мая
-
-
-JEEConf 26-27 мая
-
-
-GeekOut 8-9 июня
-
-
-
-
-
-
-Темы
-
-
-
-
-Лёня, ты кто такой будешь?
-
-
-APM Wily
-
-
-Как покупать и продавать компании
-
-
-Что там в долине? Как поживаете?
-
-
-Чем платят в кремниевой долине?
-
-
-
-
-
-
-Книжки-полезняшки
-
-
-
-
-Книга о том как мотивировать и удерживать по совету @ligolnik
-
-
-Hatching Twitter: A True Story of Money, Power, Friendship, and Betrayal
-
-
-How You Can Negotiate to Succeed in Work and Life
-
-
-The Difference Between God and Larry Ellison: *God Doesn&#8217;t Think He&#8217;s Larry Ellison
-
-
-Softwar: An Intimate Portrait of Larry Ellison and Oracle
-
-
-Getting More: How You Can Negotiate to Succeed in Work and Life
-
-
-
-
-
-
-Дополнительно
-
-
-
-Наши контакты:
-
-
-Официальный сайт — http://razbor-poletov.com
-
-
-Информация о вещании
-
-
-Гости и участники:
-
-
-
-
-@a_abashev
-
-
-@gamussa
-
-
-@jbaruch
-
-
-@tolkv
-
-
-
-
-
-
-   
-   Your browser does not support the audio tag.
-
-
-Подписаться по RSS
-
-
-
-
-Музыка ведущим предоставлена и ладно&#8230;&#8203;
 
 
 ]]></itunes:summary>
