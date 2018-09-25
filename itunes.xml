@@ -6,8 +6,8 @@
     <atom:link href="http://razbor-poletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2018-09-25T01:04:47+00:00</pubDate>
-    <lastBuildDate>2018-09-25T01:04:47+00:00</lastBuildDate>
+    <pubDate>2018-09-25T01:26:58+00:00</pubDate>
+    <lastBuildDate>2018-09-25T01:26:58+00:00</lastBuildDate>
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razbor-poletov.com/logoB.jpg" />
@@ -19,6 +19,787 @@
     </itunes:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:thumbnail url="http://razbor-poletov.com/logoB.jpg" />
+    
+    <item>
+      <title>Episode 184 — РП: Devops - C Днем Рождения, Олег и Cloud Native Jenkins!</title>
+      <link>http://razbor-poletov.com/2018/09/episode-184.html</link>
+      <pubDate>2018-09-24T00:00:00+00:00</pubDate>
+      <guid isPermalink="true">http://razbor-poletov.com/2018/09/episode-184</guid>
+      <description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_184_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_184_text.jpg" width="350" /></a>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
+<div class="sectionbody">
+<div class="listingblock">
+<div class="content">
+<pre>👇 👇 👇 Официальный стикерпак Разбора Полетов и полуофициальный Чат pro.jvm в Телеграме 👇 👇 👇</pre>
+</div>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://t.me/addstickers/razbor_poletov">стикеры</a></p>
+</li>
+<li>
+<p><a href="https://t.me/jvmchat">pro.jvm</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Партнеры-выпуска-2">Партнеры выпуска</h2>
+<div class="sectionbody">
+<div class="sidebarblock">
+<div class="content">
+<div class="paragraph">
+<p>👇 👇 👇 Конференция Joker 2018 уже анонсирована! 👇 👇 👇</p>
+</div>
+<div class="paragraph">
+<p>Промокод: Joker2018Razbor
+Работает только для <a href="https://jokerconf.com/buy/personal/" class="bare">https://jokerconf.com/buy/personal/</a></p>
+</div>
+<div class="paragraph">
+<p>👇 👇 👇 Конференция DevOops 2018 уже анонсирована! 👇 👇 👇</p>
+</div>
+<div class="paragraph">
+<p>Промокод: DevOops2018Razbor</p>
+</div>
+</div>
+</div>
+<div class="sect2">
+<h3 id="Гость">Гость</h3>
+<div class="ulist">
+<ul>
+<li>
+<p>Олег Ненашев, мейнтейнер ядра Jenkins, ведущий инженер в CloudBees</p>
+</li>
+<li>
+<p>Twitter: <a href="https://twitter.com/oleg_nenashev/">https://twitter.com/oleg_nenashev/</a></p>
+</li>
+<li>
+<p>Github: <a href="https://github.com/oleg-nenashev/">https://github.com/oleg-nenashev/</a></p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect2">
+<h3 id="Структура-Ссылки">Структура/Ссылки</h3>
+<div class="ulist">
+<ul>
+<li>
+<p>Вступление:</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Jenkins: <a href="https://jenkins.io/">https://jenkins.io/</a></p>
+</li>
+<li>
+<p>CloudBees: <a href="https://www.cloudbees.com">https://www.cloudbees.com</a></p>
+</li>
+<li>
+<p>Jenkins RU</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Митапы:</p>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://www.meetup.com/St-Petersburg-Jenkins-Meetup/">https://www.meetup.com/St-Petersburg-Jenkins-Meetup/</a></p>
+</li>
+<li>
+<p><a href="https://www.meetup.com/Moscow-Jenkins-Meetup/">https://www.meetup.com/Moscow-Jenkins-Meetup/</a></p>
+</li>
+<li>
+<p><a href="https://www.meetup.com/Belarus-Jenkins-Meetup/">https://www.meetup.com/Belarus-Jenkins-Meetup/</a></p>
+</li>
+<li>
+<p><a href="https://www.meetup.com/Yaroslavl-Jenkins-Meetup/">https://www.meetup.com/Yaroslavl-Jenkins-Meetup/</a></p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Чатик:</p>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://gitter.im/jenkinsci-ru/public">https://gitter.im/jenkinsci-ru/public</a></p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Twitter:</p>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://twitter.com/jenkins_ru">https://twitter.com/jenkins_ru</a></p>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Видео с кейноутов: <a href="https://www.cloudbees.com/devops-world/san-francisco/keynote-videos">https://www.cloudbees.com/devops-world/san-francisco/keynote-videos</a></p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Часть 1. О CloudBees</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Продукты</p>
+<div class="ulist">
+<ul>
+<li>
+<p>CloudBees Core: <a href="https://www.cloudbees.com/products/cloudbees-core">https://www.cloudbees.com/products/cloudbees-core</a></p>
+</li>
+<li>
+<p>CloudBees CodeShip: <a href="https://www.cloudbees.com/products/cloudbees-codeship">https://www.cloudbees.com/products/cloudbees-codeship</a></p>
+</li>
+<li>
+<p>CloudBees DevOptics: <a href="https://www.cloudbees.com/products/cloudbees-devoptics">https://www.cloudbees.com/products/cloudbees-devoptics</a></p>
+</li>
+<li>
+<p>CloudBees Jenkins Support: <a href="https://www.cloudbees.com/products/cloudbees-jenkins-support">https://www.cloudbees.com/products/cloudbees-jenkins-support</a></p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Jenkins X</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Ссылка: <a href="https://jenkins-x.io/">https://jenkins-x.io/</a></p>
+</li>
+<li>
+<p>CloudBees KubeCD, limited availability: <a href="https://www.cloudbees.com/cloudbees-kube-cd">https://www.cloudbees.com/cloudbees-kube-cd</a></p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>SaaS - CloudBees и CodeShip</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Старые SaaS-продукты: CloudBees BuildHive и CloudBees DEV@cloud.</p>
+<div class="ulist">
+<ul>
+<li>
+<p>UPD от Олега: в подкасте затронули только BuildHive, который был отключен в 2015.</p>
+</li>
+<li>
+<p>DEV@cloud отключат в декабре 2018: <a href="https://support.cloudbees.com/hc/en-us/articles/360008971551-DEV-cloud-End-of-Life">https://support.cloudbees.com/hc/en-us/articles/360008971551-DEV-cloud-End-of-Life</a></p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>CodeShip Basic: <a href="https://codeship.com/features/basic">https://codeship.com/features/basic</a> . Работает “из коробки” с предустановленными компонентами</p>
+</li>
+<li>
+<p>CodeShip Pro: <a href="https://codeship.com/features/pro">https://codeship.com/features/pro</a> - полностью конфигурируемое решение</p>
+</li>
+<li>
+<p>Codeship Enterprise - решение с возможностью подключения on-premise компонентов: <a href="https://codeship.com/enterprise">https://codeship.com/enterprise</a></p>
+<div class="ulist">
+<ul>
+<li>
+<p>UPD от Олега: Как сказано в подкасте, это - все-таки не on-premise</p>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Зачем использовать?</p>
+<div class="ulist">
+<ul>
+<li>
+<p>“CloudBees is Building the world&#8217;s first end-to-end software delivery system”</p>
+</li>
+<li>
+<p>Решение для любого масштаба инсталляций</p>
+</li>
+<li>
+<p>Профессиональная поддержка</p>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Часть 2. Cloud Native Jenkins</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Доклад Олега, <a href="http://github.com/jglick">Jesse Glick</a> и Carlos Sanchez. “A Cloud Native Jenkins”:</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Доклад: <a href="http://sched.co/F9NT">http://sched.co/F9NT</a></p>
+</li>
+<li>
+<p>UPD Олега: слайды пока не опубликованы, но можно посмотреть мой блогпост и слайды с саммита контрибьюторов:</p>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://jenkins.io/blog/2018/09/12/speaker-blog-a-cloud-native-jenkins/">https://jenkins.io/blog/2018/09/12/speaker-blog-a-cloud-native-jenkins/</a></p>
+</li>
+<li>
+<p><a href="https://speakerdeck.com/onenashev/jenkins-contributor-summit-2018-cloud-native-jenkins-update">https://speakerdeck.com/onenashev/jenkins-contributor-summit-2018-cloud-native-jenkins-update</a></p>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Блогпост <a href="https://jenkins.io/blog/2018/08/31/shifting-gears/#about-the-author">Kohsuke Kawaguchi</a> “Jenkins: Shifting Gears”: <a href="https://jenkins.io/blog/2018/08/31/shifting-gears/">https://jenkins.io/blog/2018/08/31/shifting-gears/</a></p>
+</li>
+<li>
+<p>Configuration-as-Code плагин: <a href="https://github.com/jenkinsci/configuration-as-code-plugin">https://github.com/jenkinsci/configuration-as-code-plugin</a></p>
+</li>
+<li>
+<p>Pluggable Storage: <a href="https://jenkins.io/sigs/cloud-native/pluggable-storage/">https://jenkins.io/sigs/cloud-native/pluggable-storage/</a></p>
+</li>
+<li>
+<p>Cloud Native SIG: <a href="https://jenkins.io/sigs/cloud-native/">https://jenkins.io/sigs/cloud-native/</a></p>
+</li>
+<li>
+<p>Artifact Manager для Amazon S3: <a href="https://plugins.jenkins.io/artifact-manager-s3">https://plugins.jenkins.io/artifact-manager-s3</a></p>
+</li>
+<li>
+<p>Single-shot мастеры</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Jenkinsfile Runner: <a href="https://github.com/jenkinsci/jenkinsfile-runner">https://github.com/jenkinsci/jenkinsfile-runner</a></p>
+</li>
+<li>
+<p>Custom WAR Packager: <a href="https://github.com/jenkinsci/custom-war-packager">https://github.com/jenkinsci/custom-war-packager</a></p>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Часть 3. Другое</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Jenkins Evergreen</p>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://github.com/jenkins-infra/evergreen/">https://github.com/jenkins-infra/evergreen/</a></p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Следующий доклад Олега: “Common Pitfalls in Jenkins Security… and how to avoid them”:</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Ссылка на доклад: <a href="https://devopsworldjenkinsworld2018.sched.com/event/F9NX/common-pitfalls-in-jenkins-security-and-how-to-avoid-them">https://devopsworldjenkinsworld2018.sched.com/event/F9NX/common-pitfalls-in-jenkins-security-and-how-to-avoid-them</a></p>
+</li>
+<li>
+<p>UPD от Олега: Слайдов/видео пока нет</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Что нового в SECURITY?</p>
+<div class="ulist">
+<ul>
+<li>
+<p>JEP-200: <a href="https://jenkins.io/blog/2018/03/15/jep-200-lts/">https://jenkins.io/blog/2018/03/15/jep-200-lts/</a></p>
+</li>
+<li>
+<p>Плагины, затронутые JEP-200: <a href="https://wiki.jenkins.io/display/JENKINS/Plugins+affected+by+fix+for+JEP-200">https://wiki.jenkins.io/display/JENKINS/Plugins+affected+by+fix+for+JEP-200</a></p>
+</li>
+<li>
+<p>Новая система управления токенами: <a href="https://jenkins.io/blog/2018/07/02/new-api-token-system/">https://jenkins.io/blog/2018/07/02/new-api-token-system/</a></p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Что посоветуешь слушателям?</p>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect2">
+<h3 id="О-чём-НЕ-поговорили">О чём НЕ поговорили?</h3>
+<div class="ulist">
+<ul>
+<li>
+<p>Jolt in Jenkins: развитие Jenkins 2.</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Смотрите слайды в <a href="https://jenkins.io/blog/2018/08/31/shifting-gears/">https://jenkins.io/blog/2018/08/31/shifting-gears/</a> , заходите в Gitter</p>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+<hr>
+<div class="paragraph">
+<p>Наши контакты:</p>
+</div>
+<div class="paragraph">
+<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
+</div>
+<div class="paragraph">
+<p><a href="http://razbor-poletov.com/broadcast.html">Информация о вещании</a></p>
+</div>
+<div class="paragraph">
+<p>Гости и участники:</p>
+</div>
+<div class="paragraph">
+<p>twitter:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://twitter.com/jbaruch">@jbaruch</a></p>
+</li>
+</ul>
+</div>
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_184.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+<div class="paragraph">
+<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
+</div>
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_184.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+<div class="paragraph">
+<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
+</div>
+</div>
+</div>
+</div>]]></description>
+      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[
+
+
+
+
+
+
+
+Партнеры выпуска
+
+
+
+👇 👇 👇 Официальный стикерпак Разбора Полетов и полуофициальный Чат pro.jvm в Телеграме 👇 👇 👇
+
+
+
+
+
+стикеры
+
+
+pro.jvm
+
+
+
+
+
+
+Партнеры выпуска
+
+
+
+
+👇 👇 👇 Конференция Joker 2018 уже анонсирована! 👇 👇 👇
+
+
+Промокод: Joker2018Razbor
+Работает только для https://jokerconf.com/buy/personal/
+
+
+👇 👇 👇 Конференция DevOops 2018 уже анонсирована! 👇 👇 👇
+
+
+Промокод: DevOops2018Razbor
+
+
+
+
+Гость
+
+
+
+Олег Ненашев, мейнтейнер ядра Jenkins, ведущий инженер в CloudBees
+
+
+Twitter: https://twitter.com/oleg_nenashev/
+
+
+Github: https://github.com/oleg-nenashev/
+
+
+
+
+
+Структура/Ссылки
+
+
+
+Вступление:
+
+
+
+Jenkins: https://jenkins.io/
+
+
+CloudBees: https://www.cloudbees.com
+
+
+Jenkins RU
+
+
+
+Митапы:
+
+
+
+https://www.meetup.com/St-Petersburg-Jenkins-Meetup/
+
+
+https://www.meetup.com/Moscow-Jenkins-Meetup/
+
+
+https://www.meetup.com/Belarus-Jenkins-Meetup/
+
+
+https://www.meetup.com/Yaroslavl-Jenkins-Meetup/
+
+
+
+
+
+Чатик:
+
+
+
+https://gitter.im/jenkinsci-ru/public
+
+
+
+
+
+Twitter:
+
+
+
+https://twitter.com/jenkins_ru
+
+
+
+
+
+
+
+
+Видео с кейноутов: https://www.cloudbees.com/devops-world/san-francisco/keynote-videos
+
+
+
+
+
+Часть 1. О CloudBees
+
+
+
+Продукты
+
+
+
+CloudBees Core: https://www.cloudbees.com/products/cloudbees-core
+
+
+CloudBees CodeShip: https://www.cloudbees.com/products/cloudbees-codeship
+
+
+CloudBees DevOptics: https://www.cloudbees.com/products/cloudbees-devoptics
+
+
+CloudBees Jenkins Support: https://www.cloudbees.com/products/cloudbees-jenkins-support
+
+
+
+
+
+Jenkins X
+
+
+
+Ссылка: https://jenkins-x.io/
+
+
+CloudBees KubeCD, limited availability: https://www.cloudbees.com/cloudbees-kube-cd
+
+
+
+
+
+SaaS - CloudBees и CodeShip
+
+
+
+Старые SaaS-продукты: CloudBees BuildHive и CloudBees DEV@cloud.
+
+
+
+UPD от Олега: в подкасте затронули только BuildHive, который был отключен в 2015.
+
+
+DEV@cloud отключат в декабре 2018: https://support.cloudbees.com/hc/en-us/articles/360008971551-DEV-cloud-End-of-Life
+
+
+
+
+
+CodeShip Basic: https://codeship.com/features/basic . Работает “из коробки” с предустановленными компонентами
+
+
+CodeShip Pro: https://codeship.com/features/pro - полностью конфигурируемое решение
+
+
+Codeship Enterprise - решение с возможностью подключения on-premise компонентов: https://codeship.com/enterprise
+
+
+
+UPD от Олега: Как сказано в подкасте, это - все-таки не on-premise
+
+
+
+
+
+
+
+
+Зачем использовать?
+
+
+
+“CloudBees is Building the world&#8217;s first end-to-end software delivery system”
+
+
+Решение для любого масштаба инсталляций
+
+
+Профессиональная поддержка
+
+
+
+
+
+
+
+
+Часть 2. Cloud Native Jenkins
+
+
+
+Доклад Олега, Jesse Glick и Carlos Sanchez. “A Cloud Native Jenkins”:
+
+
+
+Доклад: http://sched.co/F9NT
+
+
+UPD Олега: слайды пока не опубликованы, но можно посмотреть мой блогпост и слайды с саммита контрибьюторов:
+
+
+
+https://jenkins.io/blog/2018/09/12/speaker-blog-a-cloud-native-jenkins/
+
+
+https://speakerdeck.com/onenashev/jenkins-contributor-summit-2018-cloud-native-jenkins-update
+
+
+
+
+
+
+
+
+Блогпост Kohsuke Kawaguchi “Jenkins: Shifting Gears”: https://jenkins.io/blog/2018/08/31/shifting-gears/
+
+
+Configuration-as-Code плагин: https://github.com/jenkinsci/configuration-as-code-plugin
+
+
+Pluggable Storage: https://jenkins.io/sigs/cloud-native/pluggable-storage/
+
+
+Cloud Native SIG: https://jenkins.io/sigs/cloud-native/
+
+
+Artifact Manager для Amazon S3: https://plugins.jenkins.io/artifact-manager-s3
+
+
+Single-shot мастеры
+
+
+
+Jenkinsfile Runner: https://github.com/jenkinsci/jenkinsfile-runner
+
+
+Custom WAR Packager: https://github.com/jenkinsci/custom-war-packager
+
+
+
+
+
+
+
+
+Часть 3. Другое
+
+
+
+Jenkins Evergreen
+
+
+
+https://github.com/jenkins-infra/evergreen/
+
+
+
+
+
+Следующий доклад Олега: “Common Pitfalls in Jenkins Security… and how to avoid them”:
+
+
+
+Ссылка на доклад: https://devopsworldjenkinsworld2018.sched.com/event/F9NX/common-pitfalls-in-jenkins-security-and-how-to-avoid-them
+
+
+UPD от Олега: Слайдов/видео пока нет
+
+
+
+
+
+Что нового в SECURITY?
+
+
+
+JEP-200: https://jenkins.io/blog/2018/03/15/jep-200-lts/
+
+
+Плагины, затронутые JEP-200: https://wiki.jenkins.io/display/JENKINS/Plugins+affected+by+fix+for+JEP-200
+
+
+Новая система управления токенами: https://jenkins.io/blog/2018/07/02/new-api-token-system/
+
+
+
+
+
+Что посоветуешь слушателям?
+
+
+
+
+
+
+
+
+О чём НЕ поговорили?
+
+
+
+Jolt in Jenkins: развитие Jenkins 2.
+
+
+
+Смотрите слайды в https://jenkins.io/blog/2018/08/31/shifting-gears/ , заходите в Gitter
+
+
+
+
+
+
+
+
+Наши контакты:
+
+
+Официальный сайт — http://razbor-poletov.com
+
+
+Информация о вещании
+
+
+Гости и участники:
+
+
+twitter:
+
+
+
+
+@jbaruch
+
+
+
+
+
+
+   
+   Your browser does not support the audio tag.
+
+
+Подписаться по RSS
+
+
+
+
+Музыка ведущим предоставлена и ладно&#8230;&#8203;
+
+
+
+]]></itunes:summary>
+    </item>
     
     <item>
       <title>Episode 183 — РП: Java — Дайдждест — Много новостей</title>
@@ -99,25 +880,7 @@
 <div class="ulist">
 <ul>
 <li>
-<p><a href="https://twitter.com/a_abashev">@a_abashev</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/antonarhipov">@antonarhipov</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/dzmitryc">@dzmitryc</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
-</li>
-<li>
 <p><a href="https://twitter.com/jbaruch">@jbaruch</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/shipilev">@shipilev</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/tolkv">@tolkv</a></p>
 </li>
 </ul>
 </div>
@@ -213,25 +976,7 @@ twitter:
 
 
 
-@a_abashev
-
-
-@antonarhipov
-
-
-@dzmitryc
-
-
-@gamussa
-
-
 @jbaruch
-
-
-@shipilev
-
-
-@tolkv
 
 
 
@@ -13018,507 +13763,6 @@ https://twitter.com/golodnyj
 
 
 Музыка ведущим предоставлена и ладно&#8230;&#8203;
-
-
-]]></itunes:summary>
-    </item>
-    
-    <item>
-      <title>Episode 134 — Jigsaw и Docker</title>
-      <link>http://razbor-poletov.com/2017/05/episode-134.html</link>
-      <pubDate>2017-05-14T00:00:00+00:00</pubDate>
-      <guid isPermalink="true">http://razbor-poletov.com/2017/05/episode-134</guid>
-      <description><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="http://razbor-poletov.com/images/razbor_134_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_134_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Мероприятия">Мероприятия</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://rigadevdays.lv">Riga Dev Days </a>15-16 мая</p>
-</li>
-<li>
-<p><a href="https://geecon.org">GeeCON</a> 17-19 мая</p>
-</li>
-<li>
-<p><a href="https://jugmsk.timepad.ru/event/491263/">JUG.MSK.RU в Кроке</a> 22 мая</p>
-</li>
-<li>
-<p><a href="https://developer.oracle.com/code/moscow">Oracle Code Moscow</a> 23 мая</p>
-</li>
-<li>
-<p><a href="http://jeeconf.com">JEEConf</a> 26-27 мая</p>
-</li>
-<li>
-<p><a href="https://holyjs-piter.ru">HolyJS</a> — 2-3 июня</p>
-</li>
-<li>
-<p><a href="https://heisenbug-piter.ru">Гейзенбаг</a> — 4 июня</p>
-</li>
-<li>
-<p><a href="https://2017.geekout.ee">GeekOut</a> 8-9 июня</p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Темы">Темы</h2>
-<div class="sectionbody">
-<div class="paragraph">
-<p>Java 9</p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://www.infoq.com/news/2017/05/no-jigsaw">“No Jigsaw!”</a> - IBM и Red Hat против</p>
-<div class="ulist">
-<ul>
-<li>
-<p>Спросить у Шипилева - чего не хватает редхату что принять Jigsaw в себя <code>:)</code></p>
-</li>
-</ul>
-</div>
-</li>
-<li>
-<p><a href="https://blog.plan99.net/is-jigsaw-good-or-is-it-wack-ec634d36dd6f?t">Is Jigsaw good or is it wack?</a></p>
-</li>
-<li>
-<p><a href="http://mail.openjdk.java.net/pipermail/jpms-spec-experts/2017-February/000582.html">How to name modules, automatic and otherwise (JDK9)</a></p>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html">jpms module naming</a></p>
-</li>
-<li>
-<p><a href="http://blog.joda.org/2017/05/java-se-9-jpms-automatic-modules.html">jpms automatic modules</a></p>
-</li>
-</ul>
-</div>
-</li>
-<li>
-<p><a href="http://mail.openjdk.java.net/pipermail/jpms-spec-observers/2017-May/000870.html">Concerns with JPMS spec and Jigsaw implementation</a></p>
-</li>
-<li>
-<p>И всё равно, модули <a href="https://www.infoq.com/news/2017/05/jigsaw-public-review">пойдут в паблик ревью</a></p>
-</li>
-<li>
-<p>An <a href="http://mreinhold.org/blog/to-the-jcp-ec" class="bare">http://mreinhold.org/blog/to-the-jcp-ec</a></p>
-<div class="ulist">
-<ul>
-<li>
-<p>и ответ <a href="http://mail.openjdk.java.net/pipermail/jpms-spec-observers/2017-May/000874.html" class="bare">http://mail.openjdk.java.net/pipermail/jpms-spec-observers/2017-May/000874.html</a></p>
-</li>
-</ul>
-</div>
-</li>
-<li>
-<p>И ещё <a href="http://mydailyjava.blogspot.com.ee/2017/05/yet-another-jigsaw-opinion-piece.html">одно мнение о Jigsaw</a></p>
-</li>
-<li>
-<p><a href="http://www.tomitribe.com/blog/2017/05/is-jigsaw-dead-not-quite">Jigsaw is not dead</a></p>
-</li>
-</ul>
-</div>
-<div class="sect2">
-<h3 id="baruch-про-dokercon">Baruch про DokerCon</h3>
-<div class="ulist">
-<ul>
-<li>
-<p>инфоповод <a href="https://www.kencochrane.net/2017/03/24/5-years-at-docker">5 years at Docker</a></p>
-</li>
-<li>
-<p><a href="https://jpetazzo.github.io/2017/02/24/from-dotcloud-to-docker/" class="bare">https://jpetazzo.github.io/2017/02/24/from-dotcloud-to-docker/</a></p>
-</li>
-<li>
-<p>поговорить про Moby <a href="https://twitter.com/chuhnk/status/855019102410346497" class="bare">https://twitter.com/chuhnk/status/855019102410346497</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/arungupta/status/861974802021658624" class="bare">https://twitter.com/arungupta/status/861974802021658624</a></p>
-</li>
-</ul>
-</div>
-<div class="sect3">
-<h4 id="rocket">Rocket</h4>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://coreos.com/blog/rocket.html" class="bare">https://coreos.com/blog/rocket.html</a></p>
-</li>
-<li>
-<p><a href="https://github.com/rkt/rkt/" class="bare">https://github.com/rkt/rkt/</a></p>
-</li>
-<li>
-<p><a href="https://coreos.com/blog/rkt-and-kubernetes.html" class="bare">https://coreos.com/blog/rkt-and-kubernetes.html</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect2">
-<h3 id="Полезняшки">Полезняшки</h3>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://try.crashlytics.com">Crashlytics</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/intellijidea/status/862961379329888256">Stream API Debugger</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/gAmUssA/status/859697461639733248">Don&#8217;t get confused with lambdas</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/ApacheGroovy/status/861924721453084672">Java 8 data/time support </a> for Groovy</p>
-</li>
-<li>
-<p><a href="https://www.testcontainers.org">TestContainers</a></p>
-</li>
-<li>
-<p><a href="https://github.com/arquillian/arquillian-cube">Arquillian Cude</a></p>
-</li>
-<li>
-<p><a href="https://github.com/shrinkwrap">ShrinkWrap</a></p>
-</li>
-<li>
-<p><a href="http://seleniumcamp.com/talk/testng-vs-junit-5-battle">TestNG vs JUnit5</a></p>
-</li>
-<li>
-<p><a href="https://isitonaws.com">IsItOnAWS</a></p>
-</li>
-<li>
-<p><a href="https://www.getpostman.com">Postman</a></p>
-</li>
-<li>
-<p><a href="https://insights.stackoverflow.com/trends">StackOverflow trends</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/gAmUssA/status/854016716229283840" class="bare">https://twitter.com/gAmUssA/status/854016716229283840</a></p>
-</li>
-</ul>
-</div>
-</div>
-<div class="sect2">
-<h3 id="Чтиво">Чтиво</h3>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://www.mann-ivanov-ferber.ru/books/dzhedajskie-texniki">Максим Дорофеев - Джедайские техники</a></p>
-</li>
-</ul>
-</div>
-<hr>
-<div class="paragraph">
-<p>Наши контакты:</p>
-</div>
-<div class="paragraph">
-<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
-</div>
-<div class="paragraph">
-<p><a href="http://razbor-poletov.com/broadcast.html">Информация о вещании</a></p>
-</div>
-<div class="paragraph">
-<p>Гости и участники:</p>
-</div>
-<div class="paragraph">
-<p>twitter:</p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://twitter.com/a_abashev">@a_abashev</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/antonarhipov">@antonarhipov</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/ligolnik">@ligolnik</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/jbaruch">@jbaruch</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/pjBooms">@pjBooms</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/shipilev">@shipilev</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/tolkv">@tolkv</a></p>
-</li>
-</ul>
-</div>
-<!-- player goes here-->
-
-<audio preload="none">
-   <source src="http://traffic.libsyn.com/razborpoletov/razbor_134.mp3" type="audio/mp3" />
-   Your browser does not support the audio tag.
-</audio>
-<div class="paragraph">
-<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
-</div>
-<!-- episode file link goes here-->
-<a href="http://traffic.libsyn.com/razborpoletov/razbor_134.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
-<div class="paragraph">
-<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
-</div>
-</div>
-</div>
-</div>]]></description>
-      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
-      <itunes:summary><![CDATA[
-
-
-
-
-
-
-
-Мероприятия
-
-
-
-
-Riga Dev Days 15-16 мая
-
-
-GeeCON 17-19 мая
-
-
-JUG.MSK.RU в Кроке 22 мая
-
-
-Oracle Code Moscow 23 мая
-
-
-JEEConf 26-27 мая
-
-
-HolyJS — 2-3 июня
-
-
-Гейзенбаг — 4 июня
-
-
-GeekOut 8-9 июня
-
-
-
-
-
-
-Темы
-
-
-Java 9
-
-
-
-
-“No Jigsaw!” - IBM и Red Hat против
-
-
-
-Спросить у Шипилева - чего не хватает редхату что принять Jigsaw в себя :)
-
-
-
-
-
-Is Jigsaw good or is it wack?
-
-
-How to name modules, automatic and otherwise (JDK9)
-
-
-
-jpms module naming
-
-
-jpms automatic modules
-
-
-
-
-
-Concerns with JPMS spec and Jigsaw implementation
-
-
-И всё равно, модули пойдут в паблик ревью
-
-
-An http://mreinhold.org/blog/to-the-jcp-ec
-
-
-
-и ответ http://mail.openjdk.java.net/pipermail/jpms-spec-observers/2017-May/000874.html
-
-
-
-
-
-И ещё одно мнение о Jigsaw
-
-
-Jigsaw is not dead
-
-
-
-
-Baruch про DokerCon
-
-
-
-инфоповод 5 years at Docker
-
-
-https://jpetazzo.github.io/2017/02/24/from-dotcloud-to-docker/
-
-
-поговорить про Moby https://twitter.com/chuhnk/status/855019102410346497
-
-
-https://twitter.com/arungupta/status/861974802021658624
-
-
-
-
-Rocket
-
-
-
-https://coreos.com/blog/rocket.html
-
-
-https://github.com/rkt/rkt/
-
-
-https://coreos.com/blog/rkt-and-kubernetes.html
-
-
-
-
-
-
-Полезняшки
-
-
-
-Crashlytics
-
-
-Stream API Debugger
-
-
-Don&#8217;t get confused with lambdas
-
-
-Java 8 data/time support  for Groovy
-
-
-TestContainers
-
-
-Arquillian Cude
-
-
-ShrinkWrap
-
-
-TestNG vs JUnit5
-
-
-IsItOnAWS
-
-
-Postman
-
-
-StackOverflow trends
-
-
-https://twitter.com/gAmUssA/status/854016716229283840
-
-
-
-
-
-Чтиво
-
-
-
-Максим Дорофеев - Джедайские техники
-
-
-
-
-
-Наши контакты:
-
-
-Официальный сайт — http://razbor-poletov.com
-
-
-Информация о вещании
-
-
-Гости и участники:
-
-
-twitter:
-
-
-
-
-@a_abashev
-
-
-@antonarhipov
-
-
-@gamussa
-
-
-@ligolnik
-
-
-@jbaruch
-
-
-@pjBooms
-
-
-@shipilev
-
-
-@tolkv
-
-
-
-
-
-
-   
-   Your browser does not support the audio tag.
-
-
-Подписаться по RSS
-
-
-
-
-Музыка ведущим предоставлена и ладно&#8230;&#8203;
-
 
 
 ]]></itunes:summary>
