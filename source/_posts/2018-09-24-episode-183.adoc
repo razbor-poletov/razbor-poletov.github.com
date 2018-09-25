@@ -28,7 +28,7 @@ categories:
 
 == Гости и участники
 
-* Барух
+* https://twitter.com/jbaruch[Барух]
 * https://twitter.com/olegchir[Олег Чирухин]
 
 == Темы
@@ -43,12 +43,6 @@ categories:
 Официальный сайт — http://razbor-poletov.com[http://razbor-poletov.com]
 
 http://razbor-poletov.com/broadcast.html[Информация о вещании]
-
-Гости и участники:
-
-twitter:
-
-  * https://twitter.com/jbaruch[@jbaruch]
 
 ++++
 <!-- player goes here-->
