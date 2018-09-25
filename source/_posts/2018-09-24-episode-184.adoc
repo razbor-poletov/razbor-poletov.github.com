@@ -42,35 +42,32 @@ categories:
 === Структура/Ссылки 
 
 * Вступление:
-** Jenkins: https://jenkins.io/[https://jenkins.io/] 
-** CloudBees: https://www.cloudbees.com[https://www.cloudbees.com] 
+** https://jenkins.io/[Jenkins] 
+** https://www.cloudbees.com[CloudBees] 
 ** Jenkins RU
 *** Митапы: 
-**** https://www.meetup.com/St-Petersburg-Jenkins-Meetup/[https://www.meetup.com/St-Petersburg-Jenkins-Meetup/] 
-**** https://www.meetup.com/Moscow-Jenkins-Meetup/[https://www.meetup.com/Moscow-Jenkins-Meetup/] 
-**** https://www.meetup.com/Belarus-Jenkins-Meetup/[https://www.meetup.com/Belarus-Jenkins-Meetup/] 
-**** https://www.meetup.com/Yaroslavl-Jenkins-Meetup/[https://www.meetup.com/Yaroslavl-Jenkins-Meetup/] 
-*** Чатик: 
-**** https://gitter.im/jenkinsci-ru/public[https://gitter.im/jenkinsci-ru/public] 
-*** Twitter:
-**** https://twitter.com/jenkins_ru[https://twitter.com/jenkins_ru] 
-** Видео с кейноутов: https://www.cloudbees.com/devops-world/san-francisco/keynote-videos[https://www.cloudbees.com/devops-world/san-francisco/keynote-videos] 
+**** https://www.meetup.com/St-Petersburg-Jenkins-Meetup/[St. Petersburg Jenkins Meetup] 
+**** https://www.meetup.com/Moscow-Jenkins-Meetup/[Moscow Jenkins Meetup] 
+**** https://www.meetup.com/Belarus-Jenkins-Meetup/[Belarus Jenkins Meetup] 
+**** https://www.meetup.com/Yaroslavl-Jenkins-Meetup/[Yaroslavl Jenkins Meetup] 
+*** https://gitter.im/jenkinsci-ru/public[Чатик]
+*** https://twitter.com/jenkins_ru[Twitter]
+** https://www.cloudbees.com/devops-world/san-francisco/keynote-videos[Видео с кейноутов] 
 * Часть 1. О CloudBees
 ** Продукты
-*** CloudBees Core: https://www.cloudbees.com/products/cloudbees-core[https://www.cloudbees.com/products/cloudbees-core] 
-*** CloudBees CodeShip: https://www.cloudbees.com/products/cloudbees-codeship[https://www.cloudbees.com/products/cloudbees-codeship] 
-*** CloudBees DevOptics: https://www.cloudbees.com/products/cloudbees-devoptics[https://www.cloudbees.com/products/cloudbees-devoptics] 
-*** CloudBees Jenkins Support: https://www.cloudbees.com/products/cloudbees-jenkins-support[https://www.cloudbees.com/products/cloudbees-jenkins-support] 
-** Jenkins X
-*** Ссылка: https://jenkins-x.io/[https://jenkins-x.io/] 
-*** CloudBees KubeCD, limited availability: https://www.cloudbees.com/cloudbees-kube-cd[https://www.cloudbees.com/cloudbees-kube-cd] 
+*** https://www.cloudbees.com/products/cloudbees-core[CloudBees Core] 
+*** https://www.cloudbees.com/products/cloudbees-codeship[CloudBees CodeShip] 
+*** https://www.cloudbees.com/products/cloudbees-devoptics[CloudBees DevOptics] 
+*** https://www.cloudbees.com/products/cloudbees-jenkins-support[CloudBees Jenkins Support] 
+** https://jenkins-x.io/[Jenkins X]
+** https://www.cloudbees.com/cloudbees-kube-cd[CloudBees KubeCD], limited availability 
 ** SaaS - CloudBees и CodeShip
 *** Старые SaaS-продукты: CloudBees BuildHive и CloudBees DEV@cloud.
 **** UPD от Олега: в подкасте затронули только BuildHive, который был отключен в 2015. 
-**** DEV@cloud отключат в декабре 2018: https://support.cloudbees.com/hc/en-us/articles/360008971551-DEV-cloud-End-of-Life[https://support.cloudbees.com/hc/en-us/articles/360008971551-DEV-cloud-End-of-Life] 
-*** CodeShip Basic: https://codeship.com/features/basic[https://codeship.com/features/basic] . Работает “из коробки” с предустановленными компонентами
-*** CodeShip Pro: https://codeship.com/features/pro[https://codeship.com/features/pro] - полностью конфигурируемое решение
-*** Codeship Enterprise - решение с возможностью подключения on-premise компонентов: https://codeship.com/enterprise[https://codeship.com/enterprise]   
+**** https://support.cloudbees.com/hc/en-us/articles/360008971551-DEV-cloud-End-of-Life[DEV@cloud отключат в декабре 2018]  
+*** https://codeship.com/features/basic[CodeShip Basic] . Работает “из коробки” с предустановленными компонентами
+*** https://codeship.com/features/pro[CodeShip Pro] - полностью конфигурируемое решение
+*** https://codeship.com/enterprise[Codeship Enterprise] - решение с возможностью подключения on-premise компонентов    
 **** UPD от Олега: Как сказано в подкасте, это - все-таки не on-premise
 ** Зачем использовать?
 *** “CloudBees is Building the world's first end-to-end software delivery system”
@@ -82,24 +79,22 @@ categories:
 *** UPD Олега: слайды пока не опубликованы, но можно посмотреть мой блогпост и слайды с саммита контрибьюторов: 
 **** https://jenkins.io/blog/2018/09/12/speaker-blog-a-cloud-native-jenkins/[https://jenkins.io/blog/2018/09/12/speaker-blog-a-cloud-native-jenkins/] 
 **** https://speakerdeck.com/onenashev/jenkins-contributor-summit-2018-cloud-native-jenkins-update[https://speakerdeck.com/onenashev/jenkins-contributor-summit-2018-cloud-native-jenkins-update] 
-** Блогпост https://jenkins.io/blog/2018/08/31/shifting-gears/#about-the-author[Kohsuke Kawaguchi] “Jenkins: Shifting Gears”: https://jenkins.io/blog/2018/08/31/shifting-gears/[https://jenkins.io/blog/2018/08/31/shifting-gears/] 
-** Configuration-as-Code плагин: https://github.com/jenkinsci/configuration-as-code-plugin[https://github.com/jenkinsci/configuration-as-code-plugin] 
-** Pluggable Storage: https://jenkins.io/sigs/cloud-native/pluggable-storage/[https://jenkins.io/sigs/cloud-native/pluggable-storage/] 
-** Cloud Native SIG: https://jenkins.io/sigs/cloud-native/[https://jenkins.io/sigs/cloud-native/] 
-** Artifact Manager для Amazon S3: https://plugins.jenkins.io/artifact-manager-s3[https://plugins.jenkins.io/artifact-manager-s3] 
+** Блогпост https://jenkins.io/blog/2018/08/31/shifting-gears/#about-the-author[Kohsuke Kawaguchi] https://jenkins.io/blog/2018/08/31/shifting-gears/["Jenkins: Shifting Gears"] 
+** https://github.com/jenkinsci/configuration-as-code-plugin[Configuration-as-Code плагин]
+** https://jenkins.io/sigs/cloud-native/pluggable-storage/[Pluggable Storage] 
+** https://jenkins.io/sigs/cloud-native/[Cloud Native SIG] 
+** https://plugins.jenkins.io/artifact-manager-s3[Artifact Manager для Amazon S3] 
 ** Single-shot мастеры
-*** Jenkinsfile Runner: https://github.com/jenkinsci/jenkinsfile-runner[https://github.com/jenkinsci/jenkinsfile-runner] 
-*** Custom WAR Packager: https://github.com/jenkinsci/custom-war-packager[https://github.com/jenkinsci/custom-war-packager] 
+*** https://github.com/jenkinsci/jenkinsfile-runner[Jenkinsfile Runner] 
+*** https://github.com/jenkinsci/custom-war-packager[Custom WAR Packager] 
 * Часть 3. Другое
-** Jenkins Evergreen
-*** https://github.com/jenkins-infra/evergreen/[https://github.com/jenkins-infra/evergreen/] 
-** Следующий доклад Олега: “Common Pitfalls in Jenkins Security… and how to avoid them”: 
-*** Ссылка на доклад: https://devopsworldjenkinsworld2018.sched.com/event/F9NX/common-pitfalls-in-jenkins-security-and-how-to-avoid-them[https://devopsworldjenkinsworld2018.sched.com/event/F9NX/common-pitfalls-in-jenkins-security-and-how-to-avoid-them] 
+** https://github.com/jenkins-infra/evergreen/[Jenkins Evergreen]
+** Следующий доклад Олега: https://devopsworldjenkinsworld2018.sched.com/event/F9NX/common-pitfalls-in-jenkins-security-and-how-to-avoid-them[Common Pitfalls in Jenkins Security… and how to avoid them] 
 *** UPD от Олега: Слайдов/видео пока нет
 ** Что нового в SECURITY?
-**** JEP-200: https://jenkins.io/blog/2018/03/15/jep-200-lts/[https://jenkins.io/blog/2018/03/15/jep-200-lts/] 
-**** Плагины, затронутые JEP-200: https://wiki.jenkins.io/display/JENKINS/Plugins+affected+by+fix+for+JEP-200[https://wiki.jenkins.io/display/JENKINS/Plugins+affected+by+fix+for+JEP-200] 
-**** Новая система управления токенами: https://jenkins.io/blog/2018/07/02/new-api-token-system/[https://jenkins.io/blog/2018/07/02/new-api-token-system/] 
+**** https://jenkins.io/blog/2018/03/15/jep-200-lts/[JEP-200] 
+**** https://wiki.jenkins.io/display/JENKINS/Plugins+affected+by+fix+for+JEP-200[Плагины, затронутые JEP-200] 
+**** https://jenkins.io/blog/2018/07/02/new-api-token-system/[Новая система управления токенами] 
 ** Что посоветуешь слушателям?
 
 === О чём НЕ поговорили?
