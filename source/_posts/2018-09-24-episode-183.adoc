@@ -2,26 +2,16 @@
 comments: true
 categories: 
 ---
-= Episode 179 — РП: Java — Дайдждест — В поисках ниши
-2018-09-04 15:35
+= Episode 183 — РП: Java — Дайдждест — Много новостей
+2018-09-24 20:51
 :layout: post
 :filename: razbor_
 
 ++++
 <div class="separator" style="clear: both; text-align: center;">
-<a href="http://razbor-poletov.com/images/razbor_179_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_179_text.jpg" width="350" /></a>
+<a href="http://razbor-poletov.com/images/razbor_183_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_183_text.jpg" width="350" /></a>
 </div>
 ++++
-
-----
-Официальный Чат Разбора Полетов Телеграме 👇 👇 👇
-----
-* http://t.me/razbor_poletov_chat[ 🎉 🎉 🎉 Новый официальный чатик нашего подкаста в Telegram!!!]
-* https://t.me/addstickers/razbor_poletov[Официальный стикер-пак]
-* https://twitter.com/razbor_poletov/[Твиттер]
-* http://facebook.com/razborPoletovPodcast/[Facebook]
-
-<<<
 
 == Партнеры выпуска
 ****
@@ -38,12 +28,13 @@ categories:
 
 == Гости и участники
 
-* Витя
+* Барух
 * https://twitter.com/olegchir[Олег Чирухин]
 
 == Темы
 
-* https://jug.ru/2018/09/digest-week-73/[Java Дайджест №73]
+* https://jug.ru/2018/09/digest-week-76/[Java Дайджест №75]
+
 
 '''
 
@@ -57,14 +48,19 @@ http://razbor-poletov.com/broadcast.html[Информация о вещании]
 
 twitter:
 
+  * https://twitter.com/a_abashev[@a_abashev]
+  * https://twitter.com/antonarhipov[@antonarhipov]
+  * https://twitter.com/dzmitryc[@dzmitryc]
   * https://twitter.com/gamussa[@gamussa]
   * https://twitter.com/jbaruch[@jbaruch]
+  * https://twitter.com/shipilev[@shipilev]
+  * https://twitter.com/tolkv[@tolkv]
 
 ++++
 <!-- player goes here-->
 
 <audio preload="none">
-   <source src="http://traffic.libsyn.com/razborpoletov/razbor_179.mp3" type="audio/mp3" />
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_183.mp3" type="audio/mp3" />
    Your browser does not support the audio tag.
 </audio>
 ++++
@@ -73,7 +69,7 @@ twitter:
 
 ++++
 <!-- episode file link goes here-->
-<a href="http://traffic.libsyn.com/razborpoletov/razbor_179.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_183.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
 ++++
 
 Музыка ведущим http://www.audiobank.fm/single-music/27/111/More-And-Less/[предоставлена] и ладно...
