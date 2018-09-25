@@ -1,0 +1,140 @@
+---
+comments: true
+categories: 
+---
+= Episode 184 — РП: Devops - C Днем Рождения, Олег и Cloud Native Jenkins!
+2018-09-24 21:19
+:layout: post
+:filename: razbor_
+
+++++
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_184_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_184_text.jpg" width="350" /></a>
+</div>
+++++
+
+== Партнеры выпуска
+----
+👇 👇 👇 Официальный стикерпак Разбора Полетов и полуофициальный Чат pro.jvm в Телеграме 👇 👇 👇
+----
+* https://t.me/addstickers/razbor_poletov[стикеры]
+* https://t.me/jvmchat[pro.jvm]
+
+
+== Партнеры выпуска
+****
+👇 👇 👇 Конференция Joker 2018 уже анонсирована! 👇 👇 👇
+
+Промокод: Joker2018Razbor
+Работает только для https://jokerconf.com/buy/personal/  
+
+👇 👇 👇 Конференция DevOops 2018 уже анонсирована! 👇 👇 👇
+
+Промокод: DevOops2018Razbor
+****
+
+=== Гость
+
+* Олег Ненашев, мейнтейнер ядра Jenkins, ведущий инженер в CloudBees
+* Twitter: https://twitter.com/oleg_nenashev/[https://twitter.com/oleg_nenashev/] 
+* Github: https://github.com/oleg-nenashev/[https://github.com/oleg-nenashev/] 
+
+=== Структура/Ссылки 
+
+* Вступление:
+** Jenkins: https://jenkins.io/[https://jenkins.io/] 
+** CloudBees: https://www.cloudbees.com[https://www.cloudbees.com] 
+** Jenkins RU
+*** Митапы: 
+**** https://www.meetup.com/St-Petersburg-Jenkins-Meetup/[https://www.meetup.com/St-Petersburg-Jenkins-Meetup/] 
+**** https://www.meetup.com/Moscow-Jenkins-Meetup/[https://www.meetup.com/Moscow-Jenkins-Meetup/] 
+**** https://www.meetup.com/Belarus-Jenkins-Meetup/[https://www.meetup.com/Belarus-Jenkins-Meetup/] 
+**** https://www.meetup.com/Yaroslavl-Jenkins-Meetup/[https://www.meetup.com/Yaroslavl-Jenkins-Meetup/] 
+*** Чатик: 
+**** https://gitter.im/jenkinsci-ru/public[https://gitter.im/jenkinsci-ru/public] 
+*** Twitter:
+**** https://twitter.com/jenkins_ru[https://twitter.com/jenkins_ru] 
+** Видео с кейноутов: https://www.cloudbees.com/devops-world/san-francisco/keynote-videos[https://www.cloudbees.com/devops-world/san-francisco/keynote-videos] 
+* Часть 1. О CloudBees
+** Продукты
+*** CloudBees Core: https://www.cloudbees.com/products/cloudbees-core[https://www.cloudbees.com/products/cloudbees-core] 
+*** CloudBees CodeShip: https://www.cloudbees.com/products/cloudbees-codeship[https://www.cloudbees.com/products/cloudbees-codeship] 
+*** CloudBees DevOptics: https://www.cloudbees.com/products/cloudbees-devoptics[https://www.cloudbees.com/products/cloudbees-devoptics] 
+*** CloudBees Jenkins Support: https://www.cloudbees.com/products/cloudbees-jenkins-support[https://www.cloudbees.com/products/cloudbees-jenkins-support] 
+** Jenkins X
+*** Ссылка: https://jenkins-x.io/[https://jenkins-x.io/] 
+*** CloudBees KubeCD, limited availability: https://www.cloudbees.com/cloudbees-kube-cd[https://www.cloudbees.com/cloudbees-kube-cd] 
+** SaaS - CloudBees и CodeShip
+*** Старые SaaS-продукты: CloudBees BuildHive и CloudBees DEV@cloud.
+**** UPD от Олега: в подкасте затронули только BuildHive, который был отключен в 2015. 
+**** DEV@cloud отключат в декабре 2018: https://support.cloudbees.com/hc/en-us/articles/360008971551-DEV-cloud-End-of-Life[https://support.cloudbees.com/hc/en-us/articles/360008971551-DEV-cloud-End-of-Life] 
+*** CodeShip Basic: https://codeship.com/features/basic[https://codeship.com/features/basic] . Работает “из коробки” с предустановленными компонентами
+*** CodeShip Pro: https://codeship.com/features/pro[https://codeship.com/features/pro] - полностью конфигурируемое решение
+*** Codeship Enterprise - решение с возможностью подключения on-premise компонентов: https://codeship.com/enterprise[https://codeship.com/enterprise]   
+**** UPD от Олега: Как сказано в подкасте, это - все-таки не on-premise
+** Зачем использовать?
+*** “CloudBees is Building the world's first end-to-end software delivery system”
+*** Решение для любого масштаба инсталляций
+*** Профессиональная поддержка
+* Часть 2. Cloud Native Jenkins
+** Доклад Олега, http://github.com/jglick[Jesse Glick] и Carlos Sanchez. “A Cloud Native Jenkins”: 
+*** Доклад: http://sched.co/F9NT[http://sched.co/F9NT] 
+*** UPD Олега: слайды пока не опубликованы, но можно посмотреть мой блогпост и слайды с саммита контрибьюторов: 
+**** https://jenkins.io/blog/2018/09/12/speaker-blog-a-cloud-native-jenkins/[https://jenkins.io/blog/2018/09/12/speaker-blog-a-cloud-native-jenkins/] 
+**** https://speakerdeck.com/onenashev/jenkins-contributor-summit-2018-cloud-native-jenkins-update[https://speakerdeck.com/onenashev/jenkins-contributor-summit-2018-cloud-native-jenkins-update] 
+** Блогпост https://jenkins.io/blog/2018/08/31/shifting-gears/#about-the-author[Kohsuke Kawaguchi] “Jenkins: Shifting Gears”: https://jenkins.io/blog/2018/08/31/shifting-gears/[https://jenkins.io/blog/2018/08/31/shifting-gears/] 
+** Configuration-as-Code плагин: https://github.com/jenkinsci/configuration-as-code-plugin[https://github.com/jenkinsci/configuration-as-code-plugin] 
+** Pluggable Storage: https://jenkins.io/sigs/cloud-native/pluggable-storage/[https://jenkins.io/sigs/cloud-native/pluggable-storage/] 
+** Cloud Native SIG: https://jenkins.io/sigs/cloud-native/[https://jenkins.io/sigs/cloud-native/] 
+** Artifact Manager для Amazon S3: https://plugins.jenkins.io/artifact-manager-s3[https://plugins.jenkins.io/artifact-manager-s3] 
+** Single-shot мастеры
+*** Jenkinsfile Runner: https://github.com/jenkinsci/jenkinsfile-runner[https://github.com/jenkinsci/jenkinsfile-runner] 
+*** Custom WAR Packager: https://github.com/jenkinsci/custom-war-packager[https://github.com/jenkinsci/custom-war-packager] 
+* Часть 3. Другое
+** Jenkins Evergreen
+*** https://github.com/jenkins-infra/evergreen/[https://github.com/jenkins-infra/evergreen/] 
+** Следующий доклад Олега: “Common Pitfalls in Jenkins Security… and how to avoid them”: 
+*** Ссылка на доклад: https://devopsworldjenkinsworld2018.sched.com/event/F9NX/common-pitfalls-in-jenkins-security-and-how-to-avoid-them[https://devopsworldjenkinsworld2018.sched.com/event/F9NX/common-pitfalls-in-jenkins-security-and-how-to-avoid-them] 
+*** UPD от Олега: Слайдов/видео пока нет
+** Что нового в SECURITY?
+**** JEP-200: https://jenkins.io/blog/2018/03/15/jep-200-lts/[https://jenkins.io/blog/2018/03/15/jep-200-lts/] 
+**** Плагины, затронутые JEP-200: https://wiki.jenkins.io/display/JENKINS/Plugins+affected+by+fix+for+JEP-200[https://wiki.jenkins.io/display/JENKINS/Plugins+affected+by+fix+for+JEP-200] 
+**** Новая система управления токенами: https://jenkins.io/blog/2018/07/02/new-api-token-system/[https://jenkins.io/blog/2018/07/02/new-api-token-system/] 
+** Что посоветуешь слушателям?
+
+=== О чём НЕ поговорили?
+
+* Jolt in Jenkins: развитие Jenkins 2.
+** Смотрите слайды в https://jenkins.io/blog/2018/08/31/shifting-gears/[https://jenkins.io/blog/2018/08/31/shifting-gears/] , заходите в Gitter
+
+'''
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com[http://razbor-poletov.com]
+
+http://razbor-poletov.com/broadcast.html[Информация о вещании]
+
+Гости и участники:
+
+twitter:
+
+  * https://twitter.com/jbaruch[@jbaruch]
+
+++++
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_184.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+++++
+
+Подписаться по http://feeds.feedburner.com/razbor-podcast[RSS]
+
+++++
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_184.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+++++
+
+Музыка ведущим http://www.audiobank.fm/single-music/27/111/More-And-Less/[предоставлена] и ладно...
