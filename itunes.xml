@@ -6,8 +6,8 @@
     <atom:link href="http://razbor-poletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2018-09-25T01:26:58+00:00</pubDate>
-    <lastBuildDate>2018-09-25T01:26:58+00:00</lastBuildDate>
+    <pubDate>2018-09-25T05:59:21+00:00</pubDate>
+    <lastBuildDate>2018-09-25T05:59:21+00:00</lastBuildDate>
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razbor-poletov.com/logoB.jpg" />
@@ -842,7 +842,7 @@ twitter:
 <div class="ulist">
 <ul>
 <li>
-<p>Барух</p>
+<p><a href="https://twitter.com/jbaruch">Барух</a></p>
 </li>
 <li>
 <p><a href="https://twitter.com/olegchir">Олег Чирухин</a></p>
@@ -870,19 +870,6 @@ twitter:
 </div>
 <div class="paragraph">
 <p><a href="http://razbor-poletov.com/broadcast.html">Информация о вещании</a></p>
-</div>
-<div class="paragraph">
-<p>Гости и участники:</p>
-</div>
-<div class="paragraph">
-<p>twitter:</p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://twitter.com/jbaruch">@jbaruch</a></p>
-</li>
-</ul>
 </div>
 <!-- player goes here-->
 
@@ -966,19 +953,6 @@ Java Дайджест №75
 
 
 Информация о вещании
-
-
-Гости и участники:
-
-
-twitter:
-
-
-
-
-@jbaruch
-
-
 
 
 
