@@ -6,8 +6,8 @@
     <atom:link href="http://razbor-poletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2018-10-01T19:15:25+00:00</pubDate>
-    <lastBuildDate>2018-10-01T19:15:25+00:00</lastBuildDate>
+    <pubDate>2018-10-01T19:18:52+00:00</pubDate>
+    <lastBuildDate>2018-10-01T19:18:52+00:00</lastBuildDate>
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razbor-poletov.com/logoB.jpg" />
@@ -19,203 +19,6 @@
     </itunes:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:thumbnail url="http://razbor-poletov.com/logoB.jpg" />
-    
-    <item>
-      <title>Episode 186 — РП: Java — Дайдждест — Много новостей</title>
-      <link>http://razbor-poletov.com/2018/10/episode-186.html</link>
-      <pubDate>2018-10-01T00:00:00+00:00</pubDate>
-      <guid isPermalink="true">http://razbor-poletov.com/2018/10/episode-186</guid>
-      <description><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="http://razbor-poletov.com/images/razbor_186_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_186_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
-<div class="sectionbody">
-<div class="sidebarblock">
-<div class="content">
-<div class="paragraph">
-<p>👇 👇 👇 Конференция Joker 2018 уже анонсирована! 👇 👇 👇</p>
-</div>
-<div class="paragraph">
-<p>Промокод: Joker2018Razbor
-Работает только для <a href="https://jokerconf.com/buy/personal/" class="bare">https://jokerconf.com/buy/personal/</a></p>
-</div>
-<div class="paragraph">
-<p>👇 👇 👇 Конференция DevOops 2018 уже анонсирована! 👇 👇 👇</p>
-</div>
-<div class="paragraph">
-<p>Промокод: DevOops2018Razbor
-Работает только для <a href="https://devoops.ru/prices/#personal" class="bare">https://devoops.ru/prices/#personal</a></p>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Гости-и-участники">Гости и участники</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://twitter.com/olegchir">Олег Чирухин</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Темы">Темы</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://jug.ru/2018/10/digest-week-77">Java Дайджест №77</a></p>
-</li>
-</ul>
-</div>
-<hr>
-<div class="paragraph">
-<p>Наши контакты:</p>
-</div>
-<div class="paragraph">
-<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
-</div>
-<div class="paragraph">
-<p><a href="http://razbor-poletov.com/broadcast.html">Информация о вещании</a></p>
-</div>
-<div class="paragraph">
-<p>Гости и участники:</p>
-</div>
-<div class="paragraph">
-<p>twitter:</p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://twitter.com/a_abashev">@a_abashev</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
-</li>
-</ul>
-</div>
-<!-- player goes here-->
-
-<audio preload="none">
-   <source src="http://traffic.libsyn.com/razborpoletov/razbor_186.mp3" type="audio/mp3" />
-   Your browser does not support the audio tag.
-</audio>
-<div class="paragraph">
-<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
-</div>
-<!-- episode file link goes here-->
-<a href="http://traffic.libsyn.com/razborpoletov/razbor_186.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
-<div class="paragraph">
-<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
-</div>
-</div>
-</div>]]></description>
-      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
-      <itunes:summary><![CDATA[
-
-
-
-
-
-
-
-Партнеры выпуска
-
-
-
-
-👇 👇 👇 Конференция Joker 2018 уже анонсирована! 👇 👇 👇
-
-
-Промокод: Joker2018Razbor
-Работает только для https://jokerconf.com/buy/personal/
-
-
-👇 👇 👇 Конференция DevOops 2018 уже анонсирована! 👇 👇 👇
-
-
-Промокод: DevOops2018Razbor
-Работает только для https://devoops.ru/prices/#personal
-
-
-
-
-
-
-Гости и участники
-
-
-
-
-Олег Чирухин
-
-
-
-
-
-
-Темы
-
-
-
-
-Java Дайджест №77
-
-
-
-
-
-Наши контакты:
-
-
-Официальный сайт — http://razbor-poletov.com
-
-
-Информация о вещании
-
-
-Гости и участники:
-
-
-twitter:
-
-
-
-
-@a_abashev
-
-
-@gamussa
-
-
-
-
-
-
-   
-   Your browser does not support the audio tag.
-
-
-Подписаться по RSS
-
-
-
-
-Музыка ведущим предоставлена и ладно&#8230;&#8203;
-
-
-]]></itunes:summary>
-    </item>
     
     <item>
       <title>Episode 185 — РП: Leadership — CTO vs VP и прочие ругательства</title>
@@ -13759,6 +13562,211 @@ twitter:
 
 
 @golodnyj
+
+
+
+
+
+
+   
+   Your browser does not support the audio tag.
+
+
+Подписаться по RSS
+
+
+
+
+Музыка ведущим предоставлена и ладно&#8230;&#8203;
+
+
+]]></itunes:summary>
+    </item>
+    
+    <item>
+      <title>Episode 136 – РИТ Special: Прокрастинация как она есть</title>
+      <link>http://razbor-poletov.com/2017/06/episode-136.html</link>
+      <pubDate>2017-06-19T00:00:00+00:00</pubDate>
+      <guid isPermalink="true">http://razbor-poletov.com/2017/06/episode-136</guid>
+      <description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_136_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_136_text.jpg" width="350" /></a>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Спикер-конференции-РИТ-2017">Спикер конференции РИТ++ 2017</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Максим Дорофеев (@cartmendum)</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Резидент-подкаста-Подлодка">Резидент подкаста Подлодка:</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Глеб Новик</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Прокрастинация разработчиков и менеджеров</p>
+</li>
+<li>
+<p>Бабушка интуиция против</p>
+</li>
+<li>
+<p>Персональные ассистенты и девочки обезьяны</p>
+</li>
+<li>
+<p>Состояние потока для разработчика</p>
+</li>
+<li>
+<p>Планы на новые книги</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Чтиво">Чтиво</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Максим Дорофеев - <a href="https://www.mann-ivanov-ferber.ru/books/dzhedajskie-texniki/">Джедайские техники</a></p>
+</div>
+<hr>
+<div class="paragraph">
+<p>Наши контакты:</p>
+</div>
+<div class="paragraph">
+<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
+</div>
+<div class="paragraph">
+<p><a href="http://razbor-poletov.com/broadcast.html">Информация о вещании</a></p>
+</div>
+<div class="paragraph">
+<p>Гости и участники:</p>
+</div>
+<div class="paragraph">
+<p>twitter:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://twitter.com/cartmendum">@cartmendum</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/golodnyj">@golodnyj</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/tolkv">@tolkv</a></p>
+</li>
+</ul>
+</div>
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_136.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+<div class="paragraph">
+<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
+</div>
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_136.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+<div class="paragraph">
+<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
+</div>
+</div>
+</div>]]></description>
+      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[
+
+
+
+
+
+
+
+Спикер конференции РИТ++ 2017
+
+
+Максим Дорофеев (@cartmendum)
+
+
+
+
+Резидент подкаста Подлодка:
+
+
+Глеб Новик
+
+
+
+
+Темы
+
+
+
+
+Прокрастинация разработчиков и менеджеров
+
+
+Бабушка интуиция против
+
+
+Персональные ассистенты и девочки обезьяны
+
+
+Состояние потока для разработчика
+
+
+Планы на новые книги
+
+
+
+
+
+
+Чтиво
+
+
+Максим Дорофеев - Джедайские техники
+
+
+
+Наши контакты:
+
+
+Официальный сайт — http://razbor-poletov.com
+
+
+Информация о вещании
+
+
+Гости и участники:
+
+
+twitter:
+
+
+
+
+@cartmendum
+
+
+@golodnyj
+
+
+@tolkv
 
 
 
