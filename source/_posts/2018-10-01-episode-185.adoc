@@ -32,7 +32,6 @@ categories:
 Промокод: DevOops2018Razbor
 ****
 
-
 == Гости
 
 * https://twitter.com/ligolnik[@ligolnik] Леонид Игольник [с презентацией к нам еще никто не приходил!]
@@ -41,24 +40,23 @@ categories:
 == Темки
 
 * Интраверты и Экстраверты -- кто лучше в команде? [поговорим за либидо в имя Карла Юнга]
-* Куда из разработки если не в менеджмент? [дада, в очередной раз]
+* Куда из разработки если не в менеджмент?
 * Самый тяжелый момент в карьере https://twitter.com/ligolnik[@ligolnik] как менеджера [сочувствовать нужно Козуле]
 * Кто такой хороший менеджер? [пфф, кто то скажет -- нет мяса! Вот вам почитать https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205[Hard Thing About Hard Things]]
-* Какими бывают менеджеры? [если вам конечно интересно]
+* Какими бывают менеджеры?
 * Про культуру и позиции в компаниях [роли и обязанности в управлении компанией -- https://medium.com/engineering-leadership/defining-roles-cto-and-or-vp-engineering-f1c7563643a3[в картинках]]
-* Как не потерять нюх [инженер → менеджер]
-* Про стартапы -- С чего начинается стартап и где поднять бабла [должна быть реклама Azino Три топора]
-* Какая компания называется "`стартапом`". [Поговорим за понятия]
+* Как не потерять нюх
+* Про стартапы -- С чего начинается стартап и где поднять бабла
+* Какая компания называется "`стартапом`".
 * История JFrog Inc [https://twitter.com/jbaruch[@jbaruch]  уже столько с нами но не рассказывал, и бонус -- https://www.facebook.com/217057265035078/posts/308278409246296/?%5F%5Fxts%5F%5F%5B0%5D=68.ARDq_Xi_QiURUskOgYV7Ki1WwcBIf91EjxgzgaAKdpwhOZuXpvKqAkoR2ZrtZwgA9G4n9TBWfhzf9uV5RI2pJPQNOqA4NW86uEH-zZqKcqxXqoyr0FiA0hgWMzD3NFDz0CNXL4ShuqfVByrYLO0RnoXrtkdeaPNKZg&%5F%5Ftn%5F%5F=-R[UI Artifactory 1.0]]
-* История Signal FX [куда же без компании https://twitter.com/ligolnik[@ligolnik]]
-* Резко про APM 3х поколений [ну а как же]
+* История SignalFX
+* Резко про APM 3х поколений
 
 == Полезняшки
 
 . Просто книжка https://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805/ref=pd_sim_14_1?_encoding=UTF8&pd_rd_i=1594484805&pd_rd_r=ede9bec0-bd12-11e8-91c0-8d9d1b6891e3&pd_rd_w=MbsFY&pd_rd_wg=RX5hI&pf_rd_i=desktop-dp-sims&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=18bb0b78-4200-49b9-ac91-f141d61a1780&pf_rd_r=VEVCWX0X3V8XRK94RM8B&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=VEVCWX0X3V8XRK94RM8B[Drive]
 . https://www.npr.org/podcasts/510313/how-i-built-this[Подкаст про стартапы] -- how i built this [eng]
 . https://www.youtube.com/watch?v=7QeMULo7z6M[Defining a winning product]
-
 
 '''
 
