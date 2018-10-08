@@ -1,0 +1,68 @@
+---
+comments: true
+categories: 
+---
+= Episode 187 — РП: Java — Дайдждест — Kubernetes is new Java EE?
+2018-10-08 15:24
+:layout: post
+:filename: razbor_
+
+++++
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_187_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_187_text.jpg" width="350" /></a>
+</div>
+++++
+
+== Партнеры выпуска
+****
+👇 👇 👇 Конференция Joker 2018 уже анонсирована! 👇 👇 👇
+
+Промокод: Joker2018Razbor
+Работает только для https://jokerconf.com/buy/personal/  
+
+👇 👇 👇 Конференция DevOops 2018 уже анонсирована! 👇 👇 👇
+
+Промокод: DevOops2018Razbor
+Работает только для https://devoops.ru/prices/#personal
+****
+
+== Гости и участники
+
+* https://twitter.com/olegchir[Олег Чирухин]
+
+== Темы
+
+* https://jug.ru/2018/10/digest-week-78[Java Дайджест №78]
+
+'''
+
+Наши контакты:
+
+Официальный сайт — http://razbor-poletov.com[http://razbor-poletov.com]
+
+http://razbor-poletov.com/broadcast.html[Информация о вещании]
+
+Гости и участники:
+
+twitter:
+
+  * https://twitter.com/a_abashev[@a_abashev]
+  * https://twitter.com/gamussa[@gamussa]
+
+++++
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_187.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+++++
+
+Подписаться по http://feeds.feedburner.com/razbor-podcast[RSS]
+
+++++
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_187.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+++++
+
+Музыка ведущим http://www.audiobank.fm/single-music/27/111/More-And-Less/[предоставлена] и ладно...
