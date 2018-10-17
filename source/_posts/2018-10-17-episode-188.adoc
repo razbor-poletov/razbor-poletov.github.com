@@ -2,7 +2,7 @@
 comments: true
 categories: 
 ---
-= = Episode 188 — РП: Devops — Подальше от YAML
+= Episode 188 — РП: Devops — Подальше от YAML
 2018-10-17 11:48
 :layout: post
 :filename: razbor_
