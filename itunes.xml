@@ -6,8 +6,8 @@
     <atom:link href="http://razbor-poletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2018-10-17T18:24:33+00:00</pubDate>
-    <lastBuildDate>2018-10-17T18:24:33+00:00</lastBuildDate>
+    <pubDate>2018-10-17T19:00:10+00:00</pubDate>
+    <lastBuildDate>2018-10-17T19:00:10+00:00</lastBuildDate>
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razbor-poletov.com/logoB.jpg" />
@@ -19,6 +19,225 @@
     </itunes:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:thumbnail url="http://razbor-poletov.com/logoB.jpg" />
+    
+    <item>
+      <title>= Episode 188 — РП: Devops — Подальше от YAML</title>
+      <link>http://razbor-poletov.com/2018/10/episode-188.html</link>
+      <pubDate>2018-10-17T00:00:00+00:00</pubDate>
+      <guid isPermalink="true">http://razbor-poletov.com/2018/10/episode-188</guid>
+      <description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_188_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_188_text.jpg" width="350" /></a>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
+<div class="sectionbody">
+<div class="listingblock">
+<div class="content">
+<pre>👇 👇 👇 Официальный стикерпак Разбора Полетов и полуофициальный Чат pro.jvm в Телеграме 👇 👇 👇</pre>
+</div>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://t.me/addstickers/razbor_poletov">стикеры</a></p>
+</li>
+<li>
+<p><a href="https://t.me/jvmchat">pro.jvm</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Партнеры-выпуска-2">Партнеры выпуска</h2>
+<div class="sectionbody">
+<div class="sidebarblock">
+<div class="content">
+<div class="paragraph">
+<p>👇 👇 👇 Конференция Joker 2018 уже анонсирована! 👇 👇 👇</p>
+</div>
+<div class="paragraph">
+<p>Промокод: Joker2018Razbor
+Работает только для <a href="https://jokerconf.com/buy/personal/" class="bare">https://jokerconf.com/buy/personal/</a></p>
+</div>
+<div class="paragraph">
+<p>== Гости и участники</p>
+</div>
+<div class="paragraph">
+<p>Были: Леонид голодный Барух</p>
+</div>
+<div class="paragraph">
+<p>== Темки</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Что говорил Джон?</p>
+</li>
+<li>
+<p>Ревью докладов конференции DevOops 2018</p>
+</li>
+<li>
+<p>Барух против</p>
+</li>
+<li>
+<p>Приглашение на Joker</p>
+</li>
+</ul>
+</div>
+<hr>
+<div class="paragraph">
+<p>Наши контакты:</p>
+</div>
+<div class="paragraph">
+<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
+</div>
+<div class="paragraph">
+<p><a href="http://razbor-poletov.com/broadcast.html">Информация о вещании</a></p>
+</div>
+<div class="paragraph">
+<p>Гости и участники:</p>
+</div>
+<div class="paragraph">
+<p>twitter:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://twitter.com/jbaruch">@jbaruch</a></p>
+</li>
+</ul>
+</div>
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_188.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+<div class="paragraph">
+<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
+</div>
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_188.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+<div class="paragraph">
+<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
+</div>
+</div>
+</div>
+</div>
+</div>]]></description>
+      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[
+
+
+
+
+
+
+
+Партнеры выпуска
+
+
+
+👇 👇 👇 Официальный стикерпак Разбора Полетов и полуофициальный Чат pro.jvm в Телеграме 👇 👇 👇
+
+
+
+
+
+стикеры
+
+
+pro.jvm
+
+
+
+
+
+
+Партнеры выпуска
+
+
+
+
+👇 👇 👇 Конференция Joker 2018 уже анонсирована! 👇 👇 👇
+
+
+Промокод: Joker2018Razbor
+Работает только для https://jokerconf.com/buy/personal/
+
+
+== Гости и участники
+
+
+Были: Леонид голодный Барух
+
+
+== Темки
+
+
+
+
+Что говорил Джон?
+
+
+Ревью докладов конференции DevOops 2018
+
+
+Барух против
+
+
+Приглашение на Joker
+
+
+
+
+
+Наши контакты:
+
+
+Официальный сайт — http://razbor-poletov.com
+
+
+Информация о вещании
+
+
+Гости и участники:
+
+
+twitter:
+
+
+
+
+@jbaruch
+
+
+
+
+
+
+   
+   Your browser does not support the audio tag.
+
+
+Подписаться по RSS
+
+
+
+
+Музыка ведущим предоставлена и ладно&#8230;&#8203;
+
+
+
+
+]]></itunes:summary>
+    </item>
     
     <item>
       <title>Episode 187 — РП: Java — Дайдждест — Kubernetes is new Java EE?</title>
@@ -13249,475 +13468,6 @@ Optional improvements in Java 9
 
 
 
-
-
-
-
-
-Наши контакты:
-
-
-Официальный сайт — http://razbor-poletov.com
-
-
-Информация о вещании
-
-
-Гости и участники:
-
-
-twitter:
-
-
-
-
-@a_abashev
-
-
-@antonarhipov
-
-
-@dzmitryc
-
-
-@gamussa
-
-
-@jbaruch
-
-
-@shipilev
-
-
-@tolkv
-
-
-
-
-
-
-   
-   Your browser does not support the audio tag.
-
-
-Подписаться по RSS
-
-
-
-
-Музыка ведущим предоставлена и ладно&#8230;&#8203;
-
-
-]]></itunes:summary>
-    </item>
-    
-    <item>
-      <title>Episode 138 — Чемпионы и Котлин</title>
-      <link>http://razbor-poletov.com/2017/06/episode-138.html</link>
-      <pubDate>2017-06-28T00:00:00+00:00</pubDate>
-      <guid isPermalink="true">http://razbor-poletov.com/2017/06/episode-138</guid>
-      <description><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="http://razbor-poletov.com/images/razbor_138_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_138_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Гости">Гости</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p>Роман Елизаров <a href="https://twitter.com/relizarov">@relizarov</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Темки">Темки</h2>
-<div class="sectionbody">
-<div class="olist arabic">
-<ol class="arabic">
-<li>
-<p>Twitch и Шипилев и как Леша соперничает с блогером “Кариной” а.к.а. летсплей</p>
-</li>
-<li>
-<p>Как Роман пришел в ACM ICPC</p>
-</li>
-<li>
-<p>Команда ИТМО снова победила <strong>ICPC </strong>– какое отношение к этому имеет Роман?</p>
-<div class="olist loweralpha">
-<ol class="loweralpha" type="a">
-<li>
-<p><a href="http://icpcnews.tumblr.com/post/161036626694/the-results-are-in-from-rapid-city">ICPC and ITMO – gold medal</a></p>
-</li>
-<li>
-<p><a href="https://habrahabr.ru/company/spbifmo/blog/301098">Онлайн-трансляция ACM ICPC: Как это устроен</a>о</p>
-</li>
-<li>
-<p>Какова судьба участников/победителей ICPC</p>
-</li>
-</ol>
-</div>
-</li>
-<li>
-<p>DevExperts и чем занимался Роман, что привело в финансовую математику</p>
-<div class="olist loweralpha">
-<ol class="loweralpha" type="a">
-<li>
-<p>Какие бывают задачи в “кванте”?</p>
-</li>
-</ol>
-</div>
-</li>
-<li>
-<p>Рома и JetBrains – как, почему, зачем</p>
-</li>
-<li>
-<p>Kotlin – как Роман способствовал становления Котлина?)</p>
-<div class="olist loweralpha">
-<ol class="loweralpha" type="a">
-<li>
-<p><a href="https://blog.jetbrains.com/kotlin/2017/05/kotlin-on-android-now-official">Kotlin on Android</a>. First class citizen support</p>
-<div class="olist lowerroman">
-<ol class="lowerroman" type="i">
-<li>
-<p>Google promote Kotlin on Google IO</p>
-</li>
-<li>
-<p>Можно упомянуть про KotlinConf</p>
-</li>
-<li>
-<p><a href="https://twitter.com/relizarov/status/865265905185542144" class="bare">https://twitter.com/relizarov/status/865265905185542144</a> What about Android architecture feature with Kotlin</p>
-</li>
-</ol>
-</div>
-</li>
-<li>
-<p>Любовный треугольник: <a href="https://vimeo.com/221399691">Kotlin + Spring = &lt;3</a>.  А как же Groovy?</p>
-</li>
-</ol>
-</div>
-</li>
-<li>
-<p>Kotlin – будущее. Раз Рома отвечает за него, то классно было бы услышать vision Kotlin как продукта :)</p>
-<div class="olist loweralpha">
-<ol class="loweralpha" type="a">
-<li>
-<p>ну и конечно же, зачем Kotlin JetBrains. <a href="http://www.forbes.ru/tehnologii/345781-andrey-breslav-jetbrains-pryamoy-monetizacii-yazykov-programmirovaniya-skoree">Уже вложили 15 млн</a>, к чему все это?: )</p>
-</li>
-<li>
-<p>корутины!!</p>
-</li>
-</ol>
-</div>
-</li>
-</ol>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Факты">Факты</h2>
-<div class="sectionbody">
-<div class="olist arabic">
-<ol class="arabic">
-<li>
-<p>Роман Елизаров рассказывал про Kotlin – народу тьма!</p>
-</li>
-</ol>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Мероприятия">Мероприятия</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://jugmsk.timepad.ru/event/511609">JUG Msk Cuba Platform изнутри</a></p>
-</li>
-<li>
-<p>Done <a href="http://bit.ly/2s1f9ad">Курс Якова про Angular</a> - Angular online workshop on Razor Poletov. The promo code <strong>razborpoletov</strong> will lower the tuition fee by 15%.</p>
-</li>
-<li>
-<p>Лёня на Kiev JUG (Повтор <a href="http://odjug.blogspot.ru/2017/06/java.html?m=1">Одесса JUG)</a></p>
-</li>
-<li>
-<p>GeekOut прошел, видео докладов скоро будут.</p>
-<div class="ulist">
-<ul>
-<li>
-<p>Реактивный Spring <a href="https://vimeo.com/221399691" class="bare">https://vimeo.com/221399691</a></p>
-</li>
-</ul>
-</div>
-</li>
-<li>
-<p>РИТ++ прошел</p>
-</li>
-<li>
-<p>Done Видосики с swampUP–a</p>
-</li>
-<li>
-<p><a href="http://www.devoxx.pl">http://www.devoxx.pl</a></p>
-</li>
-<li>
-<p>20 Октября <a href="http://devops.jugru.org">DevOpsConf</a></p>
-</li>
-<li>
-<p>21 Октября <a href="https://smartdataconf.ru">SmartData</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Полезняшки">Полезняшки</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://vimeo.com/221399691">Functional web applications with Spring and Kotlin - Sebastien Deleuze</a></p>
-</li>
-<li>
-<p><a href="https://2017.geekout.ee/videos/#day2-10">Co-routines by Roman</a></p>
-</li>
-<li>
-<p><a href="https://habrahabr.ru/company/spbifmo/blog/301098">Как устроена трансляция ACP ICPC</a></p>
-</li>
-</ul>
-</div>
-<hr>
-<div class="paragraph">
-<p>Наши контакты:</p>
-</div>
-<div class="paragraph">
-<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
-</div>
-<div class="paragraph">
-<p><a href="http://razbor-poletov.com/broadcast.html">Информация о вещании</a></p>
-</div>
-<div class="paragraph">
-<p>Гости и участники:</p>
-</div>
-<div class="paragraph">
-<p>twitter:</p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://twitter.com/a_abashev">@a_abashev</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/antonarhipov">@antonarhipov</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/dzmitryc">@dzmitryc</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/jbaruch">@jbaruch</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/shipilev">@shipilev</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/tolkv">@tolkv</a></p>
-</li>
-</ul>
-</div>
-<!-- player goes here-->
-
-<audio preload="none">
-   <source src="http://traffic.libsyn.com/razborpoletov/razbor_138.mp3" type="audio/mp3" />
-   Your browser does not support the audio tag.
-</audio>
-<div class="paragraph">
-<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
-</div>
-<!-- episode file link goes here-->
-<a href="http://traffic.libsyn.com/razborpoletov/razbor_138.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
-<div class="paragraph">
-<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
-</div>
-</div>
-</div>]]></description>
-      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
-      <itunes:summary><![CDATA[
-
-
-
-
-
-
-
-Гости
-
-
-
-
-Роман Елизаров @relizarov
-
-
-
-
-
-
-Темки
-
-
-
-
-Twitch и Шипилев и как Леша соперничает с блогером “Кариной” а.к.а. летсплей
-
-
-Как Роман пришел в ACM ICPC
-
-
-Команда ИТМО снова победила ICPC – какое отношение к этому имеет Роман?
-
-
-
-ICPC and ITMO – gold medal
-
-
-Онлайн-трансляция ACM ICPC: Как это устроено
-
-
-Какова судьба участников/победителей ICPC
-
-
-
-
-
-DevExperts и чем занимался Роман, что привело в финансовую математику
-
-
-
-Какие бывают задачи в “кванте”?
-
-
-
-
-
-Рома и JetBrains – как, почему, зачем
-
-
-Kotlin – как Роман способствовал становления Котлина?)
-
-
-
-Kotlin on Android. First class citizen support
-
-
-
-Google promote Kotlin on Google IO
-
-
-Можно упомянуть про KotlinConf
-
-
-https://twitter.com/relizarov/status/865265905185542144 What about Android architecture feature with Kotlin
-
-
-
-
-
-Любовный треугольник: Kotlin + Spring = &lt;3.  А как же Groovy?
-
-
-
-
-
-Kotlin – будущее. Раз Рома отвечает за него, то классно было бы услышать vision Kotlin как продукта :)
-
-
-
-ну и конечно же, зачем Kotlin JetBrains. Уже вложили 15 млн, к чему все это?: )
-
-
-корутины!!
-
-
-
-
-
-
-
-
-
-Факты
-
-
-
-
-Роман Елизаров рассказывал про Kotlin – народу тьма!
-
-
-
-
-
-
-Мероприятия
-
-
-
-
-JUG Msk Cuba Platform изнутри
-
-
-Done Курс Якова про Angular - Angular online workshop on Razor Poletov. The promo code razborpoletov will lower the tuition fee by 15%.
-
-
-Лёня на Kiev JUG (Повтор Одесса JUG)
-
-
-GeekOut прошел, видео докладов скоро будут.
-
-
-
-Реактивный Spring https://vimeo.com/221399691
-
-
-
-
-
-РИТ++ прошел
-
-
-Done Видосики с swampUP–a
-
-
-http://www.devoxx.pl
-
-
-20 Октября DevOpsConf
-
-
-21 Октября SmartData
-
-
-
-
-
-
-Полезняшки
-
-
-
-
-Functional web applications with Spring and Kotlin - Sebastien Deleuze
-
-
-Co-routines by Roman
-
-
-Как устроена трансляция ACP ICPC
 
 
 

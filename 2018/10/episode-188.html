@@ -5,11 +5,11 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>Episode 142 – Кафка и OpenJDK - Подкаст «Разбор Полетов»</title>
+  <title>= Episode 188 — РП: Devops — Подальше от YAML - Подкаст «Разбор Полетов»</title>
   <meta name="author" content="Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky">
 
   
-  <meta name="description" content="Гости Все свои Мероприятия Joker 3-4 Ноября KafkaSummit Темы KafkaSummit и что нам приготовил Confluent [NYC] [SF] Java хотят релизить чаще Moving &hellip;">
+  <meta name="description" content="Партнеры выпуска 👇 👇 👇 Официальный стикерпак Разбора Полетов и полуофициальный Чат pro.jvm в Телеграме 👇 👇 👇 стикеры pro.jvm Партнеры выпуска 👇 👇 👇 &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -18,7 +18,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://razbor-poletov.com/2017/10/episode-142.html">
+  <link rel="canonical" href="http://razbor-poletov.com/2018/10/episode-188.html">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <!-- <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script> -->
@@ -119,7 +119,7 @@ $(document).ready(function() {
   
   <header>
     
-      <h1 class="entry-title">Episode 142 – Кафка и OpenJDK</h1>
+      <h1 class="entry-title">= Episode 188 — РП: Devops — Подальше от YAML</h1>
     
     
       <p class="meta">
@@ -135,7 +135,7 @@ $(document).ready(function() {
   
 
 
-<time datetime="2017-10-01T00:00:00+00:00" pubdate data-updated="true">Oct 1<span>st</span>, 2017</time>
+<time datetime="2018-10-17T00:00:00+00:00" pubdate data-updated="true">Oct 17<span>th</span>, 2018</time>
         
          | <a href="#disqus_thread">Comments</a>
         
@@ -147,126 +147,66 @@ $(document).ready(function() {
 <div class="entry-content"><div id="preamble">
 <div class="sectionbody">
 <div class="separator" style="clear: both; text-align: center;">
-<a href="http://razbor-poletov.com/images/razbor_142_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_142_text.jpg" width="350" /></a>
+<a href="http://razbor-poletov.com/images/razbor_188_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_188_text.jpg" width="350" /></a>
 </div>
 </div>
 </div>
 <div class="sect1">
-<h2 id="Гости">Гости</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p>Все свои</p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Мероприятия">Мероприятия</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://jokerconf.com">Joker</a> 3-4 Ноября</p>
-</li>
-<li>
-<p><a href="https://kafka-summit.org">KafkaSummit</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Темы">Темы</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p>KafkaSummit и что нам приготовил Confluent <strong><a href="https://www.confluent.io/kafka-summit-nyc17/resource/">[NYC</a>]</strong> <strong><a href="https://www.confluent.io/kafka-summit-sf17/resource/">[SF</a>]</strong></p>
-</li>
-<li>
-<p>Java хотят релизить чаще</p>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://mreinhold.org/blog/forward-faster">Moving Java Forward Faster</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/mreinhold/status/905476085256617985">И чем это грозит</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/DonaldOJDK/status/905734415984320513" class="bare">https://twitter.com/DonaldOJDK/status/905734415984320513</a></p>
-</li>
-<li>
-<p><a href="https://adoptopenjdk.net/" class="bare">https://adoptopenjdk.net/</a></p>
-</li>
-<li>
-<p><a href="https://ci.adoptopenjdk.net/" class="bare">https://ci.adoptopenjdk.net/</a></p>
-</li>
-<li>
-<p><a href="https://github.com/AdoptOpenJDK" class="bare">https://github.com/AdoptOpenJDK</a></p>
-</li>
-</ul>
-</div>
-</li>
-<li>
-<p><a href="https://blogs.oracle.com/theaquarium/opening-up-ee-update">Java EE всё?</a></p>
-</li>
-<li>
-<p><a href="https://www.theregister.co.uk/2017/09/04/oracle_layoffs_solaris_sparc_teams">Solaris все?</a></p>
-</li>
-<li>
-<p>Flight Recorder перекочует в OpenJDK. <a href="https://blogs.oracle.com/java-platform-group/faster-and-easier-use-and-redistribution-of-java-se">Оракл отдает платные фичи в опенсорс</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Полезняшки">Полезняшки</h2>
-<div class="sectionbody">
-<div class="olist arabic">
-<ol class="arabic">
-<li>
-<p><a href="https://vimeo.com/javazone">JavaZone Vimeo</a></p>
-</li>
-<li>
-<p>Kafka Summit <a href="https://www.confluent.io/kafka-summit-sf17/resource/" class="bare">https://www.confluent.io/kafka-summit-sf17/resource/</a></p>
-</li>
-<li>
-<p>Вышел <a href="https://www.sublimetext.com/blog/articles/sublime-text-3-point-0">Sublime Text 3</a></p>
-</li>
-<li>
-<p>Релизнулся <a href="https://github.com/junit-team/junit5/releases">JUnit 5</a></p>
-</li>
-</ol>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="timeline">Timeline</h2>
+<h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
 <div class="sectionbody">
 <div class="listingblock">
 <div class="content">
-<pre>10-00 Не одним агентом JRebel единым :)
-12-00 KafkaSummit
-14-20 Kafka 0.11 – Революция. 1.0 уже не так масштабно
-15-30 Kafka 1.0 – Ждем в конце октября
-18-00 Почему 1.0 именно сейчас?
-20-00 Confluent Platform – Что ты такое
-27-00 Все продукты Confluent написаны на Java :)
-30-00 Schema Registry
-41-00 OpenJDK и OracleJDK сблизятся
-44-00 Нумерация Java – Naming is hard, Class Version is hard
-50-00 Частые релизы Java и к чему это ведёт
-1-05 Сертификация X на соответствие какой то версии Java (см JavaEE)
-1-11 javaslang попросили переименовать в vavr, а RxJava живет как то
-1-17 Flight Recorder перекочует в OpenJDK. https://blogs.oracle.com/java-platform-group/faster-and-easier-use-and-redistribution-of-java-se[Оракл отдает платные фичи в опенсорс]
-1-23 За С++ не стоит большой компании, но живет же как то
-1-30 Finish him!</pre>
+<pre>👇 👇 👇 Официальный стикерпак Разбора Полетов и полуофициальный Чат pro.jvm в Телеграме 👇 👇 👇</pre>
 </div>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://t.me/addstickers/razbor_poletov">стикеры</a></p>
+</li>
+<li>
+<p><a href="https://t.me/jvmchat">pro.jvm</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Партнеры-выпуска-2">Партнеры выпуска</h2>
+<div class="sectionbody">
+<div class="sidebarblock">
+<div class="content">
+<div class="paragraph">
+<p>👇 👇 👇 Конференция Joker 2018 уже анонсирована! 👇 👇 👇</p>
+</div>
+<div class="paragraph">
+<p>Промокод: Joker2018Razbor
+Работает только для <a href="https://jokerconf.com/buy/personal/" class="bare">https://jokerconf.com/buy/personal/</a></p>
+</div>
+<div class="paragraph">
+<p>== Гости и участники</p>
+</div>
+<div class="paragraph">
+<p>Были: Леонид голодный Барух</p>
+</div>
+<div class="paragraph">
+<p>== Темки</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Что говорил Джон?</p>
+</li>
+<li>
+<p>Ревью докладов конференции DevOops 2018</p>
+</li>
+<li>
+<p>Барух против</p>
+</li>
+<li>
+<p>Приглашение на Joker</p>
+</li>
+</ul>
 </div>
 <hr>
 <div class="paragraph">
@@ -287,32 +227,25 @@ $(document).ready(function() {
 <div class="ulist">
 <ul>
 <li>
-<p><a href="https://twitter.com/antonarhipov">@antonarhipov</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/tolkv">@tolkv</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/johnwings">@johnwings</a></p>
+<p><a href="https://twitter.com/jbaruch">@jbaruch</a></p>
 </li>
 </ul>
 </div>
 <!-- player goes here-->
 
 <audio preload="none">
-   <source src="http://traffic.libsyn.com/razborpoletov/razbor_142.mp3" type="audio/mp3" />
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_188.mp3" type="audio/mp3" />
    Your browser does not support the audio tag.
 </audio>
 <div class="paragraph">
 <p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
 </div>
 <!-- episode file link goes here-->
-<a href="http://traffic.libsyn.com/razborpoletov/razbor_142.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_188.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
 <div class="paragraph">
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
+</div>
+</div>
 </div>
 </div>
 </div></div>
@@ -323,7 +256,7 @@ $(document).ready(function() {
       
   
 
-<span class="byline author vcard">Posted by <span class="fn">2017-10-01 21:45</span></span>
+<span class="byline author vcard">Posted by <span class="fn">2018-10-17 11:48</span></span>
 
       
 
@@ -337,7 +270,7 @@ $(document).ready(function() {
   
 
 
-<time datetime="2017-10-01T00:00:00+00:00" pubdate data-updated="true">Oct 1<span>st</span>, 2017</time>
+<time datetime="2018-10-17T00:00:00+00:00" pubdate data-updated="true">Oct 17<span>th</span>, 2018</time>
       
 
 
@@ -356,10 +289,8 @@ $(document).ready(function() {
     
     <p class="meta">
       
-        <a class="basic-alignment left" href="/2017/10/episode-141.html" title="Previous Post: Episode 141 — Засунь что-нибудь в Docker!">&laquo; Episode 141 — Засунь что-нибудь в Docker!</a>
+        <a class="basic-alignment left" href="/2018/10/episode-187.html" title="Previous Post: Episode 187 — РП: Java — Дайдждест — Kubernetes is new Java EE?">&laquo; Episode 187 — РП: Java — Дайдждест — Kubernetes is new Java EE?</a>
       
-      
-        <a class="basic-alignment right" href="/2017/10/episode-143.html" title="Next Post: Episode 143 — JavaOne Special ThreadPool Karaoke">Episode 143 — JavaOne Special ThreadPool Karaoke &raquo;</a>
       
     </p>
   </footer>
@@ -485,8 +416,8 @@ $(document).ready(function() {
       
         
         // var disqus_developer = 1;
-        var disqus_identifier = 'http://razbor-poletov.com/2017/10/episode-142.html';
-        var disqus_url = 'http://razbor-poletov.com/2017/10/episode-142.html';
+        var disqus_identifier = 'http://razbor-poletov.com/2018/10/episode-188.html';
+        var disqus_url = 'http://razbor-poletov.com/2018/10/episode-188.html';
         var disqus_script = 'embed.js';
       
 
@@ -500,7 +431,7 @@ $(document).ready(function() {
 
 <script>
     gapi.comments.render('gplus-pingback', { 
-	    href: 'http://razbor-poletov.com/2017/10/episode-142.html',
+	    href: 'http://razbor-poletov.com/2018/10/episode-188.html',
         first_party_property: 'BLOGGER',
         view_type: 'FILTERED_POSTMOD'
     });
