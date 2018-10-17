@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
   <link href="http://razbor-poletov.com/"/>
-  <updated>2018-10-17T19:00:10+00:00</updated>
+  <updated>2018-10-17T19:11:19+00:00</updated>
   <id>http://razbor-poletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[= Episode 188 — РП: Devops — Подальше от YAML]]></title>
+    <title type="html"><![CDATA[Episode 188 — РП: Devops — Подальше от YAML]]></title>
     <link href="http://razbor-poletov.com/2018/10/episode-188.html"/>
     <updated>2018-10-17T00:00:00+00:00</updated>
     <id>http://razbor-poletov.com/2018/10/episode-188</id>
