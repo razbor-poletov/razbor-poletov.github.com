@@ -9,7 +9,7 @@ categories:
 
 ++++
 <div class="separator" style="clear: both; text-align: center;">
-<a href="http://razbor-poletov.com/images/{filename}_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/{filename}_text.jpg" width="350" /></a>
+<a href="http://razbor-poletov.com/images/razbor_189_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_189_text.jpg" width="350" /></a>
 </div>
 ++++
 
@@ -48,7 +48,7 @@ twitter:
 <!-- player goes here-->
 
 <audio preload="none">
-   <source src="http://traffic.libsyn.com/razborpoletov/{filename}.mp3" type="audio/mp3" />
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_189.mp3" type="audio/mp3" />
    Your browser does not support the audio tag.
 </audio>
 ++++
@@ -57,7 +57,7 @@ twitter:
 
 ++++
 <!-- episode file link goes here-->
-<a href="http://traffic.libsyn.com/razborpoletov/{filename}.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_189.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
 ++++
 
 Музыка ведущим http://www.audiobank.fm/single-music/27/111/More-And-Less/[предоставлена] и ладно...
