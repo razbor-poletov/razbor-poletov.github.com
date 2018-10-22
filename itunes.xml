@@ -6,8 +6,8 @@
     <atom:link href="http://razbor-poletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2018-10-22T22:08:34+00:00</pubDate>
-    <lastBuildDate>2018-10-22T22:08:34+00:00</lastBuildDate>
+    <pubDate>2018-10-22T22:52:18+00:00</pubDate>
+    <lastBuildDate>2018-10-22T22:52:18+00:00</lastBuildDate>
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razbor-poletov.com/logoB.jpg" />
@@ -19,6 +19,197 @@
     </itunes:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:thumbnail url="http://razbor-poletov.com/logoB.jpg" />
+    
+    <item>
+      <title>Episode 189 — РП: Java — Дайдждест — Святой Eclipse и Апостол его Андрей</title>
+      <link>http://razbor-poletov.com/2018/10/episode-189.html</link>
+      <pubDate>2018-10-22T00:00:00+00:00</pubDate>
+      <guid isPermalink="true">http://razbor-poletov.com/2018/10/episode-189</guid>
+      <description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/{filename}_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/{filename}_text.jpg" width="350" /></a>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
+<div class="sectionbody">
+<div class="listingblock">
+<div class="content">
+<pre>👇 👇 👇 Официальный стикерпак Разбора Полетов и полуофициальный Чат pro.jvm в Телеграме 👇 👇 👇</pre>
+</div>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://t.me/addstickers/razbor_poletov">стикеры</a></p>
+</li>
+<li>
+<p><a href="https://t.me/jvmchat">pro.jvm</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://twitter.com/olegchir">Олег Чирухин</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/akogun">Андрей Когунь</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://jug.ru/2018/10/digest-week-79/">Java Дайджест №79</a></p>
+</li>
+</ul>
+</div>
+<hr>
+<div class="paragraph">
+<p>Наши контакты:</p>
+</div>
+<div class="paragraph">
+<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
+</div>
+<div class="paragraph">
+<p><a href="http://razbor-poletov.com/broadcast.html">Информация о вещании</a></p>
+</div>
+<div class="paragraph">
+<p>Гости и участники:</p>
+</div>
+<div class="paragraph">
+<p>twitter:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://twitter.com/a_abashev">@a_abashev</a></p>
+</li>
+</ul>
+</div>
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/{filename}.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+<div class="paragraph">
+<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
+</div>
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/{filename}.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+<div class="paragraph">
+<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
+</div>
+</div>
+</div>]]></description>
+      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[
+
+
+
+
+
+
+
+Партнеры выпуска
+
+
+
+👇 👇 👇 Официальный стикерпак Разбора Полетов и полуофициальный Чат pro.jvm в Телеграме 👇 👇 👇
+
+
+
+
+
+стикеры
+
+
+pro.jvm
+
+
+
+
+
+
+Гости и участники
+
+
+
+
+Олег Чирухин
+
+
+Андрей Когунь
+
+
+
+
+
+
+Темы
+
+
+
+
+Java Дайджест №79
+
+
+
+
+
+Наши контакты:
+
+
+Официальный сайт — http://razbor-poletov.com
+
+
+Информация о вещании
+
+
+Гости и участники:
+
+
+twitter:
+
+
+
+
+@a_abashev
+
+
+
+
+
+
+   
+   Your browser does not support the audio tag.
+
+
+Подписаться по RSS
+
+
+
+
+Музыка ведущим предоставлена и ладно&#8230;&#8203;
+
+
+]]></itunes:summary>
+    </item>
     
     <item>
       <title>Episode 188 — РП: Devops — Подальше от YAML</title>
@@ -254,6 +445,21 @@ twitter:
 <div class="sect1">
 <h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
 <div class="sectionbody">
+<div class="listingblock">
+<div class="content">
+<pre>👇 👇 👇 Официальный стикерпак Разбора Полетов и полуофициальный Чат pro.jvm в Телеграме 👇 👇 👇</pre>
+</div>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://t.me/addstickers/razbor_poletov">стикеры</a></p>
+</li>
+<li>
+<p><a href="https://t.me/jvmchat">pro.jvm</a></p>
+</li>
+</ul>
+</div>
 <div class="sidebarblock">
 <div class="content">
 <div class="paragraph">
@@ -349,6 +555,21 @@ twitter:
 
 
 Партнеры выпуска
+
+
+
+👇 👇 👇 Официальный стикерпак Разбора Полетов и полуофициальный Чат pro.jvm в Телеграме 👇 👇 👇
+
+
+
+
+
+стикеры
+
+
+pro.jvm
+
+
 
 
 
@@ -663,11 +884,6 @@ twitter:
 </li>
 </ul>
 </div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Партнеры-выпуска-2">Партнеры выпуска</h2>
-<div class="sectionbody">
 <div class="sidebarblock">
 <div class="content">
 <div class="paragraph">
@@ -831,11 +1047,6 @@ twitter:
 pro.jvm
 
 
-
-
-
-
-Партнеры выпуска
 
 
 
@@ -13151,323 +13362,6 @@ Java Bullshifier
 
 
 01:05 Писал ли Виктор код на доске и что он рассказывал на собеседовании
-
-
-
-
-
-Наши контакты:
-
-
-Официальный сайт — http://razbor-poletov.com
-
-
-Информация о вещании
-
-
-Гости и участники:
-
-
-twitter:
-
-
-
-
-@a_abashev
-
-
-@antonarhipov
-
-
-@dzmitryc
-
-
-@gamussa
-
-
-@jbaruch
-
-
-@shipilev
-
-
-@tolkv
-
-
-
-
-
-
-   
-   Your browser does not support the audio tag.
-
-
-Подписаться по RSS
-
-
-
-
-Музыка ведущим предоставлена и ладно&#8230;&#8203;
-
-
-]]></itunes:summary>
-    </item>
-    
-    <item>
-      <title>Episode 139 — Дарт жив!</title>
-      <link>http://razbor-poletov.com/2017/07/episode-139.html</link>
-      <pubDate>2017-07-07T00:00:00+00:00</pubDate>
-      <guid isPermalink="true">http://razbor-poletov.com/2017/07/episode-139</guid>
-      <description><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="http://razbor-poletov.com/images/razbor_139_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_139_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Гости">Гости</h2>
-<div class="sectionbody">
-<div class="olist arabic">
-<ol class="arabic">
-<li>
-<p>Слава Егоров <a href="https://twitter.com/mraleph">@mraleph </a></p>
-</li>
-<li>
-<p>Алексей Фёдоров <a href="https://twitter.com/23derevo">@23derevo</a></p>
-</li>
-<li>
-<p>Леонид Игольник <a href="https://twitter.com/ligolnik">@ligolnik</a></p>
-</li>
-</ol>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Мероприятия">Мероприятия</h2>
-<div class="sectionbody">
-<div class="olist arabic">
-<ol class="arabic">
-<li>
-<p><a href="https://devoops.ru">DevOops</a>, 20 октября</p>
-</li>
-<li>
-<p><a href="https://smartdataconf.ru">SmartData</a>, 21 октября</p>
-</li>
-<li>
-<p><a href="https://jokerconf.com">Joker</a>, 3-4 ноября</p>
-</li>
-<li>
-<p><a href="https://heisenbug-moscow.ru">Heisenbug</a>, 8-9 декабря</p>
-</li>
-</ol>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Темы">Темы</h2>
-<div class="sectionbody">
-<div class="olist arabic">
-<ol class="arabic">
-<li>
-<p>Что там в Дарте происходит? Жив ли пациент?</p>
-<div class="olist loweralpha">
-<ol class="loweralpha" type="a">
-<li>
-<p><a href="http://news.dartlang.org/2017/06/dart-124-faster-edit-refresh-cycle-on.html">Жив и дышит</a></p>
-</li>
-<li>
-<p><a href="https://flutter.io/">Dart для мобильников</a></p>
-</li>
-<li>
-<p><a href="https://www.dartlang.org/dart-vm">Dart для сервера</a></p>
-</li>
-<li>
-<p><a href="https://webdev.dartlang.org/tools/dart2js">Dart для веба</a></p>
-</li>
-<li>
-<p><a href="https://jaxenter.com/dart-2-0-strong-mode-135438.html">Будет Dart 2.0</a></p>
-</li>
-</ol>
-</div>
-</li>
-<li>
-<p><a href="http://redmonk.com/sogrady/2017/06/08/language-rankings-6-17">RedMonk&#8217;s  language rankings, June 2017</a></p>
-</li>
-<li>
-<p>Java 9</p>
-<div class="olist loweralpha">
-<ol class="loweralpha" type="a">
-<li>
-<p><a href="https://jcp.org/en/jsr/results?id=6016">Jigsaw быть</a>!</p>
-</li>
-<li>
-<p>Случился <a href="https://developer.ibm.com/javasdk/2017/05/26/building-consensus-jsr-376-java-platform-module-system">консенсус</a></p>
-</li>
-<li>
-<p><a href="http://iteratrlearning.com/java9/2016/09/05/java9-optional.html">Optional improvements in Java 9</a></p>
-</li>
-<li>
-<p>Версии в релизах Java</p>
-</li>
-</ol>
-</div>
-</li>
-</ol>
-</div>
-<hr>
-<div class="paragraph">
-<p>Наши контакты:</p>
-</div>
-<div class="paragraph">
-<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
-</div>
-<div class="paragraph">
-<p><a href="http://razbor-poletov.com/broadcast.html">Информация о вещании</a></p>
-</div>
-<div class="paragraph">
-<p>Гости и участники:</p>
-</div>
-<div class="paragraph">
-<p>twitter:</p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://twitter.com/a_abashev">@a_abashev</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/antonarhipov">@antonarhipov</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/dzmitryc">@dzmitryc</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/jbaruch">@jbaruch</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/shipilev">@shipilev</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/tolkv">@tolkv</a></p>
-</li>
-</ul>
-</div>
-<!-- player goes here-->
-
-<audio preload="none">
-   <source src="http://traffic.libsyn.com/razborpoletov/razbor_139.mp3" type="audio/mp3" />
-   Your browser does not support the audio tag.
-</audio>
-<div class="paragraph">
-<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
-</div>
-<!-- episode file link goes here-->
-<a href="http://traffic.libsyn.com/razborpoletov/razbor_139.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
-<div class="paragraph">
-<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
-</div>
-</div>
-</div>]]></description>
-      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
-      <itunes:summary><![CDATA[
-
-
-
-
-
-
-
-Гости
-
-
-
-
-Слава Егоров @mraleph 
-
-
-Алексей Фёдоров @23derevo
-
-
-Леонид Игольник @ligolnik
-
-
-
-
-
-
-Мероприятия
-
-
-
-
-DevOops, 20 октября
-
-
-SmartData, 21 октября
-
-
-Joker, 3-4 ноября
-
-
-Heisenbug, 8-9 декабря
-
-
-
-
-
-
-Темы
-
-
-
-
-Что там в Дарте происходит? Жив ли пациент?
-
-
-
-Жив и дышит
-
-
-Dart для мобильников
-
-
-Dart для сервера
-
-
-Dart для веба
-
-
-Будет Dart 2.0
-
-
-
-
-
-RedMonk&#8217;s  language rankings, June 2017
-
-
-Java 9
-
-
-
-Jigsaw быть!
-
-
-Случился консенсус
-
-
-Optional improvements in Java 9
-
-
-Версии в релизах Java
-
-
-
 
 
 
