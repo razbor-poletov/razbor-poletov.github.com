@@ -6,8 +6,8 @@
     <atom:link href="http://razbor-poletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2018-11-05T20:44:11+00:00</pubDate>
-    <lastBuildDate>2018-11-05T20:44:11+00:00</lastBuildDate>
+    <pubDate>2018-11-05T21:46:48+00:00</pubDate>
+    <lastBuildDate>2018-11-05T21:46:48+00:00</lastBuildDate>
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razbor-poletov.com/logoB.jpg" />
@@ -19,6 +19,191 @@
     </itunes:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:thumbnail url="http://razbor-poletov.com/logoB.jpg" />
+    
+    <item>
+      <title>Episode 191 — РП: Java — Дайдждест — Красная шапка и проект &#8220;Шкура&#8221;</title>
+      <link>http://razbor-poletov.com/2018/11/episode-191.html</link>
+      <pubDate>2018-11-05T00:00:00+00:00</pubDate>
+      <guid isPermalink="true">http://razbor-poletov.com/2018/11/episode-191</guid>
+      <description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://razbor-poletov.com/images/razbor_191_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_191_text.jpg" width="350" /></a>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
+<div class="sectionbody">
+<div class="listingblock">
+<div class="content">
+<pre>👇 👇 👇 Официальный стикерпак Разбора Полетов и полуофициальный Чат pro.jvm в Телеграме 👇 👇 👇</pre>
+</div>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://t.me/addstickers/razbor_poletov">стикеры</a></p>
+</li>
+<li>
+<p><a href="https://t.me/jvmchat">pro.jvm</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://twitter.com/olegchir">Олег Чирухин</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://jug.ru/2018/11/digest-week-80/">Java Дайджест №80</a></p>
+</li>
+</ul>
+</div>
+<hr>
+<div class="paragraph">
+<p>Наши контакты:</p>
+</div>
+<div class="paragraph">
+<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
+</div>
+<div class="paragraph">
+<p><a href="http://razbor-poletov.com/broadcast.html">Информация о вещании</a></p>
+</div>
+<div class="paragraph">
+<p>Гости и участники:</p>
+</div>
+<div class="paragraph">
+<p>twitter:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://twitter.com/a_abashev">@a_abashev</a></p>
+</li>
+</ul>
+</div>
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_191.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+<div class="paragraph">
+<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
+</div>
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_191.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
+<div class="paragraph">
+<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
+</div>
+</div>
+</div>]]></description>
+      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[
+
+
+
+
+
+
+
+Партнеры выпуска
+
+
+
+👇 👇 👇 Официальный стикерпак Разбора Полетов и полуофициальный Чат pro.jvm в Телеграме 👇 👇 👇
+
+
+
+
+
+стикеры
+
+
+pro.jvm
+
+
+
+
+
+
+Гости и участники
+
+
+
+
+Олег Чирухин
+
+
+
+
+
+
+Темы
+
+
+
+
+Java Дайджест №80
+
+
+
+
+
+Наши контакты:
+
+
+Официальный сайт — http://razbor-poletov.com
+
+
+Информация о вещании
+
+
+Гости и участники:
+
+
+twitter:
+
+
+
+
+@a_abashev
+
+
+
+
+
+
+   
+   Your browser does not support the audio tag.
+
+
+Подписаться по RSS
+
+
+
+
+Музыка ведущим предоставлена и ладно&#8230;&#8203;
+
+
+]]></itunes:summary>
+    </item>
     
     <item>
       <title>Episode 190 — РП: Конференции — Oracle Code One Special</title>
@@ -12776,401 +12961,6 @@ twitter:
 
 
 @johnwings
-
-
-
-
-
-
-   
-   Your browser does not support the audio tag.
-
-
-Подписаться по RSS
-
-
-
-
-Музыка ведущим предоставлена и ладно&#8230;&#8203;
-
-
-]]></itunes:summary>
-    </item>
-    
-    <item>
-      <title>Episode 141 — Засунь что-нибудь в Docker!</title>
-      <link>http://razbor-poletov.com/2017/10/episode-141.html</link>
-      <pubDate>2017-10-01T00:00:00+00:00</pubDate>
-      <guid isPermalink="true">http://razbor-poletov.com/2017/10/episode-141</guid>
-      <description><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="http://razbor-poletov.com/images/razbor_141_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_141_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Видео-трансляция">Видео трансляция</h2>
-<div class="sectionbody">
-<div class="olist arabic">
-<ol class="arabic">
-<li>
-<p><a href="https://www.youtube.com/watch?v=cMbddSMmyAg" class="bare">https://www.youtube.com/watch?v=cMbddSMmyAg</a></p>
-</li>
-<li>
-<p><a href="https://www.youtube.com/watch?v=0VHuNJXnRBc" class="bare">https://www.youtube.com/watch?v=0VHuNJXnRBc</a></p>
-</li>
-</ol>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Гости">Гости</h2>
-<div class="sectionbody">
-<div class="olist arabic">
-<ol class="arabic">
-<li>
-<p>Андрей Дмитриев  <a href="https://twitter.com/it_improve" class="bare">https://twitter.com/it_improve</a></p>
-</li>
-</ol>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Мероприятия">Мероприятия</h2>
-<div class="sectionbody">
-<div class="olist arabic">
-<ol class="arabic">
-<li>
-<p><a href="https://jugmsk.timepad.ru/event/559823">Jug MSK Андрей Ершов Future в Java &amp; Scala</a></p>
-</li>
-<li>
-<p><a href="https://2017.javazone.no">JavaZone</a>, Осло, 13-14 сентября</p>
-</li>
-<li>
-<p><a href="https://www.oracle.com/javaone/index.html">JavaOne</a>, Сан Франциско, 1-5 октября</p>
-</li>
-<li>
-<p><a href="https://devoops.ru">DevOops</a>, СПБ, 20 октября</p>
-</li>
-<li>
-<p><a href="https://smartdataconf.ru">SmartData</a>, СПБ, 21 октября</p>
-</li>
-<li>
-<p><a href="https://jokerconf.com">Joker</a>, СПБ, 3-4 ноября</p>
-</li>
-<li>
-<p><a href="http://javaday.org.ua">JavaDay Киев</a>, 4-5 ноября</p>
-</li>
-<li>
-<p><a href="https://heisenbug-moscow.ru">Heisenbug</a>, Москва, 8-9 декабря</p>
-</li>
-</ol>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Релизы">Релизы</h2>
-<div class="sectionbody">
-<div class="olist arabic">
-<ol class="arabic">
-<li>
-<p><a href="https://blog.jetbrains.com/idea/2017/08/intellij-idea-2017-2-2-kotlin-1-1-4-better-performance-and-more/">IDEA 2017.2.2</a></p>
-</li>
-</ol>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Темки">Темки</h2>
-<div class="sectionbody">
-<div class="olist arabic">
-<ol class="arabic">
-<li>
-<p>Как запихать IDE в Docker?</p>
-<div class="olist loweralpha">
-<ol class="loweralpha" type="a">
-<li>
-<p><a href="https://github.com/fgrehm/docker-eclipse" class="bare">https://github.com/fgrehm/docker-eclipse</a> — чёт неочень работает</p>
-</li>
-<li>
-<p>@shipilev запихал <a href="https://hub.docker.com/r/shipilev/openjdk">jdk10</a> в docker</p>
-<div class="olist lowerroman">
-<ol class="lowerroman" type="i">
-<li>
-<p><a href="https://hub.docker.com/r/shipilev/openjdk" class="bare">https://hub.docker.com/r/shipilev/openjdk</a></p>
-</li>
-<li>
-<p>зачем и почему</p>
-</li>
-<li>
-<p>какие трудности</p>
-</li>
-<li>
-<p>почему не на <a href="http://shipilev.net">shipilev.net</a></p>
-</li>
-</ol>
-</div>
-</li>
-</ol>
-</div>
-</li>
-<li>
-<p>DevOops</p>
-</li>
-<li>
-<p>SmartData</p>
-</li>
-<li>
-<p>JokerConf</p>
-</li>
-</ol>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Полезняшки">Полезняшки</h2>
-<div class="sectionbody">
-<div class="olist arabic">
-<ol class="arabic">
-<li>
-<p><a href="https://plugins.jetbrains.com/plugin/8575-nyan-progress-bar">Самый полезный плагин для IntelliJ IDEA</a></p>
-</li>
-<li>
-<p><a href="https://plugins.jetbrains.com/plugin/1003-key-promoter">Key promoter plugin</a> оказался хорош</p>
-</li>
-<li>
-<p><a href="https://www.youtube.com/watch?v=Z2F-wZKbG8M" class="bare">https://www.youtube.com/watch?v=Z2F-wZKbG8M</a></p>
-</li>
-</ol>
-</div>
-<hr>
-<div class="paragraph">
-<p>Наши контакты:</p>
-</div>
-<div class="paragraph">
-<p>Официальный сайт — <a href="http://razbor-poletov.com">http://razbor-poletov.com</a></p>
-</div>
-<div class="paragraph">
-<p><a href="http://razbor-poletov.com/broadcast.html">Информация о вещании</a></p>
-</div>
-<div class="paragraph">
-<p>Гости и участники:</p>
-</div>
-<div class="paragraph">
-<p>twitter:</p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="http://twitter.com/tolkv">@tolkv</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/jbaruch">@jbaruch</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/shipilev">@shipilev</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/antonarhipov">@antonarhipov</a></p>
-</li>
-</ul>
-</div>
-<!-- player goes here-->
-
-<audio preload="none">
-   <source src="http://traffic.libsyn.com/razborpoletov/razbor_141.mp3" type="audio/mp3" />
-   Your browser does not support the audio tag.
-</audio>
-<div class="paragraph">
-<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
-</div>
-<!-- episode file link goes here-->
-<a href="http://traffic.libsyn.com/razborpoletov/razbor_141.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
-<div class="paragraph">
-<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
-</div>
-</div>
-</div>]]></description>
-      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
-      <itunes:summary><![CDATA[
-
-
-
-
-
-
-
-Видео трансляция
-
-
-
-
-https://www.youtube.com/watch?v=cMbddSMmyAg
-
-
-https://www.youtube.com/watch?v=0VHuNJXnRBc
-
-
-
-
-
-
-Гости
-
-
-
-
-Андрей Дмитриев  https://twitter.com/it_improve
-
-
-
-
-
-
-Мероприятия
-
-
-
-
-Jug MSK Андрей Ершов Future в Java &amp; Scala
-
-
-JavaZone, Осло, 13-14 сентября
-
-
-JavaOne, Сан Франциско, 1-5 октября
-
-
-DevOops, СПБ, 20 октября
-
-
-SmartData, СПБ, 21 октября
-
-
-Joker, СПБ, 3-4 ноября
-
-
-JavaDay Киев, 4-5 ноября
-
-
-Heisenbug, Москва, 8-9 декабря
-
-
-
-
-
-
-Релизы
-
-
-
-
-IDEA 2017.2.2
-
-
-
-
-
-
-Темки
-
-
-
-
-Как запихать IDE в Docker?
-
-
-
-https://github.com/fgrehm/docker-eclipse — чёт неочень работает
-
-
-@shipilev запихал jdk10 в docker
-
-
-
-https://hub.docker.com/r/shipilev/openjdk
-
-
-зачем и почему
-
-
-какие трудности
-
-
-почему не на shipilev.net
-
-
-
-
-
-
-
-
-DevOops
-
-
-SmartData
-
-
-JokerConf
-
-
-
-
-
-
-Полезняшки
-
-
-
-
-Самый полезный плагин для IntelliJ IDEA
-
-
-Key promoter plugin оказался хорош
-
-
-https://www.youtube.com/watch?v=Z2F-wZKbG8M
-
-
-
-
-
-Наши контакты:
-
-
-Официальный сайт — http://razbor-poletov.com
-
-
-Информация о вещании
-
-
-Гости и участники:
-
-
-twitter:
-
-
-
-
-@tolkv
-
-
-@gamussa
-
-
-@jbaruch
-
-
-@shipilev
-
-
-@antonarhipov
 
 
 
