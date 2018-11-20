@@ -28,7 +28,7 @@ categories:
         "http://traffic.libsyn.com/razborpoletov/announce_aws.mp3" imageanchor="1" style=
         "clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0"
         height="64" src=
-        "http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png"
+        "https://razborpoletov.com/images/mp3.png"
         width="64" /></a></td>
       </tr>
 
