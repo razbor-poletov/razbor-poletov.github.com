@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: podcast | Подкаст «Разбор Полетов»]]></title>
-  <link href="http://razbor-poletov.com/blog/categories/podcast/atom.xml" rel="self"/>
-  <link href="http://razbor-poletov.com/"/>
-  <updated>2018-11-20T19:24:56+00:00</updated>
-  <id>http://razbor-poletov.com/</id>
+  <link href="http://razborpoletov.com/blog/categories/podcast/atom.xml" rel="self"/>
+  <link href="http://razborpoletov.com/"/>
+  <updated>2018-11-20T19:41:17+00:00</updated>
+  <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
     <email><![CDATA[razbor.poletov1@gmail.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Episode 120 — Роботы, XRay и Conan]]></title>
-    <link href="http://razbor-poletov.com/2016/11/episode-120.html"/>
+    <link href="http://razborpoletov.com/2016/11/episode-120.html"/>
     <updated>2016-11-17T00:00:00+00:00</updated>
-    <id>http://razbor-poletov.com/2016/11/episode-120</id>
+    <id>http://razborpoletov.com/2016/11/episode-120</id>
     <content type="html"><![CDATA[<p>= Episode 120 — Роботы, XRay и Conan
 2016-11-17 18:14
 :layout: post
@@ -104,9 +104,9 @@
   
   <entry>
     <title type="html"><![CDATA[Episode 98 — Теорема-шляпа]]></title>
-    <link href="http://razbor-poletov.com/2015/12/episode-98.html"/>
+    <link href="http://razborpoletov.com/2015/12/episode-98.html"/>
     <updated>2015-12-19T00:00:00+00:00</updated>
-    <id>http://razbor-poletov.com/2015/12/episode-98</id>
+    <id>http://razborpoletov.com/2015/12/episode-98</id>
     <content type="html"><![CDATA[<p>= Episode 98 — Теорема-шляпа
 2015-12-19 09:20
 :layout: post
@@ -223,9 +223,9 @@
   
   <entry>
     <title type="html"><![CDATA[Episode 89 — Здесь случайных людей нет]]></title>
-    <link href="http://razbor-poletov.com/2015/08/episode-89.html"/>
+    <link href="http://razborpoletov.com/2015/08/episode-89.html"/>
     <updated>2015-08-14T00:00:00+00:00</updated>
-    <id>http://razbor-poletov.com/2015/08/episode-89</id>
+    <id>http://razborpoletov.com/2015/08/episode-89</id>
     <content type="html"><![CDATA[<p>= Episode 89 — Здесь случайных людей нет
 2015-08-14 22:05
 :layout: post
@@ -342,9 +342,9 @@
   
   <entry>
     <title type="html"><![CDATA[Episode 88 — Ниочем]]></title>
-    <link href="http://razbor-poletov.com/2015/07/episode-88.html"/>
+    <link href="http://razborpoletov.com/2015/07/episode-88.html"/>
     <updated>2015-07-30T00:00:00+00:00</updated>
-    <id>http://razbor-poletov.com/2015/07/episode-88</id>
+    <id>http://razborpoletov.com/2015/07/episode-88</id>
     <content type="html"><![CDATA[<p>= Episode 88 — Ниочем
 2015-07-30 07:26
 :layout: post
@@ -448,9 +448,9 @@ http://s00.yaplakal.com/pics/pics_original/3/0/6/1322603.gif[Оригинал]</
   
   <entry>
     <title type="html"><![CDATA[Episode 87 — Прогулки по минным полям]]></title>
-    <link href="http://razbor-poletov.com/2015/07/episode-87.html"/>
+    <link href="http://razborpoletov.com/2015/07/episode-87.html"/>
     <updated>2015-07-16T00:00:00+00:00</updated>
-    <id>http://razbor-poletov.com/2015/07/episode-87</id>
+    <id>http://razborpoletov.com/2015/07/episode-87</id>
     <content type="html"><![CDATA[<p>= Episode 87 — Прогулки по минным полям
 2015-07-16 20:02
 :layout: post

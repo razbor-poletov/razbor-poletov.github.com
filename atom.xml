@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
-  <link href="http://razbor-poletov.com/atom.xml" rel="self"/>
-  <link href="http://razbor-poletov.com/"/>
-  <updated>2018-11-20T19:24:56+00:00</updated>
-  <id>http://razbor-poletov.com/</id>
+  <link href="http://razborpoletov.com/atom.xml" rel="self"/>
+  <link href="http://razborpoletov.com/"/>
+  <updated>2018-11-20T19:41:17+00:00</updated>
+  <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
     <email><![CDATA[razbor.poletov1@gmail.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Episode 191 — РП: Java — Дайдждест — Красная шапка и проект "Шкура"]]></title>
-    <link href="http://razbor-poletov.com/2018/11/episode-191.html"/>
+    <link href="http://razborpoletov.com/2018/11/episode-191.html"/>
     <updated>2018-11-05T00:00:00+00:00</updated>
-    <id>http://razbor-poletov.com/2018/11/episode-191</id>
+    <id>http://razborpoletov.com/2018/11/episode-191</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="separator" style="clear: both; text-align: center;">
@@ -110,9 +110,9 @@
   
   <entry>
     <title type="html"><![CDATA[Episode 190 — РП: Конференции — Oracle Code One Special]]></title>
-    <link href="http://razbor-poletov.com/2018/11/episode-190.html"/>
+    <link href="http://razborpoletov.com/2018/11/episode-190.html"/>
     <updated>2018-11-05T00:00:00+00:00</updated>
-    <id>http://razbor-poletov.com/2018/11/episode-190</id>
+    <id>http://razborpoletov.com/2018/11/episode-190</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="separator" style="clear: both; text-align: center;">
@@ -211,9 +211,9 @@
   
   <entry>
     <title type="html"><![CDATA[Episode 189 — РП: Java — Дайдждест — Святой Eclipse и Апостол его Андрей]]></title>
-    <link href="http://razbor-poletov.com/2018/10/episode-189.html"/>
+    <link href="http://razborpoletov.com/2018/10/episode-189.html"/>
     <updated>2018-10-22T00:00:00+00:00</updated>
-    <id>http://razbor-poletov.com/2018/10/episode-189</id>
+    <id>http://razborpoletov.com/2018/10/episode-189</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="separator" style="clear: both; text-align: center;">
@@ -309,9 +309,9 @@
   
   <entry>
     <title type="html"><![CDATA[Episode 188 — РП: Devops — Подальше от YAML]]></title>
-    <link href="http://razbor-poletov.com/2018/10/episode-188.html"/>
+    <link href="http://razborpoletov.com/2018/10/episode-188.html"/>
     <updated>2018-10-17T00:00:00+00:00</updated>
-    <id>http://razbor-poletov.com/2018/10/episode-188</id>
+    <id>http://razborpoletov.com/2018/10/episode-188</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="separator" style="clear: both; text-align: center;">
@@ -421,9 +421,9 @@
   
   <entry>
     <title type="html"><![CDATA[Episode 187 — РП: Java — Дайдждест — Kubernetes is new Java EE?]]></title>
-    <link href="http://razbor-poletov.com/2018/10/episode-187.html"/>
+    <link href="http://razborpoletov.com/2018/10/episode-187.html"/>
     <updated>2018-10-08T00:00:00+00:00</updated>
-    <id>http://razbor-poletov.com/2018/10/episode-187</id>
+    <id>http://razborpoletov.com/2018/10/episode-187</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="separator" style="clear: both; text-align: center;">
@@ -537,9 +537,9 @@
   
   <entry>
     <title type="html"><![CDATA[Episode 186 — РП: Java — Дайдждест — Много новостей]]></title>
-    <link href="http://razbor-poletov.com/2018/10/episode-186.html"/>
+    <link href="http://razborpoletov.com/2018/10/episode-186.html"/>
     <updated>2018-10-01T00:00:00+00:00</updated>
-    <id>http://razbor-poletov.com/2018/10/episode-186</id>
+    <id>http://razborpoletov.com/2018/10/episode-186</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="separator" style="clear: both; text-align: center;">
@@ -638,9 +638,9 @@
   
   <entry>
     <title type="html"><![CDATA[Episode 185 — РП: Leadership — CTO vs VP и прочие ругательства]]></title>
-    <link href="http://razbor-poletov.com/2018/10/episode-185.html"/>
+    <link href="http://razborpoletov.com/2018/10/episode-185.html"/>
     <updated>2018-10-01T00:00:00+00:00</updated>
-    <id>http://razbor-poletov.com/2018/10/episode-185</id>
+    <id>http://razborpoletov.com/2018/10/episode-185</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="separator" style="clear: both; text-align: center;">
@@ -807,9 +807,9 @@
   
   <entry>
     <title type="html"><![CDATA[Episode 184 — РП: Devops - C Днем Рождения, Олег и Cloud Native Jenkins!]]></title>
-    <link href="http://razbor-poletov.com/2018/09/episode-184.html"/>
+    <link href="http://razborpoletov.com/2018/09/episode-184.html"/>
     <updated>2018-09-24T00:00:00+00:00</updated>
-    <id>http://razbor-poletov.com/2018/09/episode-184</id>
+    <id>http://razborpoletov.com/2018/09/episode-184</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="separator" style="clear: both; text-align: center;">
@@ -1169,9 +1169,9 @@
   
   <entry>
     <title type="html"><![CDATA[Episode 183 — РП: Java — Дайдждест — Много новостей]]></title>
-    <link href="http://razbor-poletov.com/2018/09/episode-183.html"/>
+    <link href="http://razborpoletov.com/2018/09/episode-183.html"/>
     <updated>2018-09-24T00:00:00+00:00</updated>
-    <id>http://razbor-poletov.com/2018/09/episode-183</id>
+    <id>http://razborpoletov.com/2018/09/episode-183</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="separator" style="clear: both; text-align: center;">
@@ -1257,9 +1257,9 @@
   
   <entry>
     <title type="html"><![CDATA[Episode 182 — РП: Java — Дайдждест — Микрофреймворки летят в энтерпрайз]]></title>
-    <link href="http://razbor-poletov.com/2018/09/episode-182.html"/>
+    <link href="http://razborpoletov.com/2018/09/episode-182.html"/>
     <updated>2018-09-17T00:00:00+00:00</updated>
-    <id>http://razbor-poletov.com/2018/09/episode-182</id>
+    <id>http://razborpoletov.com/2018/09/episode-182</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="separator" style="clear: both; text-align: center;">
@@ -1383,9 +1383,9 @@
   
   <entry>
     <title type="html"><![CDATA[Episode 181 — РП: Java — Дайдждест — Marketplace и консолидация]]></title>
-    <link href="http://razbor-poletov.com/2018/09/episode-181.html"/>
+    <link href="http://razborpoletov.com/2018/09/episode-181.html"/>
     <updated>2018-09-11T00:00:00+00:00</updated>
-    <id>http://razbor-poletov.com/2018/09/episode-181</id>
+    <id>http://razborpoletov.com/2018/09/episode-181</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="separator" style="clear: both; text-align: center;">
@@ -1506,9 +1506,9 @@
   
   <entry>
     <title type="html"><![CDATA[Episode 180 — РП: Classic — Java 11,12 и костры рябин]]></title>
-    <link href="http://razbor-poletov.com/2018/09/episode-180.html"/>
+    <link href="http://razborpoletov.com/2018/09/episode-180.html"/>
     <updated>2018-09-09T00:00:00+00:00</updated>
-    <id>http://razbor-poletov.com/2018/09/episode-180</id>
+    <id>http://razborpoletov.com/2018/09/episode-180</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="separator" style="clear: both; text-align: center;">
@@ -1708,9 +1708,9 @@
   
   <entry>
     <title type="html"><![CDATA[Episode 179 — РП: Java — Дайдждест — В поисках ниши]]></title>
-    <link href="http://razbor-poletov.com/2018/09/episode-179.html"/>
+    <link href="http://razborpoletov.com/2018/09/episode-179.html"/>
     <updated>2018-09-04T00:00:00+00:00</updated>
-    <id>http://razbor-poletov.com/2018/09/episode-179</id>
+    <id>http://razborpoletov.com/2018/09/episode-179</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="separator" style="clear: both; text-align: center;">
@@ -1834,9 +1834,9 @@
   
   <entry>
     <title type="html"><![CDATA[Episode 178 — РП: Java — Дайдждест — Они «программировали» на VB.NET]]></title>
-    <link href="http://razbor-poletov.com/2018/08/episode-178.html"/>
+    <link href="http://razborpoletov.com/2018/08/episode-178.html"/>
     <updated>2018-08-27T00:00:00+00:00</updated>
-    <id>http://razbor-poletov.com/2018/08/episode-178</id>
+    <id>http://razborpoletov.com/2018/08/episode-178</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="separator" style="clear: both; text-align: center;">
@@ -1957,9 +1957,9 @@
   
   <entry>
     <title type="html"><![CDATA[Episode 177 — РП: Classic — Тематические долги]]></title>
-    <link href="http://razbor-poletov.com/2018/08/episode-177.html"/>
+    <link href="http://razborpoletov.com/2018/08/episode-177.html"/>
     <updated>2018-08-27T00:00:00+00:00</updated>
-    <id>http://razbor-poletov.com/2018/08/episode-177</id>
+    <id>http://razborpoletov.com/2018/08/episode-177</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="separator" style="clear: both; text-align: center;">
@@ -2110,9 +2110,9 @@
   
   <entry>
     <title type="html"><![CDATA[Episode 176 — РП: Java — Дайдждест — Duke, Thorntail, Tomcat и прочие животные]]></title>
-    <link href="http://razbor-poletov.com/2018/08/episode-176.html"/>
+    <link href="http://razborpoletov.com/2018/08/episode-176.html"/>
     <updated>2018-08-20T00:00:00+00:00</updated>
-    <id>http://razbor-poletov.com/2018/08/episode-176</id>
+    <id>http://razborpoletov.com/2018/08/episode-176</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="separator" style="clear: both; text-align: center;">
@@ -2239,9 +2239,9 @@
   
   <entry>
     <title type="html"><![CDATA[Episode 175 — РП: Java Дайдждест — Плохой хороший Open Source]]></title>
-    <link href="http://razbor-poletov.com/2018/08/episode-175.html"/>
+    <link href="http://razborpoletov.com/2018/08/episode-175.html"/>
     <updated>2018-08-13T00:00:00+00:00</updated>
-    <id>http://razbor-poletov.com/2018/08/episode-175</id>
+    <id>http://razborpoletov.com/2018/08/episode-175</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="separator" style="clear: both; text-align: center;">
@@ -2368,9 +2368,9 @@
   
   <entry>
     <title type="html"><![CDATA[Episode 174 – РП: Java Дайдждест — Кто за главного в Джаве?]]></title>
-    <link href="http://razbor-poletov.com/2018/08/episode-174.html"/>
+    <link href="http://razborpoletov.com/2018/08/episode-174.html"/>
     <updated>2018-08-06T00:00:00+00:00</updated>
-    <id>http://razbor-poletov.com/2018/08/episode-174</id>
+    <id>http://razborpoletov.com/2018/08/episode-174</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="separator" style="clear: both; text-align: center;">
@@ -2494,9 +2494,9 @@
   
   <entry>
     <title type="html"><![CDATA[Episode 173 — РП: Classic — Реактивщина «Вашим детям понравится!»]]></title>
-    <link href="http://razbor-poletov.com/2018/08/episode-173.html"/>
+    <link href="http://razborpoletov.com/2018/08/episode-173.html"/>
     <updated>2018-08-03T00:00:00+00:00</updated>
-    <id>http://razbor-poletov.com/2018/08/episode-173</id>
+    <id>http://razborpoletov.com/2018/08/episode-173</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="separator" style="clear: both; text-align: center;">
@@ -2779,9 +2779,9 @@
   
   <entry>
     <title type="html"><![CDATA[Episode 172 – РП: Java Дайдждест — Рефакторинг «Рефакторинга»]]></title>
-    <link href="http://razbor-poletov.com/2018/07/episode-172.html"/>
+    <link href="http://razborpoletov.com/2018/07/episode-172.html"/>
     <updated>2018-07-30T00:00:00+00:00</updated>
-    <id>http://razbor-poletov.com/2018/07/episode-172</id>
+    <id>http://razborpoletov.com/2018/07/episode-172</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="separator" style="clear: both; text-align: center;">
@@ -2911,9 +2911,9 @@
   
   <entry>
     <title type="html"><![CDATA[Episode 171 – РП: Java Дайдждест — Эклипс на войне с пробками]]></title>
-    <link href="http://razbor-poletov.com/2018/07/episode-171.html"/>
+    <link href="http://razborpoletov.com/2018/07/episode-171.html"/>
     <updated>2018-07-23T00:00:00+00:00</updated>
-    <id>http://razbor-poletov.com/2018/07/episode-171</id>
+    <id>http://razborpoletov.com/2018/07/episode-171</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="separator" style="clear: both; text-align: center;">
@@ -3040,9 +3040,9 @@
   
   <entry>
     <title type="html"><![CDATA[Episode 170 — РП: DevOps — DevOps и Духи]]></title>
-    <link href="http://razbor-poletov.com/2018/07/episode-170.html"/>
+    <link href="http://razborpoletov.com/2018/07/episode-170.html"/>
     <updated>2018-07-20T00:00:00+00:00</updated>
-    <id>http://razbor-poletov.com/2018/07/episode-170</id>
+    <id>http://razborpoletov.com/2018/07/episode-170</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="separator" style="clear: both; text-align: center;">
@@ -3244,9 +3244,9 @@
   
   <entry>
     <title type="html"><![CDATA[Episode 169 – РП: Java Дайдждест — Котлин уходит в Нейтив]]></title>
-    <link href="http://razbor-poletov.com/2018/07/episode-169.html"/>
+    <link href="http://razborpoletov.com/2018/07/episode-169.html"/>
     <updated>2018-07-16T00:00:00+00:00</updated>
-    <id>http://razbor-poletov.com/2018/07/episode-169</id>
+    <id>http://razborpoletov.com/2018/07/episode-169</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="separator" style="clear: both; text-align: center;">
@@ -3354,9 +3354,9 @@
   
   <entry>
     <title type="html"><![CDATA[Episode 168 – РП: Java Дайдждест — Наш поезд в огне]]></title>
-    <link href="http://razbor-poletov.com/2018/07/episode-168.html"/>
+    <link href="http://razborpoletov.com/2018/07/episode-168.html"/>
     <updated>2018-07-09T00:00:00+00:00</updated>
-    <id>http://razbor-poletov.com/2018/07/episode-168</id>
+    <id>http://razborpoletov.com/2018/07/episode-168</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="separator" style="clear: both; text-align: center;">
@@ -3457,9 +3457,9 @@
   
   <entry>
     <title type="html"><![CDATA[Episode 167 – РП: Java Дайдждест — Самый популярный по версии моей бабушки]]></title>
-    <link href="http://razbor-poletov.com/2018/07/episode-167.html"/>
+    <link href="http://razborpoletov.com/2018/07/episode-167.html"/>
     <updated>2018-07-02T00:00:00+00:00</updated>
-    <id>http://razbor-poletov.com/2018/07/episode-167</id>
+    <id>http://razborpoletov.com/2018/07/episode-167</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="separator" style="clear: both; text-align: center;">
@@ -3566,9 +3566,9 @@
   
   <entry>
     <title type="html"><![CDATA[Episode 166 – РП: Classic — Новости! Релизы! Покупки! и всё, и всё, и всё!]]></title>
-    <link href="http://razbor-poletov.com/2018/07/episode-166.html"/>
+    <link href="http://razborpoletov.com/2018/07/episode-166.html"/>
     <updated>2018-07-01T00:00:00+00:00</updated>
-    <id>http://razbor-poletov.com/2018/07/episode-166</id>
+    <id>http://razborpoletov.com/2018/07/episode-166</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="separator" style="clear: both; text-align: center;">
@@ -3697,9 +3697,9 @@
   
   <entry>
     <title type="html"><![CDATA[Episode 165 – РП: Java Дайдждест — В ожидании Java 11]]></title>
-    <link href="http://razbor-poletov.com/2018/06/episode-165.html"/>
+    <link href="http://razborpoletov.com/2018/06/episode-165.html"/>
     <updated>2018-06-26T00:00:00+00:00</updated>
-    <id>http://razbor-poletov.com/2018/06/episode-165</id>
+    <id>http://razborpoletov.com/2018/06/episode-165</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="separator" style="clear: both; text-align: center;">
@@ -3806,9 +3806,9 @@
   
   <entry>
     <title type="html"><![CDATA[Episode 164 – РП: Конференции — swampUP 2018 Special]]></title>
-    <link href="http://razbor-poletov.com/2018/06/episode-164.html"/>
+    <link href="http://razborpoletov.com/2018/06/episode-164.html"/>
     <updated>2018-06-20T00:00:00+00:00</updated>
-    <id>http://razbor-poletov.com/2018/06/episode-164</id>
+    <id>http://razborpoletov.com/2018/06/episode-164</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="separator" style="clear: both; text-align: center;">
@@ -3934,9 +3934,9 @@
   
   <entry>
     <title type="html"><![CDATA[Episode 163 – РП: Конференции — JPoint 2018: Liberica, Xtend и Alibaba]]></title>
-    <link href="http://razbor-poletov.com/2018/06/episode-163.html"/>
+    <link href="http://razborpoletov.com/2018/06/episode-163.html"/>
     <updated>2018-06-19T00:00:00+00:00</updated>
-    <id>http://razbor-poletov.com/2018/06/episode-163</id>
+    <id>http://razborpoletov.com/2018/06/episode-163</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="separator" style="clear: both; text-align: center;">
@@ -4049,9 +4049,9 @@
   
   <entry>
     <title type="html"><![CDATA[Episode 162 – РП: Конференции — JPoint 2018: Бенефис Kotlin]]></title>
-    <link href="http://razbor-poletov.com/2018/06/episode-162.html"/>
+    <link href="http://razborpoletov.com/2018/06/episode-162.html"/>
     <updated>2018-06-11T00:00:00+00:00</updated>
-    <id>http://razbor-poletov.com/2018/06/episode-162</id>
+    <id>http://razborpoletov.com/2018/06/episode-162</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="separator" style="clear: both; text-align: center;">
@@ -4171,9 +4171,9 @@
   
   <entry>
     <title type="html"><![CDATA[Episode 161 – РП: Конференции — JPoint 2018: Производительность и профилирование]]></title>
-    <link href="http://razbor-poletov.com/2018/06/episode-161.html"/>
+    <link href="http://razborpoletov.com/2018/06/episode-161.html"/>
     <updated>2018-06-08T00:00:00+00:00</updated>
-    <id>http://razbor-poletov.com/2018/06/episode-161</id>
+    <id>http://razborpoletov.com/2018/06/episode-161</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="separator" style="clear: both; text-align: center;">
@@ -4281,9 +4281,9 @@
   
   <entry>
     <title type="html"><![CDATA[Episode 160 — РП: Конференции — JPoint 2018: Spring, Java и раскрытие преступлений]]></title>
-    <link href="http://razbor-poletov.com/2018/06/episode-160.html"/>
+    <link href="http://razborpoletov.com/2018/06/episode-160.html"/>
     <updated>2018-06-02T00:00:00+00:00</updated>
-    <id>http://razbor-poletov.com/2018/06/episode-160</id>
+    <id>http://razborpoletov.com/2018/06/episode-160</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="separator" style="clear: both; text-align: center;">
@@ -4394,9 +4394,9 @@
   
   <entry>
     <title type="html"><![CDATA[Episode 159 — РП: Конференции — JPoint 2018: призраки DevOps]]></title>
-    <link href="http://razbor-poletov.com/2018/06/episode-159.html"/>
+    <link href="http://razborpoletov.com/2018/06/episode-159.html"/>
     <updated>2018-06-02T00:00:00+00:00</updated>
-    <id>http://razbor-poletov.com/2018/06/episode-159</id>
+    <id>http://razborpoletov.com/2018/06/episode-159</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="separator" style="clear: both; text-align: center;">
@@ -4519,9 +4519,9 @@
   
   <entry>
     <title type="html"><![CDATA[Episode 158 — РП: Конференции — JPoint 2018 BOF]]></title>
-    <link href="http://razbor-poletov.com/2018/05/episode-158.html"/>
+    <link href="http://razborpoletov.com/2018/05/episode-158.html"/>
     <updated>2018-05-14T00:00:00+00:00</updated>
-    <id>http://razbor-poletov.com/2018/05/episode-158</id>
+    <id>http://razborpoletov.com/2018/05/episode-158</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="separator" style="clear: both; text-align: center;">
@@ -4605,9 +4605,9 @@
   
   <entry>
     <title type="html"><![CDATA[Episode 157 – РП: Java - Про десятку]]></title>
-    <link href="http://razbor-poletov.com/2018/03/episode-157.html"/>
+    <link href="http://razborpoletov.com/2018/03/episode-157.html"/>
     <updated>2018-03-30T00:00:00+00:00</updated>
-    <id>http://razbor-poletov.com/2018/03/episode-157</id>
+    <id>http://razborpoletov.com/2018/03/episode-157</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="separator" style="clear: both; text-align: center;">
@@ -4814,9 +4814,9 @@ p.s. Если идете на JPoint 2018, то дослушайте до кон
   
   <entry>
     <title type="html"><![CDATA[Episode 156 — РП: Фронтенд - JavaScript и мемасики]]></title>
-    <link href="http://razbor-poletov.com/2018/03/episode-156.html"/>
+    <link href="http://razborpoletov.com/2018/03/episode-156.html"/>
     <updated>2018-03-27T00:00:00+00:00</updated>
-    <id>http://razbor-poletov.com/2018/03/episode-156</id>
+    <id>http://razborpoletov.com/2018/03/episode-156</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="separator" style="clear: both; text-align: center;">
@@ -4929,9 +4929,9 @@ p.s. Если идете на JPoint 2018, то дослушайте до кон
   
   <entry>
     <title type="html"><![CDATA[Episode 155 — РП: Конференции - DevNexus и выгорание]]></title>
-    <link href="http://razbor-poletov.com/2018/03/episode-155.html"/>
+    <link href="http://razborpoletov.com/2018/03/episode-155.html"/>
     <updated>2018-03-02T00:00:00+00:00</updated>
-    <id>http://razbor-poletov.com/2018/03/episode-155</id>
+    <id>http://razborpoletov.com/2018/03/episode-155</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="separator" style="clear: both; text-align: center;">
@@ -5009,9 +5009,9 @@ p.s. Если идете на JPoint 2018, то дослушайте до кон
   
   <entry>
     <title type="html"><![CDATA[Episode 154 — РП: Кишочки - Атака на Новый Год]]></title>
-    <link href="http://razbor-poletov.com/2018/02/episode-154.html"/>
+    <link href="http://razborpoletov.com/2018/02/episode-154.html"/>
     <updated>2018-02-13T00:00:00+00:00</updated>
-    <id>http://razbor-poletov.com/2018/02/episode-154</id>
+    <id>http://razborpoletov.com/2018/02/episode-154</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="separator" style="clear: both; text-align: center;">
@@ -5242,9 +5242,9 @@ p.s. Если идете на JPoint 2018, то дослушайте до кон
   
   <entry>
     <title type="html"><![CDATA[Episode 153 — РП: Devops - Rancher, Kubernetes и новый CI на Kotlin]]></title>
-    <link href="http://razbor-poletov.com/2018/01/episode-153.html"/>
+    <link href="http://razborpoletov.com/2018/01/episode-153.html"/>
     <updated>2018-01-09T00:00:00+00:00</updated>
-    <id>http://razbor-poletov.com/2018/01/episode-153</id>
+    <id>http://razborpoletov.com/2018/01/episode-153</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="separator" style="clear: both; text-align: center;">
@@ -5414,9 +5414,9 @@ p.s. Если идете на JPoint 2018, то дослушайте до кон
   
   <entry>
     <title type="html"><![CDATA[Episode 152 — Итоги 2017]]></title>
-    <link href="http://razbor-poletov.com/2018/01/episode-152.html"/>
+    <link href="http://razborpoletov.com/2018/01/episode-152.html"/>
     <updated>2018-01-01T00:00:00+00:00</updated>
-    <id>http://razbor-poletov.com/2018/01/episode-152</id>
+    <id>http://razborpoletov.com/2018/01/episode-152</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="separator" style="clear: both; text-align: center;">
@@ -5565,9 +5565,9 @@ p.s. Если идете на JPoint 2018, то дослушайте до кон
   
   <entry>
     <title type="html"><![CDATA[Episode 151 — Уходя-уходи!]]></title>
-    <link href="http://razbor-poletov.com/2017/12/episode-151.html"/>
+    <link href="http://razborpoletov.com/2017/12/episode-151.html"/>
     <updated>2017-12-23T00:00:00+00:00</updated>
-    <id>http://razbor-poletov.com/2017/12/episode-151</id>
+    <id>http://razborpoletov.com/2017/12/episode-151</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="separator" style="clear: both; text-align: center;">
@@ -5689,9 +5689,9 @@ p.s. Если идете на JPoint 2018, то дослушайте до кон
   
   <entry>
     <title type="html"><![CDATA[Episode 150 — WTF is Техно-пиар?]]></title>
-    <link href="http://razbor-poletov.com/2017/12/episode-150.html"/>
+    <link href="http://razborpoletov.com/2017/12/episode-150.html"/>
     <updated>2017-12-23T00:00:00+00:00</updated>
-    <id>http://razbor-poletov.com/2017/12/episode-150</id>
+    <id>http://razborpoletov.com/2017/12/episode-150</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="separator" style="clear: both; text-align: center;">
@@ -5851,9 +5851,9 @@ p.s. Если идете на JPoint 2018, то дослушайте до кон
   
   <entry>
     <title type="html"><![CDATA[Episode 149 — Мой любимый SQL!]]></title>
-    <link href="http://razbor-poletov.com/2017/12/episode-149.html"/>
+    <link href="http://razborpoletov.com/2017/12/episode-149.html"/>
     <updated>2017-12-13T00:00:00+00:00</updated>
-    <id>http://razbor-poletov.com/2017/12/episode-149</id>
+    <id>http://razborpoletov.com/2017/12/episode-149</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="separator" style="clear: both; text-align: center;">
@@ -5969,9 +5969,9 @@ p.s. Если идете на JPoint 2018, то дослушайте до кон
   
   <entry>
     <title type="html"><![CDATA[Episode 148 — Подпольщики из MTS]]></title>
-    <link href="http://razbor-poletov.com/2017/12/episode-148.html"/>
+    <link href="http://razborpoletov.com/2017/12/episode-148.html"/>
     <updated>2017-12-05T00:00:00+00:00</updated>
-    <id>http://razbor-poletov.com/2017/12/episode-148</id>
+    <id>http://razborpoletov.com/2017/12/episode-148</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="separator" style="clear: both; text-align: center;">
@@ -6053,9 +6053,9 @@ p.s. Если идете на JPoint 2018, то дослушайте до кон
   
   <entry>
     <title type="html"><![CDATA[Episode 147 — Техрадар Lamoda]]></title>
-    <link href="http://razbor-poletov.com/2017/12/episode-147.html"/>
+    <link href="http://razborpoletov.com/2017/12/episode-147.html"/>
     <updated>2017-12-05T00:00:00+00:00</updated>
-    <id>http://razbor-poletov.com/2017/12/episode-147</id>
+    <id>http://razborpoletov.com/2017/12/episode-147</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="separator" style="clear: both; text-align: center;">
@@ -6155,9 +6155,9 @@ p.s. Если идете на JPoint 2018, то дослушайте до кон
   
   <entry>
     <title type="html"><![CDATA[Episode 146 — Сложности performance-тестирования в потустороннем мире]]></title>
-    <link href="http://razbor-poletov.com/2017/12/episode-146.html"/>
+    <link href="http://razborpoletov.com/2017/12/episode-146.html"/>
     <updated>2017-12-05T00:00:00+00:00</updated>
-    <id>http://razbor-poletov.com/2017/12/episode-146</id>
+    <id>http://razborpoletov.com/2017/12/episode-146</id>
     <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="https://razborpoletov.com/images/razbor_146_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_146_text.jpg" width="350" /></a>
 </div>
@@ -6227,9 +6227,9 @@ p.s. Если идете на JPoint 2018, то дослушайте до кон
   
   <entry>
     <title type="html"><![CDATA[Episode 145 — Дешевле, надёжнее, проще]]></title>
-    <link href="http://razbor-poletov.com/2017/11/episode-145.html"/>
+    <link href="http://razborpoletov.com/2017/11/episode-145.html"/>
     <updated>2017-11-25T00:00:00+00:00</updated>
-    <id>http://razbor-poletov.com/2017/11/episode-145</id>
+    <id>http://razborpoletov.com/2017/11/episode-145</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="separator" style="clear: both; text-align: center;">
@@ -6307,9 +6307,9 @@ p.s. Если идете на JPoint 2018, то дослушайте до кон
   
   <entry>
     <title type="html"><![CDATA[Episode 144 — #Devoxx Special: Перворманс в Европе]]></title>
-    <link href="http://razbor-poletov.com/2017/11/episode-144.html"/>
+    <link href="http://razborpoletov.com/2017/11/episode-144.html"/>
     <updated>2017-11-25T00:00:00+00:00</updated>
-    <id>http://razbor-poletov.com/2017/11/episode-144</id>
+    <id>http://razborpoletov.com/2017/11/episode-144</id>
     <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="https://razborpoletov.com/images/razbor_144_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_144_text.jpg" width="350" /></a>
 </div>
@@ -6372,9 +6372,9 @@ p.s. Если идете на JPoint 2018, то дослушайте до кон
   
   <entry>
     <title type="html"><![CDATA[Episode 143 — JavaOne Special ThreadPool Karaoke]]></title>
-    <link href="http://razbor-poletov.com/2017/10/episode-143.html"/>
+    <link href="http://razborpoletov.com/2017/10/episode-143.html"/>
     <updated>2017-10-27T00:00:00+00:00</updated>
-    <id>http://razbor-poletov.com/2017/10/episode-143</id>
+    <id>http://razborpoletov.com/2017/10/episode-143</id>
     <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
 <a href="https://razborpoletov.com/images/razbor_143_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_143_text.jpg" width="350" /></a>
 </div>
@@ -6442,9 +6442,9 @@ p.s. Если идете на JPoint 2018, то дослушайте до кон
   
   <entry>
     <title type="html"><![CDATA[Episode 142 – Кафка и OpenJDK]]></title>
-    <link href="http://razbor-poletov.com/2017/10/episode-142.html"/>
+    <link href="http://razborpoletov.com/2017/10/episode-142.html"/>
     <updated>2017-10-01T00:00:00+00:00</updated>
-    <id>http://razbor-poletov.com/2017/10/episode-142</id>
+    <id>http://razborpoletov.com/2017/10/episode-142</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="separator" style="clear: both; text-align: center;">
