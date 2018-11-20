@@ -23,5 +23,5 @@ after_script:
   - bundle exec rake deploy
 env:
   global:
-    - REPO="https://github.com/razbor-poletov/razbor-poletov.github.com.git"
+    - REPO="https://github.com/razbor-poletov/razborpoletov.github.com.git"
     - secure: GWdAGUnCaXU+hiLzSrzSMS+0GKfmfO1WBzt/U8lrZTCGPIKOXYlAb5e3JcnCMXl4tgmegeiKnBjand5KeCS18rhLuh/o2XbXew8s0UWigO6+7xFSDb9REKF/uKCOnf/ePTn0dcruO2Rz4h4YlIPvZtDk+wyk0qHe2xdXlrVcfsU=
