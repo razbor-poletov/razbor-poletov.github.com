@@ -13,7 +13,7 @@ length: 94422800
 
 ++++
 <div class="separator" style="clear: both; text-align: center;">
-<a href="http://razbor-poletov.com/images/razbor_84_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_84_text.jpg" width="350" /></a>
+<a href="https://razborpoletov.com/images/razbor_84_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_84_text.jpg" width="350" /></a>
 </div>
 ++++
 
@@ -55,7 +55,7 @@ _>>>>> Но это же не наш метод!<<<<<_
 
 == Полезняшки
 
-http://pilots.razbor-poletov.com/#/useful[Полезняшки искать тут]
+http://pilots.razborpoletov.com/#/useful[Полезняшки искать тут]
 
 * http://blog.arungupta.me/jdk9-repl-getting-started/[REPL в Java 9]
 * http://rationalwiki.org/wiki/Frequency_illusion
@@ -69,9 +69,9 @@ http://pilots.razbor-poletov.com/#/useful[Полезняшки искать ту
 
 Наши контакты:
 
-Официальный сайт — http://razbor-poletov.com[http://razbor-poletov.com]
+Официальный сайт — https://razborpoletov.com[https://razborpoletov.com]
 
-http://razbor-poletov.com/broadcast.html[Информация о вещании]
+https://razborpoletov.com/broadcast.html[Информация о вещании]
 
 Гости и участники:
 
@@ -96,7 +96,7 @@ twitter:
 Подписаться по http://feeds.feedburner.com/razbor-podcast[RSS]
 
 ++++
-<img border="0" src="http://razbor-poletov.com/images/ec.jpg"/>
+<img border="0" src="https://razborpoletov.com/images/ec.jpg"/>
 <!-- episode file link goes here-->
 <a href="http://traffic.libsyn.com/razborpoletov/razbor_84.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="http://2.bp.blogspot.com/-qkfh8Q--dks/T0gixAMzuII/AAAAAAAAHD0/O5LbF3vvBNQ/s200/1330127522_mp3.png" width="64" /></a>
 ++++

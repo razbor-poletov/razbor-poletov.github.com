@@ -10,7 +10,7 @@ categories:
 
 ++++
 <div class="separator" style="clear: both; text-align: center;">
-<a href="http://razbor-poletov.com/images/razbor_113_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_113_text.jpg" width="350" /></a>
+<a href="https://razborpoletov.com/images/razbor_113_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_113_text.jpg" width="350" /></a>
 </div>
 ++++
 
@@ -48,12 +48,12 @@ categories:
 
 == Вопросы от lcpsoft
 
-. {y} [line-through]#Почему нельзя написать программу, подобную JRecoverer, для восстановления паролей базы данных IBM DB2 (5-я по популярности база данных)?# *http://razbor-poletov.com/2016/07/episode-113.html#comment-2790976324[`micki`]*
-. {y} [line-through]#Какая единственная статья на сайте Алексея Шипилёва посвящена криптографии?# *http://razbor-poletov.com/2016/07/episode-113.html#comment-2785544138[`dima`]*
-. {y} [line-through]#Как называется популярная программа для восстановления паролей, название которой похоже на название доклада Евгения Борисова?# *http://razbor-poletov.com/2016/07/episode-113.html#comment-2785533848[`guga`]*
-. {y} [line-through]#Как зовут двух постоянных докладчиков конференций JPoint/Joker/JBreak, продукты компаний которых (компаний, в которых они работают) являются обфускаторами Java-кода или могут быть использованы как обфускаторы? Назвать докладчиков (хотя бы), компании и продукты.# *http://razbor-poletov.com/2016/07/episode-113.html#comment-2787546039[`OSt`]*
-. {y} [line-through]#Какие факторы облегчают восстановление паролей?# *http://razbor-poletov.com/2016/07/episode-113.html#comment-2786776463[`iRus`]*
-. {y} [line-through]#Какие способы разработчики криптографических алгоритмов используют для затруднения восстановления паролей по их хэшам?# *http://razbor-poletov.com/2016/07/episode-113.html#comment-2787546039[`OSt`]*
+. {y} [line-through]#Почему нельзя написать программу, подобную JRecoverer, для восстановления паролей базы данных IBM DB2 (5-я по популярности база данных)?# *https://razborpoletov.com/2016/07/episode-113.html#comment-2790976324[`micki`]*
+. {y} [line-through]#Какая единственная статья на сайте Алексея Шипилёва посвящена криптографии?# *https://razborpoletov.com/2016/07/episode-113.html#comment-2785544138[`dima`]*
+. {y} [line-through]#Как называется популярная программа для восстановления паролей, название которой похоже на название доклада Евгения Борисова?# *https://razborpoletov.com/2016/07/episode-113.html#comment-2785533848[`guga`]*
+. {y} [line-through]#Как зовут двух постоянных докладчиков конференций JPoint/Joker/JBreak, продукты компаний которых (компаний, в которых они работают) являются обфускаторами Java-кода или могут быть использованы как обфускаторы? Назвать докладчиков (хотя бы), компании и продукты.# *https://razborpoletov.com/2016/07/episode-113.html#comment-2787546039[`OSt`]*
+. {y} [line-through]#Какие факторы облегчают восстановление паролей?# *https://razborpoletov.com/2016/07/episode-113.html#comment-2786776463[`iRus`]*
+. {y} [line-through]#Какие способы разработчики криптографических алгоритмов используют для затруднения восстановления паролей по их хэшам?# *https://razborpoletov.com/2016/07/episode-113.html#comment-2787546039[`OSt`]*
 
 Все лицензии ушли. Благодарим за ответы и участие!
 
@@ -61,9 +61,9 @@ categories:
 
 Наши контакты:
 
-Официальный сайт — http://razbor-poletov.com[http://razbor-poletov.com]
+Официальный сайт — https://razborpoletov.com[https://razborpoletov.com]
 
-http://razbor-poletov.com/broadcast.html[Информация о вещании]
+https://razborpoletov.com/broadcast.html[Информация о вещании]
 
 Гости и участники:
 

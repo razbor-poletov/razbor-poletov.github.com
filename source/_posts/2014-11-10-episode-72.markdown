@@ -7,7 +7,7 @@ categories:
 ---
 
 <div class="separator" style="clear: both; text-align: center;">
-<a href="http://razbor-poletov.com/images/razbor_72_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_72_text.jpg" width="350" /></a>
+<a href="https://razborpoletov.com/images/razbor_72_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_72_text.jpg" width="350" /></a>
 </div>
 
 * [Носороги на воле и они будут в Москве!!!](http://jugmsk.timepad.ru/event/158310/) 
@@ -36,9 +36,9 @@ categories:
 
 Наши контакты:
 
-Официальный сайт — [http://razbor-poletov.com](http://razbor-poletov.com)
+Официальный сайт — [https://razborpoletov.com](https://razborpoletov.com)
 
-[Информация о вещании](http://razbor-poletov.com/broadcast.html)
+[Информация о вещании](https://razborpoletov.com/broadcast.html)
 
 Темы для следующего выпуска - [https://github.com/razbor-poletov/](https://github.com/razbor-poletov/razbor-poletov.github.com/issues?state=open)
 

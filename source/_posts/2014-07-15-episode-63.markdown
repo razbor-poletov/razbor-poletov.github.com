@@ -9,7 +9,7 @@ categories:
 [Кто-то неправ](http://xkcd.com/386/)
 
 <div class="separator" style="clear: both; text-align: center;">
-<a href="http://razbor-poletov.com/images/razbor_63_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/razbor_63_text.jpg" width="350" /></a>
+<a href="https://razborpoletov.com/images/razbor_63_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_63_text.jpg" width="350" /></a>
 </div>
 
 Конференции:
@@ -44,7 +44,7 @@ _На правах рекламы:_
 
 Наши контакты:
 
-Официальный сайт — [http://razbor-poletov.com](http://razbor-poletov.com)
+Официальный сайт — [https://razborpoletov.com](https://razborpoletov.com)
 
 Темы для следующего выпуска - [https://github.com/razbor-poletov/](https://github.com/razbor-poletov/razbor-poletov.github.com/issues?state=open)
 

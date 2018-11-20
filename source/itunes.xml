@@ -5,15 +5,15 @@ layout: nil
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Разбор Полетов</title>
-    <link>http://razbor-poletov.com/</link>
-    <atom:link href="http://razbor-poletov.com/atom.xml" rel="self" type="application/rss+xml"/>
+    <link>https://razborpoletov.com/</link>
+    <atom:link href="https://razborpoletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
     <pubDate>{{ site.time | date_to_xmlschema }}</pubDate>
     <lastBuildDate>{{ site.time | date_to_xmlschema }}</lastBuildDate>
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="http://razbor-poletov.com/logoB.jpg" />
+    <itunes:image href="https://razborpoletov.com/logoB.jpg" />
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
     <itunes:subtitle>Правильный подкаст для IT-шников</itunes:subtitle>
     <itunes:summary>Правильный подкаст для IT-шников</itunes:summary>
@@ -21,7 +21,7 @@ layout: nil
       <itunes:category text="Tech News"/>
     </itunes:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
-    <media:thumbnail url="http://razbor-poletov.com/logoB.jpg" />
+    <media:thumbnail url="https://razborpoletov.com/logoB.jpg" />
     {% for post in site.posts limit: 50 %}
     <item>
       <title>{{ post.title | cdata_escape }}</title>

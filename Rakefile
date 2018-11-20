@@ -129,7 +129,7 @@ task :new_post, :title do |t, args|
 
 ++++
 <div class="separator" style="clear: both; text-align: center;">
-<a href="http://razbor-poletov.com/images/{filename}_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="http://razbor-poletov.com/images/{filename}_text.jpg" width="350" /></a>
+<a href="https://razborpoletov.com/images/{filename}_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/{filename}_text.jpg" width="350" /></a>
 </div>
 ++++
 
@@ -148,9 +148,9 @@ task :new_post, :title do |t, args|
 
 Наши контакты:
 
-Официальный сайт — http://razbor-poletov.com[http://razbor-poletov.com]
+Официальный сайт — https://razborpoletov.com[https://razborpoletov.com]
 
-http://razbor-poletov.com/broadcast.html[Информация о вещании]
+https://razborpoletov.com/broadcast.html[Информация о вещании]
 
 Гости и участники:
 
@@ -517,7 +517,7 @@ task :minify_js do
   input = "#{source_dir}/javascripts/all.js"
   output = "#{source_dir}/javascripts/all.#{asset_version}.js"
   source_map_option = "--source-map #{source_dir}/javascripts/all.#{asset_version}.js.map"
-  source_map_root_option = "--source-map-root http://www.razbor-poletov.com"
+  source_map_root_option = "--source-map-root http://razborpoletov.com"
   system "uglifyjs #{input} -o #{output} #{source_map_option} #{source_map_root_option} -p 2 -m -c warnings=false"
   Dir.glob("#{source_dir}/javascripts/all.*").each do |f|
     FileUtils.mv(f, "#{public_dir}/javascripts")

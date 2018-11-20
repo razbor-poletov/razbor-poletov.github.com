@@ -18,7 +18,7 @@ categories:
 
 Наши контакты:
 
-  - Официальный сайт [http://razbor-poletov.com](http://razbor-poletov.com)
+  - Официальный сайт [https://razborpoletov.com](https://razborpoletov.com)
   - twitter: [@a_abashev](https://twitter.com/#!/a_abashev) [@gamussa](https://twitter.com/#!/gamussa)
   - G+: [gplus.to/gAmUssA](gplus.to/gAmUssA) [http://gplus.to/aabashev](http://gplus.to/aabashev)
 

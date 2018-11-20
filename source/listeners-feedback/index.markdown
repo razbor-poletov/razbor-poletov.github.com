@@ -7,7 +7,7 @@ footer: true
 ---
 
 
-{% blockquote Слушатель Ivannoff http://razbor-poletov.com/2012/02/episode-11.html %}
+{% blockquote Слушатель Ivannoff https://razborpoletov.com/2012/02/episode-11.html %}
 Очень профессионально, как заправские радийшики).
 {% endblockquote %}
 

@@ -36,7 +36,7 @@ categories:
 * [Maven for not download internetz](http://www.sonatype.com/people/2012/08/download-it-all-at-once-a-maven-idea/)
 
 #### Наши контакты:
-##### Официальный сайт — [http://razbor-poletov.com](http://razbor-poletov.com)
+##### Официальный сайт — [https://razborpoletov.com](https://razborpoletov.com)
 ##### twitter: 
  * [@a_abashev](https://twitter.com/#!/a_abashev) 
  * [@gamussa](https://twitter.com/#!/gamussa)
