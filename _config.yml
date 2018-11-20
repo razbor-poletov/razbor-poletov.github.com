@@ -82,6 +82,7 @@ delicious_count: 3
 # Disqus Comments
 disqus_short_name: razbor-poletov
 disqus_show_comment_count: true
+disqus_identifier: http://razbor-poletov.com
 
 # Google Analytics
 google_analytics_tracking_id: UA-29276532-1
