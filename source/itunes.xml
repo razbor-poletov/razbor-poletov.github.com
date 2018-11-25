@@ -11,7 +11,6 @@ layout: nil
     <generator>jekyll</generator>
     <pubDate>{{ site.time | date_to_xmlschema }}</pubDate>
     <lastBuildDate>{{ site.time | date_to_xmlschema }}</lastBuildDate>
-    <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="https://razborpoletov.com/logoB.jpg" />
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>

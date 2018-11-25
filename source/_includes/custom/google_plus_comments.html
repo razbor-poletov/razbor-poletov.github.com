@@ -1,9 +1,0 @@
-{% if site.googleplus_user and page.comments != false %}
-<script>
-    gapi.comments.render('gplus-pingback', { 
-	    href: '{{ site.url }}{{ page.url }}',
-        first_party_property: 'BLOGGER',
-        view_type: 'FILTERED_POSTMOD'
-    });
-</script>
-{% endif %}
