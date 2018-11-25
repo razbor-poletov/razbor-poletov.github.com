@@ -1,0 +1,13 @@
+{% if post.episode %}
+  {% assign episode = post.episode %}
+{% elsif page.episode %}
+  {% assign episode = page.episode %}
+{% endif %}
+
+{% if episode %}
+<div class="separator" style="width: 100%; text-align: center;">
+    <img border="0" height="350" src="/images/razbor_{{ episode }}_text.jpg" width="350" />
+</div>
+{% endif %}
+
+

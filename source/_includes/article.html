@@ -15,6 +15,7 @@
     {% endunless %}
   </header>
 {% endunless %}
+{% include post/cover.html %}
 {% if index %}
   <div class="entry-content">{{ content | excerpt }}</div>
   {% capture excerpted %}{{ content | has_excerpt }}{% endcapture %}
