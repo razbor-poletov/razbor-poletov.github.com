@@ -1,6 +1,7 @@
 ---
 layout: default
 single: true
+comments: true
 ---
 
 <div>
@@ -8,6 +9,15 @@ single: true
   {% include article.html %}
   {% include post/player.html %}
   {% include post/download.html %}
+
+  {% if page.comments == true %}
+  <section>
+    {% if site.disqus_short_name %}
+    	<div id="disqus_thread" aria-live="polite">{% include post/disqus_thread.html %}</div>
+    {% endif %}
+  </section>
+  {% endif %}
+
   <footer>
     <p class="meta">
       {% include post/author.html %}
@@ -27,14 +37,6 @@ single: true
     </p>
   </footer>
 </article>
-{% if page.comments == true %}
-  <section>
-    <h1>Comments</h1>
-    {% if site.disqus_short_name %}
-    	<div id="disqus_thread" aria-live="polite">{% include post/disqus_thread.html %}</div>
-    {% endif %}
-  </section>
-{% endif %}
 </div>
 {% unless page.sidebar == false %}
 <aside class="sidebar">

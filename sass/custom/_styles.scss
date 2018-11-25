@@ -139,12 +139,13 @@ body > footer{
 
 @media only screen and (min-width: 550px) {
 
-  body > header h1{
-      background: url("/favicon.png") no-repeat 0 8px;
-      padding-left: 60px;
+  body > header hgroup {
+    background: url("/images/logo_header.png") no-repeat 8px 8px;
   }
 
-  body > header h2 { padding-left: 60px; }
+  body > header h1 { padding-left: 100px; }
+
+  body > header h2 { padding-left: 100px; }
 
   body > footer { margin-bottom: 3em; }
 }
