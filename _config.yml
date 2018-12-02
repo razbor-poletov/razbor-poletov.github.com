@@ -16,10 +16,10 @@ description: "Болтологический подкаст, популярны�
 date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
-subscribe_rss: http://feeds.feedburner.com/razbor-podcast
+subscribe_rss: https://feeds.podcastmirror.com/razborpoletov
 subscribe_email:
 # RSS feeds can list your email address if you like
-email: razbor.poletov1@gmail.com
+email: admin@razborpoletov.com
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -45,7 +45,7 @@ titlecase: true       # Converts page and post titles to titlecase
 
 # list each of the sidebar modules you want to include, in the order you want them to appear.
 # To add custom asides, create files in /source/_includes/custom/asides/ and add them to the list like 'custom/asides/custom_aside_name.html'
-default_asides: [custom/asides/banner.html, custom/asides/facebook.html, custom/asides/partners.html, custom/asides/paypal.html, custom/asides/telegram.html, asides/recent_posts.html, asides/github.html, asides/twitter.html]
+default_asides: [custom/asides/paypal.html, custom/asides/facebook.html, custom/asides/partners.html,  custom/asides/telegram.html, asides/recent_posts.html, asides/github.html, asides/twitter.html]
 
 # Each layout uses the default asides, but they can have their own asides instead. Simply uncomment the lines below
 # and add an array with the asides you want to use.
@@ -86,3 +86,5 @@ facebook_like: true
 asciidoctor:
   attributes:
     - hardbreaks!
+
+media_url_prefix: http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov
