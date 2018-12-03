@@ -12,7 +12,7 @@ layout: nil
     <pubDate>{{ site.time | date_to_xmlschema }}</pubDate>
     <lastBuildDate>{{ site.time | date_to_xmlschema }}</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="{{ site.url }}/logoB.jpg" />
+    <itunes:image href="{{ site.url }}/logoNew.jpg" />
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
     <itunes:subtitle>Правильный подкаст для IT-шников</itunes:subtitle>
     <itunes:summary>Правильный подкаст для IT-шников</itunes:summary>
@@ -20,7 +20,7 @@ layout: nil
       <itunes:category text="Tech News"/>
     </itunes:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
-    <media:thumbnail url="{{ site.url }}/logoB.jpg" />
+    <media:thumbnail url="{{ site.url }}/logoNew.jpg" />
     {% for post in site.posts limit: 50 %}
     <item>
       <title>{{ post.title | cdata_escape }}</title>
