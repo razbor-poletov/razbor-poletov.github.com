@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2018-11-30T19:03:56+00:00</updated>
+  <updated>2018-12-03T16:06:08+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,101 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 192 — РП: Java — Дайдждест — Шпроты]]></title>
+    <link href="http://razborpoletov.com/2018/12/episode-192.html"/>
+    <updated>2018-12-03T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2018/12/episode-192</id>
+    <content type="html"><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://razborpoletov.com/images/razbor_192_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_192_text.jpg" width="350" /></a>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
+<div class="sectionbody">
+<div class="listingblock">
+<div class="content">
+<pre>👇 👇 👇 Официальный стикерпак Разбора Полетов и полуофициальный Чат pro.jvm в Телеграме 👇 👇 👇</pre>
+</div>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://t.me/addstickers/razbor_poletov">стикеры</a></p>
+</li>
+<li>
+<p><a href="https://t.me/jvmchat">pro.jvm</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://twitter.com/olegchir">Олег Чирухин</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://jug.ru/2018/11/digest-week-81/">Java Дайджест №81</a></p>
+</li>
+</ul>
+</div>
+<hr>
+<div class="paragraph">
+<p>Наши контакты:</p>
+</div>
+<div class="paragraph">
+<p>Официальный сайт — <a href="https://razborpoletov.com">https://razborpoletov.com</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://razborpoletov.com/broadcast.html">Информация о вещании</a></p>
+</div>
+<div class="paragraph">
+<p>Гости и участники:</p>
+</div>
+<div class="paragraph">
+<p>twitter:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://twitter.com/a_abashev">@a_abashev</a></p>
+</li>
+</ul>
+</div>
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_192.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+<div class="paragraph">
+<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
+</div>
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_192.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="https://razborpoletov.com/images/mp3.png" width="64" /></a>
+<div class="paragraph">
+<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
+</div>
+</div>
+</div>]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 191 — РП: Java — Дайдждест — Красная шапка и проект "Шкура"]]></title>
@@ -6437,185 +6532,6 @@ p.s. Если идете на JPoint 2018, то дослушайте до кон
 <a href="http://traffic.libsyn.com/razborpoletov/razbor_143.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="https://razborpoletov.com/images/mp3.png" width="64" /></a>
 <div class="paragraph">
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
-</div>]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 142 – Кафка и OpenJDK]]></title>
-    <link href="http://razborpoletov.com/2017/10/episode-142.html"/>
-    <updated>2017-10-01T00:00:00+00:00</updated>
-    <id>http://razborpoletov.com/2017/10/episode-142</id>
-    <content type="html"><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_142_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_142_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Гости">Гости</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p>Все свои</p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Мероприятия">Мероприятия</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://jokerconf.com">Joker</a> 3-4 Ноября</p>
-</li>
-<li>
-<p><a href="https://kafka-summit.org">KafkaSummit</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Темы">Темы</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p>KafkaSummit и что нам приготовил Confluent <strong><a href="https://www.confluent.io/kafka-summit-nyc17/resource/">[NYC</a>]</strong> <strong><a href="https://www.confluent.io/kafka-summit-sf17/resource/">[SF</a>]</strong></p>
-</li>
-<li>
-<p>Java хотят релизить чаще</p>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://mreinhold.org/blog/forward-faster">Moving Java Forward Faster</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/mreinhold/status/905476085256617985">И чем это грозит</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/DonaldOJDK/status/905734415984320513" class="bare">https://twitter.com/DonaldOJDK/status/905734415984320513</a></p>
-</li>
-<li>
-<p><a href="https://adoptopenjdk.net/" class="bare">https://adoptopenjdk.net/</a></p>
-</li>
-<li>
-<p><a href="https://ci.adoptopenjdk.net/" class="bare">https://ci.adoptopenjdk.net/</a></p>
-</li>
-<li>
-<p><a href="https://github.com/AdoptOpenJDK" class="bare">https://github.com/AdoptOpenJDK</a></p>
-</li>
-</ul>
-</div>
-</li>
-<li>
-<p><a href="https://blogs.oracle.com/theaquarium/opening-up-ee-update">Java EE всё?</a></p>
-</li>
-<li>
-<p><a href="https://www.theregister.co.uk/2017/09/04/oracle_layoffs_solaris_sparc_teams">Solaris все?</a></p>
-</li>
-<li>
-<p>Flight Recorder перекочует в OpenJDK. <a href="https://blogs.oracle.com/java-platform-group/faster-and-easier-use-and-redistribution-of-java-se">Оракл отдает платные фичи в опенсорс</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Полезняшки">Полезняшки</h2>
-<div class="sectionbody">
-<div class="olist arabic">
-<ol class="arabic">
-<li>
-<p><a href="https://vimeo.com/javazone">JavaZone Vimeo</a></p>
-</li>
-<li>
-<p>Kafka Summit <a href="https://www.confluent.io/kafka-summit-sf17/resource/" class="bare">https://www.confluent.io/kafka-summit-sf17/resource/</a></p>
-</li>
-<li>
-<p>Вышел <a href="https://www.sublimetext.com/blog/articles/sublime-text-3-point-0">Sublime Text 3</a></p>
-</li>
-<li>
-<p>Релизнулся <a href="https://github.com/junit-team/junit5/releases">JUnit 5</a></p>
-</li>
-</ol>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="timeline">Timeline</h2>
-<div class="sectionbody">
-<div class="listingblock">
-<div class="content">
-<pre>10-00 Не одним агентом JRebel единым :)
-12-00 KafkaSummit
-14-20 Kafka 0.11 – Революция. 1.0 уже не так масштабно
-15-30 Kafka 1.0 – Ждем в конце октября
-18-00 Почему 1.0 именно сейчас?
-20-00 Confluent Platform – Что ты такое
-27-00 Все продукты Confluent написаны на Java :)
-30-00 Schema Registry
-41-00 OpenJDK и OracleJDK сблизятся
-44-00 Нумерация Java – Naming is hard, Class Version is hard
-50-00 Частые релизы Java и к чему это ведёт
-1-05 Сертификация X на соответствие какой то версии Java (см JavaEE)
-1-11 javaslang попросили переименовать в vavr, а RxJava живет как то
-1-17 Flight Recorder перекочует в OpenJDK. https://blogs.oracle.com/java-platform-group/faster-and-easier-use-and-redistribution-of-java-se[Оракл отдает платные фичи в опенсорс]
-1-23 За С++ не стоит большой компании, но живет же как то
-1-30 Finish him!</pre>
-</div>
-</div>
-<hr>
-<div class="paragraph">
-<p>Наши контакты:</p>
-</div>
-<div class="paragraph">
-<p>Официальный сайт — <a href="https://razborpoletov.com">https://razborpoletov.com</a></p>
-</div>
-<div class="paragraph">
-<p><a href="https://razborpoletov.com/broadcast.html">Информация о вещании</a></p>
-</div>
-<div class="paragraph">
-<p>Гости и участники:</p>
-</div>
-<div class="paragraph">
-<p>twitter:</p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://twitter.com/antonarhipov">@antonarhipov</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/tolkv">@tolkv</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/johnwings">@johnwings</a></p>
-</li>
-</ul>
-</div>
-<!-- player goes here-->
-
-<audio preload="none">
-   <source src="http://traffic.libsyn.com/razborpoletov/razbor_142.mp3" type="audio/mp3" />
-   Your browser does not support the audio tag.
-</audio>
-<div class="paragraph">
-<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
-</div>
-<!-- episode file link goes here-->
-<a href="http://traffic.libsyn.com/razborpoletov/razbor_142.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="https://razborpoletov.com/images/mp3.png" width="64" /></a>
-<div class="paragraph">
-<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
-</div>
-</div>
 </div>]]></content>
   </entry>
   
