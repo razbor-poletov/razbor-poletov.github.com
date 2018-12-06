@@ -2,15 +2,14 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Разбор Полетов</title>
-    <link>https://razborpoletov.com/</link>
-    <atom:link href="https://razborpoletov.com/atom.xml" rel="self" type="application/rss+xml"/>
+    <link>http://razborpoletov.com</link>
+    <atom:link href="http://razborpoletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2018-12-03T16:06:08+00:00</pubDate>
-    <lastBuildDate>2018-12-03T16:06:08+00:00</lastBuildDate>
-    <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
+    <pubDate>2018-12-06T19:15:30+00:00</pubDate>
+    <lastBuildDate>2018-12-06T19:15:30+00:00</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="https://razborpoletov.com/logoB.jpg" />
+    <itunes:image href="http://razborpoletov.com/logoNew.jpg" />
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
     <itunes:subtitle>Правильный подкаст для IT-шников</itunes:subtitle>
     <itunes:summary>Правильный подкаст для IT-шников</itunes:summary>
@@ -18,21 +17,14 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
-    <media:thumbnail url="https://razborpoletov.com/logoB.jpg" />
+    <media:thumbnail url="http://razborpoletov.com/logoNew.jpg" />
     
     <item>
       <title>Episode 192 — РП: Java — Дайдждест — Шпроты</title>
       <link>http://razborpoletov.com/2018/12/episode-192.html</link>
       <pubDate>2018-12-03T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2018/12/episode-192</guid>
-      <description><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_192_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_192_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+      <description><![CDATA[<div class="sect1">
 <h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
 <div class="sectionbody">
 <div class="listingblock">
@@ -113,16 +105,9 @@
 </div>
 </div>
 </div>]]></description>
-      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_192.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_192.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[
-
-
-
-
-
-
-
 Партнеры выпуска
 
 
@@ -203,47 +188,24 @@ twitter:
 
 
 ]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_192_text.jpg" />
     </item>
     
     <item>
-      <title>Episode 191 — РП: Java — Дайдждест — Красная шапка и проект &#8220;Шкура&#8221;</title>
+      <title>Java Digest — Красная шапка и проект &#8220;Шкура&#8221;</title>
       <link>http://razborpoletov.com/2018/11/episode-191.html</link>
-      <pubDate>2018-11-05T00:00:00+00:00</pubDate>
+      <pubDate>2018-11-06T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2018/11/episode-191</guid>
-      <description><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_191_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_191_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
-<div class="sectionbody">
-<div class="listingblock">
-<div class="content">
-<pre>👇 👇 👇 Официальный стикерпак Разбора Полетов и полуофициальный Чат pro.jvm в Телеграме 👇 👇 👇</pre>
-</div>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://t.me/addstickers/razbor_poletov">стикеры</a></p>
-</li>
-<li>
-<p><a href="https://t.me/jvmchat">pro.jvm</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
+      <description><![CDATA[<div class="sect1">
 <h2 id="Гости-и-участники">Гости и участники</h2>
 <div class="sectionbody">
 <div class="ulist">
 <ul>
 <li>
 <p><a href="https://twitter.com/olegchir">Олег Чирухин</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/a_abashev">@a_abashev</a></p>
 </li>
 </ul>
 </div>
@@ -259,81 +221,20 @@ twitter:
 </li>
 </ul>
 </div>
-<hr>
-<div class="paragraph">
-<p>Наши контакты:</p>
-</div>
-<div class="paragraph">
-<p>Официальный сайт — <a href="https://razborpoletov.com">https://razborpoletov.com</a></p>
-</div>
-<div class="paragraph">
-<p><a href="https://razborpoletov.com/broadcast.html">Информация о вещании</a></p>
-</div>
-<div class="paragraph">
-<p>Гости и участники:</p>
-</div>
-<div class="paragraph">
-<p>twitter:</p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://twitter.com/a_abashev">@a_abashev</a></p>
-</li>
-</ul>
-</div>
-<!-- player goes here-->
-
-<audio preload="none">
-   <source src="http://traffic.libsyn.com/razborpoletov/razbor_191.mp3" type="audio/mp3" />
-   Your browser does not support the audio tag.
-</audio>
-<div class="paragraph">
-<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
-</div>
-<!-- episode file link goes here-->
-<a href="http://traffic.libsyn.com/razborpoletov/razbor_191.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="https://razborpoletov.com/images/mp3.png" width="64" /></a>
-<div class="paragraph">
-<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
-</div>
 </div>
 </div>]]></description>
-      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_191.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_191.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[
-
-
-
-
-
-
-
-Партнеры выпуска
-
-
-
-👇 👇 👇 Официальный стикерпак Разбора Полетов и полуофициальный Чат pro.jvm в Телеграме 👇 👇 👇
-
-
-
-
-
-стикеры
-
-
-pro.jvm
-
-
-
-
-
-
 Гости и участники
 
 
 
 
 Олег Чирухин
+
+
+@a_abashev
 
 
 
@@ -350,44 +251,8 @@ Java Дайджест №80
 
 
 
-
-Наши контакты:
-
-
-Официальный сайт — https://razborpoletov.com
-
-
-Информация о вещании
-
-
-Гости и участники:
-
-
-twitter:
-
-
-
-
-@a_abashev
-
-
-
-
-
-
-   
-   Your browser does not support the audio tag.
-
-
-Подписаться по RSS
-
-
-
-
-Музыка ведущим предоставлена и ладно&#8230;&#8203;
-
-
 ]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_191_text.jpg" />
     </item>
     
     <item>
@@ -395,14 +260,7 @@ twitter:
       <link>http://razborpoletov.com/2018/11/episode-190.html</link>
       <pubDate>2018-11-05T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2018/11/episode-190</guid>
-      <description><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_190_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_190_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+      <description><![CDATA[<div class="sect1">
 <h2 id="Гости">Гости</h2>
 <div class="sectionbody">
 <div class="ulist">
@@ -489,16 +347,9 @@ twitter:
 </div>
 </div>
 </div>]]></description>
-      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_190.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_190.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[
-
-
-
-
-
-
-
 Гости
 
 
@@ -585,6 +436,7 @@ twitter:
 
 
 ]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_190_text.jpg" />
     </item>
     
     <item>
@@ -592,14 +444,7 @@ twitter:
       <link>http://razborpoletov.com/2018/10/episode-189.html</link>
       <pubDate>2018-10-22T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2018/10/episode-189</guid>
-      <description><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_189_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_189_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+      <description><![CDATA[<div class="sect1">
 <h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
 <div class="sectionbody">
 <div class="listingblock">
@@ -683,16 +528,9 @@ twitter:
 </div>
 </div>
 </div>]]></description>
-      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_189.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_189.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[
-
-
-
-
-
-
-
 Партнеры выпуска
 
 
@@ -776,6 +614,7 @@ twitter:
 
 
 ]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_189_text.jpg" />
     </item>
     
     <item>
@@ -783,14 +622,7 @@ twitter:
       <link>http://razborpoletov.com/2018/10/episode-188.html</link>
       <pubDate>2018-10-17T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2018/10/episode-188</guid>
-      <description><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_188_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_188_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+      <description><![CDATA[<div class="sect1">
 <h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
 <div class="sectionbody">
 <div class="listingblock">
@@ -888,16 +720,9 @@ twitter:
 </div>
 </div>
 </div>]]></description>
-      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_188.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_188.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[
-
-
-
-
-
-
-
 Партнеры выпуска
 
 
@@ -995,6 +820,7 @@ twitter:
 
 
 ]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_188_text.jpg" />
     </item>
     
     <item>
@@ -1002,14 +828,7 @@ twitter:
       <link>http://razborpoletov.com/2018/10/episode-187.html</link>
       <pubDate>2018-10-08T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2018/10/episode-187</guid>
-      <description><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_187_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_187_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+      <description><![CDATA[<div class="sect1">
 <h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
 <div class="sectionbody">
 <div class="listingblock">
@@ -1111,16 +930,9 @@ twitter:
 </div>
 </div>
 </div>]]></description>
-      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_187.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_187.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[
-
-
-
-
-
-
-
 Партнеры выпуска
 
 
@@ -1222,6 +1034,7 @@ twitter:
 
 
 ]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_187_text.jpg" />
     </item>
     
     <item>
@@ -1229,14 +1042,7 @@ twitter:
       <link>http://razborpoletov.com/2018/10/episode-186.html</link>
       <pubDate>2018-10-01T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2018/10/episode-186</guid>
-      <description><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_186_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_186_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+      <description><![CDATA[<div class="sect1">
 <h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
 <div class="sectionbody">
 <div class="sidebarblock">
@@ -1323,16 +1129,9 @@ twitter:
 </div>
 </div>
 </div>]]></description>
-      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_186.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_186.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[
-
-
-
-
-
-
-
 Партнеры выпуска
 
 
@@ -1419,6 +1218,7 @@ twitter:
 
 
 ]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_186_text.jpg" />
     </item>
     
     <item>
@@ -1426,14 +1226,7 @@ twitter:
       <link>http://razborpoletov.com/2018/10/episode-185.html</link>
       <pubDate>2018-10-01T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2018/10/episode-185</guid>
-      <description><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_185_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_185_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+      <description><![CDATA[<div class="sect1">
 <h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
 <div class="sectionbody">
 <div class="listingblock">
@@ -1588,16 +1381,9 @@ twitter:
 </div>
 </div>
 </div>]]></description>
-      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_185.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_185.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[
-
-
-
-
-
-
-
 Партнеры выпуска
 
 
@@ -1752,6 +1538,7 @@ twitter:
 
 
 ]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_185_text.jpg" />
     </item>
     
     <item>
@@ -1759,14 +1546,7 @@ twitter:
       <link>http://razborpoletov.com/2018/09/episode-184.html</link>
       <pubDate>2018-09-24T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2018/09/episode-184</guid>
-      <description><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_184_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_184_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+      <description><![CDATA[<div class="sect1">
 <h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
 <div class="sectionbody">
 <div class="listingblock">
@@ -2114,16 +1894,9 @@ twitter:
 </div>
 </div>
 </div>]]></description>
-      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_184.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_184.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[
-
-
-
-
-
-
-
 Партнеры выпуска
 
 
@@ -2471,6 +2244,7 @@ twitter:
 
 
 ]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_184_text.jpg" />
     </item>
     
     <item>
@@ -2478,14 +2252,7 @@ twitter:
       <link>http://razborpoletov.com/2018/09/episode-183.html</link>
       <pubDate>2018-09-24T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2018/09/episode-183</guid>
-      <description><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_183_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_183_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+      <description><![CDATA[<div class="sect1">
 <h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
 <div class="sectionbody">
 <div class="sidebarblock">
@@ -2559,16 +2326,9 @@ twitter:
 </div>
 </div>
 </div>]]></description>
-      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_183.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_183.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[
-
-
-
-
-
-
-
 Партнеры выпуска
 
 
@@ -2642,6 +2402,7 @@ Java Дайджест №75
 
 
 ]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_183_text.jpg" />
     </item>
     
     <item>
@@ -2651,9 +2412,6 @@ Java Дайджест №75
       <guid isPermalink="true">http://razborpoletov.com/2018/09/episode-182</guid>
       <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_182_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_182_text.jpg" width="350" /></a>
-</div>
 <div class="listingblock">
 <div class="content">
 <pre>Официальный Чат Разбора Полетов Телеграме 👇 👇 👇</pre>
@@ -2768,12 +2526,9 @@ Java Дайджест №75
 </div>
 </div>
 </div>]]></description>
-      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_182.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_182.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[
-
-
-
 
 
 
@@ -2889,6 +2644,7 @@ twitter:
 
 
 ]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_182_text.jpg" />
     </item>
     
     <item>
@@ -2898,9 +2654,6 @@ twitter:
       <guid isPermalink="true">http://razborpoletov.com/2018/09/episode-181</guid>
       <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_181_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_181_text.jpg" width="350" /></a>
-</div>
 <div class="listingblock">
 <div class="content">
 <pre>Официальный Чат Разбора Полетов Телеграме 👇 👇 👇</pre>
@@ -3012,12 +2765,9 @@ twitter:
 </div>
 </div>
 </div>]]></description>
-      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_181.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_181.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[
-
-
-
 
 
 
@@ -3130,6 +2880,7 @@ twitter:
 
 
 ]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_181_text.jpg" />
     </item>
     
     <item>
@@ -3139,9 +2890,6 @@ twitter:
       <guid isPermalink="true">http://razborpoletov.com/2018/09/episode-180</guid>
       <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_180_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_180_text.jpg" width="350" /></a>
-</div>
 <div class="paragraph">
 <p><strong>ВНИМАНИЕ : Выпуск местами немножечко 18+</strong></p>
 </div>
@@ -3332,12 +3080,9 @@ twitter:
 </div>
 </div>
 </div>]]></description>
-      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_180.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_180.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[
-
-
-
 
 
 ВНИМАНИЕ : Выпуск местами немножечко 18+
@@ -3529,6 +3274,7 @@ twitter:
 
 
 ]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_180_text.jpg" />
     </item>
     
     <item>
@@ -3538,9 +3284,6 @@ twitter:
       <guid isPermalink="true">http://razborpoletov.com/2018/09/episode-179</guid>
       <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_179_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_179_text.jpg" width="350" /></a>
-</div>
 <div class="listingblock">
 <div class="content">
 <pre>Официальный Чат Разбора Полетов Телеграме 👇 👇 👇</pre>
@@ -3655,12 +3398,9 @@ twitter:
 </div>
 </div>
 </div>]]></description>
-      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_179.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_179.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[
-
-
-
 
 
 
@@ -3776,6 +3516,7 @@ twitter:
 
 
 ]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_179_text.jpg" />
     </item>
     
     <item>
@@ -3785,9 +3526,6 @@ twitter:
       <guid isPermalink="true">http://razborpoletov.com/2018/08/episode-178</guid>
       <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_178_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_178_text.jpg" width="350" /></a>
-</div>
 <div class="listingblock">
 <div class="content">
 <pre>Официальный Чат Разбора Полетов Телеграме 👇 👇 👇</pre>
@@ -3899,12 +3637,9 @@ twitter:
 </div>
 </div>
 </div>]]></description>
-      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_178.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_178.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[
-
-
-
 
 
 
@@ -4017,6 +3752,7 @@ twitter:
 
 
 ]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_178_text.jpg" />
     </item>
     
     <item>
@@ -4026,9 +3762,6 @@ twitter:
       <guid isPermalink="true">http://razborpoletov.com/2018/08/episode-177</guid>
       <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_177_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_177_text.jpg" width="350" /></a>
-</div>
 <div class="listingblock">
 <div class="content">
 <pre>Официальный Чат Разбора Полетов Телеграме 👇 👇 👇</pre>
@@ -4170,12 +3903,9 @@ twitter:
 </div>
 </div>
 </div>]]></description>
-      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_177.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_177.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[
-
-
-
 
 
 
@@ -4318,6 +4048,7 @@ twitter:
 
 
 ]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_177_text.jpg" />
     </item>
     
     <item>
@@ -4327,9 +4058,6 @@ twitter:
       <guid isPermalink="true">http://razborpoletov.com/2018/08/episode-176</guid>
       <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_176_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_176_text.jpg" width="350" /></a>
-</div>
 <div class="listingblock">
 <div class="content">
 <pre>Официальный Чат Разбора Полетов Телеграме 👇 👇 👇</pre>
@@ -4447,12 +4175,9 @@ twitter:
 </div>
 </div>
 </div>]]></description>
-      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_176.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_176.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[
-
-
-
 
 
 
@@ -4571,6 +4296,7 @@ twitter:
 
 
 ]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_176_text.jpg" />
     </item>
     
     <item>
@@ -4580,9 +4306,6 @@ twitter:
       <guid isPermalink="true">http://razborpoletov.com/2018/08/episode-175</guid>
       <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_175_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_175_text.jpg" width="350" /></a>
-</div>
 <div class="listingblock">
 <div class="content">
 <pre>Официальный Чат Разбора Полетов Телеграме 👇 👇 👇</pre>
@@ -4700,12 +4423,9 @@ twitter:
 </div>
 </div>
 </div>]]></description>
-      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_175.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_175.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[
-
-
-
 
 
 
@@ -4824,6 +4544,7 @@ twitter:
 
 
 ]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_175_text.jpg" />
     </item>
     
     <item>
@@ -4833,9 +4554,6 @@ twitter:
       <guid isPermalink="true">http://razborpoletov.com/2018/08/episode-174</guid>
       <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_174_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_174_text.jpg" width="350" /></a>
-</div>
 <div class="listingblock">
 <div class="content">
 <pre>Официальный Чат Разбора Полетов Телеграме 👇 👇 👇</pre>
@@ -4950,12 +4668,9 @@ twitter:
 </div>
 </div>
 </div>]]></description>
-      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_174.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_174.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[
-
-
-
 
 
 
@@ -5071,6 +4786,7 @@ twitter:
 
 
 ]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_174_text.jpg" />
     </item>
     
     <item>
@@ -5080,9 +4796,6 @@ twitter:
       <guid isPermalink="true">http://razborpoletov.com/2018/08/episode-173</guid>
       <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_173_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_173_text.jpg" width="350" /></a>
-</div>
 <div class="listingblock">
 <div class="content">
 <pre>Официальный Чат Разбора Полетов Телеграме 👇 👇 👇</pre>
@@ -5356,12 +5069,9 @@ twitter:
 </div>
 </div>
 </div>]]></description>
-      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_173.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_173.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[
-
-
-
 
 
 
@@ -5636,6 +5346,7 @@ twitter:
 
 
 ]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_173_text.jpg" />
     </item>
     
     <item>
@@ -5645,9 +5356,6 @@ twitter:
       <guid isPermalink="true">http://razborpoletov.com/2018/07/episode-172</guid>
       <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_172_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_172_text.jpg" width="350" /></a>
-</div>
 <div class="listingblock">
 <div class="content">
 <pre>Официальный Чат Разбора Полетов Телеграме 👇 👇 👇</pre>
@@ -5768,12 +5476,9 @@ twitter:
 </div>
 </div>
 </div>]]></description>
-      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_172.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_172.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[
-
-
-
 
 
 
@@ -5895,6 +5600,7 @@ twitter:
 
 
 ]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_172_text.jpg" />
     </item>
     
     <item>
@@ -5904,9 +5610,6 @@ twitter:
       <guid isPermalink="true">http://razborpoletov.com/2018/07/episode-171</guid>
       <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_171_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_171_text.jpg" width="350" /></a>
-</div>
 <div class="listingblock">
 <div class="content">
 <pre>Наконец-то: Официальный Чат Разбора Полетов Телеграме 👇 👇 👇</pre>
@@ -6024,12 +5727,9 @@ twitter:
 </div>
 </div>
 </div>]]></description>
-      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_171.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_171.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[
-
-
-
 
 
 
@@ -6148,6 +5848,7 @@ twitter:
 
 
 ]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_171_text.jpg" />
     </item>
     
     <item>
@@ -6157,9 +5858,6 @@ twitter:
       <guid isPermalink="true">http://razborpoletov.com/2018/07/episode-170</guid>
       <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_170_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_170_text.jpg" width="350" /></a>
-</div>
 <div class="paragraph">
 <p><strong>ВНИМАНИЕ : Выпуск местами немножечко 18+</strong></p>
 </div>
@@ -6352,12 +6050,9 @@ twitter:
 </div>
 </div>
 </div>]]></description>
-      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_170.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_170.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[
-
-
-
 
 
 ВНИМАНИЕ : Выпуск местами немножечко 18+
@@ -6551,6 +6246,7 @@ twitter:
 
 
 ]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_170_text.jpg" />
     </item>
     
     <item>
@@ -6558,14 +6254,7 @@ twitter:
       <link>http://razborpoletov.com/2018/07/episode-169.html</link>
       <pubDate>2018-07-16T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2018/07/episode-169</guid>
-      <description><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_169_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_169_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+      <description><![CDATA[<div class="sect1">
 <h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
 <div class="sectionbody">
 <div class="listingblock">
@@ -6661,16 +6350,9 @@ twitter:
 </div>
 </div>
 </div>]]></description>
-      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_169.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_169.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[
-
-
-
-
-
-
-
 Партнеры выпуска
 
 
@@ -6766,6 +6448,7 @@ twitter:
 
 
 ]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_169_text.jpg" />
     </item>
     
     <item>
@@ -6773,14 +6456,7 @@ twitter:
       <link>http://razborpoletov.com/2018/07/episode-168.html</link>
       <pubDate>2018-07-09T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2018/07/episode-168</guid>
-      <description><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_168_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_168_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+      <description><![CDATA[<div class="sect1">
 <h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
 <div class="sectionbody">
 <div class="listingblock">
@@ -6869,16 +6545,9 @@ twitter:
 </div>
 </div>
 </div>]]></description>
-      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_168.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_168.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[
-
-
-
-
-
-
-
 Партнеры выпуска
 
 
@@ -6967,6 +6636,7 @@ twitter:
 
 
 ]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_168_text.jpg" />
     </item>
     
     <item>
@@ -6974,14 +6644,7 @@ twitter:
       <link>http://razborpoletov.com/2018/07/episode-167.html</link>
       <pubDate>2018-07-02T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2018/07/episode-167</guid>
-      <description><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_167_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_167_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+      <description><![CDATA[<div class="sect1">
 <h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
 <div class="sectionbody">
 <div class="listingblock">
@@ -7076,16 +6739,9 @@ twitter:
 </div>
 </div>
 </div>]]></description>
-      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_167.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_167.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[
-
-
-
-
-
-
-
 Партнеры выпуска
 
 
@@ -7180,6 +6836,7 @@ twitter:
 
 
 ]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_167_text.jpg" />
     </item>
     
     <item>
@@ -7187,14 +6844,7 @@ twitter:
       <link>http://razborpoletov.com/2018/07/episode-166.html</link>
       <pubDate>2018-07-01T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2018/07/episode-166</guid>
-      <description><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_166_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_166_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+      <description><![CDATA[<div class="sect1">
 <h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
 <div class="sectionbody">
 <div class="listingblock">
@@ -7311,16 +6961,9 @@ twitter:
 </div>
 </div>
 </div>]]></description>
-      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_166.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_166.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[
-
-
-
-
-
-
-
 Партнеры выпуска
 
 
@@ -7437,6 +7080,7 @@ twitter:
 
 
 ]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_166_text.jpg" />
     </item>
     
     <item>
@@ -7444,14 +7088,7 @@ twitter:
       <link>http://razborpoletov.com/2018/06/episode-165.html</link>
       <pubDate>2018-06-26T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2018/06/episode-165</guid>
-      <description><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_165_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_165_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+      <description><![CDATA[<div class="sect1">
 <h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
 <div class="sectionbody">
 <div class="listingblock">
@@ -7546,16 +7183,9 @@ twitter:
 </div>
 </div>
 </div>]]></description>
-      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_165.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_165.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[
-
-
-
-
-
-
-
 Партнеры выпуска
 
 
@@ -7650,6 +7280,7 @@ twitter:
 
 
 ]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_165_text.jpg" />
     </item>
     
     <item>
@@ -7657,14 +7288,7 @@ twitter:
       <link>http://razborpoletov.com/2018/06/episode-164.html</link>
       <pubDate>2018-06-20T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2018/06/episode-164</guid>
-      <description><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_164_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_164_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+      <description><![CDATA[<div class="sect1">
 <h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
 <div class="sectionbody">
 <div class="listingblock">
@@ -7778,16 +7402,9 @@ twitter:
 </div>
 </div>
 </div>]]></description>
-      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_164.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_164.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[
-
-
-
-
-
-
-
 Партнеры выпуска
 
 
@@ -7901,6 +7518,7 @@ twitter:
 
 
 ]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_164_text.jpg" />
     </item>
     
     <item>
@@ -7908,14 +7526,7 @@ twitter:
       <link>http://razborpoletov.com/2018/06/episode-163.html</link>
       <pubDate>2018-06-19T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2018/06/episode-163</guid>
-      <description><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_163_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_163_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+      <description><![CDATA[<div class="sect1">
 <h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
 <div class="sectionbody">
 <div class="listingblock">
@@ -8016,16 +7627,9 @@ twitter:
 </div>
 </div>
 </div>]]></description>
-      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_163.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_163.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[
-
-
-
-
-
-
-
 Партнеры выпуска
 
 
@@ -8126,6 +7730,7 @@ twitter:
 
 
 ]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_163_text.jpg" />
     </item>
     
     <item>
@@ -8133,14 +7738,7 @@ twitter:
       <link>http://razborpoletov.com/2018/06/episode-162.html</link>
       <pubDate>2018-06-11T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2018/06/episode-162</guid>
-      <description><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_162_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_162_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+      <description><![CDATA[<div class="sect1">
 <h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
 <div class="sectionbody">
 <div class="listingblock">
@@ -8248,16 +7846,9 @@ twitter:
 </div>
 </div>
 </div>]]></description>
-      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_162.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_162.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[
-
-
-
-
-
-
-
 Партнеры выпуска
 
 
@@ -8365,6 +7956,7 @@ twitter:
 
 
 ]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_162_text.jpg" />
     </item>
     
     <item>
@@ -8372,14 +7964,7 @@ twitter:
       <link>http://razborpoletov.com/2018/06/episode-161.html</link>
       <pubDate>2018-06-08T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2018/06/episode-161</guid>
-      <description><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_161_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_161_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+      <description><![CDATA[<div class="sect1">
 <h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
 <div class="sectionbody">
 <div class="listingblock">
@@ -8475,16 +8060,9 @@ twitter:
 </div>
 </div>
 </div>]]></description>
-      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_161.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_161.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[
-
-
-
-
-
-
-
 Партнеры выпуска
 
 
@@ -8580,6 +8158,7 @@ twitter:
 
 
 ]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_161_text.jpg" />
     </item>
     
     <item>
@@ -8587,14 +8166,7 @@ twitter:
       <link>http://razborpoletov.com/2018/06/episode-160.html</link>
       <pubDate>2018-06-02T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2018/06/episode-160</guid>
-      <description><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_160_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_160_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+      <description><![CDATA[<div class="sect1">
 <h2 id="Гости-и-ведущие">Гости и ведущие</h2>
 <div class="sectionbody">
 <div class="ulist">
@@ -8693,16 +8265,9 @@ twitter:
 </div>
 </div>
 </div>]]></description>
-      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_160.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_160.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[
-
-
-
-
-
-
-
 Гости и ведущие
 
 
@@ -8801,6 +8366,7 @@ twitter:
 
 
 ]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_160_text.jpg" />
     </item>
     
     <item>
@@ -8808,14 +8374,7 @@ twitter:
       <link>http://razborpoletov.com/2018/06/episode-159.html</link>
       <pubDate>2018-06-02T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2018/06/episode-159</guid>
-      <description><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_159_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_159_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+      <description><![CDATA[<div class="sect1">
 <h2 id="Гости-и-ведущие">Гости и ведущие</h2>
 <div class="sectionbody">
 <div class="ulist">
@@ -8926,16 +8485,9 @@ twitter:
 </div>
 </div>
 </div>]]></description>
-      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_159.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_159.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[
-
-
-
-
-
-
-
 Гости и ведущие
 
 
@@ -9046,6 +8598,7 @@ twitter:
 
 
 ]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_159_text.jpg" />
     </item>
     
     <item>
@@ -9053,14 +8606,7 @@ twitter:
       <link>http://razborpoletov.com/2018/05/episode-158.html</link>
       <pubDate>2018-05-14T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2018/05/episode-158</guid>
-      <description><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_158_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_158_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+      <description><![CDATA[<div class="sect1">
 <h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
 <div class="sectionbody">
 <div class="listingblock">
@@ -9132,16 +8678,9 @@ twitter:
 </div>
 </div>
 </div>]]></description>
-      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_158.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_158.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[
-
-
-
-
-
-
-
 Партнеры выпуска
 
 
@@ -9213,6 +8752,7 @@ twitter:
 
 
 ]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_158_text.jpg" />
     </item>
     
     <item>
@@ -9222,9 +8762,6 @@ twitter:
       <guid isPermalink="true">http://razborpoletov.com/2018/03/episode-157</guid>
       <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_157_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_157_text.jpg" width="350" /></a>
-</div>
 <div class="paragraph">
 <p>МОЛНИЯ!!! Промо конференции <a href="https://jpoint.ru/">JPoint</a> в Москве!</p>
 </div>
@@ -9422,12 +8959,9 @@ p.s. Если идете на JPoint 2018, то дослушайте до кон
 </div>
 </div>
 </div>]]></description>
-      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_157.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_157.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[
-
-
-
 
 
 МОЛНИЯ!!! Промо конференции JPoint в Москве!
@@ -9626,6 +9160,7 @@ twitter:
 
 
 ]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_157_text.jpg" />
     </item>
     
     <item>
@@ -9635,9 +9170,6 @@ twitter:
       <guid isPermalink="true">http://razborpoletov.com/2018/03/episode-156</guid>
       <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_156_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_156_text.jpg" width="350" /></a>
-</div>
 <div class="paragraph">
 <p>МОЛНИЯ!!! Промо конференции <a href="https://jpoint.ru/">JPoint</a> в Москве!</p>
 </div>
@@ -9741,12 +9273,9 @@ p.s. Если идете на JPoint 2018, то дослушайте до кон
 </div>
 </div>
 </div>]]></description>
-      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_156.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_156.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[
-
-
-
 
 
 МОЛНИЯ!!! Промо конференции JPoint в Москве!
@@ -9851,6 +9380,7 @@ twitter:
 
 
 ]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_156_text.jpg" />
     </item>
     
     <item>
@@ -9860,9 +9390,6 @@ twitter:
       <guid isPermalink="true">http://razborpoletov.com/2018/03/episode-155</guid>
       <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_155_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_155_text.jpg" width="350" /></a>
-</div>
 <div class="paragraph">
 <p>Специальный выпуск, записанный на конференции DevNexus 2018</p>
 </div>
@@ -9931,12 +9458,9 @@ twitter:
 </div>
 </div>
 </div>]]></description>
-      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_155.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_155.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[
-
-
-
 
 
 Специальный выпуск, записанный на конференции DevNexus 2018
@@ -10006,6 +9530,7 @@ twitter:
 
 
 ]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_155_text.jpg" />
     </item>
     
     <item>
@@ -10015,9 +9540,6 @@ twitter:
       <guid isPermalink="true">http://razborpoletov.com/2018/02/episode-154</guid>
       <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_154_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_154_text.jpg" width="350" /></a>
-</div>
 <div class="paragraph">
 <p>МОЛНИЯ!!! Промо конференции <a href="https://2018.jbreak.ru/">JBreak</a> в Новосибирске!</p>
 </div>
@@ -10239,12 +9761,9 @@ twitter:
 </div>
 </div>
 </div>]]></description>
-      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_154.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_154.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[
-
-
-
 
 
 МОЛНИЯ!!! Промо конференции JBreak в Новосибирске!
@@ -10467,6 +9986,7 @@ twitter:
 
 
 ]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_154_text.jpg" />
     </item>
     
     <item>
@@ -10474,14 +9994,7 @@ twitter:
       <link>http://razborpoletov.com/2018/01/episode-153.html</link>
       <pubDate>2018-01-09T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2018/01/episode-153</guid>
-      <description><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_153_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_153_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+      <description><![CDATA[<div class="sect1">
 <h2 id="Гости">Гости</h2>
 <div class="sectionbody">
 <div class="ulist">
@@ -10639,16 +10152,9 @@ twitter:
 </div>
 </div>
 </div>]]></description>
-      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_153.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_153.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[
-
-
-
-
-
-
-
 Гости
 
 
@@ -10806,6 +10312,7 @@ twitter:
 
 
 ]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_153_text.jpg" />
     </item>
     
     <item>
@@ -10813,14 +10320,7 @@ twitter:
       <link>http://razborpoletov.com/2018/01/episode-152.html</link>
       <pubDate>2018-01-01T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2018/01/episode-152</guid>
-      <description><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_152_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_152_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+      <description><![CDATA[<div class="sect1">
 <h2 id="В-этом-году-с-вами-были">В этом году с вами были</h2>
 <div class="sectionbody">
 <div class="ulist">
@@ -10957,16 +10457,9 @@ twitter:
 </div>
 </div>
 </div>]]></description>
-      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_152.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_152.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[
-
-
-
-
-
-
-
 В этом году с вами были
 
 
@@ -11103,6 +10596,7 @@ twitter:
 
 
 ]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_152_text.jpg" />
     </item>
     
     <item>
@@ -11110,14 +10604,7 @@ twitter:
       <link>http://razborpoletov.com/2017/12/episode-151.html</link>
       <pubDate>2017-12-23T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2017/12/episode-151</guid>
-      <description><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_151_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_151_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+      <description><![CDATA[<div class="sect1">
 <h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
 <div class="sectionbody">
 <div class="listingblock">
@@ -11227,16 +10714,9 @@ twitter:
 </div>
 </div>
 </div>]]></description>
-      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_151.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_151.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[
-
-
-
-
-
-
-
 Партнеры выпуска
 
 
@@ -11346,6 +10826,7 @@ twitter:
 
 
 ]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_151_text.jpg" />
     </item>
     
     <item>
@@ -11353,14 +10834,7 @@ twitter:
       <link>http://razborpoletov.com/2017/12/episode-150.html</link>
       <pubDate>2017-12-23T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2017/12/episode-150</guid>
-      <description><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_150_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_150_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+      <description><![CDATA[<div class="sect1">
 <h2 id="Гости">Гости</h2>
 <div class="sectionbody">
 <div class="ulist">
@@ -11508,16 +10982,9 @@ twitter:
 </div>
 </div>
 </div>]]></description>
-      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_150.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_150.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[
-
-
-
-
-
-
-
 Гости
 
 
@@ -11665,6 +11132,7 @@ twitter:
 
 
 ]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_150_text.jpg" />
     </item>
     
     <item>
@@ -11674,9 +11142,6 @@ twitter:
       <guid isPermalink="true">http://razborpoletov.com/2017/12/episode-149</guid>
       <description><![CDATA[<div id="preamble">
 <div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_149_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_149_text.jpg" width="350" /></a>
-</div>
 <div class="paragraph">
 <p><strong>ВНИМАНИЕ : Выпуск местами немножечко 18+</strong></p>
 </div>
@@ -11783,12 +11248,9 @@ twitter:
 </div>
 </div>
 </div>]]></description>
-      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_149.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_149.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[
-
-
-
 
 
 ВНИМАНИЕ : Выпуск местами немножечко 18+
@@ -11896,6 +11358,7 @@ twitter:
 
 
 ]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_149_text.jpg" />
     </item>
     
     <item>
@@ -11903,14 +11366,7 @@ twitter:
       <link>http://razborpoletov.com/2017/12/episode-148.html</link>
       <pubDate>2017-12-05T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2017/12/episode-148</guid>
-      <description><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_148_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_148_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+      <description><![CDATA[<div class="sect1">
 <h2 id="Темы">Темы</h2>
 <div class="sectionbody">
 <div class="ulist">
@@ -11980,16 +11436,9 @@ twitter:
 </div>
 </div>
 </div>]]></description>
-      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_148.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_148.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[
-
-
-
-
-
-
-
 Темы
 
 
@@ -12059,6 +11508,7 @@ twitter:
 
 
 ]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_148_text.jpg" />
     </item>
     
     <item>
@@ -12066,14 +11516,7 @@ twitter:
       <link>http://razborpoletov.com/2017/12/episode-147.html</link>
       <pubDate>2017-12-05T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2017/12/episode-147</guid>
-      <description><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_147_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_147_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+      <description><![CDATA[<div class="sect1">
 <h2 id="lamoda-и-её-платформа">Lamoda и её платформа</h2>
 <div class="sectionbody">
 <div class="ulist">
@@ -12161,16 +11604,9 @@ twitter:
 </div>
 </div>
 </div>]]></description>
-      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_147.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_147.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[
-
-
-
-
-
-
-
 Lamoda и её платформа
 
 
@@ -12258,6 +11694,7 @@ twitter:
 
 
 ]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_147_text.jpg" />
     </item>
     
     <item>
@@ -12265,10 +11702,7 @@ twitter:
       <link>http://razborpoletov.com/2017/12/episode-146.html</link>
       <pubDate>2017-12-05T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2017/12/episode-146</guid>
-      <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_146_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_146_text.jpg" width="350" /></a>
-</div>
-<div class="ulist">
+      <description><![CDATA[<div class="ulist">
 <ul>
 <li>
 <p><a href="https://kotlinconf.com/">KotlinConf 2017</a></p>
@@ -12330,12 +11764,9 @@ twitter:
 <div class="paragraph">
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
 </div>]]></description>
-      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_146.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_146.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[
-
-
-
 
 
 KotlinConf 2017
@@ -12397,6 +11828,7 @@ twitter:
 
 Музыка ведущим предоставлена и ладно&#8230;&#8203;
 ]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_146_text.jpg" />
     </item>
     
     <item>
@@ -12404,14 +11836,7 @@ twitter:
       <link>http://razborpoletov.com/2017/11/episode-145.html</link>
       <pubDate>2017-11-25T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2017/11/episode-145</guid>
-      <description><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_145_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_145_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+      <description><![CDATA[<div class="sect1">
 <h2 id="Гости-и-участники">Гости и участники</h2>
 <div class="sectionbody">
 <div class="ulist">
@@ -12477,16 +11902,9 @@ twitter:
 </div>
 </div>
 </div>]]></description>
-      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_145.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_145.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[
-
-
-
-
-
-
-
 Гости и участники
 
 
@@ -12552,6 +11970,7 @@ One-cloud система управления дата-центром в Одн�
 
 
 ]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_145_text.jpg" />
     </item>
     
     <item>
@@ -12559,10 +11978,7 @@ One-cloud система управления дата-центром в Одн�
       <link>http://razborpoletov.com/2017/11/episode-144.html</link>
       <pubDate>2017-11-25T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2017/11/episode-144</guid>
-      <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_144_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_144_text.jpg" width="350" /></a>
-</div>
-<hr>
+      <description><![CDATA[<hr>
 <div class="paragraph">
 <p>Наши контакты:</p>
 </div>
@@ -12617,12 +12033,9 @@ One-cloud система управления дата-центром в Одн�
 <div class="paragraph">
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
 </div>]]></description>
-      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_144.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_144.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[
-
-
-
 
 Наши контакты:
 
@@ -12677,6 +12090,7 @@ twitter:
 
 Музыка ведущим предоставлена и ладно&#8230;&#8203;
 ]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_144_text.jpg" />
     </item>
     
     <item>
@@ -12684,10 +12098,7 @@ twitter:
       <link>http://razborpoletov.com/2017/10/episode-143.html</link>
       <pubDate>2017-10-27T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2017/10/episode-143</guid>
-      <description><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_143_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_143_text.jpg" width="350" /></a>
-</div>
-<div class="ulist">
+      <description><![CDATA[<div class="ulist">
 <ul>
 <li>
 <p><a href="https://jokerconf.com">Joker</a> 2017 - 3-4 ноября!</p>
@@ -12747,12 +12158,9 @@ twitter:
 <div class="paragraph">
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
 </div>]]></description>
-      <enclosure url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://traffic.libsyn.com/razborpoletov/razbor_.mp3" fileSize="" type="audio/mpeg" />
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_143.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_143.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[
-
-
-
 
 
 Joker 2017 - 3-4 ноября!
@@ -12812,6 +12220,7 @@ twitter:
 
 Музыка ведущим предоставлена и ладно&#8230;&#8203;
 ]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_143_text.jpg" />
     </item>
     
   </channel>

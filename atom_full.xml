@@ -4,11 +4,11 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2018-12-03T16:06:08+00:00</updated>
+  <updated>2018-12-06T19:15:30+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
-    <email><![CDATA[razbor.poletov1@gmail.com]]></email>
+    <email><![CDATA[admin@razborpoletov.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
@@ -18,14 +18,7 @@
     <link href="http://razborpoletov.com/2018/12/episode-192.html"/>
     <updated>2018-12-03T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2018/12/episode-192</id>
-    <content type="html"><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_192_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_192_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+    <content type="html"><![CDATA[<div class="sect1">
 <h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
 <div class="sectionbody">
 <div class="listingblock">
@@ -109,44 +102,20 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Episode 191 — РП: Java — Дайдждест — Красная шапка и проект "Шкура"]]></title>
+    <title type="html"><![CDATA[Java Digest — Красная шапка и проект "Шкура"]]></title>
     <link href="http://razborpoletov.com/2018/11/episode-191.html"/>
-    <updated>2018-11-05T00:00:00+00:00</updated>
+    <updated>2018-11-06T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2018/11/episode-191</id>
-    <content type="html"><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_191_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_191_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
-<div class="sectionbody">
-<div class="listingblock">
-<div class="content">
-<pre>👇 👇 👇 Официальный стикерпак Разбора Полетов и полуофициальный Чат pro.jvm в Телеграме 👇 👇 👇</pre>
-</div>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://t.me/addstickers/razbor_poletov">стикеры</a></p>
-</li>
-<li>
-<p><a href="https://t.me/jvmchat">pro.jvm</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
+    <content type="html"><![CDATA[<div class="sect1">
 <h2 id="Гости-и-участники">Гости и участники</h2>
 <div class="sectionbody">
 <div class="ulist">
 <ul>
 <li>
 <p><a href="https://twitter.com/olegchir">Олег Чирухин</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/a_abashev">@a_abashev</a></p>
 </li>
 </ul>
 </div>
@@ -162,43 +131,6 @@
 </li>
 </ul>
 </div>
-<hr>
-<div class="paragraph">
-<p>Наши контакты:</p>
-</div>
-<div class="paragraph">
-<p>Официальный сайт — <a href="https://razborpoletov.com">https://razborpoletov.com</a></p>
-</div>
-<div class="paragraph">
-<p><a href="https://razborpoletov.com/broadcast.html">Информация о вещании</a></p>
-</div>
-<div class="paragraph">
-<p>Гости и участники:</p>
-</div>
-<div class="paragraph">
-<p>twitter:</p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://twitter.com/a_abashev">@a_abashev</a></p>
-</li>
-</ul>
-</div>
-<!-- player goes here-->
-
-<audio preload="none">
-   <source src="http://traffic.libsyn.com/razborpoletov/razbor_191.mp3" type="audio/mp3" />
-   Your browser does not support the audio tag.
-</audio>
-<div class="paragraph">
-<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
-</div>
-<!-- episode file link goes here-->
-<a href="http://traffic.libsyn.com/razborpoletov/razbor_191.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="https://razborpoletov.com/images/mp3.png" width="64" /></a>
-<div class="paragraph">
-<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
-</div>
 </div>
 </div>]]></content>
   </entry>
@@ -208,14 +140,7 @@
     <link href="http://razborpoletov.com/2018/11/episode-190.html"/>
     <updated>2018-11-05T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2018/11/episode-190</id>
-    <content type="html"><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_190_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_190_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+    <content type="html"><![CDATA[<div class="sect1">
 <h2 id="Гости">Гости</h2>
 <div class="sectionbody">
 <div class="ulist">
@@ -309,14 +234,7 @@
     <link href="http://razborpoletov.com/2018/10/episode-189.html"/>
     <updated>2018-10-22T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2018/10/episode-189</id>
-    <content type="html"><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_189_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_189_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+    <content type="html"><![CDATA[<div class="sect1">
 <h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
 <div class="sectionbody">
 <div class="listingblock">
@@ -407,14 +325,7 @@
     <link href="http://razborpoletov.com/2018/10/episode-188.html"/>
     <updated>2018-10-17T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2018/10/episode-188</id>
-    <content type="html"><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_188_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_188_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+    <content type="html"><![CDATA[<div class="sect1">
 <h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
 <div class="sectionbody">
 <div class="listingblock">
@@ -519,14 +430,7 @@
     <link href="http://razborpoletov.com/2018/10/episode-187.html"/>
     <updated>2018-10-08T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2018/10/episode-187</id>
-    <content type="html"><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_187_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_187_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+    <content type="html"><![CDATA[<div class="sect1">
 <h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
 <div class="sectionbody">
 <div class="listingblock">
@@ -635,14 +539,7 @@
     <link href="http://razborpoletov.com/2018/10/episode-186.html"/>
     <updated>2018-10-01T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2018/10/episode-186</id>
-    <content type="html"><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_186_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_186_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+    <content type="html"><![CDATA[<div class="sect1">
 <h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
 <div class="sectionbody">
 <div class="sidebarblock">
@@ -736,14 +633,7 @@
     <link href="http://razborpoletov.com/2018/10/episode-185.html"/>
     <updated>2018-10-01T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2018/10/episode-185</id>
-    <content type="html"><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_185_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_185_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+    <content type="html"><![CDATA[<div class="sect1">
 <h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
 <div class="sectionbody">
 <div class="listingblock">
@@ -905,14 +795,7 @@
     <link href="http://razborpoletov.com/2018/09/episode-184.html"/>
     <updated>2018-09-24T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2018/09/episode-184</id>
-    <content type="html"><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_184_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_184_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+    <content type="html"><![CDATA[<div class="sect1">
 <h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
 <div class="sectionbody">
 <div class="listingblock">
@@ -1267,14 +1150,7 @@
     <link href="http://razborpoletov.com/2018/09/episode-183.html"/>
     <updated>2018-09-24T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2018/09/episode-183</id>
-    <content type="html"><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_183_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_183_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+    <content type="html"><![CDATA[<div class="sect1">
 <h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
 <div class="sectionbody">
 <div class="sidebarblock">
@@ -1357,9 +1233,6 @@
     <id>http://razborpoletov.com/2018/09/episode-182</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_182_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_182_text.jpg" width="350" /></a>
-</div>
 <div class="listingblock">
 <div class="content">
 <pre>Официальный Чат Разбора Полетов Телеграме 👇 👇 👇</pre>
@@ -1483,9 +1356,6 @@
     <id>http://razborpoletov.com/2018/09/episode-181</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_181_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_181_text.jpg" width="350" /></a>
-</div>
 <div class="listingblock">
 <div class="content">
 <pre>Официальный Чат Разбора Полетов Телеграме 👇 👇 👇</pre>
@@ -1606,9 +1476,6 @@
     <id>http://razborpoletov.com/2018/09/episode-180</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_180_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_180_text.jpg" width="350" /></a>
-</div>
 <div class="paragraph">
 <p><strong>ВНИМАНИЕ : Выпуск местами немножечко 18+</strong></p>
 </div>
@@ -1808,9 +1675,6 @@
     <id>http://razborpoletov.com/2018/09/episode-179</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_179_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_179_text.jpg" width="350" /></a>
-</div>
 <div class="listingblock">
 <div class="content">
 <pre>Официальный Чат Разбора Полетов Телеграме 👇 👇 👇</pre>
@@ -1934,9 +1798,6 @@
     <id>http://razborpoletov.com/2018/08/episode-178</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_178_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_178_text.jpg" width="350" /></a>
-</div>
 <div class="listingblock">
 <div class="content">
 <pre>Официальный Чат Разбора Полетов Телеграме 👇 👇 👇</pre>
@@ -2057,9 +1918,6 @@
     <id>http://razborpoletov.com/2018/08/episode-177</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_177_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_177_text.jpg" width="350" /></a>
-</div>
 <div class="listingblock">
 <div class="content">
 <pre>Официальный Чат Разбора Полетов Телеграме 👇 👇 👇</pre>
@@ -2210,9 +2068,6 @@
     <id>http://razborpoletov.com/2018/08/episode-176</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_176_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_176_text.jpg" width="350" /></a>
-</div>
 <div class="listingblock">
 <div class="content">
 <pre>Официальный Чат Разбора Полетов Телеграме 👇 👇 👇</pre>
@@ -2339,9 +2194,6 @@
     <id>http://razborpoletov.com/2018/08/episode-175</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_175_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_175_text.jpg" width="350" /></a>
-</div>
 <div class="listingblock">
 <div class="content">
 <pre>Официальный Чат Разбора Полетов Телеграме 👇 👇 👇</pre>
@@ -2468,9 +2320,6 @@
     <id>http://razborpoletov.com/2018/08/episode-174</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_174_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_174_text.jpg" width="350" /></a>
-</div>
 <div class="listingblock">
 <div class="content">
 <pre>Официальный Чат Разбора Полетов Телеграме 👇 👇 👇</pre>
@@ -2594,9 +2443,6 @@
     <id>http://razborpoletov.com/2018/08/episode-173</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_173_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_173_text.jpg" width="350" /></a>
-</div>
 <div class="listingblock">
 <div class="content">
 <pre>Официальный Чат Разбора Полетов Телеграме 👇 👇 👇</pre>
@@ -2879,9 +2725,6 @@
     <id>http://razborpoletov.com/2018/07/episode-172</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_172_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_172_text.jpg" width="350" /></a>
-</div>
 <div class="listingblock">
 <div class="content">
 <pre>Официальный Чат Разбора Полетов Телеграме 👇 👇 👇</pre>
@@ -3011,9 +2854,6 @@
     <id>http://razborpoletov.com/2018/07/episode-171</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_171_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_171_text.jpg" width="350" /></a>
-</div>
 <div class="listingblock">
 <div class="content">
 <pre>Наконец-то: Официальный Чат Разбора Полетов Телеграме 👇 👇 👇</pre>
@@ -3140,9 +2980,6 @@
     <id>http://razborpoletov.com/2018/07/episode-170</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_170_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_170_text.jpg" width="350" /></a>
-</div>
 <div class="paragraph">
 <p><strong>ВНИМАНИЕ : Выпуск местами немножечко 18+</strong></p>
 </div>
@@ -3342,14 +3179,7 @@
     <link href="http://razborpoletov.com/2018/07/episode-169.html"/>
     <updated>2018-07-16T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2018/07/episode-169</id>
-    <content type="html"><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_169_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_169_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+    <content type="html"><![CDATA[<div class="sect1">
 <h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
 <div class="sectionbody">
 <div class="listingblock">
@@ -3452,14 +3282,7 @@
     <link href="http://razborpoletov.com/2018/07/episode-168.html"/>
     <updated>2018-07-09T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2018/07/episode-168</id>
-    <content type="html"><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_168_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_168_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+    <content type="html"><![CDATA[<div class="sect1">
 <h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
 <div class="sectionbody">
 <div class="listingblock">
@@ -3555,14 +3378,7 @@
     <link href="http://razborpoletov.com/2018/07/episode-167.html"/>
     <updated>2018-07-02T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2018/07/episode-167</id>
-    <content type="html"><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_167_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_167_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+    <content type="html"><![CDATA[<div class="sect1">
 <h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
 <div class="sectionbody">
 <div class="listingblock">
@@ -3664,14 +3480,7 @@
     <link href="http://razborpoletov.com/2018/07/episode-166.html"/>
     <updated>2018-07-01T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2018/07/episode-166</id>
-    <content type="html"><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_166_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_166_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+    <content type="html"><![CDATA[<div class="sect1">
 <h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
 <div class="sectionbody">
 <div class="listingblock">
@@ -3795,14 +3604,7 @@
     <link href="http://razborpoletov.com/2018/06/episode-165.html"/>
     <updated>2018-06-26T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2018/06/episode-165</id>
-    <content type="html"><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_165_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_165_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+    <content type="html"><![CDATA[<div class="sect1">
 <h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
 <div class="sectionbody">
 <div class="listingblock">
@@ -3904,14 +3706,7 @@
     <link href="http://razborpoletov.com/2018/06/episode-164.html"/>
     <updated>2018-06-20T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2018/06/episode-164</id>
-    <content type="html"><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_164_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_164_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+    <content type="html"><![CDATA[<div class="sect1">
 <h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
 <div class="sectionbody">
 <div class="listingblock">
@@ -4032,14 +3827,7 @@
     <link href="http://razborpoletov.com/2018/06/episode-163.html"/>
     <updated>2018-06-19T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2018/06/episode-163</id>
-    <content type="html"><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_163_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_163_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+    <content type="html"><![CDATA[<div class="sect1">
 <h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
 <div class="sectionbody">
 <div class="listingblock">
@@ -4147,14 +3935,7 @@
     <link href="http://razborpoletov.com/2018/06/episode-162.html"/>
     <updated>2018-06-11T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2018/06/episode-162</id>
-    <content type="html"><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_162_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_162_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+    <content type="html"><![CDATA[<div class="sect1">
 <h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
 <div class="sectionbody">
 <div class="listingblock">
@@ -4269,14 +4050,7 @@
     <link href="http://razborpoletov.com/2018/06/episode-161.html"/>
     <updated>2018-06-08T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2018/06/episode-161</id>
-    <content type="html"><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_161_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_161_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+    <content type="html"><![CDATA[<div class="sect1">
 <h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
 <div class="sectionbody">
 <div class="listingblock">
@@ -4379,14 +4153,7 @@
     <link href="http://razborpoletov.com/2018/06/episode-160.html"/>
     <updated>2018-06-02T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2018/06/episode-160</id>
-    <content type="html"><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_160_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_160_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+    <content type="html"><![CDATA[<div class="sect1">
 <h2 id="Гости-и-ведущие">Гости и ведущие</h2>
 <div class="sectionbody">
 <div class="ulist">
@@ -4492,14 +4259,7 @@
     <link href="http://razborpoletov.com/2018/06/episode-159.html"/>
     <updated>2018-06-02T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2018/06/episode-159</id>
-    <content type="html"><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_159_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_159_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+    <content type="html"><![CDATA[<div class="sect1">
 <h2 id="Гости-и-ведущие">Гости и ведущие</h2>
 <div class="sectionbody">
 <div class="ulist">
@@ -4617,14 +4377,7 @@
     <link href="http://razborpoletov.com/2018/05/episode-158.html"/>
     <updated>2018-05-14T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2018/05/episode-158</id>
-    <content type="html"><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_158_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_158_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+    <content type="html"><![CDATA[<div class="sect1">
 <h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
 <div class="sectionbody">
 <div class="listingblock">
@@ -4705,9 +4458,6 @@
     <id>http://razborpoletov.com/2018/03/episode-157</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_157_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_157_text.jpg" width="350" /></a>
-</div>
 <div class="paragraph">
 <p>МОЛНИЯ!!! Промо конференции <a href="https://jpoint.ru/">JPoint</a> в Москве!</p>
 </div>
@@ -4914,9 +4664,6 @@ p.s. Если идете на JPoint 2018, то дослушайте до кон
     <id>http://razborpoletov.com/2018/03/episode-156</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_156_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_156_text.jpg" width="350" /></a>
-</div>
 <div class="paragraph">
 <p>МОЛНИЯ!!! Промо конференции <a href="https://jpoint.ru/">JPoint</a> в Москве!</p>
 </div>
@@ -5029,9 +4776,6 @@ p.s. Если идете на JPoint 2018, то дослушайте до кон
     <id>http://razborpoletov.com/2018/03/episode-155</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_155_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_155_text.jpg" width="350" /></a>
-</div>
 <div class="paragraph">
 <p>Специальный выпуск, записанный на конференции DevNexus 2018</p>
 </div>
@@ -5109,9 +4853,6 @@ p.s. Если идете на JPoint 2018, то дослушайте до кон
     <id>http://razborpoletov.com/2018/02/episode-154</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_154_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_154_text.jpg" width="350" /></a>
-</div>
 <div class="paragraph">
 <p>МОЛНИЯ!!! Промо конференции <a href="https://2018.jbreak.ru/">JBreak</a> в Новосибирске!</p>
 </div>
@@ -5340,14 +5081,7 @@ p.s. Если идете на JPoint 2018, то дослушайте до кон
     <link href="http://razborpoletov.com/2018/01/episode-153.html"/>
     <updated>2018-01-09T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2018/01/episode-153</id>
-    <content type="html"><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_153_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_153_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+    <content type="html"><![CDATA[<div class="sect1">
 <h2 id="Гости">Гости</h2>
 <div class="sectionbody">
 <div class="ulist">
@@ -5512,14 +5246,7 @@ p.s. Если идете на JPoint 2018, то дослушайте до кон
     <link href="http://razborpoletov.com/2018/01/episode-152.html"/>
     <updated>2018-01-01T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2018/01/episode-152</id>
-    <content type="html"><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_152_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_152_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+    <content type="html"><![CDATA[<div class="sect1">
 <h2 id="В-этом-году-с-вами-были">В этом году с вами были</h2>
 <div class="sectionbody">
 <div class="ulist">
@@ -5663,14 +5390,7 @@ p.s. Если идете на JPoint 2018, то дослушайте до кон
     <link href="http://razborpoletov.com/2017/12/episode-151.html"/>
     <updated>2017-12-23T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2017/12/episode-151</id>
-    <content type="html"><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_151_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_151_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+    <content type="html"><![CDATA[<div class="sect1">
 <h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
 <div class="sectionbody">
 <div class="listingblock">
@@ -5787,14 +5507,7 @@ p.s. Если идете на JPoint 2018, то дослушайте до кон
     <link href="http://razborpoletov.com/2017/12/episode-150.html"/>
     <updated>2017-12-23T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2017/12/episode-150</id>
-    <content type="html"><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_150_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_150_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+    <content type="html"><![CDATA[<div class="sect1">
 <h2 id="Гости">Гости</h2>
 <div class="sectionbody">
 <div class="ulist">
@@ -5951,9 +5664,6 @@ p.s. Если идете на JPoint 2018, то дослушайте до кон
     <id>http://razborpoletov.com/2017/12/episode-149</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_149_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_149_text.jpg" width="350" /></a>
-</div>
 <div class="paragraph">
 <p><strong>ВНИМАНИЕ : Выпуск местами немножечко 18+</strong></p>
 </div>
@@ -6067,14 +5777,7 @@ p.s. Если идете на JPoint 2018, то дослушайте до кон
     <link href="http://razborpoletov.com/2017/12/episode-148.html"/>
     <updated>2017-12-05T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2017/12/episode-148</id>
-    <content type="html"><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_148_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_148_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+    <content type="html"><![CDATA[<div class="sect1">
 <h2 id="Темы">Темы</h2>
 <div class="sectionbody">
 <div class="ulist">
@@ -6151,14 +5854,7 @@ p.s. Если идете на JPoint 2018, то дослушайте до кон
     <link href="http://razborpoletov.com/2017/12/episode-147.html"/>
     <updated>2017-12-05T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2017/12/episode-147</id>
-    <content type="html"><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_147_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_147_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+    <content type="html"><![CDATA[<div class="sect1">
 <h2 id="lamoda-и-её-платформа">Lamoda и её платформа</h2>
 <div class="sectionbody">
 <div class="ulist">
@@ -6253,10 +5949,7 @@ p.s. Если идете на JPoint 2018, то дослушайте до кон
     <link href="http://razborpoletov.com/2017/12/episode-146.html"/>
     <updated>2017-12-05T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2017/12/episode-146</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_146_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_146_text.jpg" width="350" /></a>
-</div>
-<div class="ulist">
+    <content type="html"><![CDATA[<div class="ulist">
 <ul>
 <li>
 <p><a href="https://kotlinconf.com/">KotlinConf 2017</a></p>
@@ -6325,14 +6018,7 @@ p.s. Если идете на JPoint 2018, то дослушайте до кон
     <link href="http://razborpoletov.com/2017/11/episode-145.html"/>
     <updated>2017-11-25T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2017/11/episode-145</id>
-    <content type="html"><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_145_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_145_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+    <content type="html"><![CDATA[<div class="sect1">
 <h2 id="Гости-и-участники">Гости и участники</h2>
 <div class="sectionbody">
 <div class="ulist">
@@ -6405,10 +6091,7 @@ p.s. Если идете на JPoint 2018, то дослушайте до кон
     <link href="http://razborpoletov.com/2017/11/episode-144.html"/>
     <updated>2017-11-25T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2017/11/episode-144</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_144_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_144_text.jpg" width="350" /></a>
-</div>
-<hr>
+    <content type="html"><![CDATA[<hr>
 <div class="paragraph">
 <p>Наши контакты:</p>
 </div>
@@ -6470,10 +6153,7 @@ p.s. Если идете на JPoint 2018, то дослушайте до кон
     <link href="http://razborpoletov.com/2017/10/episode-143.html"/>
     <updated>2017-10-27T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2017/10/episode-143</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_143_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_143_text.jpg" width="350" /></a>
-</div>
-<div class="ulist">
+    <content type="html"><![CDATA[<div class="ulist">
 <ul>
 <li>
 <p><a href="https://jokerconf.com">Joker</a> 2017 - 3-4 ноября!</p>
@@ -6540,14 +6220,7 @@ p.s. Если идете на JPoint 2018, то дослушайте до кон
     <link href="http://razborpoletov.com/2017/10/episode-142.html"/>
     <updated>2017-10-01T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2017/10/episode-142</id>
-    <content type="html"><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_142_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_142_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+    <content type="html"><![CDATA[<div class="sect1">
 <h2 id="Гости">Гости</h2>
 <div class="sectionbody">
 <div class="ulist">
@@ -6719,14 +6392,7 @@ p.s. Если идете на JPoint 2018, то дослушайте до кон
     <link href="http://razborpoletov.com/2017/10/episode-141.html"/>
     <updated>2017-10-01T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2017/10/episode-141</id>
-    <content type="html"><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_141_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_141_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+    <content type="html"><![CDATA[<div class="sect1">
 <h2 id="Видео-трансляция">Видео трансляция</h2>
 <div class="sectionbody">
 <div class="olist arabic">
@@ -6919,14 +6585,7 @@ p.s. Если идете на JPoint 2018, то дослушайте до кон
     <link href="http://razborpoletov.com/2017/07/episode-140.html"/>
     <updated>2017-07-29T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2017/07/episode-140</id>
-    <content type="html"><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_140_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_140_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+    <content type="html"><![CDATA[<div class="sect1">
 <h2 id="Гости">Гости</h2>
 <div class="sectionbody">
 <div class="olist arabic">
@@ -7136,14 +6795,7 @@ p.s. Если идете на JPoint 2018, то дослушайте до кон
     <link href="http://razborpoletov.com/2017/07/episode-139.html"/>
     <updated>2017-07-07T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2017/07/episode-139</id>
-    <content type="html"><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_139_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_139_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+    <content type="html"><![CDATA[<div class="sect1">
 <h2 id="Гости">Гости</h2>
 <div class="sectionbody">
 <div class="olist arabic">
@@ -7297,14 +6949,7 @@ p.s. Если идете на JPoint 2018, то дослушайте до кон
     <link href="http://razborpoletov.com/2017/06/episode-138.html"/>
     <updated>2017-06-28T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2017/06/episode-138</id>
-    <content type="html"><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_138_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_138_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+    <content type="html"><![CDATA[<div class="sect1">
 <h2 id="Гости">Гости</h2>
 <div class="sectionbody">
 <div class="ulist">
@@ -7534,14 +7179,7 @@ p.s. Если идете на JPoint 2018, то дослушайте до кон
     <link href="http://razborpoletov.com/2017/06/episode-137.html"/>
     <updated>2017-06-19T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2017/06/episode-137</id>
-    <content type="html"><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_137_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_137_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+    <content type="html"><![CDATA[<div class="sect1">
 <h2 id="Спикер-конференции-РИТ-2017">Спикер конференции РИТ++ 2017</h2>
 <div class="sectionbody">
 <div class="paragraph">
@@ -7635,14 +7273,7 @@ p.s. Если идете на JPoint 2018, то дослушайте до кон
     <link href="http://razborpoletov.com/2017/06/episode-136.html"/>
     <updated>2017-06-19T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2017/06/episode-136</id>
-    <content type="html"><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_136_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_136_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+    <content type="html"><![CDATA[<div class="sect1">
 <h2 id="Спикер-конференции-РИТ-2017">Спикер конференции РИТ++ 2017</h2>
 <div class="sectionbody">
 <div class="paragraph">
@@ -7740,14 +7371,7 @@ p.s. Если идете на JPoint 2018, то дослушайте до кон
     <link href="http://razborpoletov.com/2017/06/episode-135.html"/>
     <updated>2017-06-19T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2017/06/episode-135</id>
-    <content type="html"><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; texhttps://twitter.com/-align: center;">
-<a href="https://razborpoletov.com/images/razbor_135_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_135_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+    <content type="html"><![CDATA[<div class="sect1">
 <h2 id="Спикеры-конференции-РИТ-2017">Спикеры конференции РИТ++ 2017</h2>
 <div class="sectionbody">
 <div class="ulist">
@@ -7860,14 +7484,7 @@ p.s. Если идете на JPoint 2018, то дослушайте до кон
     <link href="http://razborpoletov.com/2017/05/episode-134.html"/>
     <updated>2017-05-14T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2017/05/episode-134</id>
-    <content type="html"><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_134_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_134_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+    <content type="html"><![CDATA[<div class="sect1">
 <h2 id="Мероприятия">Мероприятия</h2>
 <div class="sectionbody">
 <div class="ulist">
@@ -8113,14 +7730,7 @@ p.s. Если идете на JPoint 2018, то дослушайте до кон
     <link href="http://razborpoletov.com/2017/04/episode-133.html"/>
     <updated>2017-04-23T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2017/04/episode-133</id>
-    <content type="html"><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_133_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_133_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+    <content type="html"><![CDATA[<div class="sect1">
 <h2 id="Спонсоры">Спонсоры</h2>
 <div class="sectionbody">
 <div class="ulist">
@@ -8285,9 +7895,6 @@ p.s. Если идете на JPoint 2018, то дослушайте до кон
     <id>http://razborpoletov.com/2017/04/episode-132</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_132_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_132_text.jpg" width="350" /></a>
-</div>
 <div class="paragraph">
 <p>Зашли в гости к команде бэкенда, которые пишут на Scala и им это нравится!</p>
 </div>
@@ -8362,14 +7969,7 @@ p.s. Если идете на JPoint 2018, то дослушайте до кон
     <link href="http://razborpoletov.com/2017/03/episode-131.html"/>
     <updated>2017-03-29T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2017/03/episode-131</id>
-    <content type="html"><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_131_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_131_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+    <content type="html"><![CDATA[<div class="sect1">
 <h2 id="Спонсоры">Спонсоры</h2>
 <div class="sectionbody">
 <div class="ulist">
@@ -8500,9 +8100,6 @@ p.s. Если идете на JPoint 2018, то дослушайте до кон
     <id>http://razborpoletov.com/2017/03/episode-130</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_130_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_130_text.jpg" width="350" /></a>
-</div>
 <div class="paragraph">
 <p>Традиционно, записались на конференции Devoxx US в городе Сан Хоcе, штат Калифорния!</p>
 </div>
@@ -8580,14 +8177,7 @@ p.s. Если идете на JPoint 2018, то дослушайте до кон
     <link href="http://razborpoletov.com/2017/03/episode-129.html"/>
     <updated>2017-03-11T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2017/03/episode-129</id>
-    <content type="html"><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_129_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_129_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+    <content type="html"><![CDATA[<div class="sect1">
 <h2 id="Спонсоры">Спонсоры</h2>
 <div class="sectionbody">
 <div class="ulist">
@@ -8745,9 +8335,6 @@ p.s. Если идете на JPoint 2018, то дослушайте до кон
     <id>http://razborpoletov.com/2017/03/episode-128</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_128_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_128_text.jpg" width="350" /></a>
-</div>
 <div class="paragraph">
 <p>Виктор и Барух болтают о home automation и IoT по дороге на конференцию OracleCode в Сан-Франциско.</p>
 </div>
@@ -8821,9 +8408,6 @@ p.s. Если идете на JPoint 2018, то дослушайте до кон
     <id>http://razborpoletov.com/2017/02/episode-127</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_127_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_127_text.jpg" width="350" /></a>
-</div>
 <div class="paragraph">
 <p>Традиционно, записались на конференции DevNexus в городе Атланта, штат Джорджия!</p>
 </div>
@@ -8904,14 +8488,7 @@ p.s. Если идете на JPoint 2018, то дослушайте до кон
     <link href="http://razborpoletov.com/2017/02/episode-126.html"/>
     <updated>2017-02-11T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2017/02/episode-126</id>
-    <content type="html"><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_126_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_126_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+    <content type="html"><![CDATA[<div class="sect1">
 <h2 id="Спонсоры">Спонсоры</h2>
 <div class="sectionbody">
 <div class="ulist">
@@ -9094,14 +8671,7 @@ p.s. Если идете на JPoint 2018, то дослушайте до кон
     <link href="http://razborpoletov.com/2017/01/episode-125.html"/>
     <updated>2017-01-22T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2017/01/episode-125</id>
-    <content type="html"><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_125_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_125_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+    <content type="html"><![CDATA[<div class="sect1">
 <h2 id="Гости">Гости</h2>
 <div class="sectionbody">
 <div class="ulist">
@@ -9288,14 +8858,7 @@ p.s. Если идете на JPoint 2018, то дослушайте до кон
     <link href="http://razborpoletov.com/2016/12/episode-124.html"/>
     <updated>2016-12-31T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2016/12/episode-124</id>
-    <content type="html"><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_124_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_124_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+    <content type="html"><![CDATA[<div class="sect1">
 <h2 id="Гости">Гости</h2>
 <div class="sectionbody">
 <div class="ulist">
@@ -9408,14 +8971,7 @@ p.s. Если идете на JPoint 2018, то дослушайте до кон
     <link href="http://razborpoletov.com/2016/12/episode-123.html"/>
     <updated>2016-12-18T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2016/12/episode-123</id>
-    <content type="html"><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_123_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_123_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+    <content type="html"><![CDATA[<div class="sect1">
 <h2 id="Гости">Гости</h2>
 <div class="sectionbody">
 <div class="ulist">
@@ -9561,10 +9117,7 @@ p.s. Если идете на JPoint 2018, то дослушайте до кон
     <link href="http://razborpoletov.com/2016/12/episode-122.html"/>
     <updated>2016-12-06T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2016/12/episode-122</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_122_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_122_text.jpg" width="350" /></a>
-</div>
-<div class="paragraph">
+    <content type="html"><![CDATA[<div class="paragraph">
 <p><a href="https://twitter.com/gamussa">@gamussa</a> и <a href="https://twitter.com/jbaruch">@jbaruch</a> ведут допрос с пристрастием <a href="https://twitter.com/23derevo">@23derevo</a> на предмет технического евангелизма.</p>
 </div>
 <hr>
@@ -9614,14 +9167,7 @@ p.s. Если идете на JPoint 2018, то дослушайте до кон
     <link href="http://razborpoletov.com/2016/11/episode-121.html"/>
     <updated>2016-11-30T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2016/11/episode-121</id>
-    <content type="html"><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_121_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_121_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+    <content type="html"><![CDATA[<div class="sect1">
 <h2 id="Гости">Гости</h2>
 <div class="sectionbody">
 <div class="ulist">
@@ -9821,14 +9367,7 @@ p.s. Если идете на JPoint 2018, то дослушайте до кон
     <link href="http://razborpoletov.com/2016/11/episode-120.html"/>
     <updated>2016-11-17T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2016/11/episode-120</id>
-    <content type="html"><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_120_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_120_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+    <content type="html"><![CDATA[<div class="sect1">
 <h2 id="Полезняшки">Полезняшки</h2>
 <div class="sectionbody">
 <div class="ulist">
@@ -9948,9 +9487,6 @@ p.s. Если идете на JPoint 2018, то дослушайте до кон
     <id>http://razborpoletov.com/2016/11/episode-119</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_119_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_119_text.jpg" width="350" /></a>
-</div>
 <div class="admonitionblock note">
 <table>
 <tr>
@@ -10131,10 +9667,7 @@ p.s. Если идете на JPoint 2018, то дослушайте до кон
     <link href="http://razborpoletov.com/2016/10/episode-118.html"/>
     <updated>2016-10-24T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2016/10/episode-118</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_118_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_118_text.jpg" width="350" /></a>
-</div>
-<hr>
+    <content type="html"><![CDATA[<hr>
 <div class="paragraph">
 <p>Наши контакты:</p>
 </div>
@@ -10190,10 +9723,7 @@ p.s. Если идете на JPoint 2018, то дослушайте до кон
     <link href="http://razborpoletov.com/2016/09/episode-117.html"/>
     <updated>2016-09-21T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2016/09/episode-117</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_117_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_117_text.jpg" width="350" /></a>
-</div>
-<div class="paragraph">
+    <content type="html"><![CDATA[<div class="paragraph">
 <p>Подкаст был записан на конференции JavaOne 2016 в San Francisco, CA.</p>
 </div>
 <hr>
@@ -10252,14 +9782,7 @@ p.s. Если идете на JPoint 2018, то дослушайте до кон
     <link href="http://razborpoletov.com/2016/09/episode-116.html"/>
     <updated>2016-09-03T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2016/09/episode-116</id>
-    <content type="html"><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_116_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_116_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+    <content type="html"><![CDATA[<div class="sect1">
 <h2 id="Гости">Гости</h2>
 <div class="sectionbody">
 <div class="ulist">
@@ -10407,9 +9930,6 @@ p.s. Если идете на JPoint 2018, то дослушайте до кон
 <div class="sectionbody">
 <div class="paragraph">
 <p>Выпуск 18+</p>
-</div>
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_115_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_115_text.jpg" width="350" /></a>
 </div>
 <div class="paragraph">
 <p><a href="http://cg-zander.deviantart.com/art/Dreams-of-Valhalla-384587225">оригинальная картинка</a></p>
@@ -10621,14 +10141,7 @@ p.s. Если идете на JPoint 2018, то дослушайте до кон
     <link href="http://razborpoletov.com/2016/08/episode-114.html"/>
     <updated>2016-08-06T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2016/08/episode-114</id>
-    <content type="html"><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_114_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_114_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+    <content type="html"><![CDATA[<div class="sect1">
 <h2 id="Гости">Гости</h2>
 <div class="sectionbody">
 <div class="ulist">
@@ -10821,14 +10334,7 @@ p.s. Если идете на JPoint 2018, то дослушайте до кон
     <link href="http://razborpoletov.com/2016/07/episode-113.html"/>
     <updated>2016-07-15T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2016/07/episode-113</id>
-    <content type="html"><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_113_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_113_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+    <content type="html"><![CDATA[<div class="sect1">
 <h2 id="Релизы">Релизы</h2>
 <div class="sectionbody">
 <div class="ulist">
@@ -11028,14 +10534,7 @@ p.s. Если идете на JPoint 2018, то дослушайте до кон
     <link href="http://razborpoletov.com/2016/06/episode-112.html"/>
     <updated>2016-06-19T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2016/06/episode-112</id>
-    <content type="html"><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_112_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_112_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+    <content type="html"><![CDATA[<div class="sect1">
 <h2 id="Релизы">Релизы</h2>
 <div class="sectionbody">
 <div class="ulist">
@@ -11236,10 +10735,7 @@ to Support Case-only Rename in Git</a></p>
     <link href="http://razborpoletov.com/2016/06/episode-111.html"/>
     <updated>2016-06-11T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2016/06/episode-111</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_111_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_111_text.jpg" width="350" /></a>
-</div>
-<div class="paragraph">
+    <content type="html"><![CDATA[<div class="paragraph">
 <p>Запись проходила в офисе компании <a href="http://zeroturnaround.com/">ZeroTurnaround</a> в Таллине.</p>
 </div>
 <hr>
@@ -11307,14 +10803,7 @@ to Support Case-only Rename in Git</a></p>
     <link href="http://razborpoletov.com/2016/05/episode-110.html"/>
     <updated>2016-05-27T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2016/05/episode-110</id>
-    <content type="html"><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_110_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_110_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+    <content type="html"><![CDATA[<div class="sect1">
 <h2 id="Релизы">Релизы</h2>
 <div class="sectionbody">
 <div class="ulist">
@@ -11498,9 +10987,6 @@ to Support Case-only Rename in Git</a></p>
     <id>http://razborpoletov.com/2016/05/episode-109</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_109_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_109_text.jpg" width="350" /></a>
-</div>
 <div class="ulist">
 <ul>
 <li>
@@ -11651,10 +11137,7 @@ to Support Case-only Rename in Git</a></p>
     <link href="http://razborpoletov.com/2016/04/episode-108.html"/>
     <updated>2016-04-24T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2016/04/episode-108</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_108_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_108_text.jpg" width="350" /></a>
-</div>
-<div class="paragraph">
+    <content type="html"><![CDATA[<div class="paragraph">
 <p>via <a href="https://www.instagram.com/p/BEhyi6Hytqn/">@papaminos</a></p>
 </div>
 <hr>
@@ -11720,9 +11203,6 @@ to Support Case-only Rename in Git</a></p>
 <div class="sectionbody">
 <div class="paragraph">
 <p>Выпуск 18+</p>
-</div>
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_107_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_107_text.jpg" width="350" /></a>
 </div>
 <div class="paragraph">
 <p>Подкаст выходит при поддержке JetBrains и JUG.ru</p>
@@ -11895,9 +11375,6 @@ to Support Case-only Rename in Git</a></p>
     <id>http://razborpoletov.com/2016/03/episode-106</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_106_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_106_text.jpg" width="350" /></a>
-</div>
 <div class="paragraph">
 <p>Подкаст выходит при поддержке JetBrains</p>
 </div>
@@ -12101,9 +11578,6 @@ to Support Case-only Rename in Git</a></p>
 <p>Выпуск 18+
 <a href="https://www.flickr.com/photos/hjagien/4854395625">Картинка предоставлена</a>.</p>
 </div>
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_105_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_105_text.jpg" width="350" /></a>
-</div>
 </div>
 </div>
 <div class="sect1">
@@ -12243,14 +11717,7 @@ to Support Case-only Rename in Git</a></p>
     <link href="http://razborpoletov.com/2016/02/episode-104.html"/>
     <updated>2016-02-28T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2016/02/episode-104</id>
-    <content type="html"><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_104_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_104_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+    <content type="html"><![CDATA[<div class="sect1">
 <h2 id="Офтоп">Офтоп</h2>
 <div class="sectionbody">
 <div class="olist arabic">
@@ -12384,10 +11851,7 @@ to Support Case-only Rename in Git</a></p>
     <link href="http://razborpoletov.com/2016/02/episode-103.html"/>
     <updated>2016-02-24T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2016/02/episode-103</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_103_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_103_text.jpg" width="350" /></a>
-</div>
-<div class="paragraph">
+    <content type="html"><![CDATA[<div class="paragraph">
 <p><a href="https://www.devnexus.com/s/index">Мы на девнексусе!</a></p>
 </div>
 <blockquote class="twitter-tweet" data-lang="en"><p lang="und" dir="ltr"><a href="https://twitter.com/jbaruch">@jbaruch</a> <a href="https://t.co/PPvHNKUHbm">pic.twitter.com/PPvHNKUHbm</a></p>&mdash; Мак Сим (@maksim77) <a href="https://twitter.com/maksim77/status/700009460408913920">February 17, 2016</a></blockquote> <script async src="http://razborpoletov.com//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -12461,9 +11925,6 @@ to Support Case-only Rename in Git</a></p>
 <div class="sectionbody">
 <div class="paragraph">
 <p>Выпуск 18+</p>
-</div>
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_102_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_102_text.jpg" width="350" /></a>
 </div>
 </div>
 </div>
@@ -12587,9 +12048,6 @@ to Support Case-only Rename in Git</a></p>
 <div class="sectionbody">
 <div class="paragraph">
 <p>Выпуск 18+</p>
-</div>
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_101_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_101_text.jpg" width="350" /></a>
 </div>
 </div>
 </div>
@@ -12756,9 +12214,6 @@ to Support Case-only Rename in Git</a></p>
 <div class="sectionbody">
 <div class="paragraph">
 <p>Выпуск 18+</p>
-</div>
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_100_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_100_text.jpg" width="350" /></a>
 </div>
 </div>
 </div>
@@ -12930,9 +12385,6 @@ JUG</a></p>
 </div>
 <div class="paragraph">
 <p><a href="https://itunes.apple.com/us/album/last-christmas/id268486282?i=268486680">Музыка из вступления</a></p>
-</div>
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_99_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_99_text.jpg" width="350" /></a>
 </div>
 </div>
 </div>
@@ -13120,9 +12572,6 @@ JUG</a></p>
 </div>
 <div class="paragraph">
 <p><a href="https://itunes.apple.com/us/album/never-gonna-give-you-up/id372568016?i=372568077">Музыка из вступления</a></p>
-</div>
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_98_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_98_text.jpg" width="350" /></a>
 </div>
 </div>
 </div>
@@ -13320,9 +12769,6 @@ JUG</a></p>
 <div class="paragraph">
 <p><a href="https://itunes.apple.com/us/album/never-gonna-give-you-up/id569227437?i=569227849">Музыка из вступления</a></p>
 </div>
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_97_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_97_text.jpg" width="350" /></a>
-</div>
 </div>
 </div>
 <div class="sect1">
@@ -13479,9 +12925,6 @@ jug.msk.ru <a href="http://habrahabr.ru/post/272009/" class="bare">http://habrah
 <div class="sectionbody">
 <div class="paragraph">
 <p>Внимание, выпуск <strong>18+</strong></p>
-</div>
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_96_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_96_text.jpg" width="350" /></a>
 </div>
 </div>
 </div>
@@ -13644,10 +13087,7 @@ jug.msk.ru <a href="http://habrahabr.ru/post/272009/" class="bare">http://habrah
     <link href="http://razborpoletov.com/2015/10/episode-95.html"/>
     <updated>2015-10-28T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2015/10/episode-95</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_95_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_95_text.jpg" width="350" /></a>
-</div>
-<div class="paragraph">
+    <content type="html"><![CDATA[<div class="paragraph">
 <p>Дайджест третьего дня конференции JavaOne 2015 в городе Сан-Франциско штат Калифорния.</p>
 </div>
 <div class="paragraph">
@@ -13712,10 +13152,7 @@ jug.msk.ru <a href="http://habrahabr.ru/post/272009/" class="bare">http://habrah
     <link href="http://razborpoletov.com/2015/10/episode-94.html"/>
     <updated>2015-10-27T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2015/10/episode-94</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_94_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_94_text.jpg" width="350" /></a>
-</div>
-<div class="paragraph">
+    <content type="html"><![CDATA[<div class="paragraph">
 <p>Дайджест второго дня конференции JavaOne 2015 в городе Сан-Франциско штат Калифорния</p>
 </div>
 <hr>
@@ -13791,9 +13228,6 @@ jug.msk.ru <a href="http://habrahabr.ru/post/272009/" class="bare">http://habrah
     <id>http://razborpoletov.com/2015/10/episode-93</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_93_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_93_text.jpg" width="350" /></a>
-</div>
 <div class="paragraph">
 <p>Дайджест первого дня конференции JavaOne 2015 в городе Сан-Франциско штат Калифорния</p>
 </div>
@@ -13867,9 +13301,6 @@ jug.msk.ru <a href="http://habrahabr.ru/post/272009/" class="bare">http://habrah
     <id>http://razborpoletov.com/2015/10/episode-92</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_92_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_92_text.jpg" width="350" /></a>
-</div>
 <div class="paragraph">
 <p>Главный редактор - <a href="https://twitter.com/tolkv">@tolkv</a>
 Продюсер - <a href="https://twitter.com/antonarhipov">@antonarhipov</a></p>
@@ -14001,14 +13432,7 @@ jug.msk.ru <a href="http://habrahabr.ru/post/272009/" class="bare">http://habrah
     <link href="http://razborpoletov.com/2015/09/episode-91.html"/>
     <updated>2015-09-25T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2015/09/episode-91</id>
-    <content type="html"><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_91_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_91_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+    <content type="html"><![CDATA[<div class="sect1">
 <h2 id="Мероприятия">Мероприятия</h2>
 <div class="sectionbody">
 <div class="ulist">
@@ -14141,9 +13565,6 @@ jug.msk.ru <a href="http://habrahabr.ru/post/272009/" class="bare">http://habrah
     <id>http://razborpoletov.com/2015/08/episode-90</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_90_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_90_text.jpg" width="350" /></a>
-</div>
 <div class="paragraph">
 <p><a href="https://twitter.com/glorphindale/status/499214765999546368">Шутка из вступления честно сворована</a>.</p>
 </div>
@@ -14265,14 +13686,7 @@ jug.msk.ru <a href="http://habrahabr.ru/post/272009/" class="bare">http://habrah
     <link href="http://razborpoletov.com/2015/08/episode-89.html"/>
     <updated>2015-08-14T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2015/08/episode-89</id>
-    <content type="html"><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_89_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_89_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+    <content type="html"><![CDATA[<div class="sect1">
 <h2 id="Мероприятия">Мероприятия</h2>
 <div class="sectionbody">
 <div class="ulist">
@@ -14454,9 +13868,6 @@ jug.msk.ru <a href="http://habrahabr.ru/post/272009/" class="bare">http://habrah
     <id>http://razborpoletov.com/2015/07/episode-88</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_88_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_88_text.jpg" width="350" /></a>
-</div>
 <div class="paragraph">
 <p><a href="http://s00.yaplakal.com/pics/pics_original/3/0/6/1322603.gif">Оригинал</a></p>
 </div>
@@ -14610,9 +14021,6 @@ jug.msk.ru <a href="http://habrahabr.ru/post/272009/" class="bare">http://habrah
 <div class="sectionbody">
 <div class="paragraph">
 <p>Внимание, выпуск <strong>18+</strong></p>
-</div>
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_87_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_87_text.jpg" width="350" /></a>
 </div>
 </div>
 </div>
@@ -14777,9 +14185,6 @@ jug.msk.ru <a href="http://habrahabr.ru/post/272009/" class="bare">http://habrah
 <div class="paragraph">
 <p>Внимание, выпуск <strong>18+</strong></p>
 </div>
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_86_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_86_text.jpg" width="350" /></a>
-</div>
 </div>
 </div>
 <div class="sect1">
@@ -14901,12 +14306,7 @@ jug.msk.ru <a href="http://habrahabr.ru/post/272009/" class="bare">http://habrah
     <link href="http://razborpoletov.com/2015/05/episode-85.html"/>
     <updated>2015-05-31T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2015/05/episode-85</id>
-    <content type="html"><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;"><a href="https://razborpoletov.com/images/razbor_85_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_85_text.jpg" width="350" /></a></div>
-</div>
-</div>
-<div class="sect1">
+    <content type="html"><![CDATA[<div class="sect1">
 <h2 id="Оффтопик">Оффтопик</h2>
 <div class="sectionbody">
 <div class="ulist">
@@ -15051,9 +14451,6 @@ jug.msk.ru <a href="http://habrahabr.ru/post/272009/" class="bare">http://habrah
 <div class="sectionbody">
 <div class="paragraph">
 <p>Внимание, выпуск <strong>18+</strong></p>
-</div>
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_84_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_84_text.jpg" width="350" /></a>
 </div>
 </div>
 </div>
@@ -15265,10 +14662,7 @@ jug.msk.ru <a href="http://habrahabr.ru/post/272009/" class="bare">http://habrah
     <link href="http://razborpoletov.com/2015/05/episode-83.html"/>
     <updated>2015-05-03T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2015/05/episode-83</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_83_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_83_text.jpg" width="350" /></a>
-</div>
-<div class="paragraph">
+    <content type="html"><![CDATA[<div class="paragraph">
 <p>Запись была сделана на конференции <a href="http://javapoint.ru">JPoint 2015</a> в апреле 2015го.</p>
 </div>
 <div class="paragraph">
@@ -15320,14 +14714,7 @@ jug.msk.ru <a href="http://habrahabr.ru/post/272009/" class="bare">http://habrah
     <link href="http://razborpoletov.com/2015/04/episode-82.html"/>
     <updated>2015-04-12T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2015/04/episode-82</id>
-    <content type="html"><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_82_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_82_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+    <content type="html"><![CDATA[<div class="sect1">
 <h2 id="Все-на-jpoint">Все на Jpoint!</h2>
 <div class="sectionbody">
 <div class="ulist">
@@ -15457,12 +14844,7 @@ jug.msk.ru <a href="http://habrahabr.ru/post/272009/" class="bare">http://habrah
     <link href="http://razborpoletov.com/2015/03/episode-81.html"/>
     <updated>2015-03-29T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2015/03/episode-81</id>
-    <content type="html"><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;"><a href="https://razborpoletov.com/images/razbor_81_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_81_text.jpg" width="350" /></a></div>
-</div>
-</div>
-<div class="sect1">
+    <content type="html"><![CDATA[<div class="sect1">
 <h2 id="Гость-Алексей-Шипилёв">Гость Алексей Шипилёв</h2>
 <div class="sectionbody">
 <div class="ulist">
@@ -15595,9 +14977,6 @@ jug.msk.ru <a href="http://habrahabr.ru/post/272009/" class="bare">http://habrah
     <id>http://razborpoletov.com/2015/03/episode-80</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_80_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_80_text.jpg" width="350" /></a>
-</div>
 <div class="paragraph">
 <p>Запись велась с помощью чудного устройства <a href="http://www.zoom.co.jp/products/iq6">Zoom iQ6</a> в ресторане <a href="https://www.google.com/maps/place/Maggiano&#8217;s+Little+Italy,+3368+Peachtree+Rd,+Atlanta,+GA+30326/@33.7677129,-84.420604,12z/data=!4m2!3m1!1s0x88f50f58606e2717:0xaa15fcf0fe93bfb1">Maggiano Little Italy</a>.</p>
 </div>
@@ -15717,14 +15096,7 @@ jug.msk.ru <a href="http://habrahabr.ru/post/272009/" class="bare">http://habrah
     <link href="http://razborpoletov.com/2015/03/episode-79.html"/>
     <updated>2015-03-08T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2015/03/episode-79</id>
-    <content type="html"><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_79_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_79_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+    <content type="html"><![CDATA[<div class="sect1">
 <h2 id="Конференции">Конференции</h2>
 <div class="sectionbody">
 <div class="ulist">
@@ -15884,14 +15256,7 @@ jug.msk.ru <a href="http://habrahabr.ru/post/272009/" class="bare">http://habrah
     <link href="http://razborpoletov.com/2015/02/episode-78.html"/>
     <updated>2015-02-22T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2015/02/episode-78</id>
-    <content type="html"><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_78_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_78_text.jpg" width="350" /></a>
-</div>
-</div>
-</div>
-<div class="sect1">
+    <content type="html"><![CDATA[<div class="sect1">
 <h2 id="Конференции">Конференции</h2>
 <div class="sectionbody">
 <div class="ulist">
@@ -16064,12 +15429,6 @@ jug.msk.ru <a href="http://habrahabr.ru/post/272009/" class="bare">http://habrah
     <id>http://razborpoletov.com/2015/02/episode-77</id>
     <content type="html"><![CDATA[<div id="preamble">
 <div class="sectionbody">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_77_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_77_text.jpg" width="350" /></a>
-</div>
-<div class="paragraph">
-<p><a href="https://razborpoletov.com/images/razbor_77_text.jpg">Картинка</a></p>
-</div>
 <div class="ulist compact">
 <ul class="compact">
 <li>
@@ -16238,12 +15597,7 @@ jug.msk.ru <a href="http://habrahabr.ru/post/272009/" class="bare">http://habrah
     <link href="http://razborpoletov.com/2015/01/episode-76.html"/>
     <updated>2015-01-25T16:13:00+00:00</updated>
     <id>http://razborpoletov.com/2015/01/episode-76</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_76_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_76_text.jpg" width="350" /></a>
-</div>
-
-
-<p><a href="http://drupal.osgibook.org/sites/osgibook.org/files/die_osgi_service_platform_0.jpg">Картинка</a></p>
+    <content type="html"><![CDATA[<p><a href="http://drupal.osgibook.org/sites/osgibook.org/files/die_osgi_service_platform_0.jpg">Картинка</a></p>
 
 <ul>
 <li><a href="http://2015.geekout.ee/registration/">Регистрация на GeekOut открыта</a></li>
@@ -16350,12 +15704,7 @@ jug.msk.ru <a href="http://habrahabr.ru/post/272009/" class="bare">http://habrah
     <link href="http://razborpoletov.com/2015/01/episode-75.html"/>
     <updated>2015-01-11T17:20:00+00:00</updated>
     <id>http://razborpoletov.com/2015/01/episode-75</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_75_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_75_text.jpg" width="350" /></a>
-</div>
-
-
-<ul>
+    <content type="html"><![CDATA[<ul>
 <li><a href="http://www.teamten.com/lawrence/writings/java-for-everything.html">Java для всего</a></li>
 <li><a href="http://vimeo.com/100899133">Go for Java developers</a></li>
 <li><a href="http://www.jamesward.com/2014/12/03/java-doesnt-suck-youre-just-using-it-wrong">И вообще, Java вся белая и пушистая</a></li>
@@ -16422,12 +15771,7 @@ jug.msk.ru <a href="http://habrahabr.ru/post/272009/" class="bare">http://habrah
     <link href="http://razborpoletov.com/2014/12/episode-74.html"/>
     <updated>2014-12-28T15:47:00+00:00</updated>
     <id>http://razborpoletov.com/2014/12/episode-74</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_74_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_74_text.jpg" width="350" /></a>
-</div>
-
-
-<p><strong>2014</strong></p>
+    <content type="html"><![CDATA[<p><strong>2014</strong></p>
 
 <ul>
 <li><a href="http://next.javaheadbrain.com/posts/2014/12/13/goodbye-farata-hello-hazelcast.html">Превед, Hazelcast!</a></li>
@@ -16500,12 +15844,7 @@ jug.msk.ru <a href="http://habrahabr.ru/post/272009/" class="bare">http://habrah
     <link href="http://razborpoletov.com/2014/11/episode-73.html"/>
     <updated>2014-11-30T17:01:00+00:00</updated>
     <id>http://razborpoletov.com/2014/11/episode-73</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_73_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_73_text.jpg" width="350" /></a>
-</div>
-
-
-<p>Фото пирога было найдено <a href="https://c2.staticflickr.com/4/3402/5839809283_df8e42f37f_b.jpg">тут</a></p>
+    <content type="html"><![CDATA[<p>Фото пирога было найдено <a href="https://c2.staticflickr.com/4/3402/5839809283_df8e42f37f_b.jpg">тут</a></p>
 
 <ul>
 <li><a href="https://twitter.com/javaposse/status/533145446945128448">JavaPosse все</a></li>
@@ -16595,12 +15934,7 @@ jug.msk.ru <a href="http://habrahabr.ru/post/272009/" class="bare">http://habrah
     <link href="http://razborpoletov.com/2014/11/episode-72.html"/>
     <updated>2014-11-10T13:47:00+00:00</updated>
     <id>http://razborpoletov.com/2014/11/episode-72</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_72_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_72_text.jpg" width="350" /></a>
-</div>
-
-
-<ul>
+    <content type="html"><![CDATA[<ul>
 <li><a href="http://jugmsk.timepad.ru/event/158310/">Носороги на воле и они будут в Москве!!!</a></li>
 <li>Новое приложение «Разбор Полетов»</li>
 <li><a href="http://yandex.ru/yac2014/">Yac</a></li>
@@ -16682,12 +16016,7 @@ jug.msk.ru <a href="http://habrahabr.ru/post/272009/" class="bare">http://habrah
     <link href="http://razborpoletov.com/2014/10/episode-71.html"/>
     <updated>2014-10-22T23:33:00+00:00</updated>
     <id>http://razborpoletov.com/2014/10/episode-71</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_71_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_71_text.jpg" width="350" /></a>
-</div>
-
-
-<ul>
+    <content type="html"><![CDATA[<ul>
 <li>В полку <a href="https://java-champions.java.net">чемпионов</a> прибыло. <a href="https://blogs.oracle.com/java/entry/new_java_champions_mario_torre">Наши поздравления мистеру Архипову!</a></li>
 <li>Добить JavaOne:
 
@@ -16775,12 +16104,7 @@ jug.msk.ru <a href="http://habrahabr.ru/post/272009/" class="bare">http://habrah
     <link href="http://razborpoletov.com/2014/10/episode-70.html"/>
     <updated>2014-10-01T00:18:00+00:00</updated>
     <id>http://razborpoletov.com/2014/10/episode-70</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_70_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_70_text.jpg" width="350" /></a>
-</div>
-
-
-<ul>
+    <content type="html"><![CDATA[<ul>
 <li><a href="https://play.google.com/store/apps/details?id=com.shonenfactory.razborpoletov">Приложение «Разбор Полетов» для Android</a>. <a href="https://github.com/rsi2m/RazborPoletov">Гитхаб</a> для пулл-реквестов</li>
 <li><a href="https://www.oracle.com/javaone/index.html">JavaOne</a>
 
@@ -16834,12 +16158,7 @@ jug.msk.ru <a href="http://habrahabr.ru/post/272009/" class="bare">http://habrah
     <link href="http://razborpoletov.com/2014/09/episode-69.html"/>
     <updated>2014-09-30T00:11:00+00:00</updated>
     <id>http://razborpoletov.com/2014/09/episode-69</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_69_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_69_text.jpg" width="350" /></a>
-</div>
-
-
-<ul>
+    <content type="html"><![CDATA[<ul>
 <li><a href="https://play.google.com/store/apps/details?id=com.shonenfactory.razborpoletov">Приложение «Разбор Полетов» для Android</a>. <a href="https://github.com/rsi2m/RazborPoletov">Гитхаб</a> для пулл-реквестов</li>
 <li><a href="https://www.oracle.com/javaone/index.html">JavaOne</a>
 
@@ -16892,12 +16211,7 @@ jug.msk.ru <a href="http://habrahabr.ru/post/272009/" class="bare">http://habrah
     <link href="http://razborpoletov.com/2014/09/episode-68.html"/>
     <updated>2014-09-14T16:28:00+00:00</updated>
     <id>http://razborpoletov.com/2014/09/episode-68</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_68_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_68_text.jpg" width="350" /></a>
-</div>
-
-
-<ul>
+    <content type="html"><![CDATA[<ul>
 <li><a href="https://play.google.com/store/apps/details?id=com.shonenfactory.razborpoletov">Приложение «Разбор Полетов» для Android</a>. <a href="https://github.com/rsi2m/RazborPoletov">Гитхаб</a> для пулл-реквестов</li>
 <li><a href="https://www.oracle.com/javaone/index.html">JavaOne</a>
 
@@ -16988,12 +16302,7 @@ jug.msk.ru <a href="http://habrahabr.ru/post/272009/" class="bare">http://habrah
     <link href="http://razborpoletov.com/2014/09/episode-67.html"/>
     <updated>2014-09-06T11:47:00+00:00</updated>
     <id>http://razborpoletov.com/2014/09/episode-67</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_67_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_67_text.jpg" width="350" /></a>
-</div>
-
-
-<ul>
+    <content type="html"><![CDATA[<ul>
 <li><a href="http://www.jcrete.org/">JCrete</a></li>
 <li><a href="http://nighthacking.com/category/jcrete2014/">Nighthacking on JCrete</a></li>
 <li><a href="http://vanillajava.blogspot.com/">Peter Lawrey</a></li>
@@ -17062,12 +16371,7 @@ jug.msk.ru <a href="http://habrahabr.ru/post/272009/" class="bare">http://habrah
     <link href="http://razborpoletov.com/2014/08/episode-66.html"/>
     <updated>2014-08-27T21:39:00+00:00</updated>
     <id>http://razborpoletov.com/2014/08/episode-66</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_66_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_66_text.jpg" width="350" /></a>
-</div>
-
-
-<ul>
+    <content type="html"><![CDATA[<ul>
 <li><a href="https://play.google.com/store/apps/details?id=com.shonenfactory.razborpoletov">Приложение «Разбор Полетов» для Android</a>. <a href="https://github.com/rsi2m/RazborPoletov">Гитхаб</a> для пулл-реквестов</li>
 <li><a href="https://github.com/google/dagger">Dagger Two</a>. <a href="https://www.youtube.com/watch?v=oK_XtfXPkqw">Видео</a></li>
 <li><a href="http://www.amazon.com/Dependency-Injection-Dhanji-R-Prasanna/dp/193398855X">Книга про DI</a></li>
@@ -17126,12 +16430,7 @@ jug.msk.ru <a href="http://habrahabr.ru/post/272009/" class="bare">http://habrah
     <link href="http://razborpoletov.com/2014/08/episode-65.html"/>
     <updated>2014-08-14T00:25:00+00:00</updated>
     <id>http://razborpoletov.com/2014/08/episode-65</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_65_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_65_text.jpg" width="350" /></a>
-</div>
-
-
-<ul>
+    <content type="html"><![CDATA[<ul>
 <li><a href="https://play.google.com/store/apps/details?id=com.shonenfactory.razborpoletov">Приложение «Разбор Полетов» для Android</a></li>
 <li><a href="http://instagram-engineering.tumblr.com/post/89992572022/migrating-aws-fb">Как мигрировал Instagram</a></li>
 <li><a href="http://xprogramming.com/articles/refactoring-not-on-the-backlog/">Не откладывайте рефакторинг в долгий ящик</a></li>
@@ -17192,12 +16491,7 @@ jug.msk.ru <a href="http://habrahabr.ru/post/272009/" class="bare">http://habrah
     <link href="http://razborpoletov.com/2014/07/episode-64.html"/>
     <updated>2014-07-28T19:31:00+00:00</updated>
     <id>http://razborpoletov.com/2014/07/episode-64</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_64_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_64_text.jpg" width="350" /></a>
-</div>
-
-
-<p>Конференции:</p>
+    <content type="html"><![CDATA[<p>Конференции:</p>
 
 <ul>
 <li><a href="http://springone2gx.com">SpringOne2GX</a></li>
@@ -17297,11 +16591,6 @@ jug.msk.ru <a href="http://habrahabr.ru/post/272009/" class="bare">http://habrah
     <id>http://razborpoletov.com/2014/07/episode-63</id>
     <content type="html"><![CDATA[<p><a href="http://xkcd.com/386/">Кто-то неправ</a></p>
 
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_63_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_63_text.jpg" width="350" /></a>
-</div>
-
-
 <p>Конференции:</p>
 
 <ul>
@@ -17394,11 +16683,6 @@ jug.msk.ru <a href="http://habrahabr.ru/post/272009/" class="bare">http://habrah
     <id>http://razborpoletov.com/2014/06/episode-62</id>
     <content type="html"><![CDATA[<p><a href="http://s2.developerslife.ru/public/images/gifs/63e1f331-bee2-4648-af36-709f123ea05d.gif"><strong>Выпуск 18+</strong></a></p>
 
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_62_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_62_text.jpg" width="350" /></a>
-</div>
-
-
 <ul>
 <li>Конференции
 
@@ -17486,12 +16770,7 @@ jug.msk.ru <a href="http://habrahabr.ru/post/272009/" class="bare">http://habrah
     <link href="http://razborpoletov.com/2014/06/episode-61.html"/>
     <updated>2014-06-08T16:43:00+00:00</updated>
     <id>http://razborpoletov.com/2014/06/episode-61</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_61_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_61_text.jpg" width="350" /></a>
-</div>
-
-
-<p>Гость <a href="http://devpocket.com">Александр Бабаев</a></p>
+    <content type="html"><![CDATA[<p>Гость <a href="http://devpocket.com">Александр Бабаев</a></p>
 
 <p>Конференции:</p>
 
@@ -17572,12 +16851,7 @@ jug.msk.ru <a href="http://habrahabr.ru/post/272009/" class="bare">http://habrah
     <link href="http://razborpoletov.com/2014/05/episode-60.html"/>
     <updated>2014-05-18T16:38:00+00:00</updated>
     <id>http://razborpoletov.com/2014/05/episode-60</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_60_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_60_text.jpg" width="350" /></a>
-</div>
-
-
-<ul>
+    <content type="html"><![CDATA[<ul>
 <li><a href="http://jeeconf.com/">JEEConf 2014</a> - Спрашивайте про стикеры «Разбор Полетов»</li>
 <li><p>Всякая всячина с DevNation:</p>
 
@@ -17675,11 +16949,6 @@ jug.msk.ru <a href="http://habrahabr.ru/post/272009/" class="bare">http://habrah
     <id>http://razborpoletov.com/2014/04/episode-59</id>
     <content type="html"><![CDATA[<p>Гость выпуска <a href="https://twitter.com/#!/umputun">Umputun</a></p>
 
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_59_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_59_text.jpg" width="350" /></a>
-</div>
-
-
 <p><strong>Java 8</strong>:</p>
 
 <ul>
@@ -17774,12 +17043,7 @@ jug.msk.ru <a href="http://habrahabr.ru/post/272009/" class="bare">http://habrah
     <link href="http://razborpoletov.com/2014/03/episode-58.html"/>
     <updated>2014-03-23T17:44:00+00:00</updated>
     <id>http://razborpoletov.com/2014/03/episode-58</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_58_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_58_text.jpg" width="350" /></a>
-</div>
-
-
-<p><em>Приглашенные гости:</em></p>
+    <content type="html"><![CDATA[<p><em>Приглашенные гости:</em></p>
 
 <p>Алексей Федоров про <a href="http://javapoint.ru/">JPoint</a></p>
 
@@ -17861,12 +17125,7 @@ jug.msk.ru <a href="http://habrahabr.ru/post/272009/" class="bare">http://habrah
     <link href="http://razborpoletov.com/2014/03/episode-57.html"/>
     <updated>2014-03-16T16:40:00+00:00</updated>
     <id>http://razborpoletov.com/2014/03/episode-57</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_57_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_57_text.jpg" width="350" /></a>
-</div>
-
-
-<ul>
+    <content type="html"><![CDATA[<ul>
 <li><a href="https://razborpoletov.com/2014/03/episode-56.html#comment-1283786859">Вопрос и зала</a></li>
 <li>Про уверенность в себе и технологии</li>
 <li><a href="http://www.thoughtworks.com/radar/">Что-то маячет на радаре</a></li>
@@ -17939,12 +17198,7 @@ jug.msk.ru <a href="http://habrahabr.ru/post/272009/" class="bare">http://habrah
     <link href="http://razborpoletov.com/2014/03/episode-56.html"/>
     <updated>2014-03-02T16:17:00+00:00</updated>
     <id>http://razborpoletov.com/2014/03/episode-56</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_56_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_56_text.jpg" width="350" /></a>
-</div>
-
-
-<ul>
+    <content type="html"><![CDATA[<ul>
 <li><a href="http://thenextweb.com/lifehacks/2014/02/10/listen-work-music-brain/">Музыка нас связала</a></li>
 <li><a href="https://blog.twitter.com/2014/netty-at-twitter-with-finagle">Финагл</a></li>
 <li>Арни <a href="https://gist.github.com/georg/9224355">1</a> <a href="http://www.youtube.com/watch?v=pDxn0Xfqkgw">2</a></li>
@@ -18031,12 +17285,7 @@ jug.msk.ru <a href="http://habrahabr.ru/post/272009/" class="bare">http://habrah
     <link href="http://razborpoletov.com/2014/02/episode-55.html"/>
     <updated>2014-02-16T17:45:00+00:00</updated>
     <id>http://razborpoletov.com/2014/02/episode-55</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_55_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_55_text.jpg" width="350" /></a>
-</div>
-
-
-<ul>
+    <content type="html"><![CDATA[<ul>
 <li>Эй, <a href="http://www.javaspecialists.eu/">ты кто такой</a>? давайдосвидания! <a href="https://twitter.com/heinzkabutz/status/432947749764362240">1</a> <a href="https://twitter.com/heinzkabutz/status/432947875916439552">2</a>. <a href="http://sourceforge.net/projects/javaconcurrenta/">Java Concurrent Animated</a></li>
 <li><a href="http://blog.jooq.org/2014/01/09/advanced-java-trickery-for-typesafe-query-dsls/">TypeSafe DSL</a>, <a href="http://blog.joda.org/2014/02/new-project-threeten-extra-for-jdk-8.html">Time in Java 8</a></li>
 <li>Полезняшка <a href="https://code.google.com/p/concurrentlinkedhashmap/wiki/Design">1</a> <a href="http://sysadmincasts.com/">2</a> <a href="https://github.com/dinedal/textql">3</a></li>
@@ -18104,12 +17353,7 @@ jug.msk.ru <a href="http://habrahabr.ru/post/272009/" class="bare">http://habrah
     <link href="http://razborpoletov.com/2014/01/episode-54.html"/>
     <updated>2014-01-26T16:37:00+00:00</updated>
     <id>http://razborpoletov.com/2014/01/episode-54</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_54_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_54_text.jpg" width="350" /></a>
-</div>
-
-
-<p>Гость выпуска - <a href="https://plus.google.com/+KonstantinScheglov/">Константин Щеглов, Google</a></p>
+    <content type="html"><![CDATA[<p>Гость выпуска - <a href="https://plus.google.com/+KonstantinScheglov/">Константин Щеглов, Google</a></p>
 
 <p>Подводим итоги конкурса на <a href="https://razborpoletov.com/2013/12/greeting-card-2013.html">лучшую поздравительную открытку</a></p>
 
@@ -18221,12 +17465,7 @@ January 30, 2014 from 6:00 PM to 8:30 PM, New York, NY</p>
     <link href="http://razborpoletov.com/2014/01/episode-53.html"/>
     <updated>2014-01-12T17:01:00+00:00</updated>
     <id>http://razborpoletov.com/2014/01/episode-53</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_53_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_53_text.jpg" width="350" /></a>
-</div>
-
-
-<p>Итоги года <a href="http://jaxenter.com/why-java-skills-are-still-golden-for-developers.1-49296.html">1</a>, <a href="http://code2013.herokuapp.com/">2</a>, <a href="http://blogs.tedneward.com/2014/01/03/Tech+Predictions+2014.aspx">3</a>.</p>
+    <content type="html"><![CDATA[<p>Итоги года <a href="http://jaxenter.com/why-java-skills-are-still-golden-for-developers.1-49296.html">1</a>, <a href="http://code2013.herokuapp.com/">2</a>, <a href="http://blogs.tedneward.com/2014/01/03/Tech+Predictions+2014.aspx">3</a>.</p>
 
 <p>Про Ceylon <a href="http://ceylon-lang.org/blog/2013/11/12/ceylon-1/">1</a>, <a href="http://blog.jooq.org/2013/12/03/top-10-ceylon-language-features-i-wish-we-had-in-java/">2</a> и бонус от ZT <a href="https://github.com/antonarhipov/ceylon-http-server">1</a>, <a href="http://zeroturnaround.com/rebellabs/the-adventurous-developers-guide-to-jvm-languages-java-scala-groovy-fantom-clojure-ceylon-kotlin-xtend/">2</a>, <a href="https://github.com/zeroturnaround/jvm-languages-report">3</a></p>
 
@@ -18335,12 +17574,7 @@ January 30, 2014 from 6:00 PM to 8:30 PM, New York, NY</p>
     <link href="http://razborpoletov.com/2013/12/episode-52.html"/>
     <updated>2013-12-22T17:03:00+00:00</updated>
     <id>http://razborpoletov.com/2013/12/episode-52</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_52_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_52_text.jpg" width="350" /></a>
-</div>
-
-
-<p>Гость выпуска — <a href="mailto:andrey.cheptsov@jetbrains.com">Андрей Чепцов из JetBrains</a></p>
+    <content type="html"><![CDATA[<p>Гость выпуска — <a href="mailto:andrey.cheptsov@jetbrains.com">Андрей Чепцов из JetBrains</a></p>
 
 <ul>
 <li><a href="http://www.jetbrains.com/idea/whatsnew/">What’s new</a></li>
@@ -18421,12 +17655,7 @@ January 30, 2014 from 6:00 PM to 8:30 PM, New York, NY</p>
     <link href="http://razborpoletov.com/2013/12/episode-51.html"/>
     <updated>2013-12-15T16:40:00+00:00</updated>
     <id>http://razborpoletov.com/2013/12/episode-51</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_51_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_51_text.jpg" width="350" /></a>
-</div>
-
-
-<p>Кудо про наклейки и donations!</p>
+    <content type="html"><![CDATA[<p>Кудо про наклейки и donations!</p>
 
 <p>Спасибо <a href="http://d-vision.kz">http://d-vision.kz</a> и нашим слушателям!</p>
 
@@ -18520,12 +17749,7 @@ January 30, 2014 from 6:00 PM to 8:30 PM, New York, NY</p>
     <link href="http://razborpoletov.com/2013/12/episode-50.html"/>
     <updated>2013-12-01T17:08:00+00:00</updated>
     <id>http://razborpoletov.com/2013/12/episode-50</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_50_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_50_text.jpg" width="350" /></a>
-</div>
-
-
-<p>Кудо про наклейки и donations!</p>
+    <content type="html"><![CDATA[<p>Кудо про наклейки и donations!</p>
 
 <p>Спасибо <a href="http://d-vision.kz">http://d-vision.kz</a> и нашим слушателям!</p>
 
@@ -18609,12 +17833,7 @@ January 30, 2014 from 6:00 PM to 8:30 PM, New York, NY</p>
     <link href="http://razborpoletov.com/2013/11/episode-49.html"/>
     <updated>2013-11-17T19:28:00+00:00</updated>
     <id>http://razborpoletov.com/2013/11/episode-49</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_49_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_49_text.jpg" width="350" /></a>
-</div>
-
-
-<p>Кудо про наклейки и donations!
+    <content type="html"><![CDATA[<p>Кудо про наклейки и donations!
 Спасибо <a href="http://d-vision.kz">http://d-vision.kz</a> и нашим слушателям!</p>
 
 <ul>
@@ -18687,12 +17906,7 @@ January 30, 2014 from 6:00 PM to 8:30 PM, New York, NY</p>
     <link href="http://razborpoletov.com/2013/11/episode-48.html"/>
     <updated>2013-11-08T15:00:00+00:00</updated>
     <id>http://razborpoletov.com/2013/11/episode-48</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_48_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_48_text.jpg" width="350" /></a>
-</div>
-
-
-<p>Кудо про наклейки и donations!
+    <content type="html"><![CDATA[<p>Кудо про наклейки и donations!
 Спасибо <a href="http://d-vision.kz">http://d-vision.kz</a> и нашим слушателям!</p>
 
 <p><a href="http://aphyr.com/posts/299-the-trouble-with-timestamps">The trouble with timestamps</a></p>
@@ -18773,12 +17987,7 @@ January 30, 2014 from 6:00 PM to 8:30 PM, New York, NY</p>
     <link href="http://razborpoletov.com/2013/09/episode-47.html"/>
     <updated>2013-09-26T10:55:00+00:00</updated>
     <id>http://razborpoletov.com/2013/09/episode-47</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_47_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_47_text.jpg" width="350" /></a>
-</div>
-
-
-<p>Наши контакты:</p>
+    <content type="html"><![CDATA[<p>Наши контакты:</p>
 
 <p>Официальный сайт — <a href="https://razborpoletov.com">https://razborpoletov.com</a></p>
 
@@ -18826,12 +18035,7 @@ January 30, 2014 from 6:00 PM to 8:30 PM, New York, NY</p>
     <link href="http://razborpoletov.com/2013/09/episode-46.html"/>
     <updated>2013-09-25T08:29:00+00:00</updated>
     <id>http://razborpoletov.com/2013/09/episode-46</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_46_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_46_text.jpg" width="350" /></a>
-</div>
-
-
-<p>Наши контакты:</p>
+    <content type="html"><![CDATA[<p>Наши контакты:</p>
 
 <p>Официальный сайт — <a href="https://razborpoletov.com">https://razborpoletov.com</a></p>
 
@@ -18880,12 +18084,7 @@ January 30, 2014 from 6:00 PM to 8:30 PM, New York, NY</p>
     <link href="http://razborpoletov.com/2013/09/episode-45.html"/>
     <updated>2013-09-24T01:33:00+00:00</updated>
     <id>http://razborpoletov.com/2013/09/episode-45</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_45_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_45_text.jpg" width="350" /></a>
-</div>
-
-
-<p><a href="http://www.manning.com/kousen/">Making Java Groovy</a>
+    <content type="html"><![CDATA[<p><a href="http://www.manning.com/kousen/">Making Java Groovy</a>
 Промокод <strong>MLGO13CF</strong></p>
 
 <p><strong>p.p.s.</strong> По многочисленным просьбам вернул музыку в конце подкаста.</p>
@@ -18939,12 +18138,7 @@ January 30, 2014 from 6:00 PM to 8:30 PM, New York, NY</p>
     <link href="http://razborpoletov.com/2013/09/episode-44.html"/>
     <updated>2013-09-16T16:31:00+00:00</updated>
     <id>http://razborpoletov.com/2013/09/episode-44</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_44_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_44_text.jpg" width="350" /></a>
-</div>
-
-
-<p><a href="https://www.youtube.com/watch?v=n7-RetY7fGo"><strong>Gold is best!</strong></a></p>
+    <content type="html"><![CDATA[<p><a href="https://www.youtube.com/watch?v=n7-RetY7fGo"><strong>Gold is best!</strong></a></p>
 
 <p><strong>Конференции</strong></p>
 
@@ -19050,12 +18244,7 @@ January 30, 2014 from 6:00 PM to 8:30 PM, New York, NY</p>
     <link href="http://razborpoletov.com/2013/08/episode-43.html"/>
     <updated>2013-08-23T14:41:00+00:00</updated>
     <id>http://razborpoletov.com/2013/08/episode-43</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_43_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_43_text.jpg" width="350" /></a>
-</div>
-
-
-<ul>
+    <content type="html"><![CDATA[<ul>
 <li>Гость выпуска - <em>Дмитрий Борисович Жемеров</em>, CTO, Jetbrains</li>
 <li>Про продукты и плагины
 
@@ -19128,12 +18317,7 @@ January 30, 2014 from 6:00 PM to 8:30 PM, New York, NY</p>
     <link href="http://razborpoletov.com/2013/08/episode-42.html"/>
     <updated>2013-08-15T17:24:00+00:00</updated>
     <id>http://razborpoletov.com/2013/08/episode-42</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_42_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_42_text.jpg" width="350" /></a>
-</div>
-
-
-<ul>
+    <content type="html"><![CDATA[<ul>
 <li>Cпасибо слушателям за помощь!</li>
 <li><a href="http://habrahabr.ru/post/184008/">Про то как Google погрузился в &#8230;</a></li>
 <li><a href="http://www.infoq.com/news/2013/06/eclipse-github">Они заполоняют</a></li>
@@ -19197,12 +18381,7 @@ January 30, 2014 from 6:00 PM to 8:30 PM, New York, NY</p>
     <link href="http://razborpoletov.com/2013/06/episode-41.html"/>
     <updated>2013-06-16T21:41:00+00:00</updated>
     <id>http://razborpoletov.com/2013/06/episode-41</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_41_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_41_text.jpg" width="350" /></a>
-</div>
-
-
-<ul>
+    <content type="html"><![CDATA[<ul>
 <li><a href="http://www.infoq.com/presentations/JVM-Mechanics">Машинариум</a></li>
 <li><a href="http://www.infoq.com/articles/9_Fallacies_Java_Performance">Java не тормозит ©</a></li>
 <li><a href="http://www.thingist.com/item/4372/">Братва, не стреляйте в друг друга ©</a></li>
@@ -19269,12 +18448,7 @@ January 30, 2014 from 6:00 PM to 8:30 PM, New York, NY</p>
     <link href="http://razborpoletov.com/2013/05/episode-40.html"/>
     <updated>2013-05-30T14:38:00+00:00</updated>
     <id>http://razborpoletov.com/2013/05/episode-40</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_40_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_40_text.jpg" width="350" /></a>
-</div>
-
-
-<ul>
+    <content type="html"><![CDATA[<ul>
 <li>Дима про IO</li>
 <li>Доверяй, но проверяй</li>
 <li><a href="http://zeroturnaround.com/labs/the-great-java-application-server-debate-tomcat/">Конкурс красоты в зоопарке</a></li>
@@ -19332,12 +18506,7 @@ January 30, 2014 from 6:00 PM to 8:30 PM, New York, NY</p>
     <link href="http://razborpoletov.com/2013/05/episode-39.html"/>
     <updated>2013-05-14T20:14:00+00:00</updated>
     <id>http://razborpoletov.com/2013/05/episode-39</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/logo_final_w_512.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/logo_final_w_512.png" width="350" /></a>
-</div>
-
-
-<ul>
+    <content type="html"><![CDATA[<ul>
 <li>Новый логотип. Спасибо <a href="http://d-vision.kz/">D-Vision</a>!</li>
 <li>Вести с полей (одной строкой)
 
@@ -19429,12 +18598,7 @@ January 30, 2014 from 6:00 PM to 8:30 PM, New York, NY</p>
     <link href="http://razborpoletov.com/2013/04/episode-38.html"/>
     <updated>2013-04-22T15:28:00+00:00</updated>
     <id>http://razborpoletov.com/2013/04/episode-38</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_38_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_38_text.jpg" width="350" /></a>
-</div>
-
-
-<ul>
+    <content type="html"><![CDATA[<ul>
 <li>Кто-то расскажет про Play</li>
 <li><a href="http://www.javaworld.com/javaworld/jw-04-2013/130404-16-ways-to-torture-developers.html">16 правильных способов замучить девелоперов</a></li>
 <li>Полезняшки:
@@ -19536,11 +18700,7 @@ January 30, 2014 from 6:00 PM to 8:30 PM, New York, NY</p>
     <link href="http://razborpoletov.com/2013/03/episode-37.html"/>
     <updated>2013-03-31T10:43:00+00:00</updated>
     <id>http://razborpoletov.com/2013/03/episode-37</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_37_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_37_text.jpg" width="350" /></a></div>
-
-
-<ul>
+    <content type="html"><![CDATA[<ul>
 <li>Google открывает для себя новую бизнес нишу - <a href="http://www.businessinsider.com/ex-googlers-facebook-graph-search-2013-1">рекрутинг</a>. Каждый новый сотрудник в свой первый день получает специальный талон, что он теперь официально &#8220;прокачен&#8221; и должен приниматься в любую IT компанию Кремниевой долины или Нью-Йорка без собеседования.</li>
 <li>Мартин Одерски, известный как автор Scala, написал в своем блоге, что очень многому научился при написании этого языка и этот фундамент поможет ему в разработке <a href="http://www.scala-lang.org/node/143#talks">нового языка программирования</a>.</li>
 <li>Полезняшка:
@@ -19638,11 +18798,7 @@ January 30, 2014 from 6:00 PM to 8:30 PM, New York, NY</p>
     <link href="http://razborpoletov.com/2013/03/episode-36.html"/>
     <updated>2013-03-28T11:07:00+00:00</updated>
     <id>http://razborpoletov.com/2013/03/episode-36</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_36_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_36_text.jpg" width="350" /></a></div>
-
-
-<ul>
+    <content type="html"><![CDATA[<ul>
 <li><a href="http://www.indiangeek.net/wp-content/uploads/Programmer%20competency%20matrix.htm">Матрица (не)компетенций программиста</a></li>
 <li><a href="http://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/">Notes on Distributed Systems for Young Bloods</a></li>
 <li>Полезняшки
@@ -19741,11 +18897,7 @@ January 30, 2014 from 6:00 PM to 8:30 PM, New York, NY</p>
     <link href="http://razborpoletov.com/2013/03/episode-35.html"/>
     <updated>2013-03-04T22:10:00+00:00</updated>
     <id>http://razborpoletov.com/2013/03/episode-35</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_35_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_35_text.jpg" width="350" /></a></div>
-
-
-<ul>
+    <content type="html"><![CDATA[<ul>
 <li><a href="http://zef.me/4835/dart-web-fragmentation-vs-web-development-fragmentation">Dart: Web Fragmentation vs. Web Development Fragmentation</a></li>
 <li>Полезняшки:
 
@@ -19844,11 +18996,7 @@ January 30, 2014 from 6:00 PM to 8:30 PM, New York, NY</p>
     <link href="http://razborpoletov.com/2013/02/episode-34.html"/>
     <updated>2013-02-20T17:11:00+00:00</updated>
     <id>http://razborpoletov.com/2013/02/episode-34</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_34_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_34_text.jpg" width="350" /></a></div>
-
-
-<ul>
+    <content type="html"><![CDATA[<ul>
 <li><a href="http://www.theregister.co.uk/2013/02/07/home_lab_career_saver/">Почему надо сделать лабу</a></li>
 <li><a href="http://blog.enoughtobedanger.us/caching-for-beginners/">Кэширование для начинающих</a></li>
 <li>Полезняшка
@@ -19929,11 +19077,7 @@ January 30, 2014 from 6:00 PM to 8:30 PM, New York, NY</p>
     <link href="http://razborpoletov.com/2013/02/episode33-aws-event.html"/>
     <updated>2013-02-03T12:10:00+00:00</updated>
     <id>http://razborpoletov.com/2013/02/episode33-aws-event</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_33_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="300" src="https://razborpoletov.com/images/razbor_33_text.jpg" width="300" /></a></div>
-
-
-<p>Мы рады приветствовать Вас на очередном выпуске подкаста «Разбор Полетов». Сегодня у нас в гостях Peter Sirota, general manager Amazon Elastic MapReduce и он нам все расскажет о <a href="http://awsmoscow2013.s3-website-us-east-1.amazonaws.com/">предстоящем событии в Москве и Киеве</a>, которое проводит Amazon в этом году.</p>
+    <content type="html"><![CDATA[<p>Мы рады приветствовать Вас на очередном выпуске подкаста «Разбор Полетов». Сегодня у нас в гостях Peter Sirota, general manager Amazon Elastic MapReduce и он нам все расскажет о <a href="http://awsmoscow2013.s3-website-us-east-1.amazonaws.com/">предстоящем событии в Москве и Киеве</a>, которое проводит Amazon в этом году.</p>
 
 <ul>
 <li>Что необходимо сделать чтобы Amazon прислал вам приглашение на собеседование</li>
@@ -19995,11 +19139,7 @@ January 30, 2014 from 6:00 PM to 8:30 PM, New York, NY</p>
     <link href="http://razborpoletov.com/2013/01/episode-32.html"/>
     <updated>2013-01-27T20:06:00+00:00</updated>
     <id>http://razborpoletov.com/2013/01/episode-32</id>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_32_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="300" src="https://razborpoletov.com/images/razbor_32_text.jpg" width="300" /></a></div>
-
-
-<p>В этом выпуске к нам наконец-то пришел <a href="https://twitter.com/dnesteruk">правильный человек из мира <strong>.NET</strong></a> и воздает нам за «оргии MVP». Заодно обсудили следующие темы:</p>
+    <content type="html"><![CDATA[<p>В этом выпуске к нам наконец-то пришел <a href="https://twitter.com/dnesteruk">правильный человек из мира <strong>.NET</strong></a> и воздает нам за «оргии MVP». Заодно обсудили следующие темы:</p>
 
 <ul>
 <li><a href="http://blog.8thlight.com/ben-voss/2013/01/15/how-to-be-a-great-pair.html">Каждой твари - по харе</a></li>
