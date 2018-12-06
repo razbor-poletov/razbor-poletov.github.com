@@ -6,8 +6,8 @@
     <atom:link href="http://razborpoletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2018-12-06T19:15:30+00:00</pubDate>
-    <lastBuildDate>2018-12-06T19:15:30+00:00</lastBuildDate>
+    <pubDate>2018-12-06T22:04:11+00:00</pubDate>
+    <lastBuildDate>2018-12-06T22:04:11+00:00</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razborpoletov.com/logoNew.jpg" />
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
@@ -18,6 +18,178 @@
     </itunes:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:thumbnail url="http://razborpoletov.com/logoNew.jpg" />
+    
+    <item>
+      <title>Episode 193 — РП: Java — Дайдждест — Конец Github в устах Sr.ht</title>
+      <link>http://razborpoletov.com/2018/12/episode-193.html</link>
+      <pubDate>2018-12-05T00:00:00+00:00</pubDate>
+      <guid isPermalink="true">http://razborpoletov.com/2018/12/episode-193</guid>
+      <description><![CDATA[<div class="sect1">
+<h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
+<div class="sectionbody">
+<div class="listingblock">
+<div class="content">
+<pre>👇 👇 👇 Официальный стикерпак Разбора Полетов и полуофициальный Чат pro.jvm в Телеграме 👇 👇 👇</pre>
+</div>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://t.me/addstickers/razbor_poletov">стикеры</a></p>
+</li>
+<li>
+<p><a href="https://t.me/jvmchat">pro.jvm</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://twitter.com/olegchir">Олег Чирухин</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://jug.ru/2018/11/digest-week-82/">Java Дайджест №82</a></p>
+</li>
+</ul>
+</div>
+<hr>
+<div class="paragraph">
+<p>Наши контакты:</p>
+</div>
+<div class="paragraph">
+<p>Официальный сайт — <a href="https://razborpoletov.com">https://razborpoletov.com</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://razborpoletov.com/broadcast.html">Информация о вещании</a></p>
+</div>
+<div class="paragraph">
+<p>Гости и участники:</p>
+</div>
+<div class="paragraph">
+<p>twitter:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://twitter.com/a_abashev">@a_abashev</a></p>
+</li>
+</ul>
+</div>
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_193.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+<div class="paragraph">
+<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
+</div>
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_193.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="https://razborpoletov.com/images/mp3.png" width="64" /></a>
+<div class="paragraph">
+<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
+</div>
+</div>
+</div>]]></description>
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_193.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_193.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[
+Партнеры выпуска
+
+
+
+👇 👇 👇 Официальный стикерпак Разбора Полетов и полуофициальный Чат pro.jvm в Телеграме 👇 👇 👇
+
+
+
+
+
+стикеры
+
+
+pro.jvm
+
+
+
+
+
+
+Гости и участники
+
+
+
+
+Олег Чирухин
+
+
+
+
+
+
+Темы
+
+
+
+
+Java Дайджест №82
+
+
+
+
+
+Наши контакты:
+
+
+Официальный сайт — https://razborpoletov.com
+
+
+Информация о вещании
+
+
+Гости и участники:
+
+
+twitter:
+
+
+
+
+@a_abashev
+
+
+
+
+
+
+   
+   Your browser does not support the audio tag.
+
+
+Подписаться по RSS
+
+
+
+
+Музыка ведущим предоставлена и ладно&#8230;&#8203;
+
+
+]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_193_text.jpg" />
+    </item>
     
     <item>
       <title>Episode 192 — РП: Java — Дайдждест — Шпроты</title>
@@ -12091,136 +12263,6 @@ twitter:
 Музыка ведущим предоставлена и ладно&#8230;&#8203;
 ]]></itunes:summary>
       <itunes:image href="http://razborpoletov.com/images/razbor_144_text.jpg" />
-    </item>
-    
-    <item>
-      <title>Episode 143 — JavaOne Special ThreadPool Karaoke</title>
-      <link>http://razborpoletov.com/2017/10/episode-143.html</link>
-      <pubDate>2017-10-27T00:00:00+00:00</pubDate>
-      <guid isPermalink="true">http://razborpoletov.com/2017/10/episode-143</guid>
-      <description><![CDATA[<div class="ulist">
-<ul>
-<li>
-<p><a href="https://jokerconf.com">Joker</a> 2017 - 3-4 ноября!</p>
-</li>
-</ul>
-</div>
-<div class="listingblock">
-<div class="content">
-<pre>Внимание!
-Внутри конкурс от конференции Joker!
-Можно попасть на отличную конференцию 3-4 Ноября НА ХАЛЯВУ!</pre>
-</div>
-</div>
-<hr>
-<div class="paragraph">
-<p>Наши контакты:</p>
-</div>
-<div class="paragraph">
-<p>Официальный сайт — <a href="https://razborpoletov.com">https://razborpoletov.com</a></p>
-</div>
-<div class="paragraph">
-<p><a href="https://razborpoletov.com/broadcast.html">Информация о вещании</a></p>
-</div>
-<div class="paragraph">
-<p>Гости и участники:</p>
-</div>
-<div class="paragraph">
-<p>twitter:</p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://twitter.com/antonarhipov">@antonarhipov</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/andrey_cheptsov">@andrey_cheptsov</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/bulenkov">@bulenkov</a></p>
-</li>
-</ul>
-</div>
-<!-- player goes here-->
-
-<audio preload="none">
-   <source src="http://traffic.libsyn.com/razborpoletov/razbor_143.mp3" type="audio/mp3" />
-   Your browser does not support the audio tag.
-</audio>
-<div class="paragraph">
-<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
-</div>
-<!-- episode file link goes here-->
-<a href="http://traffic.libsyn.com/razborpoletov/razbor_143.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="https://razborpoletov.com/images/mp3.png" width="64" /></a>
-<div class="paragraph">
-<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
-</div>]]></description>
-      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_143.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_143.mp3" fileSize="" type="audio/mpeg" />
-      <itunes:summary><![CDATA[
-
-
-Joker 2017 - 3-4 ноября!
-
-
-
-
-
-Внимание!
-Внутри конкурс от конференции Joker!
-Можно попасть на отличную конференцию 3-4 Ноября НА ХАЛЯВУ!
-
-
-
-
-Наши контакты:
-
-
-Официальный сайт — https://razborpoletov.com
-
-
-Информация о вещании
-
-
-Гости и участники:
-
-
-twitter:
-
-
-
-
-@antonarhipov
-
-
-@gamussa
-
-
-@andrey_cheptsov
-
-
-@bulenkov
-
-
-
-
-
-
-   
-   Your browser does not support the audio tag.
-
-
-Подписаться по RSS
-
-
-
-
-Музыка ведущим предоставлена и ладно&#8230;&#8203;
-]]></itunes:summary>
-      <itunes:image href="http://razborpoletov.com/images/razbor_143_text.jpg" />
     </item>
     
   </channel>
