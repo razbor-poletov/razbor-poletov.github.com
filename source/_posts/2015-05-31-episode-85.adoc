@@ -1,17 +1,11 @@
 ---
-comments: true
-categories: podcast
-uid: 85
+episode: 85
 length: 71684716
 ---
 = Episode 85 — Bob McWhirter - ты, кто такой!?
 2015-05-31 18:11
 :layout: post
 :filename: razbor_85
-
-++++
-<div class="separator" style="clear: both; text-align: center;"><a href="https://razborpoletov.com/images/razbor_85_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_85_text.jpg" width="350" /></a></div>
-++++
 
 == Оффтопик
 

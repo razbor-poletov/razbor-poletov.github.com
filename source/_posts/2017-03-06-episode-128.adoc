@@ -1,17 +1,10 @@
 ---
-comments: true
-categories: 
+episode: 128
 ---
 = Episode 128 — Home Automation Special
 2017-03-06 14:44
 :layout: post
 :filename: razbor_
-
-++++
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_128_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_128_text.jpg" width="350" /></a>
-</div>
-++++
 
 Виктор и Барух болтают о home automation и IoT по дороге на конференцию OracleCode в Сан-Франциско.
 

@@ -1,17 +1,11 @@
 ---
-comments: true
-categories: 
+episode: 176
 ---
 = Episode 176 — РП: Java — Дайдждест — Duke, Thorntail, Tomcat и прочие животные
 2018-08-20 12:06
 :layout: post
 :filename: razbor_
 
-++++
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_176_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_176_text.jpg" width="350" /></a>
-</div>
-++++
 ----
 Официальный Чат Разбора Полетов Телеграме 👇 👇 👇
 ----

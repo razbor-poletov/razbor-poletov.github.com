@@ -1,18 +1,10 @@
 ---
-comments: true
-categories: 
-uid: 80
+episode: 80
 length: 18234993
 ---
 = Episode 80 — Небольшой конференционный
 2015-03-16 10:30
 :layout: post
-
-++++
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_80_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_80_text.jpg" width="350" /></a>
-</div>
-++++
 
 Запись велась с помощью чудного устройства http://www.zoom.co.jp/products/iq6[Zoom iQ6] в ресторане https://www.google.com/maps/place/Maggiano's+Little+Italy,+3368+Peachtree+Rd,+Atlanta,+GA+30326/@33.7677129,-84.420604,12z/data=!4m2!3m1!1s0x88f50f58606e2717:0xaa15fcf0fe93bfb1[Maggiano Little Italy].
 

@@ -1,18 +1,11 @@
 ---
-comments: true
-categories: 
+episode: 113
 ---
 = Episode 113 — Тагир и стримы
 2016-07-15 16:26
 :layout: post
 :filename: razbor_113
 :y: &#10003;
-
-++++
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_113_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_113_text.jpg" width="350" /></a>
-</div>
-++++
 
 == Релизы
 

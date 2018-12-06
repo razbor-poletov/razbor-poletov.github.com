@@ -1,17 +1,10 @@
 ---
-comments: true
-categories: 
+episode: 174
 ---
 = Episode 174 – РП: Java Дайдждест — Кто за главного в Джаве?
 2018-08-06 14:27
 :layout: post
 :filename: razbor_
-
-++++
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_174_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_174_text.jpg" width="350" /></a>
-</div>
-++++
 
 ----
 Официальный Чат Разбора Полетов Телеграме 👇 👇 👇

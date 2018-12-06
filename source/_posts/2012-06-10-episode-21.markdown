@@ -2,8 +2,7 @@
 layout: post
 title: "Episode 21 — Едим свой собачий корм и меняем шило на два шила"
 date: 2012-06-10 12:30
-comments: true
-categories: 
+episode: 21
 ---
 
 <a href="http://3.bp.blogspot.com/-hh4V2jbWfOM/T91Thn8t7uI/AAAAAAAAIcQ/emGHMq_4hMI/s1600/spring%253Fok%2521.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 2em; padding-right: 2em"><img border="0" height="295" src="http://3.bp.blogspot.com/-hh4V2jbWfOM/T91Thn8t7uI/AAAAAAAAIcQ/emGHMq_4hMI/s400/spring%253Fok%2521.jpg" width="400" /></a>

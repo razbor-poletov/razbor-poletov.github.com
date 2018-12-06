@@ -2,15 +2,8 @@
 layout: post
 title: "Episode 44 — О чем спляшем и споем на JavaOne"
 date: 2013-09-16 16:31
-comments: true
-categories: 
+episode: 44
 ---
-
-
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_44_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_44_text.jpg" width="350" /></a>
-</div>
-
 
 [**Gold is best!**](https://www.youtube.com/watch?v=n7-RetY7fGo )
 

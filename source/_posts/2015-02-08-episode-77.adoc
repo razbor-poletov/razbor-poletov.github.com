@@ -1,17 +1,9 @@
 ---
-comments: true
-categories: 
+episode: 77
 ---
 = Episode 77 — Чему бы поучиться на Java
 2015-02-08 17:33
 :layout: post
-
-++++
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_77_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_77_text.jpg" width="350" /></a>
-</div>
-++++
-https://razborpoletov.com/images/razbor_77_text.jpg[Картинка]
 
 [compact]
 - http://2015.geekout.ee/registration/[Регистрация на GeekOut открыта]

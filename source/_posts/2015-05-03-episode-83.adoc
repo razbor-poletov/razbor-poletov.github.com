@@ -1,19 +1,11 @@
 ---
-comments: true
-categories: podcast
-uid: 83
+episode: 83
 length: 36313368
 ---
 = Episode 83 — Привет с JPoint
 2015-05-03 19:03
 :layout: post
 :filename: razbor_83
-
-++++
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_83_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_83_text.jpg" width="350" /></a>
-</div>
-++++
 
 Запись была сделана на конференции http://javapoint.ru[JPoint 2015] в апреле 2015го.
 

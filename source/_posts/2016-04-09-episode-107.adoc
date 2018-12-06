@@ -1,6 +1,5 @@
 ---
-comments: true
-categories: 
+episode: 107
 ---
 = Episode 107 — Истории альпинистов
 2016-04-09 11:34
@@ -8,12 +7,6 @@ categories:
 :filename: razbor_107
 
 Выпуск 18+
-
-++++
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_107_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_107_text.jpg" width="350" /></a>
-</div>
-++++
 
 Подкаст выходит при поддержке JetBrains и JUG.ru
 

@@ -1,17 +1,10 @@
 ---
-comments: true
-categories: 
+episode: 122
 ---
 = Episode 122 — Нетрадиционный Евангелизм
 2016-12-06 22:37
 :layout: post
 :filename: razbor_122
-
-++++
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_122_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_122_text.jpg" width="350" /></a>
-</div>
-++++
 
 https://twitter.com/gamussa[@gamussa] и https://twitter.com/jbaruch[@jbaruch] ведут допрос с пристрастием https://twitter.com/23derevo[@23derevo] на предмет технического евангелизма.
 

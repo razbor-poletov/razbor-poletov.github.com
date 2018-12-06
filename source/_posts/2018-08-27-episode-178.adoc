@@ -1,17 +1,10 @@
 ---
-comments: true
-categories: 
+episode: 178
 ---
 = Episode 178 — РП: Java — Дайдждест — Они «программировали» на VB.NET 
 2018-08-27 13:03
 :layout: post
 :filename: razbor_
-
-++++
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_178_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_178_text.jpg" width="350" /></a>
-</div>
-++++
 
 ----
 Официальный Чат Разбора Полетов Телеграме 👇 👇 👇

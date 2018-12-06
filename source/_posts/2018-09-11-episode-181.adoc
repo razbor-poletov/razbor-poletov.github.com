@@ -1,17 +1,11 @@
 ---
-comments: true
-categories: 
+episode: 181
 ---
 = Episode 181 — РП: Java — Дайдждест — Marketplace и консолидация 
 2018-09-11 09:12
 :layout: post
 :filename: razbor_
 
-++++
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_181_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_181_text.jpg" width="350" /></a>
-</div>
-++++
 ----
 Официальный Чат Разбора Полетов Телеграме 👇 👇 👇
 ----

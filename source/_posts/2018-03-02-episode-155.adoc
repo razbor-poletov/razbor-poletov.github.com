@@ -1,17 +1,10 @@
 ---
-comments: true
-categories: 
+episode: 155
 ---
 = Episode 155 — РП: Конференции - DevNexus и выгорание
 2018-03-02 14:01
 :layout: post
 :filename: razbor_
-
-++++
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_155_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_155_text.jpg" width="350" /></a>
-</div>
-++++
 
 Специальный выпуск, записанный на конференции DevNexus 2018
 

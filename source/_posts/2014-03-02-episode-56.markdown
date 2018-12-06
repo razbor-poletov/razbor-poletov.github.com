@@ -2,13 +2,8 @@
 layout: post
 title: "Episode 56 — I eat Green Berets for breakfast"
 date: 2014-03-02 16:17
-comments: true
-categories: 
+episode: 56
 ---
-
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_56_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_56_text.jpg" width="350" /></a>
-</div>
 
 * [Музыка нас связала](http://thenextweb.com/lifehacks/2014/02/10/listen-work-music-brain/)
 * [Финагл](https://blog.twitter.com/2014/netty-at-twitter-with-finagle)

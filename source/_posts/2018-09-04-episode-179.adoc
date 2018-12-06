@@ -1,17 +1,10 @@
 ---
-comments: true
-categories: 
+episode: 179
 ---
 = Episode 179 — РП: Java — Дайдждест — В поисках ниши
 2018-09-04 15:35
 :layout: post
 :filename: razbor_
-
-++++
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_179_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_179_text.jpg" width="350" /></a>
-</div>
-++++
 
 ----
 Официальный Чат Разбора Полетов Телеграме 👇 👇 👇

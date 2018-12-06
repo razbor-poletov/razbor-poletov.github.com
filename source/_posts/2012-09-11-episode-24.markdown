@@ -2,8 +2,7 @@
 layout: post
 title: "Episode 24 — А ты заполнил классный журнал?"
 date: 2012-09-11 12:05
-comments: true
-categories: 
+episode: 24
 ---
 
 

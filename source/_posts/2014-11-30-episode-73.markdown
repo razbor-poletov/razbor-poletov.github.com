@@ -2,13 +2,9 @@
 layout: post
 title: "Episode 73 — Мы снова начинаем «Разбор Полетов»"
 date: 2014-11-30 17:01
-comments: true
-categories: 
+episode: 73
 ---
 
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_73_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_73_text.jpg" width="350" /></a>
-</div>
 Фото пирога было найдено [тут](https://c2.staticflickr.com/4/3402/5839809283_df8e42f37f_b.jpg)
 
 * [JavaPosse все](https://twitter.com/javaposse/status/533145446945128448)

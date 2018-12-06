@@ -1,17 +1,10 @@
 ---
-comments: true
-categories: 
+episode: 162
 ---
 = Episode 162 – РП: Конференции — JPoint 2018: Бенефис Kotlin 
 2018-06-11 12:48
 :layout: post
 :filename: razbor_
-
-++++
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_162_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_162_text.jpg" width="350" /></a>
-</div>
-++++
 
 == Партнеры выпуска
 ----

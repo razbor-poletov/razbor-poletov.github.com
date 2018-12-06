@@ -1,17 +1,10 @@
 ---
-comments: true
-categories: 
+episode: 95
 ---
 = Episode 95 — JavaOne Special - Scala-лазы
 2015-10-28 22:32
 :layout: post
 :filename: razbor_95
-
-++++
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_95_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_95_text.jpg" width="350" /></a>
-</div>
-++++
 
 Дайджест третьего дня конференции JavaOne 2015 в городе Сан-Франциско штат Калифорния.
 

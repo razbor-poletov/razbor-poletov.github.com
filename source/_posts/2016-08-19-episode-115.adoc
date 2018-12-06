@@ -1,6 +1,5 @@
 ---
-comments: true
-categories: 
+episode: 115
 ---
 = Episode 115 — Java 10, будет...
 2016-08-19 09:43
@@ -9,11 +8,6 @@ categories:
 
 Выпуск 18+
 
-++++
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_115_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_115_text.jpg" width="350" /></a>
-</div>
-++++
 http://cg-zander.deviantart.com/art/Dreams-of-Valhalla-384587225[оригинальная картинка]
 
 == Гости

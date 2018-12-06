@@ -2,13 +2,8 @@
 layout: post
 title: "Episode 57 — Новые технологии на нашем радаре"
 date: 2014-03-16 16:40
-comments: true
-categories: 
+episode: 57
 ---
-
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_57_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_57_text.jpg" width="350" /></a>
-</div>
 
 * [Вопрос и зала](https://razborpoletov.com/2014/03/episode-56.html#comment-1283786859 )
 * Про уверенность в себе и технологии

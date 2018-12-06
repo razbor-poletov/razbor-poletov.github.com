@@ -2,14 +2,8 @@
 layout: post
 title: "Episode 46 — Дневники JavaOne 2013: День 2"
 date: 2013-09-25 08:29
-comments: true
-categories: 
+episode: 46
 ---
-
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_46_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_46_text.jpg" width="350" /></a>
-</div>
-
 
 Наши контакты:
 

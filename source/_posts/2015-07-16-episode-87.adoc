@@ -1,7 +1,5 @@
 ---
-comments: true
-categories: podcast
-uid: 87
+episode: 87
 length: 80179266
 ---
 = Episode 87 — Прогулки по минным полям
@@ -10,11 +8,6 @@ length: 80179266
 :filename: razbor_87
 
 Внимание, выпуск *18+*
-++++
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_87_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_87_text.jpg" width="350" /></a>
-</div>
-++++
 
 == Новости с конференций
 

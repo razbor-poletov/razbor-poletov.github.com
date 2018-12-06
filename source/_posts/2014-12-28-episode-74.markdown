@@ -2,13 +2,8 @@
 layout: post
 title: "Episode 74 — Ретроспективы и прогнозы"
 date: 2014-12-28 15:47
-comments: true
-categories: 
+episode: 74
 ---
-
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_74_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_74_text.jpg" width="350" /></a>
-</div>
 
 __2014__
 

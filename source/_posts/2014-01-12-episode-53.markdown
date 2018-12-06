@@ -2,13 +2,8 @@
 layout: post
 title: "Episode 53 — Цейлонский выпуск"
 date: 2014-01-12 17:01
-comments: true
-categories: 
+episode: 53
 ---
-
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_53_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_53_text.jpg" width="350" /></a>
-</div>
 
 Итоги года [1](http://jaxenter.com/why-java-skills-are-still-golden-for-developers.1-49296.html), [2](http://code2013.herokuapp.com/), [3](http://blogs.tedneward.com/2014/01/03/Tech+Predictions+2014.aspx).
 

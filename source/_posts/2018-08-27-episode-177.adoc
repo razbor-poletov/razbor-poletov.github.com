@@ -1,17 +1,10 @@
 ---
-comments: true
-categories: 
+episode: 177
 ---
 = Episode 177 — РП: Classic — Тематические долги
 2018-08-27 12:34
 :layout: post
 :filename: razbor_
-
-++++
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_177_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_177_text.jpg" width="350" /></a>
-</div>
-++++
 
 ----
 Официальный Чат Разбора Полетов Телеграме 👇 👇 👇

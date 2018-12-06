@@ -2,8 +2,7 @@
 layout: post
 title: "Episode 18 — Special: Join the Rebellion"
 date: 2012-05-22 10:50
-comments: true
-categories: 
+episode: 18
 ---
 
 В восемнадцатом выпуске «правильного подкаста для IT-шников» наш специальный корреспондент [Абашев Алексей](http://gplus.to/aabashev) встретился с [Антоном Архиповым][anton].

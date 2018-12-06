@@ -1,7 +1,5 @@
 ---
-comments: true
-categories: podcast
-uid: 89
+episode: 89
 length: 76717002
 ---
 = Episode 89 — Здесь случайных людей нет
@@ -9,12 +7,6 @@ length: 76717002
 :layout: post
 :filename: razbor_89
 :upsource: https://twitter.com/_shrike_/status/627025025393164288
-
-++++
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_89_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_89_text.jpg" width="350" /></a>
-</div>
-++++
 
 == Мероприятия
 

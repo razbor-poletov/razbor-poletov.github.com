@@ -2,13 +2,8 @@
 layout: post
 title: "Episode 39 — Снова здоровый!"
 date: 2013-05-14 20:14
-comments: true
-categories: 
+episode: 39
 ---
-
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/logo_final_w_512.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/logo_final_w_512.png" width="350" /></a>
-</div>
 
 - Новый логотип. Спасибо [D-Vision](http://d-vision.kz/)!
 - Вести с полей (одной строкой)

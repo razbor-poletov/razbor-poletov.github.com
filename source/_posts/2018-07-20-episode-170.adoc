@@ -1,17 +1,10 @@
 ---
-comments: true
-categories: 
+episode: 170
 ---
 = Episode 170 — РП: DevOps — DevOps и Духи
 2018-07-20 14:27
 :layout: post
 :filename: razbor_
-
-++++
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_170_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_170_text.jpg" width="350" /></a>
-</div>
-++++
 
 *ВНИМАНИЕ : Выпуск местами немножечко 18+*
 

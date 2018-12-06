@@ -2,13 +2,8 @@
 layout: post
 title: "Episode 61 — Про яблоки и Свифт"
 date: 2014-06-08 16:43
-comments: true
-categories: 
+episode: 61
 ---
-
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_61_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_61_text.jpg" width="350" /></a>
-</div>
 
 Гость [Александр Бабаев](http://devpocket.com)
 

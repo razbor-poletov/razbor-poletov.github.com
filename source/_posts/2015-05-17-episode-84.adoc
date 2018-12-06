@@ -1,7 +1,5 @@
 ---
-comments: true
-categories: podcast
-uid: 84
+episode: 84
 length: 94422800
 ---
 = Episode 84 - Прототипируй динамично!
@@ -10,12 +8,6 @@ length: 94422800
 :filename: razbor_84
 
 Внимание, выпуск *18+*
-
-++++
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_84_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_84_text.jpg" width="350" /></a>
-</div>
-++++
 
 == Новости одной строкой:
 

@@ -1,16 +1,9 @@
 ---
-comments: true
-categories: 
+episode: 78
 ---
 = Episode 78 — У каждого программиста свой дурдом
 2015-02-22 19:51
 :layout: post
-
-++++
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_78_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_78_text.jpg" width="350" /></a>
-</div>
-++++
 
 == Конференции
 

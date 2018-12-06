@@ -1,6 +1,5 @@
 ---
-comments: true
-categories: 
+episode: 100
 ---
 = Episode `0x64` — Банки людям не нужны
 2016-01-18 17:52
@@ -8,12 +7,6 @@ categories:
 :filename: razbor_100
 
 Выпуск 18+ 
-
-++++
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_100_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_100_text.jpg" width="350" /></a>
-</div>
-++++
 
 == Оффтоп
 

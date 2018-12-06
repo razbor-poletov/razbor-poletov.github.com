@@ -1,6 +1,5 @@
 ---
-comments: true
-categories: 
+episode: 96
 ---
 = Episode 96 — It's a wrap!
 2015-11-05 22:17
@@ -8,11 +7,6 @@ categories:
 :filename: razbor_96
 
 Внимание, выпуск *18+*
-++++
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_96_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_96_text.jpg" width="350" /></a>
-</div>
-++++
 
 == Мероприятия
 

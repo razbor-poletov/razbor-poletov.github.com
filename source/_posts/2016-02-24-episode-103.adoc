@@ -1,17 +1,10 @@
 ---
-comments: true
-categories: 
+episode: 103
 ---
 = Episode 103 — DevNexus 2016 Special!
 2016-02-24 15:41
 :layout: post
 :filename: razbor_
-
-++++
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_103_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_103_text.jpg" width="350" /></a>
-</div>
-++++
 
 https://www.devnexus.com/s/index[Мы на девнексусе!]
 

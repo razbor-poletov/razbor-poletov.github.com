@@ -2,15 +2,10 @@
 layout: post
 title: "Episode 62 — Учимся на ошибках"
 date: 2014-06-22 16:07
-comments: true
-categories: 
+episode: 62
 ---
 
 [__Выпуск 18+__](http://s2.developerslife.ru/public/images/gifs/63e1f331-bee2-4648-af36-709f123ea05d.gif)
-
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_62_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_62_text.jpg" width="350" /></a>
-</div>
 
 * Конференции
 	* [QCon New York](https://qconnewyork.com/schedule-2014) 

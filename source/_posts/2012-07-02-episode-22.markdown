@@ -2,8 +2,7 @@
 layout: post
 title: "Episode 22 — Независимо от зависимостей"
 date: 2012-07-02 22:03
-comments: true
-categories: 
+episode: 22
 ---
 
 <a href="http://3.bp.blogspot.com/-M7SItkPMgpc/T_SzTbbjLKI/AAAAAAAAIi8/rLVXgMftdvQ/s1600/razbor_22_1.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 2em; padding-right: 2em"><img border="0" src="http://3.bp.blogspot.com/-M7SItkPMgpc/T_SzTbbjLKI/AAAAAAAAIi8/rLVXgMftdvQ/s1600/razbor_22_1.png"/></a>

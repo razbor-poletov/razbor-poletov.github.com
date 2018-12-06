@@ -2,13 +2,8 @@
 layout: post
 title: "Episode 41 — Исход из Интерпрайза"
 date: 2013-06-16 21:41
-comments: true
-categories: 
+episode: 41
 ---
-
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_41_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_41_text.jpg" width="350" /></a>
-</div>
 
 * [Машинариум](http://www.infoq.com/presentations/JVM-Mechanics)
 * [Java не тормозит ©](http://www.infoq.com/articles/9_Fallacies_Java_Performance)

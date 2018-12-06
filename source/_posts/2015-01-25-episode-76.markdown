@@ -2,13 +2,9 @@
 layout: post
 title: "Episode 76 — OSGi великий и ужасный"
 date: 2015-01-25 16:13
-comments: true
-categories: 
+episode: 76
 ---
 
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_76_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_76_text.jpg" width="350" /></a>
-</div>
 [Картинка](http://drupal.osgibook.org/sites/osgibook.org/files/die_osgi_service_platform_0.jpg)
 
 * [Регистрация на GeekOut открыта](http://2015.geekout.ee/registration/)

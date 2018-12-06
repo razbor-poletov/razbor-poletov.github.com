@@ -2,13 +2,8 @@
 layout: post
 title: "Episode 43 — Диалоги о JetBrains"
 date: 2013-08-23 14:41
-comments: true
-categories: 
+episode: 43
 ---
-
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_43_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_43_text.jpg" width="350" /></a>
-</div>
 
 * Гость выпуска - *Дмитрий Борисович Жемеров*, CTO, Jetbrains
 * Про продукты и плагины

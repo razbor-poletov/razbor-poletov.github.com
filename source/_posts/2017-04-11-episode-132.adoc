@@ -1,17 +1,10 @@
 ---
-comments: true
-categories: 
+episode: 132
 ---
 = Episode 132 — Scala Тинькова
 2017-04-11 15:44
 :layout: post
 :filename: razbor_
-
-++++
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_132_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_132_text.jpg" width="350" /></a>
-</div>
-++++
 
 Зашли в гости к команде бэкенда, которые пишут на Scala и им это нравится!
 

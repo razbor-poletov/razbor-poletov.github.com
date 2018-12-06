@@ -1,17 +1,10 @@
 ---
-comments: true
-categories: 
+episode: 185
 ---
 = Episode 185 — РП: Leadership — CTO vs VP и прочие ругательства
 2018-10-01 14:42
 :layout: post
 :filename: razbor_
-
-++++
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_185_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_185_text.jpg" width="350" /></a>
-</div>
-++++
 
 == Партнеры выпуска
 ----

@@ -1,6 +1,5 @@
 ---
-comments: true
-categories: 
+episode: 97
 ---
 = Episode 97 — Пиши инвертированные RB-деревья
 2015-12-06 18:49
@@ -10,12 +9,6 @@ categories:
 Выпуск 18+ 
 
 https://itunes.apple.com/us/album/never-gonna-give-you-up/id569227437?i=569227849[Музыка из вступления]
-
-++++
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_97_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_97_text.jpg" width="350" /></a>
-</div>
-++++
 
 == Мероприятия
 

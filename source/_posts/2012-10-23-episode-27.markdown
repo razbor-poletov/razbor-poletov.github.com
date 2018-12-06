@@ -2,8 +2,7 @@
 layout: post
 title: "Episode 27 — Who is your Daddy?"
 date: 2012-10-23 11:35
-comments: true
-categories: 
+episode: 27
 ---
 <!-- topics goes here-->
 

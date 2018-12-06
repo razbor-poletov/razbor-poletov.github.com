@@ -2,13 +2,8 @@
 layout: post
 title: "Episode 71 — Чемпионы и программизм"
 date: 2014-10-22 23:33
-comments: true
-categories: 
+episode: 71
 ---
-
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_71_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_71_text.jpg" width="350" /></a>
-</div>
 
 * В полку [чемпионов](https://java-champions.java.net) прибыло. [Наши поздравления мистеру Архипову!](https://blogs.oracle.com/java/entry/new_java_champions_mario_torre)
 * Добить JavaOne:

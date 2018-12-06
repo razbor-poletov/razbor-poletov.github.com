@@ -1,17 +1,10 @@
 ---
-comments: true
-categories: 
+episode: 147
 ---
 = Episode 147 — Техрадар Lamoda
 2017-12-05 16:18
 :layout: post
 :filename: razbor_
-
-++++
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_147_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_147_text.jpg" width="350" /></a>
-</div>
-++++
 
 == Lamoda и её платформа
 

@@ -1,6 +1,5 @@
 ---
-comments: true
-categories: podcast
+episode: 98
 ---
 = Episode 98 — Теорема-шляпа
 2015-12-19 09:20
@@ -10,12 +9,6 @@ categories: podcast
 Выпуск 18+ 
 
 https://itunes.apple.com/us/album/never-gonna-give-you-up/id372568016?i=372568077[Музыка из вступления]
-
-++++
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_98_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_98_text.jpg" width="350" /></a>
-</div>
-++++
 
 == Мероприятия
 

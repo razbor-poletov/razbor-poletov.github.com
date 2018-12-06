@@ -2,13 +2,8 @@
 layout: post
 title: "Episode 75 — Java вся такая белая и пушистая и в контейнере"
 date: 2015-01-11 17:20
-comments: true
-categories: 
+episode: 75
 ---
-
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_75_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_75_text.jpg" width="350" /></a>
-</div>
 
 * [Java для всего](http://www.teamten.com/lawrence/writings/java-for-everything.html)
 * [Go for Java developers](http://vimeo.com/100899133)

@@ -2,14 +2,8 @@
 layout: post
 title: "Episode 64 — Будь профессионалом!"
 date: 2014-07-28 19:31
-comments: true
-categories: 
+episode: 64
 ---
-
-
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_64_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_64_text.jpg" width="350" /></a>
-</div>
 
 Конференции:
 

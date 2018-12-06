@@ -1,17 +1,10 @@
 ---
-comments: true
-categories: 
+episode: 93
 ---
 = Episode 93 — JavaOne Special - Взгляд из будки
 2015-10-27 00:06
 :layout: post
 :filename: razbor_93
-
-++++
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_93_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_93_text.jpg" width="350" /></a>
-</div>
-++++
 
 Дайджест первого дня конференции JavaOne 2015 в городе Сан-Франциско штат Калифорния
 

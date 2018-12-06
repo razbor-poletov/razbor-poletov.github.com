@@ -1,17 +1,10 @@
 ---
-comments: true
-categories: 
+episode: 130
 ---
 = Episode 130: Devoxx US Special!
 2017-03-25 18:11
 :layout: post
 :filename: razbor_
-
-++++
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_130_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_130_text.jpg" width="350" /></a>
-</div>
-++++
 
 Традиционно, записались на конференции Devoxx US в городе Сан Хоcе, штат Калифорния!
 

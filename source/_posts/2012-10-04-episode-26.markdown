@@ -2,8 +2,7 @@
 layout: post
 title: "Episode 26 — Финальный разбор JavaOne-2012"
 date: 2012-10-04 23:31
-comments: true
-categories: 
+episode: 26
 ---
 
 <img border="0" width="350" height="350" src="http://s.rpod.ru/data/pictures/00/00/01/01/92/3a60c81db236c948b8ee679b8339c2d3.png"/>

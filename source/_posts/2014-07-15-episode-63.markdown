@@ -2,15 +2,10 @@
 layout: post
 title: "Episode 63 — В Интернетах кто-то неправ"
 date: 2014-07-15 00:22
-comments: true
-categories: 
+episode: 63
 ---
 
 [Кто-то неправ](http://xkcd.com/386/)
-
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_63_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_63_text.jpg" width="350" /></a>
-</div>
 
 Конференции:
 

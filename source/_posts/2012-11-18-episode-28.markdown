@@ -2,8 +2,7 @@
 layout: post
 title: "Episode 28 — Stop Emailing!"
 date: 2012-11-18 00:35
-comments: true
-categories: 
+episode: 28
 ---
 
 <img border="0" width="350" height="350" src="https://lh6.googleusercontent.com/-ayHAagFuXL4/UKrGgfceOHI/AAAAAAAAJNE/_WYL5mgv8Mo/s400/28777959.png"/>

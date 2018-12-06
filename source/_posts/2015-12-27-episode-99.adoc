@@ -1,6 +1,5 @@
 ---
-comments: true
-categories: 
+episode: 99
 ---
 = Episode 99 — Бенчмарки пишешь, небось?
 2015-12-27 22:14
@@ -10,12 +9,6 @@ categories:
 Выпуск 18+ 
 
 https://itunes.apple.com/us/album/last-christmas/id268486282?i=268486680[Музыка из вступления]
-
-++++
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_99_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="350" src="https://razborpoletov.com/images/razbor_99_text.jpg" width="350" /></a>
-</div>
-++++
 
 == Оффтоп
 

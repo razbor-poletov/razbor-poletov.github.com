@@ -2,12 +2,8 @@
 layout: post
 title: "Episode 33 — Special: Московский вояж Амазона"
 date: 2013-02-03 12:10
-comments: true
-categories: 
+episode: 33
 ---
-
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://razborpoletov.com/images/razbor_33_text.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="300" src="https://razborpoletov.com/images/razbor_33_text.jpg" width="300" /></a></div>
 
 Мы рады приветствовать Вас на очередном выпуске подкаста «Разбор Полетов». Сегодня у нас в гостях Peter Sirota, general manager Amazon Elastic MapReduce и он нам все расскажет о [предстоящем событии в Москве и Киеве](http://awsmoscow2013.s3-website-us-east-1.amazonaws.com/), которое проводит Amazon в этом году.
 
