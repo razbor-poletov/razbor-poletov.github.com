@@ -1,7 +1,7 @@
 ---
 layout: episode
 episode: 193
-title: "Episode 193 — Java Digest — Конец Github в устах Sr.ht"
+title: "Episode 193 — РП: Java — Дайдждест — Конец Github в устах Sr.ht"
 ---
 
 == Гости и участники

@@ -1,7 +1,7 @@
 ---
 layout: episode
 episode: 191
-title: "Episode 191 — Java Digest — Красная шапка и проект \"Шкура\""
+title: "Episode 191 — РП: Java — Дайдждест — Красная шапка и проект \"Шкура\""
 ---
 
 == Гости и участники

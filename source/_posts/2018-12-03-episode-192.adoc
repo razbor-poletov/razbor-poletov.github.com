@@ -1,7 +1,7 @@
 ---
 layout: episode
 episode: 192
-title: "Episode 192 — Java Digest — Шпроты"
+title: "Episode 192 — РП: Java — Дайдждест — Шпроты"
 ---
 
 == Гости и участники
