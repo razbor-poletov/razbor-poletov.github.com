@@ -1,17 +1,8 @@
 ---
+layout: episode
 episode: 193
+title: "Episode 193 — Java Digest — Конец Github в устах Sr.ht"
 ---
-= Episode 193 — РП: Java — Дайдждест — Конец Github в устах Sr.ht
-2018-12-03 10:28
-:layout: post
-:filename: razbor_193
-
-== Партнеры выпуска
-----
-👇 👇 👇 Официальный стикерпак Разбора Полетов и полуофициальный Чат pro.jvm в Телеграме 👇 👇 👇
-----
-* https://t.me/addstickers/razbor_poletov[стикеры]
-* https://t.me/jvmchat[pro.jvm]
 
 == Гости и участники
 
@@ -21,34 +12,3 @@ episode: 193
 
 * https://jug.ru/2018/12/digest-week-82/[Java Дайджест №82]
 
-'''
-
-Наши контакты:
-
-Официальный сайт — https://razborpoletov.com[https://razborpoletov.com]
-
-https://razborpoletov.com/broadcast.html[Информация о вещании]
-
-Гости и участники:
-
-twitter:
-
-  * https://twitter.com/a_abashev[@a_abashev]
-
-++++
-<!-- player goes here-->
-
-<audio preload="none">
-   <source src="http://traffic.libsyn.com/razborpoletov/razbor_193.mp3" type="audio/mp3" />
-   Your browser does not support the audio tag.
-</audio>
-++++
-
-Подписаться по http://feeds.feedburner.com/razbor-podcast[RSS]
-
-++++
-<!-- episode file link goes here-->
-<a href="http://traffic.libsyn.com/razborpoletov/razbor_193.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="https://razborpoletov.com/images/mp3.png" width="64" /></a>
-++++
-
-Музыка ведущим http://www.audiobank.fm/single-music/27/111/More-And-Less/[предоставлена] и ладно...
