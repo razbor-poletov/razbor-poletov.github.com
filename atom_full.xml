@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2018-12-07T11:02:20+00:00</updated>
+  <updated>2018-12-07T23:35:47+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Episode 193 — Java Digest — Конец Github в устах Sr.ht]]></title>
+    <title type="html"><![CDATA[Episode 193 — РП: Java — Дайдждест — Конец Github в устах Sr.ht]]></title>
     <link href="http://razborpoletov.com/2018/12/episode-193.html"/>
     <updated>2018-12-05T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2018/12/episode-193</id>
@@ -45,7 +45,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Episode 192 — Java Digest — Шпроты]]></title>
+    <title type="html"><![CDATA[Episode 192 — РП: Java — Дайдждест — Шпроты]]></title>
     <link href="http://razborpoletov.com/2018/12/episode-192.html"/>
     <updated>2018-12-03T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2018/12/episode-192</id>
@@ -76,7 +76,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Episode 191 — Java Digest — Красная шапка и проект "Шкура"]]></title>
+    <title type="html"><![CDATA[Episode 191 — РП: Java — Дайдждест — Красная шапка и проект "Шкура"]]></title>
     <link href="http://razborpoletov.com/2018/11/episode-191.html"/>
     <updated>2018-11-06T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2018/11/episode-191</id>

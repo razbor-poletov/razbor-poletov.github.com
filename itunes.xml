@@ -6,8 +6,8 @@
     <atom:link href="http://razborpoletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2018-12-07T11:02:20+00:00</pubDate>
-    <lastBuildDate>2018-12-07T11:02:20+00:00</lastBuildDate>
+    <pubDate>2018-12-07T23:35:47+00:00</pubDate>
+    <lastBuildDate>2018-12-07T23:35:47+00:00</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razborpoletov.com/logoNew.jpg" />
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
@@ -20,7 +20,7 @@
     <media:thumbnail url="http://razborpoletov.com/logoNew.jpg" />
     
     <item>
-      <title>Episode 193 — Java Digest — Конец Github в устах Sr.ht</title>
+      <title>Episode 193 — РП: Java — Дайдждест — Конец Github в устах Sr.ht</title>
       <link>http://razborpoletov.com/2018/12/episode-193.html</link>
       <pubDate>2018-12-05T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2018/12/episode-193</guid>
@@ -78,7 +78,7 @@ Java Дайджест №82
     </item>
     
     <item>
-      <title>Episode 192 — Java Digest — Шпроты</title>
+      <title>Episode 192 — РП: Java — Дайдждест — Шпроты</title>
       <link>http://razborpoletov.com/2018/12/episode-192.html</link>
       <pubDate>2018-12-03T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2018/12/episode-192</guid>
@@ -136,7 +136,7 @@ Java Дайджест №81
     </item>
     
     <item>
-      <title>Episode 191 — Java Digest — Красная шапка и проект &#8220;Шкура&#8221;</title>
+      <title>Episode 191 — РП: Java — Дайдждест — Красная шапка и проект &#8220;Шкура&#8221;</title>
       <link>http://razborpoletov.com/2018/11/episode-191.html</link>
       <pubDate>2018-11-06T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2018/11/episode-191</guid>
