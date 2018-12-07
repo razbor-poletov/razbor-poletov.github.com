@@ -19,7 +19,7 @@ episode: 193
 
 == Темы
 
-* https://jug.ru/2018/11/digest-week-82/[Java Дайджест №82]
+* https://jug.ru/2018/12/digest-week-82/[Java Дайджест №82]
 
 '''
 
