@@ -1,0 +1,21 @@
+---
+layout: episode
+episode: 194
+title: "Episode 194 — Classic — Полыхание усиливается"
+category: classic
+guests: abashev, jbaruch, yegor256
+---
+
+== Гости и участники
+
+  * https://www.youtube.com/c/yegor256?sub_confirmation=1[Егор Бугаенко]
+
+== Темы
+
+  * Третий том Elegant Objects
+  * Build pipeline
+  * Какие успехи  в адаптации нового ООП
+  * история с конференциями
+  * https://www.yegor256.com/2018/12/18/silicon-valley-criticism.html[Why I Don't Want to Live in Silicon Valley]
+
+https://razborpoletov.com/2018/12/episode-194.html[Комментировать] | https://www.patreon.com/razborpoletov[Помочь подкасту]
