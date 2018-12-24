@@ -6,8 +6,8 @@
     <atom:link href="http://razborpoletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2018-12-23T21:28:55+00:00</pubDate>
-    <lastBuildDate>2018-12-23T21:28:55+00:00</lastBuildDate>
+    <pubDate>2018-12-24T12:42:00+00:00</pubDate>
+    <lastBuildDate>2018-12-24T12:42:00+00:00</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razborpoletov.com/logoNew.jpg" />
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
@@ -18,6 +18,94 @@
     </itunes:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:thumbnail url="http://razborpoletov.com/logoNew.jpg" />
+    
+    <item>
+      <title>Episode 194 — Classic — Полыхание усиливается</title>
+      <link>http://razborpoletov.com/2018/12/episode-194.html</link>
+      <pubDate>2018-12-24T00:00:00+00:00</pubDate>
+      <guid isPermalink="true">http://razborpoletov.com/2018/12/episode-194</guid>
+      <description><![CDATA[<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://www.youtube.com/c/yegor256?sub_confirmation=1">Егор Бугаенко</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Третий том Elegant Objects</p>
+</li>
+<li>
+<p>Build pipeline</p>
+</li>
+<li>
+<p>Какие успехи  в адаптации нового ООП</p>
+</li>
+<li>
+<p>история с конференциями</p>
+</li>
+<li>
+<p><a href="https://www.yegor256.com/2018/12/18/silicon-valley-criticism.html">Why I Don&#8217;t Want to Live in Silicon Valley</a></p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><a href="https://razborpoletov.com/2018/12/episode-194.html">Комментировать</a> | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a></p>
+</div>
+</div>
+</div>]]></description>
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_194.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_194.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[
+Гости и участники
+
+
+
+
+Егор Бугаенко
+
+
+
+
+
+
+Темы
+
+
+
+
+Третий том Elegant Objects
+
+
+Build pipeline
+
+
+Какие успехи  в адаптации нового ООП
+
+
+история с конференциями
+
+
+Why I Don&#8217;t Want to Live in Silicon Valley
+
+
+
+
+Комментировать | Помочь подкасту
+
+
+]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_194_text.jpg" />
+    </item>
     
     <item>
       <title>Episode 193 — РП: Java — Дайдждест — Конец Github в устах Sr.ht</title>
@@ -11915,126 +12003,6 @@ One-cloud система управления дата-центром в Одн�
 
 ]]></itunes:summary>
       <itunes:image href="http://razborpoletov.com/images/razbor_145_text.jpg" />
-    </item>
-    
-    <item>
-      <title>Episode 144 — #Devoxx Special: Перворманс в Европе</title>
-      <link>http://razborpoletov.com/2017/11/episode-144.html</link>
-      <pubDate>2017-11-25T00:00:00+00:00</pubDate>
-      <guid isPermalink="true">http://razborpoletov.com/2017/11/episode-144</guid>
-      <description><![CDATA[<hr>
-<div class="paragraph">
-<p>Наши контакты:</p>
-</div>
-<div class="paragraph">
-<p>Официальный сайт — <a href="https://razborpoletov.com">https://razborpoletov.com</a></p>
-</div>
-<div class="paragraph">
-<p><a href="https://razborpoletov.com/broadcast.html">Информация о вещании</a></p>
-</div>
-<div class="paragraph">
-<p>Гости и участники:</p>
-</div>
-<div class="paragraph">
-<p>twitter:</p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/jbaruch">@jbaruch</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/shipilev">@shipilev</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/andrey_cheptsov">@andrey_cheptsov</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/bercut2000">@bercut2000</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/aiborisov">@aiborisov</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/‪mykyta_p‬">‪@mykyta_p‬</a></p>
-</li>
-</ul>
-</div>
-<!-- player goes here-->
-
-<audio preload="none">
-   <source src="http://traffic.libsyn.com/razborpoletov/razbor_144.mp3" type="audio/mp3" />
-   Your browser does not support the audio tag.
-</audio>
-<div class="paragraph">
-<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
-</div>
-<!-- episode file link goes here-->
-<a href="http://traffic.libsyn.com/razborpoletov/razbor_144.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="https://razborpoletov.com/images/mp3.png" width="64" /></a>
-<div class="paragraph">
-<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
-</div>]]></description>
-      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_144.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_144.mp3" fileSize="" type="audio/mpeg" />
-      <itunes:summary><![CDATA[
-
-Наши контакты:
-
-
-Официальный сайт — https://razborpoletov.com
-
-
-Информация о вещании
-
-
-Гости и участники:
-
-
-twitter:
-
-
-
-
-@gamussa
-
-
-@jbaruch
-
-
-@shipilev
-
-
-@andrey_cheptsov
-
-
-@bercut2000
-
-
-@aiborisov
-
-
-‪@mykyta_p‬
-
-
-
-
-
-
-   
-   Your browser does not support the audio tag.
-
-
-Подписаться по RSS
-
-
-
-
-Музыка ведущим предоставлена и ладно&#8230;&#8203;
-]]></itunes:summary>
-      <itunes:image href="http://razborpoletov.com/images/razbor_144_text.jpg" />
     </item>
     
   </channel>
