@@ -6,8 +6,8 @@
     <atom:link href="http://razborpoletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2018-12-25T15:22:05+00:00</pubDate>
-    <lastBuildDate>2018-12-25T15:22:05+00:00</lastBuildDate>
+    <pubDate>2018-12-27T10:41:42+00:00</pubDate>
+    <lastBuildDate>2018-12-27T10:41:42+00:00</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razborpoletov.com/logoNew.jpg" />
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
@@ -18,6 +18,76 @@
     </itunes:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:thumbnail url="http://razborpoletov.com/logoNew.jpg" />
+    
+    <item>
+      <title>Episode 195 — Java Digest — Старикам тут не место</title>
+      <link>http://razborpoletov.com/2018/12/episode-195.html</link>
+      <pubDate>2018-12-25T00:00:00+00:00</pubDate>
+      <guid isPermalink="true">http://razborpoletov.com/2018/12/episode-195</guid>
+      <description><![CDATA[<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Олег Чирухин</p>
+</li>
+<li>
+<p>Андрей Когунь</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://jug.ru/category/posts/news/">Java Digest</a></p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><a href="https://razborpoletov.com/2018/12/episode-195.html">Комментировать</a> | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a></p>
+</div>
+</div>
+</div>]]></description>
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_195.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_195.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[
+Гости и участники
+
+
+
+
+Олег Чирухин
+
+
+Андрей Когунь
+
+
+
+
+
+
+Темы
+
+
+
+
+Java Digest
+
+
+
+
+Комментировать | Помочь подкасту
+
+
+]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_195_text.jpg" />
+    </item>
     
     <item>
       <title>Episode 194 — Classic — Полыхание усиливается</title>
@@ -11861,148 +11931,6 @@ twitter:
 Музыка ведущим предоставлена и ладно&#8230;&#8203;
 ]]></itunes:summary>
       <itunes:image href="http://razborpoletov.com/images/razbor_146_text.jpg" />
-    </item>
-    
-    <item>
-      <title>Episode 145 — Дешевле, надёжнее, проще</title>
-      <link>http://razborpoletov.com/2017/11/episode-145.html</link>
-      <pubDate>2017-11-25T00:00:00+00:00</pubDate>
-      <guid isPermalink="true">http://razborpoletov.com/2017/11/episode-145</guid>
-      <description><![CDATA[<div class="sect1">
-<h2 id="Гости-и-участники">Гости и участники</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p>Кирилл Толкачёв @tolkv</p>
-</li>
-<li>
-<p>Антон Чернусов @golodnyj</p>
-</li>
-<li>
-<p>Олег Анастасьев</p>
-</li>
-<li>
-<p>Александр Христофоров</p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Темы">Темы</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://research.google.com/pubs/pub43438.html">Large-scale cluster management at Google with Borg </a></p>
-</li>
-<li>
-<p><a href="https://speakerdeck.com/m0nstermind/one-cloud-sistiema-upravlieniia-data-tsientrom-v-odnoklassnikakh">One-cloud система управления дата-центром в Одноклассниках</a></p>
-</li>
-<li>
-<p><a href="https://speakerdeck.com/m0nstermind/dieshievlie-nadiozhnieie-proshchie-khranieniie-pietabaitov-vidieo-i-foto-v-ok-alieksandr-khristoforov">Дешевле, надёжнее, проще. Хранение петабайтов видео и фото в ОК. Александр Христофоров</a></p>
-</li>
-<li>
-<p><a href="https://github.com/odnoklassniki/one-nio">Опенсорс библиотека one-nio от ОК</a></p>
-</li>
-</ul>
-</div>
-<hr>
-<div class="paragraph">
-<p>Наши контакты:</p>
-</div>
-<div class="paragraph">
-<p>Официальный сайт — <a href="https://razborpoletov.com">https://razborpoletov.com</a></p>
-</div>
-<div class="paragraph">
-<p><a href="https://razborpoletov.com/broadcast.html">Информация о вещании</a></p>
-</div>
-<!-- player goes here-->
-
-<audio preload="none">
-   <source src="http://traffic.libsyn.com/razborpoletov/razbor_145.mp3" type="audio/mp3" />
-   Your browser does not support the audio tag.
-</audio>
-<div class="paragraph">
-<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
-</div>
-<!-- episode file link goes here-->
-<a href="http://traffic.libsyn.com/razborpoletov/razbor_145.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="https://razborpoletov.com/images/mp3.png" width="64" /></a>
-<div class="paragraph">
-<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
-</div>
-</div>
-</div>]]></description>
-      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_145.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_145.mp3" fileSize="" type="audio/mpeg" />
-      <itunes:summary><![CDATA[
-Гости и участники
-
-
-
-
-Кирилл Толкачёв @tolkv
-
-
-Антон Чернусов @golodnyj
-
-
-Олег Анастасьев
-
-
-Александр Христофоров
-
-
-
-
-
-
-Темы
-
-
-
-
-Large-scale cluster management at Google with Borg 
-
-
-One-cloud система управления дата-центром в Одноклассниках
-
-
-Дешевле, надёжнее, проще. Хранение петабайтов видео и фото в ОК. Александр Христофоров
-
-
-Опенсорс библиотека one-nio от ОК
-
-
-
-
-
-Наши контакты:
-
-
-Официальный сайт — https://razborpoletov.com
-
-
-Информация о вещании
-
-
-
-
-   
-   Your browser does not support the audio tag.
-
-
-Подписаться по RSS
-
-
-
-
-Музыка ведущим предоставлена и ладно&#8230;&#8203;
-
-
-]]></itunes:summary>
-      <itunes:image href="http://razborpoletov.com/images/razbor_145_text.jpg" />
     </item>
     
   </channel>

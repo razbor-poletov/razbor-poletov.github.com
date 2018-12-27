@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: java-digest | Подкаст «Разбор Полетов»]]></title>
+  <link href="http://razborpoletov.com/blog/categories/java-digest/atom.xml" rel="self"/>
+  <link href="http://razborpoletov.com/"/>
+  <updated>2018-12-27T10:41:42+00:00</updated>
+  <id>http://razborpoletov.com/</id>
+  <author>
+    <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
+    <email><![CDATA[admin@razborpoletov.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 195 — Java Digest — Старикам тут не место]]></title>
+    <link href="http://razborpoletov.com/2018/12/episode-195.html"/>
+    <updated>2018-12-25T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2018/12/episode-195</id>
+    <content type="html"><![CDATA[<p>== Гости и участники</p>
+
+<ul>
+<li>Олег Чирухин</li>
+<li>Андрей Когунь</li>
+</ul>
+
+
+<p>== Темы</p>
+
+<ul>
+<li>https://jug.ru/category/posts/news/[Java Digest]</li>
+</ul>
+
+
+<p>https://razborpoletov.com/2018/12/episode-195.html[Комментировать] | https://www.patreon.com/razborpoletov[Помочь подкасту]</p>
+]]></content>
+  </entry>
+  
+</feed>
