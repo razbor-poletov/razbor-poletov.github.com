@@ -13,6 +13,6 @@ guests: gamussa, akogun, olegchir
 
 == Темы
 
-* https://jug.ru/category/posts/news/[Java Digest]
+* https://jug.ru/2018/12/digest-week-83/[Java Digest]
 
 https://razborpoletov.com/2018/12/episode-195.html[Комментировать] | https://www.patreon.com/razborpoletov[Помочь подкасту]
