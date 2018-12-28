@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2018-12-28T13:44:19+00:00</updated>
+  <updated>2018-12-28T19:40:20+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -18,62 +18,117 @@
     <link href="http://razborpoletov.com/2018/12/episode-196.html"/>
     <updated>2018-12-28T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2018/12/episode-196</id>
-    <content type="html"><![CDATA[<h2>Гости и участники</h2>
-
+    <content type="html"><![CDATA[<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
 <ul>
-<li><a href="https://twitter.com/gAmUssA">Виктор Гамов</a></li>
-<li><a href="https://twitter.com/a_abashev">Алексей Абашев</a></li>
-<li><a href="https://twitter.com/antonarhipov">Антон Архипов</a></li>
-<li><a href="https://twitter.com/olegchir">Олег Чирухин</a></li>
-<li><a href="https://twitter.com/andrei_kogun">Андрей Когунь</a></li>
-<li><a href="https://twitter.com/dzmitryc">Дмитрий Чурбанов</a></li>
+<li>
+<p><a href="https://twitter.com/gAmUssA">Виктор Гамов</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/a_abashev">Алексей Абашев</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/antonarhipov">Антон Архипов</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/olegchir">Олег Чирухин</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/andrei_kogun">Андрей Когунь</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/dzmitryc">Дмитрий Чурбанов</a></p>
+</li>
 </ul>
-
-
-<h2>Темы</h2>
-
-<ol>
-<li>Что было интересное в Старом Году и что запомнилось?
-
-<ol>
-<li>Java 11</li>
-<li>Gradle и Kotlin!!</li>
-<li>Visual Studio Code</li>
-<li>Anti-YAML</li>
-<li>Kubernetes</li>
-</ol>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p>Что было интересное в Старом Году и что запомнилось?</p>
+<div class="olist loweralpha">
+<ol class="loweralpha" type="a">
+<li>
+<p>Java 11</p>
 </li>
-<li><a href="https://www.jetbrains.org/intellij/sdk/docs/welcome.html">IntelliJ SDK</a></li>
-<li>Борьба с Docker под SELinux</li>
-<li><a href="https://tech.paulcz.net/blog/future-of-kubernetes-is-virtual-machines/">The future of Kubernetes is Virtual Machines</a>
-
-<ol>
-<li>https://stackoverflow.com/questions/48609979/how-to-manage-page-cache-resources-when-running-kafka-in-kubernetes</li>
-<li>https://github.com/moby/moby/issues/21759</li>
-</ol>
+<li>
+<p>Gradle и Kotlin!!</p>
+</li>
+<li>
+<p>Visual Studio Code</p>
+</li>
+<li>
+<p>Anti-YAML</p>
+</li>
+<li>
+<p>Kubernetes</p>
 </li>
 </ol>
-
-
-<h2>Полезняшки</h2>
-
-<ol>
-<li>https://c-command.com/toothfairy/</li>
-<li><a href="https://lunadisplay.com/">https://lunadisplay.com</a>
-
-<ol>
-<li>https://www.kickstarter.com/projects/767721702/luna-display</li>
-<li><a href="https://beamer-app.com/">https://beamer-app.com</a></li>
-</ol>
+</div>
 </li>
-<li>https://sw.kovidgoyal.net/kitty/</li>
-<li>https://micro-editor.github.io/</li>
-<li>https://github.com/hackerb9/lsix</li>
+<li>
+<p><a href="https://www.jetbrains.org/intellij/sdk/docs/welcome.html">IntelliJ SDK</a></p>
+</li>
+<li>
+<p>Борьба с Docker под SELinux</p>
+</li>
+<li>
+<p><a href="https://tech.paulcz.net/blog/future-of-kubernetes-is-virtual-machines/">The future of Kubernetes is Virtual Machines</a></p>
+<div class="olist loweralpha">
+<ol class="loweralpha" type="a">
+<li>
+<p><a href="https://stackoverflow.com/questions/48609979/how-to-manage-page-cache-resources-when-running-kafka-in-kubernetes" class="bare">https://stackoverflow.com/questions/48609979/how-to-manage-page-cache-resources-when-running-kafka-in-kubernetes</a></p>
+</li>
+<li>
+<p><a href="https://github.com/moby/moby/issues/21759" class="bare">https://github.com/moby/moby/issues/21759</a></p>
+</li>
 </ol>
-
-
-<p><a href="https://razborpoletov.com/2018/12/episode-196.html">Комментировать</a> | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a></p>
-]]></content>
+</div>
+</li>
+</ol>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Полезняшки">Полезняшки</h2>
+<div class="sectionbody">
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p><a href="https://c-command.com/toothfairy/" class="bare">https://c-command.com/toothfairy/</a></p>
+</li>
+<li>
+<p><a href="https://lunadisplay.com/" class="bare">https://lunadisplay.com/</a></p>
+<div class="olist loweralpha">
+<ol class="loweralpha" type="a">
+<li>
+<p><a href="https://www.kickstarter.com/projects/767721702/luna-display" class="bare">https://www.kickstarter.com/projects/767721702/luna-display</a></p>
+</li>
+<li>
+<p><a href="https://beamer-app.com/" class="bare">https://beamer-app.com/</a></p>
+</li>
+</ol>
+</div>
+</li>
+<li>
+<p><a href="https://sw.kovidgoyal.net/kitty/" class="bare">https://sw.kovidgoyal.net/kitty/</a></p>
+</li>
+<li>
+<p><a href="https://micro-editor.github.io/" class="bare">https://micro-editor.github.io/</a></p>
+</li>
+<li>
+<p><a href="https://github.com/hackerb9/lsix" class="bare">https://github.com/hackerb9/lsix</a></p>
+</li>
+</ol>
+</div>
+</div>
+</div>]]></content>
   </entry>
   
   <entry>
@@ -87,10 +142,10 @@
 <div class="ulist">
 <ul>
 <li>
-<p>Олег Чирухин</p>
+<p><a href="https://twitter.com/olegchir">Олег Чирухин</a></p>
 </li>
 <li>
-<p>Андрей Когунь</p>
+<p><a href="https://twitter.com/andrei_kogun">Андрей Когунь</a></p>
 </li>
 </ul>
 </div>
@@ -105,9 +160,6 @@
 <p><a href="https://jug.ru/2018/12/digest-week-83/">Java Digest</a></p>
 </li>
 </ul>
-</div>
-<div class="paragraph">
-<p><a href="https://razborpoletov.com/2018/12/episode-195.html">Комментировать</a> | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a></p>
 </div>
 </div>
 </div>]]></content>
@@ -133,8 +185,8 @@
 <div class="sect1">
 <h2 id="Темы">Темы</h2>
 <div class="sectionbody">
-<div class="ulist">
-<ul>
+<div class="olist arabic">
+<ol class="arabic">
 <li>
 <p>Третий том Elegant Objects</p>
 </li>
@@ -145,15 +197,12 @@
 <p>Какие успехи  в адаптации нового ООП</p>
 </li>
 <li>
-<p>история с конференциями</p>
+<p>История с конференциями</p>
 </li>
 <li>
 <p><a href="https://www.yegor256.com/2018/12/18/silicon-valley-criticism.html">Why I Don&#8217;t Want to Live in Silicon Valley</a></p>
 </li>
-</ul>
-</div>
-<div class="paragraph">
-<p><a href="https://razborpoletov.com/2018/12/episode-194.html">Комментировать</a> | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a></p>
+</ol>
 </div>
 </div>
 </div>]]></content>

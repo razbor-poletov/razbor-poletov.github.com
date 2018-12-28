@@ -4,7 +4,7 @@
   <title><![CDATA[Category: classic | Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/blog/categories/classic/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2018-12-28T13:44:19+00:00</updated>
+  <updated>2018-12-28T19:40:20+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -18,61 +18,41 @@
     <link href="http://razborpoletov.com/2018/12/episode-196.html"/>
     <updated>2018-12-28T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2018/12/episode-196</id>
-    <content type="html"><![CDATA[<h2>Гости и участники</h2>
+    <content type="html"><![CDATA[<p>== Гости и участники</p>
 
 <ul>
-<li><a href="https://twitter.com/gAmUssA">Виктор Гамов</a></li>
-<li><a href="https://twitter.com/a_abashev">Алексей Абашев</a></li>
-<li><a href="https://twitter.com/antonarhipov">Антон Архипов</a></li>
-<li><a href="https://twitter.com/olegchir">Олег Чирухин</a></li>
-<li><a href="https://twitter.com/andrei_kogun">Андрей Когунь</a></li>
-<li><a href="https://twitter.com/dzmitryc">Дмитрий Чурбанов</a></li>
+<li>https://twitter.com/gAmUssA[Виктор Гамов]</li>
+<li>https://twitter.com/a_abashev[Алексей Абашев]</li>
+<li>https://twitter.com/antonarhipov[Антон Архипов]</li>
+<li>https://twitter.com/olegchir[Олег Чирухин]</li>
+<li>https://twitter.com/andrei_kogun[Андрей Когунь]</li>
+<li>https://twitter.com/dzmitryc[Дмитрий Чурбанов]</li>
 </ul>
 
 
-<h2>Темы</h2>
+<p>== Темы</p>
 
-<ol>
-<li>Что было интересное в Старом Году и что запомнилось?
+<p>. Что было интересное в Старом Году и что запомнилось?
+ .. Java 11
+ .. Gradle и Kotlin!!
+ .. Visual Studio Code
+ .. Anti-YAML
+ .. Kubernetes
+. https://www.jetbrains.org/intellij/sdk/docs/welcome.html[IntelliJ SDK]
+. Борьба с Docker под SELinux
+. https://tech.paulcz.net/blog/future-of-kubernetes-is-virtual-machines/[The future of Kubernetes is Virtual Machines]
+ .. https://stackoverflow.com/questions/48609979/how-to-manage-page-cache-resources-when-running-kafka-in-kubernetes
+ .. https://github.com/moby/moby/issues/21759</p>
 
-<ol>
-<li>Java 11</li>
-<li>Gradle и Kotlin!!</li>
-<li>Visual Studio Code</li>
-<li>Anti-YAML</li>
-<li>Kubernetes</li>
-</ol>
-</li>
-<li><a href="https://www.jetbrains.org/intellij/sdk/docs/welcome.html">IntelliJ SDK</a></li>
-<li>Борьба с Docker под SELinux</li>
-<li><a href="https://tech.paulcz.net/blog/future-of-kubernetes-is-virtual-machines/">The future of Kubernetes is Virtual Machines</a>
+<p>== Полезняшки</p>
 
-<ol>
-<li>https://stackoverflow.com/questions/48609979/how-to-manage-page-cache-resources-when-running-kafka-in-kubernetes</li>
-<li>https://github.com/moby/moby/issues/21759</li>
-</ol>
-</li>
-</ol>
-
-
-<h2>Полезняшки</h2>
-
-<ol>
-<li>https://c-command.com/toothfairy/</li>
-<li><a href="https://lunadisplay.com/">https://lunadisplay.com</a>
-
-<ol>
-<li>https://www.kickstarter.com/projects/767721702/luna-display</li>
-<li><a href="https://beamer-app.com/">https://beamer-app.com</a></li>
-</ol>
-</li>
-<li>https://sw.kovidgoyal.net/kitty/</li>
-<li>https://micro-editor.github.io/</li>
-<li>https://github.com/hackerb9/lsix</li>
-</ol>
-
-
-<p><a href="https://razborpoletov.com/2018/12/episode-196.html">Комментировать</a> | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a></p>
+<p>. https://c-command.com/toothfairy/
+. https://lunadisplay.com/
+ .. https://www.kickstarter.com/projects/767721702/luna-display
+ .. https://beamer-app.com/
+. https://sw.kovidgoyal.net/kitty/
+. https://micro-editor.github.io/
+. https://github.com/hackerb9/lsix</p>
 ]]></content>
   </entry>
   
@@ -90,16 +70,11 @@
 
 <p>== Темы</p>
 
-<ul>
-<li>Третий том Elegant Objects</li>
-<li>Build pipeline</li>
-<li>Какие успехи  в адаптации нового ООП</li>
-<li>история с конференциями</li>
-<li>https://www.yegor256.com/2018/12/18/silicon-valley-criticism.html[Why I Don't Want to Live in Silicon Valley]</li>
-</ul>
-
-
-<p>https://razborpoletov.com/2018/12/episode-194.html[Комментировать] | https://www.patreon.com/razborpoletov[Помочь подкасту]</p>
+<p>. Третий том Elegant Objects
+. Build pipeline
+. Какие успехи  в адаптации нового ООП
+. История с конференциями
+. https://www.yegor256.com/2018/12/18/silicon-valley-criticism.html[Why I Don't Want to Live in Silicon Valley]</p>
 ]]></content>
   </entry>
   

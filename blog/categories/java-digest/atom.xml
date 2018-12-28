@@ -4,7 +4,7 @@
   <title><![CDATA[Category: java-digest | Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/blog/categories/java-digest/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2018-12-28T13:44:19+00:00</updated>
+  <updated>2018-12-28T19:40:20+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -21,8 +21,8 @@
     <content type="html"><![CDATA[<p>== Гости и участники</p>
 
 <ul>
-<li>Олег Чирухин</li>
-<li>Андрей Когунь</li>
+<li>https://twitter.com/olegchir[Олег Чирухин]</li>
+<li>https://twitter.com/andrei_kogun[Андрей Когунь]</li>
 </ul>
 
 
@@ -32,8 +32,70 @@
 <li>https://jug.ru/2018/12/digest-week-83/[Java Digest]</li>
 </ul>
 
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 193 — РП: Java — Дайдждест — Конец Github в устах Sr.ht]]></title>
+    <link href="http://razborpoletov.com/2018/12/episode-193.html"/>
+    <updated>2018-12-05T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2018/12/episode-193</id>
+    <content type="html"><![CDATA[<p>== Гости и участники</p>
 
-<p>https://razborpoletov.com/2018/12/episode-195.html[Комментировать] | https://www.patreon.com/razborpoletov[Помочь подкасту]</p>
+<ul>
+<li>https://twitter.com/olegchir[Олег Чирухин]</li>
+</ul>
+
+
+<p>== Темы</p>
+
+<ul>
+<li>https://jug.ru/2018/12/digest-week-82/[Java Дайджест №82]</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 192 — РП: Java — Дайдждест — Шпроты]]></title>
+    <link href="http://razborpoletov.com/2018/12/episode-192.html"/>
+    <updated>2018-12-03T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2018/12/episode-192</id>
+    <content type="html"><![CDATA[<p>== Гости и участники</p>
+
+<ul>
+<li>https://twitter.com/olegchir[Олег Чирухин]</li>
+</ul>
+
+
+<p>== Темы</p>
+
+<ul>
+<li>https://jug.ru/2018/11/digest-week-81/[Java Дайджест №81]</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 191 — РП: Java — Дайдждест — Красная шапка и проект "Шкура"]]></title>
+    <link href="http://razborpoletov.com/2018/11/episode-191.html"/>
+    <updated>2018-11-06T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2018/11/episode-191</id>
+    <content type="html"><![CDATA[<p>== Гости и участники</p>
+
+<ul>
+<li>https://twitter.com/olegchir[Олег Чирухин]</li>
+<li>https://twitter.com/a_abashev[@a_abashev]</li>
+</ul>
+
+
+<p>== Темы</p>
+
+<ul>
+<li>https://jug.ru/2018/11/digest-week-80/[Java Дайджест №80]</li>
+</ul>
+
 ]]></content>
   </entry>
   
