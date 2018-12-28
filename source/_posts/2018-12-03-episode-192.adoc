@@ -2,6 +2,8 @@
 layout: episode
 episode: 192
 title: "Episode 192 — РП: Java — Дайдждест — Шпроты"
+category: java-digest
+guests: abashev, olegchir
 ---
 
 == Гости и участники

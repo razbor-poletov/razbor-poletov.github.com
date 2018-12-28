@@ -2,6 +2,8 @@
 layout: episode
 episode: 191
 title: "Episode 191 — РП: Java — Дайдждест — Красная шапка и проект \"Шкура\""
+category: java-digest
+guests: abashev, olegchir
 ---
 
 == Гости и участники

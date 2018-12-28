@@ -2,6 +2,8 @@
 layout: episode
 episode: 193
 title: "Episode 193 — РП: Java — Дайдждест — Конец Github в устах Sr.ht"
+category: java-digest
+guests: abashev, olegchir
 ---
 
 == Гости и участники

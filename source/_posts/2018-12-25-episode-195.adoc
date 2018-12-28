@@ -8,11 +8,9 @@ guests: gamussa, akogun, olegchir
 
 == Гости и участники
 
-* Олег Чирухин
-* Андрей Когунь
+* https://twitter.com/olegchir[Олег Чирухин]
+* https://twitter.com/andrei_kogun[Андрей Когунь]
 
 == Темы
 
 * https://jug.ru/2018/12/digest-week-83/[Java Digest]
-
-https://razborpoletov.com/2018/12/episode-195.html[Комментировать] | https://www.patreon.com/razborpoletov[Помочь подкасту]

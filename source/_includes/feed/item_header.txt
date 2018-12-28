@@ -1,0 +1,2 @@
+Комментарии - {{ site.url }}{{ post.url }}
+Помочь подкасту - https://www.patreon.com/razborpoletov

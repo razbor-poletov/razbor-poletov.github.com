@@ -27,10 +27,10 @@ layout: nil
       <link>{{ site.url }}{{ post.url }}</link>
       <pubDate>{{ post.date | date_to_xmlschema }}</pubDate>
       <guid isPermalink="true">{{ site.url }}{{ post.id }}</guid>
-      <description><![CDATA[{{ post.content | expand_urls: site.url | cdata_escape }}]]></description>
+      <description><![CDATA[{% include feed/item_header.html %}{{ post.content | expand_urls: site.url | cdata_escape }}]]></description>
       <enclosure url="{{ site.media_url_prefix }}/razbor_{{ post.episode }}.mp3" length="{{post.length}}" type="audio/mpeg" />
       <media:content url="{{ site.media_url_prefix }}/razbor_{{ post.episode }}.mp3" fileSize="{{post.length}}" type="audio/mpeg" />
-      <itunes:summary><![CDATA[{{ post.content | strip_html }}]]></itunes:summary>
+      <itunes:summary><![CDATA[{% include feed/item_header.txt %}{{ post.content | strip_html }}]]></itunes:summary>
       <itunes:image href="{{ site.url }}/images/razbor_{{ post.episode }}_text.jpg" />
     </item>
     {% endfor %}

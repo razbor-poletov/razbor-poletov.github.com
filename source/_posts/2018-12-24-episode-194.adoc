@@ -12,10 +12,8 @@ guests: abashev, jbaruch, yegor256
 
 == Темы
 
-  * Третий том Elegant Objects
-  * Build pipeline
-  * Какие успехи  в адаптации нового ООП
-  * история с конференциями
-  * https://www.yegor256.com/2018/12/18/silicon-valley-criticism.html[Why I Don't Want to Live in Silicon Valley]
-
-https://razborpoletov.com/2018/12/episode-194.html[Комментировать] | https://www.patreon.com/razborpoletov[Помочь подкасту]
+. Третий том Elegant Objects
+. Build pipeline
+. Какие успехи  в адаптации нового ООП
+. История с конференциями
+. https://www.yegor256.com/2018/12/18/silicon-valley-criticism.html[Why I Don't Want to Live in Silicon Valley]

@@ -1,0 +1,40 @@
+---
+layout: episode
+episode: 196
+title: "Episode 196 — Classic - Как прошел 2018-й год?"
+category: classic
+guests: gamussa, akogun, olegchir, abashev, dmitryc, antonarhipov
+---
+
+== Гости и участники
+
+* https://twitter.com/gAmUssA[Виктор Гамов]
+* https://twitter.com/a_abashev[Алексей Абашев]
+* https://twitter.com/antonarhipov[Антон Архипов]
+* https://twitter.com/olegchir[Олег Чирухин]
+* https://twitter.com/andrei_kogun[Андрей Когунь]
+* https://twitter.com/dzmitryc[Дмитрий Чурбанов]
+
+== Темы
+
+. Что было интересное в Старом Году и что запомнилось?
+ .. Java 11
+ .. Gradle и Kotlin!!
+ .. Visual Studio Code
+ .. Anti-YAML
+ .. Kubernetes
+. https://www.jetbrains.org/intellij/sdk/docs/welcome.html[IntelliJ SDK]
+. Борьба с Docker под SELinux
+. https://tech.paulcz.net/blog/future-of-kubernetes-is-virtual-machines/[The future of Kubernetes is Virtual Machines]
+ .. https://stackoverflow.com/questions/48609979/how-to-manage-page-cache-resources-when-running-kafka-in-kubernetes
+ .. https://github.com/moby/moby/issues/21759
+
+== Полезняшки
+
+. https://c-command.com/toothfairy/
+. https://lunadisplay.com/
+ .. https://www.kickstarter.com/projects/767721702/luna-display
+ .. https://beamer-app.com/
+. https://sw.kovidgoyal.net/kitty/
+. https://micro-editor.github.io/
+. https://github.com/hackerb9/lsix
