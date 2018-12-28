@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2018-12-27T23:26:36+00:00</updated>
+  <updated>2018-12-28T09:14:33+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,68 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 196 — Classic - Как прошел 2018-й год?]]></title>
+    <link href="http://razborpoletov.com/2018/12/episode-196.html"/>
+    <updated>2018-12-28T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2018/12/episode-196</id>
+    <content type="html"><![CDATA[<h2>Гости и участники</h2>
+
+<ul>
+<li>Виктор Гамов</li>
+<li>Алексей Абашев</li>
+<li>Олег Чирухин</li>
+<li>Андрей Когунь</li>
+<li>Дмитрий Чурбанов</li>
+</ul>
+
+
+<h2>Темы</h2>
+
+<ol>
+<li>Что было интересное в Старом Году и что запомнилось?
+
+<ol>
+<li>Java 11</li>
+<li>Gradle и Kotlin!!</li>
+<li>Visual Studio Code</li>
+<li>Anti-YAML</li>
+<li>Kubernetes</li>
+</ol>
+</li>
+<li><a href="https://www.jetbrains.org/intellij/sdk/docs/welcome.html">IntelliJ SDK</a></li>
+<li>Борьба с Docker под SELinux</li>
+<li><a href="https://tech.paulcz.net/blog/future-of-kubernetes-is-virtual-machines/">The future of Kubernetes is Virtual Machines</a>
+
+<ol>
+<li>https://stackoverflow.com/questions/48609979/how-to-manage-page-cache-resources-when-running-kafka-in-kubernetes</li>
+<li>https://github.com/moby/moby/issues/21759</li>
+</ol>
+</li>
+</ol>
+
+
+<h2>Полезняшки</h2>
+
+<ol>
+<li>https://c-command.com/toothfairy/</li>
+<li><a href="https://lunadisplay.com/">https://lunadisplay.com</a>
+
+<ol>
+<li>https://www.kickstarter.com/projects/767721702/luna-display</li>
+<li><a href="https://beamer-app.com/">https://beamer-app.com</a></li>
+</ol>
+</li>
+<li>https://sw.kovidgoyal.net/kitty/</li>
+<li>https://micro-editor.github.io/</li>
+<li>https://github.com/hackerb9/lsix</li>
+</ol>
+
+
+<p><a href="https://razborpoletov.com/2018/12/episode-196.html">Комментировать</a> | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 195 — Java Digest — Старикам тут не место]]></title>

@@ -6,8 +6,8 @@
     <atom:link href="http://razborpoletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2018-12-27T23:26:36+00:00</pubDate>
-    <lastBuildDate>2018-12-27T23:26:36+00:00</lastBuildDate>
+    <pubDate>2018-12-28T09:14:33+00:00</pubDate>
+    <lastBuildDate>2018-12-28T09:14:33+00:00</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razborpoletov.com/logoNew.jpg" />
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
@@ -18,6 +18,126 @@
     </itunes:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:thumbnail url="http://razborpoletov.com/logoNew.jpg" />
+    
+    <item>
+      <title>Episode 196 — Classic - Как прошел 2018-й год?</title>
+      <link>http://razborpoletov.com/2018/12/episode-196.html</link>
+      <pubDate>2018-12-28T00:00:00+00:00</pubDate>
+      <guid isPermalink="true">http://razborpoletov.com/2018/12/episode-196</guid>
+      <description><![CDATA[<h2>Гости и участники</h2>
+
+<ul>
+<li>Виктор Гамов</li>
+<li>Алексей Абашев</li>
+<li>Олег Чирухин</li>
+<li>Андрей Когунь</li>
+<li>Дмитрий Чурбанов</li>
+</ul>
+
+
+<h2>Темы</h2>
+
+<ol>
+<li>Что было интересное в Старом Году и что запомнилось?
+
+<ol>
+<li>Java 11</li>
+<li>Gradle и Kotlin!!</li>
+<li>Visual Studio Code</li>
+<li>Anti-YAML</li>
+<li>Kubernetes</li>
+</ol>
+</li>
+<li><a href="https://www.jetbrains.org/intellij/sdk/docs/welcome.html">IntelliJ SDK</a></li>
+<li>Борьба с Docker под SELinux</li>
+<li><a href="https://tech.paulcz.net/blog/future-of-kubernetes-is-virtual-machines/">The future of Kubernetes is Virtual Machines</a>
+
+<ol>
+<li>https://stackoverflow.com/questions/48609979/how-to-manage-page-cache-resources-when-running-kafka-in-kubernetes</li>
+<li>https://github.com/moby/moby/issues/21759</li>
+</ol>
+</li>
+</ol>
+
+
+<h2>Полезняшки</h2>
+
+<ol>
+<li>https://c-command.com/toothfairy/</li>
+<li><a href="https://lunadisplay.com/">https://lunadisplay.com</a>
+
+<ol>
+<li>https://www.kickstarter.com/projects/767721702/luna-display</li>
+<li><a href="https://beamer-app.com/">https://beamer-app.com</a></li>
+</ol>
+</li>
+<li>https://sw.kovidgoyal.net/kitty/</li>
+<li>https://micro-editor.github.io/</li>
+<li>https://github.com/hackerb9/lsix</li>
+</ol>
+
+
+<p><a href="https://razborpoletov.com/2018/12/episode-196.html">Комментировать</a> | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a></p>
+]]></description>
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_196.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_196.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[Гости и участники
+
+
+Виктор Гамов
+Алексей Абашев
+Олег Чирухин
+Андрей Когунь
+Дмитрий Чурбанов
+
+
+
+Темы
+
+
+Что было интересное в Старом Году и что запомнилось?
+
+
+Java 11
+Gradle и Kotlin!!
+Visual Studio Code
+Anti-YAML
+Kubernetes
+
+
+IntelliJ SDK
+Борьба с Docker под SELinux
+The future of Kubernetes is Virtual Machines
+
+
+https://stackoverflow.com/questions/48609979/how-to-manage-page-cache-resources-when-running-kafka-in-kubernetes
+https://github.com/moby/moby/issues/21759
+
+
+
+
+
+Полезняшки
+
+
+https://c-command.com/toothfairy/
+https://lunadisplay.com
+
+
+https://www.kickstarter.com/projects/767721702/luna-display
+https://beamer-app.com
+
+
+https://sw.kovidgoyal.net/kitty/
+https://micro-editor.github.io/
+https://github.com/hackerb9/lsix
+
+
+
+Комментировать | Помочь подкасту
+]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_196_text.jpg" />
+    </item>
     
     <item>
       <title>Episode 195 — Java Digest — Старикам тут не место</title>
@@ -11797,140 +11917,6 @@ twitter:
 
 ]]></itunes:summary>
       <itunes:image href="http://razborpoletov.com/images/razbor_147_text.jpg" />
-    </item>
-    
-    <item>
-      <title>Episode 146 — Сложности performance-тестирования в потустороннем мире</title>
-      <link>http://razborpoletov.com/2017/12/episode-146.html</link>
-      <pubDate>2017-12-05T00:00:00+00:00</pubDate>
-      <guid isPermalink="true">http://razborpoletov.com/2017/12/episode-146</guid>
-      <description><![CDATA[<div class="ulist">
-<ul>
-<li>
-<p><a href="https://kotlinconf.com/">KotlinConf 2017</a></p>
-</li>
-<li>
-<p>Сложности performance-тестирования</p>
-</li>
-<li>
-<p><a href="http://aakinshin.net/blog/">Да нормальный у нас GC</a></p>
-</li>
-<li>
-<p><a href="https://github.com/dotnet/">BenchmarkDotNet</a></p>
-</li>
-</ul>
-</div>
-<hr>
-<div class="paragraph">
-<p>Наши контакты:</p>
-</div>
-<div class="paragraph">
-<p>Официальный сайт — <a href="https://razborpoletov.com">https://razborpoletov.com</a></p>
-</div>
-<div class="paragraph">
-<p><a href="https://razborpoletov.com/broadcast.html">Информация о вещании</a></p>
-</div>
-<div class="paragraph">
-<p>Гости и участники:</p>
-</div>
-<div class="paragraph">
-<p>twitter:</p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://twitter.com/tolkv">@tolkv</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/golodnyj">@golodnyj</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/KSDaemon">@KSDaemon</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/andrey_akinshin">@andrey_akinshin</a></p>
-</li>
-</ul>
-</div>
-<!-- player goes here-->
-
-<audio preload="none">
-   <source src="http://traffic.libsyn.com/razborpoletov/*razbor_146*.mp3" type="audio/mp3" />
-   Your browser does not support the audio tag.
-</audio>
-<div class="paragraph">
-<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
-</div>
-<!-- episode file link goes here-->
-<a href="http://traffic.libsyn.com/razborpoletov/razbor_146.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="https://razborpoletov.com/images/mp3.png" width="64" /></a>
-<div class="paragraph">
-<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
-</div>]]></description>
-      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_146.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_146.mp3" fileSize="" type="audio/mpeg" />
-      <itunes:summary><![CDATA[
-
-
-KotlinConf 2017
-
-
-Сложности performance-тестирования
-
-
-Да нормальный у нас GC
-
-
-BenchmarkDotNet
-
-
-
-
-
-Наши контакты:
-
-
-Официальный сайт — https://razborpoletov.com
-
-
-Информация о вещании
-
-
-Гости и участники:
-
-
-twitter:
-
-
-
-
-@tolkv
-
-
-@golodnyj
-
-
-@KSDaemon
-
-
-@andrey_akinshin
-
-
-
-
-
-
-   
-   Your browser does not support the audio tag.
-
-
-Подписаться по RSS
-
-
-
-
-Музыка ведущим предоставлена и ладно&#8230;&#8203;
-]]></itunes:summary>
-      <itunes:image href="http://razborpoletov.com/images/razbor_146_text.jpg" />
     </item>
     
   </channel>
