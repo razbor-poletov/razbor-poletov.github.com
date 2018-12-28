@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2018-12-28T09:14:33+00:00</updated>
+  <updated>2018-12-28T13:44:19+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -21,11 +21,12 @@
     <content type="html"><![CDATA[<h2>Гости и участники</h2>
 
 <ul>
-<li>Виктор Гамов</li>
-<li>Алексей Абашев</li>
-<li>Олег Чирухин</li>
-<li>Андрей Когунь</li>
-<li>Дмитрий Чурбанов</li>
+<li><a href="https://twitter.com/gAmUssA">Виктор Гамов</a></li>
+<li><a href="https://twitter.com/a_abashev">Алексей Абашев</a></li>
+<li><a href="https://twitter.com/antonarhipov">Антон Архипов</a></li>
+<li><a href="https://twitter.com/olegchir">Олег Чирухин</a></li>
+<li><a href="https://twitter.com/andrei_kogun">Андрей Когунь</a></li>
+<li><a href="https://twitter.com/dzmitryc">Дмитрий Чурбанов</a></li>
 </ul>
 
 
