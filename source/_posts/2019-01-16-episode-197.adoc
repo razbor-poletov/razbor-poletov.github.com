@@ -1,0 +1,32 @@
+---
+layout: episode
+episode: 197
+title: "Episode 197 — Look Around - История одного склада"
+category: look_around
+guests: akogun, abashev, tolkv
+---
+
+== Гости и участники
+
+* https://twitter.com/asm0di0[Павел Финкельштейн]
+* https://twitter.com/a_abashev[Алексей Абашев]
+* https://twitter.com/andrei_kogun[Андрей Когунь]
+* https://twitter.com/tolkv[Кирилл Толкачев]
+
+== Темы
+
+. Что такое Lamoda и почему там вообще есть IT
+. Метрики и логи
+. Почему всем нужны Dashboard'ы и кто в них смотрит
+. Процесс разработки в Lamoda
+. IE6 на сканерах и JSF
+. Java EE и транзакции. Хороший плохой Transaction Manager
+. Немного о JBoss Remoting и есть ли альтернатива Eclipse RCP для Rich Application?
+. Котлин. Ни единого разрыва, to be continue
+. Где хранить много данных? Почему не Oracle?
+. Не Agile единым. Гордиться ли, если у вас не Agile?
+
+== Полезняшки
+
+. Промокод: razbor-at-delex на конференцию в Минске http://delex-conf.com/
+. Промокод: RazborPoletovPromo на конференцию JPoint https://jpoint.ru/
