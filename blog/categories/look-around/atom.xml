@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: look_around | Подкаст «Разбор Полетов»]]></title>
+  <link href="http://razborpoletov.com/blog/categories/look-around/atom.xml" rel="self"/>
+  <link href="http://razborpoletov.com/"/>
+  <updated>2019-01-17T07:48:06+00:00</updated>
+  <id>http://razborpoletov.com/</id>
+  <author>
+    <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
+    <email><![CDATA[admin@razborpoletov.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 197 — Look Around - История одного склада]]></title>
+    <link href="http://razborpoletov.com/2019/01/episode-197.html"/>
+    <updated>2019-01-16T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2019/01/episode-197</id>
+    <content type="html"><![CDATA[<p>== Гости и участники</p>
+
+<ul>
+<li>https://twitter.com/asm0di0[Павел Финкельштейн]</li>
+<li>https://twitter.com/a_abashev[Алексей Абашев]</li>
+<li>https://twitter.com/andrei_kogun[Андрей Когунь]</li>
+<li>https://twitter.com/tolkv[Кирилл Толкачев]</li>
+</ul>
+
+
+<p>== Темы</p>
+
+<p>. Что такое Lamoda и почему там вообще есть IT
+. Метрики и логи
+. Почему всем нужны Dashboard'ы и кто в них смотрит
+. Процесс разработки в Lamoda
+. IE6 на сканерах и JSF
+. Java EE и транзакции. Хороший плохой Transaction Manager
+. Немного о JBoss Remoting и есть ли альтернатива Eclipse RCP для Rich Application?
+. Котлин. Ни единого разрыва, to be continue
+. Где хранить много данных? Почему не Oracle?
+. Не Agile единым. Гордиться ли, если у вас не Agile?</p>
+
+<p>== Полезняшки</p>
+
+<p>. Промокод: razbor-at-delex на конференцию в Минске http://delex-conf.com/
+. Промокод: RazborPoletovPromo на конференцию JPoint https://jpoint.ru/</p>
+]]></content>
+  </entry>
+  
+</feed>

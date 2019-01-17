@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2019-01-16T08:30:42+00:00</updated>
+  <updated>2019-01-17T07:48:06+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,88 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 197 — Look Around - История одного склада]]></title>
+    <link href="http://razborpoletov.com/2019/01/episode-197.html"/>
+    <updated>2019-01-16T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2019/01/episode-197</id>
+    <content type="html"><![CDATA[<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://twitter.com/asm0di0">Павел Финкельштейн</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/a_abashev">Алексей Абашев</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/andrei_kogun">Андрей Когунь</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/tolkv">Кирилл Толкачев</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p>Что такое Lamoda и почему там вообще есть IT</p>
+</li>
+<li>
+<p>Метрики и логи</p>
+</li>
+<li>
+<p>Почему всем нужны Dashboard&#8217;ы и кто в них смотрит</p>
+</li>
+<li>
+<p>Процесс разработки в Lamoda</p>
+</li>
+<li>
+<p>IE6 на сканерах и JSF</p>
+</li>
+<li>
+<p>Java EE и транзакции. Хороший плохой Transaction Manager</p>
+</li>
+<li>
+<p>Немного о JBoss Remoting и есть ли альтернатива Eclipse RCP для Rich Application?</p>
+</li>
+<li>
+<p>Котлин. Ни единого разрыва, to be continue</p>
+</li>
+<li>
+<p>Где хранить много данных? Почему не Oracle?</p>
+</li>
+<li>
+<p>Не Agile единым. Гордиться ли, если у вас не Agile?</p>
+</li>
+</ol>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Полезняшки">Полезняшки</h2>
+<div class="sectionbody">
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p>Промокод: razbor-at-delex на конференцию в Минске <a href="http://delex-conf.com/" class="bare">http://delex-conf.com/</a></p>
+</li>
+<li>
+<p>Промокод: RazborPoletovPromo на конференцию JPoint <a href="https://jpoint.ru/" class="bare">https://jpoint.ru/</a></p>
+</li>
+</ol>
+</div>
+</div>
+</div>]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 196 — Classic - Как прошел 2018-й год?]]></title>
@@ -6011,101 +6093,6 @@ p.s. Если идете на JPoint 2018, то дослушайте до кон
 </div>
 <!-- episode file link goes here-->
 <a href="http://traffic.libsyn.com/razborpoletov/razbor_148.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="https://razborpoletov.com/images/mp3.png" width="64" /></a>
-<div class="paragraph">
-<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
-</div>
-</div>
-</div>]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 147 — Техрадар Lamoda]]></title>
-    <link href="http://razborpoletov.com/2017/12/episode-147.html"/>
-    <updated>2017-12-05T00:00:00+00:00</updated>
-    <id>http://razborpoletov.com/2017/12/episode-147</id>
-    <content type="html"><![CDATA[<div class="sect1">
-<h2 id="lamoda-и-её-платформа">Lamoda и её платформа</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="http://tech.lamoda.ru/">Техрадар</a></p>
-</li>
-<li>
-<p>Как отказались от MySQL в пользу PostgreSQL</p>
-</li>
-<li>
-<p>Kotlin, Scala, Java</p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Гости-и-участники">Гости и участники:</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p>Антон Чернусов</p>
-</li>
-<li>
-<p>Konstantin Burkalev</p>
-</li>
-<li>
-<p>Пётр Мазин</p>
-</li>
-<li>
-<p>Павел Савельев</p>
-</li>
-<li>
-<p>Михаил Леонов</p>
-</li>
-</ul>
-</div>
-<hr>
-<div class="paragraph">
-<p>Наши контакты:</p>
-</div>
-<div class="paragraph">
-<p>Официальный сайт — <a href="https://razborpoletov.com">https://razborpoletov.com</a></p>
-</div>
-<div class="paragraph">
-<p><a href="https://razborpoletov.com/broadcast.html">Информация о вещании</a></p>
-</div>
-<div class="paragraph">
-<p>Гости и участники:</p>
-</div>
-<div class="paragraph">
-<p>twitter:</p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://twitter.com/golodnyj">@golodnyj</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/KSDaemon">@KSDaemon</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/PetrMyazin">@PetrMyazin</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/stateofzuse">@stateofzuse</a></p>
-</li>
-</ul>
-</div>
-<!-- player goes here-->
-
-<audio preload="none">
-   <source src="http://traffic.libsyn.com/razborpoletov/razbor_147.mp3" type="audio/mp3" />
-   Your browser does not support the audio tag.
-</audio>
-<div class="paragraph">
-<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
-</div>
-<!-- episode file link goes here-->
-<a href="http://traffic.libsyn.com/razborpoletov/razbor_147.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="https://razborpoletov.com/images/mp3.png" width="64" /></a>
 <div class="paragraph">
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
 </div>
