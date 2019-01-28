@@ -4,7 +4,7 @@
   <title><![CDATA[Category: look_around | Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/blog/categories/look-around/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2019-01-27T21:14:25+00:00</updated>
+  <updated>2019-01-28T17:04:30+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,38 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 198 — Look Around - Жизнь внутри Чебурашки]]></title>
+    <link href="http://razborpoletov.com/2019/01/episode-198.html"/>
+    <updated>2019-01-28T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2019/01/episode-198</id>
+    <content type="html"><![CDATA[<p>== Гости и участники</p>
+
+<ul>
+<li>https://twitter.com/a_abashev[Алексей Абашев]</li>
+<li>https://twitter.com/dbg_nsk[Иван Углянский]</li>
+<li>https://twitter.com/pjBooms[Никита Липский]</li>
+<li>https://twitter.com/noinline[Павел Павлов]</li>
+</ul>
+
+
+<p>== Темы</p>
+
+<p>. Что такое JET и откуда он взялся
+. Баги в JVM и оптимизация, которую нельзя делать
+. Поддержка Spring Boot в Excelsior JET
+. Безопасность
+. На чем можно заработать в JDK
+. Как устроен AOT в Jet
+. Производительность - это главное для 2019 года</p>
+
+<p>== Полезняшки</p>
+
+<p>. Промокод: RazborPoletovPromo на конференцию JPoint https://jpoint.ru/
+. Промокод: razbor-at-delex на конференцию в Минске http://delex-conf.com/</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 197 — Look Around - История одного склада]]></title>

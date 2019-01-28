@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2019-01-27T21:14:25+00:00</updated>
+  <updated>2019-01-28T17:04:30+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,79 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 198 — Look Around - Жизнь внутри Чебурашки]]></title>
+    <link href="http://razborpoletov.com/2019/01/episode-198.html"/>
+    <updated>2019-01-28T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2019/01/episode-198</id>
+    <content type="html"><![CDATA[<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://twitter.com/a_abashev">Алексей Абашев</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/dbg_nsk">Иван Углянский</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/pjBooms">Никита Липский</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/noinline">Павел Павлов</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p>Что такое JET и откуда он взялся</p>
+</li>
+<li>
+<p>Баги в JVM и оптимизация, которую нельзя делать</p>
+</li>
+<li>
+<p>Поддержка Spring Boot в Excelsior JET</p>
+</li>
+<li>
+<p>Безопасность</p>
+</li>
+<li>
+<p>На чем можно заработать в JDK</p>
+</li>
+<li>
+<p>Как устроен AOT в Jet</p>
+</li>
+<li>
+<p>Производительность - это главное для 2019 года</p>
+</li>
+</ol>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Полезняшки">Полезняшки</h2>
+<div class="sectionbody">
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p>Промокод: RazborPoletovPromo на конференцию JPoint <a href="https://jpoint.ru/" class="bare">https://jpoint.ru/</a></p>
+</li>
+<li>
+<p>Промокод: razbor-at-delex на конференцию в Минске <a href="http://delex-conf.com/" class="bare">http://delex-conf.com/</a></p>
+</li>
+</ol>
+</div>
+</div>
+</div>]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 197 — Look Around - История одного склада]]></title>
@@ -6016,83 +6089,6 @@ p.s. Если идете на JPoint 2018, то дослушайте до кон
 </div>
 <!-- episode file link goes here-->
 <a href="http://traffic.libsyn.com/razborpoletov/razbor_149.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="https://razborpoletov.com/images/mp3.png" width="64" /></a>
-<div class="paragraph">
-<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
-</div>
-</div>
-</div>]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 148 — Подпольщики из MTS]]></title>
-    <link href="http://razborpoletov.com/2017/12/episode-148.html"/>
-    <updated>2017-12-05T00:00:00+00:00</updated>
-    <id>http://razborpoletov.com/2017/12/episode-148</id>
-    <content type="html"><![CDATA[<div class="sect1">
-<h2 id="Темы">Темы</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p>Аналитика больших пользовательских данных</p>
-</li>
-<li>
-<p>Центры компетенций</p>
-</li>
-<li>
-<p>Машинное обучение и большие данные в телекоме</p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Гости-и-участники">Гости и участники:</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p>Антон Чернусов</p>
-</li>
-<li>
-<p>Дмитрий Шостко</p>
-</li>
-</ul>
-</div>
-<hr>
-<div class="paragraph">
-<p>Наши контакты:</p>
-</div>
-<div class="paragraph">
-<p>Официальный сайт — <a href="https://razborpoletov.com">https://razborpoletov.com</a></p>
-</div>
-<div class="paragraph">
-<p><a href="https://razborpoletov.com/broadcast.html">Информация о вещании</a></p>
-</div>
-<div class="paragraph">
-<p>Гости и участники:</p>
-</div>
-<div class="paragraph">
-<p>twitter:</p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://twitter.com/golodnyj">@golodnyj</a></p>
-</li>
-</ul>
-</div>
-<!-- player goes here-->
-
-<audio preload="none">
-   <source src="http://traffic.libsyn.com/razborpoletov/razbor_148.mp3" type="audio/mp3" />
-   Your browser does not support the audio tag.
-</audio>
-<div class="paragraph">
-<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
-</div>
-<!-- episode file link goes here-->
-<a href="http://traffic.libsyn.com/razborpoletov/razbor_148.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="https://razborpoletov.com/images/mp3.png" width="64" /></a>
 <div class="paragraph">
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
 </div>

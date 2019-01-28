@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2019-01-27T21:14:25+00:00</updated>
+  <updated>2019-01-28T17:04:30+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,79 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 198 — Look Around - Жизнь внутри Чебурашки]]></title>
+    <link href="http://razborpoletov.com/2019/01/episode-198.html"/>
+    <updated>2019-01-28T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2019/01/episode-198</id>
+    <content type="html"><![CDATA[<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://twitter.com/a_abashev">Алексей Абашев</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/dbg_nsk">Иван Углянский</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/pjBooms">Никита Липский</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/noinline">Павел Павлов</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p>Что такое JET и откуда он взялся</p>
+</li>
+<li>
+<p>Баги в JVM и оптимизация, которую нельзя делать</p>
+</li>
+<li>
+<p>Поддержка Spring Boot в Excelsior JET</p>
+</li>
+<li>
+<p>Безопасность</p>
+</li>
+<li>
+<p>На чем можно заработать в JDK</p>
+</li>
+<li>
+<p>Как устроен AOT в Jet</p>
+</li>
+<li>
+<p>Производительность - это главное для 2019 года</p>
+</li>
+</ol>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Полезняшки">Полезняшки</h2>
+<div class="sectionbody">
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p>Промокод: RazborPoletovPromo на конференцию JPoint <a href="https://jpoint.ru/" class="bare">https://jpoint.ru/</a></p>
+</li>
+<li>
+<p>Промокод: razbor-at-delex на конференцию в Минске <a href="http://delex-conf.com/" class="bare">http://delex-conf.com/</a></p>
+</li>
+</ol>
+</div>
+</div>
+</div>]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 197 — Look Around - История одного склада]]></title>
