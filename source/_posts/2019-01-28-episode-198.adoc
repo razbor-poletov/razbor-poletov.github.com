@@ -1,0 +1,29 @@
+---
+layout: episode
+episode: 198
+title: "Episode 198 — Look Around - Жизнь внутри Чебурашки"
+category: look_around
+guests: abashev, dbg_nsk, pjBooms, noinline
+---
+
+== Гости и участники
+
+* https://twitter.com/a_abashev[Алексей Абашев]
+* https://twitter.com/dbg_nsk[Иван Углянский]
+* https://twitter.com/pjBooms[Никита Липский]
+* https://twitter.com/noinline[Павел Павлов]
+
+== Темы
+
+. Что такое JET и откуда он взялся
+. Баги в JVM и оптимизация, которую нельзя делать 
+. Поддержка Spring Boot в Excelsior JET
+. Безопасность
+. На чем можно заработать в JDK
+. Как устроен AOT в Jet
+. Производительность - это главное для 2019 года
+
+== Полезняшки
+
+. Промокод: RazborPoletovPromo на конференцию JPoint https://jpoint.ru/
+. Промокод: razbor-at-delex на конференцию в Минске http://delex-conf.com/
