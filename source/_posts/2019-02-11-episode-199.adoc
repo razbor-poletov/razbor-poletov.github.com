@@ -1,0 +1,31 @@
+---
+layout: episode
+episode: 199
+title: "Episode 199 — Classic - Руслан, FOSDEM и Jfocus"
+category: classic
+guests: abashev, gAmUssA, antonarhipov, andrei_kogun, rgakhmetzyanov
+---
+
+== Гости и участники
+
+* https://twitter.com/gAmUssA[Виктор Гамов]
+* https://twitter.com/a_abashev[Алексей Абашев]
+* https://twitter.com/antonarhipov[Антон Архипов]
+* https://twitter.com/andrei_kogun[Андрей Когунь]
+* https://twitter.com/rgakhmetzyanov[Руслан Ахмедзянов]
+
+== Темы
+
+. Fosdem - https://fosdem.org/2019/schedule/track/free_java/
+. Jfokus
+. История с Рейнхольдом
+. KPI и OKR - https://felipecastro.com/en/okr/what-is-okr/
+
+== Полезняшки
+
+. Промокод: RazborPoletovPromo на конференцию JPoint https://jpoint.ru/
+. Промокод: Razbor на онлайн конференцию https://fevlakeconf.ru/
+. Промокод: RazborPoletov@JavaDay на конференцию JavaDay во Львове https://www.javaday.org.ua/
+. Промокод: razbor-at-delex на конференцию в Минске http://delex-conf.com/
+
+
