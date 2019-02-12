@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2019-02-09T21:46:36+00:00</updated>
+  <updated>2019-02-12T16:15:40+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,79 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 199 — Classic - Руслан, FOSDEM и Jfocus]]></title>
+    <link href="http://razborpoletov.com/2019/02/episode-199.html"/>
+    <updated>2019-02-11T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2019/02/episode-199</id>
+    <content type="html"><![CDATA[<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://twitter.com/gAmUssA">Виктор Гамов</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/a_abashev">Алексей Абашев</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/antonarhipov">Антон Архипов</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/andrei_kogun">Андрей Когунь</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/rgakhmetzyanov">Руслан Ахмедзянов</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p>Fosdem - <a href="https://fosdem.org/2019/schedule/track/free_java/" class="bare">https://fosdem.org/2019/schedule/track/free_java/</a></p>
+</li>
+<li>
+<p>Jfokus</p>
+</li>
+<li>
+<p>История с Рейнхольдом</p>
+</li>
+<li>
+<p>KPI и OKR - <a href="https://felipecastro.com/en/okr/what-is-okr/" class="bare">https://felipecastro.com/en/okr/what-is-okr/</a></p>
+</li>
+</ol>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Полезняшки">Полезняшки</h2>
+<div class="sectionbody">
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p>Промокод: RazborPoletovPromo на конференцию JPoint <a href="https://jpoint.ru/" class="bare">https://jpoint.ru/</a></p>
+</li>
+<li>
+<p>Промокод: Razbor на онлайн конференцию <a href="https://fevlakeconf.ru/" class="bare">https://fevlakeconf.ru/</a></p>
+</li>
+<li>
+<p>Промокод: RazborPoletov@JavaDay на конференцию JavaDay во Львове <a href="https://www.javaday.org.ua/" class="bare">https://www.javaday.org.ua/</a></p>
+</li>
+<li>
+<p>Промокод: razbor-at-delex на конференцию в Минске <a href="http://delex-conf.com/" class="bare">http://delex-conf.com/</a></p>
+</li>
+</ol>
+</div>
+</div>
+</div>]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 198 — Look Around - Жизнь внутри Чебурашки]]></title>
@@ -5974,121 +6047,6 @@ p.s. Если идете на JPoint 2018, то дослушайте до кон
 </div>
 <!-- episode file link goes here-->
 <a href="http://traffic.libsyn.com/razborpoletov/razbor_150.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="https://razborpoletov.com/images/mp3.png" width="64" /></a>
-<div class="paragraph">
-<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
-</div>
-</div>
-</div>]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 149 — Мой любимый SQL!]]></title>
-    <link href="http://razborpoletov.com/2017/12/episode-149.html"/>
-    <updated>2017-12-13T00:00:00+00:00</updated>
-    <id>http://razborpoletov.com/2017/12/episode-149</id>
-    <content type="html"><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="paragraph">
-<p><strong>ВНИМАНИЕ : Выпуск местами немножечко 18+</strong></p>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Мероприятия">Мероприятия</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://2018.jbreak.ru/">JBreak</a></p>
-</li>
-<li>
-<p><a href="https://jpoint.ru/en/">JPoint</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Темы">Темы</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://grafeas.io">Grafeas</a> – что это и с чем едят</p>
-</li>
-<li>
-<p><a href="https://twitter.com/Java_Champions/status/933194279412891648">В полку жавачампионов прибыло</a></p>
-</li>
-<li>
-<p>Что такое <a href="https://www.confluent.io/blog/november-update-ksql-developer-preview-available">KSQL</a>.</p>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://github.com/confluentinc/cp-demo">Демка</a></p>
-</li>
-</ul>
-</div>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Полезняшки">Полезняшки</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://www.confluent.io/blog">Годноты блог без СМС</a></p>
-</li>
-</ul>
-</div>
-<hr>
-<div class="paragraph">
-<p>Наши контакты:</p>
-</div>
-<div class="paragraph">
-<p>Официальный сайт — <a href="https://razborpoletov.com">https://razborpoletov.com</a></p>
-</div>
-<div class="paragraph">
-<p><a href="https://razborpoletov.com/broadcast.html">Информация о вещании</a></p>
-</div>
-<div class="paragraph">
-<p>Гости и участники:</p>
-</div>
-<div class="paragraph">
-<p>twitter:</p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://twitter.com/a_abashev">@a_abashev</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/antonarhipov">@antonarhipov</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/jbaruch">@jbaruch</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/tolkv">@tolkv</a></p>
-</li>
-</ul>
-</div>
-<!-- player goes here-->
-
-<audio preload="none">
-   <source src="http://traffic.libsyn.com/razborpoletov/razbor_149.mp3" type="audio/mp3" />
-   Your browser does not support the audio tag.
-</audio>
-<div class="paragraph">
-<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
-</div>
-<!-- episode file link goes here-->
-<a href="http://traffic.libsyn.com/razborpoletov/razbor_149.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="https://razborpoletov.com/images/mp3.png" width="64" /></a>
 <div class="paragraph">
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
 </div>
