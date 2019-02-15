@@ -4,7 +4,7 @@
   <title><![CDATA[Category: java-digest | Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/blog/categories/java-digest/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2019-02-15T08:46:42+00:00</updated>
+  <updated>2019-02-15T17:40:27+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,28 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 200 — Java Digest — Groovy вернулся!!]]></title>
+    <link href="http://razborpoletov.com/2019/02/episode-200.html"/>
+    <updated>2019-02-14T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2019/02/episode-200</id>
+    <content type="html"><![CDATA[<p>== Гости и участники</p>
+
+<ul>
+<li>https://twitter.com/olegchir[Олег Чирухин]</li>
+<li>https://twitter.com/a_abashev[Алексей Абашев]</li>
+</ul>
+
+
+<p>== Темы</p>
+
+<ul>
+<li>https://jug.ru/2019/02/digest-week-84/[Java Digest]</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 195 — Java Digest — Старикам тут не место]]></title>
