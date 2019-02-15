@@ -1,0 +1,16 @@
+---
+layout: episode
+episode: 200
+title: "Episode 200 — Java Digest — Groovy вернулся!!"
+category: java-digest
+guests: abashev, olegchir
+---
+
+== Гости и участники
+
+* https://twitter.com/olegchir[Олег Чирухин]
+* https://twitter.com/a_abashev[Алексей Абашев]
+
+== Темы
+
+* https://jug.ru/2019/02/digest-week-84/[Java Digest]
