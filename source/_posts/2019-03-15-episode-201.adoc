@@ -1,0 +1,17 @@
+---
+layout: episode
+episode: 201
+title: "Episode 201 — Look Around - Розенберг нам поможет"
+category: look_around
+guests: abashev, hahunov
+---
+
+== Гости и участники
+
+* https://twitter.com/a_abashev[Алексей Абашев]
+* https://dbrain.io/[Алексей Хахунов]
+
+== Полезняшки
+
+. Промокод: RazborPoletovPromo на конференцию JPoint https://jpoint.ru/
+. Промокод: RazborPoletovPromo на конференцию Mobius https://mobiusconf.com/cfp
