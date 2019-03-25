@@ -1,0 +1,26 @@
+---
+layout: episode
+episode: 202
+title: "Episode 202 — Look Around - Дар инопланетян"
+category: look_around
+guests: abashev, olegchir, nvashanin, vvsevolodovich
+---
+
+== Гости и участники
+
+* https://twitter.com/a_abashev[Алексей Абашев]
+* https://twitter.com/olegchir[Олег Чирухин]
+* https://medium.com/@nvashanin[Николай Ашанин]
+* https://twitter.com/vvsevolodovich[Владимир Иванов]
+
+== Темы
+
+. Чем мобильный мир отличается от бэкэнд разработки
+. Что сейчас в трендах мобильной разработки
+. Путь мобильного инженера
+. Создание личного бренда
+
+== Полезняшки
+
+. Промокод: RazborPoletovPromo на конференцию JPoint https://jpoint.ru/
+. Промокод: RazborPoletovPromo на конференцию Mobius https://mobiusconf.com/cfp
