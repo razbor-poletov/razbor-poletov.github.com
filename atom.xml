@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2019-03-22T15:47:55+00:00</updated>
+  <updated>2019-03-25T20:15:02+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,70 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 202 — Look Around - Дар инопланетян]]></title>
+    <link href="http://razborpoletov.com/2019/03/episode-202.html"/>
+    <updated>2019-03-25T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2019/03/episode-202</id>
+    <content type="html"><![CDATA[<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://twitter.com/a_abashev">Алексей Абашев</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/olegchir">Олег Чирухин</a></p>
+</li>
+<li>
+<p><a href="https://medium.com/@nvashanin">Николай Ашанин</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/vvsevolodovich">Владимир Иванов</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p>Чем мобильный мир отличается от бэкэнд разработки</p>
+</li>
+<li>
+<p>Что сейчас в трендах мобильной разработки</p>
+</li>
+<li>
+<p>Путь мобильного инженера</p>
+</li>
+<li>
+<p>Создание личного бренда</p>
+</li>
+</ol>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Полезняшки">Полезняшки</h2>
+<div class="sectionbody">
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p>Промокод: RazborPoletovPromo на конференцию JPoint <a href="https://jpoint.ru/" class="bare">https://jpoint.ru/</a></p>
+</li>
+<li>
+<p>Промокод: RazborPoletovPromo на конференцию Mobius <a href="https://mobiusconf.com/cfp" class="bare">https://mobiusconf.com/cfp</a></p>
+</li>
+</ol>
+</div>
+</div>
+</div>]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 201 — Look Around - Розенберг нам поможет]]></title>
@@ -5702,150 +5766,6 @@ p.s. Если идете на JPoint 2018, то дослушайте до кон
 </div>
 <!-- episode file link goes here-->
 <a href="http://traffic.libsyn.com/razborpoletov/razbor_153.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="https://razborpoletov.com/images/mp3.png" width="64" /></a>
-<div class="paragraph">
-<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
-</div>
-</div>
-</div>]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 152 — Итоги 2017]]></title>
-    <link href="http://razborpoletov.com/2018/01/episode-152.html"/>
-    <updated>2018-01-01T00:00:00+00:00</updated>
-    <id>http://razborpoletov.com/2018/01/episode-152</id>
-    <content type="html"><![CDATA[<div class="sect1">
-<h2 id="В-этом-году-с-вами-были">В этом году с вами были</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://twitter.com/tolkv">@tolkv</a> Мутный Кирилл</p>
-</li>
-<li>
-<p><a href="https://twitter.com/jbaruch">@jbaruch</a> Стремительный Барух</p>
-</li>
-<li>
-<p><a href="https://twitter.com/gamussa">@gamussa</a> Портящий вступления Виктор</p>
-</li>
-<li>
-<p><a href="https://twitter.com/antonarhipov">@antonarhipov</a> Развивающийся Антон</p>
-</li>
-</ul>
-</div>
-<div class="paragraph">
-<p>и многие другие!</p>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Мероприятия">Мероприятия</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://2018.jbreak.ru">JBreak</a></p>
-</li>
-<li>
-<p><a href="https://jpoint.ru">JPoint</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Темы-которым-пытаемся-следовать">Темы [которым пытаемся следовать]</h2>
-<div class="sectionbody">
-<div class="olist arabic">
-<ol class="arabic">
-<li>
-<p><a href="https://psono.com/psono-now-supported-jfrog/">psono and jfrog</a></p>
-</li>
-<li>
-<p>о технологиях, которые сделали 2017 для ведущих</p>
-<div class="olist loweralpha">
-<ol class="loweralpha" type="a">
-<li>
-<p><a href="https://linuxcontainers.org" class="bare">https://linuxcontainers.org</a></p>
-</li>
-<li>
-<p><a href="https://kubernetes.io" class="bare">https://kubernetes.io</a></p>
-</li>
-<li>
-<p><a href="https://docs.oracle.com/javase/9/whatsnew/toc.htm">Java 9</a></p>
-</li>
-<li>
-<p><a href="http://developer.smartthings.com">SmartThings</a></p>
-</li>
-</ol>
-</div>
-</li>
-<li>
-<p><a href="https://silverbulleters.org/">CI/CD по русски (как 1С)</a></p>
-</li>
-<li>
-<p><a href="https://www.thoughtworks.com/radar">Новый Радар</a></p>
-</li>
-</ol>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Полезняшка">Полезняшка</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://t.me/AwesomeKafka_ru">Канал Виктора в телеграм про Кафку</a></p>
-</li>
-<li>
-<p><a href="https://t.me/tradeoffs">Телеграм-канал Алексея Федорова про то, как делаются конференции</a></p>
-</li>
-</ul>
-</div>
-<hr>
-<div class="paragraph">
-<p>Наши контакты:</p>
-</div>
-<div class="paragraph">
-<p>Официальный сайт — <a href="https://razborpoletov.com">https://razborpoletov.com</a></p>
-</div>
-<div class="paragraph">
-<p><a href="https://razborpoletov.com/broadcast.html">Информация о вещании</a></p>
-</div>
-<div class="paragraph">
-<p>Гости и участники:</p>
-</div>
-<div class="paragraph">
-<p>twitter:</p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://twitter.com/antonarhipov">@antonarhipov</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/jbaruch">@jbaruch</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/tolkv">@tolkv</a></p>
-</li>
-</ul>
-</div>
-<!-- player goes here-->
-
-<audio preload="none">
-   <source src="http://traffic.libsyn.com/razborpoletov/razbor_152.mp3" type="audio/mp3" />
-   Your browser does not support the audio tag.
-</audio>
-<div class="paragraph">
-<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
-</div>
-<!-- episode file link goes here-->
-<a href="http://traffic.libsyn.com/razborpoletov/razbor_152.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="https://razborpoletov.com/images/mp3.png" width="64" /></a>
 <div class="paragraph">
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
 </div>
