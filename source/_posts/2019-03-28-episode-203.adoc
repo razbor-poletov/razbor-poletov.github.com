@@ -1,0 +1,22 @@
+---
+layout: episode
+episode: 203
+title: "Episode 203 — Java Digest — Java 12"
+category: java-digest
+guests: abashev, olegchir, andrei_kogun
+---
+
+== Гости и участники
+
+* https://twitter.com/a_abashev[Алексей Абашев]
+* https://twitter.com/olegchir[Олег Чирухин]
+* https://twitter.com/andrei_kogun[Андрей Когунь]
+
+== Темы
+
+* https://jug.ru/2019/03/digest-week-85/[Java Digest]
+
+== Полезняшки
+
+. Промокод: RazborPoletovPromo на конференцию JPoint https://jpoint.ru/
+. Промокод: RazborPoletovPromo на конференцию Mobius https://mobiusconf.com/cfp
