@@ -6,8 +6,8 @@
     <atom:link href="http://razborpoletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2019-03-27T23:28:09+00:00</pubDate>
-    <lastBuildDate>2019-03-27T23:28:09+00:00</lastBuildDate>
+    <pubDate>2019-03-28T12:46:50+00:00</pubDate>
+    <lastBuildDate>2019-03-28T12:46:50+00:00</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razborpoletov.com/logoNew.jpg" />
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
@@ -18,6 +18,112 @@
     </itunes:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:thumbnail url="http://razborpoletov.com/logoNew.jpg" />
+    
+    <item>
+      <title>Episode 203 — Java Digest — Java 12</title>
+      <link>http://razborpoletov.com/2019/03/episode-203.html</link>
+      <pubDate>2019-03-28T00:00:00+00:00</pubDate>
+      <guid isPermalink="true">http://razborpoletov.com/2019/03/episode-203</guid>
+      <description><![CDATA[<div class="paragraph">
+    <p><a href="http://razborpoletov.com/2019/03/episode-203.html">Комментировать</a>
+    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a></p>
+</div>
+<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://twitter.com/a_abashev">Алексей Абашев</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/olegchir">Олег Чирухин</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/andrei_kogun">Андрей Когунь</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://jug.ru/2019/03/digest-week-85/">Java Digest</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Полезняшки">Полезняшки</h2>
+<div class="sectionbody">
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p>Промокод: RazborPoletovPromo на конференцию JPoint <a href="https://jpoint.ru/" class="bare">https://jpoint.ru/</a></p>
+</li>
+<li>
+<p>Промокод: RazborPoletovPromo на конференцию Mobius <a href="https://mobiusconf.com/cfp" class="bare">https://mobiusconf.com/cfp</a></p>
+</li>
+</ol>
+</div>
+</div>
+</div>]]></description>
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_203.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_203.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2019/03/episode-203.html
+Помочь подкасту - https://www.patreon.com/razborpoletov
+
+Гости и участники
+
+
+
+
+Алексей Абашев
+
+
+Олег Чирухин
+
+
+Андрей Когунь
+
+
+
+
+
+
+Темы
+
+
+
+
+Java Digest
+
+
+
+
+
+
+Полезняшки
+
+
+
+
+Промокод: RazborPoletovPromo на конференцию JPoint https://jpoint.ru/
+
+
+Промокод: RazborPoletovPromo на конференцию Mobius https://mobiusconf.com/cfp
+
+
+
+
+]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_203_text.jpg" />
+    </item>
     
     <item>
       <title>Episode 202 — Look Around - Дар инопланетян</title>
@@ -11305,338 +11411,6 @@ twitter:
 
 ]]></itunes:summary>
       <itunes:image href="http://razborpoletov.com/images/razbor_154_text.jpg" />
-    </item>
-    
-    <item>
-      <title>Episode 153 — РП: Devops - Rancher, Kubernetes и новый CI на Kotlin</title>
-      <link>http://razborpoletov.com/2018/01/episode-153.html</link>
-      <pubDate>2018-01-09T00:00:00+00:00</pubDate>
-      <guid isPermalink="true">http://razborpoletov.com/2018/01/episode-153</guid>
-      <description><![CDATA[<div class="paragraph">
-    <p><a href="http://razborpoletov.com/2018/01/episode-153.html">Комментировать</a>
-    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a></p>
-</div>
-<div class="sect1">
-<h2 id="Гости">Гости</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://twitter.com/@lemonjet">@lemonjet</a> - Алёна Прохорчик. Principal Engineer at Rancher</p>
-</li>
-<li>
-<p><a href="https://twitter.com/@fedor">@fedor</a> Фёдор Коротков - автор нового CI сервера на Kotlin из Cirrus Labs</p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Темки">Темки</h2>
-<div class="sectionbody">
-<div class="olist arabic">
-<ol class="arabic">
-<li>
-<p><strong>Rancher</strong></p>
-<div class="olist loweralpha">
-<ol class="loweralpha" type="a">
-<li>
-<p>Алёна и Rancher Inc, время интересных историй</p>
-</li>
-<li>
-<p>Что это такое?</p>
-</li>
-<li>
-<p>В чём отличие от kubernetes, DC/OS, Mesos++</p>
-</li>
-<li>
-<p>Когда не стоит использовать?</p>
-</li>
-<li>
-<p>Кто основные клиента, разработчики? Ынтерпрайз?</p>
-</li>
-<li>
-<p>Почему в Cirrus Labs не используют Rancher?</p>
-</li>
-</ol>
-</div>
-</li>
-<li>
-<p>Почему Kubernetes так популярен</p>
-</li>
-<li>
-<p>Абстракции и Kubernetes</p>
-</li>
-<li>
-<p><strong>Cirrus Labs</strong></p>
-<div class="olist loweralpha">
-<ol class="loweralpha" type="a">
-<li>
-<p><a href="https://medium.com/cirruslabs/introducing-cirrus-ci-a75cd1f49af0" class="bare">https://medium.com/cirruslabs/introducing-cirrus-ci-a75cd1f49af0</a></p>
-</li>
-<li>
-<p>Что за компания такая?</p>
-</li>
-<li>
-<p>Зачем ещё один CI?</p>
-</li>
-<li>
-<p>И почему не на Rancher!?</p>
-</li>
-</ol>
-</div>
-</li>
-<li>
-<p>Про Docker</p>
-<div class="olist loweralpha">
-<ol class="loweralpha" type="a">
-<li>
-<p>Docker Inc - мёртв <a href="https://chrisshort.net/docker-inc-is-dead/" class="bare">https://chrisshort.net/docker-inc-is-dead/</a></p>
-</li>
-<li>
-<p><a href="https://habrahabr.ru/company/itsumma/blog/345976/" class="bare">https://habrahabr.ru/company/itsumma/blog/345976/</a></p>
-</li>
-<li>
-<p>Docker GC - зачем? что делает? как работает?</p>
-<div class="olist lowerroman">
-<ol class="lowerroman" type="i">
-<li>
-<p><a href="https://github.com/spotify/docker-gc" class="bare">https://github.com/spotify/docker-gc</a></p>
-</li>
-</ol>
-</div>
-</li>
-</ol>
-</div>
-</li>
-<li>
-<p><a href="https://www.envoyproxy.io/" class="bare">https://www.envoyproxy.io/</a></p>
-</li>
-</ol>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Полезняшки">Полезняшки</h2>
-<div class="sectionbody">
-<div class="olist arabic">
-<ol class="arabic">
-<li>
-<p><a href="http://cirrus-ci.org">Cirrus-CI</a> - бесплатный CI на время беты</p>
-</li>
-</ol>
-</div>
-<hr>
-<div class="paragraph">
-<p>Наши контакты:</p>
-</div>
-<div class="paragraph">
-<p>Официальный сайт — <a href="https://razborpoletov.com">https://razborpoletov.com</a></p>
-</div>
-<div class="paragraph">
-<p><a href="https://razborpoletov.com/broadcast.html">Информация о вещании</a></p>
-</div>
-<div class="paragraph">
-<p>Гости и участники:</p>
-</div>
-<div class="paragraph">
-<p>twitter:</p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://twitter.com/antonarhipov">@antonarhipov</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/jbaruch">@jbaruch</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/tolkv">@tolkv</a></p>
-</li>
-</ul>
-</div>
-<!-- player goes here-->
-
-<audio preload="none">
-   <source src="http://traffic.libsyn.com/razborpoletov/razbor_153.mp3" type="audio/mp3" />
-   Your browser does not support the audio tag.
-</audio>
-<div class="paragraph">
-<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
-</div>
-<!-- episode file link goes here-->
-<a href="http://traffic.libsyn.com/razborpoletov/razbor_153.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="https://razborpoletov.com/images/mp3.png" width="64" /></a>
-<div class="paragraph">
-<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
-</div>
-</div>
-</div>]]></description>
-      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_153.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_153.mp3" fileSize="" type="audio/mpeg" />
-      <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2018/01/episode-153.html
-Помочь подкасту - https://www.patreon.com/razborpoletov
-
-Гости
-
-
-
-
-@lemonjet - Алёна Прохорчик. Principal Engineer at Rancher
-
-
-@fedor Фёдор Коротков - автор нового CI сервера на Kotlin из Cirrus Labs
-
-
-
-
-
-
-Темки
-
-
-
-
-Rancher
-
-
-
-Алёна и Rancher Inc, время интересных историй
-
-
-Что это такое?
-
-
-В чём отличие от kubernetes, DC/OS, Mesos++
-
-
-Когда не стоит использовать?
-
-
-Кто основные клиента, разработчики? Ынтерпрайз?
-
-
-Почему в Cirrus Labs не используют Rancher?
-
-
-
-
-
-Почему Kubernetes так популярен
-
-
-Абстракции и Kubernetes
-
-
-Cirrus Labs
-
-
-
-https://medium.com/cirruslabs/introducing-cirrus-ci-a75cd1f49af0
-
-
-Что за компания такая?
-
-
-Зачем ещё один CI?
-
-
-И почему не на Rancher!?
-
-
-
-
-
-Про Docker
-
-
-
-Docker Inc - мёртв https://chrisshort.net/docker-inc-is-dead/
-
-
-https://habrahabr.ru/company/itsumma/blog/345976/
-
-
-Docker GC - зачем? что делает? как работает?
-
-
-
-https://github.com/spotify/docker-gc
-
-
-
-
-
-
-
-
-https://www.envoyproxy.io/
-
-
-
-
-
-
-Полезняшки
-
-
-
-
-Cirrus-CI - бесплатный CI на время беты
-
-
-
-
-
-Наши контакты:
-
-
-Официальный сайт — https://razborpoletov.com
-
-
-Информация о вещании
-
-
-Гости и участники:
-
-
-twitter:
-
-
-
-
-@antonarhipov
-
-
-@gamussa
-
-
-@jbaruch
-
-
-@tolkv
-
-
-
-
-
-
-   
-   Your browser does not support the audio tag.
-
-
-Подписаться по RSS
-
-
-
-
-Музыка ведущим предоставлена и ладно&#8230;&#8203;
-
-
-]]></itunes:summary>
-      <itunes:image href="http://razborpoletov.com/images/razbor_153_text.jpg" />
     </item>
     
   </channel>

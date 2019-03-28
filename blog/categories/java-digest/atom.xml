@@ -4,7 +4,7 @@
   <title><![CDATA[Category: java-digest | Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/blog/categories/java-digest/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2019-03-27T23:28:09+00:00</updated>
+  <updated>2019-03-28T12:46:50+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,34 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 203 — Java Digest — Java 12]]></title>
+    <link href="http://razborpoletov.com/2019/03/episode-203.html"/>
+    <updated>2019-03-28T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2019/03/episode-203</id>
+    <content type="html"><![CDATA[<p>== Гости и участники</p>
+
+<ul>
+<li>https://twitter.com/a_abashev[Алексей Абашев]</li>
+<li>https://twitter.com/olegchir[Олег Чирухин]</li>
+<li>https://twitter.com/andrei_kogun[Андрей Когунь]</li>
+</ul>
+
+
+<p>== Темы</p>
+
+<ul>
+<li>https://jug.ru/2019/03/digest-week-85/[Java Digest]</li>
+</ul>
+
+
+<p>== Полезняшки</p>
+
+<p>. Промокод: RazborPoletovPromo на конференцию JPoint https://jpoint.ru/
+. Промокод: RazborPoletovPromo на конференцию Mobius https://mobiusconf.com/cfp</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 200 — Java Digest — Groovy вернулся!!]]></title>
@@ -94,28 +122,6 @@
 
 <ul>
 <li>https://jug.ru/2018/11/digest-week-81/[Java Дайджест №81]</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 191 — РП: Java — Дайдждест — Красная шапка и проект "Шкура"]]></title>
-    <link href="http://razborpoletov.com/2018/11/episode-191.html"/>
-    <updated>2018-11-06T00:00:00+00:00</updated>
-    <id>http://razborpoletov.com/2018/11/episode-191</id>
-    <content type="html"><![CDATA[<p>== Гости и участники</p>
-
-<ul>
-<li>https://twitter.com/olegchir[Олег Чирухин]</li>
-<li>https://twitter.com/a_abashev[@a_abashev]</li>
-</ul>
-
-
-<p>== Темы</p>
-
-<ul>
-<li>https://jug.ru/2018/11/digest-week-80/[Java Дайджест №80]</li>
 </ul>
 
 ]]></content>
