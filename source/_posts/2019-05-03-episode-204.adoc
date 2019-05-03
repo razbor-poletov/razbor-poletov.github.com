@@ -9,6 +9,7 @@ guests: abashev, yegor256, antonkeks
 == Гости и участники
 
 * https://twitter.com/a_abashev[Алексей Абашев]
+* https://twitter.com/golodnyj[Антон Черноусов]
 * https://www.youtube.com/c/yegor256?sub_confirmation=1[Егор Бугаенко]
 * https://twitter.com/antonkeks[Антон Кекс]
 
