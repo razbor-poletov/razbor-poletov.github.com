@@ -6,8 +6,8 @@
     <atom:link href="http://razborpoletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2019-06-23T10:10:26+00:00</pubDate>
-    <lastBuildDate>2019-06-23T10:10:26+00:00</lastBuildDate>
+    <pubDate>2019-06-23T13:04:47+00:00</pubDate>
+    <lastBuildDate>2019-06-23T13:04:47+00:00</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razborpoletov.com/logoNew.jpg" />
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
@@ -20,7 +20,7 @@
     <media:thumbnail url="http://razborpoletov.com/logoNew.jpg" />
     
     <item>
-      <title>Episode 205 — Classic - Что там вас в энтерпрайзах?</title>
+      <title>Episode 205 — Classic - Что там у вас в энтерпрайзах?</title>
       <link>http://razborpoletov.com/2019/06/episode-205.html</link>
       <pubDate>2019-06-22T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2019/06/episode-205</guid>
