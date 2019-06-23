@@ -6,8 +6,8 @@
     <atom:link href="http://razborpoletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2019-05-16T10:41:04+00:00</pubDate>
-    <lastBuildDate>2019-05-16T10:41:04+00:00</lastBuildDate>
+    <pubDate>2019-06-23T10:10:26+00:00</pubDate>
+    <lastBuildDate>2019-06-23T10:10:26+00:00</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razborpoletov.com/logoNew.jpg" />
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
@@ -18,6 +18,214 @@
     </itunes:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:thumbnail url="http://razborpoletov.com/logoNew.jpg" />
+    
+    <item>
+      <title>Episode 205 — Classic - Что там вас в энтерпрайзах?</title>
+      <link>http://razborpoletov.com/2019/06/episode-205.html</link>
+      <pubDate>2019-06-22T00:00:00+00:00</pubDate>
+      <guid isPermalink="true">http://razborpoletov.com/2019/06/episode-205</guid>
+      <description><![CDATA[<div class="paragraph">
+    <p><a href="http://razborpoletov.com/2019/06/episode-205.html">Комментировать</a>
+    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a></p>
+</div>
+<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://twitter.com/a_abashev">Алексей Абашев</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/antonarhipov">Антон Архипов</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Kotlin теперь главный ЯП для Android <a href="https://3dnews.ru/987162" class="bare">https://3dnews.ru/987162</a></p>
+</li>
+<li>
+<p><a href="https://r2dbc.io/" class="bare">https://r2dbc.io/</a></p>
+</li>
+<li>
+<p>Docker Enterprise 3.0 <a href="https://blog.docker.com/2019/04/announcing-docker-enterprise-3-0/" class="bare">https://blog.docker.com/2019/04/announcing-docker-enterprise-3-0/</a></p>
+</li>
+<li>
+<p>кейноут с DockerCon <a href="https://www.youtube.com/watch?v=H3qcJgSJA6U&amp;feature=youtu.be&amp;mkt_tok=eyJpIjoiT1dRMVpUVXdZV0ZsWXpkaiIsInQiOiJKUWlSZW0wZ0xSbDFzaGNFb3gyMHk3cGtKaktOSkFXaWVJa2dQYUlPczBOSGo0aG8yVEYycEtBeWZrY1JXNFhsRXhpbjdLOGxkU1wvNTJNd2V1Rm9tNTcxellkUVhjV1BkbFBJSXk0U21lWHBidU5NdkloUnpkTHI0UVdkQ2ZyZ2gifQ%3D%3D" class="bare">https://www.youtube.com/watch?v=H3qcJgSJA6U&amp;feature=youtu.be&amp;mkt_tok=eyJpIjoiT1dRMVpUVXdZV0ZsWXpkaiIsInQiOiJKUWlSZW0wZ0xSbDFzaGNFb3gyMHk3cGtKaktOSkFXaWVJa2dQYUlPczBOSGo0aG8yVEYycEtBeWZrY1JXNFhsRXhpbjdLOGxkU1wvNTJNd2V1Rm9tNTcxellkUVhjV1BkbFBJSXk0U21lWHBidU5NdkloUnpkTHI0UVdkQ2ZyZ2gifQ%3D%3D</a></p>
+</li>
+<li>
+<p>Новый logging framework от Google <a href="https://www.infoq.com/news/2019/04/java-logging-framework-flogger" class="bare">https://www.infoq.com/news/2019/04/java-logging-framework-flogger</a></p>
+</li>
+<li>
+<p>Flogger <a href="https://github.com/google/flogger" class="bare">https://github.com/google/flogger</a></p>
+</li>
+<li>
+<p>Чё там с Java EE?</p>
+</li>
+<li>
+<p>Negotiations failed: how Oracle killed Java EE <a href="https://headcrashing.wordpress.com/2019/05/03/negotiations-failed-how-oracle-killed-java-ee/" class="bare">https://headcrashing.wordpress.com/2019/05/03/negotiations-failed-how-oracle-killed-java-ee/</a></p>
+</li>
+<li>
+<p>Eclipse.org meeting minutes 26-03-2019 <a href="https://www.eclipse.org/org/foundation/boardminutes/2019_03_26_Minutes.pdf" class="bare">https://www.eclipse.org/org/foundation/boardminutes/2019_03_26_Minutes.pdf</a></p>
+</li>
+<li>
+<p>Mike Milinkovich: Update on Java EE rights to Java trademarks <a href="https://blogs.eclipse.org/post/mike-milinkovich/update-jakarta-ee-rights-java-trademarks" class="bare">https://blogs.eclipse.org/post/mike-milinkovich/update-jakarta-ee-rights-java-trademarks</a></p>
+</li>
+<li>
+<p>Dmitry Kornilov: Jakarta EE without &#8216;javax&#8217; <a href="https://dmitrykornilov.net/2019/05/03/thoughts-about-jakarta-ee-future-without-javax/" class="bare">https://dmitrykornilov.net/2019/05/03/thoughts-about-jakarta-ee-future-without-javax/</a></p>
+</li>
+<li>
+<p>Oracle&#8217;s POV: Jakarta EE Update <a href="https://blogs.oracle.com/theaquarium/jakarta-ee-update" class="bare">https://blogs.oracle.com/theaquarium/jakarta-ee-update</a></p>
+</li>
+<li>
+<p>Mark Little: Jakarta EE and the future <a href="https://planet.jboss.org/post/jakarta_ee_and_the_future" class="bare">https://planet.jboss.org/post/jakarta_ee_and_the_future</a></p>
+</li>
+<li>
+<p>Mark Little: To Enterprise Java and Beyond <a href="http://markclittle.blogspot.com/2019/05/to-enterprise-java-and-beyond-personal.html" class="bare">http://markclittle.blogspot.com/2019/05/to-enterprise-java-and-beyond-personal.html</a></p>
+</li>
+<li>
+<p>David Blevins: Jakarta EE - a new hope <a href="https://www.tomitribe.com/blog/jakarta-ee-a-new-hope/" class="bare">https://www.tomitribe.com/blog/jakarta-ee-a-new-hope/</a></p>
+</li>
+<li>
+<p>Дискуссия - как теперь быть <a href="https://www.eclipse.org/lists/jakartaee-platform-dev/msg00029.html" class="bare">https://www.eclipse.org/lists/jakartaee-platform-dev/msg00029.html</a></p>
+</li>
+<li>
+<p>Mark Struberg - The Way forward for JakartaEE packages <a href="https://struberg.wordpress.com/2019/05/06/the-way-forward-for-jakartaee-packages" class="bare">https://struberg.wordpress.com/2019/05/06/the-way-forward-for-jakartaee-packages</a></p>
+</li>
+<li>
+<p>Nicolai Parlog: Jakarta EE, javax, And A Week Of Turmoil <a href="https://blog.codefx.org/community/jakarta-ee-javax-and-a-week-of-turmoil/" class="bare">https://blog.codefx.org/community/jakarta-ee-javax-and-a-week-of-turmoil/</a></p>
+</li>
+<li>
+<p>GitHub обзавёлся бинарной репозиторией <a href="https://github.com/features/package-registry" class="bare">https://github.com/features/package-registry</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Полезняшки">Полезняшки</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>AWS overview for beginners <a href="https://github.com/open-guides/og-aws" class="bare">https://github.com/open-guides/og-aws</a></p>
+</li>
+<li>
+<p>YourKit YouMonitor <a href="https://www.yourkit.com/youmonitor" class="bare">https://www.yourkit.com/youmonitor</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description>
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_205.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_205.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2019/06/episode-205.html
+Помочь подкасту - https://www.patreon.com/razborpoletov
+
+Гости и участники
+
+
+
+
+Алексей Абашев
+
+
+Антон Архипов
+
+
+
+
+
+
+Темы
+
+
+
+
+Kotlin теперь главный ЯП для Android https://3dnews.ru/987162
+
+
+https://r2dbc.io/
+
+
+Docker Enterprise 3.0 https://blog.docker.com/2019/04/announcing-docker-enterprise-3-0/
+
+
+кейноут с DockerCon https://www.youtube.com/watch?v=H3qcJgSJA6U&amp;feature=youtu.be&amp;mkt_tok=eyJpIjoiT1dRMVpUVXdZV0ZsWXpkaiIsInQiOiJKUWlSZW0wZ0xSbDFzaGNFb3gyMHk3cGtKaktOSkFXaWVJa2dQYUlPczBOSGo0aG8yVEYycEtBeWZrY1JXNFhsRXhpbjdLOGxkU1wvNTJNd2V1Rm9tNTcxellkUVhjV1BkbFBJSXk0U21lWHBidU5NdkloUnpkTHI0UVdkQ2ZyZ2gifQ%3D%3D
+
+
+Новый logging framework от Google https://www.infoq.com/news/2019/04/java-logging-framework-flogger
+
+
+Flogger https://github.com/google/flogger
+
+
+Чё там с Java EE?
+
+
+Negotiations failed: how Oracle killed Java EE https://headcrashing.wordpress.com/2019/05/03/negotiations-failed-how-oracle-killed-java-ee/
+
+
+Eclipse.org meeting minutes 26-03-2019 https://www.eclipse.org/org/foundation/boardminutes/2019_03_26_Minutes.pdf
+
+
+Mike Milinkovich: Update on Java EE rights to Java trademarks https://blogs.eclipse.org/post/mike-milinkovich/update-jakarta-ee-rights-java-trademarks
+
+
+Dmitry Kornilov: Jakarta EE without 'javax' https://dmitrykornilov.net/2019/05/03/thoughts-about-jakarta-ee-future-without-javax/
+
+
+Oracle&#8217;s POV: Jakarta EE Update https://blogs.oracle.com/theaquarium/jakarta-ee-update
+
+
+Mark Little: Jakarta EE and the future https://planet.jboss.org/post/jakarta_ee_and_the_future
+
+
+Mark Little: To Enterprise Java and Beyond http://markclittle.blogspot.com/2019/05/to-enterprise-java-and-beyond-personal.html
+
+
+David Blevins: Jakarta EE - a new hope https://www.tomitribe.com/blog/jakarta-ee-a-new-hope/
+
+
+Дискуссия - как теперь быть https://www.eclipse.org/lists/jakartaee-platform-dev/msg00029.html
+
+
+Mark Struberg - The Way forward for JakartaEE packages https://struberg.wordpress.com/2019/05/06/the-way-forward-for-jakartaee-packages
+
+
+Nicolai Parlog: Jakarta EE, javax, And A Week Of Turmoil https://blog.codefx.org/community/jakarta-ee-javax-and-a-week-of-turmoil/
+
+
+GitHub обзавёлся бинарной репозиторией https://github.com/features/package-registry
+
+
+
+
+
+
+Полезняшки
+
+
+
+
+AWS overview for beginners https://github.com/open-guides/og-aws
+
+
+YourKit YouMonitor https://www.yourkit.com/youmonitor
+
+
+
+
+]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_205_text.jpg" />
+    </item>
     
     <item>
       <title>Episode 204 — JPoint 2019 — Craftsmen vs. QA</title>
@@ -10875,162 +11083,6 @@ twitter:
 
 ]]></itunes:summary>
       <itunes:image href="http://razborpoletov.com/images/razbor_156_text.jpg" />
-    </item>
-    
-    <item>
-      <title>Episode 155 — РП: Конференции - DevNexus и выгорание</title>
-      <link>http://razborpoletov.com/2018/03/episode-155.html</link>
-      <pubDate>2018-03-02T00:00:00+00:00</pubDate>
-      <guid isPermalink="true">http://razborpoletov.com/2018/03/episode-155</guid>
-      <description><![CDATA[<div class="paragraph">
-    <p><a href="http://razborpoletov.com/2018/03/episode-155.html">Комментировать</a>
-    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a></p>
-</div>
-<div id="preamble">
-<div class="sectionbody">
-<div class="paragraph">
-<p>Специальный выпуск, записанный на конференции DevNexus 2018</p>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
-<div class="sectionbody">
-<div class="listingblock">
-<div class="content">
-<pre>👇 👇 👇 Официальный стикерпак Разбора Полетов и полуофициальный Чат pro.jvm в Телеграме 👇 👇 👇</pre>
-</div>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://t.me/addstickers/razbor_poletov">стикеры</a></p>
-</li>
-<li>
-<p><a href="https://t.me/jvmchat">pro.jvm</a></p>
-</li>
-</ul>
-</div>
-<hr>
-<div class="paragraph">
-<p>Наши контакты:</p>
-</div>
-<div class="paragraph">
-<p>Официальный сайт — <a href="https://razborpoletov.com">https://razborpoletov.com</a></p>
-</div>
-<div class="paragraph">
-<p><a href="https://razborpoletov.com/broadcast.html">Информация о вещании</a></p>
-</div>
-<div class="paragraph">
-<p>Гости и участники:</p>
-</div>
-<div class="paragraph">
-<p>twitter:</p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://twitter.com/antonarhipov">@antonarhipov</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/jbaruch">@jbaruch</a></p>
-</li>
-</ul>
-</div>
-<!-- player goes here-->
-
-<audio preload="none">
-   <source src="http://traffic.libsyn.com/razborpoletov/razbor_155.mp3" type="audio/mp3" />
-   Your browser does not support the audio tag.
-</audio>
-<div class="paragraph">
-<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
-</div>
-<!-- episode file link goes here-->
-<a href="http://traffic.libsyn.com/razborpoletov/razbor_155.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="https://razborpoletov.com/images/mp3.png" width="64" /></a>
-<div class="paragraph">
-<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
-</div>
-</div>
-</div>]]></description>
-      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_155.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_155.mp3" fileSize="" type="audio/mpeg" />
-      <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2018/03/episode-155.html
-Помочь подкасту - https://www.patreon.com/razborpoletov
-
-
-
-Специальный выпуск, записанный на конференции DevNexus 2018
-
-
-
-
-Партнеры выпуска
-
-
-
-👇 👇 👇 Официальный стикерпак Разбора Полетов и полуофициальный Чат pro.jvm в Телеграме 👇 👇 👇
-
-
-
-
-
-стикеры
-
-
-pro.jvm
-
-
-
-
-
-Наши контакты:
-
-
-Официальный сайт — https://razborpoletov.com
-
-
-Информация о вещании
-
-
-Гости и участники:
-
-
-twitter:
-
-
-
-
-@antonarhipov
-
-
-@gamussa
-
-
-@jbaruch
-
-
-
-
-
-
-   
-   Your browser does not support the audio tag.
-
-
-Подписаться по RSS
-
-
-
-
-Музыка ведущим предоставлена и ладно&#8230;&#8203;
-
-
-]]></itunes:summary>
-      <itunes:image href="http://razborpoletov.com/images/razbor_155_text.jpg" />
     </item>
     
   </channel>
