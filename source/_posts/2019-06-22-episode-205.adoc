@@ -1,7 +1,7 @@
 ---
 layout: episode
 episode: 205
-title: "Episode 205 — Classic - Что там вас в энтерпрайзах?"
+title: "Episode 205 — Classic - Что там у вас в энтерпрайзах?"
 category: classic
 guests: abashev, antonarhipov
 ---
