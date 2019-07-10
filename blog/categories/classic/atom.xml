@@ -4,7 +4,7 @@
   <title><![CDATA[Category: classic | Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/blog/categories/classic/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2019-07-10T21:09:49+00:00</updated>
+  <updated>2019-07-10T21:10:53+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -32,33 +32,21 @@
 <li>https://3dnews.ru/987162[Kotlin теперь главный ЯП для Android]</li>
 <li>https://r2dbc.io/[R2DBC]</li>
 <li>https://blog.docker.com/2019/04/announcing-docker-enterprise-3-0/[Docker Enterprise 3.0]
-
-<ul>
-<li>https://www.youtube.com/watch?v=H3qcJgSJA6U&amp;feature=youtu.be&amp;mkt_tok=eyJpIjoiT1dRMVpUVXdZV0ZsWXpkaiIsInQiOiJKUWlSZW0wZ0xSbDFzaGNFb3gyMHk3cGtKaktOSkFXaWVJa2dQYUlPczBOSGo0aG8yVEYycEtBeWZrY1JXNFhsRXhpbjdLOGxkU1wvNTJNd2V1Rm9tNTcxellkUVhjV1BkbFBJSXk0U21lWHBidU5NdkloUnpkTHI0UVdkQ2ZyZ2gifQ%3D%3D[кейноут с DockerCon]</li>
-</ul>
-</li>
+  ** https://www.youtube.com/watch?v=H3qcJgSJA6U&amp;feature=youtu.be&amp;mkt_tok=eyJpIjoiT1dRMVpUVXdZV0ZsWXpkaiIsInQiOiJKUWlSZW0wZ0xSbDFzaGNFb3gyMHk3cGtKaktOSkFXaWVJa2dQYUlPczBOSGo0aG8yVEYycEtBeWZrY1JXNFhsRXhpbjdLOGxkU1wvNTJNd2V1Rm9tNTcxellkUVhjV1BkbFBJSXk0U21lWHBidU5NdkloUnpkTHI0UVdkQ2ZyZ2gifQ%3D%3D[кейноут с DockerCon]</li>
 <li>https://www.infoq.com/news/2019/04/java-logging-framework-flogger[Новый logging framework от Google]
-
-<ul>
-<li>https://github.com/google/flogger[Flogger]</li>
-</ul>
-</li>
+  ** https://github.com/google/flogger[Flogger]</li>
 <li>Чё там с Java EE?
-
-<ul>
-<li>https://headcrashing.wordpress.com/2019/05/03/negotiations-failed-how-oracle-killed-java-ee/[Negotiations failed: how Oracle killed Java EE]</li>
-<li>https://www.eclipse.org/org/foundation/boardminutes/2019_03_26_Minutes.pdf[Eclipse.org meeting minutes 26-03-2019]</li>
-<li>https://blogs.eclipse.org/post/mike-milinkovich/update-jakarta-ee-rights-java-trademarks[Mike Milinkovich: Update on Java EE rights to Java trademarks]</li>
-<li>https://dmitrykornilov.net/2019/05/03/thoughts-about-jakarta-ee-future-without-javax/[Dmitry Kornilov: Jakarta EE without 'javax']</li>
-<li>https://blogs.oracle.com/theaquarium/jakarta-ee-update[Oracle's POV: Jakarta EE Update]</li>
-<li>https://planet.jboss.org/post/jakarta_ee_and_the_future[Mark Little: Jakarta EE and the future]</li>
-<li>http://markclittle.blogspot.com/2019/05/to-enterprise-java-and-beyond-personal.html[Mark Little: To Enterprise Java and Beyond]</li>
-<li>https://www.tomitribe.com/blog/jakarta-ee-a-new-hope/[David Blevins: Jakarta EE - a new hope]</li>
-<li>https://www.eclipse.org/lists/jakartaee-platform-dev/msg00029.html[Дискуссия - как теперь быть]</li>
-<li>https://struberg.wordpress.com/2019/05/06/the-way-forward-for-jakartaee-packages[Mark Struberg - The Way forward for JakartaEE packages]</li>
-<li>https://blog.codefx.org/community/jakarta-ee-javax-and-a-week-of-turmoil/[Nicolai Parlog: Jakarta EE, javax, And A Week Of Turmoil]</li>
-</ul>
-</li>
+  <strong> https://headcrashing.wordpress.com/2019/05/03/negotiations-failed-how-oracle-killed-java-ee/[Negotiations failed: how Oracle killed Java EE]
+  </strong> https://www.eclipse.org/org/foundation/boardminutes/2019_03_26_Minutes.pdf[Eclipse.org meeting minutes 26-03-2019]
+  <strong> https://blogs.eclipse.org/post/mike-milinkovich/update-jakarta-ee-rights-java-trademarks[Mike Milinkovich: Update on Java EE rights to Java trademarks]
+  </strong> https://dmitrykornilov.net/2019/05/03/thoughts-about-jakarta-ee-future-without-javax/[Dmitry Kornilov: Jakarta EE without 'javax']
+  <strong> https://blogs.oracle.com/theaquarium/jakarta-ee-update[Oracle's POV: Jakarta EE Update]
+  </strong> https://planet.jboss.org/post/jakarta_ee_and_the_future[Mark Little: Jakarta EE and the future]
+  <strong> http://markclittle.blogspot.com/2019/05/to-enterprise-java-and-beyond-personal.html[Mark Little: To Enterprise Java and Beyond]
+  </strong> https://www.tomitribe.com/blog/jakarta-ee-a-new-hope/[David Blevins: Jakarta EE - a new hope]
+  <strong> https://www.eclipse.org/lists/jakartaee-platform-dev/msg00029.html[Дискуссия - как теперь быть]
+  </strong> https://struberg.wordpress.com/2019/05/06/the-way-forward-for-jakartaee-packages[Mark Struberg - The Way forward for JakartaEE packages]
+  ** https://blog.codefx.org/community/jakarta-ee-javax-and-a-week-of-turmoil/[Nicolai Parlog: Jakarta EE, javax, And A Week Of Turmoil]</li>
 <li>https://github.com/features/package-registry[GitHub обзавёлся бинарной репозиторией]</li>
 </ul>
 
