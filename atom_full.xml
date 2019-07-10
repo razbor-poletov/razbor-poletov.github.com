@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2019-07-10T21:03:24+00:00</updated>
+  <updated>2019-07-10T21:09:49+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -39,61 +39,61 @@
 <div class="ulist">
 <ul>
 <li>
-<p>Kotlin теперь главный ЯП для Android <a href="https://3dnews.ru/987162" class="bare">https://3dnews.ru/987162</a></p>
+<p><a href="https://3dnews.ru/987162">Kotlin теперь главный ЯП для Android</a></p>
 </li>
 <li>
-<p><a href="https://r2dbc.io/" class="bare">https://r2dbc.io/</a></p>
+<p><a href="https://r2dbc.io/">R2DBC</a></p>
 </li>
 <li>
-<p>Docker Enterprise 3.0 <a href="https://blog.docker.com/2019/04/announcing-docker-enterprise-3-0/" class="bare">https://blog.docker.com/2019/04/announcing-docker-enterprise-3-0/</a></p>
+<p><a href="https://blog.docker.com/2019/04/announcing-docker-enterprise-3-0/">Docker Enterprise 3.0</a></p>
 </li>
 <li>
-<p>кейноут с DockerCon <a href="https://www.youtube.com/watch?v=H3qcJgSJA6U&amp;feature=youtu.be&amp;mkt_tok=eyJpIjoiT1dRMVpUVXdZV0ZsWXpkaiIsInQiOiJKUWlSZW0wZ0xSbDFzaGNFb3gyMHk3cGtKaktOSkFXaWVJa2dQYUlPczBOSGo0aG8yVEYycEtBeWZrY1JXNFhsRXhpbjdLOGxkU1wvNTJNd2V1Rm9tNTcxellkUVhjV1BkbFBJSXk0U21lWHBidU5NdkloUnpkTHI0UVdkQ2ZyZ2gifQ%3D%3D" class="bare">https://www.youtube.com/watch?v=H3qcJgSJA6U&amp;feature=youtu.be&amp;mkt_tok=eyJpIjoiT1dRMVpUVXdZV0ZsWXpkaiIsInQiOiJKUWlSZW0wZ0xSbDFzaGNFb3gyMHk3cGtKaktOSkFXaWVJa2dQYUlPczBOSGo0aG8yVEYycEtBeWZrY1JXNFhsRXhpbjdLOGxkU1wvNTJNd2V1Rm9tNTcxellkUVhjV1BkbFBJSXk0U21lWHBidU5NdkloUnpkTHI0UVdkQ2ZyZ2gifQ%3D%3D</a></p>
+<p><a href="https://www.youtube.com/watch?v=H3qcJgSJA6U&amp;feature=youtu.be&amp;mkt_tok=eyJpIjoiT1dRMVpUVXdZV0ZsWXpkaiIsInQiOiJKUWlSZW0wZ0xSbDFzaGNFb3gyMHk3cGtKaktOSkFXaWVJa2dQYUlPczBOSGo0aG8yVEYycEtBeWZrY1JXNFhsRXhpbjdLOGxkU1wvNTJNd2V1Rm9tNTcxellkUVhjV1BkbFBJSXk0U21lWHBidU5NdkloUnpkTHI0UVdkQ2ZyZ2gifQ%3D%3D">кейноут с DockerCon</a></p>
 </li>
 <li>
-<p>Новый logging framework от Google <a href="https://www.infoq.com/news/2019/04/java-logging-framework-flogger" class="bare">https://www.infoq.com/news/2019/04/java-logging-framework-flogger</a></p>
+<p><a href="https://www.infoq.com/news/2019/04/java-logging-framework-flogger">Новый logging framework от Google</a></p>
 </li>
 <li>
-<p>Flogger <a href="https://github.com/google/flogger" class="bare">https://github.com/google/flogger</a></p>
+<p><a href="https://github.com/google/flogger">Flogger</a></p>
 </li>
 <li>
 <p>Чё там с Java EE?</p>
 </li>
 <li>
-<p>Negotiations failed: how Oracle killed Java EE <a href="https://headcrashing.wordpress.com/2019/05/03/negotiations-failed-how-oracle-killed-java-ee/" class="bare">https://headcrashing.wordpress.com/2019/05/03/negotiations-failed-how-oracle-killed-java-ee/</a></p>
+<p><a href="https://headcrashing.wordpress.com/2019/05/03/negotiations-failed-how-oracle-killed-java-ee/">Negotiations failed: how Oracle killed Java EE</a></p>
 </li>
 <li>
-<p>Eclipse.org meeting minutes 26-03-2019 <a href="https://www.eclipse.org/org/foundation/boardminutes/2019_03_26_Minutes.pdf" class="bare">https://www.eclipse.org/org/foundation/boardminutes/2019_03_26_Minutes.pdf</a></p>
+<p><a href="https://www.eclipse.org/org/foundation/boardminutes/2019_03_26_Minutes.pdf">Eclipse.org meeting minutes 26-03-2019</a></p>
 </li>
 <li>
-<p>Mike Milinkovich: Update on Java EE rights to Java trademarks <a href="https://blogs.eclipse.org/post/mike-milinkovich/update-jakarta-ee-rights-java-trademarks" class="bare">https://blogs.eclipse.org/post/mike-milinkovich/update-jakarta-ee-rights-java-trademarks</a></p>
+<p><a href="https://blogs.eclipse.org/post/mike-milinkovich/update-jakarta-ee-rights-java-trademarks">Mike Milinkovich: Update on Java EE rights to Java trademarks</a></p>
 </li>
 <li>
-<p>Dmitry Kornilov: Jakarta EE without &#8216;javax&#8217; <a href="https://dmitrykornilov.net/2019/05/03/thoughts-about-jakarta-ee-future-without-javax/" class="bare">https://dmitrykornilov.net/2019/05/03/thoughts-about-jakarta-ee-future-without-javax/</a></p>
+<p><a href="https://dmitrykornilov.net/2019/05/03/thoughts-about-jakarta-ee-future-without-javax/">Dmitry Kornilov: Jakarta EE without &#8216;javax&#8217;</a></p>
 </li>
 <li>
-<p>Oracle&#8217;s POV: Jakarta EE Update <a href="https://blogs.oracle.com/theaquarium/jakarta-ee-update" class="bare">https://blogs.oracle.com/theaquarium/jakarta-ee-update</a></p>
+<p><a href="https://blogs.oracle.com/theaquarium/jakarta-ee-update">Oracle&#8217;s POV: Jakarta EE Update</a></p>
 </li>
 <li>
-<p>Mark Little: Jakarta EE and the future <a href="https://planet.jboss.org/post/jakarta_ee_and_the_future" class="bare">https://planet.jboss.org/post/jakarta_ee_and_the_future</a></p>
+<p><a href="https://planet.jboss.org/post/jakarta_ee_and_the_future">Mark Little: Jakarta EE and the future</a></p>
 </li>
 <li>
-<p>Mark Little: To Enterprise Java and Beyond <a href="http://markclittle.blogspot.com/2019/05/to-enterprise-java-and-beyond-personal.html" class="bare">http://markclittle.blogspot.com/2019/05/to-enterprise-java-and-beyond-personal.html</a></p>
+<p><a href="http://markclittle.blogspot.com/2019/05/to-enterprise-java-and-beyond-personal.html">Mark Little: To Enterprise Java and Beyond</a></p>
 </li>
 <li>
-<p>David Blevins: Jakarta EE - a new hope <a href="https://www.tomitribe.com/blog/jakarta-ee-a-new-hope/" class="bare">https://www.tomitribe.com/blog/jakarta-ee-a-new-hope/</a></p>
+<p><a href="https://www.tomitribe.com/blog/jakarta-ee-a-new-hope/">David Blevins: Jakarta EE - a new hope</a></p>
 </li>
 <li>
-<p>Дискуссия - как теперь быть <a href="https://www.eclipse.org/lists/jakartaee-platform-dev/msg00029.html" class="bare">https://www.eclipse.org/lists/jakartaee-platform-dev/msg00029.html</a></p>
+<p><a href="https://www.eclipse.org/lists/jakartaee-platform-dev/msg00029.html">Дискуссия - как теперь быть</a></p>
 </li>
 <li>
-<p>Mark Struberg - The Way forward for JakartaEE packages <a href="https://struberg.wordpress.com/2019/05/06/the-way-forward-for-jakartaee-packages" class="bare">https://struberg.wordpress.com/2019/05/06/the-way-forward-for-jakartaee-packages</a></p>
+<p><a href="https://struberg.wordpress.com/2019/05/06/the-way-forward-for-jakartaee-packages">Mark Struberg - The Way forward for JakartaEE packages</a></p>
 </li>
 <li>
-<p>Nicolai Parlog: Jakarta EE, javax, And A Week Of Turmoil <a href="https://blog.codefx.org/community/jakarta-ee-javax-and-a-week-of-turmoil/" class="bare">https://blog.codefx.org/community/jakarta-ee-javax-and-a-week-of-turmoil/</a></p>
+<p><a href="https://blog.codefx.org/community/jakarta-ee-javax-and-a-week-of-turmoil/">Nicolai Parlog: Jakarta EE, javax, And A Week Of Turmoil</a></p>
 </li>
 <li>
-<p>GitHub обзавёлся бинарной репозиторией <a href="https://github.com/features/package-registry" class="bare">https://github.com/features/package-registry</a></p>
+<p><a href="https://github.com/features/package-registry">GitHub обзавёлся бинарной репозиторией</a></p>
 </li>
 </ul>
 </div>
@@ -105,10 +105,10 @@
 <div class="ulist">
 <ul>
 <li>
-<p>AWS overview for beginners <a href="https://github.com/open-guides/og-aws" class="bare">https://github.com/open-guides/og-aws</a></p>
+<p><a href="https://github.com/open-guides/og-aws">AWS overview for beginners</a></p>
 </li>
 <li>
-<p>YourKit YouMonitor <a href="https://www.yourkit.com/youmonitor" class="bare">https://www.yourkit.com/youmonitor</a></p>
+<p><a href="https://www.yourkit.com/youmonitor">YourKit YouMonitor</a></p>
 </li>
 </ul>
 </div>
