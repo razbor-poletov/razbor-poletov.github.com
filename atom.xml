@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2019-07-10T21:10:53+00:00</updated>
+  <updated>2019-07-11T09:21:41+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,125 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 206 — Interview - Нам нечего бояться!]]></title>
+    <link href="http://razborpoletov.com/2019/07/episode-206.html"/>
+    <updated>2019-07-11T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2019/07/episode-206</id>
+    <content type="html"><![CDATA[<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://apple.co/2Psx8yd" class="bare">https://apple.co/2Psx8yd</a> <a href="https://t.me/progulka" class="bare">https://t.me/progulka</a> - Иван Ямщиков</p>
+</li>
+<li>
+<p><a href="https://twitter.com/it_improve">Андрей Дмитриев</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/brekelov">Всеволод Брекелов</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/olegchir">Олег Чирухин</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/a_abashev">Алексей Абашев</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Новости из мира AI</p>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://www.digitaltrends.com/mobile/why-was-there-no-ai-talk-from-apple-at-wwdc-2019/">Apple на WWDC  ничего не представила из улучшений в AI. При том, что Google представил улучшенную версию Ассистента.</a>
+(При том что сейчас в Apple
+<a href="https://www.apple.com/ru/leadership/john-giannandrea/" class="bare">https://www.apple.com/ru/leadership/john-giannandrea/</a> который до этого долго работал в Google)</p>
+</li>
+<li>
+<p>Последние статьи у эпл про AI <a href="https://machinelearning.apple.com/" class="bare">https://machinelearning.apple.com/</a> (2018)</p>
+</li>
+<li>
+<p><a href="https://www.ixbt.com/news/2019/06/06/apple-drive-ai.html" class="bare">https://www.ixbt.com/news/2019/06/06/apple-drive-ai.html</a></p>
+</li>
+<li>
+<p>AI и игры&#8201;&#8212;&#8201;набирает тренд</p>
+</li>
+<li>
+<p><a href="https://deepmind.com/blog/alphastar-mastering-real-time-strategy-game-starcraft-ii/" class="bare">https://deepmind.com/blog/alphastar-mastering-real-time-strategy-game-starcraft-ii/</a></p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Проблемы с AI</p>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://www.wired.com/story/facebook-finding-problems-artificial-intelligence-too/" class="bare">https://www.wired.com/story/facebook-finding-problems-artificial-intelligence-too/</a> [Яндекс аура]</p>
+</li>
+<li>
+<p><a href="https://3dnews.ru/984361/obzor-yandex-aura" class="bare">https://3dnews.ru/984361/obzor-yandex-aura</a></p>
+</li>
+<li>
+<p><a href="https://yandex.ru/aura" class="bare">https://yandex.ru/aura</a></p>
+</li>
+<li>
+<p><a href="http://ai-news.ru/2019/06/na_konferencii_amazon_re_mars_po_iskusstvennomu_intellektu_i_robototehnik.html" class="bare">http://ai-news.ru/2019/06/na_konferencii_amazon_re_mars_po_iskusstvennomu_intellektu_i_robototehnik.html</a></p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Научные статьи/научные конференции/”обычные” конференции</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Полезняшки">Полезняшки</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://ai.facebook.com/tools/" class="bare">https://ai.facebook.com/tools/</a></p>
+</li>
+<li>
+<p><a href="https://ai.google/" class="bare">https://ai.google/</a></p>
+</li>
+<li>
+<p><a href="https://www.amazon.com/AI-Superpowers-China-Silicon-Valley-ebook/dp/B0795DNWCF" class="bare">https://www.amazon.com/AI-Superpowers-China-Silicon-Valley-ebook/dp/B0795DNWCF</a></p>
+</li>
+<li>
+<p><a href="https://www.deeplearningbook.org" class="bare">https://www.deeplearningbook.org</a></p>
+</li>
+<li>
+<p><a href="https://www.piter.com/product/glubokoe-obuchenie" class="bare">https://www.piter.com/product/glubokoe-obuchenie</a></p>
+</li>
+<li>
+<p><a href="https://en.wikipedia.org/wiki/AI_Superpowers" class="bare">https://en.wikipedia.org/wiki/AI_Superpowers</a></p>
+</li>
+<li>
+<p><a href="https://en.wikipedia.org/wiki/The_Information:_A_History,_a_Theory,_a_Flood" class="bare">https://en.wikipedia.org/wiki/The_Information:_A_History,_a_Theory,_a_Flood</a></p>
+</li>
+<li>
+<p><a href="http://algorithmstoliveby.com" class="bare">http://algorithmstoliveby.com</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 205 — Classic - Что там у вас в энтерпрайзах?]]></title>
@@ -5389,118 +5508,6 @@ p.s. Если идете на JPoint 2018, то дослушайте до кон
 </div>
 <!-- episode file link goes here-->
 <a href="http://traffic.libsyn.com/razborpoletov/razbor_157.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="https://razborpoletov.com/images/mp3.png" width="64" /></a>
-<div class="paragraph">
-<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
-</div>
-</div>
-</div>]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 156 — РП: Фронтенд - JavaScript и мемасики]]></title>
-    <link href="http://razborpoletov.com/2018/03/episode-156.html"/>
-    <updated>2018-03-27T00:00:00+00:00</updated>
-    <id>http://razborpoletov.com/2018/03/episode-156</id>
-    <content type="html"><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="paragraph">
-<p>МОЛНИЯ!!! Промо конференции <a href="https://jpoint.ru/">JPoint</a> в Москве!</p>
-</div>
-<div class="paragraph">
-<p>С кодом <strong>RazborJPoint</strong> вам будет предоставлена скидка на билет!
-p.s. Если идете на JPoint 2018, то дослушайте до конца, там для вас есть конкурс на футболку!</p>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
-<div class="sectionbody">
-<div class="listingblock">
-<div class="content">
-<pre>👇 👇 👇 Официальный стикерпак Разбора Полетов и полуофициальный Чат pro.jvm в Телеграме 👇 👇 👇</pre>
-</div>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://t.me/addstickers/razbor_poletov">стикеры</a></p>
-</li>
-<li>
-<p><a href="https://t.me/jvmchat">pro.jvm</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Гость">Гость</h2>
-<div class="sectionbody">
-<div class="paragraph">
-<p>В гостях у РП <a href="https://twitter.com/vkozulya">легендарный Козуля</a>.
-Мы, конечно, начнем с фронтенда, но скорее всего скатимся в мемасики.</p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p>Канал <a href="https://t.me/PROprgmr">«Программируем с Козулей»</a></p>
-</li>
-<li>
-<p>Канал с <a href="https://t.me/govnokod">мемасиками от Козули</a></p>
-</li>
-</ul>
-</div>
-<hr>
-<div class="paragraph">
-<p>Наши контакты:</p>
-</div>
-<div class="paragraph">
-<p>Официальный сайт — <a href="https://razborpoletov.com">https://razborpoletov.com</a></p>
-</div>
-<div class="paragraph">
-<p><a href="https://razborpoletov.com/broadcast.html">Информация о вещании</a></p>
-</div>
-<div class="paragraph">
-<p>Гости и участники:</p>
-</div>
-<div class="paragraph">
-<p>twitter:</p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/jbaruch">@jbaruch</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/shipilev">@shipilev</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/23derevo">@23derevo</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/olegchir">@olegchir‬</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/ligolnik">@ligolnik</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/vkozulya">@vkozulya</a></p>
-</li>
-</ul>
-</div>
-<!-- player goes here-->
-
-<audio preload="none">
-   <source src="http://traffic.libsyn.com/razborpoletov/razbor_156.mp3" type="audio/mp3" />
-   Your browser does not support the audio tag.
-</audio>
-<div class="paragraph">
-<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
-</div>
-<!-- episode file link goes here-->
-<a href="http://traffic.libsyn.com/razborpoletov/razbor_156.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="https://razborpoletov.com/images/mp3.png" width="64" /></a>
 <div class="paragraph">
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
 </div>

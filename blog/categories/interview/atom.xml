@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: interview | Подкаст «Разбор Полетов»]]></title>
+  <link href="http://razborpoletov.com/blog/categories/interview/atom.xml" rel="self"/>
+  <link href="http://razborpoletov.com/"/>
+  <updated>2019-07-11T09:21:41+00:00</updated>
+  <id>http://razborpoletov.com/</id>
+  <author>
+    <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
+    <email><![CDATA[admin@razborpoletov.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 206 — Interview - Нам нечего бояться!]]></title>
+    <link href="http://razborpoletov.com/2019/07/episode-206.html"/>
+    <updated>2019-07-11T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2019/07/episode-206</id>
+    <content type="html"><![CDATA[<p>== Гости и участники</p>
+
+<ul>
+<li>https://apple.co/2Psx8yd https://t.me/progulka - Иван Ямщиков</li>
+<li>https://twitter.com/it_improve[Андрей Дмитриев]</li>
+<li>https://twitter.com/brekelov[Всеволод Брекелов]</li>
+<li>https://twitter.com/olegchir[Олег Чирухин]</li>
+<li>https://twitter.com/a_abashev[Алексей Абашев]</li>
+</ul>
+
+
+<p>== Темы</p>
+
+<ul>
+<li>Новости из мира AI
+<strong> https://www.digitaltrends.com/mobile/why-was-there-no-ai-talk-from-apple-at-wwdc-2019/[Apple на WWDC  ничего не представила из улучшений в AI. При том, что Google представил улучшенную версию Ассистента.]
+(При том что сейчас в Apple
+https://www.apple.com/ru/leadership/john-giannandrea/ который до этого долго работал в Google)
+</strong> Последние статьи у эпл про AI https://machinelearning.apple.com/ (2018)
+<strong> https://www.ixbt.com/news/2019/06/06/apple-drive-ai.html
+</strong> AI и игры -- набирает тренд
+** https://deepmind.com/blog/alphastar-mastering-real-time-strategy-game-starcraft-ii/</li>
+<li>Проблемы с AI
+<strong> https://www.wired.com/story/facebook-finding-problems-artificial-intelligence-too/ [Яндекс аура]
+</strong> https://3dnews.ru/984361/obzor-yandex-aura
+<strong> https://yandex.ru/aura
+</strong> http://ai-news.ru/2019/06/na_konferencii_amazon_re_mars_po_iskusstvennomu_intellektu_i_robototehnik.html</li>
+<li>Научные статьи/научные конференции/”обычные” конференции</li>
+</ul>
+
+
+<p>== Полезняшки</p>
+
+<ul>
+<li>https://ai.facebook.com/tools/</li>
+<li>https://ai.google/</li>
+<li>https://www.amazon.com/AI-Superpowers-China-Silicon-Valley-ebook/dp/B0795DNWCF</li>
+<li>https://www.deeplearningbook.org</li>
+<li>https://www.piter.com/product/glubokoe-obuchenie</li>
+<li>https://en.wikipedia.org/wiki/AI_Superpowers</li>
+<li>https://en.wikipedia.org/wiki/The_Information:<em>A_History,</em>a_Theory,_a_Flood</li>
+<li>http://algorithmstoliveby.com</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>

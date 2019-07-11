@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2019-07-10T21:10:53+00:00</updated>
+  <updated>2019-07-11T09:21:41+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,125 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 206 — Interview - Нам нечего бояться!]]></title>
+    <link href="http://razborpoletov.com/2019/07/episode-206.html"/>
+    <updated>2019-07-11T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2019/07/episode-206</id>
+    <content type="html"><![CDATA[<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://apple.co/2Psx8yd" class="bare">https://apple.co/2Psx8yd</a> <a href="https://t.me/progulka" class="bare">https://t.me/progulka</a> - Иван Ямщиков</p>
+</li>
+<li>
+<p><a href="https://twitter.com/it_improve">Андрей Дмитриев</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/brekelov">Всеволод Брекелов</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/olegchir">Олег Чирухин</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/a_abashev">Алексей Абашев</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Новости из мира AI</p>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://www.digitaltrends.com/mobile/why-was-there-no-ai-talk-from-apple-at-wwdc-2019/">Apple на WWDC  ничего не представила из улучшений в AI. При том, что Google представил улучшенную версию Ассистента.</a>
+(При том что сейчас в Apple
+<a href="https://www.apple.com/ru/leadership/john-giannandrea/" class="bare">https://www.apple.com/ru/leadership/john-giannandrea/</a> который до этого долго работал в Google)</p>
+</li>
+<li>
+<p>Последние статьи у эпл про AI <a href="https://machinelearning.apple.com/" class="bare">https://machinelearning.apple.com/</a> (2018)</p>
+</li>
+<li>
+<p><a href="https://www.ixbt.com/news/2019/06/06/apple-drive-ai.html" class="bare">https://www.ixbt.com/news/2019/06/06/apple-drive-ai.html</a></p>
+</li>
+<li>
+<p>AI и игры&#8201;&#8212;&#8201;набирает тренд</p>
+</li>
+<li>
+<p><a href="https://deepmind.com/blog/alphastar-mastering-real-time-strategy-game-starcraft-ii/" class="bare">https://deepmind.com/blog/alphastar-mastering-real-time-strategy-game-starcraft-ii/</a></p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Проблемы с AI</p>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://www.wired.com/story/facebook-finding-problems-artificial-intelligence-too/" class="bare">https://www.wired.com/story/facebook-finding-problems-artificial-intelligence-too/</a> [Яндекс аура]</p>
+</li>
+<li>
+<p><a href="https://3dnews.ru/984361/obzor-yandex-aura" class="bare">https://3dnews.ru/984361/obzor-yandex-aura</a></p>
+</li>
+<li>
+<p><a href="https://yandex.ru/aura" class="bare">https://yandex.ru/aura</a></p>
+</li>
+<li>
+<p><a href="http://ai-news.ru/2019/06/na_konferencii_amazon_re_mars_po_iskusstvennomu_intellektu_i_robototehnik.html" class="bare">http://ai-news.ru/2019/06/na_konferencii_amazon_re_mars_po_iskusstvennomu_intellektu_i_robototehnik.html</a></p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Научные статьи/научные конференции/”обычные” конференции</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Полезняшки">Полезняшки</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://ai.facebook.com/tools/" class="bare">https://ai.facebook.com/tools/</a></p>
+</li>
+<li>
+<p><a href="https://ai.google/" class="bare">https://ai.google/</a></p>
+</li>
+<li>
+<p><a href="https://www.amazon.com/AI-Superpowers-China-Silicon-Valley-ebook/dp/B0795DNWCF" class="bare">https://www.amazon.com/AI-Superpowers-China-Silicon-Valley-ebook/dp/B0795DNWCF</a></p>
+</li>
+<li>
+<p><a href="https://www.deeplearningbook.org" class="bare">https://www.deeplearningbook.org</a></p>
+</li>
+<li>
+<p><a href="https://www.piter.com/product/glubokoe-obuchenie" class="bare">https://www.piter.com/product/glubokoe-obuchenie</a></p>
+</li>
+<li>
+<p><a href="https://en.wikipedia.org/wiki/AI_Superpowers" class="bare">https://en.wikipedia.org/wiki/AI_Superpowers</a></p>
+</li>
+<li>
+<p><a href="https://en.wikipedia.org/wiki/The_Information:_A_History,_a_Theory,_a_Flood" class="bare">https://en.wikipedia.org/wiki/The_Information:_A_History,_a_Theory,_a_Flood</a></p>
+</li>
+<li>
+<p><a href="http://algorithmstoliveby.com" class="bare">http://algorithmstoliveby.com</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 205 — Classic - Что там у вас в энтерпрайзах?]]></title>
