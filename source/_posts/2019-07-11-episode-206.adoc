@@ -1,0 +1,45 @@
+---
+layout: episode
+episode: 206
+title: "Episode 206 — Interview - Нам нечего бояться!"
+category: interview
+guests: abashev, brekelov, olegchir, dmitriev, yamshchikov
+---
+
+== Гости и участники
+
+* https://apple.co/2Psx8yd https://t.me/progulka - Иван Ямщиков
+* https://twitter.com/it_improve[Андрей Дмитриев]
+* https://twitter.com/brekelov[Всеволод Брекелов]
+* https://twitter.com/olegchir[Олег Чирухин]
+* https://twitter.com/a_abashev[Алексей Абашев]
+
+
+== Темы
+
+* Новости из мира AI
+  ** https://www.digitaltrends.com/mobile/why-was-there-no-ai-talk-from-apple-at-wwdc-2019/[Apple на WWDC  ничего не представила из улучшений в AI. При том, что Google представил улучшенную версию Ассистента.]
+(При том что сейчас в Apple 
+https://www.apple.com/ru/leadership/john-giannandrea/ который до этого долго работал в Google)
+  ** Последние статьи у эпл про AI https://machinelearning.apple.com/ (2018)
+  ** https://www.ixbt.com/news/2019/06/06/apple-drive-ai.html 
+  ** AI и игры -- набирает тренд
+  ** https://deepmind.com/blog/alphastar-mastering-real-time-strategy-game-starcraft-ii/
+* Проблемы с AI 
+  ** https://www.wired.com/story/facebook-finding-problems-artificial-intelligence-too/ [Яндекс аура]
+  ** https://3dnews.ru/984361/obzor-yandex-aura
+  ** https://yandex.ru/aura
+  ** http://ai-news.ru/2019/06/na_konferencii_amazon_re_mars_po_iskusstvennomu_intellektu_i_robototehnik.html
+* Научные статьи/научные конференции/”обычные” конференции
+
+== Полезняшки
+
+* https://ai.facebook.com/tools/
+* https://ai.google/
+* https://www.amazon.com/AI-Superpowers-China-Silicon-Valley-ebook/dp/B0795DNWCF 
+* https://www.deeplearningbook.org
+* https://www.piter.com/product/glubokoe-obuchenie
+* https://en.wikipedia.org/wiki/AI_Superpowers
+* https://en.wikipedia.org/wiki/The_Information:_A_History,_a_Theory,_a_Flood 
+* http://algorithmstoliveby.com
+
