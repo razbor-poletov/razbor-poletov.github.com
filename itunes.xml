@@ -6,8 +6,8 @@
     <atom:link href="http://razborpoletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2019-07-11T09:21:41+00:00</pubDate>
-    <lastBuildDate>2019-07-11T09:21:41+00:00</lastBuildDate>
+    <pubDate>2019-10-30T21:33:05+00:00</pubDate>
+    <lastBuildDate>2019-10-30T21:33:05+00:00</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razborpoletov.com/logoNew.jpg" />
     <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
@@ -86,7 +86,7 @@
 <div class="ulist">
 <ul>
 <li>
-<p><a href="https://www.wired.com/story/facebook-finding-problems-artificial-intelligence-too/" class="bare">https://www.wired.com/story/facebook-finding-problems-artificial-intelligence-too/</a> [Яндекс аура]</p>
+<p><a href="https://www.wired.com/story/facebook-finding-problems-artificial-intelligence-too/" class="bare">https://www.wired.com/story/facebook-finding-problems-artificial-intelligence-too/</a></p>
 </li>
 <li>
 <p><a href="https://3dnews.ru/984361/obzor-yandex-aura" class="bare">https://3dnews.ru/984361/obzor-yandex-aura</a></p>
@@ -202,7 +202,7 @@ https://deepmind.com/blog/alphastar-mastering-real-time-strategy-game-starcraft-
 
 
 
-https://www.wired.com/story/facebook-finding-problems-artificial-intelligence-too/ [Яндекс аура]
+https://www.wired.com/story/facebook-finding-problems-artificial-intelligence-too/
 
 
 https://3dnews.ru/984361/obzor-yandex-aura
