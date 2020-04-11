@@ -6,11 +6,11 @@
     <atom:link href="http://razborpoletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2019-10-30T21:33:05+00:00</pubDate>
-    <lastBuildDate>2019-10-30T21:33:05+00:00</lastBuildDate>
+    <pubDate>2020-04-11T22:18:51+00:00</pubDate>
+    <lastBuildDate>2020-04-11T22:18:51+00:00</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razborpoletov.com/logoNew.jpg" />
-    <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
+    <itunes:author>Viktor Gamov, Alexey Abashev</itunes:author>
     <itunes:subtitle>Правильный подкаст для IT-шников</itunes:subtitle>
     <itunes:summary>Правильный подкаст для IT-шников</itunes:summary>
     <itunes:category text="Technology">
@@ -20,13 +20,112 @@
     <media:thumbnail url="http://razborpoletov.com/logoNew.jpg" />
     
     <item>
+      <title>Episode 207 — Interview - QA - По ту сторону разработки</title>
+      <link>http://razborpoletov.com/2020/04/episode-207.html</link>
+      <pubDate>2020-04-11T00:00:00+00:00</pubDate>
+      <guid isPermalink="true">http://razborpoletov.com/2020/04/episode-207</guid>
+      <description><![CDATA[<div class="paragraph">
+  <p><a href="http://razborpoletov.com/2020/04/episode-207.html">Комментировать</a>
+    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
+</div>
+<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://twitter.com/eroshenkoam">Артем Ерошенко</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/it_improve">Андрей Дмитриев</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/brekelov">Всеволод Брекелов</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/a_abashev">Алексей Абашев</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Тестирование</p>
+</li>
+<li>
+<p><a href="http://allure.qatools.ru/" class="bare">http://allure.qatools.ru/</a></p>
+</li>
+<li>
+<p><a href="https://habr.com/ru/company/jugru/blog/337386/" class="bare">https://habr.com/ru/company/jugru/blog/337386/</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description>
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_207.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_207.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2020/04/episode-207.html
+Помочь подкасту - https://www.patreon.com/razborpoletov
+Telegram канал - https://t.me/razborfeed
+
+Гости и участники
+
+
+
+
+Артем Ерошенко
+
+
+Андрей Дмитриев
+
+
+Всеволод Брекелов
+
+
+Алексей Абашев
+
+
+
+
+
+
+Темы
+
+
+
+
+Тестирование
+
+
+http://allure.qatools.ru/
+
+
+https://habr.com/ru/company/jugru/blog/337386/
+
+
+
+
+]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_207_text.jpg" />
+    </item>
+    
+    <item>
       <title>Episode 206 — Interview - Нам нечего бояться!</title>
       <link>http://razborpoletov.com/2019/07/episode-206.html</link>
       <pubDate>2019-07-11T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2019/07/episode-206</guid>
       <description><![CDATA[<div class="paragraph">
-    <p><a href="http://razborpoletov.com/2019/07/episode-206.html">Комментировать</a>
-    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a></p>
+  <p><a href="http://razborpoletov.com/2019/07/episode-206.html">Комментировать</a>
+    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
 </div>
 <div class="sect1">
 <h2 id="Гости-и-участники">Гости и участники</h2>
@@ -144,6 +243,7 @@
       <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_206.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2019/07/episode-206.html
 Помочь подкасту - https://www.patreon.com/razborpoletov
+Telegram канал - https://t.me/razborfeed
 
 Гости и участники
 
@@ -265,8 +365,10 @@ http://algorithmstoliveby.com
       <pubDate>2019-06-22T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2019/06/episode-205</guid>
       <description><![CDATA[<div class="paragraph">
-    <p><a href="http://razborpoletov.com/2019/06/episode-205.html">Комментировать</a>
-    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a></p>
+  <p><a href="http://razborpoletov.com/2019/06/episode-205.html">Комментировать</a>
+    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
 </div>
 <div class="sect1">
 <h2 id="Гости-и-участники">Гости и участники</h2>
@@ -380,6 +482,7 @@ http://algorithmstoliveby.com
       <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_205.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2019/06/episode-205.html
 Помочь подкасту - https://www.patreon.com/razborpoletov
+Telegram канал - https://t.me/razborfeed
 
 Гости и участники
 
@@ -497,8 +600,10 @@ YourKit YouMonitor
       <pubDate>2019-05-03T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2019/05/episode-204</guid>
       <description><![CDATA[<div class="paragraph">
-    <p><a href="http://razborpoletov.com/2019/05/episode-204.html">Комментировать</a>
-    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a></p>
+  <p><a href="http://razborpoletov.com/2019/05/episode-204.html">Комментировать</a>
+    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
 </div>
 <div class="sect1">
 <h2 id="Гости-и-участники">Гости и участники</h2>
@@ -537,6 +642,7 @@ YourKit YouMonitor
       <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_204.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2019/05/episode-204.html
 Помочь подкасту - https://www.patreon.com/razborpoletov
+Telegram канал - https://t.me/razborfeed
 
 Гости и участники
 
@@ -579,8 +685,10 @@ Craftsmen vs. QA
       <pubDate>2019-03-28T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2019/03/episode-203</guid>
       <description><![CDATA[<div class="paragraph">
-    <p><a href="http://razborpoletov.com/2019/03/episode-203.html">Комментировать</a>
-    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a></p>
+  <p><a href="http://razborpoletov.com/2019/03/episode-203.html">Комментировать</a>
+    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
 </div>
 <div class="sect1">
 <h2 id="Гости-и-участники">Гости и участники</h2>
@@ -631,6 +739,7 @@ Craftsmen vs. QA
       <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_203.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2019/03/episode-203.html
 Помочь подкасту - https://www.patreon.com/razborpoletov
+Telegram канал - https://t.me/razborfeed
 
 Гости и участники
 
@@ -685,8 +794,10 @@ Java Digest
       <pubDate>2019-03-25T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2019/03/episode-202</guid>
       <description><![CDATA[<div class="paragraph">
-    <p><a href="http://razborpoletov.com/2019/03/episode-202.html">Комментировать</a>
-    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a></p>
+  <p><a href="http://razborpoletov.com/2019/03/episode-202.html">Комментировать</a>
+    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
 </div>
 <div class="sect1">
 <h2 id="Гости-и-участники">Гости и участники</h2>
@@ -749,6 +860,7 @@ Java Digest
       <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_202.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2019/03/episode-202.html
 Помочь подкасту - https://www.patreon.com/razborpoletov
+Telegram канал - https://t.me/razborfeed
 
 Гости и участники
 
@@ -815,8 +927,10 @@ Java Digest
       <pubDate>2019-03-15T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2019/03/episode-201</guid>
       <description><![CDATA[<div class="paragraph">
-    <p><a href="http://razborpoletov.com/2019/03/episode-201.html">Комментировать</a>
-    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a></p>
+  <p><a href="http://razborpoletov.com/2019/03/episode-201.html">Комментировать</a>
+    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
 </div>
 <div class="sect1">
 <h2 id="Гости-и-участники">Гости и участники</h2>
@@ -852,6 +966,7 @@ Java Digest
       <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_201.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2019/03/episode-201.html
 Помочь подкасту - https://www.patreon.com/razborpoletov
+Telegram канал - https://t.me/razborfeed
 
 Гости и участники
 
@@ -891,8 +1006,10 @@ Java Digest
       <pubDate>2019-02-14T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2019/02/episode-200</guid>
       <description><![CDATA[<div class="paragraph">
-    <p><a href="http://razborpoletov.com/2019/02/episode-200.html">Комментировать</a>
-    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a></p>
+  <p><a href="http://razborpoletov.com/2019/02/episode-200.html">Комментировать</a>
+    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
 </div>
 <div class="sect1">
 <h2 id="Гости-и-участники">Гости и участники</h2>
@@ -925,6 +1042,7 @@ Java Digest
       <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_200.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2019/02/episode-200.html
 Помочь подкасту - https://www.patreon.com/razborpoletov
+Telegram канал - https://t.me/razborfeed
 
 Гости и участники
 
@@ -961,8 +1079,10 @@ Java Digest
       <pubDate>2019-02-11T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2019/02/episode-199</guid>
       <description><![CDATA[<div class="paragraph">
-    <p><a href="http://razborpoletov.com/2019/02/episode-199.html">Комментировать</a>
-    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a></p>
+  <p><a href="http://razborpoletov.com/2019/02/episode-199.html">Комментировать</a>
+    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
 </div>
 <div class="sect1">
 <h2 id="Гости-и-участники">Гости и участники</h2>
@@ -1034,6 +1154,7 @@ Java Digest
       <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_199.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2019/02/episode-199.html
 Помочь подкасту - https://www.patreon.com/razborpoletov
+Telegram канал - https://t.me/razborfeed
 
 Гости и участники
 
@@ -1109,8 +1230,10 @@ KPI и OKR - https://felipecastro.com/en/okr/what-is-okr/
       <pubDate>2019-01-28T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2019/01/episode-198</guid>
       <description><![CDATA[<div class="paragraph">
-    <p><a href="http://razborpoletov.com/2019/01/episode-198.html">Комментировать</a>
-    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a></p>
+  <p><a href="http://razborpoletov.com/2019/01/episode-198.html">Комментировать</a>
+    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
 </div>
 <div class="sect1">
 <h2 id="Гости-и-участники">Гости и участники</h2>
@@ -1182,6 +1305,7 @@ KPI и OKR - https://felipecastro.com/en/okr/what-is-okr/
       <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_198.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2019/01/episode-198.html
 Помочь подкасту - https://www.patreon.com/razborpoletov
+Telegram канал - https://t.me/razborfeed
 
 Гости и участники
 
@@ -1257,8 +1381,10 @@ KPI и OKR - https://felipecastro.com/en/okr/what-is-okr/
       <pubDate>2019-01-16T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2019/01/episode-197</guid>
       <description><![CDATA[<div class="paragraph">
-    <p><a href="http://razborpoletov.com/2019/01/episode-197.html">Комментировать</a>
-    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a></p>
+  <p><a href="http://razborpoletov.com/2019/01/episode-197.html">Комментировать</a>
+    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
 </div>
 <div class="sect1">
 <h2 id="Гости-и-участники">Гости и участники</h2>
@@ -1339,6 +1465,7 @@ KPI и OKR - https://felipecastro.com/en/okr/what-is-okr/
       <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_197.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2019/01/episode-197.html
 Помочь подкасту - https://www.patreon.com/razborpoletov
+Telegram канал - https://t.me/razborfeed
 
 Гости и участники
 
@@ -1423,8 +1550,10 @@ Java EE и транзакции. Хороший плохой Transaction Manager
       <pubDate>2018-12-28T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2018/12/episode-196</guid>
       <description><![CDATA[<div class="paragraph">
-    <p><a href="http://razborpoletov.com/2018/12/episode-196.html">Комментировать</a>
-    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a></p>
+  <p><a href="http://razborpoletov.com/2018/12/episode-196.html">Комментировать</a>
+    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
 </div>
 <div class="sect1">
 <h2 id="Гости-и-участники">Гости и участники</h2>
@@ -1541,6 +1670,7 @@ Java EE и транзакции. Хороший плохой Transaction Manager
       <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_196.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2018/12/episode-196.html
 Помочь подкасту - https://www.patreon.com/razborpoletov
+Telegram канал - https://t.me/razborfeed
 
 Гости и участники
 
@@ -1661,8 +1791,10 @@ https://github.com/hackerb9/lsix
       <pubDate>2018-12-25T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2018/12/episode-195</guid>
       <description><![CDATA[<div class="paragraph">
-    <p><a href="http://razborpoletov.com/2018/12/episode-195.html">Комментировать</a>
-    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a></p>
+  <p><a href="http://razborpoletov.com/2018/12/episode-195.html">Комментировать</a>
+    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
 </div>
 <div class="sect1">
 <h2 id="Гости-и-участники">Гости и участники</h2>
@@ -1695,6 +1827,7 @@ https://github.com/hackerb9/lsix
       <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_195.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2018/12/episode-195.html
 Помочь подкасту - https://www.patreon.com/razborpoletov
+Telegram канал - https://t.me/razborfeed
 
 Гости и участники
 
@@ -1731,8 +1864,10 @@ Java Digest
       <pubDate>2018-12-24T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2018/12/episode-194</guid>
       <description><![CDATA[<div class="paragraph">
-    <p><a href="http://razborpoletov.com/2018/12/episode-194.html">Комментировать</a>
-    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a></p>
+  <p><a href="http://razborpoletov.com/2018/12/episode-194.html">Комментировать</a>
+    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
 </div>
 <div class="sect1">
 <h2 id="Гости-и-участники">Гости и участники</h2>
@@ -1774,6 +1909,7 @@ Java Digest
       <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_194.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2018/12/episode-194.html
 Помочь подкасту - https://www.patreon.com/razborpoletov
+Telegram канал - https://t.me/razborfeed
 
 Гости и участники
 
@@ -1819,8 +1955,10 @@ Why I Don&#8217;t Want to Live in Silicon Valley
       <pubDate>2018-12-05T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2018/12/episode-193</guid>
       <description><![CDATA[<div class="paragraph">
-    <p><a href="http://razborpoletov.com/2018/12/episode-193.html">Комментировать</a>
-    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a></p>
+  <p><a href="http://razborpoletov.com/2018/12/episode-193.html">Комментировать</a>
+    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
 </div>
 <div class="sect1">
 <h2 id="Гости-и-участники">Гости и участники</h2>
@@ -1850,6 +1988,7 @@ Why I Don&#8217;t Want to Live in Silicon Valley
       <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_193.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2018/12/episode-193.html
 Помочь подкасту - https://www.patreon.com/razborpoletov
+Telegram канал - https://t.me/razborfeed
 
 Гости и участники
 
@@ -1883,8 +2022,10 @@ Java Дайджест №82
       <pubDate>2018-12-03T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2018/12/episode-192</guid>
       <description><![CDATA[<div class="paragraph">
-    <p><a href="http://razborpoletov.com/2018/12/episode-192.html">Комментировать</a>
-    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a></p>
+  <p><a href="http://razborpoletov.com/2018/12/episode-192.html">Комментировать</a>
+    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
 </div>
 <div class="sect1">
 <h2 id="Гости-и-участники">Гости и участники</h2>
@@ -1914,6 +2055,7 @@ Java Дайджест №82
       <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_192.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2018/12/episode-192.html
 Помочь подкасту - https://www.patreon.com/razborpoletov
+Telegram канал - https://t.me/razborfeed
 
 Гости и участники
 
@@ -1947,8 +2089,10 @@ Java Дайджест №81
       <pubDate>2018-11-06T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2018/11/episode-191</guid>
       <description><![CDATA[<div class="paragraph">
-    <p><a href="http://razborpoletov.com/2018/11/episode-191.html">Комментировать</a>
-    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a></p>
+  <p><a href="http://razborpoletov.com/2018/11/episode-191.html">Комментировать</a>
+    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
 </div>
 <div class="sect1">
 <h2 id="Гости-и-участники">Гости и участники</h2>
@@ -1981,6 +2125,7 @@ Java Дайджест №81
       <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_191.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2018/11/episode-191.html
 Помочь подкасту - https://www.patreon.com/razborpoletov
+Telegram канал - https://t.me/razborfeed
 
 Гости и участники
 
@@ -2017,8 +2162,10 @@ Java Дайджест №80
       <pubDate>2018-11-05T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2018/11/episode-190</guid>
       <description><![CDATA[<div class="paragraph">
-    <p><a href="http://razborpoletov.com/2018/11/episode-190.html">Комментировать</a>
-    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a></p>
+  <p><a href="http://razborpoletov.com/2018/11/episode-190.html">Комментировать</a>
+    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
 </div>
 <div class="sect1">
 <h2 id="Гости">Гости</h2>
@@ -2111,6 +2258,7 @@ Java Дайджест №80
       <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_190.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2018/11/episode-190.html
 Помочь подкасту - https://www.patreon.com/razborpoletov
+Telegram канал - https://t.me/razborfeed
 
 Гости
 
@@ -2207,8 +2355,10 @@ twitter:
       <pubDate>2018-10-22T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2018/10/episode-189</guid>
       <description><![CDATA[<div class="paragraph">
-    <p><a href="http://razborpoletov.com/2018/10/episode-189.html">Комментировать</a>
-    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a></p>
+  <p><a href="http://razborpoletov.com/2018/10/episode-189.html">Комментировать</a>
+    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
 </div>
 <div class="sect1">
 <h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
@@ -2298,6 +2448,7 @@ twitter:
       <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_189.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2018/10/episode-189.html
 Помочь подкасту - https://www.patreon.com/razborpoletov
+Telegram канал - https://t.me/razborfeed
 
 Партнеры выпуска
 
@@ -2391,8 +2542,10 @@ twitter:
       <pubDate>2018-10-17T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2018/10/episode-188</guid>
       <description><![CDATA[<div class="paragraph">
-    <p><a href="http://razborpoletov.com/2018/10/episode-188.html">Комментировать</a>
-    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a></p>
+  <p><a href="http://razborpoletov.com/2018/10/episode-188.html">Комментировать</a>
+    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
 </div>
 <div class="sect1">
 <h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
@@ -2496,6 +2649,7 @@ twitter:
       <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_188.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2018/10/episode-188.html
 Помочь подкасту - https://www.patreon.com/razborpoletov
+Telegram канал - https://t.me/razborfeed
 
 Партнеры выпуска
 
@@ -2603,8 +2757,10 @@ twitter:
       <pubDate>2018-10-08T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2018/10/episode-187</guid>
       <description><![CDATA[<div class="paragraph">
-    <p><a href="http://razborpoletov.com/2018/10/episode-187.html">Комментировать</a>
-    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a></p>
+  <p><a href="http://razborpoletov.com/2018/10/episode-187.html">Комментировать</a>
+    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
 </div>
 <div class="sect1">
 <h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
@@ -2712,6 +2868,7 @@ twitter:
       <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_187.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2018/10/episode-187.html
 Помочь подкасту - https://www.patreon.com/razborpoletov
+Telegram канал - https://t.me/razborfeed
 
 Партнеры выпуска
 
@@ -2823,8 +2980,10 @@ twitter:
       <pubDate>2018-10-01T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2018/10/episode-186</guid>
       <description><![CDATA[<div class="paragraph">
-    <p><a href="http://razborpoletov.com/2018/10/episode-186.html">Комментировать</a>
-    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a></p>
+  <p><a href="http://razborpoletov.com/2018/10/episode-186.html">Комментировать</a>
+    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
 </div>
 <div class="sect1">
 <h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
@@ -2917,6 +3076,7 @@ twitter:
       <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_186.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2018/10/episode-186.html
 Помочь подкасту - https://www.patreon.com/razborpoletov
+Telegram канал - https://t.me/razborfeed
 
 Партнеры выпуска
 
@@ -3013,8 +3173,10 @@ twitter:
       <pubDate>2018-10-01T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2018/10/episode-185</guid>
       <description><![CDATA[<div class="paragraph">
-    <p><a href="http://razborpoletov.com/2018/10/episode-185.html">Комментировать</a>
-    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a></p>
+  <p><a href="http://razborpoletov.com/2018/10/episode-185.html">Комментировать</a>
+    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
 </div>
 <div class="sect1">
 <h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
@@ -3175,6 +3337,7 @@ twitter:
       <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_185.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2018/10/episode-185.html
 Помочь подкасту - https://www.patreon.com/razborpoletov
+Telegram канал - https://t.me/razborfeed
 
 Партнеры выпуска
 
@@ -3339,8 +3502,10 @@ twitter:
       <pubDate>2018-09-24T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2018/09/episode-184</guid>
       <description><![CDATA[<div class="paragraph">
-    <p><a href="http://razborpoletov.com/2018/09/episode-184.html">Комментировать</a>
-    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a></p>
+  <p><a href="http://razborpoletov.com/2018/09/episode-184.html">Комментировать</a>
+    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
 </div>
 <div class="sect1">
 <h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
@@ -3694,6 +3859,7 @@ twitter:
       <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_184.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2018/09/episode-184.html
 Помочь подкасту - https://www.patreon.com/razborpoletov
+Telegram канал - https://t.me/razborfeed
 
 Партнеры выпуска
 
@@ -4051,8 +4217,10 @@ twitter:
       <pubDate>2018-09-24T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2018/09/episode-183</guid>
       <description><![CDATA[<div class="paragraph">
-    <p><a href="http://razborpoletov.com/2018/09/episode-183.html">Комментировать</a>
-    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a></p>
+  <p><a href="http://razborpoletov.com/2018/09/episode-183.html">Комментировать</a>
+    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
 </div>
 <div class="sect1">
 <h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
@@ -4132,6 +4300,7 @@ twitter:
       <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_183.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2018/09/episode-183.html
 Помочь подкасту - https://www.patreon.com/razborpoletov
+Telegram канал - https://t.me/razborfeed
 
 Партнеры выпуска
 
@@ -4215,8 +4384,10 @@ Java Дайджест №75
       <pubDate>2018-09-17T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2018/09/episode-182</guid>
       <description><![CDATA[<div class="paragraph">
-    <p><a href="http://razborpoletov.com/2018/09/episode-182.html">Комментировать</a>
-    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a></p>
+  <p><a href="http://razborpoletov.com/2018/09/episode-182.html">Комментировать</a>
+    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
 </div>
 <div id="preamble">
 <div class="sectionbody">
@@ -4338,6 +4509,7 @@ Java Дайджест №75
       <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_182.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2018/09/episode-182.html
 Помочь подкасту - https://www.patreon.com/razborpoletov
+Telegram канал - https://t.me/razborfeed
 
 
 
@@ -4463,8 +4635,10 @@ twitter:
       <pubDate>2018-09-11T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2018/09/episode-181</guid>
       <description><![CDATA[<div class="paragraph">
-    <p><a href="http://razborpoletov.com/2018/09/episode-181.html">Комментировать</a>
-    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a></p>
+  <p><a href="http://razborpoletov.com/2018/09/episode-181.html">Комментировать</a>
+    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
 </div>
 <div id="preamble">
 <div class="sectionbody">
@@ -4583,6 +4757,7 @@ twitter:
       <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_181.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2018/09/episode-181.html
 Помочь подкасту - https://www.patreon.com/razborpoletov
+Telegram канал - https://t.me/razborfeed
 
 
 
@@ -4705,8 +4880,10 @@ twitter:
       <pubDate>2018-09-09T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2018/09/episode-180</guid>
       <description><![CDATA[<div class="paragraph">
-    <p><a href="http://razborpoletov.com/2018/09/episode-180.html">Комментировать</a>
-    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a></p>
+  <p><a href="http://razborpoletov.com/2018/09/episode-180.html">Комментировать</a>
+    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
 </div>
 <div id="preamble">
 <div class="sectionbody">
@@ -4904,6 +5081,7 @@ twitter:
       <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_180.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2018/09/episode-180.html
 Помочь подкасту - https://www.patreon.com/razborpoletov
+Telegram канал - https://t.me/razborfeed
 
 
 
@@ -5105,8 +5283,10 @@ twitter:
       <pubDate>2018-09-04T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2018/09/episode-179</guid>
       <description><![CDATA[<div class="paragraph">
-    <p><a href="http://razborpoletov.com/2018/09/episode-179.html">Комментировать</a>
-    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a></p>
+  <p><a href="http://razborpoletov.com/2018/09/episode-179.html">Комментировать</a>
+    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
 </div>
 <div id="preamble">
 <div class="sectionbody">
@@ -5228,6 +5408,7 @@ twitter:
       <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_179.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2018/09/episode-179.html
 Помочь подкасту - https://www.patreon.com/razborpoletov
+Telegram канал - https://t.me/razborfeed
 
 
 
@@ -5353,8 +5534,10 @@ twitter:
       <pubDate>2018-08-27T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2018/08/episode-178</guid>
       <description><![CDATA[<div class="paragraph">
-    <p><a href="http://razborpoletov.com/2018/08/episode-178.html">Комментировать</a>
-    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a></p>
+  <p><a href="http://razborpoletov.com/2018/08/episode-178.html">Комментировать</a>
+    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
 </div>
 <div id="preamble">
 <div class="sectionbody">
@@ -5473,6 +5656,7 @@ twitter:
       <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_178.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2018/08/episode-178.html
 Помочь подкасту - https://www.patreon.com/razborpoletov
+Telegram канал - https://t.me/razborfeed
 
 
 
@@ -5595,8 +5779,10 @@ twitter:
       <pubDate>2018-08-27T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2018/08/episode-177</guid>
       <description><![CDATA[<div class="paragraph">
-    <p><a href="http://razborpoletov.com/2018/08/episode-177.html">Комментировать</a>
-    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a></p>
+  <p><a href="http://razborpoletov.com/2018/08/episode-177.html">Комментировать</a>
+    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
 </div>
 <div id="preamble">
 <div class="sectionbody">
@@ -5745,6 +5931,7 @@ twitter:
       <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_177.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2018/08/episode-177.html
 Помочь подкасту - https://www.patreon.com/razborpoletov
+Telegram канал - https://t.me/razborfeed
 
 
 
@@ -5897,8 +6084,10 @@ twitter:
       <pubDate>2018-08-20T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2018/08/episode-176</guid>
       <description><![CDATA[<div class="paragraph">
-    <p><a href="http://razborpoletov.com/2018/08/episode-176.html">Комментировать</a>
-    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a></p>
+  <p><a href="http://razborpoletov.com/2018/08/episode-176.html">Комментировать</a>
+    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
 </div>
 <div id="preamble">
 <div class="sectionbody">
@@ -6023,6 +6212,7 @@ twitter:
       <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_176.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2018/08/episode-176.html
 Помочь подкасту - https://www.patreon.com/razborpoletov
+Telegram канал - https://t.me/razborfeed
 
 
 
@@ -6151,8 +6341,10 @@ twitter:
       <pubDate>2018-08-13T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2018/08/episode-175</guid>
       <description><![CDATA[<div class="paragraph">
-    <p><a href="http://razborpoletov.com/2018/08/episode-175.html">Комментировать</a>
-    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a></p>
+  <p><a href="http://razborpoletov.com/2018/08/episode-175.html">Комментировать</a>
+    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
 </div>
 <div id="preamble">
 <div class="sectionbody">
@@ -6277,6 +6469,7 @@ twitter:
       <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_175.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2018/08/episode-175.html
 Помочь подкасту - https://www.patreon.com/razborpoletov
+Telegram канал - https://t.me/razborfeed
 
 
 
@@ -6405,8 +6598,10 @@ twitter:
       <pubDate>2018-08-06T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2018/08/episode-174</guid>
       <description><![CDATA[<div class="paragraph">
-    <p><a href="http://razborpoletov.com/2018/08/episode-174.html">Комментировать</a>
-    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a></p>
+  <p><a href="http://razborpoletov.com/2018/08/episode-174.html">Комментировать</a>
+    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
 </div>
 <div id="preamble">
 <div class="sectionbody">
@@ -6528,6 +6723,7 @@ twitter:
       <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_174.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2018/08/episode-174.html
 Помочь подкасту - https://www.patreon.com/razborpoletov
+Telegram канал - https://t.me/razborfeed
 
 
 
@@ -6653,8 +6849,10 @@ twitter:
       <pubDate>2018-08-03T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2018/08/episode-173</guid>
       <description><![CDATA[<div class="paragraph">
-    <p><a href="http://razborpoletov.com/2018/08/episode-173.html">Комментировать</a>
-    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a></p>
+  <p><a href="http://razborpoletov.com/2018/08/episode-173.html">Комментировать</a>
+    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
 </div>
 <div id="preamble">
 <div class="sectionbody">
@@ -6935,6 +7133,7 @@ twitter:
       <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_173.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2018/08/episode-173.html
 Помочь подкасту - https://www.patreon.com/razborpoletov
+Telegram канал - https://t.me/razborfeed
 
 
 
@@ -7219,8 +7418,10 @@ twitter:
       <pubDate>2018-07-30T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2018/07/episode-172</guid>
       <description><![CDATA[<div class="paragraph">
-    <p><a href="http://razborpoletov.com/2018/07/episode-172.html">Комментировать</a>
-    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a></p>
+  <p><a href="http://razborpoletov.com/2018/07/episode-172.html">Комментировать</a>
+    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
 </div>
 <div id="preamble">
 <div class="sectionbody">
@@ -7348,6 +7549,7 @@ twitter:
       <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_172.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2018/07/episode-172.html
 Помочь подкасту - https://www.patreon.com/razborpoletov
+Telegram канал - https://t.me/razborfeed
 
 
 
@@ -7479,8 +7681,10 @@ twitter:
       <pubDate>2018-07-23T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2018/07/episode-171</guid>
       <description><![CDATA[<div class="paragraph">
-    <p><a href="http://razborpoletov.com/2018/07/episode-171.html">Комментировать</a>
-    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a></p>
+  <p><a href="http://razborpoletov.com/2018/07/episode-171.html">Комментировать</a>
+    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
 </div>
 <div id="preamble">
 <div class="sectionbody">
@@ -7605,6 +7809,7 @@ twitter:
       <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_171.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2018/07/episode-171.html
 Помочь подкасту - https://www.patreon.com/razborpoletov
+Telegram канал - https://t.me/razborfeed
 
 
 
@@ -7733,8 +7938,10 @@ twitter:
       <pubDate>2018-07-20T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2018/07/episode-170</guid>
       <description><![CDATA[<div class="paragraph">
-    <p><a href="http://razborpoletov.com/2018/07/episode-170.html">Комментировать</a>
-    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a></p>
+  <p><a href="http://razborpoletov.com/2018/07/episode-170.html">Комментировать</a>
+    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
 </div>
 <div id="preamble">
 <div class="sectionbody">
@@ -7934,6 +8141,7 @@ twitter:
       <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_170.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2018/07/episode-170.html
 Помочь подкасту - https://www.patreon.com/razborpoletov
+Telegram канал - https://t.me/razborfeed
 
 
 
@@ -8137,8 +8345,10 @@ twitter:
       <pubDate>2018-07-16T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2018/07/episode-169</guid>
       <description><![CDATA[<div class="paragraph">
-    <p><a href="http://razborpoletov.com/2018/07/episode-169.html">Комментировать</a>
-    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a></p>
+  <p><a href="http://razborpoletov.com/2018/07/episode-169.html">Комментировать</a>
+    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
 </div>
 <div class="sect1">
 <h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
@@ -8240,6 +8450,7 @@ twitter:
       <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_169.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2018/07/episode-169.html
 Помочь подкасту - https://www.patreon.com/razborpoletov
+Telegram канал - https://t.me/razborfeed
 
 Партнеры выпуска
 
@@ -8345,8 +8556,10 @@ twitter:
       <pubDate>2018-07-09T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2018/07/episode-168</guid>
       <description><![CDATA[<div class="paragraph">
-    <p><a href="http://razborpoletov.com/2018/07/episode-168.html">Комментировать</a>
-    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a></p>
+  <p><a href="http://razborpoletov.com/2018/07/episode-168.html">Комментировать</a>
+    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
 </div>
 <div class="sect1">
 <h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
@@ -8441,6 +8654,7 @@ twitter:
       <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_168.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2018/07/episode-168.html
 Помочь подкасту - https://www.patreon.com/razborpoletov
+Telegram канал - https://t.me/razborfeed
 
 Партнеры выпуска
 
@@ -8539,8 +8753,10 @@ twitter:
       <pubDate>2018-07-02T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2018/07/episode-167</guid>
       <description><![CDATA[<div class="paragraph">
-    <p><a href="http://razborpoletov.com/2018/07/episode-167.html">Комментировать</a>
-    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a></p>
+  <p><a href="http://razborpoletov.com/2018/07/episode-167.html">Комментировать</a>
+    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
 </div>
 <div class="sect1">
 <h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
@@ -8641,6 +8857,7 @@ twitter:
       <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_167.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2018/07/episode-167.html
 Помочь подкасту - https://www.patreon.com/razborpoletov
+Telegram канал - https://t.me/razborfeed
 
 Партнеры выпуска
 
@@ -8745,8 +8962,10 @@ twitter:
       <pubDate>2018-07-01T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2018/07/episode-166</guid>
       <description><![CDATA[<div class="paragraph">
-    <p><a href="http://razborpoletov.com/2018/07/episode-166.html">Комментировать</a>
-    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a></p>
+  <p><a href="http://razborpoletov.com/2018/07/episode-166.html">Комментировать</a>
+    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
 </div>
 <div class="sect1">
 <h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
@@ -8869,6 +9088,7 @@ twitter:
       <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_166.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2018/07/episode-166.html
 Помочь подкасту - https://www.patreon.com/razborpoletov
+Telegram канал - https://t.me/razborfeed
 
 Партнеры выпуска
 
@@ -8995,8 +9215,10 @@ twitter:
       <pubDate>2018-06-26T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2018/06/episode-165</guid>
       <description><![CDATA[<div class="paragraph">
-    <p><a href="http://razborpoletov.com/2018/06/episode-165.html">Комментировать</a>
-    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a></p>
+  <p><a href="http://razborpoletov.com/2018/06/episode-165.html">Комментировать</a>
+    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
 </div>
 <div class="sect1">
 <h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
@@ -9097,6 +9319,7 @@ twitter:
       <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_165.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2018/06/episode-165.html
 Помочь подкасту - https://www.patreon.com/razborpoletov
+Telegram канал - https://t.me/razborfeed
 
 Партнеры выпуска
 
@@ -9201,8 +9424,10 @@ twitter:
       <pubDate>2018-06-20T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2018/06/episode-164</guid>
       <description><![CDATA[<div class="paragraph">
-    <p><a href="http://razborpoletov.com/2018/06/episode-164.html">Комментировать</a>
-    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a></p>
+  <p><a href="http://razborpoletov.com/2018/06/episode-164.html">Комментировать</a>
+    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
 </div>
 <div class="sect1">
 <h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
@@ -9322,6 +9547,7 @@ twitter:
       <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_164.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2018/06/episode-164.html
 Помочь подкасту - https://www.patreon.com/razborpoletov
+Telegram канал - https://t.me/razborfeed
 
 Партнеры выпуска
 
@@ -9445,8 +9671,10 @@ twitter:
       <pubDate>2018-06-19T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2018/06/episode-163</guid>
       <description><![CDATA[<div class="paragraph">
-    <p><a href="http://razborpoletov.com/2018/06/episode-163.html">Комментировать</a>
-    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a></p>
+  <p><a href="http://razborpoletov.com/2018/06/episode-163.html">Комментировать</a>
+    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
 </div>
 <div class="sect1">
 <h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
@@ -9553,6 +9781,7 @@ twitter:
       <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_163.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2018/06/episode-163.html
 Помочь подкасту - https://www.patreon.com/razborpoletov
+Telegram канал - https://t.me/razborfeed
 
 Партнеры выпуска
 
@@ -9663,8 +9892,10 @@ twitter:
       <pubDate>2018-06-11T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2018/06/episode-162</guid>
       <description><![CDATA[<div class="paragraph">
-    <p><a href="http://razborpoletov.com/2018/06/episode-162.html">Комментировать</a>
-    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a></p>
+  <p><a href="http://razborpoletov.com/2018/06/episode-162.html">Комментировать</a>
+    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
 </div>
 <div class="sect1">
 <h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
@@ -9778,6 +10009,7 @@ twitter:
       <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_162.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2018/06/episode-162.html
 Помочь подкасту - https://www.patreon.com/razborpoletov
+Telegram канал - https://t.me/razborfeed
 
 Партнеры выпуска
 
@@ -9895,8 +10127,10 @@ twitter:
       <pubDate>2018-06-08T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2018/06/episode-161</guid>
       <description><![CDATA[<div class="paragraph">
-    <p><a href="http://razborpoletov.com/2018/06/episode-161.html">Комментировать</a>
-    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a></p>
+  <p><a href="http://razborpoletov.com/2018/06/episode-161.html">Комментировать</a>
+    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
 </div>
 <div class="sect1">
 <h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
@@ -9998,6 +10232,7 @@ twitter:
       <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_161.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2018/06/episode-161.html
 Помочь подкасту - https://www.patreon.com/razborpoletov
+Telegram канал - https://t.me/razborfeed
 
 Партнеры выпуска
 
@@ -10103,8 +10338,10 @@ twitter:
       <pubDate>2018-06-02T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2018/06/episode-160</guid>
       <description><![CDATA[<div class="paragraph">
-    <p><a href="http://razborpoletov.com/2018/06/episode-160.html">Комментировать</a>
-    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a></p>
+  <p><a href="http://razborpoletov.com/2018/06/episode-160.html">Комментировать</a>
+    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
 </div>
 <div class="sect1">
 <h2 id="Гости-и-ведущие">Гости и ведущие</h2>
@@ -10209,6 +10446,7 @@ twitter:
       <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_160.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2018/06/episode-160.html
 Помочь подкасту - https://www.patreon.com/razborpoletov
+Telegram канал - https://t.me/razborfeed
 
 Гости и ведущие
 
@@ -10317,8 +10555,10 @@ twitter:
       <pubDate>2018-06-02T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2018/06/episode-159</guid>
       <description><![CDATA[<div class="paragraph">
-    <p><a href="http://razborpoletov.com/2018/06/episode-159.html">Комментировать</a>
-    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a></p>
+  <p><a href="http://razborpoletov.com/2018/06/episode-159.html">Комментировать</a>
+    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
 </div>
 <div class="sect1">
 <h2 id="Гости-и-ведущие">Гости и ведущие</h2>
@@ -10435,6 +10675,7 @@ twitter:
       <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_159.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2018/06/episode-159.html
 Помочь подкасту - https://www.patreon.com/razborpoletov
+Telegram канал - https://t.me/razborfeed
 
 Гости и ведущие
 
@@ -10555,8 +10796,10 @@ twitter:
       <pubDate>2018-05-14T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2018/05/episode-158</guid>
       <description><![CDATA[<div class="paragraph">
-    <p><a href="http://razborpoletov.com/2018/05/episode-158.html">Комментировать</a>
-    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a></p>
+  <p><a href="http://razborpoletov.com/2018/05/episode-158.html">Комментировать</a>
+    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
 </div>
 <div class="sect1">
 <h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
@@ -10634,6 +10877,7 @@ twitter:
       <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_158.mp3" fileSize="" type="audio/mpeg" />
       <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2018/05/episode-158.html
 Помочь подкасту - https://www.patreon.com/razborpoletov
+Telegram канал - https://t.me/razborfeed
 
 Партнеры выпуска
 
@@ -10707,420 +10951,6 @@ twitter:
 
 ]]></itunes:summary>
       <itunes:image href="http://razborpoletov.com/images/razbor_158_text.jpg" />
-    </item>
-    
-    <item>
-      <title>Episode 157 – РП: Java - Про десятку</title>
-      <link>http://razborpoletov.com/2018/03/episode-157.html</link>
-      <pubDate>2018-03-30T00:00:00+00:00</pubDate>
-      <guid isPermalink="true">http://razborpoletov.com/2018/03/episode-157</guid>
-      <description><![CDATA[<div class="paragraph">
-    <p><a href="http://razborpoletov.com/2018/03/episode-157.html">Комментировать</a>
-    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a></p>
-</div>
-<div id="preamble">
-<div class="sectionbody">
-<div class="paragraph">
-<p>МОЛНИЯ!!! Промо конференции <a href="https://jpoint.ru/">JPoint</a> в Москве!</p>
-</div>
-<div class="paragraph">
-<p>С кодом <strong>RazborJPoint</strong> вам будет предоставлена скидка на билет!
-p.s. Если идете на JPoint 2018, то дослушайте до конца, там для вас есть конкурс на футболку!</p>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
-<div class="sectionbody">
-<div class="listingblock">
-<div class="content">
-<pre>👇 👇 👇 Официальный стикерпак Разбора Полетов и полуофициальный Чат pro.jvm в Телеграме 👇 👇 👇</pre>
-</div>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://t.me/addstickers/razbor_poletov">стикеры</a></p>
-</li>
-<li>
-<p><a href="https://t.me/jvmchat">pro.jvm</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Гости">Гости</h2>
-<div class="sectionbody">
-<div class="olist arabic">
-<ol class="arabic">
-<li>
-<p><a href="https://twitter.com/@andrey_kogun">@andrey_kogun</a> Андрей Когунь</p>
-</li>
-<li>
-<p><a href="https://twitter.com/@olegchir">@olegchir</a> Олег Чирухин</p>
-</li>
-<li>
-<p><a href="https://twitter.com/tagir_valeev">@tagir_valeev</a> Тагир Валеев</p>
-</li>
-<li>
-<p><a href="https://twitter.com/@JohnWings">@JohnWings</a> Иван Крылов</p>
-</li>
-</ol>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Ведущие">Ведущие</h2>
-<div class="sectionbody">
-<div class="olist arabic">
-<ol class="arabic">
-<li>
-<p><a href="https://twitter.com/jbaruch">@jbaruch</a> Барух Садоругский</p>
-</li>
-<li>
-<p><a href="https://twitter.com/tolkv">@tolkv</a> Толкачёв Кирилл</p>
-</li>
-<li>
-<p><a href="https://twitter.com/@gamussa">@gamussa</a> Викто Гамов</p>
-</li>
-<li>
-<p><a href="https://twitter.com/antonarhipov">@antonarhipov</a> Антон Архипов</p>
-</li>
-</ol>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Темки">Темки</h2>
-<div class="sectionbody">
-<div class="olist arabic">
-<ol class="arabic">
-<li>
-<p><a href="https://www.wired.com/story/the-case-that-never-ends-oracle-wins-latest-round-vs-google">Oracle vs Google</a> - нет худа без добра</p>
-</li>
-<li>
-<p>От 9ки до 10ки и жизнь после</p>
-<div class="olist loweralpha">
-<ol class="loweralpha" type="a">
-<li>
-<p>var и пазлеры</p>
-</li>
-<li>
-<p>raw string</p>
-</li>
-<li>
-<p>HttpClient <a href="https://twitter.com/@kuksenko">@kuksenko</a> в Java 11 похоже уже не incubating</p>
-</li>
-<li>
-<p>switch expression и сложности с ним связанные</p>
-</li>
-<li>
-<p>non-denotable types</p>
-</li>
-</ol>
-</div>
-</li>
-<li>
-<p><a href="https://developer.oracle.com/devo/res/pdf/1385446602743/Oracle-Java10.pdf">Java 10 white paper</a></p>
-</li>
-<li>
-<p><a href="http://openjdk.java.net/jeps/328">Когда ждать JFR и где он будет?</a></p>
-</li>
-<li>
-<p>VisualVM и кто придёт на смену?</p>
-</li>
-<li>
-<p>Лицензии на софт в Docker</p>
-</li>
-<li>
-<p><a href="https://medium.com/@rservant/how-did-the-j9-in-openj9-get-its-name-95a6416b4cb9">Тайна названия J9</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/@solomonstre">Solomon Hykes</a> уходит из Docker</p>
-<div class="olist loweralpha">
-<ol class="loweralpha" type="a">
-<li>
-<p><a href="https://blog.docker.com/2018/03/au-revoir/" class="bare">https://blog.docker.com/2018/03/au-revoir/</a></p>
-</li>
-</ol>
-</div>
-</li>
-<li>
-<p><a href="https://jugmsk.timepad.ru/event/678951/">Встреча jug.msk.ru</a> 5 апреля 2018 с Рустамом Мехмандаровым и Александром Тарасовым - семантические чудеса и автоматизация экспериментов</p>
-</li>
-</ol>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Полезняшки">Полезняшки</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="http://openjdk.java.net/projects/amber/LVTIstyle.html">Гайд по использование var</a></p>
-</li>
-<li>
-<p><a href="https://developer.oracle.com/devo/res/pdf/1385446602743/Oracle-Java10.pdf">Java 10 white paper</a></p>
-</li>
-<li>
-<p><a href="https://visualvm.github.io/" class="bare">https://visualvm.github.io/</a></p>
-</li>
-</ul>
-</div>
-<hr>
-<div class="paragraph">
-<p>Наши контакты:</p>
-</div>
-<div class="paragraph">
-<p>Официальный сайт — <a href="https://razborpoletov.com">https://razborpoletov.com</a></p>
-</div>
-<div class="paragraph">
-<p><a href="https://razborpoletov.com/broadcast.html">Информация о вещании</a></p>
-</div>
-<div class="paragraph">
-<p>Гости и участники:</p>
-</div>
-<div class="paragraph">
-<p>twitter:</p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://twitter.com/antonarhipov">@antonarhipov</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/jbaruch">@jbaruch</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/tolkv">@tolkv</a></p>
-</li>
-</ul>
-</div>
-<!-- player goes here-->
-
-<audio preload="none">
-   <source src="http://traffic.libsyn.com/razborpoletov/razbor_157.mp3" type="audio/mp3" />
-   Your browser does not support the audio tag.
-</audio>
-<div class="paragraph">
-<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
-</div>
-<!-- episode file link goes here-->
-<a href="http://traffic.libsyn.com/razborpoletov/razbor_157.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="https://razborpoletov.com/images/mp3.png" width="64" /></a>
-<div class="paragraph">
-<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
-</div>
-</div>
-</div>]]></description>
-      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_157.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_157.mp3" fileSize="" type="audio/mpeg" />
-      <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2018/03/episode-157.html
-Помочь подкасту - https://www.patreon.com/razborpoletov
-
-
-
-МОЛНИЯ!!! Промо конференции JPoint в Москве!
-
-
-С кодом RazborJPoint вам будет предоставлена скидка на билет!
-p.s. Если идете на JPoint 2018, то дослушайте до конца, там для вас есть конкурс на футболку!
-
-
-
-
-Партнеры выпуска
-
-
-
-👇 👇 👇 Официальный стикерпак Разбора Полетов и полуофициальный Чат pro.jvm в Телеграме 👇 👇 👇
-
-
-
-
-
-стикеры
-
-
-pro.jvm
-
-
-
-
-
-
-Гости
-
-
-
-
-@andrey_kogun Андрей Когунь
-
-
-@olegchir Олег Чирухин
-
-
-@tagir_valeev Тагир Валеев
-
-
-@JohnWings Иван Крылов
-
-
-
-
-
-
-Ведущие
-
-
-
-
-@jbaruch Барух Садоругский
-
-
-@tolkv Толкачёв Кирилл
-
-
-@gamussa Викто Гамов
-
-
-@antonarhipov Антон Архипов
-
-
-
-
-
-
-Темки
-
-
-
-
-Oracle vs Google - нет худа без добра
-
-
-От 9ки до 10ки и жизнь после
-
-
-
-var и пазлеры
-
-
-raw string
-
-
-HttpClient @kuksenko в Java 11 похоже уже не incubating
-
-
-switch expression и сложности с ним связанные
-
-
-non-denotable types
-
-
-
-
-
-Java 10 white paper
-
-
-Когда ждать JFR и где он будет?
-
-
-VisualVM и кто придёт на смену?
-
-
-Лицензии на софт в Docker
-
-
-Тайна названия J9
-
-
-Solomon Hykes уходит из Docker
-
-
-
-https://blog.docker.com/2018/03/au-revoir/
-
-
-
-
-
-Встреча jug.msk.ru 5 апреля 2018 с Рустамом Мехмандаровым и Александром Тарасовым - семантические чудеса и автоматизация экспериментов
-
-
-
-
-
-
-Полезняшки
-
-
-
-
-Гайд по использование var
-
-
-Java 10 white paper
-
-
-https://visualvm.github.io/
-
-
-
-
-
-Наши контакты:
-
-
-Официальный сайт — https://razborpoletov.com
-
-
-Информация о вещании
-
-
-Гости и участники:
-
-
-twitter:
-
-
-
-
-@antonarhipov
-
-
-@gamussa
-
-
-@jbaruch
-
-
-@tolkv
-
-
-
-
-
-
-   
-   Your browser does not support the audio tag.
-
-
-Подписаться по RSS
-
-
-
-
-Музыка ведущим предоставлена и ладно&#8230;&#8203;
-
-
-]]></itunes:summary>
-      <itunes:image href="http://razborpoletov.com/images/razbor_157_text.jpg" />
     </item>
     
   </channel>

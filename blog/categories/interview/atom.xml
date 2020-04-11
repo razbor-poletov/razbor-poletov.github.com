@@ -4,7 +4,7 @@
   <title><![CDATA[Category: interview | Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/blog/categories/interview/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2019-10-30T21:33:05+00:00</updated>
+  <updated>2020-04-11T22:18:51+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,32 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 207 — Interview - QA - По ту сторону разработки]]></title>
+    <link href="http://razborpoletov.com/2020/04/episode-207.html"/>
+    <updated>2020-04-11T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2020/04/episode-207</id>
+    <content type="html"><![CDATA[<p>== Гости и участники</p>
+
+<ul>
+<li>https://twitter.com/eroshenkoam[Артем Ерошенко]</li>
+<li>https://twitter.com/it_improve[Андрей Дмитриев]</li>
+<li>https://twitter.com/brekelov[Всеволод Брекелов]</li>
+<li>https://twitter.com/a_abashev[Алексей Абашев]</li>
+</ul>
+
+
+<p>== Темы</p>
+
+<ul>
+<li>Тестирование</li>
+<li>http://allure.qatools.ru/</li>
+<li>https://habr.com/ru/company/jugru/blog/337386/</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 206 — Interview - Нам нечего бояться!]]></title>
