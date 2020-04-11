@@ -31,8 +31,8 @@ GEM
     pygments.rb (0.3.4)
       posix-spawn (~> 0.3.6)
       yajl-ruby (~> 1.1.0)
-    rack (1.5.2)
-    rack-protection (1.5.0)
+    rack (1.6.13)
+    rack-protection (1.5.5)
       rack
     rake (10.4.2)
     rb-fsevent (0.9.1)
