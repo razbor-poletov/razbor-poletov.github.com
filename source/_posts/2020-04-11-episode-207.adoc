@@ -1,0 +1,21 @@
+---
+layout: episode
+episode: 207
+title: "Episode 207 — Interview - QA - По ту сторону разработки"
+category: interview
+guests: abashev, brekelov, dmitriev, eroshenkoam
+---
+
+== Гости и участники
+
+* https://twitter.com/eroshenkoam[Артем Ерошенко]
+* https://twitter.com/it_improve[Андрей Дмитриев]
+* https://twitter.com/brekelov[Всеволод Брекелов]
+* https://twitter.com/a_abashev[Алексей Абашев]
+
+
+== Темы
+
+* Тестирование
+* http://allure.qatools.ru/
+* https://habr.com/ru/company/jugru/blog/337386/

@@ -13,7 +13,7 @@ layout: nil
     <lastBuildDate>{{ site.time | date_to_xmlschema }}</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="{{ site.url }}/logoNew.jpg" />
-    <itunes:author>Viktor Gamov, Alexey Abashev, Dmitry Churbanov</itunes:author>
+    <itunes:author>Viktor Gamov, Alexey Abashev</itunes:author>
     <itunes:subtitle>Правильный подкаст для IT-шников</itunes:subtitle>
     <itunes:summary>Правильный подкаст для IT-шников</itunes:summary>
     <itunes:category text="Technology">
