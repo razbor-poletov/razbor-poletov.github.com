@@ -3,6 +3,9 @@ language: ruby
 rvm:
   - 2.3.0
 cache: bundler
+install:
+  - gem install bundler --version '1.15.1'
+  - bundle install
 before_script:
   # Disable SSH server fingerprint verification
   - echo -e "Host github.com\n\tStrictHostKeyChecking no\n" >> ~/.ssh/config
