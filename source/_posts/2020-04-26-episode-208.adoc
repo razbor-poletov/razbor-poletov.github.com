@@ -1,0 +1,20 @@
+---
+layout: episode
+episode: 208
+title: "Episode 208 — Interview - Сделайте мне хорошо"
+category: interview
+guests: abashev, brekelov, dmitriev, vladimirsitnikv
+---
+
+== Гости и участники
+
+* https://twitter.com/vladimirsitnikv[Владимир Ситников]
+* https://twitter.com/it_improve[Андрей Дмитриев]
+* https://twitter.com/brekelov[Всеволод Брекелов]
+* https://twitter.com/a_abashev[Алексей Абашев]
+
+
+== Темы
+
+* Performance engineer и чем он живёт
+
