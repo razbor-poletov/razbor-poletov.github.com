@@ -4,7 +4,7 @@
   <title><![CDATA[Category: interview | Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/blog/categories/interview/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2020-05-13T20:16:38+00:00</updated>
+  <updated>2020-05-14T12:18:22+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,51 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 209 — Interview - Контурные карты]]></title>
+    <link href="http://razborpoletov.com/2020/05/episode-209.html"/>
+    <updated>2020-05-14T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2020/05/episode-209</id>
+    <content type="html"><![CDATA[<p>== Гости и участники</p>
+
+<ul>
+<li>https://twitter.com/igorlukanin[Игорь Луканин]</li>
+<li>https://twitter.com/it_improve[Андрей Дмитриев]</li>
+<li>https://twitter.com/brekelov[Всеволод Брекелов]</li>
+<li>https://twitter.com/a_abashev[Алексей Абашев]</li>
+</ul>
+
+
+<p>== Темы</p>
+
+<ul>
+<li>СКБ "Контур" и электронные подписи для бабушек</li>
+</ul>
+
+
+<p>== Полезняшки</p>
+
+<ul>
+<li>Книжка Тафти про дизайн, законы Фиттса: https://en.wikipedia.org/wiki/Edward_Tufte, https://en.wikipedia.org/wiki/Fitts%27s_law</li>
+<li>Сайт про технологии Контура: https://tech.kontur.ru</li>
+<li>Мойра: https://tech.kontur.ru/moira</li>
+<li>Восток: https://tech.kontur.ru/vostok</li>
+<li>ICFPC: https://tech.kontur.ru/contests/icfpc</li>
+</ul>
+
+
+<p>== Деврельские книжки</p>
+
+<ul>
+<li>Guy Kawasaki — The Macintosh Way</li>
+<li>Mary Thengvall — The Business Value of DevRel</li>
+<li>(Work-in-progress) Brandon West — DevRel</li>
+<li>Сергей Абдульманов — Евангелист бизнеса</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 208 — Interview - Сделайте мне хорошо]]></title>

@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2020-05-13T20:16:38+00:00</updated>
+  <updated>2020-05-14T12:18:22+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,91 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 209 — Interview - Контурные карты]]></title>
+    <link href="http://razborpoletov.com/2020/05/episode-209.html"/>
+    <updated>2020-05-14T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2020/05/episode-209</id>
+    <content type="html"><![CDATA[<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://twitter.com/igorlukanin">Игорь Луканин</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/it_improve">Андрей Дмитриев</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/brekelov">Всеволод Брекелов</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/a_abashev">Алексей Абашев</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>СКБ &#8220;Контур&#8221; и электронные подписи для бабушек</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Полезняшки">Полезняшки</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Книжка Тафти про дизайн, законы Фиттса: <a href="https://en.wikipedia.org/wiki/Edward_Tufte" class="bare">https://en.wikipedia.org/wiki/Edward_Tufte</a>, <a href="https://en.wikipedia.org/wiki/Fitts%27s_law" class="bare">https://en.wikipedia.org/wiki/Fitts%27s_law</a></p>
+</li>
+<li>
+<p>Сайт про технологии Контура: <a href="https://tech.kontur.ru" class="bare">https://tech.kontur.ru</a></p>
+</li>
+<li>
+<p>Мойра: <a href="https://tech.kontur.ru/moira" class="bare">https://tech.kontur.ru/moira</a></p>
+</li>
+<li>
+<p>Восток: <a href="https://tech.kontur.ru/vostok" class="bare">https://tech.kontur.ru/vostok</a></p>
+</li>
+<li>
+<p>ICFPC: <a href="https://tech.kontur.ru/contests/icfpc" class="bare">https://tech.kontur.ru/contests/icfpc</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Деврельские-книжки">Деврельские книжки</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Guy Kawasaki — The Macintosh Way</p>
+</li>
+<li>
+<p>Mary Thengvall — The Business Value of DevRel</p>
+</li>
+<li>
+<p>(Work-in-progress) Brandon West — DevRel</p>
+</li>
+<li>
+<p>Сергей Абдульманов — Евангелист бизнеса</p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 208 — Interview - Сделайте мне хорошо]]></title>
