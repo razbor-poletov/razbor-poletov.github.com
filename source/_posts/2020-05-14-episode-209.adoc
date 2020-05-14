@@ -1,0 +1,35 @@
+---
+layout: episode
+episode: 209
+title: "Episode 209 — Interview - Контурные карты"
+category: interview
+guests: abashev, brekelov, dmitriev, igorlukanin
+---
+
+== Гости и участники
+
+* https://twitter.com/igorlukanin[Игорь Луканин]
+* https://twitter.com/it_improve[Андрей Дмитриев]
+* https://twitter.com/brekelov[Всеволод Брекелов]
+* https://twitter.com/a_abashev[Алексей Абашев]
+
+== Темы
+
+* СКБ "Контур" и электронные подписи для бабушек
+
+== Полезняшки
+
+* Книжка Тафти про дизайн, законы Фиттса: https://en.wikipedia.org/wiki/Edward_Tufte, https://en.wikipedia.org/wiki/Fitts%27s_law  
+* Сайт про технологии Контура: https://tech.kontur.ru
+* Мойра: https://tech.kontur.ru/moira
+* Восток: https://tech.kontur.ru/vostok
+* ICFPC: https://tech.kontur.ru/contests/icfpc 
+
+== Деврельские книжки
+
+* Guy Kawasaki — The Macintosh Way
+* Mary Thengvall — The Business Value of DevRel
+* (Work-in-progress) Brandon West — DevRel
+* Сергей Абдульманов — Евангелист бизнеса
+
+
