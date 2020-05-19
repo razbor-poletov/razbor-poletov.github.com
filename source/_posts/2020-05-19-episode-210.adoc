@@ -1,0 +1,21 @@
+---
+layout: episode
+episode: 210
+title: "Episode 210 — Classic - Снова вместе, снова рядом"
+category: classic
+guests: abashev, antonarhipov, gamussa ,ligolnik, jbaruch, tolkv
+---
+
+== Гости и участники
+
+* https://twitter.com/a_abashev[@a_abashev]
+* https://twitter.com/antonarhipov[@antonarhipov]
+* https://twitter.com/gamussa[@gamussa]
+* https://twitter.com/ligolnik[@ligolnik]
+* https://twitter.com/jbaruch[@jbaruch]
+* https://twitter.com/tolkv[@tolkv]
+
+== Темы
+
+* Насколько очистилась природа
+
