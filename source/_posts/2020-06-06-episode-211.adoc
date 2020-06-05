@@ -1,0 +1,30 @@
+---
+layout: episode
+episode: 211
+title: "Episode 211 — Interview - Израиль, Android и стартапы"
+category: classic
+guests: abashev, brekelov, dmitriev, olegchir, parahall
+---
+
+== Гости и участники
+
+* https://twitter.com/parahall[Йонатан Левин]
+* https://twitter.com/it_improve[Андрей Дмитриев]
+* https://twitter.com/brekelov[Всеволод Брекелов]
+* https://twitter.com/a_abashev[Алексей Абашев]
+* https://twitter.com/olegchir[Олег Чирухин]
+
+== Темы
+
+* Израиль, Android и стартапы
+
+
+== Полезняшки
+
+1. https://github.com/Android-Academy-SPB
+2. http://itnan.ru/post.php?c=1&p=420573
+3. https://zen.yandex.ru/media/devby/chemu-uchat-opytnyh-razrabotchikov-v-besplatnoi-android-academy-otzyvy--video-5c6bbbaefec61f00b2b84976
+4. https://www.youtube.com/watch?v=Xx_jDGAJHwo
+
+
+
