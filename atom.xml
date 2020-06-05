@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2020-06-04T15:31:06+00:00</updated>
+  <updated>2020-06-05T20:28:00+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,70 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 211 — Interview - Израиль, Android и стартапы]]></title>
+    <link href="http://razborpoletov.com/2020/06/episode-211.html"/>
+    <updated>2020-06-06T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2020/06/episode-211</id>
+    <content type="html"><![CDATA[<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://twitter.com/parahall">Йонатан Левин</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/it_improve">Андрей Дмитриев</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/brekelov">Всеволод Брекелов</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/a_abashev">Алексей Абашев</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/olegchir">Олег Чирухин</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Израиль, Android и стартапы</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Полезняшки">Полезняшки</h2>
+<div class="sectionbody">
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p><a href="https://github.com/Android-Academy-SPB" class="bare">https://github.com/Android-Academy-SPB</a></p>
+</li>
+<li>
+<p><a href="http://itnan.ru/post.php?c=1&amp;p=420573" class="bare">http://itnan.ru/post.php?c=1&amp;p=420573</a></p>
+</li>
+<li>
+<p><a href="https://zen.yandex.ru/media/devby/chemu-uchat-opytnyh-razrabotchikov-v-besplatnoi-android-academy-otzyvy&#8212;&#8203;video-5c6bbbaefec61f00b2b84976" class="bare">https://zen.yandex.ru/media/devby/chemu-uchat-opytnyh-razrabotchikov-v-besplatnoi-android-academy-otzyvy&#8212;&#8203;video-5c6bbbaefec61f00b2b84976</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=Xx_jDGAJHwo" class="bare">https://www.youtube.com/watch?v=Xx_jDGAJHwo</a></p>
+</li>
+</ol>
+</div>
+</div>
+</div>]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 210 — Classic - Снова вместе, снова рядом]]></title>
@@ -5113,109 +5177,6 @@
 </div>
 <!-- episode file link goes here-->
 <a href="http://traffic.libsyn.com/razborpoletov/razbor_162.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="https://razborpoletov.com/images/mp3.png" width="64" /></a>
-<div class="paragraph">
-<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
-</div>
-</div>
-</div>]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 161 – РП: Конференции — JPoint 2018: Производительность и профилирование]]></title>
-    <link href="http://razborpoletov.com/2018/06/episode-161.html"/>
-    <updated>2018-06-08T00:00:00+00:00</updated>
-    <id>http://razborpoletov.com/2018/06/episode-161</id>
-    <content type="html"><![CDATA[<div class="sect1">
-<h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
-<div class="sectionbody">
-<div class="listingblock">
-<div class="content">
-<pre>👇 👇 👇 Официальный стикерпак Разбора Полетов и полуофициальный Чат pro.jvm в Телеграме 👇 👇 👇</pre>
-</div>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://t.me/addstickers/razbor_poletov">стикеры</a></p>
-</li>
-<li>
-<p><a href="https://t.me/jvmchat">pro.jvm</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Гости-и-ведущие">Гости и ведущие</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p>Сергей Мельников</p>
-</li>
-<li>
-<p>Антон Черноусов <a href="https://twitter.com/golodnyj">@golodnyj</a></p>
-</li>
-<li>
-<p>Алексей Абашев <a href="https://twitter.com/a_abashev">@a_abashev</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Темы">Темы</h2>
-<div class="sectionbody">
-<div class="olist arabic">
-<ol class="arabic">
-<li>
-<p>Где начинается борьба за перформанс?</p>
-</li>
-<li>
-<p>Perf, VTune и другой туллинг профилировщика</p>
-</li>
-<li>
-<p>Доклады которые стоит посмотреть: ни Springом единым</p>
-</li>
-</ol>
-</div>
-<hr>
-<div class="paragraph">
-<p>Наши контакты:</p>
-</div>
-<div class="paragraph">
-<p>Официальный сайт — <a href="https://razborpoletov.com">https://razborpoletov.com</a></p>
-</div>
-<div class="paragraph">
-<p><a href="https://razborpoletov.com/broadcast.html">Информация о вещании</a></p>
-</div>
-<div class="paragraph">
-<p>Гости и участники:</p>
-</div>
-<div class="paragraph">
-<p>twitter:</p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://twitter.com/a_abashev">@a_abashev</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/golodnyj">@golodnyj</a></p>
-</li>
-</ul>
-</div>
-<!-- player goes here-->
-
-<audio preload="none">
-   <source src="http://traffic.libsyn.com/razborpoletov/razbor_161.mp3" type="audio/mp3" />
-   Your browser does not support the audio tag.
-</audio>
-<div class="paragraph">
-<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
-</div>
-<!-- episode file link goes here-->
-<a href="http://traffic.libsyn.com/razborpoletov/razbor_161.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="https://razborpoletov.com/images/mp3.png" width="64" /></a>
 <div class="paragraph">
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
 </div>
