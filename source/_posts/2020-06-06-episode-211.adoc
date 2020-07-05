@@ -2,7 +2,7 @@
 layout: episode
 episode: 211
 title: "Episode 211 — Interview - Израиль, Android и стартапы"
-category: classic
+category: interview
 guests: abashev, brekelov, dmitriev, olegchir, parahall
 ---
 

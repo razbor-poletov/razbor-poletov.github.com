@@ -1,0 +1,29 @@
+---
+layout: episode
+episode: 212
+title: "Episode 212 — Interview - Сказка о том, как JUG.RU воротило нос от удаленной работы, после общения с GitLab"
+category: interview
+guests: abashev, brekelov, dmitriev, olegchir, klymov
+---
+
+Подкаст был записан в августе 2019 года. До COVID-19 оставалось еще полгода.....
+
+== Реклама
+
+https://sweb.ru/[SpaceWeb] 
+
+http://bit.ly/2K4m5dZ[Ошибки, которые не находит статический анализ кода, потому что он не используется]
+
+http://bit.ly/2OiFsoV[PVS-Studio идёт в облака – запуск анализа на Travis CI]
+
+== Гости и участники
+
+* https://t.me/xanf_ua[Илья Климов]
+* https://twitter.com/it_improve[Андрей Дмитриев]
+* https://twitter.com/brekelov[Всеволод Брекелов]
+* https://twitter.com/a_abashev[Алексей Абашев]
+* https://twitter.com/olegchir[Олег Чирухин]
+
+== Темы
+
+Как в GitLab работается JS разработчику
