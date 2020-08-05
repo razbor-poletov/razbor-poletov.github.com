@@ -4,7 +4,7 @@
   <title><![CDATA[Category: interview | Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/blog/categories/interview/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2020-08-04T23:25:52+00:00</updated>
+  <updated>2020-08-05T13:29:27+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,35 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 213 — Interview - Разносторонняя личность]]></title>
+    <link href="http://razborpoletov.com/2020/08/episode-213.html"/>
+    <updated>2020-08-05T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2020/08/episode-213</id>
+    <content type="html"><![CDATA[<p>== Реклама</p>
+
+<p>https://sweb.ru/[SpaceWeb]</p>
+
+<p>http://bit.ly/2K4m5dZ[Ошибки, которые не находит статический анализ кода, потому что он не используется]</p>
+
+<p>http://bit.ly/2OiFsoV[PVS-Studio идёт в облака – запуск анализа на Travis CI]</p>
+
+<p>== Гости и участники</p>
+
+<ul>
+<li>https://twitter.com/alexserbul[Александр Сербул]</li>
+<li>https://twitter.com/brekelov[Всеволод Брекелов]</li>
+<li>https://twitter.com/a_abashev[Алексей Абашев]</li>
+<li>https://twitter.com/olegchir[Олег Чирухин]</li>
+</ul>
+
+
+<p>== Темы</p>
+
+<p>Разносторонняя личность</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 212 — Interview - Сказка о том, как JUG.RU воротило нос от удаленной работы, после общения с GitLab]]></title>
@@ -144,32 +173,6 @@
 
 <ul>
 <li>Performance engineer и чем он живёт</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 207 — Interview - QA - По ту сторону разработки]]></title>
-    <link href="http://razborpoletov.com/2020/04/episode-207.html"/>
-    <updated>2020-04-11T00:00:00+00:00</updated>
-    <id>http://razborpoletov.com/2020/04/episode-207</id>
-    <content type="html"><![CDATA[<p>== Гости и участники</p>
-
-<ul>
-<li>https://twitter.com/eroshenkoam[Артем Ерошенко]</li>
-<li>https://twitter.com/it_improve[Андрей Дмитриев]</li>
-<li>https://twitter.com/brekelov[Всеволод Брекелов]</li>
-<li>https://twitter.com/a_abashev[Алексей Абашев]</li>
-</ul>
-
-
-<p>== Темы</p>
-
-<ul>
-<li>Тестирование</li>
-<li>http://allure.qatools.ru/</li>
-<li>https://habr.com/ru/company/jugru/blog/337386/</li>
 </ul>
 
 ]]></content>
