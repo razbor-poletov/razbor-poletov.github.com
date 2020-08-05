@@ -1,0 +1,26 @@
+---
+layout: episode
+episode: 213
+title: "Episode 213 — Interview - Разносторонняя личность"
+category: interview
+guests: abashev, brekelov, olegchir, alexserbul
+---
+
+== Реклама
+
+https://sweb.ru/[SpaceWeb] 
+
+http://bit.ly/2K4m5dZ[Ошибки, которые не находит статический анализ кода, потому что он не используется]
+
+http://bit.ly/2OiFsoV[PVS-Studio идёт в облака – запуск анализа на Travis CI]
+
+== Гости и участники
+
+* https://twitter.com/alexserbul[Александр Сербул]
+* https://twitter.com/brekelov[Всеволод Брекелов]
+* https://twitter.com/a_abashev[Алексей Абашев]
+* https://twitter.com/olegchir[Олег Чирухин]
+
+== Темы
+
+Разносторонняя личность
