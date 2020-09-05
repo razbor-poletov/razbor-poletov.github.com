@@ -6,8 +6,8 @@
     <atom:link href="http://razborpoletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2020-09-02T21:39:58+00:00</pubDate>
-    <lastBuildDate>2020-09-02T21:39:58+00:00</lastBuildDate>
+    <pubDate>2020-09-05T22:28:37+00:00</pubDate>
+    <lastBuildDate>2020-09-05T22:28:37+00:00</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razborpoletov.com/logoNew.jpg" />
     <itunes:author>Viktor Gamov, Alexey Abashev</itunes:author>
@@ -18,6 +18,111 @@
     </itunes:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:thumbnail url="http://razborpoletov.com/logoNew.jpg" />
+    
+    <item>
+      <title>Episode 214 — Interview - Скрытый архитектор</title>
+      <link>http://razborpoletov.com/2020/09/episode-214.html</link>
+      <pubDate>2020-09-06T00:00:00+00:00</pubDate>
+      <guid isPermalink="true">http://razborpoletov.com/2020/09/episode-214</guid>
+      <description><![CDATA[<div class="paragraph">
+  <p><a href="http://razborpoletov.com/2020/09/episode-214.html">Комментировать</a>
+    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
+</div>
+<div class="sect1">
+<h2 id="Реклама">Реклама</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><a href="https://sweb.ru/">SpaceWeb</a></p>
+</div>
+<div class="paragraph">
+<p><a href="http://bit.ly/2K4m5dZ">Ошибки, которые не находит статический анализ кода, потому что он не используется</a></p>
+</div>
+<div class="paragraph">
+<p><a href="http://bit.ly/2OiFsoV">PVS-Studio идёт в облака – запуск анализа на Travis CI</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://vk.com/vmikhaylov">Вячеслав Михайлов</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/brekelov">Всеволод Брекелов</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/a_abashev">Алексей Абашев</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/olegchir">Олег Чирухин</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Скрытый архитектор</p>
+</div>
+</div>
+</div>]]></description>
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_214.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_214.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2020/09/episode-214.html
+Помочь подкасту - https://www.patreon.com/razborpoletov
+Telegram канал - https://t.me/razborfeed
+
+Реклама
+
+
+SpaceWeb
+
+
+Ошибки, которые не находит статический анализ кода, потому что он не используется
+
+
+PVS-Studio идёт в облака – запуск анализа на Travis CI
+
+
+
+
+Гости и участники
+
+
+
+
+Вячеслав Михайлов
+
+
+Всеволод Брекелов
+
+
+Алексей Абашев
+
+
+Олег Чирухин
+
+
+
+
+
+
+Темы
+
+
+Скрытый архитектор
+
+
+]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_214_text.jpg" />
+    </item>
     
     <item>
       <title>Episode 213 — Interview - Разносторонняя личность</title>
@@ -10128,253 +10233,6 @@ twitter:
 
 ]]></itunes:summary>
       <itunes:image href="http://razborpoletov.com/images/razbor_165_text.jpg" />
-    </item>
-    
-    <item>
-      <title>Episode 164 – РП: Конференции — swampUP 2018 Special</title>
-      <link>http://razborpoletov.com/2018/06/episode-164.html</link>
-      <pubDate>2018-06-20T00:00:00+00:00</pubDate>
-      <guid isPermalink="true">http://razborpoletov.com/2018/06/episode-164</guid>
-      <description><![CDATA[<div class="paragraph">
-  <p><a href="http://razborpoletov.com/2018/06/episode-164.html">Комментировать</a>
-    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a>
-    | <a href="https://t.me/razborfeed">Telegram канал</a>
-  </p>
-</div>
-<div class="sect1">
-<h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
-<div class="sectionbody">
-<div class="listingblock">
-<div class="content">
-<pre>👇 👇 👇 Конференция Joker 2018 уже анонсирована! 👇 👇 👇
-Промокод: Joker2018Razbor
-Работает только для https://jokerconf.com/buy/personal/</pre>
-</div>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://t.me/addstickers/razbor_poletov">стикеры</a></p>
-</li>
-<li>
-<p><a href="https://t.me/jvmchat">pro.jvm</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Гости-и-ведущие">Гости и ведущие</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p>Витя</p>
-</li>
-<li>
-<p>Барух</p>
-</li>
-<li>
-<p>Наш штатный VP of Engineering <a href="https://twitter.com/ligolnik">Леонид Игольник</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Темки">Темки</h2>
-<div class="sectionbody">
-<div class="olist arabic">
-<ol class="arabic">
-<li>
-<p>swampUp 2018</p>
-<div class="olist loweralpha">
-<ol class="loweralpha" type="a">
-<li>
-<p><a href="https://www.youtube.com/watch?v=C-5JIiRy5LU">Витя и Барух спикают</a></p>
-</li>
-<li>
-<p><a href="https://www.youtube.com/watch?v=NSvQ141qRZ0">Леонид и Кори спикают</a></p>
-</li>
-<li>
-<p><a href="https://www.youtube.com/watch?v=oxnwnb7c6x4&amp;list=PLY0Zjn5rFo4OuGDcUEgb48JcObItA4TLW">Остальные видосики уже на youtube</a></p>
-</li>
-</ol>
-</div>
-</li>
-<li>
-<p><a href="http://liquidsoftware.com/">Новая книжка Баруха</a></p>
-</li>
-<li>
-<p>Разжиженное ПО</p>
-</li>
-<li>
-<p>Вари контейнеры правильно</p>
-</li>
-</ol>
-</div>
-<hr>
-<div class="paragraph">
-<p>Наши контакты:</p>
-</div>
-<div class="paragraph">
-<p>Официальный сайт — <a href="https://razborpoletov.com">https://razborpoletov.com</a></p>
-</div>
-<div class="paragraph">
-<p><a href="https://razborpoletov.com/broadcast.html">Информация о вещании</a></p>
-</div>
-<div class="paragraph">
-<p>Гости и участники:</p>
-</div>
-<div class="paragraph">
-<p>twitter:</p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/jbaruch">@jbaruch</a></p>
-</li>
-</ul>
-</div>
-<!-- player goes here-->
-
-<audio preload="none">
-   <source src="http://traffic.libsyn.com/razborpoletov/razbor_164.mp3" type="audio/mp3" />
-   Your browser does not support the audio tag.
-</audio>
-<div class="paragraph">
-<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
-</div>
-<!-- episode file link goes here-->
-<a href="http://traffic.libsyn.com/razborpoletov/razbor_164.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="https://razborpoletov.com/images/mp3.png" width="64" /></a>
-<div class="paragraph">
-<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
-</div>
-</div>
-</div>]]></description>
-      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_164.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_164.mp3" fileSize="" type="audio/mpeg" />
-      <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2018/06/episode-164.html
-Помочь подкасту - https://www.patreon.com/razborpoletov
-Telegram канал - https://t.me/razborfeed
-
-Партнеры выпуска
-
-
-
-👇 👇 👇 Конференция Joker 2018 уже анонсирована! 👇 👇 👇
-Промокод: Joker2018Razbor
-Работает только для https://jokerconf.com/buy/personal/
-
-
-
-
-
-стикеры
-
-
-pro.jvm
-
-
-
-
-
-
-Гости и ведущие
-
-
-
-
-Витя
-
-
-Барух
-
-
-Наш штатный VP of Engineering Леонид Игольник
-
-
-
-
-
-
-Темки
-
-
-
-
-swampUp 2018
-
-
-
-Витя и Барух спикают
-
-
-Леонид и Кори спикают
-
-
-Остальные видосики уже на youtube
-
-
-
-
-
-Новая книжка Баруха
-
-
-Разжиженное ПО
-
-
-Вари контейнеры правильно
-
-
-
-
-
-Наши контакты:
-
-
-Официальный сайт — https://razborpoletov.com
-
-
-Информация о вещании
-
-
-Гости и участники:
-
-
-twitter:
-
-
-
-
-@gamussa
-
-
-@jbaruch
-
-
-
-
-
-
-   
-   Your browser does not support the audio tag.
-
-
-Подписаться по RSS
-
-
-
-
-Музыка ведущим предоставлена и ладно&#8230;&#8203;
-
-
-]]></itunes:summary>
-      <itunes:image href="http://razborpoletov.com/images/razbor_164_text.jpg" />
     </item>
     
   </channel>

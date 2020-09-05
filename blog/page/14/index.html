@@ -9,7 +9,7 @@
   <meta name="author" content="Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky">
 
   
-  <meta name="description" content="Запись была сделана на конференции JPoint 2015 в апреле 2015го. Наши контакты: Официальный сайт — https://razborpoletov.com Информация о вещании &hellip;">
+  <meta name="description" content="Внимание, выпуск 18+ Новости одной строкой: Java 9: сэйв зэ дэйт! Guice 4.0 Темы Новый выпуск ThoughtWorks Tech Radar. Есть мнение что надо думать &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -114,6 +114,262 @@ $(document).ready(function() {
     <div id="content">
       <div class="blog-index">
   
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/2015/05/episode-84.html">Episode 84 - Прототипируй динамично!</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2015-05-17T00:00:00+00:00" pubdate data-updated="true">May 17<span>th</span>, 2015</time>
+        
+         | <a href="/2015/05/episode-84.html#disqus_thread" data-disqus-identifier="http://razbor-poletov.com/2015/05/episode-84.html">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  
+
+
+
+<div class="separator" style="width: 100%; text-align: center;">
+    <img border="0" height="350" src="/images/razbor_84_text.jpg" width="350" />
+</div>
+
+
+
+
+
+  <div class="entry-content"><div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>Внимание, выпуск <strong>18+</strong></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Новости-одной-строкой">Новости одной строкой:</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="http://mail.openjdk.java.net/pipermail/jdk9-dev/2015-May/002172.html">Java 9: сэйв зэ дэйт!</a></p>
+</li>
+<li>
+<p><a href="https://github.com/google/guice/wiki/Guice40">Guice 4.0</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="http://www.thoughtworks.com/radar">Новый выпуск ThoughtWorks Tech Radar</a>. <a href="https://twitter.com/bodil/status/597766837548507136">Есть мнение что надо думать головой</a></p>
+</li>
+<li>
+<p><a href="https://www.voxxed.com/blog/2015/05/youre-not-going-microservices/">Микросервисы - не торт!</a></p>
+</li>
+<li>
+<p><a href="https://www.dartlang.org/events/2015/summit/">Интересности с Dart Developer Summit 2015</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Тема-выпуска-Прототипирование">Тема выпуска: Прототипирование</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><em>Задача: как делать _живые</em> прототипы <em>быстро</em> и с достаточной точностью?_</p>
+</div>
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p><a href="https://balsamiq.com/">Balsamiq</a> - хорош только для того чтобы набросать идею, но точности в нём нехватает.</p>
+</li>
+<li>
+<p>Простой подход: рисовать в битмэп-редакторах: а-ля <strong>Paint.NET</strong>, <strong>Seashore</strong>, <strong>Paintbrush</strong>, <strong>Pixelmator</strong></p>
+<div class="ulist">
+<ul>
+<li>
+<p>трудно рисовать</p>
+</li>
+<li>
+<p>нет интерактивности</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Сложный подход</p>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="http://www.axure.com/">Axure</a> - штука для профессиональных UX-дизайнеров. Довольно сложная.</p>
+</li>
+<li>
+<p><a href="https://www.uxpin.com">UXPin</a> выглядит очень многообещающе. Есть интеграция со Sketch и Photoshop</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Требуется время на освоение</p>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://www.omnigroup.com/omnigraffle" class="bare">https://www.omnigroup.com/omnigraffle</a></p>
+</li>
+<li>
+<p><a href="https://www.lucidchart.com/personahomepage" class="bare">https://www.lucidchart.com/personahomepage</a></p>
+</li>
+<li>
+<p><a href="http://bohemiancoding.com/sketch/" class="bare">http://bohemiancoding.com/sketch/</a></p>
+</li>
+<li>
+<p><a href="http://www.justinmind.com" class="bare">http://www.justinmind.com</a></p>
+</li>
+</ul>
+</div>
+</li>
+</ol>
+</div>
+<div class="paragraph">
+<p><em>&gt;&gt;&gt;&gt;&gt; Но это же не наш метод!&lt;&lt;&lt;&lt;&lt;</em></p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://www.google.com/webdesigner/" class="bare">https://www.google.com/webdesigner/</a></p>
+</li>
+<li>
+<p><a href="https://facebook.github.io/origami/" class="bare">https://facebook.github.io/origami/</a></p>
+</li>
+<li>
+<p><a href="http://semantic-ui.com/">Semantic-UI</a></p>
+</li>
+<li>
+<p>Angular? Dart?</p>
+</li>
+<li>
+<p><a href="http://www.layoutit.com/">Генераторы для Bootstrap а-ля</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Полезняшки">Полезняшки</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><a href="http://pilots.razborpoletov.com/#/useful">Полезняшки искать тут</a></p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="http://blog.arungupta.me/jdk9-repl-getting-started/">REPL в Java 9</a></p>
+</li>
+<li>
+<p><a href="http://rationalwiki.org/wiki/Frequency_illusion" class="bare">http://rationalwiki.org/wiki/Frequency_illusion</a></p>
+</li>
+<li>
+<p><a href="http://javaslang.com/">Программируем на Java функционально</a></p>
+</li>
+<li>
+<p><a href="https://softwaremill.com/mqperf/">Evaluating persistent, replicated message queues</a></p>
+</li>
+<li>
+<p><a href="http://blog.arungupta.me/wildfly-swarm-microservices-javaee/">Wildfly Swarm</a></p>
+</li>
+<li>
+<p><a href="https://github.com/oracle">Внезапно - Oracle на GitHub</a></p>
+</li>
+<li>
+<p><a href="https://www.jetbrains.com/cpp-today-oreilly/">Бесплатная книжка по С++ от JetBrains</a></p>
+</li>
+</ul>
+</div>
+<hr>
+<div class="paragraph">
+<p>Наши контакты:</p>
+</div>
+<div class="paragraph">
+<p>Официальный сайт — <a href="https://razborpoletov.com">https://razborpoletov.com</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://razborpoletov.com/broadcast.html">Информация о вещании</a></p>
+</div>
+<div class="paragraph">
+<p>Гости и участники:</p>
+</div>
+<div class="paragraph">
+<p>twitter:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://twitter.com/a_abashev">@a_abashev</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/antonarhipov">@antonarhipov</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/dzmitryc">@dzmitryc</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/tolkv">@tolkv</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/jbaruch">@jbaruch</a></p>
+</li>
+</ul>
+</div>
+<!-- player goes here-->
+
+<audio preload="none">
+   <source src="http://traffic.libsyn.com/razborpoletov/razbor_84.mp3" type="audio/mp3" />
+   Your browser does not support the audio tag.
+</audio>
+<div class="paragraph">
+<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
+</div>
+<img border="0" src="https://razborpoletov.com/images/ec.jpg"/>
+<!-- episode file link goes here-->
+<a href="http://traffic.libsyn.com/razborpoletov/razbor_84.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="https://razborpoletov.com/images/mp3.png" width="64" /></a>
+<div class="paragraph">
+<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
+</div>
+</div>
+</div></div>
+  
+  
+
+
+    </article>
   
   
     <article>
@@ -1593,120 +1849,6 @@ $(document).ready(function() {
 
     </article>
   
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/2014/12/episode-74.html">Episode 74 — Ретроспективы и прогнозы</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2014-12-28T15:47:00+00:00" pubdate data-updated="true">Dec 28<span>th</span>, 2014</time>
-        
-         | <a href="/2014/12/episode-74.html#disqus_thread" data-disqus-identifier="http://razbor-poletov.com/2014/12/episode-74.html">Comments</a>
-        
-      </p>
-    
-  </header>
-
-
-  
-
-
-
-<div class="separator" style="width: 100%; text-align: center;">
-    <img border="0" height="350" src="/images/razbor_74_text.jpg" width="350" />
-</div>
-
-
-
-
-
-  <div class="entry-content"><p><strong>2014</strong></p>
-
-<ul>
-<li><a href="http://next.javaheadbrain.com/posts/2014/12/13/goodbye-farata-hello-hazelcast.html">Превед, Hazelcast!</a></li>
-<li><a href="http://www.javaadvent.com/2014/12/the-java-ecosystem-my-top-5-highlights.html">Martijn Verburg: Top 5 Java ecosystem highlights in 2014</a></li>
-<li><a href="http://jaxenter.com/best-programming-language-2014-113110.html">Лучший ЯП в 2014</a></li>
-<li><a href="http://www.marcobehler.com/2014/12/27/marco-behlers-2014-ultimate-java-developer-library-tool-people-list/">The ultimate Java tools/libs/ppl list v2014</a></li>
-</ul>
-
-
-<p><strong>Полезняшки:</strong></p>
-
-<ul>
-<li><a href="https://luckymarmot.com/paw">Офигенный REST client</a> - <a href="https://www.youtube.com/watch?v=zbeMDM-zDNI">видео</a></li>
-<li><a href="http://gogs.io/">Self-hosted Git service, written in Go, comes as a Docker image</a></li>
-<li><a href="http://beyondgrep.com/">Прикольная грепалка</a></li>
-<li><a href="https://code.google.com/p/psi-probe/">Мониторилка</a></li>
-</ul>
-
-
-<p><strong>2015</strong></p>
-
-<ul>
-<li><a href="http://www.businessinsider.com/enterprise-tech-predictions-for-2015-by-vcs-2014-12?op=1">А что дядьки с деньгами думают от технологиях в перспективе 2015 года?</a></li>
-<li><a href="http://www.thoughtworks.com/radar">ThoughtWorks Radar</a></li>
-</ul>
-
-
-<hr />
-
-<p>Наши контакты:</p>
-
-<p>Официальный сайт — <a href="https://razborpoletov.com">https://razborpoletov.com</a></p>
-
-<p><a href="https://razborpoletov.com/broadcast.html">Информация о вещании</a></p>
-
-<p>Темы для следующего выпуска - <a href="https://github.com/razbor-poletov/razbor-poletov.github.com/issues?state=open">https://github.com/razbor-poletov/</a></p>
-
-<p>Гости и участники:</p>
-
-<p>twitter:</p>
-
-<ul>
-<li><a href="https://twitter.com/#!/a_abashev">@a_abashev</a></li>
-<li><a href="https://twitter.com/#!/antonarhipov">@antonarhipov</a></li>
-<li><a href="https://twitter.com/#!/gamussa">@gamussa</a></li>
-</ul>
-
-
-<!-- player goes here-->
-
-
-<p><audio preload="none">
-   <source src="http://traffic.libsyn.com/razborpoletov/razbor_74.mp3" type="audio/mp3" />
-   Your browser does not support the audio tag.
-</audio></p>
-
-<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
-
-<!-- episode file link goes here-->
-
-
-<p><a href="http://traffic.libsyn.com/razborpoletov/razbor_74.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="https://razborpoletov.com/images/mp3.png" width="64" /></a></p>
-
-<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;</p>
-</div>
-  
-  
-
-
-    </article>
-  
   <div class="pagination">
     
       <a class="prev" href="/blog/page/15/">&larr; Older</a>
@@ -1749,6 +1891,10 @@ $(document).ready(function() {
   <ul id="recent_posts">
     
       <li class="post">
+        <a href="/2020/09/episode-214.html">Episode 214 — Interview - Скрытый архитектор</a>
+      </li>
+    
+      <li class="post">
         <a href="/2020/08/episode-213.html">Episode 213 — Interview - Разносторонняя личность</a>
       </li>
     
@@ -1774,10 +1920,6 @@ $(document).ready(function() {
     
       <li class="post">
         <a href="/2020/04/episode-207.html">Episode 207 — Interview - QA - По ту сторону разработки</a>
-      </li>
-    
-      <li class="post">
-        <a href="/2019/07/episode-206.html">Episode 206 — Interview - Нам нечего бояться!</a>
       </li>
     
   </ul>
