@@ -4,7 +4,7 @@
   <title><![CDATA[Category: classic | Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/blog/categories/classic/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2020-09-07T09:23:43+00:00</updated>
+  <updated>2020-09-09T13:54:22+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,36 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 215 — Classic - Serverless]]></title>
+    <link href="http://razborpoletov.com/2020/09/episode-215.html"/>
+    <updated>2020-09-09T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2020/09/episode-215</id>
+    <content type="html"><![CDATA[<p>== Гости и участники</p>
+
+<ul>
+<li>https://twitter.com/a_abashev[Алексей Абашев]</li>
+<li>https://twitter.com/golodnyj[Антон Черноусов]</li>
+</ul>
+
+
+<p>== Темы</p>
+
+<p>— Про serverless как отдельный способ разработки ПО и трансформацию. Базовые сервисы: объекты, данные, очереди, апигейтвей, функции.
+— Про Amazon S3 как один из базовых сервисов и миграцию данных
+— Про ремоут и почему менеджмент хочет вернуть людей в офисы</p>
+
+<p>== Полезняшки</p>
+
+<ul>
+<li>https://t.me/serverless_moscow[Канал про Serverless]</li>
+<li>https://github.com/abashev/vfs-s3[Оболочка над AWS S3]</li>
+<li>https://youtu.be/saofz95CO9g[Kafka, кофе и качалка в подкасте на троих 231 The Art Of Programming]</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 210 — Classic - Снова вместе, снова рядом]]></title>
@@ -159,28 +189,6 @@
 . https://sw.kovidgoyal.net/kitty/
 . https://micro-editor.github.io/
 . https://github.com/hackerb9/lsix</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 194 — Classic — Полыхание усиливается]]></title>
-    <link href="http://razborpoletov.com/2018/12/episode-194.html"/>
-    <updated>2018-12-24T00:00:00+00:00</updated>
-    <id>http://razborpoletov.com/2018/12/episode-194</id>
-    <content type="html"><![CDATA[<p>== Гости и участники</p>
-
-<ul>
-<li>https://www.youtube.com/c/yegor256?sub_confirmation=1[Егор Бугаенко]</li>
-</ul>
-
-
-<p>== Темы</p>
-
-<p>. Третий том Elegant Objects
-. Build pipeline
-. Какие успехи  в адаптации нового ООП
-. История с конференциями
-. https://www.yegor256.com/2018/12/18/silicon-valley-criticism.html[Why I Don't Want to Live in Silicon Valley]</p>
 ]]></content>
   </entry>
   

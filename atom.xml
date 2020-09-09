@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2020-09-07T09:23:43+00:00</updated>
+  <updated>2020-09-09T13:54:22+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,56 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 215 — Classic - Serverless]]></title>
+    <link href="http://razborpoletov.com/2020/09/episode-215.html"/>
+    <updated>2020-09-09T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2020/09/episode-215</id>
+    <content type="html"><![CDATA[<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://twitter.com/a_abashev">Алексей Абашев</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/golodnyj">Антон Черноусов</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>— Про serverless как отдельный способ разработки ПО и трансформацию. Базовые сервисы: объекты, данные, очереди, апигейтвей, функции.
+— Про Amazon S3 как один из базовых сервисов и миграцию данных
+— Про ремоут и почему менеджмент хочет вернуть людей в офисы</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Полезняшки">Полезняшки</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://t.me/serverless_moscow">Канал про Serverless</a></p>
+</li>
+<li>
+<p><a href="https://github.com/abashev/vfs-s3">Оболочка над AWS S3</a></p>
+</li>
+<li>
+<p><a href="https://youtu.be/saofz95CO9g">Kafka, кофе и качалка в подкасте на троих 231 The Art Of Programming</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 214 — Interview - Скрытый архитектор]]></title>
@@ -4887,108 +4937,6 @@
 </div>
 <!-- episode file link goes here-->
 <a href="http://traffic.libsyn.com/razborpoletov/razbor_166.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="https://razborpoletov.com/images/mp3.png" width="64" /></a>
-<div class="paragraph">
-<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
-</div>
-</div>
-</div>]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 165 – РП: Java Дайдждест — В ожидании Java 11]]></title>
-    <link href="http://razborpoletov.com/2018/06/episode-165.html"/>
-    <updated>2018-06-26T00:00:00+00:00</updated>
-    <id>http://razborpoletov.com/2018/06/episode-165</id>
-    <content type="html"><![CDATA[<div class="sect1">
-<h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
-<div class="sectionbody">
-<div class="listingblock">
-<div class="content">
-<pre>👇 👇 👇 Конференция Joker 2018 уже анонсирована! 👇 👇 👇
-Промокод: Joker2018Razbor
-Работает только для https://jokerconf.com/buy/personal/</pre>
-</div>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://t.me/addstickers/razbor_poletov">стикеры</a></p>
-</li>
-<li>
-<p><a href="https://t.me/jvmchat">pro.jvm</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Гости-и-участники">Гости и участники</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p>Витя</p>
-</li>
-<li>
-<p>Барух</p>
-</li>
-<li>
-<p><a href="https://twitter.com/olegchir">Олег Чирухин</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Темы">Темы</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://jug.ru/2018/06/digest-week-63">Java Дайджест №62</a></p>
-</li>
-</ul>
-</div>
-<div class="paragraph">
-<p><a href="http://pixanews.com/wp-content/uploads/2013/04/Meerkats_pixanews-1.jpg">Картинку взяли тут</a></p>
-</div>
-<hr>
-<div class="paragraph">
-<p>Наши контакты:</p>
-</div>
-<div class="paragraph">
-<p>Официальный сайт — <a href="https://razborpoletov.com">https://razborpoletov.com</a></p>
-</div>
-<div class="paragraph">
-<p><a href="https://razborpoletov.com/broadcast.html">Информация о вещании</a></p>
-</div>
-<div class="paragraph">
-<p>Гости и участники:</p>
-</div>
-<div class="paragraph">
-<p>twitter:</p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/jbaruch">@jbaruch</a></p>
-</li>
-</ul>
-</div>
-<!-- player goes here-->
-
-<audio preload="none">
-   <source src="http://traffic.libsyn.com/razborpoletov/razbor_165.mp3" type="audio/mp3" />
-   Your browser does not support the audio tag.
-</audio>
-<div class="paragraph">
-<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
-</div>
-<!-- episode file link goes here-->
-<a href="http://traffic.libsyn.com/razborpoletov/razbor_165.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="https://razborpoletov.com/images/mp3.png" width="64" /></a>
 <div class="paragraph">
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
 </div>

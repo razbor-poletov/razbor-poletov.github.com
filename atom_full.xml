@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2020-09-07T09:23:43+00:00</updated>
+  <updated>2020-09-09T13:54:22+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,56 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 215 — Classic - Serverless]]></title>
+    <link href="http://razborpoletov.com/2020/09/episode-215.html"/>
+    <updated>2020-09-09T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2020/09/episode-215</id>
+    <content type="html"><![CDATA[<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://twitter.com/a_abashev">Алексей Абашев</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/golodnyj">Антон Черноусов</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>— Про serverless как отдельный способ разработки ПО и трансформацию. Базовые сервисы: объекты, данные, очереди, апигейтвей, функции.
+— Про Amazon S3 как один из базовых сервисов и миграцию данных
+— Про ремоут и почему менеджмент хочет вернуть людей в офисы</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Полезняшки">Полезняшки</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://t.me/serverless_moscow">Канал про Serverless</a></p>
+</li>
+<li>
+<p><a href="https://github.com/abashev/vfs-s3">Оболочка над AWS S3</a></p>
+</li>
+<li>
+<p><a href="https://youtu.be/saofz95CO9g">Kafka, кофе и качалка в подкасте на троих 231 The Art Of Programming</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 214 — Interview - Скрытый архитектор]]></title>
