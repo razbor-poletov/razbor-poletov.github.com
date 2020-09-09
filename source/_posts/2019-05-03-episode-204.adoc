@@ -3,7 +3,7 @@ layout: episode
 episode: 204
 title: "Episode 204 — JPoint 2019 — Craftsmen vs. QA"
 category: jpoint
-guests: abashev, yegor256, antonkeks
+guests: abashev, yegor256, antonkeks, golodnyj
 ---
 
 == Гости и участники

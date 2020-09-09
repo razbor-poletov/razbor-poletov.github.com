@@ -1,0 +1,26 @@
+---
+layout: episode
+episode: 215
+title: "Episode 215 — Classic - Serverless"
+category: classic
+guests: abashev, golodnyj
+---
+
+== Гости и участники
+
+* https://twitter.com/a_abashev[Алексей Абашев]
+* https://twitter.com/golodnyj[Антон Черноусов]
+
+== Темы
+
+— Про serverless как отдельный способ разработки ПО и трансформацию. Базовые сервисы: объекты, данные, очереди, апигейтвей, функции.
+— Про Amazon S3 как один из базовых сервисов и миграцию данных
+— Про ремоут и почему менеджмент хочет вернуть людей в офисы
+
+== Полезняшки
+
+* https://t.me/serverless_moscow[Канал про Serverless]
+* https://github.com/abashev/vfs-s3[Оболочка над AWS S3]
+* https://youtu.be/saofz95CO9g[Kafka, кофе и качалка в подкасте на троих 231 The Art Of Programming]
+
+
