@@ -1,0 +1,23 @@
+---
+layout: episode
+episode: 216
+title: "Episode 216 — Classic - Трудно найти, легко потерять и невозможно забыть"
+category: classic
+guests: abashev, golodnyj
+---
+
+== Гости и участники
+
+* https://twitter.com/a_abashev[Алексей Абашев]
+* https://twitter.com/golodnyj[Антон Черноусов]
+
+== Темы
+
+* https://cloud.yandex.ru/events/scale-2020/[Онлайн-конференция Yandex Scale]
+* https://dev.to/alediaferia/the-mythical-devops-engineer-n-611[The Mythical DevOps Engineer]
+* https://medium.com/@jakubpierzchlewicz/the-mythical-modular-monolith-ec2375222162[The Mythical Modular Monolith]
+* https://habr.com/ru/post/519314/[Почему Trunk Based Development – лучшая модель ветвления]
+
+== Полезняшки
+
+* https://www.youtube.com/watch?v=pF8RXU-TlZw[Разработка Telegram-бота c помощью Serverless]
