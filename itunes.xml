@@ -6,8 +6,8 @@
     <atom:link href="http://razborpoletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2020-09-20T20:56:05+00:00</pubDate>
-    <lastBuildDate>2020-09-20T20:56:05+00:00</lastBuildDate>
+    <pubDate>2020-09-21T17:50:59+00:00</pubDate>
+    <lastBuildDate>2020-09-21T17:50:59+00:00</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razborpoletov.com/logoNew.jpg" />
     <itunes:author>Viktor Gamov, Alexey Abashev</itunes:author>
@@ -18,6 +18,121 @@
     </itunes:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:thumbnail url="http://razborpoletov.com/logoNew.jpg" />
+    
+    <item>
+      <title>Episode 216 — Classic - Трудно найти, легко потерять и невозможно забыть</title>
+      <link>http://razborpoletov.com/2020/09/episode-216.html</link>
+      <pubDate>2020-09-22T00:00:00+00:00</pubDate>
+      <guid isPermalink="true">http://razborpoletov.com/2020/09/episode-216</guid>
+      <description><![CDATA[<div class="paragraph">
+  <p><a href="http://razborpoletov.com/2020/09/episode-216.html">Комментировать</a>
+    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
+</div>
+<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://twitter.com/a_abashev">Алексей Абашев</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/golodnyj">Антон Черноусов</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://cloud.yandex.ru/events/scale-2020/">Онлайн-конференция Yandex Scale</a></p>
+</li>
+<li>
+<p><a href="https://dev.to/alediaferia/the-mythical-devops-engineer-n-611">The Mythical DevOps Engineer</a></p>
+</li>
+<li>
+<p><a href="https://medium.com/@jakubpierzchlewicz/the-mythical-modular-monolith-ec2375222162">The Mythical Modular Monolith</a></p>
+</li>
+<li>
+<p><a href="https://habr.com/ru/post/519314/">Почему Trunk Based Development – лучшая модель ветвления</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Полезняшки">Полезняшки</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://www.youtube.com/watch?v=pF8RXU-TlZw">Разработка Telegram-бота c помощью Serverless</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description>
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_216.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_216.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2020/09/episode-216.html
+Помочь подкасту - https://www.patreon.com/razborpoletov
+Telegram канал - https://t.me/razborfeed
+
+Гости и участники
+
+
+
+
+Алексей Абашев
+
+
+Антон Черноусов
+
+
+
+
+
+
+Темы
+
+
+
+
+Онлайн-конференция Yandex Scale
+
+
+The Mythical DevOps Engineer
+
+
+The Mythical Modular Monolith
+
+
+Почему Trunk Based Development – лучшая модель ветвления
+
+
+
+
+
+
+Полезняшки
+
+
+
+
+Разработка Telegram-бота c помощью Serverless
+
+
+
+
+]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_216_text.jpg" />
+    </item>
     
     <item>
       <title>Episode 215 — Classic - Serverless</title>
@@ -9876,259 +9991,6 @@ twitter:
 
 ]]></itunes:summary>
       <itunes:image href="http://razborpoletov.com/images/razbor_167_text.jpg" />
-    </item>
-    
-    <item>
-      <title>Episode 166 – РП: Classic — Новости! Релизы! Покупки! и всё, и всё, и всё!</title>
-      <link>http://razborpoletov.com/2018/07/episode-166.html</link>
-      <pubDate>2018-07-01T00:00:00+00:00</pubDate>
-      <guid isPermalink="true">http://razborpoletov.com/2018/07/episode-166</guid>
-      <description><![CDATA[<div class="paragraph">
-  <p><a href="http://razborpoletov.com/2018/07/episode-166.html">Комментировать</a>
-    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a>
-    | <a href="https://t.me/razborfeed">Telegram канал</a>
-  </p>
-</div>
-<div class="sect1">
-<h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
-<div class="sectionbody">
-<div class="listingblock">
-<div class="content">
-<pre>👇 👇 👇 Конференция Joker 2018 уже анонсирована! 👇 👇 👇
-Промокод: Joker2018Razbor
-Работает только для https://jokerconf.com/buy/personal/</pre>
-</div>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://t.me/addstickers/razbor_poletov">стикеры</a></p>
-</li>
-<li>
-<p><a href="https://t.me/jvmchat">pro.jvm</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Темы">Темы</h2>
-<div class="sectionbody">
-<div class="olist arabic">
-<ol class="arabic">
-<li>
-<p><a href="https://meduza.io/feature/2018/06/07/microsoft-kupila-github-eto-horosho-eto-ploho-vse-isportitsya-chto-budet-dalshe">Microsoft покупает GitHub</a></p>
-</li>
-<li>
-<p><a href="https://blog.jetbrains.com/teamcity/2018/06/teamcity-2018-1-released-revamped-kotlin-dsl-read-only-server-new-docker-runner-and-bundled-s3-integration/">релиз TeamCity</a></p>
-<div class="olist loweralpha">
-<ol class="loweralpha" type="a">
-<li>
-<p>Kotlin DSL</p>
-</li>
-<li>
-<p>Хранения артефактов в S3</p>
-</li>
-<li>
-<p>Улучшение интеграции с Docker</p>
-</li>
-</ol>
-</div>
-</li>
-</ol>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Полезняшки">Полезняшки</h2>
-<div class="sectionbody">
-<div class="olist arabic">
-<ol class="arabic">
-<li>
-<p><a href="https://dev.yorhel.nl/ncdu">​ncdu</a></p>
-</li>
-<li>
-<p><a href="https://github.com/jonas/tig">tig</a></p>
-</li>
-<li>
-<p><a href="https://rainbowhackerhorse.github.io/bash-Is-Not-sh/" class="bare">https://rainbowhackerhorse.github.io/bash-Is-Not-sh/</a></p>
-</li>
-</ol>
-</div>
-<hr>
-<div class="paragraph">
-<p>Наши контакты:</p>
-</div>
-<div class="paragraph">
-<p>Официальный сайт — <a href="https://razborpoletov.com">https://razborpoletov.com</a></p>
-</div>
-<div class="paragraph">
-<p><a href="https://razborpoletov.com/broadcast.html">Информация о вещании</a></p>
-</div>
-<div class="paragraph">
-<p>Гости и участники:</p>
-</div>
-<div class="paragraph">
-<p>twitter:</p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://twitter.com/antonarhipov">@antonarhipov</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/jbaruch">@jbaruch</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/tolkv">@tolkv</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/ligolnik">@ligolnik</a></p>
-</li>
-</ul>
-</div>
-<!-- player goes here-->
-
-<audio preload="none">
-   <source src="http://traffic.libsyn.com/razborpoletov/razbor_166.mp3" type="audio/mp3" />
-   Your browser does not support the audio tag.
-</audio>
-<div class="paragraph">
-<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
-</div>
-<!-- episode file link goes here-->
-<a href="http://traffic.libsyn.com/razborpoletov/razbor_166.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="https://razborpoletov.com/images/mp3.png" width="64" /></a>
-<div class="paragraph">
-<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
-</div>
-</div>
-</div>]]></description>
-      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_166.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_166.mp3" fileSize="" type="audio/mpeg" />
-      <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2018/07/episode-166.html
-Помочь подкасту - https://www.patreon.com/razborpoletov
-Telegram канал - https://t.me/razborfeed
-
-Партнеры выпуска
-
-
-
-👇 👇 👇 Конференция Joker 2018 уже анонсирована! 👇 👇 👇
-Промокод: Joker2018Razbor
-Работает только для https://jokerconf.com/buy/personal/
-
-
-
-
-
-стикеры
-
-
-pro.jvm
-
-
-
-
-
-
-Темы
-
-
-
-
-Microsoft покупает GitHub
-
-
-релиз TeamCity
-
-
-
-Kotlin DSL
-
-
-Хранения артефактов в S3
-
-
-Улучшение интеграции с Docker
-
-
-
-
-
-
-
-
-
-Полезняшки
-
-
-
-
-​ncdu
-
-
-tig
-
-
-https://rainbowhackerhorse.github.io/bash-Is-Not-sh/
-
-
-
-
-
-Наши контакты:
-
-
-Официальный сайт — https://razborpoletov.com
-
-
-Информация о вещании
-
-
-Гости и участники:
-
-
-twitter:
-
-
-
-
-@antonarhipov
-
-
-@gamussa
-
-
-@jbaruch
-
-
-@tolkv
-
-
-@ligolnik
-
-
-
-
-
-
-   
-   Your browser does not support the audio tag.
-
-
-Подписаться по RSS
-
-
-
-
-Музыка ведущим предоставлена и ладно&#8230;&#8203;
-
-
-]]></itunes:summary>
-      <itunes:image href="http://razborpoletov.com/images/razbor_166_text.jpg" />
     </item>
     
   </channel>

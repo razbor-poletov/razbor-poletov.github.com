@@ -4,7 +4,7 @@
   <title><![CDATA[Category: classic | Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/blog/categories/classic/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2020-09-20T20:56:05+00:00</updated>
+  <updated>2020-09-21T17:50:59+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,38 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 216 — Classic - Трудно найти, легко потерять и невозможно забыть]]></title>
+    <link href="http://razborpoletov.com/2020/09/episode-216.html"/>
+    <updated>2020-09-22T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2020/09/episode-216</id>
+    <content type="html"><![CDATA[<p>== Гости и участники</p>
+
+<ul>
+<li>https://twitter.com/a_abashev[Алексей Абашев]</li>
+<li>https://twitter.com/golodnyj[Антон Черноусов]</li>
+</ul>
+
+
+<p>== Темы</p>
+
+<ul>
+<li>https://cloud.yandex.ru/events/scale-2020/[Онлайн-конференция Yandex Scale]</li>
+<li>https://dev.to/alediaferia/the-mythical-devops-engineer-n-611[The Mythical DevOps Engineer]</li>
+<li>https://medium.com/@jakubpierzchlewicz/the-mythical-modular-monolith-ec2375222162[The Mythical Modular Monolith]</li>
+<li>https://habr.com/ru/post/519314/[Почему Trunk Based Development – лучшая модель ветвления]</li>
+</ul>
+
+
+<p>== Полезняшки</p>
+
+<ul>
+<li>https://www.youtube.com/watch?v=pF8RXU-TlZw[Разработка Telegram-бота c помощью Serverless]</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 215 — Classic - Serverless]]></title>
@@ -146,49 +178,6 @@
 . Промокод: Razbor на онлайн конференцию https://fevlakeconf.ru/
 . Промокод: RazborPoletov@JavaDay на конференцию JavaDay во Львове https://www.javaday.org.ua/
 . Промокод: razbor-at-delex на конференцию в Минске http://delex-conf.com/</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 196 — Classic - Как прошел 2018-й год?]]></title>
-    <link href="http://razborpoletov.com/2018/12/episode-196.html"/>
-    <updated>2018-12-28T00:00:00+00:00</updated>
-    <id>http://razborpoletov.com/2018/12/episode-196</id>
-    <content type="html"><![CDATA[<p>== Гости и участники</p>
-
-<ul>
-<li>https://twitter.com/gAmUssA[Виктор Гамов]</li>
-<li>https://twitter.com/a_abashev[Алексей Абашев]</li>
-<li>https://twitter.com/antonarhipov[Антон Архипов]</li>
-<li>https://twitter.com/olegchir[Олег Чирухин]</li>
-<li>https://twitter.com/andrei_kogun[Андрей Когунь]</li>
-<li>https://twitter.com/dzmitryc[Дмитрий Чурбанов]</li>
-</ul>
-
-
-<p>== Темы</p>
-
-<p>. Что было интересное в Старом Году и что запомнилось?
- .. Java 11
- .. Gradle и Kotlin!!
- .. Visual Studio Code
- .. Anti-YAML
- .. Kubernetes
-. https://www.jetbrains.org/intellij/sdk/docs/welcome.html[IntelliJ SDK]
-. Борьба с Docker под SELinux
-. https://tech.paulcz.net/blog/future-of-kubernetes-is-virtual-machines/[The future of Kubernetes is Virtual Machines]
- .. https://stackoverflow.com/questions/48609979/how-to-manage-page-cache-resources-when-running-kafka-in-kubernetes
- .. https://github.com/moby/moby/issues/21759</p>
-
-<p>== Полезняшки</p>
-
-<p>. https://c-command.com/toothfairy/
-. https://lunadisplay.com/
- .. https://www.kickstarter.com/projects/767721702/luna-display
- .. https://beamer-app.com/
-. https://sw.kovidgoyal.net/kitty/
-. https://micro-editor.github.io/
-. https://github.com/hackerb9/lsix</p>
 ]]></content>
   </entry>
   
