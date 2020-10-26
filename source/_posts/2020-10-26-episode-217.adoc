@@ -1,0 +1,21 @@
+---
+layout: episode
+episode: 217
+title: "Episode 217 — Interview - Как умно деградировать"
+category: interview
+guests: abashev, tolkv, fedorov
+---
+
+== Промокод на все конфы и абонемент для слушателей подкаста
+
+*debrief2020JRGpc*
+
+* Скидка 1500 на персональный билет
+* Скидка 3000 на персональный абонемент
+
+== Гости и участники
+
+* https://twitter.com/a_abashev[Алексей Абашев]
+* https://twitter.com/tolkv[Кирилл Толкачев]
+* https://t.me/tradeoffs[Телеграм-канал Алексея Федорова про то, как делаются конференции]
+
