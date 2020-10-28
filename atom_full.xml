@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2020-10-26T17:35:26+00:00</updated>
+  <updated>2020-10-28T23:14:58+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -19,24 +19,6 @@
     <updated>2020-10-26T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2020/10/episode-217</id>
     <content type="html"><![CDATA[<div class="sect1">
-<h2 id="Промокод-на-все-конфы-и-абонемент-для-слушателей-подкаста">Промокод на все конфы и абонемент для слушателей подкаста</h2>
-<div class="sectionbody">
-<div class="paragraph">
-<p><strong>debrief2020JRGpc</strong></p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p>Скидка 1500 на персональный билет</p>
-</li>
-<li>
-<p>Скидка 3000 на персональный абонемент</p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
 <h2 id="Гости-и-участники">Гости и участники</h2>
 <div class="sectionbody">
 <div class="ulist">
@@ -49,6 +31,84 @@
 </li>
 <li>
 <p><a href="https://t.me/tradeoffs">Телеграм-канал Алексея Федорова про то, как делаются конференции</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="О-чём-поговорили">О чём поговорили</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Какова миссия онлайновых и офлайновых <a href="https://jugru.org/#schedule">конференций JUG RU Group</a>?</p>
+</li>
+<li>
+<p>Из каких частей состоит онлайн-конференция?</p>
+</li>
+<li>
+<p>Какие ИТ-решения готовит JUG RU Group для осеннего сезона?</p>
+</li>
+<li>
+<p>Что не так с видеосвязью через интернет?</p>
+</li>
+<li>
+<p>Протокол WebRTC, его экосистема, асинхронные вызовы и ад коллбэков</p>
+</li>
+<li>
+<p>Особенности работы видеокодеков H.264 и VP8, разница между аппаратными и программными реализациями</p>
+</li>
+<li>
+<p>Как работают сервисы видеостриминга, и в чём их разница с видеозвонками через Zoom</p>
+</li>
+<li>
+<p>Пайплайн работы стриминговых сервисов</p>
+</li>
+<li>
+<p>Что из себя представляет стриминговое железо, и откуда берутся проблемы с локалкой?</p>
+</li>
+<li>
+<p>Вопросы отказоустойчивости решений для стриминга</p>
+</li>
+<li>
+<p>Почему Youtube в Safari не умеет в 4K?</p>
+</li>
+<li>
+<p>Почему JUG Ru Group до сих пор не сделал клиенский сервис для стриминга?</p>
+</li>
+<li>
+<p>Из кого состоит команда эфира и сколько она стоит для клиента?</p>
+</li>
+<li>
+<p>Почему JUG Ru Group не взяли Hopin, Pine, SpatialChat и другие сервисы &#8220;под ключ&#8221;?</p>
+</li>
+<li>
+<p>Почему JUG Ru Group даже и не пытался этой осенью идти в оффлайн?</p>
+</li>
+<li>
+<p>Впечатление о работе AWS и Яндекс.Облака</p>
+</li>
+<li>
+<p>Приглашение на осенние <a href="https://jugru.org/#schedule">конференции JUG Ru Group</a> и промокод для слушателей подкаста</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Промокод-на-все-конфы-и-абонемент-для-слушателей-подкаста">Промокод на все конфы и абонемент для слушателей подкаста</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><strong>debrief2020JRGpc</strong></p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Скидка 1500 на персональный билет</p>
+</li>
+<li>
+<p>Скидка 3000 на персональный абонемент</p>
 </li>
 </ul>
 </div>

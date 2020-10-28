@@ -4,7 +4,7 @@
   <title><![CDATA[Category: interview | Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/blog/categories/interview/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2020-10-26T17:35:26+00:00</updated>
+  <updated>2020-10-28T23:14:58+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -18,22 +18,45 @@
     <link href="http://razborpoletov.com/2020/10/episode-217.html"/>
     <updated>2020-10-26T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2020/10/episode-217</id>
-    <content type="html"><![CDATA[<p>== Промокод на все конфы и абонемент для слушателей подкаста</p>
+    <content type="html"><![CDATA[<p>== Гости и участники</p>
+
+<ul>
+<li>https://twitter.com/a_abashev[Алексей Абашев]</li>
+<li>https://twitter.com/tolkv[Кирилл Толкачев]</li>
+<li>https://t.me/tradeoffs[Телеграм-канал Алексея Федорова про то, как делаются конференции]</li>
+</ul>
+
+
+<p>== О чём поговорили</p>
+
+<ul>
+<li>Какова миссия онлайновых и офлайновых https://jugru.org/#schedule[конференций JUG RU Group]?</li>
+<li>Из каких частей состоит онлайн-конференция?</li>
+<li>Какие ИТ-решения готовит JUG RU Group для осеннего сезона?</li>
+<li>Что не так с видеосвязью через интернет?</li>
+<li>Протокол WebRTC, его экосистема, асинхронные вызовы и ад коллбэков</li>
+<li>Особенности работы видеокодеков H.264 и VP8, разница между аппаратными и программными реализациями</li>
+<li>Как работают сервисы видеостриминга, и в чём их разница с видеозвонками через Zoom</li>
+<li>Пайплайн работы стриминговых сервисов</li>
+<li>Что из себя представляет стриминговое железо, и откуда берутся проблемы с локалкой?</li>
+<li>Вопросы отказоустойчивости решений для стриминга</li>
+<li>Почему Youtube в Safari не умеет в 4K?</li>
+<li>Почему JUG Ru Group до сих пор не сделал клиенский сервис для стриминга?</li>
+<li>Из кого состоит команда эфира и сколько она стоит для клиента?</li>
+<li>Почему JUG Ru Group не взяли Hopin, Pine, SpatialChat и другие сервисы "под ключ"?</li>
+<li>Почему JUG Ru Group даже и не пытался этой осенью идти в оффлайн?</li>
+<li>Впечатление о работе AWS и Яндекс.Облака</li>
+<li>Приглашение на осенние https://jugru.org/#schedule[конференции JUG Ru Group] и промокод для слушателей подкаста</li>
+</ul>
+
+
+<p>== Промокод на все конфы и абонемент для слушателей подкаста</p>
 
 <p><em>debrief2020JRGpc</em></p>
 
 <ul>
 <li>Скидка 1500 на персональный билет</li>
 <li>Скидка 3000 на персональный абонемент</li>
-</ul>
-
-
-<p>== Гости и участники</p>
-
-<ul>
-<li>https://twitter.com/a_abashev[Алексей Абашев]</li>
-<li>https://twitter.com/tolkv[Кирилл Толкачев]</li>
-<li>https://t.me/tradeoffs[Телеграм-канал Алексея Федорова про то, как делаются конференции]</li>
 </ul>
 
 ]]></content>
