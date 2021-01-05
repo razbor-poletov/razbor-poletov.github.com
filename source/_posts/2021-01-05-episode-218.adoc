@@ -1,0 +1,21 @@
+---
+layout: episode
+episode: 218
+title: "Episode 218 — Classic - Итоги 2020-го года!"
+category: classic
+guests: abashev, antonarhipov, gamussa, jbaruch, tolkv
+---
+
+== Гости и участники
+
+* https://twitter.com/a_abashev[@a_abashev]
+* https://twitter.com/antonarhipov[@antonarhipov]
+* https://twitter.com/gamussa[@gamussa]
+* https://twitter.com/jbaruch[@jbaruch]
+* https://twitter.com/tolkv[@tolkv]
+
+== Темы
+
+* https://tailscale.com/[Tailscale]
+* https://www.zerotier.com/[Zerotier]
+* https://ia.net/writer/blog/a-typographic-christmas[iA Writer Font]
