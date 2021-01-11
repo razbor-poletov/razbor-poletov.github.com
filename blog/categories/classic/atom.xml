@@ -4,7 +4,7 @@
   <title><![CDATA[Category: classic | Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/blog/categories/classic/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2021-01-11T08:12:34+00:00</updated>
+  <updated>2021-01-11T11:35:09+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 219 — Classic - Стахановское движение]]></title>
+    <link href="http://razborpoletov.com/2021/01/episode-219.html"/>
+    <updated>2021-01-11T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2021/01/episode-219</id>
+    <content type="html"><![CDATA[<p>== Гости и участники</p>
+
+<ul>
+<li>https://twitter.com/a_abashev[@a_abashev]</li>
+<li>https://twitter.com/antonarhipov[@antonarhipov]</li>
+<li>https://twitter.com/gamussa[@gamussa]</li>
+<li>https://twitter.com/jbaruch[@jbaruch]</li>
+<li>https://twitter.com/tolkv[@tolkv]</li>
+</ul>
+
+
+<p>== Темы</p>
+
+<ul>
+<li>https://github.com/kordamp/gm</li>
+<li>https://armeria.dev/</li>
+<li>https://github.com/line/armeria/blob/master/settings.gradle</li>
+<li>https://old.reddit.com/r/java/comments/kmn6m3/do_looms_claims_stack_up_part_1_millions_of/</li>
+<li>https://github.com/bsideup/jabel</li>
+<li>https://github.com/pf4j/pf4j</li>
+<li>https://www.morling.dev/blog/introducing-layrry-runner-and-api-for-modularized-java-applications/</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 218 — Classic - Итоги 2020-го года!]]></title>
@@ -123,54 +154,6 @@
 
 <ul>
 <li>Насколько очистилась природа</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 205 — Classic - Что там у вас в энтерпрайзах?]]></title>
-    <link href="http://razborpoletov.com/2019/06/episode-205.html"/>
-    <updated>2019-06-22T00:00:00+00:00</updated>
-    <id>http://razborpoletov.com/2019/06/episode-205</id>
-    <content type="html"><![CDATA[<p>== Гости и участники</p>
-
-<ul>
-<li>https://twitter.com/a_abashev[Алексей Абашев]</li>
-<li>https://twitter.com/antonarhipov[Антон Архипов]</li>
-</ul>
-
-
-<p>== Темы</p>
-
-<ul>
-<li>https://3dnews.ru/987162[Kotlin теперь главный ЯП для Android]</li>
-<li>https://r2dbc.io/[R2DBC]</li>
-<li>https://blog.docker.com/2019/04/announcing-docker-enterprise-3-0/[Docker Enterprise 3.0]
-  ** https://www.youtube.com/watch?v=H3qcJgSJA6U&amp;feature=youtu.be&amp;mkt_tok=eyJpIjoiT1dRMVpUVXdZV0ZsWXpkaiIsInQiOiJKUWlSZW0wZ0xSbDFzaGNFb3gyMHk3cGtKaktOSkFXaWVJa2dQYUlPczBOSGo0aG8yVEYycEtBeWZrY1JXNFhsRXhpbjdLOGxkU1wvNTJNd2V1Rm9tNTcxellkUVhjV1BkbFBJSXk0U21lWHBidU5NdkloUnpkTHI0UVdkQ2ZyZ2gifQ%3D%3D[кейноут с DockerCon]</li>
-<li>https://www.infoq.com/news/2019/04/java-logging-framework-flogger[Новый logging framework от Google]
-  ** https://github.com/google/flogger[Flogger]</li>
-<li>Чё там с Java EE?
-  <strong> https://headcrashing.wordpress.com/2019/05/03/negotiations-failed-how-oracle-killed-java-ee/[Negotiations failed: how Oracle killed Java EE]
-  </strong> https://www.eclipse.org/org/foundation/boardminutes/2019_03_26_Minutes.pdf[Eclipse.org meeting minutes 26-03-2019]
-  <strong> https://blogs.eclipse.org/post/mike-milinkovich/update-jakarta-ee-rights-java-trademarks[Mike Milinkovich: Update on Java EE rights to Java trademarks]
-  </strong> https://dmitrykornilov.net/2019/05/03/thoughts-about-jakarta-ee-future-without-javax/[Dmitry Kornilov: Jakarta EE without 'javax']
-  <strong> https://blogs.oracle.com/theaquarium/jakarta-ee-update[Oracle's POV: Jakarta EE Update]
-  </strong> https://planet.jboss.org/post/jakarta_ee_and_the_future[Mark Little: Jakarta EE and the future]
-  <strong> http://markclittle.blogspot.com/2019/05/to-enterprise-java-and-beyond-personal.html[Mark Little: To Enterprise Java and Beyond]
-  </strong> https://www.tomitribe.com/blog/jakarta-ee-a-new-hope/[David Blevins: Jakarta EE - a new hope]
-  <strong> https://www.eclipse.org/lists/jakartaee-platform-dev/msg00029.html[Дискуссия - как теперь быть]
-  </strong> https://struberg.wordpress.com/2019/05/06/the-way-forward-for-jakartaee-packages[Mark Struberg - The Way forward for JakartaEE packages]
-  ** https://blog.codefx.org/community/jakarta-ee-javax-and-a-week-of-turmoil/[Nicolai Parlog: Jakarta EE, javax, And A Week Of Turmoil]</li>
-<li>https://github.com/features/package-registry[GitHub обзавёлся бинарной репозиторией]</li>
-</ul>
-
-
-<p>== Полезняшки</p>
-
-<ul>
-<li>https://github.com/open-guides/og-aws[AWS overview for beginners]</li>
-<li>https://www.yourkit.com/youmonitor[YourKit YouMonitor]</li>
 </ul>
 
 ]]></content>
