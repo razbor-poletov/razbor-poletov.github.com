@@ -1,0 +1,25 @@
+---
+layout: episode
+episode: 219
+title: "Episode 219 — Classic - Стахановское движение"
+category: classic
+guests: abashev, antonarhipov, gamussa, jbaruch, tolkv
+---
+
+== Гости и участники
+
+* https://twitter.com/a_abashev[@a_abashev]
+* https://twitter.com/antonarhipov[@antonarhipov]
+* https://twitter.com/gamussa[@gamussa]
+* https://twitter.com/jbaruch[@jbaruch]
+* https://twitter.com/tolkv[@tolkv]
+
+== Темы
+
+* https://github.com/kordamp/gm
+* https://armeria.dev/
+* https://github.com/line/armeria/blob/master/settings.gradle
+* https://old.reddit.com/r/java/comments/kmn6m3/do_looms_claims_stack_up_part_1_millions_of/
+* https://github.com/bsideup/jabel
+* https://github.com/pf4j/pf4j
+* https://www.morling.dev/blog/introducing-layrry-runner-and-api-for-modularized-java-applications/
