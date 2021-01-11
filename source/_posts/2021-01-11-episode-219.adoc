@@ -3,7 +3,7 @@ layout: episode
 episode: 219
 title: "Episode 219 — Classic - Стахановское движение"
 category: classic
-guests: abashev, antonarhipov, gamussa, jbaruch, tolkv
+guests: abashev, antonarhipov, gamussa, jbaruch, tolkv, bsideup
 ---
 
 == Гости и участники
@@ -13,6 +13,8 @@ guests: abashev, antonarhipov, gamussa, jbaruch, tolkv
 * https://twitter.com/gamussa[@gamussa]
 * https://twitter.com/jbaruch[@jbaruch]
 * https://twitter.com/tolkv[@tolkv]
+* https://twitter.com/bsideup[Сергей Егоров]
+
 
 == Темы
 
