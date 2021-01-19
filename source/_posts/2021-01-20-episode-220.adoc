@@ -1,0 +1,17 @@
+---
+layout: episode
+episode: 220
+title: "Episode 220 — Classic - Мне не стыдно!"
+category: classic
+guests: abashev, antonarhipov, gamussa, tolkv, bsideup
+---
+
+== Гости и участники
+
+* https://twitter.com/a_abashev[@a_abashev]
+* https://twitter.com/antonarhipov[@antonarhipov]
+* https://twitter.com/gamussa[@gamussa]
+* https://twitter.com/tolkv[@tolkv]
+* https://twitter.com/bsideup[Сергей Егоров]
+
+
