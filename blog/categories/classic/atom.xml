@@ -4,7 +4,7 @@
   <title><![CDATA[Category: classic | Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/blog/categories/classic/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2021-01-16T10:54:59+00:00</updated>
+  <updated>2021-01-19T22:57:13+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 220 — Classic - Мне не стыдно!]]></title>
+    <link href="http://razborpoletov.com/2021/01/episode-220.html"/>
+    <updated>2021-01-20T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2021/01/episode-220</id>
+    <content type="html"><![CDATA[<p>== Гости и участники</p>
+
+<ul>
+<li>https://twitter.com/a_abashev[@a_abashev]</li>
+<li>https://twitter.com/antonarhipov[@antonarhipov]</li>
+<li>https://twitter.com/gamussa[@gamussa]</li>
+<li>https://twitter.com/tolkv[@tolkv]</li>
+<li>https://twitter.com/bsideup[Сергей Егоров]</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 219 — Classic - Стахановское движение]]></title>
@@ -129,32 +147,6 @@
 <li>https://t.me/serverless_moscow[Канал про Serverless]</li>
 <li>https://github.com/abashev/vfs-s3[Оболочка над AWS S3]</li>
 <li>https://youtu.be/saofz95CO9g[Kafka, кофе и качалка в подкасте на троих 231 The Art Of Programming]</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 210 — Classic - Снова вместе, снова рядом]]></title>
-    <link href="http://razborpoletov.com/2020/05/episode-210.html"/>
-    <updated>2020-05-19T00:00:00+00:00</updated>
-    <id>http://razborpoletov.com/2020/05/episode-210</id>
-    <content type="html"><![CDATA[<p>== Гости и участники</p>
-
-<ul>
-<li>https://twitter.com/a_abashev[@a_abashev]</li>
-<li>https://twitter.com/antonarhipov[@antonarhipov]</li>
-<li>https://twitter.com/gamussa[@gamussa]</li>
-<li>https://twitter.com/ligolnik[@ligolnik]</li>
-<li>https://twitter.com/jbaruch[@jbaruch]</li>
-<li>https://twitter.com/tolkv[@tolkv]</li>
-</ul>
-
-
-<p>== Темы</p>
-
-<ul>
-<li>Насколько очистилась природа</li>
 </ul>
 
 ]]></content>
