@@ -1,0 +1,22 @@
+---
+layout: episode
+episode: 221
+title: "Episode 221 — Classic - AWS vs Elastic"
+category: classic
+guests: abashev, antonarhipov, gamussa, tolkv, bsideup
+---
+
+== Гости и участники
+
+* https://twitter.com/a_abashev[@a_abashev]
+* https://twitter.com/antonarhipov[@antonarhipov]
+* https://twitter.com/gamussa[@gamussa]
+* https://twitter.com/tolkv[@tolkv]
+* https://twitter.com/bsideup[Сергей Егоров]
+
+
+== Темы
+
+* https://aws.amazon.com/ru/blogs/opensource/stepping-up-for-a-truly-open-source-elasticsearch/
+* https://habr.com/ru/company/jugru/blog/527110/
+* https://www.amazon.com/Open-Source-Business-Practical-Licensing/dp/B086G6XDM1/
