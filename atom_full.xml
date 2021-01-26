@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2021-01-26T07:27:52+00:00</updated>
+  <updated>2021-01-26T15:27:13+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,55 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 221 — Classic - AWS vs Elastic]]></title>
+    <link href="http://razborpoletov.com/2021/01/episode-221.html"/>
+    <updated>2021-01-26T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2021/01/episode-221</id>
+    <content type="html"><![CDATA[<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://twitter.com/a_abashev">@a_abashev</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/antonarhipov">@antonarhipov</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/tolkv">@tolkv</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/bsideup">Сергей Егоров</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://aws.amazon.com/ru/blogs/opensource/stepping-up-for-a-truly-open-source-elasticsearch/" class="bare">https://aws.amazon.com/ru/blogs/opensource/stepping-up-for-a-truly-open-source-elasticsearch/</a></p>
+</li>
+<li>
+<p><a href="https://habr.com/ru/company/jugru/blog/527110/" class="bare">https://habr.com/ru/company/jugru/blog/527110/</a></p>
+</li>
+<li>
+<p><a href="https://www.amazon.com/Open-Source-Business-Practical-Licensing/dp/B086G6XDM1/" class="bare">https://www.amazon.com/Open-Source-Business-Practical-Licensing/dp/B086G6XDM1/</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 220 — Classic - Мне не стыдно!]]></title>
