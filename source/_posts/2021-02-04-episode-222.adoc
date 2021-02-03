@@ -1,0 +1,21 @@
+---
+layout: episode
+episode: 222
+title: "Episode 222 — Classic - Во всём виноваты юристы и продавцы"
+category: classic
+guests: abashev, antonarhipov, gamussa, tolkv, bsideup
+---
+
+== Гости и участники
+
+* https://twitter.com/a_abashev[@a_abashev]
+* https://twitter.com/antonarhipov[@antonarhipov]
+* https://twitter.com/gamussa[@gamussa]
+* https://twitter.com/tolkv[@tolkv]
+* https://twitter.com/bsideup[Сергей Егоров]
+
+
+== Темы
+
+* https://www.linkedin.com/pulse/why-i-wouldnt-invest-open-source-companies-even-though-wolfram-hempel/ 
+* https://blog.jetbrains.com/idea/2021/01/intellij-idea-2021-1-eap-1/ 
