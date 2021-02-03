@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2021-02-03T17:40:10+00:00</updated>
+  <updated>2021-02-03T22:48:41+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,52 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 222 — Classic - Во всём виноваты юристы и продавцы]]></title>
+    <link href="http://razborpoletov.com/2021/02/episode-222.html"/>
+    <updated>2021-02-04T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2021/02/episode-222</id>
+    <content type="html"><![CDATA[<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://twitter.com/a_abashev">@a_abashev</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/antonarhipov">@antonarhipov</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/tolkv">@tolkv</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/bsideup">Сергей Егоров</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://www.linkedin.com/pulse/why-i-wouldnt-invest-open-source-companies-even-though-wolfram-hempel/" class="bare">https://www.linkedin.com/pulse/why-i-wouldnt-invest-open-source-companies-even-though-wolfram-hempel/</a></p>
+</li>
+<li>
+<p><a href="https://blog.jetbrains.com/idea/2021/01/intellij-idea-2021-1-eap-1/" class="bare">https://blog.jetbrains.com/idea/2021/01/intellij-idea-2021-1-eap-1/</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 221 — Classic - AWS vs Elastic]]></title>

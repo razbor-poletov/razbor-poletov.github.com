@@ -4,7 +4,7 @@
   <title><![CDATA[Category: classic | Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/blog/categories/classic/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2021-02-03T17:40:10+00:00</updated>
+  <updated>2021-02-03T22:48:41+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,32 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 222 — Classic - Во всём виноваты юристы и продавцы]]></title>
+    <link href="http://razborpoletov.com/2021/02/episode-222.html"/>
+    <updated>2021-02-04T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2021/02/episode-222</id>
+    <content type="html"><![CDATA[<p>== Гости и участники</p>
+
+<ul>
+<li>https://twitter.com/a_abashev[@a_abashev]</li>
+<li>https://twitter.com/antonarhipov[@antonarhipov]</li>
+<li>https://twitter.com/gamussa[@gamussa]</li>
+<li>https://twitter.com/tolkv[@tolkv]</li>
+<li>https://twitter.com/bsideup[Сергей Егоров]</li>
+</ul>
+
+
+<p>== Темы</p>
+
+<ul>
+<li>https://www.linkedin.com/pulse/why-i-wouldnt-invest-open-source-companies-even-though-wolfram-hempel/</li>
+<li>https://blog.jetbrains.com/idea/2021/01/intellij-idea-2021-1-eap-1/</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 221 — Classic - AWS vs Elastic]]></title>
@@ -112,38 +138,6 @@
 <li>https://tailscale.com/[Tailscale]</li>
 <li>https://www.zerotier.com/[Zerotier]</li>
 <li>https://ia.net/writer/blog/a-typographic-christmas[iA Writer Font]</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 216 — Classic - Трудно найти, легко потерять и невозможно забыть]]></title>
-    <link href="http://razborpoletov.com/2020/09/episode-216.html"/>
-    <updated>2020-09-22T00:00:00+00:00</updated>
-    <id>http://razborpoletov.com/2020/09/episode-216</id>
-    <content type="html"><![CDATA[<p>== Гости и участники</p>
-
-<ul>
-<li>https://twitter.com/a_abashev[Алексей Абашев]</li>
-<li>https://twitter.com/golodnyj[Антон Черноусов]</li>
-</ul>
-
-
-<p>== Темы</p>
-
-<ul>
-<li>https://cloud.yandex.ru/events/scale-2020/[Онлайн-конференция Yandex Scale]</li>
-<li>https://dev.to/alediaferia/the-mythical-devops-engineer-n-611[The Mythical DevOps Engineer]</li>
-<li>https://medium.com/@jakubpierzchlewicz/the-mythical-modular-monolith-ec2375222162[The Mythical Modular Monolith]</li>
-<li>https://habr.com/ru/post/519314/[Почему Trunk Based Development – лучшая модель ветвления]</li>
-</ul>
-
-
-<p>== Полезняшки</p>
-
-<ul>
-<li>https://www.youtube.com/watch?v=pF8RXU-TlZw[Разработка Telegram-бота c помощью Serverless]</li>
 </ul>
 
 ]]></content>
