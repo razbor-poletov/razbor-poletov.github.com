@@ -1,0 +1,15 @@
+---
+layout: episode
+episode: 223
+title: "Episode 223 — Classic - Ты делаешь open-source, но делаешь это без любви"
+category: classic
+guests: antonarhipov, gamussa, tolkv, bsideup
+---
+
+== Гости и участники
+
+* https://twitter.com/antonarhipov[@antonarhipov]
+* https://twitter.com/gamussa[@gamussa]
+* https://twitter.com/tolkv[@tolkv]
+* https://twitter.com/bsideup[Сергей Егоров]
+
