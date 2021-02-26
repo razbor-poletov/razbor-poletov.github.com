@@ -1,0 +1,14 @@
+---
+layout: episode
+episode: 224
+title: "Episode 224 — Interview - О реставрации ПО"
+category: classic
+guests: gamussa, tolkv, mikhailzankovi1 
+---
+
+== Гости и участники
+
+* https://twitter.com/gamussa[@gamussa]
+* https://twitter.com/tolkv[@tolkv]
+* https://twitter.com/mikhailzankovi1[Михаил Занкович]
+
