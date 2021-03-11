@@ -2,7 +2,7 @@
 layout: episode
 episode: 224
 title: "Episode 224 — Interview - О реставрации ПО"
-category: classic
+category: interview
 guests: gamussa, tolkv, mikhailzankovi1 
 ---
 

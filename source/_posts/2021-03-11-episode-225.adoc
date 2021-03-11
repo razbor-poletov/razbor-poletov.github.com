@@ -1,0 +1,20 @@
+---
+layout: episode
+episode: 225
+title: "Episode 225 — Interview - Облакааааа, кубернетес и апишки..."
+category: interview
+guests: abashev, tolkv, sadonerer
+---
+
+== Гости и участники
+
+* https://twitter.com/tolkv[@tolkv]
+* https://twitter.com/a_abashev[@a_abashev]
+* https://www.instagram.com/sadonerer/[Дмитрий Дубовицкий]
+
+== Темы
+
+* Что делать, если куберы живут в разных облаках
+* Проблема «лебедь, рак и щука»: каждая команда хочет свое
+* Подводные камни быстрого внедрения: API еще нет, а вам очень надо
+* Живы ли bash scripts в проде? 
