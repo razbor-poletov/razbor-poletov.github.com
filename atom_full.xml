@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2021-03-11T16:27:05+00:00</updated>
+  <updated>2021-03-11T18:08:02+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,52 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 225 — Interview - Облакааааа, кубернетес и апишки...]]></title>
+    <link href="http://razborpoletov.com/2021/03/episode-225.html"/>
+    <updated>2021-03-11T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2021/03/episode-225</id>
+    <content type="html"><![CDATA[<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://twitter.com/tolkv">@tolkv</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/a_abashev">@a_abashev</a></p>
+</li>
+<li>
+<p><a href="https://www.instagram.com/sadonerer/">Дмитрий Дубовицкий</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Что делать, если куберы живут в разных облаках</p>
+</li>
+<li>
+<p>Проблема «лебедь, рак и щука»: каждая команда хочет свое</p>
+</li>
+<li>
+<p>Подводные камни быстрого внедрения: API еще нет, а вам очень надо</p>
+</li>
+<li>
+<p>Живы ли bash scripts в проде?</p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 224 — Interview - О реставрации ПО]]></title>

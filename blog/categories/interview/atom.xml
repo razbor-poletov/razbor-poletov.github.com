@@ -4,7 +4,7 @@
   <title><![CDATA[Category: interview | Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/blog/categories/interview/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2021-03-11T16:27:05+00:00</updated>
+  <updated>2021-03-11T18:08:02+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,48 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 225 — Interview - Облакааааа, кубернетес и апишки...]]></title>
+    <link href="http://razborpoletov.com/2021/03/episode-225.html"/>
+    <updated>2021-03-11T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2021/03/episode-225</id>
+    <content type="html"><![CDATA[<p>== Гости и участники</p>
+
+<ul>
+<li>https://twitter.com/tolkv[@tolkv]</li>
+<li>https://twitter.com/a_abashev[@a_abashev]</li>
+<li>https://www.instagram.com/sadonerer/[Дмитрий Дубовицкий]</li>
+</ul>
+
+
+<p>== Темы</p>
+
+<ul>
+<li>Что делать, если куберы живут в разных облаках</li>
+<li>Проблема «лебедь, рак и щука»: каждая команда хочет свое</li>
+<li>Подводные камни быстрого внедрения: API еще нет, а вам очень надо</li>
+<li>Живы ли bash scripts в проде?</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 224 — Interview - О реставрации ПО]]></title>
+    <link href="http://razborpoletov.com/2021/02/episode-224.html"/>
+    <updated>2021-02-26T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2021/02/episode-224</id>
+    <content type="html"><![CDATA[<p>== Гости и участники</p>
+
+<ul>
+<li>https://twitter.com/gamussa[@gamussa]</li>
+<li>https://twitter.com/tolkv[@tolkv]</li>
+<li>https://twitter.com/mikhailzankovi1[Михаил Занкович]</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 217 — Interview - Как умно деградировать]]></title>
@@ -117,73 +159,6 @@
 <p>== Темы</p>
 
 <p>Разносторонняя личность</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 212 — Interview - Сказка о том, как JUG.RU воротило нос от удаленной работы, после общения с GitLab]]></title>
-    <link href="http://razborpoletov.com/2020/07/episode-212.html"/>
-    <updated>2020-07-05T00:00:00+00:00</updated>
-    <id>http://razborpoletov.com/2020/07/episode-212</id>
-    <content type="html"><![CDATA[<p>Подкаст был записан в августе 2019 года. До COVID-19 оставалось еще полгода.....</p>
-
-<p>== Реклама</p>
-
-<p>https://sweb.ru/[SpaceWeb]</p>
-
-<p>http://bit.ly/2K4m5dZ[Ошибки, которые не находит статический анализ кода, потому что он не используется]</p>
-
-<p>http://bit.ly/2OiFsoV[PVS-Studio идёт в облака – запуск анализа на Travis CI]</p>
-
-<p>== Гости и участники</p>
-
-<ul>
-<li>https://t.me/xanf_ua[Илья Климов]</li>
-<li>https://twitter.com/it_improve[Андрей Дмитриев]</li>
-<li>https://twitter.com/brekelov[Всеволод Брекелов]</li>
-<li>https://twitter.com/a_abashev[Алексей Абашев]</li>
-<li>https://twitter.com/olegchir[Олег Чирухин]</li>
-</ul>
-
-
-<p>== Темы</p>
-
-<p>Как в GitLab работается JS разработчику</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 211 — Interview - Израиль, Android и стартапы]]></title>
-    <link href="http://razborpoletov.com/2020/06/episode-211.html"/>
-    <updated>2020-06-06T00:00:00+00:00</updated>
-    <id>http://razborpoletov.com/2020/06/episode-211</id>
-    <content type="html"><![CDATA[<p>== Гости и участники</p>
-
-<ul>
-<li>https://twitter.com/parahall[Йонатан Левин]</li>
-<li>https://twitter.com/it_improve[Андрей Дмитриев]</li>
-<li>https://twitter.com/brekelov[Всеволод Брекелов]</li>
-<li>https://twitter.com/a_abashev[Алексей Абашев]</li>
-<li>https://twitter.com/olegchir[Олег Чирухин]</li>
-</ul>
-
-
-<p>== Темы</p>
-
-<ul>
-<li>Израиль, Android и стартапы</li>
-</ul>
-
-
-<p>== Полезняшки</p>
-
-<ol>
-<li>https://github.com/Android-Academy-SPB</li>
-<li>http://itnan.ru/post.php?c=1&amp;p=420573</li>
-<li>https://zen.yandex.ru/media/devby/chemu-uchat-opytnyh-razrabotchikov-v-besplatnoi-android-academy-otzyvy--video-5c6bbbaefec61f00b2b84976</li>
-<li>https://www.youtube.com/watch?v=Xx_jDGAJHwo</li>
-</ol>
-
 ]]></content>
   </entry>
   
