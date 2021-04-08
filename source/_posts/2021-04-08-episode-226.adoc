@@ -19,7 +19,7 @@ guests: abashev, vlasova
 == Гости и участники
 
 * https://t.me/razborfeed[@a_abashev]
-* Александра Власова
+* https://www.facebook.com/vlasaleksa/[Александра Власова]
 
 == Темы
 
