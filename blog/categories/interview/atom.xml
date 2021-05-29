@@ -4,7 +4,7 @@
   <title><![CDATA[Category: interview | Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/blog/categories/interview/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2021-05-29T21:29:56+00:00</updated>
+  <updated>2021-05-29T21:49:04+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,31 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 228 — Interview - Куда расти архитектору]]></title>
+    <link href="http://razborpoletov.com/2021/05/episode-228.html"/>
+    <updated>2021-05-30T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2021/05/episode-228</id>
+    <content type="html"><![CDATA[<p>== РЕКЛАМА</p>
+
+<p>Как решать глобальные задачи, не уезжая из родного города
+Возможно ли заниматься международными IT-проектами из дома и построить серьёзную карьеру, не покидая родного города?</p>
+
+<p>В Luxoft можно! В Luxoft нанимают специалистов во всех регионах России. Стать ведущим программистом, аналитиком, тестировщиком, project-менеджером в крупных международных проектах, не покидая родного города стало очень просто.</p>
+
+<p>Найти вакансию своей мечты и порекомендовать подходящего человека всегда можно на сайте http://career.luxoft.com/job-opportunities/?keyword=&amp;country%5B%5D=russian%2Bfederation&amp;city%5B%5D=remote%2Brussia&amp;specialization=&amp;set_filter=Y&amp;utm_source=podcast&amp;utm_medium=post&amp;utm_campaign=20210402_b2e_wfa-ru</p>
+
+<p>== Гости и участники</p>
+
+<ul>
+<li>Дмитро Волошин</li>
+<li>https://twitter.com/gamussa[@gamussa]</li>
+<li>https://t.me/razborfeed[@a_abashev]</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 227 — Interview - Зачем внедрять DevOps]]></title>
@@ -117,55 +142,6 @@
 <li>https://twitter.com/gamussa[@gamussa]</li>
 <li>https://twitter.com/tolkv[@tolkv]</li>
 <li>https://twitter.com/mikhailzankovi1[Михаил Занкович]</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 217 — Interview - Как умно деградировать]]></title>
-    <link href="http://razborpoletov.com/2020/10/episode-217.html"/>
-    <updated>2020-10-26T00:00:00+00:00</updated>
-    <id>http://razborpoletov.com/2020/10/episode-217</id>
-    <content type="html"><![CDATA[<p>== Гости и участники</p>
-
-<ul>
-<li>https://twitter.com/a_abashev[Алексей Абашев]</li>
-<li>https://twitter.com/tolkv[Кирилл Толкачев]</li>
-<li>https://t.me/tradeoffs[Телеграм-канал Алексея Федорова про то, как делаются конференции]</li>
-</ul>
-
-
-<p>== О чём поговорили</p>
-
-<ul>
-<li>Какова миссия онлайновых и офлайновых https://jugru.org/#schedule[конференций JUG RU Group]?</li>
-<li>Из каких частей состоит онлайн-конференция?</li>
-<li>Какие ИТ-решения готовит JUG RU Group для осеннего сезона?</li>
-<li>Что не так с видеосвязью через интернет?</li>
-<li>Протокол WebRTC, его экосистема, асинхронные вызовы и ад коллбэков</li>
-<li>Особенности работы видеокодеков H.264 и VP8, разница между аппаратными и программными реализациями</li>
-<li>Как работают сервисы видеостриминга, и в чём их разница с видеозвонками через Zoom</li>
-<li>Пайплайн работы стриминговых сервисов</li>
-<li>Что из себя представляет стриминговое железо, и откуда берутся проблемы с локалкой?</li>
-<li>Вопросы отказоустойчивости решений для стриминга</li>
-<li>Почему Youtube в Safari не умеет в 4K?</li>
-<li>Почему JUG Ru Group до сих пор не сделал клиенский сервис для стриминга?</li>
-<li>Из кого состоит команда эфира и сколько она стоит для клиента?</li>
-<li>Почему JUG Ru Group не взяли Hopin, Pine, SpatialChat и другие сервисы "под ключ"?</li>
-<li>Почему JUG Ru Group даже и не пытался этой осенью идти в оффлайн?</li>
-<li>Впечатление о работе AWS и Яндекс.Облака</li>
-<li>Приглашение на осенние https://jugru.org/#schedule[конференции JUG Ru Group] и промокод для слушателей подкаста</li>
-</ul>
-
-
-<p>== Промокод на все конфы и абонемент для слушателей подкаста</p>
-
-<p><em>debrief2020JRGpc</em></p>
-
-<ul>
-<li>Скидка 1500 на персональный билет</li>
-<li>Скидка 3000 на персональный абонемент</li>
 </ul>
 
 ]]></content>
