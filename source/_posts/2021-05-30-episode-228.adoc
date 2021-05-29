@@ -1,0 +1,23 @@
+---
+layout: episode
+episode: 228
+title: "Episode 228 — Interview - Куда расти архитектору"
+category: interview
+guests: gamussa, abashev, voloshyn
+---
+
+== РЕКЛАМА
+
+Как решать глобальные задачи, не уезжая из родного города
+Возможно ли заниматься международными IT-проектами из дома и построить серьёзную карьеру, не покидая родного города?
+
+В Luxoft можно! В Luxoft нанимают специалистов во всех регионах России. Стать ведущим программистом, аналитиком, тестировщиком, project-менеджером в крупных международных проектах, не покидая родного города стало очень просто.
+
+Найти вакансию своей мечты и порекомендовать подходящего человека всегда можно на сайте http://career.luxoft.com/job-opportunities/?keyword=&country%5B%5D=russian%2Bfederation&city%5B%5D=remote%2Brussia&specialization=&set_filter=Y&utm_source=podcast&utm_medium=post&utm_campaign=20210402_b2e_wfa-ru
+
+
+== Гости и участники
+
+* Дмитро Волошин
+* https://twitter.com/gamussa[@gamussa]
+* https://t.me/razborfeed[@a_abashev]
