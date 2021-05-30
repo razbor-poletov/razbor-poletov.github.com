@@ -18,6 +18,6 @@ guests: gamussa, abashev, voloshyn
 
 == Гости и участники
 
-* Дмитро Волошин
+* https://t.me/dvoloshyn[Дмитро Волошин]
 * https://twitter.com/gamussa[@gamussa]
 * https://t.me/razborfeed[@a_abashev]

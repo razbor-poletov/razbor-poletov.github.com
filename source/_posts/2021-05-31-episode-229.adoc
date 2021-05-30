@@ -1,0 +1,17 @@
+---
+layout: episode
+episode: 229
+title: "Episode 229 — Interview — Как происходит разработка инструментов для партнёров в Яндекс"
+category: interview
+guests: abashev, fedoseenkov
+---
+
+== Weekend offer backend
+
+https://yandex.ru/promo/events/weekend-offer-backend?from=Razbor_Poletov
+
+
+== Гости и участники
+
+* Сергей Федосеенков
+* https://t.me/razborfeed[@a_abashev]
