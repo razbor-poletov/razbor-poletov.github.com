@@ -1,0 +1,15 @@
+---
+layout: episode
+episode: 230
+title: "Episode 230 — Interview — Артём vs DevOps: Rise of TestOps"
+category: interview
+guests: abashev, gamussa, eroshenkoam, tolkv
+---
+
+== Гости и участники
+
+* https://twitter.com/eroshenkoam[Артем Ерошенко]
+* https://twitter.com/gamussa[@gamussa]
+* https://t.me/razborfeed[@a_abashev]
+* https://twitter.com/tolkv[@tolkv]
+
