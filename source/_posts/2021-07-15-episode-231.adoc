@@ -1,0 +1,20 @@
+---
+layout: episode
+episode: 231
+title: "Episode 231 — Classic - Ложь, большая ложь и статистика"
+category: classic
+guests: abashev, antonarhipov, golodnyj
+---
+
+== Гости и участники
+
+* https://t.me/razborfeed[@a_abashev]
+* https://twitter.com/antonarhipov[@antonarhipov]
+* https://twitter.com/golodnyj[Антон Черноусов]
+
+== Темы
+
+* https://elisabethirgens.github.io/notes/2021/06/code-reviews/
+* https://www.vadimkravcenko.com/en/how-to-build-remote-teams-properly/
+* https://res.cloudinary.com/snyk/image/upload/v1623860216/reports/jvm-ecosystem-report-2021.pdf
+* https://www.howtodeal.dev/
