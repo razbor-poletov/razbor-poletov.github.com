@@ -4,7 +4,7 @@
   <title><![CDATA[Category: classic | Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/blog/categories/classic/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2021-07-11T19:37:46+00:00</updated>
+  <updated>2021-07-14T21:36:59+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,32 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 231 — Classic - Ложь, большая ложь и статистика]]></title>
+    <link href="http://razborpoletov.com/2021/07/episode-231.html"/>
+    <updated>2021-07-15T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2021/07/episode-231</id>
+    <content type="html"><![CDATA[<p>== Гости и участники</p>
+
+<ul>
+<li>https://t.me/razborfeed[@a_abashev]</li>
+<li>https://twitter.com/antonarhipov[@antonarhipov]</li>
+<li>https://twitter.com/golodnyj[Антон Черноусов]</li>
+</ul>
+
+
+<p>== Темы</p>
+
+<ul>
+<li>https://elisabethirgens.github.io/notes/2021/06/code-reviews/</li>
+<li>https://www.vadimkravcenko.com/en/how-to-build-remote-teams-properly/</li>
+<li>https://res.cloudinary.com/snyk/image/upload/v1623860216/reports/jvm-ecosystem-report-2021.pdf</li>
+<li>https://www.howtodeal.dev/</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 223 — Classic - Ты делаешь open-source, но делаешь это без любви]]></title>
@@ -96,38 +122,6 @@
 <li>https://twitter.com/gamussa[@gamussa]</li>
 <li>https://twitter.com/tolkv[@tolkv]</li>
 <li>https://twitter.com/bsideup[Сергей Егоров]</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 219 — Classic - Стахановское движение]]></title>
-    <link href="http://razborpoletov.com/2021/01/episode-219.html"/>
-    <updated>2021-01-11T00:00:00+00:00</updated>
-    <id>http://razborpoletov.com/2021/01/episode-219</id>
-    <content type="html"><![CDATA[<p>== Гости и участники</p>
-
-<ul>
-<li>https://twitter.com/a_abashev[@a_abashev]</li>
-<li>https://twitter.com/antonarhipov[@antonarhipov]</li>
-<li>https://twitter.com/gamussa[@gamussa]</li>
-<li>https://twitter.com/jbaruch[@jbaruch]</li>
-<li>https://twitter.com/tolkv[@tolkv]</li>
-<li>https://twitter.com/bsideup[Сергей Егоров]</li>
-</ul>
-
-
-<p>== Темы</p>
-
-<ul>
-<li>https://github.com/kordamp/gm</li>
-<li>https://armeria.dev/</li>
-<li>https://github.com/line/armeria/blob/master/settings.gradle</li>
-<li>https://old.reddit.com/r/java/comments/kmn6m3/do_looms_claims_stack_up_part_1_millions_of/</li>
-<li>https://github.com/bsideup/jabel</li>
-<li>https://github.com/pf4j/pf4j</li>
-<li>https://www.morling.dev/blog/introducing-layrry-runner-and-api-for-modularized-java-applications/</li>
 </ul>
 
 ]]></content>
