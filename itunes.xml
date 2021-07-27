@@ -6,8 +6,8 @@
     <atom:link href="http://razborpoletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2021-07-22T15:25:55+00:00</pubDate>
-    <lastBuildDate>2021-07-22T15:25:55+00:00</lastBuildDate>
+    <pubDate>2021-07-27T20:53:54+00:00</pubDate>
+    <lastBuildDate>2021-07-27T20:53:54+00:00</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razborpoletov.com/logoNew.jpg" />
     <itunes:author>Viktor Gamov, Alexey Abashev</itunes:author>
@@ -18,6 +18,61 @@
     </itunes:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:thumbnail url="http://razborpoletov.com/logoNew.jpg" />
+    
+    <item>
+      <title>Episode 232 — Classic - Человек, который дернул стоп-кран</title>
+      <link>http://razborpoletov.com/2021/07/episode-232.html</link>
+      <pubDate>2021-07-28T00:00:00+00:00</pubDate>
+      <guid isPermalink="true">http://razborpoletov.com/2021/07/episode-232</guid>
+      <description><![CDATA[<div class="paragraph">
+  <p><a href="http://razborpoletov.com/2021/07/episode-232.html">Комментировать</a>
+    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
+</div>
+<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://t.me/razborfeed">@a_abashev</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/andrei_kogun">Андрей Когунь</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description>
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_232.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_232.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2021/07/episode-232.html
+Помочь подкасту - https://www.patreon.com/razborpoletov
+Telegram канал - https://t.me/razborfeed
+
+Гости и участники
+
+
+
+
+@a_abashev
+
+
+@gamussa
+
+
+Андрей Когунь
+
+
+
+
+]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_232_text.jpg" />
+    </item>
     
     <item>
       <title>Episode 231 — Classic - Ложь, большая ложь и статистика</title>
@@ -6884,257 +6939,6 @@ Java Дайджест №75
 
 ]]></itunes:summary>
       <itunes:image href="http://razborpoletov.com/images/razbor_183_text.jpg" />
-    </item>
-    
-    <item>
-      <title>Episode 182 — РП: Java — Дайдждест — Микрофреймворки летят в энтерпрайз</title>
-      <link>http://razborpoletov.com/2018/09/episode-182.html</link>
-      <pubDate>2018-09-17T00:00:00+00:00</pubDate>
-      <guid isPermalink="true">http://razborpoletov.com/2018/09/episode-182</guid>
-      <description><![CDATA[<div class="paragraph">
-  <p><a href="http://razborpoletov.com/2018/09/episode-182.html">Комментировать</a>
-    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a>
-    | <a href="https://t.me/razborfeed">Telegram канал</a>
-  </p>
-</div>
-<div id="preamble">
-<div class="sectionbody">
-<div class="listingblock">
-<div class="content">
-<pre>Официальный Чат Разбора Полетов Телеграме 👇 👇 👇</pre>
-</div>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="http://t.me/razbor_poletov_chat"> 🎉 🎉 🎉 Новый официальный чатик нашего подкаста в Telegram!!!</a></p>
-</li>
-<li>
-<p><a href="https://t.me/addstickers/razbor_poletov">Официальный стикер-пак</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/razbor_poletov/">Твиттер</a></p>
-</li>
-<li>
-<p><a href="http://facebook.com/razborPoletovPodcast/">Facebook</a></p>
-</li>
-</ul>
-</div>
-<div style="page-break-after: always;"></div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
-<div class="sectionbody">
-<div class="sidebarblock">
-<div class="content">
-<div class="paragraph">
-<p>👇 👇 👇 Конференция Joker 2018 уже анонсирована! 👇 👇 👇</p>
-</div>
-<div class="paragraph">
-<p>Промокод: Joker2018Razbor
-Работает только для <a href="https://jokerconf.com/buy/personal/" class="bare">https://jokerconf.com/buy/personal/</a></p>
-</div>
-<div class="paragraph">
-<p>👇 👇 👇 Конференция DevOops 2018 уже анонсирована! 👇 👇 👇</p>
-</div>
-<div class="paragraph">
-<p>Промокод: DevOops2018Razbor
-Работает только для <a href="https://devoops.ru/prices/#personal" class="bare">https://devoops.ru/prices/#personal</a></p>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Гости-и-участники">Гости и участники</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p>Барух</p>
-</li>
-<li>
-<p><a href="https://twitter.com/olegchir">Олег Чирухин</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Темы">Темы</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://jug.ru/2018/09/digest-week-75/">Java Дайджест №75</a></p>
-</li>
-</ul>
-</div>
-<hr>
-<div class="paragraph">
-<p>Наши контакты:</p>
-</div>
-<div class="paragraph">
-<p>Официальный сайт — <a href="https://razborpoletov.com">https://razborpoletov.com</a></p>
-</div>
-<div class="paragraph">
-<p><a href="https://razborpoletov.com/broadcast.html">Информация о вещании</a></p>
-</div>
-<div class="paragraph">
-<p>Гости и участники:</p>
-</div>
-<div class="paragraph">
-<p>twitter:</p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/jbaruch">@jbaruch</a></p>
-</li>
-</ul>
-</div>
-<!-- player goes here-->
-
-<audio preload="none">
-   <source src="http://traffic.libsyn.com/razborpoletov/razbor_182.mp3" type="audio/mp3" />
-   Your browser does not support the audio tag.
-</audio>
-<div class="paragraph">
-<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
-</div>
-<!-- episode file link goes here-->
-<a href="http://traffic.libsyn.com/razborpoletov/razbor_182.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="https://razborpoletov.com/images/mp3.png" width="64" /></a>
-<div class="paragraph">
-<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
-</div>
-</div>
-</div>]]></description>
-      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_182.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_182.mp3" fileSize="" type="audio/mpeg" />
-      <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2018/09/episode-182.html
-Помочь подкасту - https://www.patreon.com/razborpoletov
-Telegram канал - https://t.me/razborfeed
-
-
-
-
-Официальный Чат Разбора Полетов Телеграме 👇 👇 👇
-
-
-
-
-
- 🎉 🎉 🎉 Новый официальный чатик нашего подкаста в Telegram!!!
-
-
-Официальный стикер-пак
-
-
-Твиттер
-
-
-Facebook
-
-
-
-
-
-
-
-Партнеры выпуска
-
-
-
-
-👇 👇 👇 Конференция Joker 2018 уже анонсирована! 👇 👇 👇
-
-
-Промокод: Joker2018Razbor
-Работает только для https://jokerconf.com/buy/personal/
-
-
-👇 👇 👇 Конференция DevOops 2018 уже анонсирована! 👇 👇 👇
-
-
-Промокод: DevOops2018Razbor
-Работает только для https://devoops.ru/prices/#personal
-
-
-
-
-
-
-Гости и участники
-
-
-
-
-Барух
-
-
-Олег Чирухин
-
-
-
-
-
-
-Темы
-
-
-
-
-Java Дайджест №75
-
-
-
-
-
-Наши контакты:
-
-
-Официальный сайт — https://razborpoletov.com
-
-
-Информация о вещании
-
-
-Гости и участники:
-
-
-twitter:
-
-
-
-
-@gamussa
-
-
-@jbaruch
-
-
-
-
-
-
-   
-   Your browser does not support the audio tag.
-
-
-Подписаться по RSS
-
-
-
-
-Музыка ведущим предоставлена и ладно&#8230;&#8203;
-
-
-]]></itunes:summary>
-      <itunes:image href="http://razborpoletov.com/images/razbor_182_text.jpg" />
     </item>
     
   </channel>
