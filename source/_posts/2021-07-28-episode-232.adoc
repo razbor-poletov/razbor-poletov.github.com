@@ -1,0 +1,13 @@
+---
+layout: episode
+episode: 232
+title: "Episode 232 — Classic - Человек, который дернул стоп-кран"
+category: classic
+guests: abashev, gamussa, andrei_kogun
+---
+
+== Гости и участники
+
+* https://t.me/razborfeed[@a_abashev]
+* https://twitter.com/gamussa[@gamussa]
+* https://twitter.com/andrei_kogun[Андрей Когунь]
