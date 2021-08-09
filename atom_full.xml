@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2021-08-09T10:17:40+00:00</updated>
+  <updated>2021-08-09T13:09:48+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,55 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 233 — Classic - Кому PR-ы, кому MR-ы]]></title>
+    <link href="http://razborpoletov.com/2021/08/episode-233.html"/>
+    <updated>2021-08-09T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2021/08/episode-233</id>
+    <content type="html"><![CDATA[<div class="sect1">
+<h2 id="РЕКЛАМА">РЕКЛАМА</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Делаем масштабные финтех-сервисы — более 50 продуктовых команд, и нужно еще больше. Тинькофф в поиске разработчиков Scala, которые не боятся сложных задач. Максимально короткий путь от идеи до реализации.</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Обмениваемся опытом на внутренних и внешних митапах и конференциях, организовали конференцию Scala Russia.</p>
+</li>
+<li>
+<p>Развиваем Open Source-проекты — делимся своими наработками с сообществом на GitHub.</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Работаем удаленно или в офисах. Центры разработки Тинькофф открыты в 18 городах России и в республике Беларусь, в Минске.</p>
+</div>
+<div class="paragraph">
+<p>Все о Scala в Тинькофф, примеры задач в проектах и открытые вакансии — <a href="https://l.tinkoff.ru/it-career-scala" class="bare">https://l.tinkoff.ru/it-career-scala</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://t.me/razborfeed">@a_abashev</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/andrei_kogun">Андрей Когунь</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 232 — Classic - Человек, который дернул стоп-кран]]></title>
