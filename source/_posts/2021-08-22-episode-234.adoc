@@ -1,0 +1,13 @@
+---
+layout: episode
+episode: 234
+title: "Episode 234 — Classic - Хороший студент"
+category: classic
+guests: abashev, gamussa, andrei_kogun
+---
+
+== Гости и участники
+
+* https://t.me/razborfeed[@a_abashev]
+* https://twitter.com/gamussa[@gamussa]
+* https://twitter.com/andrei_kogun[Андрей Когунь]
