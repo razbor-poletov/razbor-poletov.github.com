@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2021-09-10T11:25:37+00:00</updated>
+  <updated>2021-09-11T20:38:59+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,49 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 235 — Classic - Поравалитики]]></title>
+    <link href="http://razborpoletov.com/2021/09/episode-235.html"/>
+    <updated>2021-09-12T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2021/09/episode-235</id>
+    <content type="html"><![CDATA[<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://www.techrepublic.com/article/docker-launches-new-business-plan-with-changes-to-the-docker-desktop-license/" class="bare">https://www.techrepublic.com/article/docker-launches-new-business-plan-with-changes-to-the-docker-desktop-license/</a></p>
+</li>
+<li>
+<p><a href="https://aws.amazon.com/blogs/developer/aws-sdk-for-kotlin-alpha-release/" class="bare">https://aws.amazon.com/blogs/developer/aws-sdk-for-kotlin-alpha-release/</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/springbootlearn/status/1433064046387994629?s=20" class="bare">https://twitter.com/springbootlearn/status/1433064046387994629?s=20</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://t.me/razborfeed">@a_abashev</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/antonarhipov">@antonarhipov</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 234 — Classic - Хороший студент]]></title>
