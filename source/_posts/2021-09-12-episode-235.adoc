@@ -1,0 +1,20 @@
+---
+layout: episode
+episode: 235
+title: "Episode 235 — Classic - Поравалитики"
+category: classic
+guests: abashev, gamussa, antonarhipov
+---
+
+== Темы
+
+* https://www.techrepublic.com/article/docker-launches-new-business-plan-with-changes-to-the-docker-desktop-license/
+* https://aws.amazon.com/blogs/developer/aws-sdk-for-kotlin-alpha-release/
+* https://twitter.com/springbootlearn/status/1433064046387994629?s=20
+
+== Гости и участники
+
+* https://t.me/razborfeed[@a_abashev]
+* https://twitter.com/gamussa[@gamussa]
+* https://twitter.com/antonarhipov[@antonarhipov]
+
