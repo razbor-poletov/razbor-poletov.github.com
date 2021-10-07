@@ -6,8 +6,8 @@
     <atom:link href="http://razborpoletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2021-10-06T09:20:28+00:00</pubDate>
-    <lastBuildDate>2021-10-06T09:20:28+00:00</lastBuildDate>
+    <pubDate>2021-10-07T16:20:48+00:00</pubDate>
+    <lastBuildDate>2021-10-07T16:20:48+00:00</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razborpoletov.com/logoNew.jpg" />
     <itunes:author>Viktor Gamov, Alexey Abashev</itunes:author>
@@ -18,6 +18,97 @@
     </itunes:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:thumbnail url="http://razborpoletov.com/logoNew.jpg" />
+    
+    <item>
+      <title>Episode 236 — Classic - Вот и стукнуло 17</title>
+      <link>http://razborpoletov.com/2021/10/episode-236.html</link>
+      <pubDate>2021-10-07T00:00:00+00:00</pubDate>
+      <guid isPermalink="true">http://razborpoletov.com/2021/10/episode-236</guid>
+      <description><![CDATA[<div class="paragraph">
+  <p><a href="http://razborpoletov.com/2021/10/episode-236.html">Комментировать</a>
+    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://medium.com/javarevisited/whats-new-in-java-17-e94b033ef211" class="bare">https://medium.com/javarevisited/whats-new-in-java-17-e94b033ef211</a></p>
+</li>
+<li>
+<p><a href="https://searchapparchitecture.techtarget.com/tip/Service-mesh-vs-API-gateway-Where-why-and-how-to-use-them" class="bare">https://searchapparchitecture.techtarget.com/tip/Service-mesh-vs-API-gateway-Where-why-and-how-to-use-them</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://t.me/razborfeed">@a_abashev</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/antonarhipov">@antonarhipov</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/golodnyj">Антон Черноусов</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description>
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_236.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_236.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2021/10/episode-236.html
+Помочь подкасту - https://www.patreon.com/razborpoletov
+Telegram канал - https://t.me/razborfeed
+
+Темы
+
+
+
+
+https://medium.com/javarevisited/whats-new-in-java-17-e94b033ef211
+
+
+https://searchapparchitecture.techtarget.com/tip/Service-mesh-vs-API-gateway-Where-why-and-how-to-use-them
+
+
+
+
+
+
+Гости и участники
+
+
+
+
+@a_abashev
+
+
+@gamussa
+
+
+@antonarhipov
+
+
+Антон Черноусов
+
+
+
+
+]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_236_text.jpg" />
+    </item>
     
     <item>
       <title>Episode 235 — Classic - Поравалитики</title>
@@ -5784,199 +5875,6 @@ twitter:
 
 ]]></itunes:summary>
       <itunes:image href="http://razborpoletov.com/images/razbor_187_text.jpg" />
-    </item>
-    
-    <item>
-      <title>Episode 186 — РП: Java — Дайдждест — Много новостей</title>
-      <link>http://razborpoletov.com/2018/10/episode-186.html</link>
-      <pubDate>2018-10-01T00:00:00+00:00</pubDate>
-      <guid isPermalink="true">http://razborpoletov.com/2018/10/episode-186</guid>
-      <description><![CDATA[<div class="paragraph">
-  <p><a href="http://razborpoletov.com/2018/10/episode-186.html">Комментировать</a>
-    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a>
-    | <a href="https://t.me/razborfeed">Telegram канал</a>
-  </p>
-</div>
-<div class="sect1">
-<h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
-<div class="sectionbody">
-<div class="sidebarblock">
-<div class="content">
-<div class="paragraph">
-<p>👇 👇 👇 Конференция Joker 2018 уже анонсирована! 👇 👇 👇</p>
-</div>
-<div class="paragraph">
-<p>Промокод: Joker2018Razbor
-Работает только для <a href="https://jokerconf.com/buy/personal/" class="bare">https://jokerconf.com/buy/personal/</a></p>
-</div>
-<div class="paragraph">
-<p>👇 👇 👇 Конференция DevOops 2018 уже анонсирована! 👇 👇 👇</p>
-</div>
-<div class="paragraph">
-<p>Промокод: DevOops2018Razbor
-Работает только для <a href="https://devoops.ru/prices/#personal" class="bare">https://devoops.ru/prices/#personal</a></p>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Гости-и-участники">Гости и участники</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://twitter.com/olegchir">Олег Чирухин</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Темы">Темы</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://jug.ru/2018/10/digest-week-77">Java Дайджест №77</a></p>
-</li>
-</ul>
-</div>
-<hr>
-<div class="paragraph">
-<p>Наши контакты:</p>
-</div>
-<div class="paragraph">
-<p>Официальный сайт — <a href="https://razborpoletov.com">https://razborpoletov.com</a></p>
-</div>
-<div class="paragraph">
-<p><a href="https://razborpoletov.com/broadcast.html">Информация о вещании</a></p>
-</div>
-<div class="paragraph">
-<p>Гости и участники:</p>
-</div>
-<div class="paragraph">
-<p>twitter:</p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://twitter.com/a_abashev">@a_abashev</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
-</li>
-</ul>
-</div>
-<!-- player goes here-->
-
-<audio preload="none">
-   <source src="http://traffic.libsyn.com/razborpoletov/razbor_186.mp3" type="audio/mp3" />
-   Your browser does not support the audio tag.
-</audio>
-<div class="paragraph">
-<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
-</div>
-<!-- episode file link goes here-->
-<a href="http://traffic.libsyn.com/razborpoletov/razbor_186.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="https://razborpoletov.com/images/mp3.png" width="64" /></a>
-<div class="paragraph">
-<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
-</div>
-</div>
-</div>]]></description>
-      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_186.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_186.mp3" fileSize="" type="audio/mpeg" />
-      <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2018/10/episode-186.html
-Помочь подкасту - https://www.patreon.com/razborpoletov
-Telegram канал - https://t.me/razborfeed
-
-Партнеры выпуска
-
-
-
-
-👇 👇 👇 Конференция Joker 2018 уже анонсирована! 👇 👇 👇
-
-
-Промокод: Joker2018Razbor
-Работает только для https://jokerconf.com/buy/personal/
-
-
-👇 👇 👇 Конференция DevOops 2018 уже анонсирована! 👇 👇 👇
-
-
-Промокод: DevOops2018Razbor
-Работает только для https://devoops.ru/prices/#personal
-
-
-
-
-
-
-Гости и участники
-
-
-
-
-Олег Чирухин
-
-
-
-
-
-
-Темы
-
-
-
-
-Java Дайджест №77
-
-
-
-
-
-Наши контакты:
-
-
-Официальный сайт — https://razborpoletov.com
-
-
-Информация о вещании
-
-
-Гости и участники:
-
-
-twitter:
-
-
-
-
-@a_abashev
-
-
-@gamussa
-
-
-
-
-
-
-   
-   Your browser does not support the audio tag.
-
-
-Подписаться по RSS
-
-
-
-
-Музыка ведущим предоставлена и ладно&#8230;&#8203;
-
-
-]]></itunes:summary>
-      <itunes:image href="http://razborpoletov.com/images/razbor_186_text.jpg" />
     </item>
     
   </channel>

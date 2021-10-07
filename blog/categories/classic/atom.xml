@@ -4,7 +4,7 @@
   <title><![CDATA[Category: classic | Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/blog/categories/classic/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2021-10-06T09:20:28+00:00</updated>
+  <updated>2021-10-07T16:20:48+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,31 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 236 — Classic - Вот и стукнуло 17]]></title>
+    <link href="http://razborpoletov.com/2021/10/episode-236.html"/>
+    <updated>2021-10-07T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2021/10/episode-236</id>
+    <content type="html"><![CDATA[<p>== Темы</p>
+
+<ul>
+<li>https://medium.com/javarevisited/whats-new-in-java-17-e94b033ef211</li>
+<li>https://searchapparchitecture.techtarget.com/tip/Service-mesh-vs-API-gateway-Where-why-and-how-to-use-them</li>
+</ul>
+
+
+<p>== Гости и участники</p>
+
+<ul>
+<li>https://t.me/razborfeed[@a_abashev]</li>
+<li>https://twitter.com/gamussa[@gamussa]</li>
+<li>https://twitter.com/antonarhipov[@antonarhipov]</li>
+<li>https://twitter.com/golodnyj[Антон Черноусов]</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 235 — Classic - Поравалитики]]></title>
@@ -95,32 +120,6 @@
 <li>https://t.me/razborfeed[@a_abashev]</li>
 <li>https://twitter.com/gamussa[@gamussa]</li>
 <li>https://twitter.com/andrei_kogun[Андрей Когунь]</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 231 — Classic - Ложь, большая ложь и статистика]]></title>
-    <link href="http://razborpoletov.com/2021/07/episode-231.html"/>
-    <updated>2021-07-15T00:00:00+00:00</updated>
-    <id>http://razborpoletov.com/2021/07/episode-231</id>
-    <content type="html"><![CDATA[<p>== Гости и участники</p>
-
-<ul>
-<li>https://t.me/razborfeed[@a_abashev]</li>
-<li>https://twitter.com/antonarhipov[@antonarhipov]</li>
-<li>https://twitter.com/golodnyj[Антон Черноусов]</li>
-</ul>
-
-
-<p>== Темы</p>
-
-<ul>
-<li>https://elisabethirgens.github.io/notes/2021/06/code-reviews/</li>
-<li>https://www.vadimkravcenko.com/en/how-to-build-remote-teams-properly/</li>
-<li>https://res.cloudinary.com/snyk/image/upload/v1623860216/reports/jvm-ecosystem-report-2021.pdf</li>
-<li>https://www.howtodeal.dev/</li>
 </ul>
 
 ]]></content>
