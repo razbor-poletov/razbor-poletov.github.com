@@ -1,0 +1,20 @@
+---
+layout: episode
+episode: 236
+title: "Episode 236 — Classic - Вот и стукнуло 17"
+category: classic
+guests: abashev, gamussa, antonarhipov, golodnyj
+---
+
+== Темы
+
+* https://medium.com/javarevisited/whats-new-in-java-17-e94b033ef211
+* https://searchapparchitecture.techtarget.com/tip/Service-mesh-vs-API-gateway-Where-why-and-how-to-use-them
+
+== Гости и участники
+
+* https://t.me/razborfeed[@a_abashev]
+* https://twitter.com/gamussa[@gamussa]
+* https://twitter.com/antonarhipov[@antonarhipov]
+* https://twitter.com/golodnyj[Антон Черноусов]
+
