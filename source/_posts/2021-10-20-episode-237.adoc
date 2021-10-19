@@ -1,0 +1,25 @@
+---
+layout: episode
+episode: 237
+title: "Episode 237 — Interview - DevSecOps - Безопасность прежде всего!"
+category: classic
+guests: abashev, gamussa, tolkv, golodnyj, kuvaev
+---
+
+== Темы
+
+Ссылки на каналы:
+
+https://t.me/microfocusrussia/[Micro Focus telegram]
+
+https://www.facebook.com/MicroFocusRU[Micro Focus Facebook]
+
+
+== Гости и участники
+
+* mailto:valery.kuvaev@microfocus.com[Валерий Куваев, технический эксперт Micro Focus в регионе EMEA]
+* https://t.me/razborfeed[@a_abashev]
+* https://twitter.com/gamussa[@gamussa]
+* https://twitter.com/tolkv[@tolkv]
+* https://twitter.com/golodnyj[Антон Черноусов]
+
