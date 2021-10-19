@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2021-10-19T21:52:09+00:00</updated>
+  <updated>2021-10-19T22:19:40+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -25,8 +25,10 @@
 <p>Ссылки на каналы:</p>
 </div>
 <div class="paragraph">
-<p><a href="https://t.me/microfocusrussia/">Micro Focus telegram</a>
-<a href="https://www.facebook.com/MicroFocusRU">Micro Focus Facebook</a></p>
+<p><a href="https://t.me/microfocusrussia/">Micro Focus telegram</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://www.facebook.com/MicroFocusRU">Micro Focus Facebook</a></p>
 </div>
 </div>
 </div>
@@ -36,7 +38,7 @@
 <div class="ulist">
 <ul>
 <li>
-<p><a href="mailto:valery.kuvaev@microfocus.com">valery.kuvaev@microfocus.com</a>[Валерий Куваев, технический эксперт Micro Focus в регионе EMEA]</p>
+<p><a href="mailto:valery.kuvaev@microfocus.com?subject=%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D1%8D%D0%BA%D1%81%D0%BF%D0%B5%D1%80%D1%82%20Micro%20Focus%20%D0%B2%20%D1%80%D0%B5%D0%B3%D0%B8%D0%BE%D0%BD%D0%B5%20EMEA">Валерий Куваев</a></p>
 </li>
 <li>
 <p><a href="https://t.me/razborfeed">@a_abashev</a></p>

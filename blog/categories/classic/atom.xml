@@ -4,7 +4,7 @@
   <title><![CDATA[Category: classic | Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/blog/categories/classic/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2021-10-19T21:52:09+00:00</updated>
+  <updated>2021-10-19T22:19:40+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -22,13 +22,14 @@
 
 <p>Ссылки на каналы:</p>
 
-<p>https://t.me/microfocusrussia/[Micro Focus telegram]
-https://www.facebook.com/MicroFocusRU[Micro Focus Facebook]</p>
+<p>https://t.me/microfocusrussia/[Micro Focus telegram]</p>
+
+<p>https://www.facebook.com/MicroFocusRU[Micro Focus Facebook]</p>
 
 <p>== Гости и участники</p>
 
 <ul>
-<li>valery.kuvaev@microfocus.com[Валерий Куваев, технический эксперт Micro Focus в регионе EMEA]</li>
+<li>mailto:valery.kuvaev@microfocus.com[Валерий Куваев, технический эксперт Micro Focus в регионе EMEA]</li>
 <li>https://t.me/razborfeed[@a_abashev]</li>
 <li>https://twitter.com/gamussa[@gamussa]</li>
 <li>https://twitter.com/tolkv[@tolkv]</li>
