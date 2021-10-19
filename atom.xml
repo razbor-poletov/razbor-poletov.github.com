@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2021-10-19T07:17:50+00:00</updated>
+  <updated>2021-10-19T21:52:09+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,49 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 237 — Interview - DevSecOps - Безопасность прежде всего!]]></title>
+    <link href="http://razborpoletov.com/2021/10/episode-237.html"/>
+    <updated>2021-10-20T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2021/10/episode-237</id>
+    <content type="html"><![CDATA[<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Ссылки на каналы:</p>
+</div>
+<div class="paragraph">
+<p><a href="https://t.me/microfocusrussia/">Micro Focus telegram</a>
+<a href="https://www.facebook.com/MicroFocusRU">Micro Focus Facebook</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="mailto:valery.kuvaev@microfocus.com">valery.kuvaev@microfocus.com</a>[Валерий Куваев, технический эксперт Micro Focus в регионе EMEA]</p>
+</li>
+<li>
+<p><a href="https://t.me/razborfeed">@a_abashev</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/tolkv">@tolkv</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/golodnyj">Антон Черноусов</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 236 — Classic - Вот и стукнуло 17]]></title>
@@ -2703,115 +2746,6 @@
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
 </div>
 </div>
-</div>
-</div>
-</div>]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 187 — РП: Java — Дайдждест — Kubernetes is new Java EE?]]></title>
-    <link href="http://razborpoletov.com/2018/10/episode-187.html"/>
-    <updated>2018-10-08T00:00:00+00:00</updated>
-    <id>http://razborpoletov.com/2018/10/episode-187</id>
-    <content type="html"><![CDATA[<div class="sect1">
-<h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
-<div class="sectionbody">
-<div class="listingblock">
-<div class="content">
-<pre>👇 👇 👇 Официальный стикерпак Разбора Полетов и полуофициальный Чат pro.jvm в Телеграме 👇 👇 👇</pre>
-</div>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://t.me/addstickers/razbor_poletov">стикеры</a></p>
-</li>
-<li>
-<p><a href="https://t.me/jvmchat">pro.jvm</a></p>
-</li>
-</ul>
-</div>
-<div class="sidebarblock">
-<div class="content">
-<div class="paragraph">
-<p>👇 👇 👇 Конференция Joker 2018 уже анонсирована! 👇 👇 👇</p>
-</div>
-<div class="paragraph">
-<p>Промокод: Joker2018Razbor
-Работает только для <a href="https://jokerconf.com/buy/personal/" class="bare">https://jokerconf.com/buy/personal/</a></p>
-</div>
-<div class="paragraph">
-<p>👇 👇 👇 Конференция DevOops 2018 уже анонсирована! 👇 👇 👇</p>
-</div>
-<div class="paragraph">
-<p>Промокод: DevOops2018Razbor
-Работает только для <a href="https://devoops.ru/prices/#personal" class="bare">https://devoops.ru/prices/#personal</a></p>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Гости-и-участники">Гости и участники</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://twitter.com/olegchir">Олег Чирухин</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Темы">Темы</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://jug.ru/2018/10/digest-week-78">Java Дайджест №78</a></p>
-</li>
-</ul>
-</div>
-<hr>
-<div class="paragraph">
-<p>Наши контакты:</p>
-</div>
-<div class="paragraph">
-<p>Официальный сайт — <a href="https://razborpoletov.com">https://razborpoletov.com</a></p>
-</div>
-<div class="paragraph">
-<p><a href="https://razborpoletov.com/broadcast.html">Информация о вещании</a></p>
-</div>
-<div class="paragraph">
-<p>Гости и участники:</p>
-</div>
-<div class="paragraph">
-<p>twitter:</p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://twitter.com/a_abashev">@a_abashev</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
-</li>
-</ul>
-</div>
-<!-- player goes here-->
-
-<audio preload="none">
-   <source src="http://traffic.libsyn.com/razborpoletov/razbor_187.mp3" type="audio/mp3" />
-   Your browser does not support the audio tag.
-</audio>
-<div class="paragraph">
-<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
-</div>
-<!-- episode file link goes here-->
-<a href="http://traffic.libsyn.com/razborpoletov/razbor_187.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="https://razborpoletov.com/images/mp3.png" width="64" /></a>
-<div class="paragraph">
-<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
 </div>
 </div>
 </div>]]></content>

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: classic | Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/blog/categories/classic/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2021-10-19T07:17:50+00:00</updated>
+  <updated>2021-10-19T21:52:09+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,31 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 237 — Interview - DevSecOps - Безопасность прежде всего!]]></title>
+    <link href="http://razborpoletov.com/2021/10/episode-237.html"/>
+    <updated>2021-10-20T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2021/10/episode-237</id>
+    <content type="html"><![CDATA[<p>== Темы</p>
+
+<p>Ссылки на каналы:</p>
+
+<p>https://t.me/microfocusrussia/[Micro Focus telegram]
+https://www.facebook.com/MicroFocusRU[Micro Focus Facebook]</p>
+
+<p>== Гости и участники</p>
+
+<ul>
+<li>valery.kuvaev@microfocus.com[Валерий Куваев, технический эксперт Micro Focus в регионе EMEA]</li>
+<li>https://t.me/razborfeed[@a_abashev]</li>
+<li>https://twitter.com/gamussa[@gamussa]</li>
+<li>https://twitter.com/tolkv[@tolkv]</li>
+<li>https://twitter.com/golodnyj[Антон Черноусов]</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 236 — Classic - Вот и стукнуло 17]]></title>
@@ -99,22 +124,6 @@
 <p>Все о Scala в Тинькофф, примеры задач в проектах и открытые вакансии — https://l.tinkoff.ru/it-career-scala</p>
 
 <p>== Гости и участники</p>
-
-<ul>
-<li>https://t.me/razborfeed[@a_abashev]</li>
-<li>https://twitter.com/gamussa[@gamussa]</li>
-<li>https://twitter.com/andrei_kogun[Андрей Когунь]</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 232 — Classic - Человек, который дернул стоп-кран]]></title>
-    <link href="http://razborpoletov.com/2021/07/episode-232.html"/>
-    <updated>2021-07-28T00:00:00+00:00</updated>
-    <id>http://razborpoletov.com/2021/07/episode-232</id>
-    <content type="html"><![CDATA[<p>== Гости и участники</p>
 
 <ul>
 <li>https://t.me/razborfeed[@a_abashev]</li>
