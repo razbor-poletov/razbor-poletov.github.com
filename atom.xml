@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2021-10-22T16:36:20+00:00</updated>
+  <updated>2021-10-22T18:49:38+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,82 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 238 — Interview - Интервью с Борисовым]]></title>
+    <link href="http://razborpoletov.com/2021/10/episode-238.html"/>
+    <updated>2021-10-23T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2021/10/episode-238</id>
+    <content type="html"><![CDATA[<div class="sect1">
+<h2 id="joker-2021">Joker 2021</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Промокод на Персональный FullPass или обычный билет <code>razborpoletov2021JRGpc</code></p>
+</div>
+<div class="paragraph">
+<p><a href="https://bit.ly/2XqCROZ" class="bare">https://bit.ly/2XqCROZ</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Голодный-рекомендует-вакансию">Голодный рекомендует вакансию</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Разработчик в контейнерную экосистему Yandex.Cloud <a href="https://bit.ly/3nhsSEw" class="bare">https://bit.ly/3nhsSEw</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><a href="https://www.youtube.com/watch?v=BmBr5diz8WA&amp;list=PL6yLoZ_3Y0HKGL3F7vv2SNSrA3TkbXtBX">Евгений Борисов — Spring-потрошитель, часть 1</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://www.youtube.com/watch?v=cou_qomYLNU&amp;t=6s">Евгений Борисов — Spring-потрошитель, часть 2</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://www.youtube.com/watch?v=rd6wxPzXQvo&amp;t=1706s">Евгений Борисов — Spring-построитель</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://www.youtube.com/watch?v=UYre4_bytD4&amp;t=2866s">Евгений Борисов, Кирилл Толкачев — Boot yourself, Spring is coming (Часть 1)</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://www.youtube.com/watch?v=7Cq5zEm2wq0&amp;t=1s">Евгений Борисов, Кирилл Толкачев — Boot yourself, Spring is coming (Часть 2)</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://www.youtube.com/watch?v=GL1txFxswHA&amp;t=7259s">Евгений Борисов — Spring Patterns для взрослых</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://t.me/JekaBorisov">Евгений Борисов</a></p>
+</li>
+<li>
+<p><a href="https://t.me/razborfeed">@a_abashev</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/tolkv">@tolkv</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/golodnyj">Антон Черноусов</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/antonarhipov">@antonarhipov</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 237 — Interview - DevSecOps - Безопасность прежде всего!]]></title>
@@ -2643,111 +2719,6 @@
 <a href="http://traffic.libsyn.com/razborpoletov/razbor_189.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="https://razborpoletov.com/images/mp3.png" width="64" /></a>
 <div class="paragraph">
 <p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
-</div>
-</div>
-</div>]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 188 — РП: Devops — Подальше от YAML]]></title>
-    <link href="http://razborpoletov.com/2018/10/episode-188.html"/>
-    <updated>2018-10-17T00:00:00+00:00</updated>
-    <id>http://razborpoletov.com/2018/10/episode-188</id>
-    <content type="html"><![CDATA[<div class="sect1">
-<h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
-<div class="sectionbody">
-<div class="listingblock">
-<div class="content">
-<pre>👇 👇 👇 Официальный стикерпак Разбора Полетов и полуофициальный Чат pro.jvm в Телеграме 👇 👇 👇</pre>
-</div>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://t.me/addstickers/razbor_poletov">стикеры</a></p>
-</li>
-<li>
-<p><a href="https://t.me/jvmchat">pro.jvm</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Партнеры-выпуска-2">Партнеры выпуска</h2>
-<div class="sectionbody">
-<div class="sidebarblock">
-<div class="content">
-<div class="paragraph">
-<p>👇 👇 👇 Конференция Joker 2018 уже анонсирована! 👇 👇 👇</p>
-</div>
-<div class="paragraph">
-<p>Промокод: Joker2018Razbor
-Работает только для <a href="https://jokerconf.com/buy/personal/" class="bare">https://jokerconf.com/buy/personal/</a></p>
-</div>
-<div class="paragraph">
-<p>== Гости и участники</p>
-</div>
-<div class="paragraph">
-<p>Были: Леонид голодный Барух</p>
-</div>
-<div class="paragraph">
-<p>== Темки</p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p>Что говорил Джон?</p>
-</li>
-<li>
-<p>Ревью докладов конференции DevOops 2018</p>
-</li>
-<li>
-<p>Барух против</p>
-</li>
-<li>
-<p>Приглашение на Joker</p>
-</li>
-</ul>
-</div>
-<hr>
-<div class="paragraph">
-<p>Наши контакты:</p>
-</div>
-<div class="paragraph">
-<p>Официальный сайт — <a href="https://razborpoletov.com">https://razborpoletov.com</a></p>
-</div>
-<div class="paragraph">
-<p><a href="https://razborpoletov.com/broadcast.html">Информация о вещании</a></p>
-</div>
-<div class="paragraph">
-<p>Гости и участники:</p>
-</div>
-<div class="paragraph">
-<p>twitter:</p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://twitter.com/jbaruch">@jbaruch</a></p>
-</li>
-</ul>
-</div>
-<!-- player goes here-->
-
-<audio preload="none">
-   <source src="http://traffic.libsyn.com/razborpoletov/razbor_188.mp3" type="audio/mp3" />
-   Your browser does not support the audio tag.
-</audio>
-<div class="paragraph">
-<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
-</div>
-<!-- episode file link goes here-->
-<a href="http://traffic.libsyn.com/razborpoletov/razbor_188.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="https://razborpoletov.com/images/mp3.png" width="64" /></a>
-<div class="paragraph">
-<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
-</div>
-</div>
 </div>
 </div>
 </div>]]></content>

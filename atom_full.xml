@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2021-10-22T16:36:20+00:00</updated>
+  <updated>2021-10-22T18:49:38+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,82 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 238 — Interview - Интервью с Борисовым]]></title>
+    <link href="http://razborpoletov.com/2021/10/episode-238.html"/>
+    <updated>2021-10-23T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2021/10/episode-238</id>
+    <content type="html"><![CDATA[<div class="sect1">
+<h2 id="joker-2021">Joker 2021</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Промокод на Персональный FullPass или обычный билет <code>razborpoletov2021JRGpc</code></p>
+</div>
+<div class="paragraph">
+<p><a href="https://bit.ly/2XqCROZ" class="bare">https://bit.ly/2XqCROZ</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Голодный-рекомендует-вакансию">Голодный рекомендует вакансию</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Разработчик в контейнерную экосистему Yandex.Cloud <a href="https://bit.ly/3nhsSEw" class="bare">https://bit.ly/3nhsSEw</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><a href="https://www.youtube.com/watch?v=BmBr5diz8WA&amp;list=PL6yLoZ_3Y0HKGL3F7vv2SNSrA3TkbXtBX">Евгений Борисов — Spring-потрошитель, часть 1</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://www.youtube.com/watch?v=cou_qomYLNU&amp;t=6s">Евгений Борисов — Spring-потрошитель, часть 2</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://www.youtube.com/watch?v=rd6wxPzXQvo&amp;t=1706s">Евгений Борисов — Spring-построитель</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://www.youtube.com/watch?v=UYre4_bytD4&amp;t=2866s">Евгений Борисов, Кирилл Толкачев — Boot yourself, Spring is coming (Часть 1)</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://www.youtube.com/watch?v=7Cq5zEm2wq0&amp;t=1s">Евгений Борисов, Кирилл Толкачев — Boot yourself, Spring is coming (Часть 2)</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://www.youtube.com/watch?v=GL1txFxswHA&amp;t=7259s">Евгений Борисов — Spring Patterns для взрослых</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://t.me/JekaBorisov">Евгений Борисов</a></p>
+</li>
+<li>
+<p><a href="https://t.me/razborfeed">@a_abashev</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/tolkv">@tolkv</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/golodnyj">Антон Черноусов</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/antonarhipov">@antonarhipov</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 237 — Interview - DevSecOps - Безопасность прежде всего!]]></title>

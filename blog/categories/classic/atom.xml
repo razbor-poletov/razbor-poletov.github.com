@@ -4,7 +4,7 @@
   <title><![CDATA[Category: classic | Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/blog/categories/classic/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2021-10-22T16:36:20+00:00</updated>
+  <updated>2021-10-22T18:49:38+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,49 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 238 — Interview - Интервью с Борисовым]]></title>
+    <link href="http://razborpoletov.com/2021/10/episode-238.html"/>
+    <updated>2021-10-23T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2021/10/episode-238</id>
+    <content type="html"><![CDATA[<p>== Joker 2021</p>
+
+<p>Промокод на Персональный FullPass или обычный билет <code>razborpoletov2021JRGpc</code></p>
+
+<p>https://bit.ly/2XqCROZ</p>
+
+<p>== Голодный рекомендует вакансию</p>
+
+<p>Разработчик в контейнерную экосистему Yandex.Cloud https://bit.ly/3nhsSEw</p>
+
+<p>== Темы</p>
+
+<p>https://www.youtube.com/watch?v=BmBr5diz8WA&amp;list=PL6yLoZ_3Y0HKGL3F7vv2SNSrA3TkbXtBX[Евгений Борисов — Spring-потрошитель, часть 1]</p>
+
+<p>https://www.youtube.com/watch?v=cou_qomYLNU&amp;t=6s[Евгений Борисов — Spring-потрошитель, часть 2]</p>
+
+<p>https://www.youtube.com/watch?v=rd6wxPzXQvo&amp;t=1706s[Евгений Борисов — Spring-построитель]</p>
+
+<p>https://www.youtube.com/watch?v=UYre4_bytD4&amp;t=2866s[Евгений Борисов, Кирилл Толкачев — Boot yourself, Spring is coming (Часть 1)]</p>
+
+<p>https://www.youtube.com/watch?v=7Cq5zEm2wq0&amp;t=1s[Евгений Борисов, Кирилл Толкачев — Boot yourself, Spring is coming (Часть 2)]</p>
+
+<p>https://www.youtube.com/watch?v=GL1txFxswHA&amp;t=7259s[Евгений Борисов — Spring Patterns для взрослых]</p>
+
+<p>== Гости и участники</p>
+
+<ul>
+<li>https://t.me/JekaBorisov[Евгений Борисов]</li>
+<li>https://t.me/razborfeed[@a_abashev]</li>
+<li>https://twitter.com/gamussa[@gamussa]</li>
+<li>https://twitter.com/tolkv[@tolkv]</li>
+<li>https://twitter.com/golodnyj[Антон Черноусов]</li>
+<li>https://twitter.com/antonarhipov[@antonarhipov]</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 237 — Interview - DevSecOps - Безопасность прежде всего!]]></title>
@@ -100,36 +143,6 @@
 <li>https://t.me/razborfeed[@a_abashev]</li>
 <li>https://twitter.com/gamussa[@gamussa]</li>
 <li>https://twitter.com/golodnyj[Антон Черноусов]</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 233 — Classic - Кому PR-ы, кому MR-ы]]></title>
-    <link href="http://razborpoletov.com/2021/08/episode-233.html"/>
-    <updated>2021-08-09T00:00:00+00:00</updated>
-    <id>http://razborpoletov.com/2021/08/episode-233</id>
-    <content type="html"><![CDATA[<p>== РЕКЛАМА</p>
-
-<p>Делаем масштабные финтех-сервисы — более 50 продуктовых команд, и нужно еще больше. Тинькофф в поиске разработчиков Scala, которые не боятся сложных задач. Максимально короткий путь от идеи до реализации.</p>
-
-<ul>
-<li>Обмениваемся опытом на внутренних и внешних митапах и конференциях, организовали конференцию Scala Russia.</li>
-<li>Развиваем Open Source-проекты — делимся своими наработками с сообществом на GitHub.</li>
-</ul>
-
-
-<p>Работаем удаленно или в офисах. Центры разработки Тинькофф открыты в 18 городах России и в республике Беларусь, в Минске.</p>
-
-<p>Все о Scala в Тинькофф, примеры задач в проектах и открытые вакансии — https://l.tinkoff.ru/it-career-scala</p>
-
-<p>== Гости и участники</p>
-
-<ul>
-<li>https://t.me/razborfeed[@a_abashev]</li>
-<li>https://twitter.com/gamussa[@gamussa]</li>
-<li>https://twitter.com/andrei_kogun[Андрей Когунь]</li>
 </ul>
 
 ]]></content>
