@@ -1,0 +1,41 @@
+---
+layout: episode
+episode: 238
+title: "Episode 238 — Interview - Интервью с Борисовым"
+category: classic
+guests: abashev, gamussa, tolkv, golodnyj, antonarhipov, borisov
+---
+
+== Joker 2021
+
+Промокод на Персональный FullPass или обычный билет `razborpoletov2021JRGpc`
+
+https://bit.ly/2XqCROZ
+
+== Голодный рекомендует вакансию
+
+Разработчик в контейнерную экосистему Yandex.Cloud https://bit.ly/3nhsSEw
+
+== Темы
+
+https://www.youtube.com/watch?v=BmBr5diz8WA&list=PL6yLoZ_3Y0HKGL3F7vv2SNSrA3TkbXtBX[Евгений Борисов — Spring-потрошитель, часть 1]
+
+https://www.youtube.com/watch?v=cou_qomYLNU&t=6s[Евгений Борисов — Spring-потрошитель, часть 2]
+ 
+https://www.youtube.com/watch?v=rd6wxPzXQvo&t=1706s[Евгений Борисов — Spring-построитель]
+ 
+https://www.youtube.com/watch?v=UYre4_bytD4&t=2866s[Евгений Борисов, Кирилл Толкачев — Boot yourself, Spring is coming (Часть 1)]
+
+https://www.youtube.com/watch?v=7Cq5zEm2wq0&t=1s[Евгений Борисов, Кирилл Толкачев — Boot yourself, Spring is coming (Часть 2)]
+ 
+https://www.youtube.com/watch?v=GL1txFxswHA&t=7259s[Евгений Борисов — Spring Patterns для взрослых]
+
+
+== Гости и участники
+
+* https://t.me/JekaBorisov[Евгений Борисов]
+* https://t.me/razborfeed[@a_abashev]
+* https://twitter.com/gamussa[@gamussa]
+* https://twitter.com/tolkv[@tolkv]
+* https://twitter.com/golodnyj[Антон Черноусов]
+* https://twitter.com/antonarhipov[@antonarhipov]
