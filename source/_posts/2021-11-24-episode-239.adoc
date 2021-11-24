@@ -1,0 +1,19 @@
+---
+layout: episode
+episode: 239
+title: "Episode 239 — Interview - ИТ в крупной компании: Облака, DevOps и дефицит кадров"
+category: interview
+guests: abashev, gamussa, kogun, barablin
+---
+
+== Голодный рекомендует вакансию
+
+Разработчик в контейнерную экосистему Yandex.Cloud https://bit.ly/3nhsSEw
+
+
+== Гости и участники
+
+* http://mdbx.ru/[Михаил Бараблин, партнер Лиги Цифровой Экономики]
+* https://t.me/razborfeed[@a_abashev]
+* https://twitter.com/gamussa[@gamussa]
+* https://twitter.com/andrei_kogun[Андрей Когунь]

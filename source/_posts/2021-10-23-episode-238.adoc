@@ -2,7 +2,7 @@
 layout: episode
 episode: 238
 title: "Episode 238 — Interview - Интервью с Борисовым"
-category: classic
+category: interview
 guests: abashev, gamussa, tolkv, golodnyj, antonarhipov, borisov
 ---
 
