@@ -6,8 +6,8 @@
     <atom:link href="http://razborpoletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2021-12-08T18:20:02+00:00</pubDate>
-    <lastBuildDate>2021-12-08T18:20:02+00:00</lastBuildDate>
+    <pubDate>2021-12-15T15:12:43+00:00</pubDate>
+    <lastBuildDate>2021-12-15T15:12:43+00:00</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razborpoletov.com/logoNew.jpg" />
     <itunes:author>Viktor Gamov, Alexey Abashev</itunes:author>
@@ -18,6 +18,97 @@
     </itunes:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:thumbnail url="http://razborpoletov.com/logoNew.jpg" />
+    
+    <item>
+      <title>Episode 240 — Classic - Мужское здоровье</title>
+      <link>http://razborpoletov.com/2021/12/episode-240.html</link>
+      <pubDate>2021-12-15T00:00:00+00:00</pubDate>
+      <guid isPermalink="true">http://razborpoletov.com/2021/12/episode-240</guid>
+      <description><![CDATA[<div class="paragraph">
+  <p><a href="http://razborpoletov.com/2021/12/episode-240.html">Комментировать</a>
+    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://aws.amazon.com/blogs/aws/top-announcements-of-aws-reinvent-2021/" class="bare">https://aws.amazon.com/blogs/aws/top-announcements-of-aws-reinvent-2021/</a></p>
+</li>
+<li>
+<p><a href="https://www.jetbrains.com/fleet/" class="bare">https://www.jetbrains.com/fleet/</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://t.me/razborfeed">@a_abashev</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/andrei_kogun">Андрей Когунь</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/antonarhipov">@antonarhipov</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description>
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_240.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_240.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2021/12/episode-240.html
+Помочь подкасту - https://www.patreon.com/razborpoletov
+Telegram канал - https://t.me/razborfeed
+
+Темы
+
+
+
+
+https://aws.amazon.com/blogs/aws/top-announcements-of-aws-reinvent-2021/
+
+
+https://www.jetbrains.com/fleet/
+
+
+
+
+
+
+Гости и участники
+
+
+
+
+@a_abashev
+
+
+@gamussa
+
+
+Андрей Когунь
+
+
+@antonarhipov
+
+
+
+
+]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_240_text.jpg" />
+    </item>
     
     <item>
       <title>Episode 239 — Interview - ИТ в крупной компании: Облака, DevOps и дефицит кадров</title>
@@ -5386,199 +5477,6 @@ Java Дайджест №80
 
 ]]></itunes:summary>
       <itunes:image href="http://razborpoletov.com/images/razbor_191_text.jpg" />
-    </item>
-    
-    <item>
-      <title>Episode 190 — РП: Конференции — Oracle Code One Special</title>
-      <link>http://razborpoletov.com/2018/11/episode-190.html</link>
-      <pubDate>2018-11-05T00:00:00+00:00</pubDate>
-      <guid isPermalink="true">http://razborpoletov.com/2018/11/episode-190</guid>
-      <description><![CDATA[<div class="paragraph">
-  <p><a href="http://razborpoletov.com/2018/11/episode-190.html">Комментировать</a>
-    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a>
-    | <a href="https://t.me/razborfeed">Telegram канал</a>
-  </p>
-</div>
-<div class="sect1">
-<h2 id="Гости">Гости</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p>Александр Мероненко</p>
-</li>
-<li>
-<p>Роман Елизаров</p>
-</li>
-<li>
-<p>Андрей Беляев</p>
-</li>
-<li>
-<p>Евгений Петренко</p>
-</li>
-<li>
-<p>Олег Шелаев</p>
-</li>
-<li>
-<p>Иван Крылов</p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Партнеры-выпуска">Партнеры выпуска</h2>
-<div class="sectionbody">
-<div class="listingblock">
-<div class="content">
-<pre>👇 👇 👇 Официальный стикерпак Разбора Полетов и полуофициальный Чат pro.jvm в Телеграме 👇 👇 👇</pre>
-</div>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://t.me/addstickers/razbor_poletov">стикеры</a></p>
-</li>
-<li>
-<p><a href="https://t.me/jvmchat">pro.jvm</a></p>
-</li>
-</ul>
-</div>
-<hr>
-<div class="paragraph">
-<p>Наши контакты:</p>
-</div>
-<div class="paragraph">
-<p>Официальный сайт — <a href="https://razborpoletov.com">https://razborpoletov.com</a></p>
-</div>
-<div class="paragraph">
-<p><a href="https://razborpoletov.com/broadcast.html">Информация о вещании</a></p>
-</div>
-<div class="paragraph">
-<p>Гости и участники:</p>
-</div>
-<div class="paragraph">
-<p>twitter:</p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/jbaruch">@jbaruch</a></p>
-</li>
-</ul>
-</div>
-<!-- player goes here-->
-
-<audio preload="none">
-   <source src="http://traffic.libsyn.com/razborpoletov/razbor_190.mp3" type="audio/mp3" />
-   Your browser does not support the audio tag.
-</audio>
-<div class="paragraph">
-<p>Подписаться по <a href="http://feeds.feedburner.com/razbor-podcast">RSS</a></p>
-</div>
-<!-- episode file link goes here-->
-<a href="http://traffic.libsyn.com/razborpoletov/razbor_190.mp3" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: 2em;"><img border="0" height="64" src="https://razborpoletov.com/images/mp3.png" width="64" /></a>
-<div class="paragraph">
-<p>Музыка ведущим <a href="http://www.audiobank.fm/single-music/27/111/More-And-Less/">предоставлена</a> и ладно&#8230;&#8203;</p>
-</div>
-</div>
-</div>]]></description>
-      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_190.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_190.mp3" fileSize="" type="audio/mpeg" />
-      <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2018/11/episode-190.html
-Помочь подкасту - https://www.patreon.com/razborpoletov
-Telegram канал - https://t.me/razborfeed
-
-Гости
-
-
-
-
-Александр Мероненко
-
-
-Роман Елизаров
-
-
-Андрей Беляев
-
-
-Евгений Петренко
-
-
-Олег Шелаев
-
-
-Иван Крылов
-
-
-
-
-
-
-Партнеры выпуска
-
-
-
-👇 👇 👇 Официальный стикерпак Разбора Полетов и полуофициальный Чат pro.jvm в Телеграме 👇 👇 👇
-
-
-
-
-
-стикеры
-
-
-pro.jvm
-
-
-
-
-
-Наши контакты:
-
-
-Официальный сайт — https://razborpoletov.com
-
-
-Информация о вещании
-
-
-Гости и участники:
-
-
-twitter:
-
-
-
-
-@gamussa
-
-
-@jbaruch
-
-
-
-
-
-
-   
-   Your browser does not support the audio tag.
-
-
-Подписаться по RSS
-
-
-
-
-Музыка ведущим предоставлена и ладно&#8230;&#8203;
-
-
-]]></itunes:summary>
-      <itunes:image href="http://razborpoletov.com/images/razbor_190_text.jpg" />
     </item>
     
   </channel>

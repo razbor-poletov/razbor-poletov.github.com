@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2021-12-08T18:20:02+00:00</updated>
+  <updated>2021-12-15T15:12:43+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,49 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 240 — Classic - Мужское здоровье]]></title>
+    <link href="http://razborpoletov.com/2021/12/episode-240.html"/>
+    <updated>2021-12-15T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2021/12/episode-240</id>
+    <content type="html"><![CDATA[<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://aws.amazon.com/blogs/aws/top-announcements-of-aws-reinvent-2021/" class="bare">https://aws.amazon.com/blogs/aws/top-announcements-of-aws-reinvent-2021/</a></p>
+</li>
+<li>
+<p><a href="https://www.jetbrains.com/fleet/" class="bare">https://www.jetbrains.com/fleet/</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://t.me/razborfeed">@a_abashev</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/andrei_kogun">Андрей Когунь</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/antonarhipov">@antonarhipov</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 239 — Interview - ИТ в крупной компании: Облака, DevOps и дефицит кадров]]></title>
