@@ -1,0 +1,19 @@
+---
+layout: episode
+episode: 240
+title: "Episode 240 — Classic - Мужское здоровье"
+category: classic
+guests: abashev, gamussa, andrei_kogun, antonarhipov
+---
+
+== Темы
+
+* https://aws.amazon.com/blogs/aws/top-announcements-of-aws-reinvent-2021/
+* https://www.jetbrains.com/fleet/
+
+== Гости и участники
+
+* https://t.me/razborfeed[@a_abashev]
+* https://twitter.com/gamussa[@gamussa]
+* https://twitter.com/andrei_kogun[Андрей Когунь]
+* https://twitter.com/antonarhipov[@antonarhipov]
