@@ -4,7 +4,7 @@
   <title><![CDATA[Category: classic | Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/blog/categories/classic/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2021-12-15T15:12:43+00:00</updated>
+  <updated>2021-12-16T07:16:12+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -18,15 +18,7 @@
     <link href="http://razborpoletov.com/2021/12/episode-240.html"/>
     <updated>2021-12-15T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2021/12/episode-240</id>
-    <content type="html"><![CDATA[<p>== Темы</p>
-
-<ul>
-<li>https://aws.amazon.com/blogs/aws/top-announcements-of-aws-reinvent-2021/</li>
-<li>https://www.jetbrains.com/fleet/</li>
-</ul>
-
-
-<p>== Гости и участники</p>
+    <content type="html"><![CDATA[<p>== Гости и участники</p>
 
 <ul>
 <li>https://t.me/razborfeed[@a_abashev]</li>
