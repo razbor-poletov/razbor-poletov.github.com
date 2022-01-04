@@ -6,8 +6,8 @@
     <atom:link href="http://razborpoletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2022-01-04T11:21:47+00:00</pubDate>
-    <lastBuildDate>2022-01-04T11:21:47+00:00</lastBuildDate>
+    <pubDate>2022-01-04T22:38:03+00:00</pubDate>
+    <lastBuildDate>2022-01-04T22:38:03+00:00</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razborpoletov.com/logoNew.jpg" />
     <itunes:author>Viktor Gamov, Alexey Abashev</itunes:author>
@@ -18,6 +18,97 @@
     </itunes:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:thumbnail url="http://razborpoletov.com/logoNew.jpg" />
+    
+    <item>
+      <title>Episode 241 — Classic - Это фиаско, братан!</title>
+      <link>http://razborpoletov.com/2022/01/episode-241.html</link>
+      <pubDate>2022-01-04T00:00:00+00:00</pubDate>
+      <guid isPermalink="true">http://razborpoletov.com/2022/01/episode-241</guid>
+      <description><![CDATA[<div class="paragraph">
+  <p><a href="http://razborpoletov.com/2022/01/episode-241.html">Комментировать</a>
+    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://aws.amazon.com/blogs/aws/top-announcements-of-aws-reinvent-2021/" class="bare">https://aws.amazon.com/blogs/aws/top-announcements-of-aws-reinvent-2021/</a></p>
+</li>
+<li>
+<p><a href="https://www.jetbrains.com/fleet/" class="bare">https://www.jetbrains.com/fleet/</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://t.me/razborfeed">@abashev</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/andrei_kogun">Андрей Когунь</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/antonarhipov">@antonarhipov</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description>
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_241.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_241.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2022/01/episode-241.html
+Помочь подкасту - https://www.patreon.com/razborpoletov
+Telegram канал - https://t.me/razborfeed
+
+Темы
+
+
+
+
+https://aws.amazon.com/blogs/aws/top-announcements-of-aws-reinvent-2021/
+
+
+https://www.jetbrains.com/fleet/
+
+
+
+
+
+
+Гости и участники
+
+
+
+
+@abashev
+
+
+@gamussa
+
+
+Андрей Когунь
+
+
+@antonarhipov
+
+
+
+
+]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_241_text.jpg" />
+    </item>
     
     <item>
       <title>Episode 240 — Classic - Мужское здоровье</title>
@@ -5374,79 +5465,6 @@ Java Дайджест №81
 
 ]]></itunes:summary>
       <itunes:image href="http://razborpoletov.com/images/razbor_192_text.jpg" />
-    </item>
-    
-    <item>
-      <title>Episode 191 — РП: Java — Дайдждест — Красная шапка и проект &#8220;Шкура&#8221;</title>
-      <link>http://razborpoletov.com/2018/11/episode-191.html</link>
-      <pubDate>2018-11-06T00:00:00+00:00</pubDate>
-      <guid isPermalink="true">http://razborpoletov.com/2018/11/episode-191</guid>
-      <description><![CDATA[<div class="paragraph">
-  <p><a href="http://razborpoletov.com/2018/11/episode-191.html">Комментировать</a>
-    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a>
-    | <a href="https://t.me/razborfeed">Telegram канал</a>
-  </p>
-</div>
-<div class="sect1">
-<h2 id="Гости-и-участники">Гости и участники</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://twitter.com/olegchir">Олег Чирухин</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/a_abashev">@a_abashev</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Темы">Темы</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://jug.ru/2018/11/digest-week-80/">Java Дайджест №80</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>]]></description>
-      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_191.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_191.mp3" fileSize="" type="audio/mpeg" />
-      <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2018/11/episode-191.html
-Помочь подкасту - https://www.patreon.com/razborpoletov
-Telegram канал - https://t.me/razborfeed
-
-Гости и участники
-
-
-
-
-Олег Чирухин
-
-
-@a_abashev
-
-
-
-
-
-
-Темы
-
-
-
-
-Java Дайджест №80
-
-
-
-
-]]></itunes:summary>
-      <itunes:image href="http://razborpoletov.com/images/razbor_191_text.jpg" />
     </item>
     
   </channel>
