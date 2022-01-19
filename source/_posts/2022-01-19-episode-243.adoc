@@ -1,0 +1,15 @@
+---
+layout: episode
+episode: 243
+title: "Episode 243 — Classic - Новогодний выпуск - Part Duo"
+category: classic
+guests: abashev, gamussa, andrei_kogun, antonarhipov, golodnyj
+---
+
+== Гости и участники
+
+* https://t.me/razborfeed[@abashev]
+* https://twitter.com/gamussa[@gamussa]
+* https://twitter.com/andrei_kogun[Андрей Когунь]
+* https://twitter.com/antonarhipov[@antonarhipov]
+* https://twitter.com/golodnyj[Антон Черноусов]
