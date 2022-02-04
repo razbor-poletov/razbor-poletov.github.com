@@ -4,7 +4,7 @@
   <title><![CDATA[Category: interview | Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/blog/categories/interview/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2022-02-04T11:55:43+00:00</updated>
+  <updated>2022-02-04T20:34:35+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 244 — Interview - Пpo Abbyy и Redis Streams]]></title>
+    <link href="http://razborpoletov.com/2022/02/episode-244.html"/>
+    <updated>2022-02-05T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2022/02/episode-244</id>
+    <content type="html"><![CDATA[<p>Выпуск подготовлен при поддержке ABBYY – мирового разработчика решений для интеллектуальной обработки информации и анализа бизнес-процессов. В работе компания использует самый современный стэк технологий: .NET Core, Kubernetes (k8s), Docker, React JS и другие.</p>
+
+<p>Сейчас ABBYY ищет в команду:</p>
+
+<ul>
+<li>https://www.abbyy.com/ru/company/careers/open-positions/2023?frontend-developer-vantage=&amp;utm_source=razbor_poletov&amp;utm_medium=podcast&amp;utm_campaign=razbor_poletov_podcast19012022[Frontend Developer]</li>
+<li>https://www.abbyy.com/ru/company/careers/open-positions/1857/?senior-frontend-developer-flexicapture=&amp;utm_source=razbor_poletov&amp;utm_medium=podcast&amp;utm_campaign=razbor_poletov_podcast19012022[Senior Frontend Developer]</li>
+</ul>
+
+
+<p>https://www.abbyy.com/ru/company/careers/open-positions/?utm_source=razbor_poletov&amp;utm_medium=podcast&amp;utm_campaign=razbor_poletov_podcast19012022[Все вакансии компании – по ссылке]</p>
+
+<p>== Гости и участники</p>
+
+<ul>
+<li>Владимир Букин</li>
+<li>Евгений Канев</li>
+<li>https://t.me/razborfeed[@abashev]</li>
+<li>https://twitter.com/gamussa[@gamussa]</li>
+<li>https://twitter.com/andrei_kogun[Андрей Когунь]</li>
+<li>https://twitter.com/golodnyj[Антон Черноусов]</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 239 — Interview - ИТ в крупной компании: Облака, DevOps и дефицит кадров]]></title>
@@ -107,31 +138,6 @@
 
 <ul>
 <li>Сергей Федосеенков</li>
-<li>https://t.me/razborfeed[@a_abashev]</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 228 — Interview - Куда расти архитектору]]></title>
-    <link href="http://razborpoletov.com/2021/05/episode-228.html"/>
-    <updated>2021-05-30T00:00:00+00:00</updated>
-    <id>http://razborpoletov.com/2021/05/episode-228</id>
-    <content type="html"><![CDATA[<p>== РЕКЛАМА</p>
-
-<p>Как решать глобальные задачи, не уезжая из родного города
-Возможно ли заниматься международными IT-проектами из дома и построить серьёзную карьеру, не покидая родного города?</p>
-
-<p>В Luxoft можно! В Luxoft нанимают специалистов во всех регионах России. Стать ведущим программистом, аналитиком, тестировщиком, project-менеджером в крупных международных проектах, не покидая родного города стало очень просто.</p>
-
-<p>Найти вакансию своей мечты и порекомендовать подходящего человека всегда можно на сайте http://career.luxoft.com/job-opportunities/?keyword=&amp;country%5B%5D=russian%2Bfederation&amp;city%5B%5D=remote%2Brussia&amp;specialization=&amp;set_filter=Y&amp;utm_source=podcast&amp;utm_medium=post&amp;utm_campaign=20210402_b2e_wfa-ru</p>
-
-<p>== Гости и участники</p>
-
-<ul>
-<li>https://t.me/dvoloshyn[Дмитро Волошин]</li>
-<li>https://twitter.com/gamussa[@gamussa]</li>
 <li>https://t.me/razborfeed[@a_abashev]</li>
 </ul>
 

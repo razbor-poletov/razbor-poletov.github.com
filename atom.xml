@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2022-02-04T11:55:43+00:00</updated>
+  <updated>2022-02-04T20:34:35+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,59 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 244 — Interview - Пpo Abbyy и Redis Streams]]></title>
+    <link href="http://razborpoletov.com/2022/02/episode-244.html"/>
+    <updated>2022-02-05T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2022/02/episode-244</id>
+    <content type="html"><![CDATA[<div class="paragraph">
+<p>Выпуск подготовлен при поддержке ABBYY – мирового разработчика решений для интеллектуальной обработки информации и анализа бизнес-процессов. В работе компания использует самый современный стэк технологий: .NET Core, Kubernetes (k8s), Docker, React JS и другие.</p>
+</div>
+<div class="paragraph">
+<p>Сейчас ABBYY ищет в команду:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://www.abbyy.com/ru/company/careers/open-positions/2023?frontend-developer-vantage=&amp;utm_source=razbor_poletov&amp;utm_medium=podcast&amp;utm_campaign=razbor_poletov_podcast19012022">Frontend Developer</a></p>
+</li>
+<li>
+<p><a href="https://www.abbyy.com/ru/company/careers/open-positions/1857/?senior-frontend-developer-flexicapture=&amp;utm_source=razbor_poletov&amp;utm_medium=podcast&amp;utm_campaign=razbor_poletov_podcast19012022">Senior Frontend Developer</a></p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><a href="https://www.abbyy.com/ru/company/careers/open-positions/?utm_source=razbor_poletov&amp;utm_medium=podcast&amp;utm_campaign=razbor_poletov_podcast19012022">Все вакансии компании – по ссылке</a></p>
+</div>
+<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Владимир Букин</p>
+</li>
+<li>
+<p>Евгений Канев</p>
+</li>
+<li>
+<p><a href="https://t.me/razborfeed">@abashev</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/andrei_kogun">Андрей Когунь</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/golodnyj">Антон Черноусов</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 243 — Classic - Новогодний выпуск - Part Duo]]></title>
@@ -2564,49 +2617,6 @@
 <p><a href="https://jug.ru/2018/12/digest-week-83/">Java Digest</a></p>
 </li>
 </ul>
-</div>
-</div>
-</div>]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 194 — Classic — Полыхание усиливается]]></title>
-    <link href="http://razborpoletov.com/2018/12/episode-194.html"/>
-    <updated>2018-12-24T00:00:00+00:00</updated>
-    <id>http://razborpoletov.com/2018/12/episode-194</id>
-    <content type="html"><![CDATA[<div class="sect1">
-<h2 id="Гости-и-участники">Гости и участники</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://www.youtube.com/c/yegor256?sub_confirmation=1">Егор Бугаенко</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Темы">Темы</h2>
-<div class="sectionbody">
-<div class="olist arabic">
-<ol class="arabic">
-<li>
-<p>Третий том Elegant Objects</p>
-</li>
-<li>
-<p>Build pipeline</p>
-</li>
-<li>
-<p>Какие успехи  в адаптации нового ООП</p>
-</li>
-<li>
-<p>История с конференциями</p>
-</li>
-<li>
-<p><a href="https://www.yegor256.com/2018/12/18/silicon-valley-criticism.html">Why I Don&#8217;t Want to Live in Silicon Valley</a></p>
-</li>
-</ol>
 </div>
 </div>
 </div>]]></content>
