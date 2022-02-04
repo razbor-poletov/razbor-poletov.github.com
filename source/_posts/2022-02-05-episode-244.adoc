@@ -1,0 +1,26 @@
+---
+layout: episode
+episode: 244
+title: "Episode 244 — Interview - Пpo Abbyy и Redis Streams"
+category: interview
+guests: abashev, gamussa, kogun, golodnyj, bukin, kanev
+---
+
+Выпуск подготовлен при поддержке ABBYY – мирового разработчика решений для интеллектуальной обработки информации и анализа бизнес-процессов. В работе компания использует самый современный стэк технологий: .NET Core, Kubernetes (k8s), Docker, React JS и другие.
+
+Сейчас ABBYY ищет в команду:
+
+* https://www.abbyy.com/ru/company/careers/open-positions/2023?frontend-developer-vantage=&utm_source=razbor_poletov&utm_medium=podcast&utm_campaign=razbor_poletov_podcast19012022[Frontend Developer]
+* https://www.abbyy.com/ru/company/careers/open-positions/1857/?senior-frontend-developer-flexicapture=&utm_source=razbor_poletov&utm_medium=podcast&utm_campaign=razbor_poletov_podcast19012022[Senior Frontend Developer]
+
+https://www.abbyy.com/ru/company/careers/open-positions/?utm_source=razbor_poletov&utm_medium=podcast&utm_campaign=razbor_poletov_podcast19012022[Все вакансии компании – по ссылке]
+
+
+== Гости и участники
+
+* Владимир Букин
+* Евгений Канев
+* https://t.me/razborfeed[@abashev]
+* https://twitter.com/gamussa[@gamussa]
+* https://twitter.com/andrei_kogun[Андрей Когунь]
+* https://twitter.com/golodnyj[Антон Черноусов]
