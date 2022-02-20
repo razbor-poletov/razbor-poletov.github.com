@@ -1,0 +1,34 @@
+---
+layout: episode
+episode: 245
+title: "Episode 245 — Interview - Гость из BellSoft"
+category: interview
+guests: abashev, gamussa, golodnyj, antonarhipov, tolkv, chuiko
+---
+
+Выпуск подготовлен при поддержке ABBYY – мирового разработчика решений для интеллектуальной обработки информации и анализа бизнес-процессов. В работе компания использует самый современный стэк технологий: .NET Core, Kubernetes (k8s), Docker, React JS и другие.
+
+Сейчас ABBYY ищет в команду:
+
+* https://www.abbyy.com/ru/company/careers/open-positions/2023?frontend-developer-vantage=&utm_source=razbor_poletov&utm_medium=podcast&utm_campaign=razbor_poletov_podcast19012022[Frontend Developer]
+* https://www.abbyy.com/ru/company/careers/open-positions/1857/?senior-frontend-developer-flexicapture=&utm_source=razbor_poletov&utm_medium=podcast&utm_campaign=razbor_poletov_podcast19012022[Senior Frontend Developer]
+
+https://www.abbyy.com/ru/company/careers/open-positions/?utm_source=razbor_poletov&utm_medium=podcast&utm_campaign=razbor_poletov_podcast19012022[Все вакансии компании – по ссылке]
+
+
+== Гости и участники
+
+* Дмитрий Чуйко
+* https://t.me/razborfeed[@abashev]
+* https://twitter.com/gamussa[@gamussa]
+* https://twitter.com/golodnyj[Антон Черноусов]
+* https://twitter.com/antonarhipov[@antonarhipov]
+* https://twitter.com/tolkv[@tolkv]
+
+== Темы
+
+* https://www.youtube.com/watch?v=UIHItqpA5as[Spring Boot «fat» JAR: Тонкие части толстого артефакта ]
+* https://github.com/dmikusa-pivotal/paketo-arm64
+* https://github.com/dashaun/spring-boot-native-pi
+* https://jugspeakers.online/ru/talk/3001.html
+
