@@ -4,7 +4,7 @@
   <title><![CDATA[Category: interview | Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/blog/categories/interview/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2022-02-24T15:17:16+00:00</updated>
+  <updated>2022-02-24T20:09:42+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 246 — Interview - Распределённые БД]]></title>
+    <link href="http://razborpoletov.com/2022/02/episode-246.html"/>
+    <updated>2022-02-24T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2022/02/episode-246</id>
+    <content type="html"><![CDATA[<p>7 и 18 марта 2022 года в Москве состоится крупнейшая в Европе IT-конференция HighLoad++ Foundation</p>
+
+<p>🔥В программе — более 130 докладов, каждый из которых решает конкретную задачу. Но конференция — это не только доклады.</p>
+
+<p>На HighLoad++ Foundation вы легко сможете пообщаться с ТОПами IT-индустрии и найти ответы на свои вопросы. А хотите получить персональную консультацию от разработчиков технологий, на которых построен ваш проект? Приходите! Что ещё? Узнаете, как устроены Яндекс, VK, Avito, Mail.ru, Tinkoff и другие крупные проекты.</p>
+
+<p>😎Влиться в профессиональное комьюнити, завязать полезные знакомства, обновить свою базу знаний и найти решение для сложных задач — всё это на одной площадке.</p>
+
+<p>Приходите на HighLoad++ Foundation! 17 и 18 марта, Москва.</p>
+
+<p>Скидка 10% по промокоду FOUNDATION</p>
+
+<p>https://clck.ru/asjU7[Забронировать билет|Смотреть программу 👇]</p>
+
+<p>== Гости и участники</p>
+
+<ul>
+<li>https://twitter.com/devozerov[Владимир Озеров]</li>
+<li>https://www.querifylabs.com/[Алексей Гончарюк]</li>
+<li>https://t.me/razborfeed[@abashev]</li>
+<li>https://twitter.com/golodnyj[Антон Черноусов]</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 245 — Interview - Гость из BellSoft]]></title>
@@ -144,23 +175,6 @@
 <li>https://twitter.com/tolkv[@tolkv]</li>
 <li>https://twitter.com/golodnyj[Антон Черноусов]</li>
 <li>https://twitter.com/antonarhipov[@antonarhipov]</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 230 — Interview — Артём vs DevOps: Rise of TestOps]]></title>
-    <link href="http://razborpoletov.com/2021/06/episode-230.html"/>
-    <updated>2021-06-19T00:00:00+00:00</updated>
-    <id>http://razborpoletov.com/2021/06/episode-230</id>
-    <content type="html"><![CDATA[<p>== Гости и участники</p>
-
-<ul>
-<li>https://twitter.com/eroshenkoam[Артем Ерошенко]</li>
-<li>https://twitter.com/gamussa[@gamussa]</li>
-<li>https://t.me/razborfeed[@a_abashev]</li>
-<li>https://twitter.com/tolkv[@tolkv]</li>
 </ul>
 
 ]]></content>
