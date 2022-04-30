@@ -1,11 +1,13 @@
 sudo: false
 language: ruby
 rvm:
-  - 2.3.0
+  - 2.5.2
 cache: bundler
 install:
+  - gem update --system '3.3.10'
+  - rvm use 2.3.0 --install --binary --fuzzy
   - gem install bundler --version '1.15.1'
-  - bundle install
+  - bundle _1.15.1_ install
 before_script:
   # Disable SSH server fingerprint verification
   - echo -e "Host github.com\n\tStrictHostKeyChecking no\n" >> ~/.ssh/config
