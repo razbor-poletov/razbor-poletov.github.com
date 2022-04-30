@@ -6,8 +6,8 @@
     <atom:link href="http://razborpoletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2022-04-06T13:48:12+00:00</pubDate>
-    <lastBuildDate>2022-04-06T13:48:12+00:00</lastBuildDate>
+    <pubDate>2022-04-30T10:29:07+00:00</pubDate>
+    <lastBuildDate>2022-04-30T10:29:07+00:00</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razborpoletov.com/logoNew.jpg" />
     <itunes:author>Viktor Gamov, Alexey Abashev</itunes:author>
@@ -18,6 +18,149 @@
     </itunes:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:thumbnail url="http://razborpoletov.com/logoNew.jpg" />
+    
+    <item>
+      <title>Episode 248 — Classic - Новая идея</title>
+      <link>http://razborpoletov.com/2022/04/episode-248.html</link>
+      <pubDate>2022-04-30T00:00:00+00:00</pubDate>
+      <guid isPermalink="true">http://razborpoletov.com/2022/04/episode-248</guid>
+      <description><![CDATA[<div class="paragraph">
+  <p><a href="http://razborpoletov.com/2022/04/episode-248.html">Комментировать</a>
+    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
+</div>
+<div class="paragraph">
+<p>Самая крупная конференция-практикум для тимлидов и руководителей💥</p>
+</div>
+<div class="paragraph">
+<p>2000 участников | 70+ докладов | 11 воркшопов | 6 круглых столов</p>
+</div>
+<div class="paragraph">
+<p>Территория TeamLead — это энергия тысячи менеджеров и тимлидов, расширение кругозора, отработка навыков на мастер-классах, участие в круглых столах и много-много нетворкинга. Только в 2022 году — 2 трека по управлению знаниями от создателей Knowledge Conf.
+Программа конференции построена так, что каждый участник сможет найти лекарство от своей боли — и тимлид небольшого стартапа, и опытный СТО крупной компании. Такая концентрация тимлидского опыта на человеко-час и квадратный метр бывает в Москве только один раз в год. Не пропустите!</p>
+</div>
+<div class="paragraph">
+<p>🔹Каждый доклад — решение конкретной задачи.
+🔹Вдохновляющие идеи и решения.
+🔹Связи, на которые ушли бы годы
+🔹Программа на основе трендов самого большого сообщества тимлидов.
+🔹Спикеры не только IT индустрии</p>
+</div>
+<div class="paragraph">
+<p>17-18 мая 2022
+Москва. Крокус-Экспо</p>
+</div>
+<div class="paragraph">
+<p>Скидка 10% по промокоду TLPODCAST
+Забронировать билет|Смотреть программу 👇
+<a href="https://clck.ru/asjKY">Забронировать билет|Смотреть программу 👇</a></p>
+</div>
+<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://twitter.com/antonarhipov">@antonarhipov</a></p>
+</li>
+<li>
+<p><a href="https://t.me/razborfeed">@abashev</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/golodnyj">Антон Черноусов</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://blog.jetbrains.com/idea/2022/04/intellij-idea-2022-1/" class="bare">https://blog.jetbrains.com/idea/2022/04/intellij-idea-2022-1/</a></p>
+</li>
+<li>
+<p><a href="https://github.blog/2022-04-12-git-security-vulnerability-announced/" class="bare">https://github.blog/2022-04-12-git-security-vulnerability-announced/</a></p>
+</li>
+<li>
+<p><a href="https://www.atlassian.com/engineering/april-2022-outage-update" class="bare">https://www.atlassian.com/engineering/april-2022-outage-update</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description>
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_248.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_248.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2022/04/episode-248.html
+Помочь подкасту - https://www.patreon.com/razborpoletov
+Telegram канал - https://t.me/razborfeed
+
+Самая крупная конференция-практикум для тимлидов и руководителей💥
+
+
+2000 участников | 70+ докладов | 11 воркшопов | 6 круглых столов
+
+
+Территория TeamLead — это энергия тысячи менеджеров и тимлидов, расширение кругозора, отработка навыков на мастер-классах, участие в круглых столах и много-много нетворкинга. Только в 2022 году — 2 трека по управлению знаниями от создателей Knowledge Conf.
+Программа конференции построена так, что каждый участник сможет найти лекарство от своей боли — и тимлид небольшого стартапа, и опытный СТО крупной компании. Такая концентрация тимлидского опыта на человеко-час и квадратный метр бывает в Москве только один раз в год. Не пропустите!
+
+
+🔹Каждый доклад — решение конкретной задачи.
+🔹Вдохновляющие идеи и решения.
+🔹Связи, на которые ушли бы годы
+🔹Программа на основе трендов самого большого сообщества тимлидов.
+🔹Спикеры не только IT индустрии
+
+
+17-18 мая 2022
+Москва. Крокус-Экспо
+
+
+Скидка 10% по промокоду TLPODCAST
+Забронировать билет|Смотреть программу 👇
+Забронировать билет|Смотреть программу 👇
+
+
+Гости и участники
+
+
+
+
+@antonarhipov
+
+
+@abashev
+
+
+Антон Черноусов
+
+
+
+
+
+
+Темы
+
+
+
+
+https://blog.jetbrains.com/idea/2022/04/intellij-idea-2022-1/
+
+
+https://github.blog/2022-04-12-git-security-vulnerability-announced/
+
+
+https://www.atlassian.com/engineering/april-2022-outage-update
+
+
+
+
+]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_248_text.jpg" />
+    </item>
     
     <item>
       <title>Episode 247 — Interview - Обнять и плакать</title>
@@ -5220,157 +5363,6 @@ KPI и OKR - https://felipecastro.com/en/okr/what-is-okr/
 
 ]]></itunes:summary>
       <itunes:image href="http://razborpoletov.com/images/razbor_199_text.jpg" />
-    </item>
-    
-    <item>
-      <title>Episode 198 — Look Around - Жизнь внутри Чебурашки</title>
-      <link>http://razborpoletov.com/2019/01/episode-198.html</link>
-      <pubDate>2019-01-28T00:00:00+00:00</pubDate>
-      <guid isPermalink="true">http://razborpoletov.com/2019/01/episode-198</guid>
-      <description><![CDATA[<div class="paragraph">
-  <p><a href="http://razborpoletov.com/2019/01/episode-198.html">Комментировать</a>
-    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a>
-    | <a href="https://t.me/razborfeed">Telegram канал</a>
-  </p>
-</div>
-<div class="sect1">
-<h2 id="Гости-и-участники">Гости и участники</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://twitter.com/a_abashev">Алексей Абашев</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/dbg_nsk">Иван Углянский</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/pjBooms">Никита Липский</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/noinline">Павел Павлов</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Темы">Темы</h2>
-<div class="sectionbody">
-<div class="olist arabic">
-<ol class="arabic">
-<li>
-<p>Что такое JET и откуда он взялся</p>
-</li>
-<li>
-<p>Баги в JVM и оптимизация, которую нельзя делать</p>
-</li>
-<li>
-<p>Поддержка Spring Boot в Excelsior JET</p>
-</li>
-<li>
-<p>Безопасность</p>
-</li>
-<li>
-<p>На чем можно заработать в JDK</p>
-</li>
-<li>
-<p>Как устроен AOT в Jet</p>
-</li>
-<li>
-<p>Производительность - это главное для 2019 года</p>
-</li>
-</ol>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Полезняшки">Полезняшки</h2>
-<div class="sectionbody">
-<div class="olist arabic">
-<ol class="arabic">
-<li>
-<p>Промокод: RazborPoletovPromo на конференцию JPoint <a href="https://jpoint.ru/" class="bare">https://jpoint.ru/</a></p>
-</li>
-<li>
-<p>Промокод: razbor-at-delex на конференцию в Минске <a href="http://delex-conf.com/" class="bare">http://delex-conf.com/</a></p>
-</li>
-</ol>
-</div>
-</div>
-</div>]]></description>
-      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_198.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_198.mp3" fileSize="" type="audio/mpeg" />
-      <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2019/01/episode-198.html
-Помочь подкасту - https://www.patreon.com/razborpoletov
-Telegram канал - https://t.me/razborfeed
-
-Гости и участники
-
-
-
-
-Алексей Абашев
-
-
-Иван Углянский
-
-
-Никита Липский
-
-
-Павел Павлов
-
-
-
-
-
-
-Темы
-
-
-
-
-Что такое JET и откуда он взялся
-
-
-Баги в JVM и оптимизация, которую нельзя делать
-
-
-Поддержка Spring Boot в Excelsior JET
-
-
-Безопасность
-
-
-На чем можно заработать в JDK
-
-
-Как устроен AOT в Jet
-
-
-Производительность - это главное для 2019 года
-
-
-
-
-
-
-Полезняшки
-
-
-
-
-Промокод: RazborPoletovPromo на конференцию JPoint https://jpoint.ru/
-
-
-Промокод: razbor-at-delex на конференцию в Минске http://delex-conf.com/
-
-
-
-
-]]></itunes:summary>
-      <itunes:image href="http://razborpoletov.com/images/razbor_198_text.jpg" />
     </item>
     
   </channel>
