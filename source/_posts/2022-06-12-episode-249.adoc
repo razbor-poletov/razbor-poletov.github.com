@@ -1,0 +1,18 @@
+---
+layout: episode
+episode: 249
+title: "Episode 249 — Classic - Профсоюзы"
+category: classic
+guests: abashev, golodnyj
+---
+
+== Гости и участники
+
+* https://t.me/razborfeed[@abashev]
+* https://twitter.com/golodnyj[Антон Черноусов]
+
+== Темы
+
+* https://habr.com/ru/post/661387/
+* https://newrelic.com/resources/report/2022-state-of-java-ecosystem
+* https://habr.com/ru/company/yandex/blog/660271/
