@@ -6,8 +6,8 @@
     <atom:link href="http://razborpoletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2022-06-06T20:32:27+00:00</pubDate>
-    <lastBuildDate>2022-06-06T20:32:27+00:00</lastBuildDate>
+    <pubDate>2022-06-12T09:24:06+00:00</pubDate>
+    <lastBuildDate>2022-06-12T09:24:06+00:00</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razborpoletov.com/logoNew.jpg" />
     <itunes:author>Viktor Gamov, Alexey Abashev</itunes:author>
@@ -18,6 +18,91 @@
     </itunes:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:thumbnail url="http://razborpoletov.com/logoNew.jpg" />
+    
+    <item>
+      <title>Episode 249 — Classic - Профсоюзы</title>
+      <link>http://razborpoletov.com/2022/06/episode-249.html</link>
+      <pubDate>2022-06-12T00:00:00+00:00</pubDate>
+      <guid isPermalink="true">http://razborpoletov.com/2022/06/episode-249</guid>
+      <description><![CDATA[<div class="paragraph">
+  <p><a href="http://razborpoletov.com/2022/06/episode-249.html">Комментировать</a>
+    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
+</div>
+<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://t.me/razborfeed">@abashev</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/golodnyj">Антон Черноусов</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://habr.com/ru/post/661387/" class="bare">https://habr.com/ru/post/661387/</a></p>
+</li>
+<li>
+<p><a href="https://newrelic.com/resources/report/2022-state-of-java-ecosystem" class="bare">https://newrelic.com/resources/report/2022-state-of-java-ecosystem</a></p>
+</li>
+<li>
+<p><a href="https://habr.com/ru/company/yandex/blog/660271/" class="bare">https://habr.com/ru/company/yandex/blog/660271/</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description>
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_249.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_249.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2022/06/episode-249.html
+Помочь подкасту - https://www.patreon.com/razborpoletov
+Telegram канал - https://t.me/razborfeed
+
+Гости и участники
+
+
+
+
+@abashev
+
+
+Антон Черноусов
+
+
+
+
+
+
+Темы
+
+
+
+
+https://habr.com/ru/post/661387/
+
+
+https://newrelic.com/resources/report/2022-state-of-java-ecosystem
+
+
+https://habr.com/ru/company/yandex/blog/660271/
+
+
+
+
+]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_249_text.jpg" />
+    </item>
     
     <item>
       <title>Episode 248 — Classic - Новая идея</title>
@@ -5212,157 +5297,6 @@ Java Digest
 
 ]]></itunes:summary>
       <itunes:image href="http://razborpoletov.com/images/razbor_200_text.jpg" />
-    </item>
-    
-    <item>
-      <title>Episode 199 — Classic - Руслан, FOSDEM и Jfocus</title>
-      <link>http://razborpoletov.com/2019/02/episode-199.html</link>
-      <pubDate>2019-02-11T00:00:00+00:00</pubDate>
-      <guid isPermalink="true">http://razborpoletov.com/2019/02/episode-199</guid>
-      <description><![CDATA[<div class="paragraph">
-  <p><a href="http://razborpoletov.com/2019/02/episode-199.html">Комментировать</a>
-    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a>
-    | <a href="https://t.me/razborfeed">Telegram канал</a>
-  </p>
-</div>
-<div class="sect1">
-<h2 id="Гости-и-участники">Гости и участники</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://twitter.com/gAmUssA">Виктор Гамов</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/a_abashev">Алексей Абашев</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/antonarhipov">Антон Архипов</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/andrei_kogun">Андрей Когунь</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/rgakhmetzyanov">Руслан Ахмедзянов</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Темы">Темы</h2>
-<div class="sectionbody">
-<div class="olist arabic">
-<ol class="arabic">
-<li>
-<p>Fosdem - <a href="https://fosdem.org/2019/schedule/track/free_java/" class="bare">https://fosdem.org/2019/schedule/track/free_java/</a></p>
-</li>
-<li>
-<p>Jfokus</p>
-</li>
-<li>
-<p>История с Рейнхольдом</p>
-</li>
-<li>
-<p>KPI и OKR - <a href="https://felipecastro.com/en/okr/what-is-okr/" class="bare">https://felipecastro.com/en/okr/what-is-okr/</a></p>
-</li>
-</ol>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Полезняшки">Полезняшки</h2>
-<div class="sectionbody">
-<div class="olist arabic">
-<ol class="arabic">
-<li>
-<p>Промокод: RazborPoletovPromo на конференцию JPoint <a href="https://jpoint.ru/" class="bare">https://jpoint.ru/</a></p>
-</li>
-<li>
-<p>Промокод: Razbor на онлайн конференцию <a href="https://fevlakeconf.ru/" class="bare">https://fevlakeconf.ru/</a></p>
-</li>
-<li>
-<p>Промокод: RazborPoletov@JavaDay на конференцию JavaDay во Львове <a href="https://www.javaday.org.ua/" class="bare">https://www.javaday.org.ua/</a></p>
-</li>
-<li>
-<p>Промокод: razbor-at-delex на конференцию в Минске <a href="http://delex-conf.com/" class="bare">http://delex-conf.com/</a></p>
-</li>
-</ol>
-</div>
-</div>
-</div>]]></description>
-      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_199.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_199.mp3" fileSize="" type="audio/mpeg" />
-      <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2019/02/episode-199.html
-Помочь подкасту - https://www.patreon.com/razborpoletov
-Telegram канал - https://t.me/razborfeed
-
-Гости и участники
-
-
-
-
-Виктор Гамов
-
-
-Алексей Абашев
-
-
-Антон Архипов
-
-
-Андрей Когунь
-
-
-Руслан Ахмедзянов
-
-
-
-
-
-
-Темы
-
-
-
-
-Fosdem - https://fosdem.org/2019/schedule/track/free_java/
-
-
-Jfokus
-
-
-История с Рейнхольдом
-
-
-KPI и OKR - https://felipecastro.com/en/okr/what-is-okr/
-
-
-
-
-
-
-Полезняшки
-
-
-
-
-Промокод: RazborPoletovPromo на конференцию JPoint https://jpoint.ru/
-
-
-Промокод: Razbor на онлайн конференцию https://fevlakeconf.ru/
-
-
-Промокод: RazborPoletov@JavaDay на конференцию JavaDay во Львове https://www.javaday.org.ua/
-
-
-Промокод: razbor-at-delex на конференцию в Минске http://delex-conf.com/
-
-
-
-
-]]></itunes:summary>
-      <itunes:image href="http://razborpoletov.com/images/razbor_199_text.jpg" />
     </item>
     
   </channel>

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: classic | Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/blog/categories/classic/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2022-06-06T20:32:27+00:00</updated>
+  <updated>2022-06-12T09:24:06+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,30 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 249 — Classic - Профсоюзы]]></title>
+    <link href="http://razborpoletov.com/2022/06/episode-249.html"/>
+    <updated>2022-06-12T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2022/06/episode-249</id>
+    <content type="html"><![CDATA[<p>== Гости и участники</p>
+
+<ul>
+<li>https://t.me/razborfeed[@abashev]</li>
+<li>https://twitter.com/golodnyj[Антон Черноусов]</li>
+</ul>
+
+
+<p>== Темы</p>
+
+<ul>
+<li>https://habr.com/ru/post/661387/</li>
+<li>https://newrelic.com/resources/report/2022-state-of-java-ecosystem</li>
+<li>https://habr.com/ru/company/yandex/blog/660271/</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 248 — Classic - Новая идея]]></title>
@@ -111,23 +135,6 @@ https://clck.ru/asjKY[Забронировать билет|Смотреть п�
 
 <ul>
 <li>https://t.me/razborfeed[@abashev]</li>
-<li>https://twitter.com/gamussa[@gamussa]</li>
-<li>https://twitter.com/andrei_kogun[Андрей Когунь]</li>
-<li>https://twitter.com/antonarhipov[@antonarhipov]</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 240 — Classic - Мужское здоровье]]></title>
-    <link href="http://razborpoletov.com/2021/12/episode-240.html"/>
-    <updated>2021-12-15T00:00:00+00:00</updated>
-    <id>http://razborpoletov.com/2021/12/episode-240</id>
-    <content type="html"><![CDATA[<p>== Гости и участники</p>
-
-<ul>
-<li>https://t.me/razborfeed[@a_abashev]</li>
 <li>https://twitter.com/gamussa[@gamussa]</li>
 <li>https://twitter.com/andrei_kogun[Андрей Когунь]</li>
 <li>https://twitter.com/antonarhipov[@antonarhipov]</li>
