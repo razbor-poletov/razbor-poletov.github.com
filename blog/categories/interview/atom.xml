@@ -4,7 +4,7 @@
   <title><![CDATA[Category: interview | Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/blog/categories/interview/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2022-06-21T12:11:54+00:00</updated>
+  <updated>2022-06-26T07:43:36+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 250 — Interview - А что случилось?]]></title>
+    <link href="http://razborpoletov.com/2022/06/episode-250.html"/>
+    <updated>2022-06-26T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2022/06/episode-250</id>
+    <content type="html"><![CDATA[<p>== Гости и участники</p>
+
+<ul>
+<li>http://mdbx.ru/[Михаил Бараблин, партнер Лиги Цифровой Экономики]</li>
+<li>https://t.me/razborfeed[@abashev]</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 247 — Interview - Обнять и плакать]]></title>
@@ -148,27 +163,6 @@ https://clck.ru/asjKY[Забронировать билет|Смотреть п�
 <li>https://twitter.com/gamussa[@gamussa]</li>
 <li>https://twitter.com/andrei_kogun[Андрей Когунь]</li>
 <li>https://twitter.com/golodnyj[Антон Черноусов]</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 239 — Interview - ИТ в крупной компании: Облака, DevOps и дефицит кадров]]></title>
-    <link href="http://razborpoletov.com/2021/11/episode-239.html"/>
-    <updated>2021-11-24T00:00:00+00:00</updated>
-    <id>http://razborpoletov.com/2021/11/episode-239</id>
-    <content type="html"><![CDATA[<p>== Голодный рекомендует вакансию</p>
-
-<p>Разработчик в контейнерную экосистему Yandex.Cloud https://bit.ly/3nhsSEw</p>
-
-<p>== Гости и участники</p>
-
-<ul>
-<li>http://mdbx.ru/[Михаил Бараблин, партнер Лиги Цифровой Экономики]</li>
-<li>https://t.me/razborfeed[@a_abashev]</li>
-<li>https://twitter.com/gamussa[@gamussa]</li>
-<li>https://twitter.com/andrei_kogun[Андрей Когунь]</li>
 </ul>
 
 ]]></content>
