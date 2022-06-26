@@ -1,0 +1,12 @@
+---
+layout: episode
+episode: 250
+title: "Episode 250 — Interview - А что случилось?"
+category: interview
+guests: abashev, barablin
+---
+
+== Гости и участники
+
+* http://mdbx.ru/[Михаил Бараблин, партнер Лиги Цифровой Экономики]
+* https://t.me/razborfeed[@abashev]
