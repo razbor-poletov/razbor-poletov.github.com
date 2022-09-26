@@ -1,0 +1,12 @@
+---
+layout: episode
+episode: 251
+title: "Episode 251 — Classic - Летний"
+category: classic
+guests: abashev, golodnyj
+---
+
+== Гости и участники
+
+* https://t.me/razborfeed[@abashev]
+* https://twitter.com/golodnyj[Антон Черноусов]
