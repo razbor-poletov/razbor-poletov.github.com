@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2022-09-26T15:13:31+00:00</updated>
+  <updated>2022-10-14T19:04:10+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,49 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 252 — Classic - Душный]]></title>
+    <link href="http://razborpoletov.com/2022/10/episode-252.html"/>
+    <updated>2022-10-15T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2022/10/episode-252</id>
+    <content type="html"><![CDATA[<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://t.me/razborfeed">@abashev</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/golodnyj">Антон Черноусов</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://habr.com/ru/post/686228/" class="bare">https://habr.com/ru/post/686228/</a></p>
+</li>
+<li>
+<p><a href="https://habr.com/ru/company/getmatch/blog/685588/" class="bare">https://habr.com/ru/company/getmatch/blog/685588/</a></p>
+</li>
+<li>
+<p><a href="https://alexn.org/blog/2022/09/07/akka-is-moving-away-from-open-source/" class="bare">https://alexn.org/blog/2022/09/07/akka-is-moving-away-from-open-source/</a></p>
+</li>
+<li>
+<p><a href="https://micronaut-projects.github.io/micronaut-test-resources/snapshot/guide/#introduction" class="bare">https://micronaut-projects.github.io/micronaut-test-resources/snapshot/guide/#introduction</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 251 — Classic - Летний]]></title>
@@ -2417,70 +2460,6 @@
 <p><a href="https://jug.ru/2019/03/digest-week-85/">Java Digest</a></p>
 </li>
 </ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Полезняшки">Полезняшки</h2>
-<div class="sectionbody">
-<div class="olist arabic">
-<ol class="arabic">
-<li>
-<p>Промокод: RazborPoletovPromo на конференцию JPoint <a href="https://jpoint.ru/" class="bare">https://jpoint.ru/</a></p>
-</li>
-<li>
-<p>Промокод: RazborPoletovPromo на конференцию Mobius <a href="https://mobiusconf.com/cfp" class="bare">https://mobiusconf.com/cfp</a></p>
-</li>
-</ol>
-</div>
-</div>
-</div>]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 202 — Look Around - Дар инопланетян]]></title>
-    <link href="http://razborpoletov.com/2019/03/episode-202.html"/>
-    <updated>2019-03-25T00:00:00+00:00</updated>
-    <id>http://razborpoletov.com/2019/03/episode-202</id>
-    <content type="html"><![CDATA[<div class="sect1">
-<h2 id="Гости-и-участники">Гости и участники</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://twitter.com/a_abashev">Алексей Абашев</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/olegchir">Олег Чирухин</a></p>
-</li>
-<li>
-<p><a href="https://medium.com/@nvashanin">Николай Ашанин</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/vvsevolodovich">Владимир Иванов</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Темы">Темы</h2>
-<div class="sectionbody">
-<div class="olist arabic">
-<ol class="arabic">
-<li>
-<p>Чем мобильный мир отличается от бэкэнд разработки</p>
-</li>
-<li>
-<p>Что сейчас в трендах мобильной разработки</p>
-</li>
-<li>
-<p>Путь мобильного инженера</p>
-</li>
-<li>
-<p>Создание личного бренда</p>
-</li>
-</ol>
 </div>
 </div>
 </div>

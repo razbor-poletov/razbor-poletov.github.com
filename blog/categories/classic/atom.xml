@@ -4,7 +4,7 @@
   <title><![CDATA[Category: classic | Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/blog/categories/classic/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2022-09-26T15:13:31+00:00</updated>
+  <updated>2022-10-14T19:04:10+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,31 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 252 — Classic - Душный]]></title>
+    <link href="http://razborpoletov.com/2022/10/episode-252.html"/>
+    <updated>2022-10-15T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2022/10/episode-252</id>
+    <content type="html"><![CDATA[<p>== Гости и участники</p>
+
+<ul>
+<li>https://t.me/razborfeed[@abashev]</li>
+<li>https://twitter.com/golodnyj[Антон Черноусов]</li>
+</ul>
+
+
+<p>== Темы</p>
+
+<ul>
+<li>https://habr.com/ru/post/686228/</li>
+<li>https://habr.com/ru/company/getmatch/blog/685588/</li>
+<li>https://alexn.org/blog/2022/09/07/akka-is-moving-away-from-open-source/</li>
+<li>https://micronaut-projects.github.io/micronaut-test-resources/snapshot/guide/#introduction</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 251 — Classic - Летний]]></title>
@@ -102,24 +127,6 @@ https://clck.ru/asjKY[Забронировать билет|Смотреть п�
     <link href="http://razborpoletov.com/2022/01/episode-243.html"/>
     <updated>2022-01-19T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2022/01/episode-243</id>
-    <content type="html"><![CDATA[<p>== Гости и участники</p>
-
-<ul>
-<li>https://t.me/razborfeed[@abashev]</li>
-<li>https://twitter.com/gamussa[@gamussa]</li>
-<li>https://twitter.com/andrei_kogun[Андрей Когунь]</li>
-<li>https://twitter.com/antonarhipov[@antonarhipov]</li>
-<li>https://twitter.com/golodnyj[Антон Черноусов]</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 242 — Classic - Новогодний выпуск - Part Uno]]></title>
-    <link href="http://razborpoletov.com/2022/01/episode-242.html"/>
-    <updated>2022-01-18T00:00:00+00:00</updated>
-    <id>http://razborpoletov.com/2022/01/episode-242</id>
     <content type="html"><![CDATA[<p>== Гости и участники</p>
 
 <ul>
