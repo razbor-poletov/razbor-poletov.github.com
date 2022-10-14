@@ -1,0 +1,20 @@
+---
+layout: episode
+episode: 252
+title: "Episode 252 — Classic - Душный"
+category: classic
+guests: abashev, golodnyj
+---
+
+== Гости и участники
+
+* https://t.me/razborfeed[@abashev]
+* https://twitter.com/golodnyj[Антон Черноусов]
+
+
+== Темы
+
+* https://habr.com/ru/post/686228/
+* https://habr.com/ru/company/getmatch/blog/685588/
+* https://alexn.org/blog/2022/09/07/akka-is-moving-away-from-open-source/
+* https://micronaut-projects.github.io/micronaut-test-resources/snapshot/guide/#introduction
