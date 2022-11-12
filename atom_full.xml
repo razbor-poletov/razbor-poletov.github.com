@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2022-11-12T17:01:23+00:00</updated>
+  <updated>2022-11-12T22:22:15+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,76 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 253 — Classic - Yandex Scale]]></title>
+    <link href="http://razborpoletov.com/2022/11/episode-253.html"/>
+    <updated>2022-11-13T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2022/11/episode-253</id>
+    <content type="html"><![CDATA[<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://t.me/razborfeed">Алексей Абашев</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/golodnyj">Антон Черноусов</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://cloud.yandex.ru/blog/posts/2022/09/security-main-announcements">Новые решения в области безопасности</a></p>
+</li>
+<li>
+<p><a href="https://cloud.yandex.ru/blog/posts/2022/09/infrastructure-and-managed-kubernetes">Анонсы инфраструктурных сервисов</a></p>
+</li>
+<li>
+<p><a href="https://cloud.yandex.ru/blog/posts/2022/09/data-platform-main-announcements">Анонсы и запуски Data Platform</a></p>
+</li>
+<li>
+<p><a href="https://cloud.yandex.ru/blog/posts/2022/09/serverless-main-announcements">Развитие экосистемы Serverless</a></p>
+</li>
+<li>
+<p><a href="https://cloud.yandex.ru/blog/posts/2022/09/cloud-logging-ga">Сервис Cloud Logging выходит в общий доступ</a></p>
+</li>
+<li>
+<p><a href="https://cloud.yandex.ru/blog/posts/2022/09/datasphere-new-features">Новый Yandex DataSphere — вышли за пределы JupyterLab®</a></p>
+</li>
+<li>
+<p><a href="https://cloud.yandex.ru/blog/posts/2022/09/cloud-apps-preview">Сервис готовых приложений Cloud Apps вышел в стадии Preview</a></p>
+</li>
+<li>
+<p><a href="https://cloud.yandex.ru/blog/posts/2022/09/cloud-backup-preview">Сервис для создания резервных копий Yandex Cloud Backup вышел в Preview</a></p>
+</li>
+<li>
+<p><a href="https://cloud.yandex.ru/blog/posts/2022/09/yandex-query-preview">Yandex Query: новый сервис для удобной работы с данными</a></p>
+</li>
+<li>
+<p><a href="https://cloud.yandex.ru/blog/posts/2022/09/yandex-tracker-new-ui">Yandex Tracker: обновлённый интерфейс и новые возможности</a></p>
+</li>
+<li>
+<p><a href="https://cloud.yandex.ru/blog/posts/2022/09/cloud-training-courses">Новые образовательные онлайн‑программы</a></p>
+</li>
+<li>
+<p><a href="https://cloud.yandex.ru/blog/posts/2022/09/cloud-data-center-kaluga">Крупнейший дата-центр России станет новой точкой доступности Yandex Cloud</a></p>
+</li>
+<li>
+<p><a href="https://cloud.yandex.ru/blog/posts/2022/09/yandex-cloud-and-yandex-360">Yandex Cloud и Яндекс 360 объединились в один облачный бизнес</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 252 — Classic - Душный]]></title>

@@ -6,8 +6,8 @@
     <atom:link href="http://razborpoletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2022-11-12T17:01:23+00:00</pubDate>
-    <lastBuildDate>2022-11-12T17:01:23+00:00</lastBuildDate>
+    <pubDate>2022-11-12T22:22:15+00:00</pubDate>
+    <lastBuildDate>2022-11-12T22:22:15+00:00</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razborpoletov.com/logoNew.jpg" />
     <itunes:author>Viktor Gamov, Alexey Abashev</itunes:author>
@@ -18,6 +18,151 @@
     </itunes:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:thumbnail url="http://razborpoletov.com/logoNew.jpg" />
+    
+    <item>
+      <title>Episode 253 — Classic - Yandex Scale</title>
+      <link>http://razborpoletov.com/2022/11/episode-253.html</link>
+      <pubDate>2022-11-13T00:00:00+00:00</pubDate>
+      <guid isPermalink="true">http://razborpoletov.com/2022/11/episode-253</guid>
+      <description><![CDATA[<div class="paragraph">
+  <p><a href="http://razborpoletov.com/2022/11/episode-253.html">Комментировать</a>
+    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
+</div>
+<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://t.me/razborfeed">Алексей Абашев</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/golodnyj">Антон Черноусов</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://cloud.yandex.ru/blog/posts/2022/09/security-main-announcements">Новые решения в области безопасности</a></p>
+</li>
+<li>
+<p><a href="https://cloud.yandex.ru/blog/posts/2022/09/infrastructure-and-managed-kubernetes">Анонсы инфраструктурных сервисов</a></p>
+</li>
+<li>
+<p><a href="https://cloud.yandex.ru/blog/posts/2022/09/data-platform-main-announcements">Анонсы и запуски Data Platform</a></p>
+</li>
+<li>
+<p><a href="https://cloud.yandex.ru/blog/posts/2022/09/serverless-main-announcements">Развитие экосистемы Serverless</a></p>
+</li>
+<li>
+<p><a href="https://cloud.yandex.ru/blog/posts/2022/09/cloud-logging-ga">Сервис Cloud Logging выходит в общий доступ</a></p>
+</li>
+<li>
+<p><a href="https://cloud.yandex.ru/blog/posts/2022/09/datasphere-new-features">Новый Yandex DataSphere — вышли за пределы JupyterLab®</a></p>
+</li>
+<li>
+<p><a href="https://cloud.yandex.ru/blog/posts/2022/09/cloud-apps-preview">Сервис готовых приложений Cloud Apps вышел в стадии Preview</a></p>
+</li>
+<li>
+<p><a href="https://cloud.yandex.ru/blog/posts/2022/09/cloud-backup-preview">Сервис для создания резервных копий Yandex Cloud Backup вышел в Preview</a></p>
+</li>
+<li>
+<p><a href="https://cloud.yandex.ru/blog/posts/2022/09/yandex-query-preview">Yandex Query: новый сервис для удобной работы с данными</a></p>
+</li>
+<li>
+<p><a href="https://cloud.yandex.ru/blog/posts/2022/09/yandex-tracker-new-ui">Yandex Tracker: обновлённый интерфейс и новые возможности</a></p>
+</li>
+<li>
+<p><a href="https://cloud.yandex.ru/blog/posts/2022/09/cloud-training-courses">Новые образовательные онлайн‑программы</a></p>
+</li>
+<li>
+<p><a href="https://cloud.yandex.ru/blog/posts/2022/09/cloud-data-center-kaluga">Крупнейший дата-центр России станет новой точкой доступности Yandex Cloud</a></p>
+</li>
+<li>
+<p><a href="https://cloud.yandex.ru/blog/posts/2022/09/yandex-cloud-and-yandex-360">Yandex Cloud и Яндекс 360 объединились в один облачный бизнес</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description>
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_253.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_253.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2022/11/episode-253.html
+Помочь подкасту - https://www.patreon.com/razborpoletov
+Telegram канал - https://t.me/razborfeed
+
+Гости и участники
+
+
+
+
+Алексей Абашев
+
+
+Антон Черноусов
+
+
+
+
+
+
+Темы
+
+
+
+
+Новые решения в области безопасности
+
+
+Анонсы инфраструктурных сервисов
+
+
+Анонсы и запуски Data Platform
+
+
+Развитие экосистемы Serverless
+
+
+Сервис Cloud Logging выходит в общий доступ
+
+
+Новый Yandex DataSphere — вышли за пределы JupyterLab®
+
+
+Сервис готовых приложений Cloud Apps вышел в стадии Preview
+
+
+Сервис для создания резервных копий Yandex Cloud Backup вышел в Preview
+
+
+Yandex Query: новый сервис для удобной работы с данными
+
+
+Yandex Tracker: обновлённый интерфейс и новые возможности
+
+
+Новые образовательные онлайн‑программы
+
+
+Крупнейший дата-центр России станет новой точкой доступности Yandex Cloud
+
+
+Yandex Cloud и Яндекс 360 объединились в один облачный бизнес
+
+
+
+
+]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_253_text.jpg" />
+    </item>
     
     <item>
       <title>Episode 252 — Classic - Душный</title>
@@ -5092,115 +5237,6 @@ Craftsmen vs. QA
 
 ]]></itunes:summary>
       <itunes:image href="http://razborpoletov.com/images/razbor_204_text.jpg" />
-    </item>
-    
-    <item>
-      <title>Episode 203 — Java Digest — Java 12</title>
-      <link>http://razborpoletov.com/2019/03/episode-203.html</link>
-      <pubDate>2019-03-28T00:00:00+00:00</pubDate>
-      <guid isPermalink="true">http://razborpoletov.com/2019/03/episode-203</guid>
-      <description><![CDATA[<div class="paragraph">
-  <p><a href="http://razborpoletov.com/2019/03/episode-203.html">Комментировать</a>
-    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a>
-    | <a href="https://t.me/razborfeed">Telegram канал</a>
-  </p>
-</div>
-<div class="sect1">
-<h2 id="Гости-и-участники">Гости и участники</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://twitter.com/a_abashev">Алексей Абашев</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/olegchir">Олег Чирухин</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/andrei_kogun">Андрей Когунь</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Темы">Темы</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://jug.ru/2019/03/digest-week-85/">Java Digest</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Полезняшки">Полезняшки</h2>
-<div class="sectionbody">
-<div class="olist arabic">
-<ol class="arabic">
-<li>
-<p>Промокод: RazborPoletovPromo на конференцию JPoint <a href="https://jpoint.ru/" class="bare">https://jpoint.ru/</a></p>
-</li>
-<li>
-<p>Промокод: RazborPoletovPromo на конференцию Mobius <a href="https://mobiusconf.com/cfp" class="bare">https://mobiusconf.com/cfp</a></p>
-</li>
-</ol>
-</div>
-</div>
-</div>]]></description>
-      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_203.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_203.mp3" fileSize="" type="audio/mpeg" />
-      <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2019/03/episode-203.html
-Помочь подкасту - https://www.patreon.com/razborpoletov
-Telegram канал - https://t.me/razborfeed
-
-Гости и участники
-
-
-
-
-Алексей Абашев
-
-
-Олег Чирухин
-
-
-Андрей Когунь
-
-
-
-
-
-
-Темы
-
-
-
-
-Java Digest
-
-
-
-
-
-
-Полезняшки
-
-
-
-
-Промокод: RazborPoletovPromo на конференцию JPoint https://jpoint.ru/
-
-
-Промокод: RazborPoletovPromo на конференцию Mobius https://mobiusconf.com/cfp
-
-
-
-
-]]></itunes:summary>
-      <itunes:image href="http://razborpoletov.com/images/razbor_203_text.jpg" />
     </item>
     
   </channel>

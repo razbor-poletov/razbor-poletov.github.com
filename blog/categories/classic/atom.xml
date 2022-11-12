@@ -4,7 +4,7 @@
   <title><![CDATA[Category: classic | Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/blog/categories/classic/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2022-11-12T17:01:23+00:00</updated>
+  <updated>2022-11-12T22:22:15+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,40 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 253 — Classic - Yandex Scale]]></title>
+    <link href="http://razborpoletov.com/2022/11/episode-253.html"/>
+    <updated>2022-11-13T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2022/11/episode-253</id>
+    <content type="html"><![CDATA[<p>== Гости и участники</p>
+
+<ul>
+<li>https://t.me/razborfeed[Алексей Абашев]</li>
+<li>https://twitter.com/golodnyj[Антон Черноусов]</li>
+</ul>
+
+
+<p>== Темы</p>
+
+<ul>
+<li>https://cloud.yandex.ru/blog/posts/2022/09/security-main-announcements[Новые решения в области безопасности]</li>
+<li>https://cloud.yandex.ru/blog/posts/2022/09/infrastructure-and-managed-kubernetes[Анонсы инфраструктурных сервисов]</li>
+<li>https://cloud.yandex.ru/blog/posts/2022/09/data-platform-main-announcements[Анонсы и запуски Data Platform]</li>
+<li>https://cloud.yandex.ru/blog/posts/2022/09/serverless-main-announcements[Развитие экосистемы Serverless]</li>
+<li>https://cloud.yandex.ru/blog/posts/2022/09/cloud-logging-ga[Сервис Cloud Logging выходит в общий доступ]</li>
+<li>https://cloud.yandex.ru/blog/posts/2022/09/datasphere-new-features[Новый Yandex DataSphere — вышли за пределы JupyterLab®]</li>
+<li>https://cloud.yandex.ru/blog/posts/2022/09/cloud-apps-preview[Сервис готовых приложений Cloud Apps вышел в стадии Preview]</li>
+<li>https://cloud.yandex.ru/blog/posts/2022/09/cloud-backup-preview[Сервис для создания резервных копий Yandex Cloud Backup вышел в Preview]</li>
+<li>https://cloud.yandex.ru/blog/posts/2022/09/yandex-query-preview[Yandex Query: новый сервис для удобной работы с данными]</li>
+<li>https://cloud.yandex.ru/blog/posts/2022/09/yandex-tracker-new-ui[Yandex Tracker: обновлённый интерфейс и новые возможности]</li>
+<li>https://cloud.yandex.ru/blog/posts/2022/09/cloud-training-courses[Новые образовательные онлайн‑программы]</li>
+<li>https://cloud.yandex.ru/blog/posts/2022/09/cloud-data-center-kaluga[Крупнейший дата-центр России станет новой точкой доступности Yandex Cloud]</li>
+<li>https://cloud.yandex.ru/blog/posts/2022/09/yandex-cloud-and-yandex-360[Yandex Cloud и Яндекс 360 объединились в один облачный бизнес]</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 252 — Classic - Душный]]></title>
@@ -117,24 +151,6 @@ https://clck.ru/asjKY[Забронировать билет|Смотреть п�
 <li>https://blog.jetbrains.com/idea/2022/04/intellij-idea-2022-1/</li>
 <li>https://github.blog/2022-04-12-git-security-vulnerability-announced/</li>
 <li>https://www.atlassian.com/engineering/april-2022-outage-update</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 243 — Classic - Новогодний выпуск - Part Duo]]></title>
-    <link href="http://razborpoletov.com/2022/01/episode-243.html"/>
-    <updated>2022-01-19T00:00:00+00:00</updated>
-    <id>http://razborpoletov.com/2022/01/episode-243</id>
-    <content type="html"><![CDATA[<p>== Гости и участники</p>
-
-<ul>
-<li>https://t.me/razborfeed[@abashev]</li>
-<li>https://twitter.com/gamussa[@gamussa]</li>
-<li>https://twitter.com/andrei_kogun[Андрей Когунь]</li>
-<li>https://twitter.com/antonarhipov[@antonarhipov]</li>
-<li>https://twitter.com/golodnyj[Антон Черноусов]</li>
 </ul>
 
 ]]></content>
