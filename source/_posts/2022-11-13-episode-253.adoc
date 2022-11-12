@@ -1,0 +1,28 @@
+---
+layout: episode
+episode: 253
+title: "Episode 253 — Classic - Yandex Scale"
+category: classic
+guests: abashev, golodnyj
+---
+
+== Гости и участники
+
+* https://t.me/razborfeed[Алексей Абашев]
+* https://twitter.com/golodnyj[Антон Черноусов]
+
+== Темы
+
+* https://cloud.yandex.ru/blog/posts/2022/09/security-main-announcements[Новые решения в области безопасности]
+* https://cloud.yandex.ru/blog/posts/2022/09/infrastructure-and-managed-kubernetes[Анонсы инфраструктурных сервисов]
+* https://cloud.yandex.ru/blog/posts/2022/09/data-platform-main-announcements[Анонсы и запуски Data Platform]
+* https://cloud.yandex.ru/blog/posts/2022/09/serverless-main-announcements[Развитие экосистемы Serverless]
+* https://cloud.yandex.ru/blog/posts/2022/09/cloud-logging-ga[Сервис Cloud Logging выходит в общий доступ]
+* https://cloud.yandex.ru/blog/posts/2022/09/datasphere-new-features[Новый Yandex DataSphere — вышли за пределы JupyterLab®]
+* https://cloud.yandex.ru/blog/posts/2022/09/cloud-apps-preview[Сервис готовых приложений Cloud Apps вышел в стадии Preview]
+* https://cloud.yandex.ru/blog/posts/2022/09/cloud-backup-preview[Сервис для создания резервных копий Yandex Cloud Backup вышел в Preview]
+* https://cloud.yandex.ru/blog/posts/2022/09/yandex-query-preview[Yandex Query: новый сервис для удобной работы с данными]
+* https://cloud.yandex.ru/blog/posts/2022/09/yandex-tracker-new-ui[Yandex Tracker: обновлённый интерфейс и новые возможности]
+* https://cloud.yandex.ru/blog/posts/2022/09/cloud-training-courses[Новые образовательные онлайн‑программы]
+* https://cloud.yandex.ru/blog/posts/2022/09/cloud-data-center-kaluga[Крупнейший дата-центр России станет новой точкой доступности Yandex Cloud]
+* https://cloud.yandex.ru/blog/posts/2022/09/yandex-cloud-and-yandex-360[Yandex Cloud и Яндекс 360 объединились в один облачный бизнес]
