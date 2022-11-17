@@ -1,0 +1,19 @@
+---
+layout: episode
+episode: 254
+title: "Episode 254 — Classic - Одноногий капитан Fleet"
+category: classic
+guests: abashev, golodnyj
+---
+
+== Гости и участники
+
+* https://t.me/razborfeed[@abashev]
+* https://twitter.com/golodnyj[Антон Черноусов]
+
+== Темы
+
+* https://www.datadoghq.com/state-of-aws-security/
+* https://blog.jetbrains.com/fleet/2022/10/introducing-the-fleet-public-preview
+* https://scale.yandex.ru/program#speech-1237
+* https://scale.yandex.ru/program#speech-1250
