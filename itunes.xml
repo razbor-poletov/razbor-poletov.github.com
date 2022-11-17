@@ -6,8 +6,8 @@
     <atom:link href="http://razborpoletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2022-11-12T22:34:45+00:00</pubDate>
-    <lastBuildDate>2022-11-12T22:34:45+00:00</lastBuildDate>
+    <pubDate>2022-11-17T23:36:29+00:00</pubDate>
+    <lastBuildDate>2022-11-17T23:36:29+00:00</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razborpoletov.com/logoNew.jpg" />
     <itunes:author>Viktor Gamov, Alexey Abashev</itunes:author>
@@ -18,6 +18,97 @@
     </itunes:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:thumbnail url="http://razborpoletov.com/logoNew.jpg" />
+    
+    <item>
+      <title>Episode 254 — Classic - Одноногий капитан Fleet</title>
+      <link>http://razborpoletov.com/2022/11/episode-254.html</link>
+      <pubDate>2022-11-18T00:00:00+00:00</pubDate>
+      <guid isPermalink="true">http://razborpoletov.com/2022/11/episode-254</guid>
+      <description><![CDATA[<div class="paragraph">
+  <p><a href="http://razborpoletov.com/2022/11/episode-254.html">Комментировать</a>
+    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
+</div>
+<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://t.me/razborfeed">@abashev</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/golodnyj">Антон Черноусов</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://www.datadoghq.com/state-of-aws-security/" class="bare">https://www.datadoghq.com/state-of-aws-security/</a></p>
+</li>
+<li>
+<p><a href="https://blog.jetbrains.com/fleet/2022/10/introducing-the-fleet-public-preview" class="bare">https://blog.jetbrains.com/fleet/2022/10/introducing-the-fleet-public-preview</a></p>
+</li>
+<li>
+<p><a href="https://scale.yandex.ru/program#speech-1237" class="bare">https://scale.yandex.ru/program#speech-1237</a></p>
+</li>
+<li>
+<p><a href="https://scale.yandex.ru/program#speech-1250" class="bare">https://scale.yandex.ru/program#speech-1250</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description>
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_254.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_254.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2022/11/episode-254.html
+Помочь подкасту - https://www.patreon.com/razborpoletov
+Telegram канал - https://t.me/razborfeed
+
+Гости и участники
+
+
+
+
+@abashev
+
+
+Антон Черноусов
+
+
+
+
+
+
+Темы
+
+
+
+
+https://www.datadoghq.com/state-of-aws-security/
+
+
+https://blog.jetbrains.com/fleet/2022/10/introducing-the-fleet-public-preview
+
+
+https://scale.yandex.ru/program#speech-1237
+
+
+https://scale.yandex.ru/program#speech-1250
+
+
+
+
+]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_254_text.jpg" />
+    </item>
     
     <item>
       <title>Episode 253 — Classic - Yandex Scale</title>
@@ -5152,91 +5243,6 @@ YourKit YouMonitor
 
 ]]></itunes:summary>
       <itunes:image href="http://razborpoletov.com/images/razbor_205_text.jpg" />
-    </item>
-    
-    <item>
-      <title>Episode 204 — JPoint 2019 — Craftsmen vs. QA</title>
-      <link>http://razborpoletov.com/2019/05/episode-204.html</link>
-      <pubDate>2019-05-03T00:00:00+00:00</pubDate>
-      <guid isPermalink="true">http://razborpoletov.com/2019/05/episode-204</guid>
-      <description><![CDATA[<div class="paragraph">
-  <p><a href="http://razborpoletov.com/2019/05/episode-204.html">Комментировать</a>
-    | <a href="https://www.patreon.com/razborpoletov">Помочь подкасту</a>
-    | <a href="https://t.me/razborfeed">Telegram канал</a>
-  </p>
-</div>
-<div class="sect1">
-<h2 id="Гости-и-участники">Гости и участники</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://twitter.com/a_abashev">Алексей Абашев</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/golodnyj">Антон Черноусов</a></p>
-</li>
-<li>
-<p><a href="https://www.youtube.com/c/yegor256?sub_confirmation=1">Егор Бугаенко</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/antonkeks">Антон Кекс</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Темы">Темы</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p>Craftsmen vs. QA</p>
-</li>
-</ul>
-</div>
-</div>
-</div>]]></description>
-      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_204.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_204.mp3" fileSize="" type="audio/mpeg" />
-      <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2019/05/episode-204.html
-Помочь подкасту - https://www.patreon.com/razborpoletov
-Telegram канал - https://t.me/razborfeed
-
-Гости и участники
-
-
-
-
-Алексей Абашев
-
-
-Антон Черноусов
-
-
-Егор Бугаенко
-
-
-Антон Кекс
-
-
-
-
-
-
-Темы
-
-
-
-
-Craftsmen vs. QA
-
-
-
-
-]]></itunes:summary>
-      <itunes:image href="http://razborpoletov.com/images/razbor_204_text.jpg" />
     </item>
     
   </channel>
