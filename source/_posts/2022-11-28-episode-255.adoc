@@ -1,0 +1,19 @@
+---
+layout: episode
+episode: 255
+title: "Episode 255 — Classic - Эффективное общение"
+category: classic
+guests: abashev, golodnyj
+---
+
+== Гости и участники
+
+* https://t.me/razborfeed[@abashev]
+* https://twitter.com/golodnyj[Антон Черноусов]
+
+
+== Темы
+
+* https://habr.com/ru/article/695398/
+* https://www.reddit.com/r/sysadmin/comments/x7lwjx/serverless_and_the_end_of_the_sysadmin_aka_old/
+* https://www.karlsutt.com/articles/communicating-effectively-as-a-developer/
