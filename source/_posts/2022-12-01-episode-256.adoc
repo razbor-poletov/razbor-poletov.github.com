@@ -1,0 +1,22 @@
+---
+layout: episode
+episode: 256
+title: "Episode 256 — Interview - Нормально, делай"
+category: interview
+guests: abashev, AnastasiiaPavlovskaya, shtorm941
+---
+
+== Гости и участники
+
+* https://t.me/razborfeed[@abashev]
+* https://t.me/AnastasiiaPavlovskaya[Анастасия Павловская]
+* https://t.me/shtorm941[Дмитрий Шишов]
+
+== Вакансии в Дзен
+
+* https://team.vk.company/project/289/
+
+== Темы
+
+* https://www.youtube.com/watch?v=uP3punJpJno
+
