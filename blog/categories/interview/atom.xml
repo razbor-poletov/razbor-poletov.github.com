@@ -4,7 +4,7 @@
   <title><![CDATA[Category: interview | Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/blog/categories/interview/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2022-11-30T22:15:37+00:00</updated>
+  <updated>2022-11-30T22:35:48+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,36 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 256 — Interview - Нормально, делай]]></title>
+    <link href="http://razborpoletov.com/2022/12/episode-256.html"/>
+    <updated>2022-12-01T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2022/12/episode-256</id>
+    <content type="html"><![CDATA[<p>== Гости и участники</p>
+
+<ul>
+<li>https://t.me/razborfeed[@abashev]</li>
+<li>https://t.me/AnastasiiaPavlovskaya[Анастасия Павловская]</li>
+<li>https://t.me/shtorm941[Дмитрий Шишов]</li>
+</ul>
+
+
+<p>== Вакансии в Дзен</p>
+
+<ul>
+<li>https://team.vk.company/project/289/</li>
+</ul>
+
+
+<p>== Темы</p>
+
+<ul>
+<li>https://www.youtube.com/watch?v=uP3punJpJno</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 250 — Interview - А что случилось?]]></title>
@@ -132,37 +162,6 @@ https://clck.ru/asjKY[Забронировать билет|Смотреть п�
 <li>https://github.com/dmikusa-pivotal/paketo-arm64</li>
 <li>https://github.com/dashaun/spring-boot-native-pi</li>
 <li>https://jugspeakers.online/ru/talk/3001.html</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 244 — Interview - Пpo Abbyy и Redis Streams]]></title>
-    <link href="http://razborpoletov.com/2022/02/episode-244.html"/>
-    <updated>2022-02-05T00:00:00+00:00</updated>
-    <id>http://razborpoletov.com/2022/02/episode-244</id>
-    <content type="html"><![CDATA[<p>Выпуск подготовлен при поддержке ABBYY – мирового разработчика решений для интеллектуальной обработки информации и анализа бизнес-процессов. В работе компания использует самый современный стэк технологий: .NET Core, Kubernetes (k8s), Docker, React JS и другие.</p>
-
-<p>Сейчас ABBYY ищет в команду:</p>
-
-<ul>
-<li>https://www.abbyy.com/ru/company/careers/open-positions/2023?frontend-developer-vantage=&amp;utm_source=razbor_poletov&amp;utm_medium=podcast&amp;utm_campaign=razbor_poletov_podcast19012022[Frontend Developer]</li>
-<li>https://www.abbyy.com/ru/company/careers/open-positions/1857/?senior-frontend-developer-flexicapture=&amp;utm_source=razbor_poletov&amp;utm_medium=podcast&amp;utm_campaign=razbor_poletov_podcast19012022[Senior Frontend Developer]</li>
-</ul>
-
-
-<p>https://www.abbyy.com/ru/company/careers/open-positions/?utm_source=razbor_poletov&amp;utm_medium=podcast&amp;utm_campaign=razbor_poletov_podcast19012022[Все вакансии компании – по ссылке]</p>
-
-<p>== Гости и участники</p>
-
-<ul>
-<li>Владимир Букин</li>
-<li>Евгений Канев</li>
-<li>https://t.me/razborfeed[@abashev]</li>
-<li>https://twitter.com/gamussa[@gamussa]</li>
-<li>https://twitter.com/andrei_kogun[Андрей Когунь]</li>
-<li>https://twitter.com/golodnyj[Антон Черноусов]</li>
 </ul>
 
 ]]></content>

@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2022-11-30T22:15:37+00:00</updated>
+  <updated>2022-11-30T22:35:48+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,55 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 256 — Interview - Нормально, делай]]></title>
+    <link href="http://razborpoletov.com/2022/12/episode-256.html"/>
+    <updated>2022-12-01T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2022/12/episode-256</id>
+    <content type="html"><![CDATA[<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://t.me/razborfeed">@abashev</a></p>
+</li>
+<li>
+<p><a href="https://t.me/AnastasiiaPavlovskaya">Анастасия Павловская</a></p>
+</li>
+<li>
+<p><a href="https://t.me/shtorm941">Дмитрий Шишов</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Вакансии-в-Дзен">Вакансии в Дзен</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://team.vk.company/project/289/" class="bare">https://team.vk.company/project/289/</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://www.youtube.com/watch?v=uP3punJpJno" class="bare">https://www.youtube.com/watch?v=uP3punJpJno</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 255 — Classic - Эффективное общение]]></title>
