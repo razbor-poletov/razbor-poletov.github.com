@@ -1,0 +1,23 @@
+---
+layout: episode
+episode: 257
+title: "Episode 257 — Interview - Кто волосатый и везде пролезет?"
+category: interview
+guests: abashev, golodnyj
+---
+
+== Гости и участники
+
+* https://t.me/razborfeed[@abashev]
+* https://twitter.com/golodnyj[Антон Черноусов]
+* Владислав Грубов
+* Андрей Клюев
+
+== Темы
+
+* https://vk.cc/cjcem3[Try Tarantool]
+* https://vk.cc/cjcfxu[Чат сообщества]
+* https://vk.cc/cjcg7n[Сайт tarantool.io]
+* https://github.com/tarantool/cartridge-java[Java Connector]
+* https://github.com/tarantool/crud.git[Tarantool CRUD]
+* https://github.com/tarantool/cartridge-springdata[Spring Data]
