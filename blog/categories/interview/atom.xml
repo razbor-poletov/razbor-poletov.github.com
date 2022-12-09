@@ -4,7 +4,7 @@
   <title><![CDATA[Category: interview | Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/blog/categories/interview/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2022-12-06T09:58:43+00:00</updated>
+  <updated>2022-12-09T22:41:05+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,35 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 257 — Interview - Кто волосатый и везде пролезет?]]></title>
+    <link href="http://razborpoletov.com/2022/12/episode-257.html"/>
+    <updated>2022-12-10T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2022/12/episode-257</id>
+    <content type="html"><![CDATA[<p>== Гости и участники</p>
+
+<ul>
+<li>https://t.me/razborfeed[@abashev]</li>
+<li>https://twitter.com/golodnyj[Антон Черноусов]</li>
+<li>Владислав Грубов</li>
+<li>Андрей Клюев</li>
+</ul>
+
+
+<p>== Темы</p>
+
+<ul>
+<li>https://vk.cc/cjcem3[Try Tarantool]</li>
+<li>https://vk.cc/cjcfxu[Чат сообщества]</li>
+<li>https://vk.cc/cjcg7n[Сайт tarantool.io]</li>
+<li>https://github.com/tarantool/cartridge-java[Java Connector]</li>
+<li>https://github.com/tarantool/crud.git[Tarantool CRUD]</li>
+<li>https://github.com/tarantool/cartridge-springdata[Spring Data]</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 256 — Interview - Нормально, делай]]></title>
@@ -121,47 +150,6 @@ https://clck.ru/asjKY[Забронировать билет|Смотреть п�
 <li>https://www.querifylabs.com/[Алексей Гончарюк]</li>
 <li>https://t.me/razborfeed[@abashev]</li>
 <li>https://twitter.com/golodnyj[Антон Черноусов]</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 245 — Interview - Гость из BellSoft]]></title>
-    <link href="http://razborpoletov.com/2022/02/episode-245.html"/>
-    <updated>2022-02-21T00:00:00+00:00</updated>
-    <id>http://razborpoletov.com/2022/02/episode-245</id>
-    <content type="html"><![CDATA[<p>Выпуск подготовлен при поддержке ABBYY – мирового разработчика решений для интеллектуальной обработки информации и анализа бизнес-процессов. В работе компания использует самый современный стэк технологий: .NET Core, Kubernetes (k8s), Docker, React JS и другие.</p>
-
-<p>Сейчас ABBYY ищет в команду:</p>
-
-<ul>
-<li>https://www.abbyy.com/ru/company/careers/open-positions/2023?frontend-developer-vantage=&amp;utm_source=razbor_poletov&amp;utm_medium=podcast&amp;utm_campaign=razbor_poletov_podcast19012022[Frontend Developer]</li>
-<li>https://www.abbyy.com/ru/company/careers/open-positions/1857/?senior-frontend-developer-flexicapture=&amp;utm_source=razbor_poletov&amp;utm_medium=podcast&amp;utm_campaign=razbor_poletov_podcast19012022[Senior Frontend Developer]</li>
-</ul>
-
-
-<p>https://www.abbyy.com/ru/company/careers/open-positions/?utm_source=razbor_poletov&amp;utm_medium=podcast&amp;utm_campaign=razbor_poletov_podcast19012022[Все вакансии компании – по ссылке]</p>
-
-<p>== Гости и участники</p>
-
-<ul>
-<li>Дмитрий Чуйко</li>
-<li>https://t.me/razborfeed[@abashev]</li>
-<li>https://twitter.com/gamussa[@gamussa]</li>
-<li>https://twitter.com/golodnyj[Антон Черноусов]</li>
-<li>https://twitter.com/antonarhipov[@antonarhipov]</li>
-<li>https://twitter.com/tolkv[@tolkv]</li>
-</ul>
-
-
-<p>== Темы</p>
-
-<ul>
-<li>https://www.youtube.com/watch?v=UIHItqpA5as[Spring Boot «fat» JAR: Тонкие части толстого артефакта ]</li>
-<li>https://github.com/dmikusa-pivotal/paketo-arm64</li>
-<li>https://github.com/dashaun/spring-boot-native-pi</li>
-<li>https://jugspeakers.online/ru/talk/3001.html</li>
 </ul>
 
 ]]></content>

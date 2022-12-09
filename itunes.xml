@@ -6,8 +6,8 @@
     <atom:link href="http://razborpoletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2022-12-06T09:58:43+00:00</pubDate>
-    <lastBuildDate>2022-12-06T09:58:43+00:00</lastBuildDate>
+    <pubDate>2022-12-09T22:41:05+00:00</pubDate>
+    <lastBuildDate>2022-12-09T22:41:05+00:00</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razborpoletov.com/logoNew.jpg" />
     <itunes:author>Viktor Gamov, Alexey Abashev</itunes:author>
@@ -18,6 +18,119 @@
     </itunes:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:thumbnail url="http://razborpoletov.com/logoNew.jpg" />
+    
+    <item>
+      <title>Episode 257 — Interview - Кто волосатый и везде пролезет?</title>
+      <link>http://razborpoletov.com/2022/12/episode-257.html</link>
+      <pubDate>2022-12-10T00:00:00+00:00</pubDate>
+      <guid isPermalink="true">http://razborpoletov.com/2022/12/episode-257</guid>
+      <description><![CDATA[<div class="paragraph">
+  <p><a href="http://razborpoletov.com/2022/12/episode-257.html">Комментировать</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
+</div>
+<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://t.me/razborfeed">@abashev</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/golodnyj">Антон Черноусов</a></p>
+</li>
+<li>
+<p>Владислав Грубов</p>
+</li>
+<li>
+<p>Андрей Клюев</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://vk.cc/cjcem3">Try Tarantool</a></p>
+</li>
+<li>
+<p><a href="https://vk.cc/cjcfxu">Чат сообщества</a></p>
+</li>
+<li>
+<p><a href="https://vk.cc/cjcg7n">Сайт tarantool.io</a></p>
+</li>
+<li>
+<p><a href="https://github.com/tarantool/cartridge-java">Java Connector</a></p>
+</li>
+<li>
+<p><a href="https://github.com/tarantool/crud.git">Tarantool CRUD</a></p>
+</li>
+<li>
+<p><a href="https://github.com/tarantool/cartridge-springdata">Spring Data</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description>
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_257.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_257.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2022/12/episode-257.html
+Telegram канал - https://t.me/razborfeed
+
+Гости и участники
+
+
+
+
+@abashev
+
+
+Антон Черноусов
+
+
+Владислав Грубов
+
+
+Андрей Клюев
+
+
+
+
+
+
+Темы
+
+
+
+
+Try Tarantool
+
+
+Чат сообщества
+
+
+Сайт tarantool.io
+
+
+Java Connector
+
+
+Tarantool CRUD
+
+
+Spring Data
+
+
+
+
+]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_257_text.jpg" />
+    </item>
     
     <item>
       <title>Episode 256 — Interview - Нормально, делай</title>
@@ -4758,101 +4871,6 @@ Performance engineer и чем он живёт
 
 ]]></itunes:summary>
       <itunes:image href="http://razborpoletov.com/images/razbor_208_text.jpg" />
-    </item>
-    
-    <item>
-      <title>Episode 207 — Interview - QA - По ту сторону разработки</title>
-      <link>http://razborpoletov.com/2020/04/episode-207.html</link>
-      <pubDate>2020-04-11T00:00:00+00:00</pubDate>
-      <guid isPermalink="true">http://razborpoletov.com/2020/04/episode-207</guid>
-      <description><![CDATA[<div class="paragraph">
-  <p><a href="http://razborpoletov.com/2020/04/episode-207.html">Комментировать</a>
-    | <a href="https://t.me/razborfeed">Telegram канал</a>
-  </p>
-</div>
-<div class="sect1">
-<h2 id="Гости-и-участники">Гости и участники</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://twitter.com/eroshenkoam">Артем Ерошенко</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/it_improve">Андрей Дмитриев</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/brekelov">Всеволод Брекелов</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/a_abashev">Алексей Абашев</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Темы">Темы</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p>Тестирование</p>
-</li>
-<li>
-<p><a href="http://allure.qatools.ru/" class="bare">http://allure.qatools.ru/</a></p>
-</li>
-<li>
-<p><a href="https://habr.com/ru/company/jugru/blog/337386/" class="bare">https://habr.com/ru/company/jugru/blog/337386/</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>]]></description>
-      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_207.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_207.mp3" fileSize="" type="audio/mpeg" />
-      <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2020/04/episode-207.html
-Telegram канал - https://t.me/razborfeed
-
-Гости и участники
-
-
-
-
-Артем Ерошенко
-
-
-Андрей Дмитриев
-
-
-Всеволод Брекелов
-
-
-Алексей Абашев
-
-
-
-
-
-
-Темы
-
-
-
-
-Тестирование
-
-
-http://allure.qatools.ru/
-
-
-https://habr.com/ru/company/jugru/blog/337386/
-
-
-
-
-]]></itunes:summary>
-      <itunes:image href="http://razborpoletov.com/images/razbor_207_text.jpg" />
     </item>
     
   </channel>
