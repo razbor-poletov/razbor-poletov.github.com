@@ -1,0 +1,20 @@
+---
+layout: episode
+episode: 258
+title: "Episode 258 — Classic - AI глядит в завтрашний день"
+category: interview
+guests: abashev, golodnyj
+---
+
+== Гости и участники
+
+* https://t.me/razborfeed[@abashev]
+* https://twitter.com/golodnyj[Антон Черноусов]
+
+== Темы
+
+* https://habr.com/ru/news/t/705034/
+* https://www.nytimes.com/2022/12/21/technology/ai-chatgpt-google-search.html
+* https://www.nytimes.com/interactive/2022/12/26/magazine/yejin-choi-interview.html
+* https://habr.com/ru/post/708072/
+* https://habr.com/ru/company/selectel/blog/707522/
