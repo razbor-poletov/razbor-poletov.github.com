@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2023-01-11T16:21:38+00:00</updated>
+  <updated>2023-01-16T19:49:38+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,52 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 258 — Classic - AI глядит в завтрашний день]]></title>
+    <link href="http://razborpoletov.com/2023/01/episode-258.html"/>
+    <updated>2023-01-17T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2023/01/episode-258</id>
+    <content type="html"><![CDATA[<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://t.me/razborfeed">@abashev</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/golodnyj">Антон Черноусов</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://habr.com/ru/news/t/705034/" class="bare">https://habr.com/ru/news/t/705034/</a></p>
+</li>
+<li>
+<p><a href="https://www.nytimes.com/2022/12/21/technology/ai-chatgpt-google-search.html" class="bare">https://www.nytimes.com/2022/12/21/technology/ai-chatgpt-google-search.html</a></p>
+</li>
+<li>
+<p><a href="https://www.nytimes.com/interactive/2022/12/26/magazine/yejin-choi-interview.html" class="bare">https://www.nytimes.com/interactive/2022/12/26/magazine/yejin-choi-interview.html</a></p>
+</li>
+<li>
+<p><a href="https://habr.com/ru/post/708072/" class="bare">https://habr.com/ru/post/708072/</a></p>
+</li>
+<li>
+<p><a href="https://habr.com/ru/company/selectel/blog/707522/" class="bare">https://habr.com/ru/company/selectel/blog/707522/</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 257 — Interview - Кто волосатый и везде пролезет?]]></title>

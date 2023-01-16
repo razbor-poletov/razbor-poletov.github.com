@@ -6,8 +6,8 @@
     <atom:link href="http://razborpoletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2023-01-11T16:21:38+00:00</pubDate>
-    <lastBuildDate>2023-01-11T16:21:38+00:00</lastBuildDate>
+    <pubDate>2023-01-16T19:49:38+00:00</pubDate>
+    <lastBuildDate>2023-01-16T19:49:38+00:00</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razborpoletov.com/logoNew.jpg" />
     <itunes:author>Viktor Gamov, Alexey Abashev</itunes:author>
@@ -18,6 +18,101 @@
     </itunes:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:thumbnail url="http://razborpoletov.com/logoNew.jpg" />
+    
+    <item>
+      <title>Episode 258 — Classic - AI глядит в завтрашний день</title>
+      <link>http://razborpoletov.com/2023/01/episode-258.html</link>
+      <pubDate>2023-01-17T00:00:00+00:00</pubDate>
+      <guid isPermalink="true">http://razborpoletov.com/2023/01/episode-258</guid>
+      <description><![CDATA[<div class="paragraph">
+  <p><a href="http://razborpoletov.com/2023/01/episode-258.html">Комментировать</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
+</div>
+<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://t.me/razborfeed">@abashev</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/golodnyj">Антон Черноусов</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://habr.com/ru/news/t/705034/" class="bare">https://habr.com/ru/news/t/705034/</a></p>
+</li>
+<li>
+<p><a href="https://www.nytimes.com/2022/12/21/technology/ai-chatgpt-google-search.html" class="bare">https://www.nytimes.com/2022/12/21/technology/ai-chatgpt-google-search.html</a></p>
+</li>
+<li>
+<p><a href="https://www.nytimes.com/interactive/2022/12/26/magazine/yejin-choi-interview.html" class="bare">https://www.nytimes.com/interactive/2022/12/26/magazine/yejin-choi-interview.html</a></p>
+</li>
+<li>
+<p><a href="https://habr.com/ru/post/708072/" class="bare">https://habr.com/ru/post/708072/</a></p>
+</li>
+<li>
+<p><a href="https://habr.com/ru/company/selectel/blog/707522/" class="bare">https://habr.com/ru/company/selectel/blog/707522/</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description>
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_258.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_258.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2023/01/episode-258.html
+Telegram канал - https://t.me/razborfeed
+
+Гости и участники
+
+
+
+
+@abashev
+
+
+Антон Черноусов
+
+
+
+
+
+
+Темы
+
+
+
+
+https://habr.com/ru/news/t/705034/
+
+
+https://www.nytimes.com/2022/12/21/technology/ai-chatgpt-google-search.html
+
+
+https://www.nytimes.com/interactive/2022/12/26/magazine/yejin-choi-interview.html
+
+
+https://habr.com/ru/post/708072/
+
+
+https://habr.com/ru/company/selectel/blog/707522/
+
+
+
+
+]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_258_text.jpg" />
+    </item>
     
     <item>
       <title>Episode 257 — Interview - Кто волосатый и везде пролезет?</title>
@@ -4788,89 +4883,6 @@ Mary Thengvall — The Business Value of DevRel
 
 ]]></itunes:summary>
       <itunes:image href="http://razborpoletov.com/images/razbor_209_text.jpg" />
-    </item>
-    
-    <item>
-      <title>Episode 208 — Interview - Сделайте мне хорошо</title>
-      <link>http://razborpoletov.com/2020/04/episode-208.html</link>
-      <pubDate>2020-04-26T00:00:00+00:00</pubDate>
-      <guid isPermalink="true">http://razborpoletov.com/2020/04/episode-208</guid>
-      <description><![CDATA[<div class="paragraph">
-  <p><a href="http://razborpoletov.com/2020/04/episode-208.html">Комментировать</a>
-    | <a href="https://t.me/razborfeed">Telegram канал</a>
-  </p>
-</div>
-<div class="sect1">
-<h2 id="Гости-и-участники">Гости и участники</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://twitter.com/vladimirsitnikv">Владимир Ситников</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/it_improve">Андрей Дмитриев</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/brekelov">Всеволод Брекелов</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/a_abashev">Алексей Абашев</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Темы">Темы</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p>Performance engineer и чем он живёт</p>
-</li>
-</ul>
-</div>
-</div>
-</div>]]></description>
-      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_208.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_208.mp3" fileSize="" type="audio/mpeg" />
-      <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2020/04/episode-208.html
-Telegram канал - https://t.me/razborfeed
-
-Гости и участники
-
-
-
-
-Владимир Ситников
-
-
-Андрей Дмитриев
-
-
-Всеволод Брекелов
-
-
-Алексей Абашев
-
-
-
-
-
-
-Темы
-
-
-
-
-Performance engineer и чем он живёт
-
-
-
-
-]]></itunes:summary>
-      <itunes:image href="http://razborpoletov.com/images/razbor_208_text.jpg" />
     </item>
     
   </channel>
