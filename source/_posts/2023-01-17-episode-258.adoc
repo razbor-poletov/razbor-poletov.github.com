@@ -2,7 +2,7 @@
 layout: episode
 episode: 258
 title: "Episode 258 — Classic - AI глядит в завтрашний день"
-category: interview
+category: classic
 guests: abashev, golodnyj
 ---
 

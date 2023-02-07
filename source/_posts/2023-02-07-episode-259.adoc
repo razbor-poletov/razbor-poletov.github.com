@@ -1,0 +1,20 @@
+---
+layout: episode
+episode: 259
+title: "Episode 259 — Classic - В начале было Слово"
+category: Classic
+guests: abashev, golodnyj
+---
+
+== Гости и участники
+
+* https://t.me/razborfeed[@abashev]
+* https://twitter.com/golodnyj[Антон Черноусов]
+
+== Темы
+
+* https://circleci.com/blog/jan-4-2023-incident-report/
+* https://habr.com/ru/company/dododev/blog/709598/
+* https://blog.daveallie.com/ulid-primary-keys
+* Вечер в Музее «Принцип пинг-понга: как нейросеть стала соавтором художника» https://yandex.ru/museum/events#
+* Партнерство YC с Navicon https://www.cnews.ru/news/line/2023-01-11_navicon_i_yandex_cloud_rasshirili_sotrudnichestvo
