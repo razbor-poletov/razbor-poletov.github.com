@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2023-01-24T18:37:40+00:00</updated>
+  <updated>2023-02-07T19:28:04+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,52 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 259 — Classic - В начале было Слово]]></title>
+    <link href="http://razborpoletov.com/2023/02/episode-259.html"/>
+    <updated>2023-02-07T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2023/02/episode-259</id>
+    <content type="html"><![CDATA[<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://t.me/razborfeed">@abashev</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/golodnyj">Антон Черноусов</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://circleci.com/blog/jan-4-2023-incident-report/" class="bare">https://circleci.com/blog/jan-4-2023-incident-report/</a></p>
+</li>
+<li>
+<p><a href="https://habr.com/ru/company/dododev/blog/709598/" class="bare">https://habr.com/ru/company/dododev/blog/709598/</a></p>
+</li>
+<li>
+<p><a href="https://blog.daveallie.com/ulid-primary-keys" class="bare">https://blog.daveallie.com/ulid-primary-keys</a></p>
+</li>
+<li>
+<p>Вечер в Музее «Принцип пинг-понга: как нейросеть стала соавтором художника» <a href="https://yandex.ru/museum/events#" class="bare">https://yandex.ru/museum/events#</a></p>
+</li>
+<li>
+<p>Партнерство YC с Navicon <a href="https://www.cnews.ru/news/line/2023-01-11_navicon_i_yandex_cloud_rasshirili_sotrudnichestvo" class="bare">https://www.cnews.ru/news/line/2023-01-11_navicon_i_yandex_cloud_rasshirili_sotrudnichestvo</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 258 — Classic - AI глядит в завтрашний день]]></title>
@@ -4154,7 +4200,7 @@
 </div>
 </div>
 <div class="sect2">
-<h3 id="СтруктураСсылки">Структура/Ссылки</h3>
+<h3 id="Структура-Ссылки">Структура/Ссылки</h3>
 <div class="ulist">
 <ul>
 <li>
@@ -4317,7 +4363,7 @@
 </div>
 </li>
 <li>
-<p>Блогпост <a href="https://jenkins.io/blog/2018/08/31/shifting-gears/#about-the-author">Kohsuke Kawaguchi</a> <a href="https://jenkins.io/blog/2018/08/31/shifting-gears/">&#8220;Jenkins: Shifting Gears&#8221;</a></p>
+<p>Блогпост <a href="https://jenkins.io/blog/2018/08/31/shifting-gears/#about-the-author">Kohsuke Kawaguchi</a> <a href="https://jenkins.io/blog/2018/08/31/shifting-gears/">Jenkins: Shifting Gears</a></p>
 </li>
 <li>
 <p><a href="https://github.com/jenkinsci/configuration-as-code-plugin">Configuration-as-Code плагин</a></p>
@@ -10689,7 +10735,7 @@ p.s. Если идете на JPoint 2018, то дослушайте до кон
 </div>
 </div>
 <div class="sect1">
-<h2 id="Резиденты-подкаста-devops-Дефлопе">Резиденты подкаста <a href="http://devopsdeflope.ru">DevOps Дефлопе</a>:</h2>
+<h2 id="Резиденты-подкаста-a-href-http-devopsdeflope-ru-devops-Дефлопе-a">Резиденты подкаста <a href="http://devopsdeflope.ru">DevOps Дефлопе</a>:</h2>
 <div class="sectionbody">
 <div class="ulist">
 <ul>
@@ -11066,7 +11112,7 @@ p.s. Если идете на JPoint 2018, то дослушайте до кон
 </div>
 </div>
 <div class="sect1">
-<h2 id="Мероприятия"><strong>Мероприятия</strong></h2>
+<h2 id="strong-Мероприятия-strong"><strong>Мероприятия</strong></h2>
 <div class="sectionbody">
 <div class="ulist">
 <ul>
@@ -11303,7 +11349,7 @@ p.s. Если идете на JPoint 2018, то дослушайте до кон
 </div>
 </div>
 <div class="sect1">
-<h2 id="Мероприятия"><strong>Мероприятия</strong></h2>
+<h2 id="strong-Мероприятия-strong"><strong>Мероприятия</strong></h2>
 <div class="sectionbody">
 <div class="ulist">
 <ul>
@@ -11520,7 +11566,7 @@ p.s. Если идете на JPoint 2018, то дослушайте до кон
 </div>
 </div>
 <div class="sect1">
-<h2 id="Мероприятия"><strong>Мероприятия</strong></h2>
+<h2 id="strong-Мероприятия-strong"><strong>Мероприятия</strong></h2>
 <div class="sectionbody">
 <div class="ulist">
 <ul>
@@ -11813,7 +11859,7 @@ p.s. Если идете на JPoint 2018, то дослушайте до кон
 </div>
 </div>
 <div class="sect1">
-<h2 id="Мероприятия"><strong>Мероприятия</strong></h2>
+<h2 id="strong-Мероприятия-strong"><strong>Мероприятия</strong></h2>
 <div class="sectionbody">
 <div class="ulist">
 <ul>
@@ -17351,7 +17397,7 @@ jug.msk.ru <a href="http://habrahabr.ru/post/272009/" class="bare">http://habrah
 </div>
 </div>
 <div class="sect1">
-<h2 id="А-давайте-поговорим-за-gradle">А давайте поговорим за Gradle <code>:)</code></h2>
+<h2 id="А-давайте-поговорим-за-gradle-code-code">А давайте поговорим за Gradle <code>:)</code></h2>
 <div class="sectionbody">
 <div class="olist arabic">
 <ol class="arabic">

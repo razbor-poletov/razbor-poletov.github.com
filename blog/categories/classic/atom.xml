@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: classic | Подкаст «Разбор Полетов»]]></title>
+  <title><![CDATA[Category: Classic | Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/blog/categories/classic/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2023-01-24T18:37:40+00:00</updated>
+  <updated>2023-02-07T19:28:04+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -14,10 +14,10 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Episode 255 — Classic - Эффективное общение]]></title>
-    <link href="http://razborpoletov.com/2022/11/episode-255.html"/>
-    <updated>2022-11-28T00:00:00+00:00</updated>
-    <id>http://razborpoletov.com/2022/11/episode-255</id>
+    <title type="html"><![CDATA[Episode 259 — Classic - В начале было Слово]]></title>
+    <link href="http://razborpoletov.com/2023/02/episode-259.html"/>
+    <updated>2023-02-07T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2023/02/episode-259</id>
     <content type="html"><![CDATA[<p>== Гости и участники</p>
 
 <ul>
@@ -29,108 +29,11 @@
 <p>== Темы</p>
 
 <ul>
-<li>https://habr.com/ru/article/695398/</li>
-<li>https://www.reddit.com/r/sysadmin/comments/x7lwjx/serverless_and_the_end_of_the_sysadmin_aka_old/</li>
-<li>https://www.karlsutt.com/articles/communicating-effectively-as-a-developer/</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 254 — Classic - Одноногий капитан Fleet]]></title>
-    <link href="http://razborpoletov.com/2022/11/episode-254.html"/>
-    <updated>2022-11-18T00:00:00+00:00</updated>
-    <id>http://razborpoletov.com/2022/11/episode-254</id>
-    <content type="html"><![CDATA[<p>== Гости и участники</p>
-
-<ul>
-<li>https://t.me/razborfeed[@abashev]</li>
-<li>https://twitter.com/golodnyj[Антон Черноусов]</li>
-</ul>
-
-
-<p>== Темы</p>
-
-<ul>
-<li>https://www.datadoghq.com/state-of-aws-security/</li>
-<li>https://blog.jetbrains.com/fleet/2022/10/introducing-the-fleet-public-preview</li>
-<li>https://scale.yandex.ru/program#speech-1237</li>
-<li>https://scale.yandex.ru/program#speech-1250</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 253 — Classic - Yandex Scale]]></title>
-    <link href="http://razborpoletov.com/2022/11/episode-253.html"/>
-    <updated>2022-11-13T00:00:00+00:00</updated>
-    <id>http://razborpoletov.com/2022/11/episode-253</id>
-    <content type="html"><![CDATA[<p>== Гости и участники</p>
-
-<ul>
-<li>https://t.me/razborfeed[Алексей Абашев]</li>
-<li>https://twitter.com/golodnyj[Антон Черноусов]</li>
-</ul>
-
-
-<p>== Темы</p>
-
-<ul>
-<li>https://cloud.yandex.ru/blog/posts/2022/09/security-main-announcements[Новые решения в области безопасности]</li>
-<li>https://cloud.yandex.ru/blog/posts/2022/09/infrastructure-and-managed-kubernetes[Анонсы инфраструктурных сервисов]</li>
-<li>https://cloud.yandex.ru/blog/posts/2022/09/data-platform-main-announcements[Анонсы и запуски Data Platform]</li>
-<li>https://cloud.yandex.ru/blog/posts/2022/09/serverless-main-announcements[Развитие экосистемы Serverless]</li>
-<li>https://cloud.yandex.ru/blog/posts/2022/09/cloud-logging-ga[Сервис Cloud Logging выходит в общий доступ]</li>
-<li>https://cloud.yandex.ru/blog/posts/2022/09/datasphere-new-features[Новый Yandex DataSphere — вышли за пределы JupyterLab®]</li>
-<li>https://cloud.yandex.ru/blog/posts/2022/09/cloud-apps-preview[Сервис готовых приложений Cloud Apps вышел в стадии Preview]</li>
-<li>https://cloud.yandex.ru/blog/posts/2022/09/cloud-backup-preview[Сервис для создания резервных копий Yandex Cloud Backup вышел в Preview]</li>
-<li>https://cloud.yandex.ru/blog/posts/2022/09/yandex-query-preview[Yandex Query: новый сервис для удобной работы с данными]</li>
-<li>https://cloud.yandex.ru/blog/posts/2022/09/yandex-tracker-new-ui[Yandex Tracker: обновлённый интерфейс и новые возможности]</li>
-<li>https://cloud.yandex.ru/blog/posts/2022/09/cloud-training-courses[Новые образовательные онлайн‑программы]</li>
-<li>https://cloud.yandex.ru/blog/posts/2022/09/cloud-data-center-kaluga[Крупнейший дата-центр России станет новой точкой доступности Yandex Cloud]</li>
-<li>https://cloud.yandex.ru/blog/posts/2022/09/yandex-cloud-and-yandex-360[Yandex Cloud и Яндекс 360 объединились в один облачный бизнес]</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 252 — Classic - Душный]]></title>
-    <link href="http://razborpoletov.com/2022/10/episode-252.html"/>
-    <updated>2022-10-15T00:00:00+00:00</updated>
-    <id>http://razborpoletov.com/2022/10/episode-252</id>
-    <content type="html"><![CDATA[<p>== Гости и участники</p>
-
-<ul>
-<li>https://t.me/razborfeed[@abashev]</li>
-<li>https://twitter.com/golodnyj[Антон Черноусов]</li>
-</ul>
-
-
-<p>== Темы</p>
-
-<ul>
-<li>https://habr.com/ru/post/686228/</li>
-<li>https://habr.com/ru/company/getmatch/blog/685588/</li>
-<li>https://alexn.org/blog/2022/09/07/akka-is-moving-away-from-open-source/</li>
-<li>https://micronaut-projects.github.io/micronaut-test-resources/snapshot/guide/#introduction</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 251 — Classic - Летний]]></title>
-    <link href="http://razborpoletov.com/2022/09/episode-251.html"/>
-    <updated>2022-09-26T00:00:00+00:00</updated>
-    <id>http://razborpoletov.com/2022/09/episode-251</id>
-    <content type="html"><![CDATA[<p>== Гости и участники</p>
-
-<ul>
-<li>https://t.me/razborfeed[@abashev]</li>
-<li>https://twitter.com/golodnyj[Антон Черноусов]</li>
+<li>https://circleci.com/blog/jan-4-2023-incident-report/</li>
+<li>https://habr.com/ru/company/dododev/blog/709598/</li>
+<li>https://blog.daveallie.com/ulid-primary-keys</li>
+<li>Вечер в Музее «Принцип пинг-понга: как нейросеть стала соавтором художника» https://yandex.ru/museum/events#</li>
+<li>Партнерство YC с Navicon https://www.cnews.ru/news/line/2023-01-11_navicon_i_yandex_cloud_rasshirili_sotrudnichestvo</li>
 </ul>
 
 ]]></content>
