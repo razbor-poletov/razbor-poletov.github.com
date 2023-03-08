@@ -6,8 +6,8 @@
     <atom:link href="http://razborpoletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2023-03-02T11:50:40+00:00</pubDate>
-    <lastBuildDate>2023-03-02T11:50:40+00:00</lastBuildDate>
+    <pubDate>2023-03-08T20:05:51+00:00</pubDate>
+    <lastBuildDate>2023-03-08T20:05:51+00:00</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razborpoletov.com/logoNew.jpg" />
     <itunes:author>Viktor Gamov, Alexey Abashev</itunes:author>
@@ -18,6 +18,89 @@
     </itunes:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:thumbnail url="http://razborpoletov.com/logoNew.jpg" />
+    
+    <item>
+      <title>Episode 260 — Classic - Classified</title>
+      <link>http://razborpoletov.com/2023/03/episode-260.html</link>
+      <pubDate>2023-03-09T00:00:00+00:00</pubDate>
+      <guid isPermalink="true">http://razborpoletov.com/2023/03/episode-260</guid>
+      <description><![CDATA[<div class="paragraph">
+  <p><a href="http://razborpoletov.com/2023/03/episode-260.html">Комментировать</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
+</div>
+<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://t.me/razborfeed">@abashev</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/golodnyj">Антон Черноусов</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://www.vedomosti.ru/business/news/2023/02/15/963064-viruchka-yandeksa-v-2022-godu" class="bare">https://www.vedomosti.ru/business/news/2023/02/15/963064-viruchka-yandeksa-v-2022-godu</a></p>
+</li>
+<li>
+<p><a href="https://habr.com/ru/company/yandex/blog/716524/" class="bare">https://habr.com/ru/company/yandex/blog/716524/</a></p>
+</li>
+<li>
+<p><a href="https://habr.com/ru/news/t/713774/" class="bare">https://habr.com/ru/news/t/713774/</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description>
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_260.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_260.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2023/03/episode-260.html
+Telegram канал - https://t.me/razborfeed
+
+Гости и участники
+
+
+
+
+@abashev
+
+
+Антон Черноусов
+
+
+
+
+
+
+Темы
+
+
+
+
+https://www.vedomosti.ru/business/news/2023/02/15/963064-viruchka-yandeksa-v-2022-godu
+
+
+https://habr.com/ru/company/yandex/blog/716524/
+
+
+https://habr.com/ru/news/t/713774/
+
+
+
+
+]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_260_text.jpg" />
+    </item>
     
     <item>
       <title>Episode 259 — Classic - В начале было Слово</title>
@@ -4710,101 +4793,6 @@ https://www.youtube.com/watch?v=Xx_jDGAJHwo
 
 ]]></itunes:summary>
       <itunes:image href="http://razborpoletov.com/images/razbor_211_text.jpg" />
-    </item>
-    
-    <item>
-      <title>Episode 210 — Classic - Снова вместе, снова рядом</title>
-      <link>http://razborpoletov.com/2020/05/episode-210.html</link>
-      <pubDate>2020-05-19T00:00:00+00:00</pubDate>
-      <guid isPermalink="true">http://razborpoletov.com/2020/05/episode-210</guid>
-      <description><![CDATA[<div class="paragraph">
-  <p><a href="http://razborpoletov.com/2020/05/episode-210.html">Комментировать</a>
-    | <a href="https://t.me/razborfeed">Telegram канал</a>
-  </p>
-</div>
-<div class="sect1">
-<h2 id="Гости-и-участники">Гости и участники</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://twitter.com/a_abashev">@a_abashev</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/antonarhipov">@antonarhipov</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/ligolnik">@ligolnik</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/jbaruch">@jbaruch</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/tolkv">@tolkv</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Темы">Темы</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p>Насколько очистилась природа</p>
-</li>
-</ul>
-</div>
-</div>
-</div>]]></description>
-      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_210.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_210.mp3" fileSize="" type="audio/mpeg" />
-      <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2020/05/episode-210.html
-Telegram канал - https://t.me/razborfeed
-
-Гости и участники
-
-
-
-
-@a_abashev
-
-
-@antonarhipov
-
-
-@gamussa
-
-
-@ligolnik
-
-
-@jbaruch
-
-
-@tolkv
-
-
-
-
-
-
-Темы
-
-
-
-
-Насколько очистилась природа
-
-
-
-
-]]></itunes:summary>
-      <itunes:image href="http://razborpoletov.com/images/razbor_210_text.jpg" />
     </item>
     
   </channel>

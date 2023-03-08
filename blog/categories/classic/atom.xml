@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Classic | Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/blog/categories/classic/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2023-03-02T11:50:40+00:00</updated>
+  <updated>2023-03-08T20:05:51+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,30 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 260 — Classic - Classified]]></title>
+    <link href="http://razborpoletov.com/2023/03/episode-260.html"/>
+    <updated>2023-03-09T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2023/03/episode-260</id>
+    <content type="html"><![CDATA[<p>== Гости и участники</p>
+
+<ul>
+<li>https://t.me/razborfeed[@abashev]</li>
+<li>https://twitter.com/golodnyj[Антон Черноусов]</li>
+</ul>
+
+
+<p>== Темы</p>
+
+<ul>
+<li>https://www.vedomosti.ru/business/news/2023/02/15/963064-viruchka-yandeksa-v-2022-godu</li>
+<li>https://habr.com/ru/company/yandex/blog/716524/</li>
+<li>https://habr.com/ru/news/t/713774/</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 259 — Classic - В начале было Слово]]></title>
