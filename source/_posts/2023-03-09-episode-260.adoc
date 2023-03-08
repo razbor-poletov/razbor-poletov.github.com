@@ -1,0 +1,18 @@
+---
+layout: episode
+episode: 260
+title: "Episode 260 — Classic - Classified"
+category: Classic
+guests: abashev, golodnyj
+---
+
+== Гости и участники
+
+* https://t.me/razborfeed[@abashev]
+* https://twitter.com/golodnyj[Антон Черноусов]
+
+== Темы
+
+* https://www.vedomosti.ru/business/news/2023/02/15/963064-viruchka-yandeksa-v-2022-godu
+* https://habr.com/ru/company/yandex/blog/716524/
+* https://habr.com/ru/news/t/713774/
