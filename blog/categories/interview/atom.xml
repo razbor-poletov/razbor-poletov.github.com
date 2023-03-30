@@ -4,7 +4,7 @@
   <title><![CDATA[Category: interview | Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/blog/categories/interview/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2023-03-18T08:52:54+00:00</updated>
+  <updated>2023-03-30T20:35:08+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 261 — Interview - Про Швецию и не только]]></title>
+    <link href="http://razborpoletov.com/2023/03/episode-261.html"/>
+    <updated>2023-03-31T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2023/03/episode-261</id>
+    <content type="html"><![CDATA[<p>== Гости и участники</p>
+
+<ul>
+<li>https://t.me/razborfeed[@abashev]</li>
+<li>https://medium.com/@saabeilin[Сергей Бейлин]</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 257 — Interview - Кто волосатый и везде пролезет?]]></title>
@@ -119,37 +134,6 @@ https://clck.ru/asjKY[Забронировать билет|Смотреть п�
 <li>https://t.me/razborfeed[@abashev]</li>
 <li>https://twitter.com/golodnyj[Антон Черноусов]</li>
 <li>https://twitter.com/andrei_kogun[Андрей Когунь]</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 246 — Interview - Распределённые БД]]></title>
-    <link href="http://razborpoletov.com/2022/02/episode-246.html"/>
-    <updated>2022-02-24T00:00:00+00:00</updated>
-    <id>http://razborpoletov.com/2022/02/episode-246</id>
-    <content type="html"><![CDATA[<p>13 и 14 мая 2022 года в Москве состоится крупнейшая в Европе IT-конференция HighLoad++ Foundation</p>
-
-<p>🔥В программе — более 130 докладов, каждый из которых решает конкретную задачу. Но конференция — это не только доклады.</p>
-
-<p>На HighLoad++ Foundation вы легко сможете пообщаться с ТОПами IT-индустрии и найти ответы на свои вопросы. А хотите получить персональную консультацию от разработчиков технологий, на которых построен ваш проект? Приходите! Что ещё? Узнаете, как устроены Яндекс, VK, Avito, Mail.ru, Tinkoff и другие крупные проекты.</p>
-
-<p>😎Влиться в профессиональное комьюнити, завязать полезные знакомства, обновить свою базу знаний и найти решение для сложных задач — всё это на одной площадке.</p>
-
-<p>Приходите на HighLoad++ Foundation! 13 и 14 мая, Москва.</p>
-
-<p>Скидка 10% по промокоду FOUNDATION</p>
-
-<p>https://clck.ru/asjU7[Забронировать билет|Смотреть программу 👇]</p>
-
-<p>== Гости и участники</p>
-
-<ul>
-<li>https://twitter.com/devozerov[Владимир Озеров]</li>
-<li>https://www.querifylabs.com/[Алексей Гончарюк]</li>
-<li>https://t.me/razborfeed[@abashev]</li>
-<li>https://twitter.com/golodnyj[Антон Черноусов]</li>
 </ul>
 
 ]]></content>

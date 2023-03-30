@@ -6,8 +6,8 @@
     <atom:link href="http://razborpoletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2023-03-18T08:52:54+00:00</pubDate>
-    <lastBuildDate>2023-03-18T08:52:54+00:00</lastBuildDate>
+    <pubDate>2023-03-30T20:35:08+00:00</pubDate>
+    <lastBuildDate>2023-03-30T20:35:08+00:00</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razborpoletov.com/logoNew.jpg" />
     <itunes:author>Viktor Gamov, Alexey Abashev</itunes:author>
@@ -18,6 +18,53 @@
     </itunes:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:thumbnail url="http://razborpoletov.com/logoNew.jpg" />
+    
+    <item>
+      <title>Episode 261 — Interview - Про Швецию и не только</title>
+      <link>http://razborpoletov.com/2023/03/episode-261.html</link>
+      <pubDate>2023-03-31T00:00:00+00:00</pubDate>
+      <guid isPermalink="true">http://razborpoletov.com/2023/03/episode-261</guid>
+      <description><![CDATA[<div class="paragraph">
+  <p><a href="http://razborpoletov.com/2023/03/episode-261.html">Комментировать</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
+</div>
+<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://t.me/razborfeed">@abashev</a></p>
+</li>
+<li>
+<p><a href="https://medium.com/@saabeilin">Сергей Бейлин</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description>
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_261.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_261.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2023/03/episode-261.html
+Telegram канал - https://t.me/razborfeed
+
+Гости и участники
+
+
+
+
+@abashev
+
+
+Сергей Бейлин
+
+
+
+
+]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_261_text.jpg" />
+    </item>
     
     <item>
       <title>Episode 260 — Classic - Classified</title>
@@ -4662,137 +4709,6 @@ PVS-Studio идёт в облака – запуск анализа на Travis 
 
 ]]></itunes:summary>
       <itunes:image href="http://razborpoletov.com/images/razbor_212_text.jpg" />
-    </item>
-    
-    <item>
-      <title>Episode 211 — Interview - Израиль, Android и стартапы</title>
-      <link>http://razborpoletov.com/2020/06/episode-211.html</link>
-      <pubDate>2020-06-06T00:00:00+00:00</pubDate>
-      <guid isPermalink="true">http://razborpoletov.com/2020/06/episode-211</guid>
-      <description><![CDATA[<div class="paragraph">
-  <p><a href="http://razborpoletov.com/2020/06/episode-211.html">Комментировать</a>
-    | <a href="https://t.me/razborfeed">Telegram канал</a>
-  </p>
-</div>
-<div class="sect1">
-<h2 id="Гости-и-участники">Гости и участники</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://twitter.com/parahall">Йонатан Левин</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/it_improve">Андрей Дмитриев</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/brekelov">Всеволод Брекелов</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/a_abashev">Алексей Абашев</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/olegchir">Олег Чирухин</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Темы">Темы</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p>Израиль, Android и стартапы</p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Полезняшки">Полезняшки</h2>
-<div class="sectionbody">
-<div class="olist arabic">
-<ol class="arabic">
-<li>
-<p><a href="https://github.com/Android-Academy-SPB" class="bare">https://github.com/Android-Academy-SPB</a></p>
-</li>
-<li>
-<p><a href="http://itnan.ru/post.php?c=1&amp;p=420573" class="bare">http://itnan.ru/post.php?c=1&amp;p=420573</a></p>
-</li>
-<li>
-<p><a href="https://zen.yandex.ru/media/devby/chemu-uchat-opytnyh-razrabotchikov-v-besplatnoi-android-academy-otzyvy&#8212;&#8203;video-5c6bbbaefec61f00b2b84976" class="bare">https://zen.yandex.ru/media/devby/chemu-uchat-opytnyh-razrabotchikov-v-besplatnoi-android-academy-otzyvy&#8212;&#8203;video-5c6bbbaefec61f00b2b84976</a></p>
-</li>
-<li>
-<p><a href="https://www.youtube.com/watch?v=Xx_jDGAJHwo" class="bare">https://www.youtube.com/watch?v=Xx_jDGAJHwo</a></p>
-</li>
-</ol>
-</div>
-</div>
-</div>]]></description>
-      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_211.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_211.mp3" fileSize="" type="audio/mpeg" />
-      <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2020/06/episode-211.html
-Telegram канал - https://t.me/razborfeed
-
-Гости и участники
-
-
-
-
-Йонатан Левин
-
-
-Андрей Дмитриев
-
-
-Всеволод Брекелов
-
-
-Алексей Абашев
-
-
-Олег Чирухин
-
-
-
-
-
-
-Темы
-
-
-
-
-Израиль, Android и стартапы
-
-
-
-
-
-
-Полезняшки
-
-
-
-
-https://github.com/Android-Academy-SPB
-
-
-http://itnan.ru/post.php?c=1&amp;p=420573
-
-
-https://zen.yandex.ru/media/devby/chemu-uchat-opytnyh-razrabotchikov-v-besplatnoi-android-academy-otzyvy&#8212;&#8203;video-5c6bbbaefec61f00b2b84976
-
-
-https://www.youtube.com/watch?v=Xx_jDGAJHwo
-
-
-
-
-]]></itunes:summary>
-      <itunes:image href="http://razborpoletov.com/images/razbor_211_text.jpg" />
     </item>
     
   </channel>

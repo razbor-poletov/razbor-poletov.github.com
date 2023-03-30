@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2023-03-18T08:52:54+00:00</updated>
+  <updated>2023-03-30T20:35:08+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,28 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 261 — Interview - Про Швецию и не только]]></title>
+    <link href="http://razborpoletov.com/2023/03/episode-261.html"/>
+    <updated>2023-03-31T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2023/03/episode-261</id>
+    <content type="html"><![CDATA[<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://t.me/razborfeed">@abashev</a></p>
+</li>
+<li>
+<p><a href="https://medium.com/@saabeilin">Сергей Бейлин</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 260 — Classic - Classified]]></title>
@@ -2257,70 +2279,6 @@
 <div class="sectionbody">
 <div class="paragraph">
 <p>Как в GitLab работается JS разработчику</p>
-</div>
-</div>
-</div>]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 211 — Interview - Израиль, Android и стартапы]]></title>
-    <link href="http://razborpoletov.com/2020/06/episode-211.html"/>
-    <updated>2020-06-06T00:00:00+00:00</updated>
-    <id>http://razborpoletov.com/2020/06/episode-211</id>
-    <content type="html"><![CDATA[<div class="sect1">
-<h2 id="Гости-и-участники">Гости и участники</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://twitter.com/parahall">Йонатан Левин</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/it_improve">Андрей Дмитриев</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/brekelov">Всеволод Брекелов</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/a_abashev">Алексей Абашев</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/olegchir">Олег Чирухин</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Темы">Темы</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p>Израиль, Android и стартапы</p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Полезняшки">Полезняшки</h2>
-<div class="sectionbody">
-<div class="olist arabic">
-<ol class="arabic">
-<li>
-<p><a href="https://github.com/Android-Academy-SPB" class="bare">https://github.com/Android-Academy-SPB</a></p>
-</li>
-<li>
-<p><a href="http://itnan.ru/post.php?c=1&amp;p=420573" class="bare">http://itnan.ru/post.php?c=1&amp;p=420573</a></p>
-</li>
-<li>
-<p><a href="https://zen.yandex.ru/media/devby/chemu-uchat-opytnyh-razrabotchikov-v-besplatnoi-android-academy-otzyvy&#8212;&#8203;video-5c6bbbaefec61f00b2b84976" class="bare">https://zen.yandex.ru/media/devby/chemu-uchat-opytnyh-razrabotchikov-v-besplatnoi-android-academy-otzyvy&#8212;&#8203;video-5c6bbbaefec61f00b2b84976</a></p>
-</li>
-<li>
-<p><a href="https://www.youtube.com/watch?v=Xx_jDGAJHwo" class="bare">https://www.youtube.com/watch?v=Xx_jDGAJHwo</a></p>
-</li>
-</ol>
 </div>
 </div>
 </div>]]></content>
