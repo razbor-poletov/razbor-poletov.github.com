@@ -1,0 +1,12 @@
+---
+layout: episode
+episode: 261
+title: "Episode 261 — Interview - Про Швецию и не только"
+category: interview
+guests: abashev, beilin
+---
+
+== Гости и участники
+
+* https://t.me/razborfeed[@abashev]
+* https://medium.com/@saabeilin[Сергей Бейлин]
