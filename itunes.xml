@@ -6,8 +6,8 @@
     <atom:link href="http://razborpoletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2023-04-16T19:27:01+00:00</pubDate>
-    <lastBuildDate>2023-04-16T19:27:01+00:00</lastBuildDate>
+    <pubDate>2023-04-22T18:25:00+00:00</pubDate>
+    <lastBuildDate>2023-04-22T18:25:00+00:00</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razborpoletov.com/logoNew.jpg" />
     <itunes:author>Viktor Gamov, Alexey Abashev</itunes:author>
@@ -18,6 +18,89 @@
     </itunes:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:thumbnail url="http://razborpoletov.com/logoNew.jpg" />
+    
+    <item>
+      <title>Episode 262 — Classic - +1 слушатель</title>
+      <link>http://razborpoletov.com/2023/04/episode-262.html</link>
+      <pubDate>2023-04-23T00:00:00+00:00</pubDate>
+      <guid isPermalink="true">http://razborpoletov.com/2023/04/episode-262</guid>
+      <description><![CDATA[<div class="paragraph">
+  <p><a href="http://razborpoletov.com/2023/04/episode-262.html">Комментировать</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
+</div>
+<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://t.me/razborfeed">@abashev</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/golodnyj">Антон Черноусов</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://www.vedomosti.ru/business/news/2023/02/15/963064-viruchka-yandeksa-v-2022-godu" class="bare">https://www.vedomosti.ru/business/news/2023/02/15/963064-viruchka-yandeksa-v-2022-godu</a></p>
+</li>
+<li>
+<p><a href="https://habr.com/ru/company/yandex/blog/716524/" class="bare">https://habr.com/ru/company/yandex/blog/716524/</a></p>
+</li>
+<li>
+<p><a href="https://habr.com/ru/news/t/713774/" class="bare">https://habr.com/ru/news/t/713774/</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description>
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_262.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_262.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2023/04/episode-262.html
+Telegram канал - https://t.me/razborfeed
+
+Гости и участники
+
+
+
+
+@abashev
+
+
+Антон Черноусов
+
+
+
+
+
+
+Темы
+
+
+
+
+https://www.vedomosti.ru/business/news/2023/02/15/963064-viruchka-yandeksa-v-2022-godu
+
+
+https://habr.com/ru/company/yandex/blog/716524/
+
+
+https://habr.com/ru/news/t/713774/
+
+
+
+
+]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_262_text.jpg" />
+    </item>
     
     <item>
       <title>Episode 261 — Interview - Про Швецию и не только</title>
@@ -4594,121 +4677,6 @@ PVS-Studio идёт в облака – запуск анализа на Travis 
 
 ]]></itunes:summary>
       <itunes:image href="http://razborpoletov.com/images/razbor_213_text.jpg" />
-    </item>
-    
-    <item>
-      <title>Episode 212 — Interview - Сказка о том, как JUG.RU воротило нос от удаленной работы, после общения с GitLab</title>
-      <link>http://razborpoletov.com/2020/07/episode-212.html</link>
-      <pubDate>2020-07-05T00:00:00+00:00</pubDate>
-      <guid isPermalink="true">http://razborpoletov.com/2020/07/episode-212</guid>
-      <description><![CDATA[<div class="paragraph">
-  <p><a href="http://razborpoletov.com/2020/07/episode-212.html">Комментировать</a>
-    | <a href="https://t.me/razborfeed">Telegram канал</a>
-  </p>
-</div>
-<div class="paragraph">
-<p>Подкаст был записан в августе 2019 года. До COVID-19 оставалось еще полгода&#8230;&#8203;..</p>
-</div>
-<div class="sect1">
-<h2 id="Реклама">Реклама</h2>
-<div class="sectionbody">
-<div class="paragraph">
-<p><a href="https://sweb.ru/">SpaceWeb</a></p>
-</div>
-<div class="paragraph">
-<p><a href="http://bit.ly/2K4m5dZ">Ошибки, которые не находит статический анализ кода, потому что он не используется</a></p>
-</div>
-<div class="paragraph">
-<p><a href="http://bit.ly/2OiFsoV">PVS-Studio идёт в облака – запуск анализа на Travis CI</a></p>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Гости-и-участники">Гости и участники</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://t.me/xanf_ua">Илья Климов</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/it_improve">Андрей Дмитриев</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/brekelov">Всеволод Брекелов</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/a_abashev">Алексей Абашев</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/olegchir">Олег Чирухин</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Темы">Темы</h2>
-<div class="sectionbody">
-<div class="paragraph">
-<p>Как в GitLab работается JS разработчику</p>
-</div>
-</div>
-</div>]]></description>
-      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_212.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_212.mp3" fileSize="" type="audio/mpeg" />
-      <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2020/07/episode-212.html
-Telegram канал - https://t.me/razborfeed
-
-Подкаст был записан в августе 2019 года. До COVID-19 оставалось еще полгода&#8230;&#8203;..
-
-
-Реклама
-
-
-SpaceWeb
-
-
-Ошибки, которые не находит статический анализ кода, потому что он не используется
-
-
-PVS-Studio идёт в облака – запуск анализа на Travis CI
-
-
-
-
-Гости и участники
-
-
-
-
-Илья Климов
-
-
-Андрей Дмитриев
-
-
-Всеволод Брекелов
-
-
-Алексей Абашев
-
-
-Олег Чирухин
-
-
-
-
-
-
-Темы
-
-
-Как в GitLab работается JS разработчику
-
-
-]]></itunes:summary>
-      <itunes:image href="http://razborpoletov.com/images/razbor_212_text.jpg" />
     </item>
     
   </channel>
