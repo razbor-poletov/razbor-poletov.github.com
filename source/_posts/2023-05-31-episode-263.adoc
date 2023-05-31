@@ -1,0 +1,18 @@
+---
+layout: episode
+episode: 263
+title: "Episode 263 — Classic - Токсичное окружение"
+category: Classic
+guests: abashev, golodnyj
+---
+
+== Гости и участники
+
+* https://t.me/razborfeed[@abashev]
+* https://twitter.com/golodnyj[Антон Черноусов]
+
+== Темы
+
+* https://www.axios.com/2023/04/21/humane-ai-powered-wearable
+* https://cloud.yandex.ru/blog/posts/2023/04/lockbox-ga
+* https://cloud.yandex.ru/blog/posts/2023/04/el-nino
