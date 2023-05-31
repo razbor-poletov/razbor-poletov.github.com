@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2023-05-29T16:46:20+00:00</updated>
+  <updated>2023-05-31T08:08:50+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,46 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 263 — Classic - Токсичное окружение]]></title>
+    <link href="http://razborpoletov.com/2023/05/episode-263.html"/>
+    <updated>2023-05-31T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2023/05/episode-263</id>
+    <content type="html"><![CDATA[<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://t.me/razborfeed">@abashev</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/golodnyj">Антон Черноусов</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://www.axios.com/2023/04/21/humane-ai-powered-wearable" class="bare">https://www.axios.com/2023/04/21/humane-ai-powered-wearable</a></p>
+</li>
+<li>
+<p><a href="https://cloud.yandex.ru/blog/posts/2023/04/lockbox-ga" class="bare">https://cloud.yandex.ru/blog/posts/2023/04/lockbox-ga</a></p>
+</li>
+<li>
+<p><a href="https://cloud.yandex.ru/blog/posts/2023/04/el-nino" class="bare">https://cloud.yandex.ru/blog/posts/2023/04/el-nino</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 262 — Classic - +1 слушатель]]></title>

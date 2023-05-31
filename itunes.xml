@@ -6,8 +6,8 @@
     <atom:link href="http://razborpoletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2023-05-29T16:46:20+00:00</pubDate>
-    <lastBuildDate>2023-05-29T16:46:20+00:00</lastBuildDate>
+    <pubDate>2023-05-31T08:08:50+00:00</pubDate>
+    <lastBuildDate>2023-05-31T08:08:50+00:00</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razborpoletov.com/logoNew.jpg" />
     <itunes:author>Viktor Gamov, Alexey Abashev</itunes:author>
@@ -18,6 +18,89 @@
     </itunes:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:thumbnail url="http://razborpoletov.com/logoNew.jpg" />
+    
+    <item>
+      <title>Episode 263 — Classic - Токсичное окружение</title>
+      <link>http://razborpoletov.com/2023/05/episode-263.html</link>
+      <pubDate>2023-05-31T00:00:00+00:00</pubDate>
+      <guid isPermalink="true">http://razborpoletov.com/2023/05/episode-263</guid>
+      <description><![CDATA[<div class="paragraph">
+  <p><a href="http://razborpoletov.com/2023/05/episode-263.html">Комментировать</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
+</div>
+<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://t.me/razborfeed">@abashev</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/golodnyj">Антон Черноусов</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://www.axios.com/2023/04/21/humane-ai-powered-wearable" class="bare">https://www.axios.com/2023/04/21/humane-ai-powered-wearable</a></p>
+</li>
+<li>
+<p><a href="https://cloud.yandex.ru/blog/posts/2023/04/lockbox-ga" class="bare">https://cloud.yandex.ru/blog/posts/2023/04/lockbox-ga</a></p>
+</li>
+<li>
+<p><a href="https://cloud.yandex.ru/blog/posts/2023/04/el-nino" class="bare">https://cloud.yandex.ru/blog/posts/2023/04/el-nino</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description>
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_263.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_263.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2023/05/episode-263.html
+Telegram канал - https://t.me/razborfeed
+
+Гости и участники
+
+
+
+
+@abashev
+
+
+Антон Черноусов
+
+
+
+
+
+
+Темы
+
+
+
+
+https://www.axios.com/2023/04/21/humane-ai-powered-wearable
+
+
+https://cloud.yandex.ru/blog/posts/2023/04/lockbox-ga
+
+
+https://cloud.yandex.ru/blog/posts/2023/04/el-nino
+
+
+
+
+]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_263_text.jpg" />
+    </item>
     
     <item>
       <title>Episode 262 — Classic - +1 слушатель</title>
@@ -4574,109 +4657,6 @@ PVS-Studio идёт в облака – запуск анализа на Travis 
 
 ]]></itunes:summary>
       <itunes:image href="http://razborpoletov.com/images/razbor_214_text.jpg" />
-    </item>
-    
-    <item>
-      <title>Episode 213 — Interview - Разносторонняя личность</title>
-      <link>http://razborpoletov.com/2020/08/episode-213.html</link>
-      <pubDate>2020-08-05T00:00:00+00:00</pubDate>
-      <guid isPermalink="true">http://razborpoletov.com/2020/08/episode-213</guid>
-      <description><![CDATA[<div class="paragraph">
-  <p><a href="http://razborpoletov.com/2020/08/episode-213.html">Комментировать</a>
-    | <a href="https://t.me/razborfeed">Telegram канал</a>
-  </p>
-</div>
-<div class="sect1">
-<h2 id="Реклама">Реклама</h2>
-<div class="sectionbody">
-<div class="paragraph">
-<p><a href="https://sweb.ru/">SpaceWeb</a></p>
-</div>
-<div class="paragraph">
-<p><a href="http://bit.ly/2K4m5dZ">Ошибки, которые не находит статический анализ кода, потому что он не используется</a></p>
-</div>
-<div class="paragraph">
-<p><a href="http://bit.ly/2OiFsoV">PVS-Studio идёт в облака – запуск анализа на Travis CI</a></p>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Гости-и-участники">Гости и участники</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://twitter.com/alexserbul">Александр Сербул</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/brekelov">Всеволод Брекелов</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/a_abashev">Алексей Абашев</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/olegchir">Олег Чирухин</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Темы">Темы</h2>
-<div class="sectionbody">
-<div class="paragraph">
-<p>Разносторонняя личность</p>
-</div>
-</div>
-</div>]]></description>
-      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_213.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_213.mp3" fileSize="" type="audio/mpeg" />
-      <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2020/08/episode-213.html
-Telegram канал - https://t.me/razborfeed
-
-Реклама
-
-
-SpaceWeb
-
-
-Ошибки, которые не находит статический анализ кода, потому что он не используется
-
-
-PVS-Studio идёт в облака – запуск анализа на Travis CI
-
-
-
-
-Гости и участники
-
-
-
-
-Александр Сербул
-
-
-Всеволод Брекелов
-
-
-Алексей Абашев
-
-
-Олег Чирухин
-
-
-
-
-
-
-Темы
-
-
-Разносторонняя личность
-
-
-]]></itunes:summary>
-      <itunes:image href="http://razborpoletov.com/images/razbor_213_text.jpg" />
     </item>
     
   </channel>
