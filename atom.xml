@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2023-07-06T21:52:07+00:00</updated>
+  <updated>2023-07-09T10:41:59+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,53 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 264 — Classic - Ломай меня полностью]]></title>
+    <link href="http://razborpoletov.com/2023/07/episode-264.html"/>
+    <updated>2023-07-09T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2023/07/episode-264</id>
+    <content type="html"><![CDATA[<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://t.me/razborfeed">@abashev</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/golodnyj">Антон Черноусов</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://www.opennet.ru/opennews/art.shtml?num=59188" class="bare">https://www.opennet.ru/opennews/art.shtml?num=59188</a></p>
+</li>
+<li>
+<p><a href="https://e-kaspersky.livejournal.com/987692.html" class="bare">https://e-kaspersky.livejournal.com/987692.html</a></p>
+</li>
+<li>
+<p><a href="https://levelup.gitconnected.com/from-java-and-microservices-to-dgraph-a-big-bang-migration-journey-of-a-14m-users-app-38b2b2eeb42c" class="bare">https://levelup.gitconnected.com/from-java-and-microservices-to-dgraph-a-big-bang-migration-journey-of-a-14m-users-app-38b2b2eeb42c</a></p>
+</li>
+<li>
+<p><a href="https://www.reddit.com/r/java/comments/13rv1t2/why_exactly_does_brian_goetz_not_recommend_the/" class="bare">https://www.reddit.com/r/java/comments/13rv1t2/why_exactly_does_brian_goetz_not_recommend_the/</a></p>
+</li>
+<li>
+<p><a href="https://cloud.yandex.ru/training/training-pro#security" class="bare">https://cloud.yandex.ru/training/training-pro#security</a>
+*https://www.litres.ru/book/uilyam-makreyven/zapravlyay-krovat-10-prostyh-pravil-kotorye-mogut-izmenit-27097126/chitat-onlayn/</p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 263 — Classic - Токсичное окружение]]></title>
@@ -2203,56 +2250,6 @@
 <p><a href="https://youtu.be/saofz95CO9g">Kafka, кофе и качалка в подкасте на троих 231 The Art Of Programming</a></p>
 </li>
 </ul>
-</div>
-</div>
-</div>]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 214 — Interview - Скрытый архитектор]]></title>
-    <link href="http://razborpoletov.com/2020/09/episode-214.html"/>
-    <updated>2020-09-06T00:00:00+00:00</updated>
-    <id>http://razborpoletov.com/2020/09/episode-214</id>
-    <content type="html"><![CDATA[<div class="sect1">
-<h2 id="Реклама">Реклама</h2>
-<div class="sectionbody">
-<div class="paragraph">
-<p><a href="https://sweb.ru/">SpaceWeb</a></p>
-</div>
-<div class="paragraph">
-<p><a href="http://bit.ly/2K4m5dZ">Ошибки, которые не находит статический анализ кода, потому что он не используется</a></p>
-</div>
-<div class="paragraph">
-<p><a href="http://bit.ly/2OiFsoV">PVS-Studio идёт в облака – запуск анализа на Travis CI</a></p>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Гости-и-участники">Гости и участники</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://vk.com/vmikhaylov">Вячеслав Михайлов</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/brekelov">Всеволод Брекелов</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/a_abashev">Алексей Абашев</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/olegchir">Олег Чирухин</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Темы">Темы</h2>
-<div class="sectionbody">
-<div class="paragraph">
-<p>Скрытый архитектор</p>
 </div>
 </div>
 </div>]]></content>

@@ -6,8 +6,8 @@
     <atom:link href="http://razborpoletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2023-07-06T21:52:07+00:00</pubDate>
-    <lastBuildDate>2023-07-06T21:52:07+00:00</lastBuildDate>
+    <pubDate>2023-07-09T10:41:59+00:00</pubDate>
+    <lastBuildDate>2023-07-09T10:41:59+00:00</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razborpoletov.com/logoNew.jpg" />
     <itunes:author>Viktor Gamov, Alexey Abashev</itunes:author>
@@ -18,6 +18,103 @@
     </itunes:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:thumbnail url="http://razborpoletov.com/logoNew.jpg" />
+    
+    <item>
+      <title>Episode 264 — Classic - Ломай меня полностью</title>
+      <link>http://razborpoletov.com/2023/07/episode-264.html</link>
+      <pubDate>2023-07-09T00:00:00+00:00</pubDate>
+      <guid isPermalink="true">http://razborpoletov.com/2023/07/episode-264</guid>
+      <description><![CDATA[<div class="paragraph">
+  <p><a href="http://razborpoletov.com/2023/07/episode-264.html">Комментировать</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
+</div>
+<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://t.me/razborfeed">@abashev</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/golodnyj">Антон Черноусов</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://www.opennet.ru/opennews/art.shtml?num=59188" class="bare">https://www.opennet.ru/opennews/art.shtml?num=59188</a></p>
+</li>
+<li>
+<p><a href="https://e-kaspersky.livejournal.com/987692.html" class="bare">https://e-kaspersky.livejournal.com/987692.html</a></p>
+</li>
+<li>
+<p><a href="https://levelup.gitconnected.com/from-java-and-microservices-to-dgraph-a-big-bang-migration-journey-of-a-14m-users-app-38b2b2eeb42c" class="bare">https://levelup.gitconnected.com/from-java-and-microservices-to-dgraph-a-big-bang-migration-journey-of-a-14m-users-app-38b2b2eeb42c</a></p>
+</li>
+<li>
+<p><a href="https://www.reddit.com/r/java/comments/13rv1t2/why_exactly_does_brian_goetz_not_recommend_the/" class="bare">https://www.reddit.com/r/java/comments/13rv1t2/why_exactly_does_brian_goetz_not_recommend_the/</a></p>
+</li>
+<li>
+<p><a href="https://cloud.yandex.ru/training/training-pro#security" class="bare">https://cloud.yandex.ru/training/training-pro#security</a>
+*https://www.litres.ru/book/uilyam-makreyven/zapravlyay-krovat-10-prostyh-pravil-kotorye-mogut-izmenit-27097126/chitat-onlayn/</p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description>
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_264.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_264.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2023/07/episode-264.html
+Telegram канал - https://t.me/razborfeed
+
+Гости и участники
+
+
+
+
+@abashev
+
+
+Антон Черноусов
+
+
+
+
+
+
+Темы
+
+
+
+
+https://www.opennet.ru/opennews/art.shtml?num=59188
+
+
+https://e-kaspersky.livejournal.com/987692.html
+
+
+https://levelup.gitconnected.com/from-java-and-microservices-to-dgraph-a-big-bang-migration-journey-of-a-14m-users-app-38b2b2eeb42c
+
+
+https://www.reddit.com/r/java/comments/13rv1t2/why_exactly_does_brian_goetz_not_recommend_the/
+
+
+https://cloud.yandex.ru/training/training-pro#security
+*https://www.litres.ru/book/uilyam-makreyven/zapravlyay-krovat-10-prostyh-pravil-kotorye-mogut-izmenit-27097126/chitat-onlayn/
+
+
+
+
+]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_264_text.jpg" />
+    </item>
     
     <item>
       <title>Episode 263 — Classic - Токсичное окружение</title>
@@ -4554,109 +4651,6 @@ Kafka, кофе и качалка в подкасте на троих 231 The Ar
 
 ]]></itunes:summary>
       <itunes:image href="http://razborpoletov.com/images/razbor_215_text.jpg" />
-    </item>
-    
-    <item>
-      <title>Episode 214 — Interview - Скрытый архитектор</title>
-      <link>http://razborpoletov.com/2020/09/episode-214.html</link>
-      <pubDate>2020-09-06T00:00:00+00:00</pubDate>
-      <guid isPermalink="true">http://razborpoletov.com/2020/09/episode-214</guid>
-      <description><![CDATA[<div class="paragraph">
-  <p><a href="http://razborpoletov.com/2020/09/episode-214.html">Комментировать</a>
-    | <a href="https://t.me/razborfeed">Telegram канал</a>
-  </p>
-</div>
-<div class="sect1">
-<h2 id="Реклама">Реклама</h2>
-<div class="sectionbody">
-<div class="paragraph">
-<p><a href="https://sweb.ru/">SpaceWeb</a></p>
-</div>
-<div class="paragraph">
-<p><a href="http://bit.ly/2K4m5dZ">Ошибки, которые не находит статический анализ кода, потому что он не используется</a></p>
-</div>
-<div class="paragraph">
-<p><a href="http://bit.ly/2OiFsoV">PVS-Studio идёт в облака – запуск анализа на Travis CI</a></p>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Гости-и-участники">Гости и участники</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://vk.com/vmikhaylov">Вячеслав Михайлов</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/brekelov">Всеволод Брекелов</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/a_abashev">Алексей Абашев</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/olegchir">Олег Чирухин</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Темы">Темы</h2>
-<div class="sectionbody">
-<div class="paragraph">
-<p>Скрытый архитектор</p>
-</div>
-</div>
-</div>]]></description>
-      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_214.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_214.mp3" fileSize="" type="audio/mpeg" />
-      <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2020/09/episode-214.html
-Telegram канал - https://t.me/razborfeed
-
-Реклама
-
-
-SpaceWeb
-
-
-Ошибки, которые не находит статический анализ кода, потому что он не используется
-
-
-PVS-Studio идёт в облака – запуск анализа на Travis CI
-
-
-
-
-Гости и участники
-
-
-
-
-Вячеслав Михайлов
-
-
-Всеволод Брекелов
-
-
-Алексей Абашев
-
-
-Олег Чирухин
-
-
-
-
-
-
-Темы
-
-
-Скрытый архитектор
-
-
-]]></itunes:summary>
-      <itunes:image href="http://razborpoletov.com/images/razbor_214_text.jpg" />
     </item>
     
   </channel>
