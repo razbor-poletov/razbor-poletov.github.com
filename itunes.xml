@@ -6,8 +6,8 @@
     <atom:link href="http://razborpoletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2023-07-09T10:41:59+00:00</pubDate>
-    <lastBuildDate>2023-07-09T10:41:59+00:00</lastBuildDate>
+    <pubDate>2023-07-09T11:03:00+00:00</pubDate>
+    <lastBuildDate>2023-07-09T11:03:00+00:00</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razborpoletov.com/logoNew.jpg" />
     <itunes:author>Viktor Gamov, Alexey Abashev</itunes:author>
@@ -62,8 +62,10 @@
 <p><a href="https://www.reddit.com/r/java/comments/13rv1t2/why_exactly_does_brian_goetz_not_recommend_the/" class="bare">https://www.reddit.com/r/java/comments/13rv1t2/why_exactly_does_brian_goetz_not_recommend_the/</a></p>
 </li>
 <li>
-<p><a href="https://cloud.yandex.ru/training/training-pro#security" class="bare">https://cloud.yandex.ru/training/training-pro#security</a>
-*https://www.litres.ru/book/uilyam-makreyven/zapravlyay-krovat-10-prostyh-pravil-kotorye-mogut-izmenit-27097126/chitat-onlayn/</p>
+<p><a href="https://cloud.yandex.ru/training/training-pro#security" class="bare">https://cloud.yandex.ru/training/training-pro#security</a></p>
+</li>
+<li>
+<p><a href="https://www.litres.ru/book/uilyam-makreyven/zapravlyay-krovat-10-prostyh-pravil-kotorye-mogut-izmenit-27097126/chitat-onlayn/" class="bare">https://www.litres.ru/book/uilyam-makreyven/zapravlyay-krovat-10-prostyh-pravil-kotorye-mogut-izmenit-27097126/chitat-onlayn/</a></p>
 </li>
 </ul>
 </div>
@@ -107,7 +109,9 @@ https://www.reddit.com/r/java/comments/13rv1t2/why_exactly_does_brian_goetz_not_
 
 
 https://cloud.yandex.ru/training/training-pro#security
-*https://www.litres.ru/book/uilyam-makreyven/zapravlyay-krovat-10-prostyh-pravil-kotorye-mogut-izmenit-27097126/chitat-onlayn/
+
+
+https://www.litres.ru/book/uilyam-makreyven/zapravlyay-krovat-10-prostyh-pravil-kotorye-mogut-izmenit-27097126/chitat-onlayn/
 
 
 
