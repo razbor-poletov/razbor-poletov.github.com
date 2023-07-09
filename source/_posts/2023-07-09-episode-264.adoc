@@ -1,0 +1,21 @@
+---
+layout: episode
+episode: 264
+title: "Episode 264 — Classic - Ломай меня полностью"
+category: Classic
+guests: abashev, golodnyj
+---
+
+== Гости и участники
+
+* https://t.me/razborfeed[@abashev]
+* https://twitter.com/golodnyj[Антон Черноусов]
+
+== Темы
+
+* https://www.opennet.ru/opennews/art.shtml?num=59188
+* https://e-kaspersky.livejournal.com/987692.html
+* https://levelup.gitconnected.com/from-java-and-microservices-to-dgraph-a-big-bang-migration-journey-of-a-14m-users-app-38b2b2eeb42c
+* https://www.reddit.com/r/java/comments/13rv1t2/why_exactly_does_brian_goetz_not_recommend_the/
+* https://cloud.yandex.ru/training/training-pro#security
+*https://www.litres.ru/book/uilyam-makreyven/zapravlyay-krovat-10-prostyh-pravil-kotorye-mogut-izmenit-27097126/chitat-onlayn/
