@@ -1,0 +1,19 @@
+---
+layout: episode
+episode: 265
+title: "Episode 265 — Classic - Кубер наше всё"
+category: Classic
+guests: abashev, golodnyj
+---
+
+== Гости и участники
+
+* https://t.me/razborfeed[@abashev]
+* https://twitter.com/golodnyj[Антон Черноусов]
+
+== Темы
+
+* https://ciq.com/blog/history-never-repeats-but-sometimes-it-rhymes/
+* https://www.youtube.com/watch?v=8_mh38d2Xlg
+* https://www.youtube.com/watch?v=aXflVfvoLdU
+* https://habr.com/ru/companies/ruvds/articles/746086/
