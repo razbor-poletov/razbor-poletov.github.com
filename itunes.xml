@@ -6,8 +6,8 @@
     <atom:link href="http://razborpoletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2023-09-15T06:50:41+00:00</pubDate>
-    <lastBuildDate>2023-09-15T06:50:41+00:00</lastBuildDate>
+    <pubDate>2023-09-16T10:58:08+00:00</pubDate>
+    <lastBuildDate>2023-09-16T10:58:08+00:00</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razborpoletov.com/logoNew.jpg" />
     <itunes:author>Viktor Gamov, Alexey Abashev</itunes:author>
@@ -18,6 +18,95 @@
     </itunes:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:thumbnail url="http://razborpoletov.com/logoNew.jpg" />
+    
+    <item>
+      <title>Episode 265 — Classic - Кубер наше всё</title>
+      <link>http://razborpoletov.com/2023/09/episode-265.html</link>
+      <pubDate>2023-09-16T00:00:00+00:00</pubDate>
+      <guid isPermalink="true">http://razborpoletov.com/2023/09/episode-265</guid>
+      <description><![CDATA[<div class="paragraph">
+  <p><a href="http://razborpoletov.com/2023/09/episode-265.html">Комментировать</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
+</div>
+<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://t.me/razborfeed">@abashev</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/golodnyj">Антон Черноусов</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://ciq.com/blog/history-never-repeats-but-sometimes-it-rhymes/" class="bare">https://ciq.com/blog/history-never-repeats-but-sometimes-it-rhymes/</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=8_mh38d2Xlg" class="bare">https://www.youtube.com/watch?v=8_mh38d2Xlg</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=aXflVfvoLdU" class="bare">https://www.youtube.com/watch?v=aXflVfvoLdU</a></p>
+</li>
+<li>
+<p><a href="https://habr.com/ru/companies/ruvds/articles/746086/" class="bare">https://habr.com/ru/companies/ruvds/articles/746086/</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description>
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_265.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_265.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2023/09/episode-265.html
+Telegram канал - https://t.me/razborfeed
+
+Гости и участники
+
+
+
+
+@abashev
+
+
+Антон Черноусов
+
+
+
+
+
+
+Темы
+
+
+
+
+https://ciq.com/blog/history-never-repeats-but-sometimes-it-rhymes/
+
+
+https://www.youtube.com/watch?v=8_mh38d2Xlg
+
+
+https://www.youtube.com/watch?v=aXflVfvoLdU
+
+
+https://habr.com/ru/companies/ruvds/articles/746086/
+
+
+
+
+]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_265_text.jpg" />
+    </item>
     
     <item>
       <title>Episode 264 — Classic - Ломай меня полностью</title>
@@ -4552,109 +4641,6 @@ The Mythical Modular Monolith
 
 ]]></itunes:summary>
       <itunes:image href="http://razborpoletov.com/images/razbor_216_text.jpg" />
-    </item>
-    
-    <item>
-      <title>Episode 215 — Classic - Serverless</title>
-      <link>http://razborpoletov.com/2020/09/episode-215.html</link>
-      <pubDate>2020-09-09T00:00:00+00:00</pubDate>
-      <guid isPermalink="true">http://razborpoletov.com/2020/09/episode-215</guid>
-      <description><![CDATA[<div class="paragraph">
-  <p><a href="http://razborpoletov.com/2020/09/episode-215.html">Комментировать</a>
-    | <a href="https://t.me/razborfeed">Telegram канал</a>
-  </p>
-</div>
-<div class="sect1">
-<h2 id="Гости-и-участники">Гости и участники</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://twitter.com/a_abashev">Алексей Абашев</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/golodnyj">Антон Черноусов</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Темы">Темы</h2>
-<div class="sectionbody">
-<div class="paragraph">
-<p>— Про serverless как отдельный способ разработки ПО и трансформацию. Базовые сервисы: объекты, данные, очереди, апигейтвей, функции.
-— Про Amazon S3 как один из базовых сервисов и миграцию данных
-— Про ремоут и почему менеджмент хочет вернуть людей в офисы</p>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Полезняшки">Полезняшки</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://t.me/serverless_moscow">Канал про Serverless</a></p>
-</li>
-<li>
-<p><a href="https://github.com/abashev/vfs-s3">Оболочка над AWS S3</a></p>
-</li>
-<li>
-<p><a href="https://youtu.be/saofz95CO9g">Kafka, кофе и качалка в подкасте на троих 231 The Art Of Programming</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>]]></description>
-      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_215.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_215.mp3" fileSize="" type="audio/mpeg" />
-      <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2020/09/episode-215.html
-Telegram канал - https://t.me/razborfeed
-
-Гости и участники
-
-
-
-
-Алексей Абашев
-
-
-Антон Черноусов
-
-
-
-
-
-
-Темы
-
-
-— Про serverless как отдельный способ разработки ПО и трансформацию. Базовые сервисы: объекты, данные, очереди, апигейтвей, функции.
-— Про Amazon S3 как один из базовых сервисов и миграцию данных
-— Про ремоут и почему менеджмент хочет вернуть людей в офисы
-
-
-
-
-Полезняшки
-
-
-
-
-Канал про Serverless
-
-
-Оболочка над AWS S3
-
-
-Kafka, кофе и качалка в подкасте на троих 231 The Art Of Programming
-
-
-
-
-]]></itunes:summary>
-      <itunes:image href="http://razborpoletov.com/images/razbor_215_text.jpg" />
     </item>
     
   </channel>

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Classic | Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/blog/categories/classic/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2023-09-15T06:50:41+00:00</updated>
+  <updated>2023-09-16T10:58:08+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,31 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 265 — Classic - Кубер наше всё]]></title>
+    <link href="http://razborpoletov.com/2023/09/episode-265.html"/>
+    <updated>2023-09-16T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2023/09/episode-265</id>
+    <content type="html"><![CDATA[<p>== Гости и участники</p>
+
+<ul>
+<li>https://t.me/razborfeed[@abashev]</li>
+<li>https://twitter.com/golodnyj[Антон Черноусов]</li>
+</ul>
+
+
+<p>== Темы</p>
+
+<ul>
+<li>https://ciq.com/blog/history-never-repeats-but-sometimes-it-rhymes/</li>
+<li>https://www.youtube.com/watch?v=8_mh38d2Xlg</li>
+<li>https://www.youtube.com/watch?v=aXflVfvoLdU</li>
+<li>https://habr.com/ru/companies/ruvds/articles/746086/</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 264 — Classic - Ломай меня полностью]]></title>
@@ -107,32 +132,6 @@
 <li>https://www.vedomosti.ru/business/news/2023/02/15/963064-viruchka-yandeksa-v-2022-godu</li>
 <li>https://habr.com/ru/company/yandex/blog/716524/</li>
 <li>https://habr.com/ru/news/t/713774/</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 259 — Classic - В начале было Слово]]></title>
-    <link href="http://razborpoletov.com/2023/02/episode-259.html"/>
-    <updated>2023-02-07T00:00:00+00:00</updated>
-    <id>http://razborpoletov.com/2023/02/episode-259</id>
-    <content type="html"><![CDATA[<p>== Гости и участники</p>
-
-<ul>
-<li>https://t.me/razborfeed[@abashev]</li>
-<li>https://twitter.com/golodnyj[Антон Черноусов]</li>
-</ul>
-
-
-<p>== Темы</p>
-
-<ul>
-<li>https://circleci.com/blog/jan-4-2023-incident-report/</li>
-<li>https://habr.com/ru/company/dododev/blog/709598/</li>
-<li>https://blog.daveallie.com/ulid-primary-keys</li>
-<li>Вечер в Музее «Принцип пинг-понга: как нейросеть стала соавтором художника» https://yandex.ru/museum/events#</li>
-<li>Партнерство YC с Navicon https://www.cnews.ru/news/line/2023-01-11_navicon_i_yandex_cloud_rasshirili_sotrudnichestvo</li>
 </ul>
 
 ]]></content>
