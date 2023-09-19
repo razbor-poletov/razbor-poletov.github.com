@@ -1,0 +1,19 @@
+---
+layout: episode
+episode: 266
+title: "Episode 266 — Classic - Время для программиста"
+category: Classic
+guests: abashev, golodnyj
+---
+
+== Гости и участники
+
+* https://t.me/razborfeed[@abashev]
+* https://twitter.com/golodnyj[Антон Черноусов]
+
+== Темы
+
+* https://opentf.org/announcement 
+* https://slack.engineering/slacks-migration-to-a-cellular-architecture/
+* https://infiniteundo.com/post/25509354022/more-falsehoods-programmers-believe-about-time
+* https://github.com/spring-projects/spring-framework/wiki/What%27s-New-in-Spring-Framework-6.x
