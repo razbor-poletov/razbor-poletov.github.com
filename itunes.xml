@@ -6,8 +6,8 @@
     <atom:link href="http://razborpoletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2023-09-17T07:20:33+00:00</pubDate>
-    <lastBuildDate>2023-09-17T07:20:33+00:00</lastBuildDate>
+    <pubDate>2023-09-20T09:23:56+00:00</pubDate>
+    <lastBuildDate>2023-09-20T09:23:56+00:00</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razborpoletov.com/logoNew.jpg" />
     <itunes:author>Viktor Gamov, Alexey Abashev</itunes:author>
@@ -18,6 +18,95 @@
     </itunes:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:thumbnail url="http://razborpoletov.com/logoNew.jpg" />
+    
+    <item>
+      <title>Episode 266 — Classic - Время для программиста</title>
+      <link>http://razborpoletov.com/2023/09/episode-266.html</link>
+      <pubDate>2023-09-20T00:00:00+00:00</pubDate>
+      <guid isPermalink="true">http://razborpoletov.com/2023/09/episode-266</guid>
+      <description><![CDATA[<div class="paragraph">
+  <p><a href="http://razborpoletov.com/2023/09/episode-266.html">Комментировать</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
+</div>
+<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://t.me/razborfeed">@abashev</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/golodnyj">Антон Черноусов</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://opentf.org/announcement" class="bare">https://opentf.org/announcement</a></p>
+</li>
+<li>
+<p><a href="https://slack.engineering/slacks-migration-to-a-cellular-architecture/" class="bare">https://slack.engineering/slacks-migration-to-a-cellular-architecture/</a></p>
+</li>
+<li>
+<p><a href="https://infiniteundo.com/post/25509354022/more-falsehoods-programmers-believe-about-time" class="bare">https://infiniteundo.com/post/25509354022/more-falsehoods-programmers-believe-about-time</a></p>
+</li>
+<li>
+<p><a href="https://github.com/spring-projects/spring-framework/wiki/What%27s-New-in-Spring-Framework-6.x" class="bare">https://github.com/spring-projects/spring-framework/wiki/What%27s-New-in-Spring-Framework-6.x</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description>
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_266.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_266.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2023/09/episode-266.html
+Telegram канал - https://t.me/razborfeed
+
+Гости и участники
+
+
+
+
+@abashev
+
+
+Антон Черноусов
+
+
+
+
+
+
+Темы
+
+
+
+
+https://opentf.org/announcement
+
+
+https://slack.engineering/slacks-migration-to-a-cellular-architecture/
+
+
+https://infiniteundo.com/post/25509354022/more-falsehoods-programmers-believe-about-time
+
+
+https://github.com/spring-projects/spring-framework/wiki/What%27s-New-in-Spring-Framework-6.x
+
+
+
+
+]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_266_text.jpg" />
+    </item>
     
     <item>
       <title>Episode 265 — Classic - Кубер наше всё</title>
@@ -4528,119 +4617,6 @@ debrief2020JRGpc
 
 ]]></itunes:summary>
       <itunes:image href="http://razborpoletov.com/images/razbor_217_text.jpg" />
-    </item>
-    
-    <item>
-      <title>Episode 216 — Classic - Трудно найти, легко потерять и невозможно забыть</title>
-      <link>http://razborpoletov.com/2020/09/episode-216.html</link>
-      <pubDate>2020-09-22T00:00:00+00:00</pubDate>
-      <guid isPermalink="true">http://razborpoletov.com/2020/09/episode-216</guid>
-      <description><![CDATA[<div class="paragraph">
-  <p><a href="http://razborpoletov.com/2020/09/episode-216.html">Комментировать</a>
-    | <a href="https://t.me/razborfeed">Telegram канал</a>
-  </p>
-</div>
-<div class="sect1">
-<h2 id="Гости-и-участники">Гости и участники</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://twitter.com/a_abashev">Алексей Абашев</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/golodnyj">Антон Черноусов</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Темы">Темы</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://cloud.yandex.ru/events/scale-2020/">Онлайн-конференция Yandex Scale</a></p>
-</li>
-<li>
-<p><a href="https://dev.to/alediaferia/the-mythical-devops-engineer-n-611">The Mythical DevOps Engineer</a></p>
-</li>
-<li>
-<p><a href="https://medium.com/@jakubpierzchlewicz/the-mythical-modular-monolith-ec2375222162">The Mythical Modular Monolith</a></p>
-</li>
-<li>
-<p><a href="https://habr.com/ru/post/519314/">Почему Trunk Based Development – лучшая модель ветвления</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Полезняшки">Полезняшки</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://www.youtube.com/watch?v=pF8RXU-TlZw">Разработка Telegram-бота c помощью Serverless</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>]]></description>
-      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_216.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_216.mp3" fileSize="" type="audio/mpeg" />
-      <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2020/09/episode-216.html
-Telegram канал - https://t.me/razborfeed
-
-Гости и участники
-
-
-
-
-Алексей Абашев
-
-
-Антон Черноусов
-
-
-
-
-
-
-Темы
-
-
-
-
-Онлайн-конференция Yandex Scale
-
-
-The Mythical DevOps Engineer
-
-
-The Mythical Modular Monolith
-
-
-Почему Trunk Based Development – лучшая модель ветвления
-
-
-
-
-
-
-Полезняшки
-
-
-
-
-Разработка Telegram-бота c помощью Serverless
-
-
-
-
-]]></itunes:summary>
-      <itunes:image href="http://razborpoletov.com/images/razbor_216_text.jpg" />
     </item>
     
   </channel>

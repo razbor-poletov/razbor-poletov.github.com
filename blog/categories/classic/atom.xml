@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Classic | Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/blog/categories/classic/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2023-09-17T07:20:33+00:00</updated>
+  <updated>2023-09-20T09:23:56+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,31 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 266 — Classic - Время для программиста]]></title>
+    <link href="http://razborpoletov.com/2023/09/episode-266.html"/>
+    <updated>2023-09-20T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2023/09/episode-266</id>
+    <content type="html"><![CDATA[<p>== Гости и участники</p>
+
+<ul>
+<li>https://t.me/razborfeed[@abashev]</li>
+<li>https://twitter.com/golodnyj[Антон Черноусов]</li>
+</ul>
+
+
+<p>== Темы</p>
+
+<ul>
+<li>https://opentf.org/announcement</li>
+<li>https://slack.engineering/slacks-migration-to-a-cellular-architecture/</li>
+<li>https://infiniteundo.com/post/25509354022/more-falsehoods-programmers-believe-about-time</li>
+<li>https://github.com/spring-projects/spring-framework/wiki/What%27s-New-in-Spring-Framework-6.x</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 265 — Classic - Кубер наше всё]]></title>
@@ -94,30 +119,6 @@
     <link href="http://razborpoletov.com/2023/04/episode-262.html"/>
     <updated>2023-04-23T00:00:00+00:00</updated>
     <id>http://razborpoletov.com/2023/04/episode-262</id>
-    <content type="html"><![CDATA[<p>== Гости и участники</p>
-
-<ul>
-<li>https://t.me/razborfeed[@abashev]</li>
-<li>https://twitter.com/golodnyj[Антон Черноусов]</li>
-</ul>
-
-
-<p>== Темы</p>
-
-<ul>
-<li>https://www.vedomosti.ru/business/news/2023/02/15/963064-viruchka-yandeksa-v-2022-godu</li>
-<li>https://habr.com/ru/company/yandex/blog/716524/</li>
-<li>https://habr.com/ru/news/t/713774/</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 260 — Classic - Classified]]></title>
-    <link href="http://razborpoletov.com/2023/03/episode-260.html"/>
-    <updated>2023-03-09T00:00:00+00:00</updated>
-    <id>http://razborpoletov.com/2023/03/episode-260</id>
     <content type="html"><![CDATA[<p>== Гости и участники</p>
 
 <ul>
