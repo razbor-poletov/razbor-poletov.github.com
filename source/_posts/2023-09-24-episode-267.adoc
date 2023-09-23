@@ -1,0 +1,18 @@
+---
+layout: episode
+episode: 267
+title: "Episode 267 — Classic - Можем повторить"
+category: Classic
+guests: abashev, golodnyj
+---
+
+== Гости и участники
+
+* https://t.me/razborfeed[@abashev]
+* https://twitter.com/golodnyj[Антон Черноусов]
+
+== Темы
+
+* https://httptoolkit.com/blog/android-14-breaks-system-certificate-installation/
+* https://scale.yandex.ru/program
+* https://devoops.ru
