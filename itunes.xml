@@ -6,8 +6,8 @@
     <atom:link href="http://razborpoletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2023-09-20T09:23:56+00:00</pubDate>
-    <lastBuildDate>2023-09-20T09:23:56+00:00</lastBuildDate>
+    <pubDate>2023-09-23T20:18:14+00:00</pubDate>
+    <lastBuildDate>2023-09-23T20:18:14+00:00</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razborpoletov.com/logoNew.jpg" />
     <itunes:author>Viktor Gamov, Alexey Abashev</itunes:author>
@@ -18,6 +18,89 @@
     </itunes:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:thumbnail url="http://razborpoletov.com/logoNew.jpg" />
+    
+    <item>
+      <title>Episode 267 — Classic - Можем повторить</title>
+      <link>http://razborpoletov.com/2023/09/episode-267.html</link>
+      <pubDate>2023-09-24T00:00:00+00:00</pubDate>
+      <guid isPermalink="true">http://razborpoletov.com/2023/09/episode-267</guid>
+      <description><![CDATA[<div class="paragraph">
+  <p><a href="http://razborpoletov.com/2023/09/episode-267.html">Комментировать</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
+</div>
+<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://t.me/razborfeed">@abashev</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/golodnyj">Антон Черноусов</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://httptoolkit.com/blog/android-14-breaks-system-certificate-installation/" class="bare">https://httptoolkit.com/blog/android-14-breaks-system-certificate-installation/</a></p>
+</li>
+<li>
+<p><a href="https://scale.yandex.ru/program" class="bare">https://scale.yandex.ru/program</a></p>
+</li>
+<li>
+<p><a href="https://devoops.ru" class="bare">https://devoops.ru</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description>
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_267.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_267.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2023/09/episode-267.html
+Telegram канал - https://t.me/razborfeed
+
+Гости и участники
+
+
+
+
+@abashev
+
+
+Антон Черноусов
+
+
+
+
+
+
+Темы
+
+
+
+
+https://httptoolkit.com/blog/android-14-breaks-system-certificate-installation/
+
+
+https://scale.yandex.ru/program
+
+
+https://devoops.ru
+
+
+
+
+]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_267_text.jpg" />
+    </item>
     
     <item>
       <title>Episode 266 — Classic - Время для программиста</title>
@@ -4408,215 +4491,6 @@ iA Writer Font
 
 ]]></itunes:summary>
       <itunes:image href="http://razborpoletov.com/images/razbor_218_text.jpg" />
-    </item>
-    
-    <item>
-      <title>Episode 217 — Interview - Как умно деградировать</title>
-      <link>http://razborpoletov.com/2020/10/episode-217.html</link>
-      <pubDate>2020-10-26T00:00:00+00:00</pubDate>
-      <guid isPermalink="true">http://razborpoletov.com/2020/10/episode-217</guid>
-      <description><![CDATA[<div class="paragraph">
-  <p><a href="http://razborpoletov.com/2020/10/episode-217.html">Комментировать</a>
-    | <a href="https://t.me/razborfeed">Telegram канал</a>
-  </p>
-</div>
-<div class="sect1">
-<h2 id="Гости-и-участники">Гости и участники</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://twitter.com/a_abashev">Алексей Абашев</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/tolkv">Кирилл Толкачев</a></p>
-</li>
-<li>
-<p><a href="https://t.me/tradeoffs">Телеграм-канал Алексея Федорова про то, как делаются конференции</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="О-чём-поговорили">О чём поговорили</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p>Какова миссия онлайновых и офлайновых <a href="https://jugru.org/#schedule">конференций JUG RU Group</a>?</p>
-</li>
-<li>
-<p>Из каких частей состоит онлайн-конференция?</p>
-</li>
-<li>
-<p>Какие ИТ-решения готовит JUG RU Group для осеннего сезона?</p>
-</li>
-<li>
-<p>Что не так с видеосвязью через интернет?</p>
-</li>
-<li>
-<p>Протокол WebRTC, его экосистема, асинхронные вызовы и ад коллбэков</p>
-</li>
-<li>
-<p>Особенности работы видеокодеков H.264 и VP8, разница между аппаратными и программными реализациями</p>
-</li>
-<li>
-<p>Как работают сервисы видеостриминга, и в чём их разница с видеозвонками через Zoom</p>
-</li>
-<li>
-<p>Пайплайн работы стриминговых сервисов</p>
-</li>
-<li>
-<p>Что из себя представляет стриминговое железо, и откуда берутся проблемы с локалкой?</p>
-</li>
-<li>
-<p>Вопросы отказоустойчивости решений для стриминга</p>
-</li>
-<li>
-<p>Почему Youtube в Safari не умеет в 4K?</p>
-</li>
-<li>
-<p>Почему JUG Ru Group до сих пор не сделал клиенский сервис для стриминга?</p>
-</li>
-<li>
-<p>Из кого состоит команда эфира и сколько она стоит для клиента?</p>
-</li>
-<li>
-<p>Почему JUG Ru Group не взяли Hopin, Pine, SpatialChat и другие сервисы &#8220;под ключ&#8221;?</p>
-</li>
-<li>
-<p>Почему JUG Ru Group даже и не пытался этой осенью идти в оффлайн?</p>
-</li>
-<li>
-<p>Впечатление о работе AWS и Яндекс.Облака</p>
-</li>
-<li>
-<p>Приглашение на осенние <a href="https://jugru.org/#schedule">конференции JUG Ru Group</a> и промокод для слушателей подкаста</p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Промокод-на-все-конфы-и-абонемент-для-слушателей-подкаста">Промокод на все конфы и абонемент для слушателей подкаста</h2>
-<div class="sectionbody">
-<div class="paragraph">
-<p><strong>debrief2020JRGpc</strong></p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p>Скидка 1500 на персональный билет</p>
-</li>
-<li>
-<p>Скидка 3000 на персональный абонемент</p>
-</li>
-</ul>
-</div>
-</div>
-</div>]]></description>
-      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_217.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_217.mp3" fileSize="" type="audio/mpeg" />
-      <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2020/10/episode-217.html
-Telegram канал - https://t.me/razborfeed
-
-Гости и участники
-
-
-
-
-Алексей Абашев
-
-
-Кирилл Толкачев
-
-
-Телеграм-канал Алексея Федорова про то, как делаются конференции
-
-
-
-
-
-
-О чём поговорили
-
-
-
-
-Какова миссия онлайновых и офлайновых конференций JUG RU Group?
-
-
-Из каких частей состоит онлайн-конференция?
-
-
-Какие ИТ-решения готовит JUG RU Group для осеннего сезона?
-
-
-Что не так с видеосвязью через интернет?
-
-
-Протокол WebRTC, его экосистема, асинхронные вызовы и ад коллбэков
-
-
-Особенности работы видеокодеков H.264 и VP8, разница между аппаратными и программными реализациями
-
-
-Как работают сервисы видеостриминга, и в чём их разница с видеозвонками через Zoom
-
-
-Пайплайн работы стриминговых сервисов
-
-
-Что из себя представляет стриминговое железо, и откуда берутся проблемы с локалкой?
-
-
-Вопросы отказоустойчивости решений для стриминга
-
-
-Почему Youtube в Safari не умеет в 4K?
-
-
-Почему JUG Ru Group до сих пор не сделал клиенский сервис для стриминга?
-
-
-Из кого состоит команда эфира и сколько она стоит для клиента?
-
-
-Почему JUG Ru Group не взяли Hopin, Pine, SpatialChat и другие сервисы "под ключ"?
-
-
-Почему JUG Ru Group даже и не пытался этой осенью идти в оффлайн?
-
-
-Впечатление о работе AWS и Яндекс.Облака
-
-
-Приглашение на осенние конференции JUG Ru Group и промокод для слушателей подкаста
-
-
-
-
-
-
-Промокод на все конфы и абонемент для слушателей подкаста
-
-
-debrief2020JRGpc
-
-
-
-
-Скидка 1500 на персональный билет
-
-
-Скидка 3000 на персональный абонемент
-
-
-
-
-]]></itunes:summary>
-      <itunes:image href="http://razborpoletov.com/images/razbor_217_text.jpg" />
     </item>
     
   </channel>
