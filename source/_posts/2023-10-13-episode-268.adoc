@@ -1,0 +1,19 @@
+---
+layout: episode
+episode: 268
+title: "Episode 268 — Classic - GPT из каждой дырки"
+category: Classic
+guests: abashev, golodnyj
+---
+
+== Гости и участники
+
+* https://t.me/razborfeed[@abashev]
+* https://twitter.com/golodnyj[Антон Черноусов]
+
+== Темы
+
+* https://opentofu.org/blog/why-should-i-care-about-opentofu/
+* https://www.youtube.com/watch?v=cZWxzT3ZtM8
+* https://habr.com/ru/companies/yandex_cloud_and_infra/articles/764334/
+* https://benhoyt.com/writings/how-to-apply/
