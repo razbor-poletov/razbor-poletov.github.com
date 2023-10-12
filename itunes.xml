@@ -6,8 +6,8 @@
     <atom:link href="http://razborpoletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2023-10-12T08:02:52+00:00</pubDate>
-    <lastBuildDate>2023-10-12T08:02:52+00:00</lastBuildDate>
+    <pubDate>2023-10-12T19:37:52+00:00</pubDate>
+    <lastBuildDate>2023-10-12T19:37:52+00:00</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razborpoletov.com/logoNew.jpg" />
     <itunes:author>Viktor Gamov, Alexey Abashev</itunes:author>
@@ -18,6 +18,95 @@
     </itunes:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:thumbnail url="http://razborpoletov.com/logoNew.jpg" />
+    
+    <item>
+      <title>Episode 268 — Classic - GPT из каждой дырки</title>
+      <link>http://razborpoletov.com/2023/10/episode-268.html</link>
+      <pubDate>2023-10-13T00:00:00+00:00</pubDate>
+      <guid isPermalink="true">http://razborpoletov.com/2023/10/episode-268</guid>
+      <description><![CDATA[<div class="paragraph">
+  <p><a href="http://razborpoletov.com/2023/10/episode-268.html">Комментировать</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
+</div>
+<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://t.me/razborfeed">@abashev</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/golodnyj">Антон Черноусов</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://opentofu.org/blog/why-should-i-care-about-opentofu/" class="bare">https://opentofu.org/blog/why-should-i-care-about-opentofu/</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=cZWxzT3ZtM8" class="bare">https://www.youtube.com/watch?v=cZWxzT3ZtM8</a></p>
+</li>
+<li>
+<p><a href="https://habr.com/ru/companies/yandex_cloud_and_infra/articles/764334/" class="bare">https://habr.com/ru/companies/yandex_cloud_and_infra/articles/764334/</a></p>
+</li>
+<li>
+<p><a href="https://benhoyt.com/writings/how-to-apply/" class="bare">https://benhoyt.com/writings/how-to-apply/</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description>
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_268.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_268.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2023/10/episode-268.html
+Telegram канал - https://t.me/razborfeed
+
+Гости и участники
+
+
+
+
+@abashev
+
+
+Антон Черноусов
+
+
+
+
+
+
+Темы
+
+
+
+
+https://opentofu.org/blog/why-should-i-care-about-opentofu/
+
+
+https://www.youtube.com/watch?v=cZWxzT3ZtM8
+
+
+https://habr.com/ru/companies/yandex_cloud_and_infra/articles/764334/
+
+
+https://benhoyt.com/writings/how-to-apply/
+
+
+
+
+]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_268_text.jpg" />
+    </item>
     
     <item>
       <title>Episode 267 — Classic - Можем повторить</title>
@@ -4390,107 +4479,6 @@ https://www.morling.dev/blog/introducing-layrry-runner-and-api-for-modularized-j
 
 ]]></itunes:summary>
       <itunes:image href="http://razborpoletov.com/images/razbor_219_text.jpg" />
-    </item>
-    
-    <item>
-      <title>Episode 218 — Classic - Итоги 2020-го года!</title>
-      <link>http://razborpoletov.com/2021/01/episode-218.html</link>
-      <pubDate>2021-01-05T00:00:00+00:00</pubDate>
-      <guid isPermalink="true">http://razborpoletov.com/2021/01/episode-218</guid>
-      <description><![CDATA[<div class="paragraph">
-  <p><a href="http://razborpoletov.com/2021/01/episode-218.html">Комментировать</a>
-    | <a href="https://t.me/razborfeed">Telegram канал</a>
-  </p>
-</div>
-<div class="sect1">
-<h2 id="Гости-и-участники">Гости и участники</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://twitter.com/a_abashev">@a_abashev</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/antonarhipov">@antonarhipov</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/jbaruch">@jbaruch</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/tolkv">@tolkv</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Темы">Темы</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://tailscale.com/">Tailscale</a></p>
-</li>
-<li>
-<p><a href="https://www.zerotier.com/">Zerotier</a></p>
-</li>
-<li>
-<p><a href="https://ia.net/writer/blog/a-typographic-christmas">iA Writer Font</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>]]></description>
-      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_218.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_218.mp3" fileSize="" type="audio/mpeg" />
-      <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2021/01/episode-218.html
-Telegram канал - https://t.me/razborfeed
-
-Гости и участники
-
-
-
-
-@a_abashev
-
-
-@antonarhipov
-
-
-@gamussa
-
-
-@jbaruch
-
-
-@tolkv
-
-
-
-
-
-
-Темы
-
-
-
-
-Tailscale
-
-
-Zerotier
-
-
-iA Writer Font
-
-
-
-
-]]></itunes:summary>
-      <itunes:image href="http://razborpoletov.com/images/razbor_218_text.jpg" />
     </item>
     
   </channel>

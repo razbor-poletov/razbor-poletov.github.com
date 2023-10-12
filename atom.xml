@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2023-10-12T08:02:52+00:00</updated>
+  <updated>2023-10-12T19:37:52+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,49 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 268 — Classic - GPT из каждой дырки]]></title>
+    <link href="http://razborpoletov.com/2023/10/episode-268.html"/>
+    <updated>2023-10-13T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2023/10/episode-268</id>
+    <content type="html"><![CDATA[<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://t.me/razborfeed">@abashev</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/golodnyj">Антон Черноусов</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://opentofu.org/blog/why-should-i-care-about-opentofu/" class="bare">https://opentofu.org/blog/why-should-i-care-about-opentofu/</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=cZWxzT3ZtM8" class="bare">https://www.youtube.com/watch?v=cZWxzT3ZtM8</a></p>
+</li>
+<li>
+<p><a href="https://habr.com/ru/companies/yandex_cloud_and_infra/articles/764334/" class="bare">https://habr.com/ru/companies/yandex_cloud_and_infra/articles/764334/</a></p>
+</li>
+<li>
+<p><a href="https://benhoyt.com/writings/how-to-apply/" class="bare">https://benhoyt.com/writings/how-to-apply/</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 267 — Classic - Можем повторить]]></title>
@@ -2119,55 +2162,6 @@
 </li>
 <li>
 <p><a href="https://www.morling.dev/blog/introducing-layrry-runner-and-api-for-modularized-java-applications/" class="bare">https://www.morling.dev/blog/introducing-layrry-runner-and-api-for-modularized-java-applications/</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 218 — Classic - Итоги 2020-го года!]]></title>
-    <link href="http://razborpoletov.com/2021/01/episode-218.html"/>
-    <updated>2021-01-05T00:00:00+00:00</updated>
-    <id>http://razborpoletov.com/2021/01/episode-218</id>
-    <content type="html"><![CDATA[<div class="sect1">
-<h2 id="Гости-и-участники">Гости и участники</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://twitter.com/a_abashev">@a_abashev</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/antonarhipov">@antonarhipov</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/jbaruch">@jbaruch</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/tolkv">@tolkv</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Темы">Темы</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://tailscale.com/">Tailscale</a></p>
-</li>
-<li>
-<p><a href="https://www.zerotier.com/">Zerotier</a></p>
-</li>
-<li>
-<p><a href="https://ia.net/writer/blog/a-typographic-christmas">iA Writer Font</a></p>
 </li>
 </ul>
 </div>
