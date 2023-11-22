@@ -6,8 +6,8 @@
     <atom:link href="http://razborpoletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2023-11-20T20:49:30+00:00</pubDate>
-    <lastBuildDate>2023-11-20T20:49:30+00:00</lastBuildDate>
+    <pubDate>2023-11-22T09:35:39+00:00</pubDate>
+    <lastBuildDate>2023-11-22T09:35:39+00:00</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razborpoletov.com/logoNew.jpg" />
     <itunes:author>Viktor Gamov, Alexey Abashev</itunes:author>
@@ -18,6 +18,77 @@
     </itunes:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:thumbnail url="http://razborpoletov.com/logoNew.jpg" />
+    
+    <item>
+      <title>Episode 269 — Classic - Ламповый</title>
+      <link>http://razborpoletov.com/2023/11/episode-269.html</link>
+      <pubDate>2023-11-22T00:00:00+00:00</pubDate>
+      <guid isPermalink="true">http://razborpoletov.com/2023/11/episode-269</guid>
+      <description><![CDATA[<div class="paragraph">
+  <p><a href="http://razborpoletov.com/2023/11/episode-269.html">Комментировать</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
+</div>
+<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://t.me/razborfeed">@abashev</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/golodnyj">Антон Черноусов</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://www.techtarget.com/searchsecurity/opinion/Cloud-native-firewalls-the-next-step-in-network-security" class="bare">https://www.techtarget.com/searchsecurity/opinion/Cloud-native-firewalls-the-next-step-in-network-security</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description>
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_269.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_269.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2023/11/episode-269.html
+Telegram канал - https://t.me/razborfeed
+
+Гости и участники
+
+
+
+
+@abashev
+
+
+Антон Черноусов
+
+
+
+
+
+
+Темы
+
+
+
+
+https://www.techtarget.com/searchsecurity/opinion/Cloud-native-firewalls-the-next-step-in-network-security
+
+
+
+
+]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_269_text.jpg" />
+    </item>
     
     <item>
       <title>Episode 268 — Classic - GPT из каждой дырки</title>
@@ -4348,137 +4419,6 @@ Telegram канал - https://t.me/razborfeed
 
 ]]></itunes:summary>
       <itunes:image href="http://razborpoletov.com/images/razbor_220_text.jpg" />
-    </item>
-    
-    <item>
-      <title>Episode 219 — Classic - Стахановское движение</title>
-      <link>http://razborpoletov.com/2021/01/episode-219.html</link>
-      <pubDate>2021-01-11T00:00:00+00:00</pubDate>
-      <guid isPermalink="true">http://razborpoletov.com/2021/01/episode-219</guid>
-      <description><![CDATA[<div class="paragraph">
-  <p><a href="http://razborpoletov.com/2021/01/episode-219.html">Комментировать</a>
-    | <a href="https://t.me/razborfeed">Telegram канал</a>
-  </p>
-</div>
-<div class="sect1">
-<h2 id="Гости-и-участники">Гости и участники</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://twitter.com/a_abashev">@a_abashev</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/antonarhipov">@antonarhipov</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/jbaruch">@jbaruch</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/tolkv">@tolkv</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/bsideup">Сергей Егоров</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Темы">Темы</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://github.com/kordamp/gm" class="bare">https://github.com/kordamp/gm</a></p>
-</li>
-<li>
-<p><a href="https://armeria.dev/" class="bare">https://armeria.dev/</a></p>
-</li>
-<li>
-<p><a href="https://github.com/line/armeria/blob/master/settings.gradle" class="bare">https://github.com/line/armeria/blob/master/settings.gradle</a></p>
-</li>
-<li>
-<p><a href="https://old.reddit.com/r/java/comments/kmn6m3/do_looms_claims_stack_up_part_1_millions_of/" class="bare">https://old.reddit.com/r/java/comments/kmn6m3/do_looms_claims_stack_up_part_1_millions_of/</a></p>
-</li>
-<li>
-<p><a href="https://github.com/bsideup/jabel" class="bare">https://github.com/bsideup/jabel</a></p>
-</li>
-<li>
-<p><a href="https://github.com/pf4j/pf4j" class="bare">https://github.com/pf4j/pf4j</a></p>
-</li>
-<li>
-<p><a href="https://www.morling.dev/blog/introducing-layrry-runner-and-api-for-modularized-java-applications/" class="bare">https://www.morling.dev/blog/introducing-layrry-runner-and-api-for-modularized-java-applications/</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>]]></description>
-      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_219.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_219.mp3" fileSize="" type="audio/mpeg" />
-      <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2021/01/episode-219.html
-Telegram канал - https://t.me/razborfeed
-
-Гости и участники
-
-
-
-
-@a_abashev
-
-
-@antonarhipov
-
-
-@gamussa
-
-
-@jbaruch
-
-
-@tolkv
-
-
-Сергей Егоров
-
-
-
-
-
-
-Темы
-
-
-
-
-https://github.com/kordamp/gm
-
-
-https://armeria.dev/
-
-
-https://github.com/line/armeria/blob/master/settings.gradle
-
-
-https://old.reddit.com/r/java/comments/kmn6m3/do_looms_claims_stack_up_part_1_millions_of/
-
-
-https://github.com/bsideup/jabel
-
-
-https://github.com/pf4j/pf4j
-
-
-https://www.morling.dev/blog/introducing-layrry-runner-and-api-for-modularized-java-applications/
-
-
-
-
-]]></itunes:summary>
-      <itunes:image href="http://razborpoletov.com/images/razbor_219_text.jpg" />
     </item>
     
   </channel>

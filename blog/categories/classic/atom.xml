@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Classic | Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/blog/categories/classic/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2023-11-20T20:49:30+00:00</updated>
+  <updated>2023-11-22T09:35:39+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,28 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 269 — Classic - Ламповый]]></title>
+    <link href="http://razborpoletov.com/2023/11/episode-269.html"/>
+    <updated>2023-11-22T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2023/11/episode-269</id>
+    <content type="html"><![CDATA[<p>== Гости и участники</p>
+
+<ul>
+<li>https://t.me/razborfeed[@abashev]</li>
+<li>https://twitter.com/golodnyj[Антон Черноусов]</li>
+</ul>
+
+
+<p>== Темы</p>
+
+<ul>
+<li>https://www.techtarget.com/searchsecurity/opinion/Cloud-native-firewalls-the-next-step-in-network-security</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 268 — Classic - GPT из каждой дырки]]></title>
@@ -107,33 +129,6 @@
 <li>https://www.youtube.com/watch?v=8_mh38d2Xlg</li>
 <li>https://www.youtube.com/watch?v=aXflVfvoLdU</li>
 <li>https://habr.com/ru/companies/ruvds/articles/746086/</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 264 — Classic - Ломай меня полностью]]></title>
-    <link href="http://razborpoletov.com/2023/07/episode-264.html"/>
-    <updated>2023-07-09T00:00:00+00:00</updated>
-    <id>http://razborpoletov.com/2023/07/episode-264</id>
-    <content type="html"><![CDATA[<p>== Гости и участники</p>
-
-<ul>
-<li>https://t.me/razborfeed[@abashev]</li>
-<li>https://twitter.com/golodnyj[Антон Черноусов]</li>
-</ul>
-
-
-<p>== Темы</p>
-
-<ul>
-<li>https://www.opennet.ru/opennews/art.shtml?num=59188</li>
-<li>https://e-kaspersky.livejournal.com/987692.html</li>
-<li>https://levelup.gitconnected.com/from-java-and-microservices-to-dgraph-a-big-bang-migration-journey-of-a-14m-users-app-38b2b2eeb42c</li>
-<li>https://www.reddit.com/r/java/comments/13rv1t2/why_exactly_does_brian_goetz_not_recommend_the/</li>
-<li>https://cloud.yandex.ru/training/training-pro#security</li>
-<li>https://www.litres.ru/book/uilyam-makreyven/zapravlyay-krovat-10-prostyh-pravil-kotorye-mogut-izmenit-27097126/chitat-onlayn/</li>
 </ul>
 
 ]]></content>
