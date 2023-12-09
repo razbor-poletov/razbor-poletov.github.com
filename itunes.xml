@@ -6,8 +6,8 @@
     <atom:link href="http://razborpoletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2023-12-07T14:23:17+00:00</pubDate>
-    <lastBuildDate>2023-12-07T14:23:17+00:00</lastBuildDate>
+    <pubDate>2023-12-09T10:46:08+00:00</pubDate>
+    <lastBuildDate>2023-12-09T10:46:08+00:00</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razborpoletov.com/logoNew.jpg" />
     <itunes:author>Viktor Gamov, Alexey Abashev</itunes:author>
@@ -18,6 +18,59 @@
     </itunes:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:thumbnail url="http://razborpoletov.com/logoNew.jpg" />
+    
+    <item>
+      <title>Episode 270 — Interview - Поле.рф</title>
+      <link>http://razborpoletov.com/2023/12/episode-270.html</link>
+      <pubDate>2023-12-09T00:00:00+00:00</pubDate>
+      <guid isPermalink="true">http://razborpoletov.com/2023/12/episode-270</guid>
+      <description><![CDATA[<div class="paragraph">
+  <p><a href="http://razborpoletov.com/2023/12/episode-270.html">Комментировать</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
+</div>
+<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://xn&#8212;&#8203;e1alid.xn&#8212;&#8203;p1ai/">Илья Болучевский из Поле.рф</a></p>
+</li>
+<li>
+<p><a href="https://t.me/razborfeed">@abashev</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/golodnyj">Антон Черноусов</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description>
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_270.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_270.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2023/12/episode-270.html
+Telegram канал - https://t.me/razborfeed
+
+Гости и участники
+
+
+
+
+Илья Болучевский из Поле.рф
+
+
+@abashev
+
+
+Антон Черноусов
+
+
+
+
+]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_270_text.jpg" />
+    </item>
     
     <item>
       <title>Episode 269 — Classic - Ламповый</title>
@@ -4354,71 +4407,6 @@ https://www.amazon.com/Open-Source-Business-Practical-Licensing/dp/B086G6XDM1/
 
 ]]></itunes:summary>
       <itunes:image href="http://razborpoletov.com/images/razbor_221_text.jpg" />
-    </item>
-    
-    <item>
-      <title>Episode 220 — Classic - Мне не стыдно!</title>
-      <link>http://razborpoletov.com/2021/01/episode-220.html</link>
-      <pubDate>2021-01-20T00:00:00+00:00</pubDate>
-      <guid isPermalink="true">http://razborpoletov.com/2021/01/episode-220</guid>
-      <description><![CDATA[<div class="paragraph">
-  <p><a href="http://razborpoletov.com/2021/01/episode-220.html">Комментировать</a>
-    | <a href="https://t.me/razborfeed">Telegram канал</a>
-  </p>
-</div>
-<div class="sect1">
-<h2 id="Гости-и-участники">Гости и участники</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://twitter.com/a_abashev">@a_abashev</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/antonarhipov">@antonarhipov</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/tolkv">@tolkv</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/bsideup">Сергей Егоров</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>]]></description>
-      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_220.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_220.mp3" fileSize="" type="audio/mpeg" />
-      <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2021/01/episode-220.html
-Telegram канал - https://t.me/razborfeed
-
-Гости и участники
-
-
-
-
-@a_abashev
-
-
-@antonarhipov
-
-
-@gamussa
-
-
-@tolkv
-
-
-Сергей Егоров
-
-
-
-
-]]></itunes:summary>
-      <itunes:image href="http://razborpoletov.com/images/razbor_220_text.jpg" />
     </item>
     
   </channel>

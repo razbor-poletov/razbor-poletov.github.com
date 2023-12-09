@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2023-12-07T14:23:17+00:00</updated>
+  <updated>2023-12-09T10:46:08+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,31 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 270 — Interview - Поле.рф]]></title>
+    <link href="http://razborpoletov.com/2023/12/episode-270.html"/>
+    <updated>2023-12-09T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2023/12/episode-270</id>
+    <content type="html"><![CDATA[<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://xn&#8212;&#8203;e1alid.xn&#8212;&#8203;p1ai/">Илья Болучевский из Поле.рф</a></p>
+</li>
+<li>
+<p><a href="https://t.me/razborfeed">@abashev</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/golodnyj">Антон Черноусов</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 269 — Classic - Ламповый]]></title>
@@ -2101,37 +2126,6 @@
 </li>
 <li>
 <p><a href="https://www.amazon.com/Open-Source-Business-Practical-Licensing/dp/B086G6XDM1/" class="bare">https://www.amazon.com/Open-Source-Business-Practical-Licensing/dp/B086G6XDM1/</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 220 — Classic - Мне не стыдно!]]></title>
-    <link href="http://razborpoletov.com/2021/01/episode-220.html"/>
-    <updated>2021-01-20T00:00:00+00:00</updated>
-    <id>http://razborpoletov.com/2021/01/episode-220</id>
-    <content type="html"><![CDATA[<div class="sect1">
-<h2 id="Гости-и-участники">Гости и участники</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://twitter.com/a_abashev">@a_abashev</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/antonarhipov">@antonarhipov</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/tolkv">@tolkv</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/bsideup">Сергей Егоров</a></p>
 </li>
 </ul>
 </div>

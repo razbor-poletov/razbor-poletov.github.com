@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: interview | Подкаст «Разбор Полетов»]]></title>
+  <title><![CDATA[Category: Interview | Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/blog/categories/interview/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2023-12-07T14:23:17+00:00</updated>
+  <updated>2023-12-09T10:46:08+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -14,126 +14,16 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Episode 261 — Interview - Про Швецию и не только]]></title>
-    <link href="http://razborpoletov.com/2023/03/episode-261.html"/>
-    <updated>2023-03-31T00:00:00+00:00</updated>
-    <id>http://razborpoletov.com/2023/03/episode-261</id>
+    <title type="html"><![CDATA[Episode 270 — Interview - Поле.рф]]></title>
+    <link href="http://razborpoletov.com/2023/12/episode-270.html"/>
+    <updated>2023-12-09T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2023/12/episode-270</id>
     <content type="html"><![CDATA[<p>== Гости и участники</p>
 
 <ul>
-<li>https://t.me/razborfeed[@abashev]</li>
-<li>https://medium.com/@saabeilin[Сергей Бейлин]</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 257 — Interview - Кто волосатый и везде пролезет?]]></title>
-    <link href="http://razborpoletov.com/2022/12/episode-257.html"/>
-    <updated>2022-12-10T00:00:00+00:00</updated>
-    <id>http://razborpoletov.com/2022/12/episode-257</id>
-    <content type="html"><![CDATA[<p>== Гости и участники</p>
-
-<ul>
+<li>https://xn--e1alid.xn--p1ai/[Илья Болучевский из Поле.рф]</li>
 <li>https://t.me/razborfeed[@abashev]</li>
 <li>https://twitter.com/golodnyj[Антон Черноусов]</li>
-<li>Владислав Грубов</li>
-<li>Андрей Клюев</li>
-</ul>
-
-
-<p>== Темы</p>
-
-<ul>
-<li>https://vk.cc/cjcem3[Try Tarantool]</li>
-<li>https://vk.cc/cjcfxu[Чат сообщества]</li>
-<li>https://vk.cc/cjcg7n[Сайт tarantool.io]</li>
-<li>https://github.com/tarantool/cartridge-java[Java Connector]</li>
-<li>https://github.com/tarantool/crud.git[Tarantool CRUD]</li>
-<li>https://github.com/tarantool/cartridge-springdata[Spring Data]</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 256 — Interview - Нормально, делай]]></title>
-    <link href="http://razborpoletov.com/2022/12/episode-256.html"/>
-    <updated>2022-12-01T00:00:00+00:00</updated>
-    <id>http://razborpoletov.com/2022/12/episode-256</id>
-    <content type="html"><![CDATA[<p>== Гости и участники</p>
-
-<ul>
-<li>https://t.me/razborfeed[@abashev]</li>
-<li>https://t.me/AnastasiiaPavlovskaya[Анастасия Павловская]</li>
-<li>https://t.me/shtorm941[Дмитрий Шишов]</li>
-</ul>
-
-
-<p>== Вакансии в Дзен</p>
-
-<ul>
-<li>https://team.vk.company/project/289/</li>
-</ul>
-
-
-<p>== Темы</p>
-
-<ul>
-<li>https://www.youtube.com/watch?v=uP3punJpJno</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 250 — Interview - А что случилось?]]></title>
-    <link href="http://razborpoletov.com/2022/06/episode-250.html"/>
-    <updated>2022-06-26T00:00:00+00:00</updated>
-    <id>http://razborpoletov.com/2022/06/episode-250</id>
-    <content type="html"><![CDATA[<p>== Гости и участники</p>
-
-<ul>
-<li>http://mdbx.ru/[Михаил Бараблин, партнер Лиги Цифровой Экономики]</li>
-<li>https://t.me/razborfeed[@abashev]</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 247 — Interview - Обнять и плакать]]></title>
-    <link href="http://razborpoletov.com/2022/04/episode-247.html"/>
-    <updated>2022-04-06T00:00:00+00:00</updated>
-    <id>http://razborpoletov.com/2022/04/episode-247</id>
-    <content type="html"><![CDATA[<p>Самая крупная конференция-практикум для тимлидов и руководителей💥</p>
-
-<p>2000 участников | 70+ докладов | 11 воркшопов | 6 круглых столов</p>
-
-<p>Территория TeamLead — это энергия тысячи менеджеров и тимлидов, расширение кругозора, отработка навыков на мастер-классах, участие в круглых столах и много-много нетворкинга. Только в 2022 году — 2 трека по управлению знаниями от создателей Knowledge Conf.
-Программа конференции построена так, что каждый участник сможет найти лекарство от своей боли — и тимлид небольшого стартапа, и опытный СТО крупной компании. Такая концентрация тимлидского опыта на человеко-час и квадратный метр бывает в Москве только один раз в год. Не пропустите!</p>
-
-<p>🔹Каждый доклад — решение конкретной задачи.
-🔹Вдохновляющие идеи и решения.
-🔹Связи, на которые ушли бы годы
-🔹Программа на основе трендов самого большого сообщества тимлидов.
-🔹Спикеры не только IT индустрии</p>
-
-<p>17-18 мая 2022
-Москва. Крокус-Экспо</p>
-
-<p>Скидка 10% по промокоду TLPODCAST
-Забронировать билет|Смотреть программу 👇
-https://clck.ru/asjKY[Забронировать билет|Смотреть программу 👇]</p>
-
-<p>== Гости и участники</p>
-
-<ul>
-<li>Алексей Обровец</li>
-<li>https://t.me/razborfeed[@abashev]</li>
-<li>https://twitter.com/golodnyj[Антон Черноусов]</li>
-<li>https://twitter.com/andrei_kogun[Андрей Когунь]</li>
 </ul>
 
 ]]></content>
