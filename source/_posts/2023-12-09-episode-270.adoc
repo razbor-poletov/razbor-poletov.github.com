@@ -1,0 +1,14 @@
+---
+layout: episode
+episode: 270
+title: "Episode 270 — Interview - Поле.рф"
+category: Interview
+guests: abashev, golodnyj, boluchevsk
+---
+
+== Гости и участники
+
+* https://поле.рф[Илья Болучевский из Поле.рф]
+* https://t.me/razborfeed[@abashev]
+* https://twitter.com/golodnyj[Антон Черноусов]
+
