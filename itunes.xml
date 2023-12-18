@@ -6,8 +6,8 @@
     <atom:link href="http://razborpoletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2023-12-16T14:33:25+00:00</pubDate>
-    <lastBuildDate>2023-12-16T14:33:25+00:00</lastBuildDate>
+    <pubDate>2023-12-18T18:47:45+00:00</pubDate>
+    <lastBuildDate>2023-12-18T18:47:45+00:00</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razborpoletov.com/logoNew.jpg" />
     <itunes:author>Viktor Gamov, Alexey Abashev</itunes:author>
@@ -18,6 +18,95 @@
     </itunes:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:thumbnail url="http://razborpoletov.com/logoNew.jpg" />
+    
+    <item>
+      <title>Episode 271 — Classic - Мы все учились понемногу&#8230;</title>
+      <link>http://razborpoletov.com/2023/12/episode-271.html</link>
+      <pubDate>2023-12-18T00:00:00+00:00</pubDate>
+      <guid isPermalink="true">http://razborpoletov.com/2023/12/episode-271</guid>
+      <description><![CDATA[<div class="paragraph">
+  <p><a href="http://razborpoletov.com/2023/12/episode-271.html">Комментировать</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
+</div>
+<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://t.me/razborfeed">@abashev</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/golodnyj">Антон Черноусов</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://habr.com/ru/articles/780170/" class="bare">https://habr.com/ru/articles/780170/</a></p>
+</li>
+<li>
+<p><a href="https://jacobian.org/2023/dec/5/how-to-decide/" class="bare">https://jacobian.org/2023/dec/5/how-to-decide/</a></p>
+</li>
+<li>
+<p><a href="https://cloud.yandex.ru/blog/posts/2023/12/the-state-of-serverless" class="bare">https://cloud.yandex.ru/blog/posts/2023/12/the-state-of-serverless</a></p>
+</li>
+<li>
+<p><a href="https://t.me/mspiridonov/2648?single" class="bare">https://t.me/mspiridonov/2648?single</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description>
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_271.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_271.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2023/12/episode-271.html
+Telegram канал - https://t.me/razborfeed
+
+Гости и участники
+
+
+
+
+@abashev
+
+
+Антон Черноусов
+
+
+
+
+
+
+Темы
+
+
+
+
+https://habr.com/ru/articles/780170/
+
+
+https://jacobian.org/2023/dec/5/how-to-decide/
+
+
+https://cloud.yandex.ru/blog/posts/2023/12/the-state-of-serverless
+
+
+https://t.me/mspiridonov/2648?single
+
+
+
+
+]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_271_text.jpg" />
+    </item>
     
     <item>
       <title>Episode 270 — Interview - Поле.рф</title>
@@ -4306,107 +4395,6 @@ https://blog.jetbrains.com/idea/2021/01/intellij-idea-2021-1-eap-1/
 
 ]]></itunes:summary>
       <itunes:image href="http://razborpoletov.com/images/razbor_222_text.jpg" />
-    </item>
-    
-    <item>
-      <title>Episode 221 — Classic - AWS vs Elastic</title>
-      <link>http://razborpoletov.com/2021/01/episode-221.html</link>
-      <pubDate>2021-01-26T00:00:00+00:00</pubDate>
-      <guid isPermalink="true">http://razborpoletov.com/2021/01/episode-221</guid>
-      <description><![CDATA[<div class="paragraph">
-  <p><a href="http://razborpoletov.com/2021/01/episode-221.html">Комментировать</a>
-    | <a href="https://t.me/razborfeed">Telegram канал</a>
-  </p>
-</div>
-<div class="sect1">
-<h2 id="Гости-и-участники">Гости и участники</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://twitter.com/a_abashev">@a_abashev</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/antonarhipov">@antonarhipov</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/tolkv">@tolkv</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/bsideup">Сергей Егоров</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Темы">Темы</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://aws.amazon.com/ru/blogs/opensource/stepping-up-for-a-truly-open-source-elasticsearch/" class="bare">https://aws.amazon.com/ru/blogs/opensource/stepping-up-for-a-truly-open-source-elasticsearch/</a></p>
-</li>
-<li>
-<p><a href="https://habr.com/ru/company/jugru/blog/527110/" class="bare">https://habr.com/ru/company/jugru/blog/527110/</a></p>
-</li>
-<li>
-<p><a href="https://www.amazon.com/Open-Source-Business-Practical-Licensing/dp/B086G6XDM1/" class="bare">https://www.amazon.com/Open-Source-Business-Practical-Licensing/dp/B086G6XDM1/</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>]]></description>
-      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_221.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_221.mp3" fileSize="" type="audio/mpeg" />
-      <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2021/01/episode-221.html
-Telegram канал - https://t.me/razborfeed
-
-Гости и участники
-
-
-
-
-@a_abashev
-
-
-@antonarhipov
-
-
-@gamussa
-
-
-@tolkv
-
-
-Сергей Егоров
-
-
-
-
-
-
-Темы
-
-
-
-
-https://aws.amazon.com/ru/blogs/opensource/stepping-up-for-a-truly-open-source-elasticsearch/
-
-
-https://habr.com/ru/company/jugru/blog/527110/
-
-
-https://www.amazon.com/Open-Source-Business-Practical-Licensing/dp/B086G6XDM1/
-
-
-
-
-]]></itunes:summary>
-      <itunes:image href="http://razborpoletov.com/images/razbor_221_text.jpg" />
     </item>
     
   </channel>

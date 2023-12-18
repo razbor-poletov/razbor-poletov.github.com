@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2023-12-16T14:33:25+00:00</updated>
+  <updated>2023-12-18T18:47:45+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,49 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 271 — Classic - Мы все учились понемногу...]]></title>
+    <link href="http://razborpoletov.com/2023/12/episode-271.html"/>
+    <updated>2023-12-18T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2023/12/episode-271</id>
+    <content type="html"><![CDATA[<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://t.me/razborfeed">@abashev</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/golodnyj">Антон Черноусов</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://habr.com/ru/articles/780170/" class="bare">https://habr.com/ru/articles/780170/</a></p>
+</li>
+<li>
+<p><a href="https://jacobian.org/2023/dec/5/how-to-decide/" class="bare">https://jacobian.org/2023/dec/5/how-to-decide/</a></p>
+</li>
+<li>
+<p><a href="https://cloud.yandex.ru/blog/posts/2023/12/the-state-of-serverless" class="bare">https://cloud.yandex.ru/blog/posts/2023/12/the-state-of-serverless</a></p>
+</li>
+<li>
+<p><a href="https://t.me/mspiridonov/2648?single" class="bare">https://t.me/mspiridonov/2648?single</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 270 — Interview - Поле.рф]]></title>
@@ -2077,55 +2120,6 @@
 </li>
 <li>
 <p><a href="https://blog.jetbrains.com/idea/2021/01/intellij-idea-2021-1-eap-1/" class="bare">https://blog.jetbrains.com/idea/2021/01/intellij-idea-2021-1-eap-1/</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 221 — Classic - AWS vs Elastic]]></title>
-    <link href="http://razborpoletov.com/2021/01/episode-221.html"/>
-    <updated>2021-01-26T00:00:00+00:00</updated>
-    <id>http://razborpoletov.com/2021/01/episode-221</id>
-    <content type="html"><![CDATA[<div class="sect1">
-<h2 id="Гости-и-участники">Гости и участники</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://twitter.com/a_abashev">@a_abashev</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/antonarhipov">@antonarhipov</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/tolkv">@tolkv</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/bsideup">Сергей Егоров</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Темы">Темы</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://aws.amazon.com/ru/blogs/opensource/stepping-up-for-a-truly-open-source-elasticsearch/" class="bare">https://aws.amazon.com/ru/blogs/opensource/stepping-up-for-a-truly-open-source-elasticsearch/</a></p>
-</li>
-<li>
-<p><a href="https://habr.com/ru/company/jugru/blog/527110/" class="bare">https://habr.com/ru/company/jugru/blog/527110/</a></p>
-</li>
-<li>
-<p><a href="https://www.amazon.com/Open-Source-Business-Practical-Licensing/dp/B086G6XDM1/" class="bare">https://www.amazon.com/Open-Source-Business-Practical-Licensing/dp/B086G6XDM1/</a></p>
 </li>
 </ul>
 </div>

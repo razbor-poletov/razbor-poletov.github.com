@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2023-12-16T14:33:25+00:00</updated>
+  <updated>2023-12-18T18:47:45+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,49 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 271 — Classic - Мы все учились понемногу...]]></title>
+    <link href="http://razborpoletov.com/2023/12/episode-271.html"/>
+    <updated>2023-12-18T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2023/12/episode-271</id>
+    <content type="html"><![CDATA[<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://t.me/razborfeed">@abashev</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/golodnyj">Антон Черноусов</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://habr.com/ru/articles/780170/" class="bare">https://habr.com/ru/articles/780170/</a></p>
+</li>
+<li>
+<p><a href="https://jacobian.org/2023/dec/5/how-to-decide/" class="bare">https://jacobian.org/2023/dec/5/how-to-decide/</a></p>
+</li>
+<li>
+<p><a href="https://cloud.yandex.ru/blog/posts/2023/12/the-state-of-serverless" class="bare">https://cloud.yandex.ru/blog/posts/2023/12/the-state-of-serverless</a></p>
+</li>
+<li>
+<p><a href="https://t.me/mspiridonov/2648?single" class="bare">https://t.me/mspiridonov/2648?single</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 270 — Interview - Поле.рф]]></title>
