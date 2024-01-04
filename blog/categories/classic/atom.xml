@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Classic | Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/blog/categories/classic/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2023-12-29T18:15:50+00:00</updated>
+  <updated>2024-01-04T18:37:50+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,32 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 272 — Classic - Провожаем 2023й]]></title>
+    <link href="http://razborpoletov.com/2024/01/episode-272.html"/>
+    <updated>2024-01-04T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2024/01/episode-272</id>
+    <content type="html"><![CDATA[<p>== Гости и участники</p>
+
+<ul>
+<li>https://t.me/razborfeed[@abashev]</li>
+<li>https://twitter.com/golodnyj[Антон Черноусов]</li>
+</ul>
+
+
+<p>== Темы</p>
+
+<ul>
+<li>https://www.youtube.com/watch?v=NxpHg_GzpnY</li>
+<li>https://vived.substack.com/p/amazon-q-code-transform-automatic</li>
+<li>https://habr.com/ru/articles/782816/</li>
+<li>https://diplodoc.com/</li>
+<li>https://docusaurus.io/</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 271 — Classic - Мы все учились понемногу...]]></title>
@@ -104,31 +130,6 @@
 <li>https://httptoolkit.com/blog/android-14-breaks-system-certificate-installation/</li>
 <li>https://scale.yandex.ru/program</li>
 <li>https://devoops.ru</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 266 — Classic - Время для программиста]]></title>
-    <link href="http://razborpoletov.com/2023/09/episode-266.html"/>
-    <updated>2023-09-20T00:00:00+00:00</updated>
-    <id>http://razborpoletov.com/2023/09/episode-266</id>
-    <content type="html"><![CDATA[<p>== Гости и участники</p>
-
-<ul>
-<li>https://t.me/razborfeed[@abashev]</li>
-<li>https://twitter.com/golodnyj[Антон Черноусов]</li>
-</ul>
-
-
-<p>== Темы</p>
-
-<ul>
-<li>https://opentf.org/announcement</li>
-<li>https://slack.engineering/slacks-migration-to-a-cellular-architecture/</li>
-<li>https://infiniteundo.com/post/25509354022/more-falsehoods-programmers-believe-about-time</li>
-<li>https://github.com/spring-projects/spring-framework/wiki/What%27s-New-in-Spring-Framework-6.x</li>
 </ul>
 
 ]]></content>
