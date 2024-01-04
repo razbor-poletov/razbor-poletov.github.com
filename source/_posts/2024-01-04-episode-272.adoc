@@ -1,0 +1,20 @@
+---
+layout: episode
+episode: 272
+title: "Episode 272 — Classic - Провожаем 2023й"
+category: Classic
+guests: abashev, golodnyj
+---
+
+== Гости и участники
+
+* https://t.me/razborfeed[@abashev]
+* https://twitter.com/golodnyj[Антон Черноусов]
+
+== Темы
+
+* https://www.youtube.com/watch?v=NxpHg_GzpnY
+* https://vived.substack.com/p/amazon-q-code-transform-automatic
+* https://habr.com/ru/articles/782816/
+* https://diplodoc.com/
+* https://docusaurus.io/
