@@ -1,0 +1,19 @@
+---
+layout: episode
+episode: 273
+title: "Episode 273 — Classic - I'll be back"
+category: Classic
+guests: abashev, golodnyj
+---
+
+== Гости и участники
+
+* https://t.me/razborfeed[@abashev]
+* https://twitter.com/golodnyj[Антон Черноусов]
+
+== Темы
+
+* https://www.infoq.com/articles/cloud-computing-post-serverless-trends/
+* https://habr.com/ru/articles/562722/
+* https://snyk.io/blog/leaky-vessels-docker-runc-container-breakout-vulnerabilities/
+* https://cloud.yandex.ru/ru/training/greenplum
