@@ -6,8 +6,8 @@
     <atom:link href="http://razborpoletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2024-02-27T10:48:31+00:00</pubDate>
-    <lastBuildDate>2024-02-27T10:48:31+00:00</lastBuildDate>
+    <pubDate>2024-02-27T19:46:15+00:00</pubDate>
+    <lastBuildDate>2024-02-27T19:46:15+00:00</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razborpoletov.com/logoNew.jpg" />
     <itunes:author>Viktor Gamov, Alexey Abashev</itunes:author>
@@ -18,6 +18,95 @@
     </itunes:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:thumbnail url="http://razborpoletov.com/logoNew.jpg" />
+    
+    <item>
+      <title>Episode 273 — Classic - I&#8217;ll be back</title>
+      <link>http://razborpoletov.com/2024/02/episode-273.html</link>
+      <pubDate>2024-02-28T00:00:00+00:00</pubDate>
+      <guid isPermalink="true">http://razborpoletov.com/2024/02/episode-273</guid>
+      <description><![CDATA[<div class="paragraph">
+  <p><a href="http://razborpoletov.com/2024/02/episode-273.html">Комментировать</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
+</div>
+<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://t.me/razborfeed">@abashev</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/golodnyj">Антон Черноусов</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://www.infoq.com/articles/cloud-computing-post-serverless-trends/" class="bare">https://www.infoq.com/articles/cloud-computing-post-serverless-trends/</a></p>
+</li>
+<li>
+<p><a href="https://habr.com/ru/articles/562722/" class="bare">https://habr.com/ru/articles/562722/</a></p>
+</li>
+<li>
+<p><a href="https://snyk.io/blog/leaky-vessels-docker-runc-container-breakout-vulnerabilities/" class="bare">https://snyk.io/blog/leaky-vessels-docker-runc-container-breakout-vulnerabilities/</a></p>
+</li>
+<li>
+<p><a href="https://cloud.yandex.ru/ru/training/greenplum" class="bare">https://cloud.yandex.ru/ru/training/greenplum</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description>
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_273.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_273.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2024/02/episode-273.html
+Telegram канал - https://t.me/razborfeed
+
+Гости и участники
+
+
+
+
+@abashev
+
+
+Антон Черноусов
+
+
+
+
+
+
+Темы
+
+
+
+
+https://www.infoq.com/articles/cloud-computing-post-serverless-trends/
+
+
+https://habr.com/ru/articles/562722/
+
+
+https://snyk.io/blog/leaky-vessels-docker-runc-container-breakout-vulnerabilities/
+
+
+https://cloud.yandex.ru/ru/training/greenplum
+
+
+
+
+]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_273_text.jpg" />
+    </item>
     
     <item>
       <title>Episode 272 — Classic - Провожаем 2023й</title>
@@ -4336,65 +4425,6 @@ Telegram канал - https://t.me/razborfeed
 
 ]]></itunes:summary>
       <itunes:image href="http://razborpoletov.com/images/razbor_224_text.jpg" />
-    </item>
-    
-    <item>
-      <title>Episode 223 — Classic - Ты делаешь open-source, но делаешь это без любви</title>
-      <link>http://razborpoletov.com/2021/02/episode-223.html</link>
-      <pubDate>2021-02-12T00:00:00+00:00</pubDate>
-      <guid isPermalink="true">http://razborpoletov.com/2021/02/episode-223</guid>
-      <description><![CDATA[<div class="paragraph">
-  <p><a href="http://razborpoletov.com/2021/02/episode-223.html">Комментировать</a>
-    | <a href="https://t.me/razborfeed">Telegram канал</a>
-  </p>
-</div>
-<div class="sect1">
-<h2 id="Гости-и-участники">Гости и участники</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://twitter.com/antonarhipov">@antonarhipov</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/tolkv">@tolkv</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/bsideup">Сергей Егоров</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>]]></description>
-      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_223.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_223.mp3" fileSize="" type="audio/mpeg" />
-      <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2021/02/episode-223.html
-Telegram канал - https://t.me/razborfeed
-
-Гости и участники
-
-
-
-
-@antonarhipov
-
-
-@gamussa
-
-
-@tolkv
-
-
-Сергей Егоров
-
-
-
-
-]]></itunes:summary>
-      <itunes:image href="http://razborpoletov.com/images/razbor_223_text.jpg" />
     </item>
     
   </channel>

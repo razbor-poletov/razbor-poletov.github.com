@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2024-02-27T10:48:31+00:00</updated>
+  <updated>2024-02-27T19:46:15+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,49 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 273 — Classic - I'll be back]]></title>
+    <link href="http://razborpoletov.com/2024/02/episode-273.html"/>
+    <updated>2024-02-28T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2024/02/episode-273</id>
+    <content type="html"><![CDATA[<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://t.me/razborfeed">@abashev</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/golodnyj">Антон Черноусов</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://www.infoq.com/articles/cloud-computing-post-serverless-trends/" class="bare">https://www.infoq.com/articles/cloud-computing-post-serverless-trends/</a></p>
+</li>
+<li>
+<p><a href="https://habr.com/ru/articles/562722/" class="bare">https://habr.com/ru/articles/562722/</a></p>
+</li>
+<li>
+<p><a href="https://snyk.io/blog/leaky-vessels-docker-runc-container-breakout-vulnerabilities/" class="bare">https://snyk.io/blog/leaky-vessels-docker-runc-container-breakout-vulnerabilities/</a></p>
+</li>
+<li>
+<p><a href="https://cloud.yandex.ru/ru/training/greenplum" class="bare">https://cloud.yandex.ru/ru/training/greenplum</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 272 — Classic - Провожаем 2023й]]></title>
