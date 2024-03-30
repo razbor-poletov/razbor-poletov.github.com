@@ -1,0 +1,13 @@
+---
+layout: episode
+episode: 274
+title: "Episode 274 — Interview - Ракушка не виновата"
+category: interview
+guests: abashev, golodnyj, butov
+---
+
+== Гости и участники
+
+* https://t.me/razborfeed[@abashev]
+* https://twitter.com/golodnyj[Антон Черноусов]
+* https://t.me/prosto_butov[Андрей Бутов]
