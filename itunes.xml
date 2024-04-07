@@ -6,8 +6,8 @@
     <atom:link href="http://razborpoletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2024-04-06T06:01:43+00:00</pubDate>
-    <lastBuildDate>2024-04-06T06:01:43+00:00</lastBuildDate>
+    <pubDate>2024-04-07T21:11:21+00:00</pubDate>
+    <lastBuildDate>2024-04-07T21:11:21+00:00</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razborpoletov.com/logoNew.jpg" />
     <itunes:author>Viktor Gamov, Alexey Abashev</itunes:author>
@@ -18,6 +18,95 @@
     </itunes:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:thumbnail url="http://razborpoletov.com/logoNew.jpg" />
+    
+    <item>
+      <title>Episode 275 — Classic - Be clear, not clever</title>
+      <link>http://razborpoletov.com/2024/04/episode-275.html</link>
+      <pubDate>2024-04-08T00:00:00+00:00</pubDate>
+      <guid isPermalink="true">http://razborpoletov.com/2024/04/episode-275</guid>
+      <description><![CDATA[<div class="paragraph">
+  <p><a href="http://razborpoletov.com/2024/04/episode-275.html">Комментировать</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
+</div>
+<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://t.me/razborfeed">@abashev</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/golodnyj">Антон Черноусов</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://support.cryptopro.ru/index.php?/Knowledgebase/Article/View/454/2/blokirovk-kriptopro" class="bare">https://support.cryptopro.ru/index.php?/Knowledgebase/Article/View/454/2/blokirovk-kriptopro</a></p>
+</li>
+<li>
+<p><a href="https://research.nplus1.ru/#about" class="bare">https://research.nplus1.ru/#about</a></p>
+</li>
+<li>
+<p><a href="https://www.computerweekly.com/news/366572453/Rapid7-hits-out-over-botched-vulnerability-disclosure" class="bare">https://www.computerweekly.com/news/366572453/Rapid7-hits-out-over-botched-vulnerability-disclosure</a></p>
+</li>
+<li>
+<p><a href="https://blog.jetbrains.com/idea/2024/02/java-best-practices/" class="bare">https://blog.jetbrains.com/idea/2024/02/java-best-practices/</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description>
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_275.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_275.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2024/04/episode-275.html
+Telegram канал - https://t.me/razborfeed
+
+Гости и участники
+
+
+
+
+@abashev
+
+
+Антон Черноусов
+
+
+
+
+
+
+Темы
+
+
+
+
+https://support.cryptopro.ru/index.php?/Knowledgebase/Article/View/454/2/blokirovk-kriptopro
+
+
+https://research.nplus1.ru/#about
+
+
+https://www.computerweekly.com/news/366572453/Rapid7-hits-out-over-botched-vulnerability-disclosure
+
+
+https://blog.jetbrains.com/idea/2024/02/java-best-practices/
+
+
+
+
+]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_275_text.jpg" />
+    </item>
     
     <item>
       <title>Episode 274 — Interview - Ракушка не виновата</title>
@@ -4330,101 +4419,6 @@ Telegram канал - https://t.me/razborfeed
 
 ]]></itunes:summary>
       <itunes:image href="http://razborpoletov.com/images/razbor_226_text.jpg" />
-    </item>
-    
-    <item>
-      <title>Episode 225 — Interview - Облакааааа, кубернетес и апишки&#8230;</title>
-      <link>http://razborpoletov.com/2021/03/episode-225.html</link>
-      <pubDate>2021-03-11T00:00:00+00:00</pubDate>
-      <guid isPermalink="true">http://razborpoletov.com/2021/03/episode-225</guid>
-      <description><![CDATA[<div class="paragraph">
-  <p><a href="http://razborpoletov.com/2021/03/episode-225.html">Комментировать</a>
-    | <a href="https://t.me/razborfeed">Telegram канал</a>
-  </p>
-</div>
-<div class="sect1">
-<h2 id="Гости-и-участники">Гости и участники</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://twitter.com/tolkv">@tolkv</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/a_abashev">@a_abashev</a></p>
-</li>
-<li>
-<p><a href="https://www.instagram.com/sadonerer/">Дмитрий Дубовицкий</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Темы">Темы</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p>Что делать, если куберы живут в разных облаках</p>
-</li>
-<li>
-<p>Проблема «лебедь, рак и щука»: каждая команда хочет свое</p>
-</li>
-<li>
-<p>Подводные камни быстрого внедрения: API еще нет, а вам очень надо</p>
-</li>
-<li>
-<p>Живы ли bash scripts в проде?</p>
-</li>
-</ul>
-</div>
-</div>
-</div>]]></description>
-      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_225.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_225.mp3" fileSize="" type="audio/mpeg" />
-      <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2021/03/episode-225.html
-Telegram канал - https://t.me/razborfeed
-
-Гости и участники
-
-
-
-
-@tolkv
-
-
-@a_abashev
-
-
-Дмитрий Дубовицкий
-
-
-
-
-
-
-Темы
-
-
-
-
-Что делать, если куберы живут в разных облаках
-
-
-Проблема «лебедь, рак и щука»: каждая команда хочет свое
-
-
-Подводные камни быстрого внедрения: API еще нет, а вам очень надо
-
-
-Живы ли bash scripts в проде?
-
-
-
-
-]]></itunes:summary>
-      <itunes:image href="http://razborpoletov.com/images/razbor_225_text.jpg" />
     </item>
     
   </channel>
