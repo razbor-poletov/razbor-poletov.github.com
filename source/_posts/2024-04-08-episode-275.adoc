@@ -1,0 +1,19 @@
+---
+layout: episode
+episode: 275
+title: "Episode 275 — Classic - Be clear, not clever"
+category: classic
+guests: abashev, golodnyj
+---
+
+== Гости и участники
+
+* https://t.me/razborfeed[@abashev]
+* https://twitter.com/golodnyj[Антон Черноусов]
+
+== Темы
+
+* https://support.cryptopro.ru/index.php?/Knowledgebase/Article/View/454/2/blokirovk-kriptopro
+* https://research.nplus1.ru/#about
+* https://www.computerweekly.com/news/366572453/Rapid7-hits-out-over-botched-vulnerability-disclosure
+* https://blog.jetbrains.com/idea/2024/02/java-best-practices/
