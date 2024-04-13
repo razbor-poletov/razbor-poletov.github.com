@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2024-04-11T21:49:24+00:00</updated>
+  <updated>2024-04-13T07:54:59+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,55 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 276 — Classic - Как до жирафа]]></title>
+    <link href="http://razborpoletov.com/2024/04/episode-276.html"/>
+    <updated>2024-04-13T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2024/04/episode-276</id>
+    <content type="html"><![CDATA[<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://t.me/razborfeed">@abashev</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/golodnyj">Антон Черноусов</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://gizmodo.com/amazon-reportedly-ditches-just-walk-out-grocery-stores-1851381116" class="bare">https://gizmodo.com/amazon-reportedly-ditches-just-walk-out-grocery-stores-1851381116</a></p>
+</li>
+<li>
+<p><a href="https://techcrunch.com/2024/03/31/why-aws-google-and-oracle-are-backing-the-valkey-redis-fork/" class="bare">https://techcrunch.com/2024/03/31/why-aws-google-and-oracle-are-backing-the-valkey-redis-fork/</a></p>
+</li>
+<li>
+<p><a href="https://habr.com/ru/companies/jugru/articles/803549/" class="bare">https://habr.com/ru/companies/jugru/articles/803549/</a></p>
+</li>
+<li>
+<p><a href="https://gist.github.com/quad/bc2351e2df4a4a815f8e0d19f36cfa80" class="bare">https://gist.github.com/quad/bc2351e2df4a4a815f8e0d19f36cfa80</a></p>
+</li>
+<li>
+<p><a href="https://redict.io/" class="bare">https://redict.io/</a></p>
+</li>
+<li>
+<p><a href="https://yandex.cloud/ru/certification" class="bare">https://yandex.cloud/ru/certification</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 275 — Classic - Be clear, not clever]]></title>
