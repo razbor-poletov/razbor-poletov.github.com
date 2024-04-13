@@ -1,0 +1,21 @@
+---
+layout: episode
+episode: 276
+title: "Episode 276 — Classic - Как до жирафа"
+category: classic
+guests: abashev, golodnyj
+---
+
+== Гости и участники
+
+* https://t.me/razborfeed[@abashev]
+* https://twitter.com/golodnyj[Антон Черноусов]
+
+== Темы
+
+* https://gizmodo.com/amazon-reportedly-ditches-just-walk-out-grocery-stores-1851381116
+* https://techcrunch.com/2024/03/31/why-aws-google-and-oracle-are-backing-the-valkey-redis-fork/
+* https://habr.com/ru/companies/jugru/articles/803549/
+* https://gist.github.com/quad/bc2351e2df4a4a815f8e0d19f36cfa80
+* https://redict.io/
+* https://yandex.cloud/ru/certification
