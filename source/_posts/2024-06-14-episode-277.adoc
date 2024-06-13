@@ -1,0 +1,13 @@
+---
+layout: episode
+episode: 277
+title: "Episode 277 — Interview - GitFlic"
+category: interview
+guests: abashev, golodnyj, kozlov
+---
+
+== Гости и участники
+
+* https://t.me/razborfeed[@abashev]
+* https://twitter.com/golodnyj[Антон Черноусов]
+* https://gitflic.ru/[Максим Козлов, технический директор GitFlic]
