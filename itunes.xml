@@ -6,8 +6,8 @@
     <atom:link href="http://razborpoletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2024-06-13T19:52:48+00:00</pubDate>
-    <lastBuildDate>2024-06-13T19:52:48+00:00</lastBuildDate>
+    <pubDate>2024-06-23T14:01:07+00:00</pubDate>
+    <lastBuildDate>2024-06-23T14:01:07+00:00</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razborpoletov.com/logoNew.jpg" />
     <itunes:author>Viktor Gamov, Alexey Abashev</itunes:author>
@@ -18,6 +18,97 @@
     </itunes:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:thumbnail url="http://razborpoletov.com/logoNew.jpg" />
+    
+    <item>
+      <title>Episode 278 — Classic - Inadvertent misconfiguration</title>
+      <link>http://razborpoletov.com/2024/06/episode-278.html</link>
+      <pubDate>2024-06-23T00:00:00+00:00</pubDate>
+      <guid isPermalink="true">http://razborpoletov.com/2024/06/episode-278</guid>
+      <description><![CDATA[<div class="paragraph">
+  <p><a href="http://razborpoletov.com/2024/06/episode-278.html">Комментировать</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
+</div>
+<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://t.me/razborfeed">@abashev</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/golodnyj">Антон Черноусов</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://world.hey.com/dhh/we-re-moving-continuous-integration-back-to-developer-machines-3ac6c611" class="bare">https://world.hey.com/dhh/we-re-moving-continuous-integration-back-to-developer-machines-3ac6c611</a></p>
+</li>
+<li>
+<p><a href="https://www.jeffgeerling.com/blog/2024/corporate-open-source-dead" class="bare">https://www.jeffgeerling.com/blog/2024/corporate-open-source-dead</a>
+<a href="https://habr.com/ru/articles/813429/" class="bare">https://habr.com/ru/articles/813429/</a></p>
+</li>
+<li>
+<p><a href="https://www.theregister.com/2024/05/09/unisuper_google_cloud_outage_caused/" class="bare">https://www.theregister.com/2024/05/09/unisuper_google_cloud_outage_caused/</a></p>
+</li>
+<li>
+<p><a href="https://brooker.co.za/blog/2024/05/09/nagle.html" class="bare">https://brooker.co.za/blog/2024/05/09/nagle.html</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description>
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_278.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_278.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2024/06/episode-278.html
+Telegram канал - https://t.me/razborfeed
+
+Гости и участники
+
+
+
+
+@abashev
+
+
+Антон Черноусов
+
+
+
+
+
+
+Темы
+
+
+
+
+https://world.hey.com/dhh/we-re-moving-continuous-integration-back-to-developer-machines-3ac6c611
+
+
+https://www.jeffgeerling.com/blog/2024/corporate-open-source-dead
+https://habr.com/ru/articles/813429/
+
+
+https://www.theregister.com/2024/05/09/unisuper_google_cloud_outage_caused/
+
+
+https://brooker.co.za/blog/2024/05/09/nagle.html
+
+
+
+
+]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_278_text.jpg" />
+    </item>
     
     <item>
       <title>Episode 277 — Interview - GitFlic</title>
@@ -4258,89 +4349,6 @@ https://yandex.ru/promo/events/weekend-offer-backend?from=Razbor_Poletov
 
 ]]></itunes:summary>
       <itunes:image href="http://razborpoletov.com/images/razbor_229_text.jpg" />
-    </item>
-    
-    <item>
-      <title>Episode 228 — Interview - Куда расти архитектору</title>
-      <link>http://razborpoletov.com/2021/05/episode-228.html</link>
-      <pubDate>2021-05-30T00:00:00+00:00</pubDate>
-      <guid isPermalink="true">http://razborpoletov.com/2021/05/episode-228</guid>
-      <description><![CDATA[<div class="paragraph">
-  <p><a href="http://razborpoletov.com/2021/05/episode-228.html">Комментировать</a>
-    | <a href="https://t.me/razborfeed">Telegram канал</a>
-  </p>
-</div>
-<div class="sect1">
-<h2 id="РЕКЛАМА">РЕКЛАМА</h2>
-<div class="sectionbody">
-<div class="paragraph">
-<p>Как решать глобальные задачи, не уезжая из родного города
-Возможно ли заниматься международными IT-проектами из дома и построить серьёзную карьеру, не покидая родного города?</p>
-</div>
-<div class="paragraph">
-<p>В Luxoft можно! В Luxoft нанимают специалистов во всех регионах России. Стать ведущим программистом, аналитиком, тестировщиком, project-менеджером в крупных международных проектах, не покидая родного города стало очень просто.</p>
-</div>
-<div class="paragraph">
-<p>Найти вакансию своей мечты и порекомендовать подходящего человека всегда можно на сайте <a href="http://career.luxoft.com/job-opportunities/?keyword=&amp;country%5B%5D=russian%2Bfederation&amp;city%5B%5D=remote%2Brussia&amp;specialization=&amp;set_filter=Y&amp;utm_source=podcast&amp;utm_medium=post&amp;utm_campaign=20210402_b2e_wfa-ru" class="bare">http://career.luxoft.com/job-opportunities/?keyword=&amp;country%5B%5D=russian%2Bfederation&amp;city%5B%5D=remote%2Brussia&amp;specialization=&amp;set_filter=Y&amp;utm_source=podcast&amp;utm_medium=post&amp;utm_campaign=20210402_b2e_wfa-ru</a></p>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Гости-и-участники">Гости и участники</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://t.me/dvoloshyn">Дмитро Волошин</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
-</li>
-<li>
-<p><a href="https://t.me/razborfeed">@a_abashev</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>]]></description>
-      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_228.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_228.mp3" fileSize="" type="audio/mpeg" />
-      <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2021/05/episode-228.html
-Telegram канал - https://t.me/razborfeed
-
-РЕКЛАМА
-
-
-Как решать глобальные задачи, не уезжая из родного города
-Возможно ли заниматься международными IT-проектами из дома и построить серьёзную карьеру, не покидая родного города?
-
-
-В Luxoft можно! В Luxoft нанимают специалистов во всех регионах России. Стать ведущим программистом, аналитиком, тестировщиком, project-менеджером в крупных международных проектах, не покидая родного города стало очень просто.
-
-
-Найти вакансию своей мечты и порекомендовать подходящего человека всегда можно на сайте http://career.luxoft.com/job-opportunities/?keyword=&amp;country%5B%5D=russian%2Bfederation&amp;city%5B%5D=remote%2Brussia&amp;specialization=&amp;set_filter=Y&amp;utm_source=podcast&amp;utm_medium=post&amp;utm_campaign=20210402_b2e_wfa-ru
-
-
-
-
-Гости и участники
-
-
-
-
-Дмитро Волошин
-
-
-@gamussa
-
-
-@a_abashev
-
-
-
-
-]]></itunes:summary>
-      <itunes:image href="http://razborpoletov.com/images/razbor_228_text.jpg" />
     </item>
     
   </channel>
