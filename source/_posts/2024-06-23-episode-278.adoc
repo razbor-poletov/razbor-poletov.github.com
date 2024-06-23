@@ -1,0 +1,21 @@
+---
+layout: episode
+episode: 278
+title: "Episode 278 — Classic - Inadvertent misconfiguration"
+category: classic
+guests: abashev, golodnyj
+---
+
+== Гости и участники
+
+* https://t.me/razborfeed[@abashev]
+* https://twitter.com/golodnyj[Антон Черноусов]
+
+
+== Темы
+
+* https://world.hey.com/dhh/we-re-moving-continuous-integration-back-to-developer-machines-3ac6c611
+* https://www.jeffgeerling.com/blog/2024/corporate-open-source-dead
+https://habr.com/ru/articles/813429/
+* https://www.theregister.com/2024/05/09/unisuper_google_cloud_outage_caused/
+* https://brooker.co.za/blog/2024/05/09/nagle.html
