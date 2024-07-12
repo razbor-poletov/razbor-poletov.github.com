@@ -1,0 +1,21 @@
+---
+layout: episode
+episode: 279
+title: "Episode 279 — Classic - Пока не сдох"
+category: classic
+guests: abashev, golodnyj
+---
+
+== Гости и участники
+
+* https://t.me/razborfeed[@abashev]
+* https://twitter.com/golodnyj[Антон Черноусов]
+
+
+== Темы
+
+* https://habr.com/ru/companies/yandex_cloud_and_infra/articles/810907/
+* https://www.tomshardware.com/tech-industry/semiconductors/rampant-speculation-of-blacklisted-huawei-becoming-chinas-largest-beef-importer-stems-from-an-odd-payment-method-for-telecom-equipment
+* https://www.sonatype.com/blog/maven-central-and-the-tragedy-of-the-commons
+* https://sourcegraph.com/blog/the-death-of-the-junior-developer
+* https://www.yegor256.com/2024/06/23/medals-to-win.html
