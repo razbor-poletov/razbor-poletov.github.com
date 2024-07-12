@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2024-07-10T10:18:57+00:00</updated>
+  <updated>2024-07-12T20:17:36+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,52 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 279 — Classic - Пока не сдох]]></title>
+    <link href="http://razborpoletov.com/2024/07/episode-279.html"/>
+    <updated>2024-07-13T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2024/07/episode-279</id>
+    <content type="html"><![CDATA[<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://t.me/razborfeed">@abashev</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/golodnyj">Антон Черноусов</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://habr.com/ru/companies/yandex_cloud_and_infra/articles/810907/" class="bare">https://habr.com/ru/companies/yandex_cloud_and_infra/articles/810907/</a></p>
+</li>
+<li>
+<p><a href="https://www.tomshardware.com/tech-industry/semiconductors/rampant-speculation-of-blacklisted-huawei-becoming-chinas-largest-beef-importer-stems-from-an-odd-payment-method-for-telecom-equipment" class="bare">https://www.tomshardware.com/tech-industry/semiconductors/rampant-speculation-of-blacklisted-huawei-becoming-chinas-largest-beef-importer-stems-from-an-odd-payment-method-for-telecom-equipment</a></p>
+</li>
+<li>
+<p><a href="https://www.sonatype.com/blog/maven-central-and-the-tragedy-of-the-commons" class="bare">https://www.sonatype.com/blog/maven-central-and-the-tragedy-of-the-commons</a></p>
+</li>
+<li>
+<p><a href="https://sourcegraph.com/blog/the-death-of-the-junior-developer" class="bare">https://sourcegraph.com/blog/the-death-of-the-junior-developer</a></p>
+</li>
+<li>
+<p><a href="https://www.yegor256.com/2024/06/23/medals-to-win.html" class="bare">https://www.yegor256.com/2024/06/23/medals-to-win.html</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 278 — Classic - Inadvertent misconfiguration]]></title>
@@ -2067,36 +2113,6 @@
 </li>
 <li>
 <p><a href="https://twitter.com/tolkv">@tolkv</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 229 — Interview — Как происходит разработка инструментов для партнёров в Яндекс]]></title>
-    <link href="http://razborpoletov.com/2021/05/episode-229.html"/>
-    <updated>2021-05-31T00:00:00+00:00</updated>
-    <id>http://razborpoletov.com/2021/05/episode-229</id>
-    <content type="html"><![CDATA[<div class="sect1">
-<h2 id="weekend-offer-backend">Weekend offer backend</h2>
-<div class="sectionbody">
-<div class="paragraph">
-<p><a href="https://yandex.ru/promo/events/weekend-offer-backend?from=Razbor_Poletov" class="bare">https://yandex.ru/promo/events/weekend-offer-backend?from=Razbor_Poletov</a></p>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Гости-и-участники">Гости и участники</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p>Сергей Федосеенков</p>
-</li>
-<li>
-<p><a href="https://t.me/razborfeed">@a_abashev</a></p>
 </li>
 </ul>
 </div>
