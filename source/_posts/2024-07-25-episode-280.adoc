@@ -1,0 +1,23 @@
+---
+layout: episode
+episode: 280
+title: "Episode 280 — Classic - Голуби летят над нашей технологической зоной"
+category: classic
+guests: abashev, golodnyj
+---
+
+== Гости и участники
+
+* https://t.me/razborfeed[@abashev]
+* https://twitter.com/golodnyj[Антон Черноусов]
+
+
+== Темы
+
+* https://cfp.highload.ru/moscow[CFP HighLoad++ 2024]
+* https://www.wsj.com/business/deals/google-near-23-billion-deal-for-cybersecurity-startup-wiz-622edf1a[Google Near $23 Billion Deal for Cybersecurity Startup Wiz]
+* https://yandex.ru/company/news/01-15-07-2024[Яндекс завершил реструктуризацию]
+* https://www.bloomberg.com/news/articles/2024-07-15/yandex-founder-volozh-to-return-as-ceo-after-sanctions-dropped[Yandex Founder Volozh to Return as CEO After Sanctions Dropped ]
+* https://rutube.ru/video/c51961b7798256d4d5fcbf429aa54d88/[Запись доклада Анатолия Шипова, Олега Чирухина и Андрея Слекеничса о GIGA IDE]
+* https://spectrum.ieee.org/chatgpt-for-coding
+* https://blog.codinghorror.com/no-matter-what-they-tell-you-its-a-people-problem/
