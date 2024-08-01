@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2024-07-29T07:47:28+00:00</updated>
+  <updated>2024-08-01T15:31:12+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,55 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 281 — Classic - Синие]]></title>
+    <link href="http://razborpoletov.com/2024/08/episode-281.html"/>
+    <updated>2024-08-02T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2024/08/episode-281</id>
+    <content type="html"><![CDATA[<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://t.me/razborfeed">@abashev</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/golodnyj">Антон Черноусов</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://t.me/taoplive/505">На Мосбирже начались торги акциями Яндекса под новым тикером YDEX</a></p>
+</li>
+<li>
+<p><a href="https://techcrunch.com/2024/07/22/wiz-walks-away-from-googles-23b-acquisition-offer-read-the-ceos-note-to-employees/">Wiz сбежал от Google</a></p>
+</li>
+<li>
+<p><a href="https://www.theverge.com/2024/7/19/24201717/windows-bsod-crowdstrike-outage-issue">Синие экраны благодаря CrowdStrike</a></p>
+</li>
+<li>
+<p><a href="https://www.crowdstrike.com/falcon-content-update-remediation-and-guidance-hub/">Postmortem от CrowdStrike</a></p>
+</li>
+<li>
+<p><a href="https://highload.ru/moscow/2024">CFP HighLoad 2024</a></p>
+</li>
+<li>
+<p><a href="https://devopsrussia.ru/">State of DevOps 2024</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 280 — Classic - Голуби летят над нашей технологической зоной]]></title>

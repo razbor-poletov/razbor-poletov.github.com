@@ -6,8 +6,8 @@
     <atom:link href="http://razborpoletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2024-07-29T07:47:28+00:00</pubDate>
-    <lastBuildDate>2024-07-29T07:47:28+00:00</lastBuildDate>
+    <pubDate>2024-08-01T15:31:12+00:00</pubDate>
+    <lastBuildDate>2024-08-01T15:31:12+00:00</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razborpoletov.com/logoNew.jpg" />
     <itunes:author>Viktor Gamov, Alexey Abashev</itunes:author>
@@ -18,6 +18,107 @@
     </itunes:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:thumbnail url="http://razborpoletov.com/logoNew.jpg" />
+    
+    <item>
+      <title>Episode 281 — Classic - Синие</title>
+      <link>http://razborpoletov.com/2024/08/episode-281.html</link>
+      <pubDate>2024-08-02T00:00:00+00:00</pubDate>
+      <guid isPermalink="true">http://razborpoletov.com/2024/08/episode-281</guid>
+      <description><![CDATA[<div class="paragraph">
+  <p><a href="http://razborpoletov.com/2024/08/episode-281.html">Комментировать</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
+</div>
+<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://t.me/razborfeed">@abashev</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/golodnyj">Антон Черноусов</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://t.me/taoplive/505">На Мосбирже начались торги акциями Яндекса под новым тикером YDEX</a></p>
+</li>
+<li>
+<p><a href="https://techcrunch.com/2024/07/22/wiz-walks-away-from-googles-23b-acquisition-offer-read-the-ceos-note-to-employees/">Wiz сбежал от Google</a></p>
+</li>
+<li>
+<p><a href="https://www.theverge.com/2024/7/19/24201717/windows-bsod-crowdstrike-outage-issue">Синие экраны благодаря CrowdStrike</a></p>
+</li>
+<li>
+<p><a href="https://www.crowdstrike.com/falcon-content-update-remediation-and-guidance-hub/">Postmortem от CrowdStrike</a></p>
+</li>
+<li>
+<p><a href="https://highload.ru/moscow/2024">CFP HighLoad 2024</a></p>
+</li>
+<li>
+<p><a href="https://devopsrussia.ru/">State of DevOps 2024</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description>
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_281.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_281.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2024/08/episode-281.html
+Telegram канал - https://t.me/razborfeed
+
+Гости и участники
+
+
+
+
+@abashev
+
+
+Антон Черноусов
+
+
+
+
+
+
+Темы
+
+
+
+
+На Мосбирже начались торги акциями Яндекса под новым тикером YDEX
+
+
+Wiz сбежал от Google
+
+
+Синие экраны благодаря CrowdStrike
+
+
+Postmortem от CrowdStrike
+
+
+CFP HighLoad 2024
+
+
+State of DevOps 2024
+
+
+
+
+]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_281_text.jpg" />
+    </item>
     
     <item>
       <title>Episode 280 — Classic - Голуби летят над нашей технологической зоной</title>
@@ -4334,101 +4435,6 @@ Telegram канал - https://t.me/razborfeed
 
 ]]></itunes:summary>
       <itunes:image href="http://razborpoletov.com/images/razbor_232_text.jpg" />
-    </item>
-    
-    <item>
-      <title>Episode 231 — Classic - Ложь, большая ложь и статистика</title>
-      <link>http://razborpoletov.com/2021/07/episode-231.html</link>
-      <pubDate>2021-07-15T00:00:00+00:00</pubDate>
-      <guid isPermalink="true">http://razborpoletov.com/2021/07/episode-231</guid>
-      <description><![CDATA[<div class="paragraph">
-  <p><a href="http://razborpoletov.com/2021/07/episode-231.html">Комментировать</a>
-    | <a href="https://t.me/razborfeed">Telegram канал</a>
-  </p>
-</div>
-<div class="sect1">
-<h2 id="Гости-и-участники">Гости и участники</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://t.me/razborfeed">@a_abashev</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/antonarhipov">@antonarhipov</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/golodnyj">Антон Черноусов</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Темы">Темы</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://elisabethirgens.github.io/notes/2021/06/code-reviews/" class="bare">https://elisabethirgens.github.io/notes/2021/06/code-reviews/</a></p>
-</li>
-<li>
-<p><a href="https://www.vadimkravcenko.com/en/how-to-build-remote-teams-properly/" class="bare">https://www.vadimkravcenko.com/en/how-to-build-remote-teams-properly/</a></p>
-</li>
-<li>
-<p><a href="https://res.cloudinary.com/snyk/image/upload/v1623860216/reports/jvm-ecosystem-report-2021.pdf" class="bare">https://res.cloudinary.com/snyk/image/upload/v1623860216/reports/jvm-ecosystem-report-2021.pdf</a></p>
-</li>
-<li>
-<p><a href="https://www.howtodeal.dev/" class="bare">https://www.howtodeal.dev/</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>]]></description>
-      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_231.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_231.mp3" fileSize="" type="audio/mpeg" />
-      <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2021/07/episode-231.html
-Telegram канал - https://t.me/razborfeed
-
-Гости и участники
-
-
-
-
-@a_abashev
-
-
-@antonarhipov
-
-
-Антон Черноусов
-
-
-
-
-
-
-Темы
-
-
-
-
-https://elisabethirgens.github.io/notes/2021/06/code-reviews/
-
-
-https://www.vadimkravcenko.com/en/how-to-build-remote-teams-properly/
-
-
-https://res.cloudinary.com/snyk/image/upload/v1623860216/reports/jvm-ecosystem-report-2021.pdf
-
-
-https://www.howtodeal.dev/
-
-
-
-
-]]></itunes:summary>
-      <itunes:image href="http://razborpoletov.com/images/razbor_231_text.jpg" />
     </item>
     
   </channel>
