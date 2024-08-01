@@ -1,0 +1,22 @@
+---
+layout: episode
+episode: 281
+title: "Episode 281 — Classic - Синие"
+category: classic
+guests: abashev, golodnyj
+---
+
+== Гости и участники
+
+* https://t.me/razborfeed[@abashev]
+* https://twitter.com/golodnyj[Антон Черноусов]
+
+
+== Темы
+
+* https://t.me/taoplive/505[На Мосбирже начались торги акциями Яндекса под новым тикером YDEX]
+* https://techcrunch.com/2024/07/22/wiz-walks-away-from-googles-23b-acquisition-offer-read-the-ceos-note-to-employees/[Wiz сбежал от Google]
+* https://www.theverge.com/2024/7/19/24201717/windows-bsod-crowdstrike-outage-issue[Синие экраны благодаря CrowdStrike]
+* https://www.crowdstrike.com/falcon-content-update-remediation-and-guidance-hub/[Postmortem от CrowdStrike]
+* https://highload.ru/moscow/2024[CFP HighLoad 2024]
+* https://devopsrussia.ru/[State of DevOps 2024]
