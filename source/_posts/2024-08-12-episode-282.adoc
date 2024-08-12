@@ -1,0 +1,26 @@
+---
+layout: episode
+episode: 282
+title: "Episode 282 — Classic - Кунг-фу"
+category: classic
+guests: abashev, golodnyj
+---
+
+== Гости и участники
+
+* https://t.me/razborfeed[@abashev]
+* https://twitter.com/golodnyj[Антон Черноусов]
+
+
+== Темы
+
+* https://www.infoq.com/news/2024/08/java-news-roundup-jul29-2024/
+* https://blog.sentry.io/sentry-is-now-fair-source/[Sentry is now Fair Source]
+* https://news.bloomberglaw.com/privacy-and-data-security/background-check-data-of-3-billion-stolen-in-breach-suit-says[Personal Data of 3 Billion People Stolen in Hack, Suit Says]
+* https://habr.com/ru/articles/833908/[Алгоритмы — самый провальный этап собеседований]
+
+* https://habr.com/ru/articles/834094/[Кунг-фу спикера: словесные трюки, вербальная дрессировка и другие приемы речевой борьбы]
+
+== CFP HighLoad 2024
+
+28 и 29 ноября 2024. Москва. Крупнейшая профессиональная конференция для разработчиков высоконагруженных систем https://highload.ru/moscow/2024
