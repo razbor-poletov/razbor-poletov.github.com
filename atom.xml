@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2024-08-11T11:45:42+00:00</updated>
+  <updated>2024-08-12T10:08:17+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,60 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 282 — Classic - Кунг-фу]]></title>
+    <link href="http://razborpoletov.com/2024/08/episode-282.html"/>
+    <updated>2024-08-12T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2024/08/episode-282</id>
+    <content type="html"><![CDATA[<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://t.me/razborfeed">@abashev</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/golodnyj">Антон Черноусов</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://www.infoq.com/news/2024/08/java-news-roundup-jul29-2024/" class="bare">https://www.infoq.com/news/2024/08/java-news-roundup-jul29-2024/</a></p>
+</li>
+<li>
+<p><a href="https://blog.sentry.io/sentry-is-now-fair-source/">Sentry is now Fair Source</a></p>
+</li>
+<li>
+<p><a href="https://news.bloomberglaw.com/privacy-and-data-security/background-check-data-of-3-billion-stolen-in-breach-suit-says">Personal Data of 3 Billion People Stolen in Hack, Suit Says</a></p>
+</li>
+<li>
+<p><a href="https://habr.com/ru/articles/833908/">Алгоритмы — самый провальный этап собеседований</a></p>
+</li>
+<li>
+<p><a href="https://habr.com/ru/articles/834094/">Кунг-фу спикера: словесные трюки, вербальная дрессировка и другие приемы речевой борьбы</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="cfp-highload-2024">CFP HighLoad 2024</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>28 и 29 ноября 2024. Москва. Крупнейшая профессиональная конференция для разработчиков высоконагруженных систем <a href="https://highload.ru/moscow/2024" class="bare">https://highload.ru/moscow/2024</a></p>
+</div>
+</div>
+</div>]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 281 — Classic - Синие]]></title>
@@ -2103,31 +2157,6 @@
 </div>
 </div>
 <div class="sect1">
-<h2 id="Гости-и-участники">Гости и участники</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://t.me/razborfeed">@a_abashev</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/andrei_kogun">Андрей Когунь</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 232 — Classic - Человек, который дернул стоп-кран]]></title>
-    <link href="http://razborpoletov.com/2021/07/episode-232.html"/>
-    <updated>2021-07-28T00:00:00+00:00</updated>
-    <id>http://razborpoletov.com/2021/07/episode-232</id>
-    <content type="html"><![CDATA[<div class="sect1">
 <h2 id="Гости-и-участники">Гости и участники</h2>
 <div class="sectionbody">
 <div class="ulist">

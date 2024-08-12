@@ -6,8 +6,8 @@
     <atom:link href="http://razborpoletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2024-08-11T11:45:42+00:00</pubDate>
-    <lastBuildDate>2024-08-11T11:45:42+00:00</lastBuildDate>
+    <pubDate>2024-08-12T10:08:17+00:00</pubDate>
+    <lastBuildDate>2024-08-12T10:08:17+00:00</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razborpoletov.com/logoNew.jpg" />
     <itunes:author>Viktor Gamov, Alexey Abashev</itunes:author>
@@ -18,6 +18,117 @@
     </itunes:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:thumbnail url="http://razborpoletov.com/logoNew.jpg" />
+    
+    <item>
+      <title>Episode 282 — Classic - Кунг-фу</title>
+      <link>http://razborpoletov.com/2024/08/episode-282.html</link>
+      <pubDate>2024-08-12T00:00:00+00:00</pubDate>
+      <guid isPermalink="true">http://razborpoletov.com/2024/08/episode-282</guid>
+      <description><![CDATA[<div class="paragraph">
+  <p><a href="http://razborpoletov.com/2024/08/episode-282.html">Комментировать</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
+</div>
+<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://t.me/razborfeed">@abashev</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/golodnyj">Антон Черноусов</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://www.infoq.com/news/2024/08/java-news-roundup-jul29-2024/" class="bare">https://www.infoq.com/news/2024/08/java-news-roundup-jul29-2024/</a></p>
+</li>
+<li>
+<p><a href="https://blog.sentry.io/sentry-is-now-fair-source/">Sentry is now Fair Source</a></p>
+</li>
+<li>
+<p><a href="https://news.bloomberglaw.com/privacy-and-data-security/background-check-data-of-3-billion-stolen-in-breach-suit-says">Personal Data of 3 Billion People Stolen in Hack, Suit Says</a></p>
+</li>
+<li>
+<p><a href="https://habr.com/ru/articles/833908/">Алгоритмы — самый провальный этап собеседований</a></p>
+</li>
+<li>
+<p><a href="https://habr.com/ru/articles/834094/">Кунг-фу спикера: словесные трюки, вербальная дрессировка и другие приемы речевой борьбы</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="cfp-highload-2024">CFP HighLoad 2024</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>28 и 29 ноября 2024. Москва. Крупнейшая профессиональная конференция для разработчиков высоконагруженных систем <a href="https://highload.ru/moscow/2024" class="bare">https://highload.ru/moscow/2024</a></p>
+</div>
+</div>
+</div>]]></description>
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_282.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_282.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2024/08/episode-282.html
+Telegram канал - https://t.me/razborfeed
+
+Гости и участники
+
+
+
+
+@abashev
+
+
+Антон Черноусов
+
+
+
+
+
+
+Темы
+
+
+
+
+https://www.infoq.com/news/2024/08/java-news-roundup-jul29-2024/
+
+
+Sentry is now Fair Source
+
+
+Personal Data of 3 Billion People Stolen in Hack, Suit Says
+
+
+Алгоритмы — самый провальный этап собеседований
+
+
+Кунг-фу спикера: словесные трюки, вербальная дрессировка и другие приемы речевой борьбы
+
+
+
+
+
+
+CFP HighLoad 2024
+
+
+28 и 29 ноября 2024. Москва. Крупнейшая профессиональная конференция для разработчиков высоконагруженных систем https://highload.ru/moscow/2024
+
+
+]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_282_text.jpg" />
+    </item>
     
     <item>
       <title>Episode 281 — Classic - Синие</title>
@@ -4382,59 +4493,6 @@ Telegram канал - https://t.me/razborfeed
 
 ]]></itunes:summary>
       <itunes:image href="http://razborpoletov.com/images/razbor_233_text.jpg" />
-    </item>
-    
-    <item>
-      <title>Episode 232 — Classic - Человек, который дернул стоп-кран</title>
-      <link>http://razborpoletov.com/2021/07/episode-232.html</link>
-      <pubDate>2021-07-28T00:00:00+00:00</pubDate>
-      <guid isPermalink="true">http://razborpoletov.com/2021/07/episode-232</guid>
-      <description><![CDATA[<div class="paragraph">
-  <p><a href="http://razborpoletov.com/2021/07/episode-232.html">Комментировать</a>
-    | <a href="https://t.me/razborfeed">Telegram канал</a>
-  </p>
-</div>
-<div class="sect1">
-<h2 id="Гости-и-участники">Гости и участники</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://t.me/razborfeed">@a_abashev</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/andrei_kogun">Андрей Когунь</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>]]></description>
-      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_232.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_232.mp3" fileSize="" type="audio/mpeg" />
-      <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2021/07/episode-232.html
-Telegram канал - https://t.me/razborfeed
-
-Гости и участники
-
-
-
-
-@a_abashev
-
-
-@gamussa
-
-
-Андрей Когунь
-
-
-
-
-]]></itunes:summary>
-      <itunes:image href="http://razborpoletov.com/images/razbor_232_text.jpg" />
     </item>
     
   </channel>
