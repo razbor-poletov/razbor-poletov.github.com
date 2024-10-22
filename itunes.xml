@@ -6,8 +6,8 @@
     <atom:link href="http://razborpoletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2024-10-21T19:42:46+00:00</pubDate>
-    <lastBuildDate>2024-10-21T19:42:46+00:00</lastBuildDate>
+    <pubDate>2024-10-22T09:05:33+00:00</pubDate>
+    <lastBuildDate>2024-10-22T09:05:33+00:00</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razborpoletov.com/logoNew.jpg" />
     <itunes:author>Viktor Gamov, Alexey Abashev</itunes:author>
@@ -18,6 +18,111 @@
     </itunes:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:thumbnail url="http://razborpoletov.com/logoNew.jpg" />
+    
+    <item>
+      <title>Episode 283 — Classic - Кругом политота</title>
+      <link>http://razborpoletov.com/2024/10/episode-283.html</link>
+      <pubDate>2024-10-22T00:00:00+00:00</pubDate>
+      <guid isPermalink="true">http://razborpoletov.com/2024/10/episode-283</guid>
+      <description><![CDATA[<div class="paragraph">
+  <p><a href="http://razborpoletov.com/2024/10/episode-283.html">Комментировать</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
+</div>
+<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://t.me/razborfeed">@abashev</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/golodnyj">Антон Черноусов</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://hadijaveed.me/2024/09/08/does-your-startup-really-need-complex-cloud-infrastructure/" class="bare">https://hadijaveed.me/2024/09/08/does-your-startup-really-need-complex-cloud-infrastructure/</a></p>
+</li>
+<li>
+<p><a href="https://ploum.net/2024-07-01-opensource_sustainability.html" class="bare">https://ploum.net/2024-07-01-opensource_sustainability.html</a></p>
+</li>
+<li>
+<p><a href="https://committing-crimes.com/articles/2024-09-09-jitpack" class="bare">https://committing-crimes.com/articles/2024-09-09-jitpack</a></p>
+</li>
+<li>
+<p><a href="https://habr.com/en/companies/yandex/articles/841436/" class="bare">https://habr.com/en/companies/yandex/articles/841436/</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="cfp-highload-2024">CFP HighLoad 2024</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>28 и 29 ноября 2024. Москва. Крупнейшая профессиональная конференция для разработчиков высоконагруженных систем <a href="https://highload.ru/moscow/2024" class="bare">https://highload.ru/moscow/2024</a></p>
+</div>
+</div>
+</div>]]></description>
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_283.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_283.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2024/10/episode-283.html
+Telegram канал - https://t.me/razborfeed
+
+Гости и участники
+
+
+
+
+@abashev
+
+
+Антон Черноусов
+
+
+
+
+
+
+Темы
+
+
+
+
+https://hadijaveed.me/2024/09/08/does-your-startup-really-need-complex-cloud-infrastructure/
+
+
+https://ploum.net/2024-07-01-opensource_sustainability.html
+
+
+https://committing-crimes.com/articles/2024-09-09-jitpack
+
+
+https://habr.com/en/companies/yandex/articles/841436/
+
+
+
+
+
+
+CFP HighLoad 2024
+
+
+28 и 29 ноября 2024. Москва. Крупнейшая профессиональная конференция для разработчиков высоконагруженных систем https://highload.ru/moscow/2024
+
+
+]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_283_text.jpg" />
+    </item>
     
     <item>
       <title>Episode 282 — Classic - Кунг-фу</title>
@@ -4392,107 +4497,6 @@ Telegram канал - https://t.me/razborfeed
 
 ]]></itunes:summary>
       <itunes:image href="http://razborpoletov.com/images/razbor_234_text.jpg" />
-    </item>
-    
-    <item>
-      <title>Episode 233 — Classic - Кому PR-ы, кому MR-ы</title>
-      <link>http://razborpoletov.com/2021/08/episode-233.html</link>
-      <pubDate>2021-08-09T00:00:00+00:00</pubDate>
-      <guid isPermalink="true">http://razborpoletov.com/2021/08/episode-233</guid>
-      <description><![CDATA[<div class="paragraph">
-  <p><a href="http://razborpoletov.com/2021/08/episode-233.html">Комментировать</a>
-    | <a href="https://t.me/razborfeed">Telegram канал</a>
-  </p>
-</div>
-<div class="sect1">
-<h2 id="РЕКЛАМА">РЕКЛАМА</h2>
-<div class="sectionbody">
-<div class="paragraph">
-<p>Делаем масштабные финтех-сервисы — более 50 продуктовых команд, и нужно еще больше. Тинькофф в поиске разработчиков Scala, которые не боятся сложных задач. Максимально короткий путь от идеи до реализации.</p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p>Обмениваемся опытом на внутренних и внешних митапах и конференциях, организовали конференцию Scala Russia.</p>
-</li>
-<li>
-<p>Развиваем Open Source-проекты — делимся своими наработками с сообществом на GitHub.</p>
-</li>
-</ul>
-</div>
-<div class="paragraph">
-<p>Работаем удаленно или в офисах. Центры разработки Тинькофф открыты в 18 городах России и в республике Беларусь, в Минске.</p>
-</div>
-<div class="paragraph">
-<p>Все о Scala в Тинькофф, примеры задач в проектах и открытые вакансии — <a href="https://l.tinkoff.ru/it-career-scala" class="bare">https://l.tinkoff.ru/it-career-scala</a></p>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Гости-и-участники">Гости и участники</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://t.me/razborfeed">@a_abashev</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/andrei_kogun">Андрей Когунь</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>]]></description>
-      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_233.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_233.mp3" fileSize="" type="audio/mpeg" />
-      <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2021/08/episode-233.html
-Telegram канал - https://t.me/razborfeed
-
-РЕКЛАМА
-
-
-Делаем масштабные финтех-сервисы — более 50 продуктовых команд, и нужно еще больше. Тинькофф в поиске разработчиков Scala, которые не боятся сложных задач. Максимально короткий путь от идеи до реализации.
-
-
-
-
-Обмениваемся опытом на внутренних и внешних митапах и конференциях, организовали конференцию Scala Russia.
-
-
-Развиваем Open Source-проекты — делимся своими наработками с сообществом на GitHub.
-
-
-
-
-Работаем удаленно или в офисах. Центры разработки Тинькофф открыты в 18 городах России и в республике Беларусь, в Минске.
-
-
-Все о Scala в Тинькофф, примеры задач в проектах и открытые вакансии — https://l.tinkoff.ru/it-career-scala
-
-
-
-
-Гости и участники
-
-
-
-
-@a_abashev
-
-
-@gamussa
-
-
-Андрей Когунь
-
-
-
-
-]]></itunes:summary>
-      <itunes:image href="http://razborpoletov.com/images/razbor_233_text.jpg" />
     </item>
     
   </channel>
