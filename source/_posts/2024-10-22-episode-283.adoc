@@ -1,0 +1,25 @@
+---
+layout: episode
+episode: 283
+title: "Episode 283 — Classic - Кругом политота"
+category: classic
+guests: abashev, golodnyj
+---
+
+== Гости и участники
+
+* https://t.me/razborfeed[@abashev]
+* https://twitter.com/golodnyj[Антон Черноусов]
+
+
+== Темы
+
+* https://hadijaveed.me/2024/09/08/does-your-startup-really-need-complex-cloud-infrastructure/
+* https://ploum.net/2024-07-01-opensource_sustainability.html
+* https://committing-crimes.com/articles/2024-09-09-jitpack
+* https://habr.com/en/companies/yandex/articles/841436/
+
+
+== CFP HighLoad 2024
+
+28 и 29 ноября 2024. Москва. Крупнейшая профессиональная конференция для разработчиков высоконагруженных систем https://highload.ru/moscow/2024
