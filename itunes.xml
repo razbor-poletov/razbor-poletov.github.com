@@ -6,8 +6,8 @@
     <atom:link href="http://razborpoletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2024-10-22T09:05:33+00:00</pubDate>
-    <lastBuildDate>2024-10-22T09:05:33+00:00</lastBuildDate>
+    <pubDate>2024-11-10T12:07:03+00:00</pubDate>
+    <lastBuildDate>2024-11-10T12:07:03+00:00</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razborpoletov.com/logoNew.jpg" />
     <itunes:author>Viktor Gamov, Alexey Abashev</itunes:author>
@@ -18,6 +18,117 @@
     </itunes:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:thumbnail url="http://razborpoletov.com/logoNew.jpg" />
+    
+    <item>
+      <title>Episode 284 — Classic - Яркие перспективы</title>
+      <link>http://razborpoletov.com/2024/11/episode-284.html</link>
+      <pubDate>2024-11-10T00:00:00+00:00</pubDate>
+      <guid isPermalink="true">http://razborpoletov.com/2024/11/episode-284</guid>
+      <description><![CDATA[<div class="paragraph">
+  <p><a href="http://razborpoletov.com/2024/11/episode-284.html">Комментировать</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
+</div>
+<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://t.me/razborfeed">@abashev</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/golodnyj">Антон Черноусов</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://openjdk.org/jeps/14" class="bare">https://openjdk.org/jeps/14</a></p>
+</li>
+<li>
+<p><a href="https://blog.dijit.sh/gcp-the-only-good-cloud/" class="bare">https://blog.dijit.sh/gcp-the-only-good-cloud/</a></p>
+</li>
+<li>
+<p><a href="https://blog.engflow.com/2024/10/01/birth-of-the-bazel/" class="bare">https://blog.engflow.com/2024/10/01/birth-of-the-bazel/</a></p>
+</li>
+<li>
+<p><a href="https://www.infoq.com/news/2024/09/java-news-roundup-sep23-2024/" class="bare">https://www.infoq.com/news/2024/09/java-news-roundup-sep23-2024/</a></p>
+</li>
+<li>
+<p><a href="https://yandex.cloud/ru/blog/posts/2024/09/scale-2024" class="bare">https://yandex.cloud/ru/blog/posts/2024/09/scale-2024</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="cfp-highload-2024">CFP HighLoad 2024</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>28 и 29 ноября 2024. Москва. Крупнейшая профессиональная конференция для разработчиков высоконагруженных систем <a href="https://highload.ru/moscow/2024" class="bare">https://highload.ru/moscow/2024</a></p>
+</div>
+</div>
+</div>]]></description>
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_284.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_284.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2024/11/episode-284.html
+Telegram канал - https://t.me/razborfeed
+
+Гости и участники
+
+
+
+
+@abashev
+
+
+Антон Черноусов
+
+
+
+
+
+
+Темы
+
+
+
+
+https://openjdk.org/jeps/14
+
+
+https://blog.dijit.sh/gcp-the-only-good-cloud/
+
+
+https://blog.engflow.com/2024/10/01/birth-of-the-bazel/
+
+
+https://www.infoq.com/news/2024/09/java-news-roundup-sep23-2024/
+
+
+https://yandex.cloud/ru/blog/posts/2024/09/scale-2024
+
+
+
+
+
+
+CFP HighLoad 2024
+
+
+28 и 29 ноября 2024. Москва. Крупнейшая профессиональная конференция для разработчиков высоконагруженных систем https://highload.ru/moscow/2024
+
+
+]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_284_text.jpg" />
+    </item>
     
     <item>
       <title>Episode 283 — Classic - Кругом политота</title>
@@ -4444,59 +4555,6 @@ https://twitter.com/springbootlearn/status/1433064046387994629?s=20
 
 ]]></itunes:summary>
       <itunes:image href="http://razborpoletov.com/images/razbor_235_text.jpg" />
-    </item>
-    
-    <item>
-      <title>Episode 234 — Classic - Хороший студент</title>
-      <link>http://razborpoletov.com/2021/08/episode-234.html</link>
-      <pubDate>2021-08-22T00:00:00+00:00</pubDate>
-      <guid isPermalink="true">http://razborpoletov.com/2021/08/episode-234</guid>
-      <description><![CDATA[<div class="paragraph">
-  <p><a href="http://razborpoletov.com/2021/08/episode-234.html">Комментировать</a>
-    | <a href="https://t.me/razborfeed">Telegram канал</a>
-  </p>
-</div>
-<div class="sect1">
-<h2 id="Гости-и-участники">Гости и участники</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://t.me/razborfeed">@a_abashev</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/golodnyj">Антон Черноусов</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>]]></description>
-      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_234.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_234.mp3" fileSize="" type="audio/mpeg" />
-      <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2021/08/episode-234.html
-Telegram канал - https://t.me/razborfeed
-
-Гости и участники
-
-
-
-
-@a_abashev
-
-
-@gamussa
-
-
-Антон Черноусов
-
-
-
-
-]]></itunes:summary>
-      <itunes:image href="http://razborpoletov.com/images/razbor_234_text.jpg" />
     </item>
     
   </channel>
