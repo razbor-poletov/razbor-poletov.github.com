@@ -1,0 +1,25 @@
+---
+layout: episode
+episode: 284
+title: "Episode 284 — Classic - Яркие перспективы"
+category: classic
+guests: abashev, golodnyj
+---
+
+== Гости и участники
+
+* https://t.me/razborfeed[@abashev]
+* https://twitter.com/golodnyj[Антон Черноусов]
+
+
+== Темы
+
+* https://openjdk.org/jeps/14
+* https://blog.dijit.sh/gcp-the-only-good-cloud/
+* https://blog.engflow.com/2024/10/01/birth-of-the-bazel/
+* https://www.infoq.com/news/2024/09/java-news-roundup-sep23-2024/
+* https://yandex.cloud/ru/blog/posts/2024/09/scale-2024
+
+== CFP HighLoad 2024
+
+28 и 29 ноября 2024. Москва. Крупнейшая профессиональная конференция для разработчиков высоконагруженных систем https://highload.ru/moscow/2024
