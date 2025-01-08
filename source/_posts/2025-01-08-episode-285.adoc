@@ -1,0 +1,18 @@
+---
+layout: episode
+episode: 285
+title: "Episode 285 — Classic - Босоногое детство"
+category: classic
+guests: abashev, golodnyj
+---
+
+== Гости и участники
+
+* https://t.me/razborfeed[@abashev]
+* https://twitter.com/golodnyj[Антон Черноусов]
+
+
+== Темы
+
+* https://devopstopologies.ru/
+* https://www.gitpod.io/blog/we-are-leaving-kubernetes
