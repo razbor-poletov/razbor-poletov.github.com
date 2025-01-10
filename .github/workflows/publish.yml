@@ -1,0 +1,35 @@
+name: Publish github pages
+
+on:
+  push:
+    branches:
+      - source
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      packages: write
+      contents: write
+    steps:
+      - name: Cloning repo
+        uses: actions/checkout@v4
+
+      - uses: ruby/setup-ruby@v1
+        with:
+          bundler-cache: true
+
+      - run: bundle exec rake setup_github_pages[$REPO]
+        env:
+          REPO: "https://github.com/razbor-poletov/razbor-poletov.github.com.git"
+
+      - run: |
+          cd _deploy
+          git config user.name "Github Actions"
+          git config user.email "alexey@abashev.ru"
+          git config --global push.default simple
+          git config credential.helper "store --file=.git/credentials"
+          echo "https://${{ github.actor }}:${{ github.token }}@github.com" > .git/credentials
+          git pull origin master
+          bundle exec rake generate
+          bundle exec rake deploy
