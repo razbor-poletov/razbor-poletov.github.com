@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2025-01-10T23:35:09+00:00</updated>
+  <updated>2025-01-12T11:30:54+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,46 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 286 — Classic - Под ёлочку]]></title>
+    <link href="http://razborpoletov.com/2025/01/episode-286.html"/>
+    <updated>2025-01-12T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2025/01/episode-286</id>
+    <content type="html"><![CDATA[<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://t.me/razborfeed">@abashev</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/golodnyj">Антон Черноусов</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://addyo.substack.com/p/the-70-problem-hard-truths-about" class="bare">https://addyo.substack.com/p/the-70-problem-hard-truths-about</a></p>
+</li>
+<li>
+<p><a href="https://habr.com/en/companies/jetinfosystems/articles/864230/" class="bare">https://habr.com/en/companies/jetinfosystems/articles/864230/</a></p>
+</li>
+<li>
+<p><a href="https://habr.com/en/companies/haulmont/articles/866388/" class="bare">https://habr.com/en/companies/haulmont/articles/866388/</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 285 — Classic - Босоногое детство]]></title>
@@ -2148,49 +2188,6 @@
 </li>
 <li>
 <p><a href="https://twitter.com/tolkv">@tolkv</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/golodnyj">Антон Черноусов</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 236 — Classic - Вот и стукнуло 17]]></title>
-    <link href="http://razborpoletov.com/2021/10/episode-236.html"/>
-    <updated>2021-10-07T00:00:00+00:00</updated>
-    <id>http://razborpoletov.com/2021/10/episode-236</id>
-    <content type="html"><![CDATA[<div class="sect1">
-<h2 id="Темы">Темы</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://medium.com/javarevisited/whats-new-in-java-17-e94b033ef211" class="bare">https://medium.com/javarevisited/whats-new-in-java-17-e94b033ef211</a></p>
-</li>
-<li>
-<p><a href="https://searchapparchitecture.techtarget.com/tip/Service-mesh-vs-API-gateway-Where-why-and-how-to-use-them" class="bare">https://searchapparchitecture.techtarget.com/tip/Service-mesh-vs-API-gateway-Where-why-and-how-to-use-them</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Гости-и-участники">Гости и участники</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://t.me/razborfeed">@a_abashev</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/antonarhipov">@antonarhipov</a></p>
 </li>
 <li>
 <p><a href="https://twitter.com/golodnyj">Антон Черноусов</a></p>
