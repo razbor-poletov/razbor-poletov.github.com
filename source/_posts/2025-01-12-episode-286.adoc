@@ -1,0 +1,18 @@
+---
+layout: episode
+episode: 286
+title: "Episode 286 — Classic - Под ёлочку"
+category: classic
+guests: abashev, golodnyj
+---
+
+== Гости и участники
+
+* https://t.me/razborfeed[@abashev]
+* https://twitter.com/golodnyj[Антон Черноусов]
+
+== Темы
+
+* https://addyo.substack.com/p/the-70-problem-hard-truths-about
+* https://habr.com/en/companies/jetinfosystems/articles/864230/
+* https://habr.com/en/companies/haulmont/articles/866388/
