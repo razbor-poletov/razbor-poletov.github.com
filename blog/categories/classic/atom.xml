@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Classic | Подкаст «Разбор Полетов»]]></title>
+  <title><![CDATA[Category: classic | Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/blog/categories/classic/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2025-01-12T11:30:54+00:00</updated>
+  <updated>2025-02-09T16:59:12+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -14,10 +14,10 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Episode 273 — Classic - I'll be back]]></title>
-    <link href="http://razborpoletov.com/2024/02/episode-273.html"/>
-    <updated>2024-02-28T00:00:00+00:00</updated>
-    <id>http://razborpoletov.com/2024/02/episode-273</id>
+    <title type="html"><![CDATA[Episode 286 — Classic - Под ёлочку]]></title>
+    <link href="http://razborpoletov.com/2025/01/episode-286.html"/>
+    <updated>2025-01-12T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2025/01/episode-286</id>
     <content type="html"><![CDATA[<p>== Гости и участники</p>
 
 <ul>
@@ -29,20 +29,19 @@
 <p>== Темы</p>
 
 <ul>
-<li>https://www.infoq.com/articles/cloud-computing-post-serverless-trends/</li>
-<li>https://habr.com/ru/articles/562722/</li>
-<li>https://snyk.io/blog/leaky-vessels-docker-runc-container-breakout-vulnerabilities/</li>
-<li>https://cloud.yandex.ru/ru/training/greenplum</li>
+<li>https://addyo.substack.com/p/the-70-problem-hard-truths-about</li>
+<li>https://habr.com/en/companies/jetinfosystems/articles/864230/</li>
+<li>https://habr.com/en/companies/haulmont/articles/866388/</li>
 </ul>
 
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Episode 272 — Classic - Провожаем 2023й]]></title>
-    <link href="http://razborpoletov.com/2024/01/episode-272.html"/>
-    <updated>2024-01-04T00:00:00+00:00</updated>
-    <id>http://razborpoletov.com/2024/01/episode-272</id>
+    <title type="html"><![CDATA[Episode 285 — Classic - Босоногое детство]]></title>
+    <link href="http://razborpoletov.com/2025/01/episode-285.html"/>
+    <updated>2025-01-08T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2025/01/episode-285</id>
     <content type="html"><![CDATA[<p>== Гости и участники</p>
 
 <ul>
@@ -54,21 +53,18 @@
 <p>== Темы</p>
 
 <ul>
-<li>https://www.youtube.com/watch?v=NxpHg_GzpnY</li>
-<li>https://vived.substack.com/p/amazon-q-code-transform-automatic</li>
-<li>https://habr.com/ru/articles/782816/</li>
-<li>https://diplodoc.com/</li>
-<li>https://docusaurus.io/</li>
+<li>https://devopstopologies.ru/</li>
+<li>https://www.gitpod.io/blog/we-are-leaving-kubernetes</li>
 </ul>
 
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Episode 271 — Classic - Мы все учились понемногу...]]></title>
-    <link href="http://razborpoletov.com/2023/12/episode-271.html"/>
-    <updated>2023-12-18T00:00:00+00:00</updated>
-    <id>http://razborpoletov.com/2023/12/episode-271</id>
+    <title type="html"><![CDATA[Episode 284 — Classic - Яркие перспективы]]></title>
+    <link href="http://razborpoletov.com/2024/11/episode-284.html"/>
+    <updated>2024-11-10T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2024/11/episode-284</id>
     <content type="html"><![CDATA[<p>== Гости и участники</p>
 
 <ul>
@@ -80,20 +76,25 @@
 <p>== Темы</p>
 
 <ul>
-<li>https://habr.com/ru/articles/780170/</li>
-<li>https://jacobian.org/2023/dec/5/how-to-decide/</li>
-<li>https://cloud.yandex.ru/blog/posts/2023/12/the-state-of-serverless</li>
-<li>https://t.me/mspiridonov/2648?single</li>
+<li>https://openjdk.org/jeps/14</li>
+<li>https://blog.dijit.sh/gcp-the-only-good-cloud/</li>
+<li>https://blog.engflow.com/2024/10/01/birth-of-the-bazel/</li>
+<li>https://www.infoq.com/news/2024/09/java-news-roundup-sep23-2024/</li>
+<li>https://yandex.cloud/ru/blog/posts/2024/09/scale-2024</li>
 </ul>
 
+
+<p>== CFP HighLoad 2024</p>
+
+<p>28 и 29 ноября 2024. Москва. Крупнейшая профессиональная конференция для разработчиков высоконагруженных систем https://highload.ru/moscow/2024</p>
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Episode 269 — Classic - Ламповый]]></title>
-    <link href="http://razborpoletov.com/2023/11/episode-269.html"/>
-    <updated>2023-11-22T00:00:00+00:00</updated>
-    <id>http://razborpoletov.com/2023/11/episode-269</id>
+    <title type="html"><![CDATA[Episode 283 — Classic - Кругом политота]]></title>
+    <link href="http://razborpoletov.com/2024/10/episode-283.html"/>
+    <updated>2024-10-22T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2024/10/episode-283</id>
     <content type="html"><![CDATA[<p>== Гости и участники</p>
 
 <ul>
@@ -105,17 +106,24 @@
 <p>== Темы</p>
 
 <ul>
-<li>https://www.techtarget.com/searchsecurity/opinion/Cloud-native-firewalls-the-next-step-in-network-security</li>
+<li>https://hadijaveed.me/2024/09/08/does-your-startup-really-need-complex-cloud-infrastructure/</li>
+<li>https://ploum.net/2024-07-01-opensource_sustainability.html</li>
+<li>https://committing-crimes.com/articles/2024-09-09-jitpack</li>
+<li>https://habr.com/en/companies/yandex/articles/841436/</li>
 </ul>
 
+
+<p>== CFP HighLoad 2024</p>
+
+<p>28 и 29 ноября 2024. Москва. Крупнейшая профессиональная конференция для разработчиков высоконагруженных систем https://highload.ru/moscow/2024</p>
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Episode 268 — Classic - GPT из каждой дырки]]></title>
-    <link href="http://razborpoletov.com/2023/10/episode-268.html"/>
-    <updated>2023-10-13T00:00:00+00:00</updated>
-    <id>http://razborpoletov.com/2023/10/episode-268</id>
+    <title type="html"><![CDATA[Episode 282 — Classic - Кунг-фу]]></title>
+    <link href="http://razborpoletov.com/2024/08/episode-282.html"/>
+    <updated>2024-08-12T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2024/08/episode-282</id>
     <content type="html"><![CDATA[<p>== Гости и участники</p>
 
 <ul>
@@ -127,12 +135,17 @@
 <p>== Темы</p>
 
 <ul>
-<li>https://opentofu.org/blog/why-should-i-care-about-opentofu/</li>
-<li>https://www.youtube.com/watch?v=cZWxzT3ZtM8</li>
-<li>https://habr.com/ru/companies/yandex_cloud_and_infra/articles/764334/</li>
-<li>https://benhoyt.com/writings/how-to-apply/</li>
+<li>https://www.infoq.com/news/2024/08/java-news-roundup-jul29-2024/</li>
+<li>https://blog.sentry.io/sentry-is-now-fair-source/[Sentry is now Fair Source]</li>
+<li>https://news.bloomberglaw.com/privacy-and-data-security/background-check-data-of-3-billion-stolen-in-breach-suit-says[Personal Data of 3 Billion People Stolen in Hack, Suit Says]</li>
+<li><p>https://habr.com/ru/articles/833908/[Алгоритмы — самый провальный этап собеседований]</p></li>
+<li><p>https://habr.com/ru/articles/834094/[Кунг-фу спикера: словесные трюки, вербальная дрессировка и другие приемы речевой борьбы]</p></li>
 </ul>
 
+
+<p>== CFP HighLoad 2024</p>
+
+<p>28 и 29 ноября 2024. Москва. Крупнейшая профессиональная конференция для разработчиков высоконагруженных систем https://highload.ru/moscow/2024</p>
 ]]></content>
   </entry>
   
