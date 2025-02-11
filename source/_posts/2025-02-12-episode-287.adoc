@@ -1,0 +1,19 @@
+---
+layout: episode
+episode: 287
+title: "Episode 287 — Classic - Эта херня со средой"
+category: classic
+guests: abashev, golodnyj
+---
+
+== Гости и участники
+
+* https://t.me/razborfeed[@abashev]
+* https://twitter.com/golodnyj[Антон Черноусов]
+
+
+== Темы
+
+* https://habr.com/ru/companies/minerva_media/articles/869300/
+* https://habr.com/ru/companies/selectel/articles/871012/
+* https://habr.com/ru/companies/yandex_cloud_and_infra/articles/867754/
