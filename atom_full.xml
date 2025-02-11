@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2025-02-09T16:59:12+00:00</updated>
+  <updated>2025-02-11T19:48:48+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,46 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 287 — Classic - Эта херня со средой]]></title>
+    <link href="http://razborpoletov.com/2025/02/episode-287.html"/>
+    <updated>2025-02-12T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2025/02/episode-287</id>
+    <content type="html"><![CDATA[<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://t.me/razborfeed">@abashev</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/golodnyj">Антон Черноусов</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://habr.com/ru/companies/minerva_media/articles/869300/" class="bare">https://habr.com/ru/companies/minerva_media/articles/869300/</a></p>
+</li>
+<li>
+<p><a href="https://habr.com/ru/companies/selectel/articles/871012/" class="bare">https://habr.com/ru/companies/selectel/articles/871012/</a></p>
+</li>
+<li>
+<p><a href="https://habr.com/ru/companies/yandex_cloud_and_infra/articles/867754/" class="bare">https://habr.com/ru/companies/yandex_cloud_and_infra/articles/867754/</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 286 — Classic - Под ёлочку]]></title>
