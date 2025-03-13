@@ -1,0 +1,21 @@
+---
+layout: episode
+episode: 289
+title: "Episode 289 — Classic - Ваши ожидания - Ваши проблемы!"
+category: classic
+guests: abashev, golodnyj
+---
+
+== Гости и участники
+
+* https://t.me/razborfeed[@abashev]
+* https://twitter.com/golodnyj[Антон Черноусов]
+
+
+== Темы
+
+* https://habr.com/en/articles/884460/
+* https://habr.com/ru/articles/882030
+* https://techcrunch.com/2025/02/11/moderne-raises-30m-to-solve-technical-debt-across-complex-codebases/
+* https://sourcecraft.dev/
+
