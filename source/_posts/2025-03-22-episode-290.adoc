@@ -1,0 +1,19 @@
+---
+layout: episode
+episode: 290
+title: "Episode 290 — Classic - Гиперболоид инженера Иванова"
+category: classic
+guests: abashev, golodnyj
+---
+
+== Гости и участники
+
+* https://t.me/razborfeed[@abashev]
+* https://twitter.com/golodnyj[Антон Черноусов]
+
+
+== Темы
+
+* https://habr.com/ru/articles/888428/
+* https://github.com/johnousterhout/aposd-vs-clean-code/blob/main/README.md
+* https://sourcecraft.dev/
