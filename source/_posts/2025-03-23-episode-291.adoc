@@ -1,0 +1,20 @@
+---
+layout: episode
+episode: 291
+title: "Episode 291 — Classic - Java 30 лет"
+category: classic
+guests: abashev, golodnyj
+---
+
+== Гости и участники
+
+* https://t.me/razborfeed[@abashev]
+* https://twitter.com/golodnyj[Антон Черноусов]
+
+
+== Темы
+
+* https://opensource.org/blog/osi-endorses-united-nations-open-source-principles
+* https://www.freebsd.org/releases/13.5R/announce/
+* https://youtube.com/shorts/ycPxbvR7Xgs?si=CAHPPI06gPBLWMMh
+* https://www.infoq.com/news/2025/03/day-two-java-one-2025/
