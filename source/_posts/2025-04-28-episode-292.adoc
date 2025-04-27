@@ -1,0 +1,18 @@
+---
+layout: episode
+episode: 292
+title: "Episode 292 — Classic - Гордыня"
+category: classic
+guests: abashev, golodnyj
+---
+
+== Гости и участники
+
+* https://t.me/razborfeed[@abashev]
+* https://twitter.com/golodnyj[Антон Черноусов]
+
+
+== Темы
+
+* https://semianalysis.com/2025/04/16/huawei-ai-cloudmatrix-384-chinas-answer-to-nvidia-gb200-nvl72/
+* https://www.anti-malware.ru/news/2025-04-17-114534/45828
