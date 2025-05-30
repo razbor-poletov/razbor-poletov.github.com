@@ -1,0 +1,19 @@
+---
+layout: episode
+episode: 293
+title: "Episode 293 — Classic - Агенты не спасут"
+category: classic
+guests: abashev, golodnyj
+---
+
+== Гости и участники
+
+* https://t.me/razborfeed[@abashev]
+* https://twitter.com/golodnyj[Антон Черноусов]
+
+
+== Темы
+
+* https://aws.amazon.com/blogs/aws/amazon-q-developer-in-github-now-in-preview-with-code-generation-review-and-legacy-transformation-capabilities/
+* https://t.me/yab2btech/119
+* https://www.infoq.com/news/2025/05/jdk25-instance-main-methods/
