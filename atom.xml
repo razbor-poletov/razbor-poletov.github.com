@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2025-09-02T05:14:21+00:00</updated>
+  <updated>2025-09-03T21:19:21+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,52 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 294 — Classic - Эпоха перемен]]></title>
+    <link href="http://razborpoletov.com/2025/09/episode-294.html"/>
+    <updated>2025-09-04T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2025/09/episode-294</id>
+    <content type="html"><![CDATA[<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://t.me/razborfeed">@abashev</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/golodnyj">Антон Черноусов</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://blog.jetbrains.com/idea/2025/06/demystifying-spring-boot-with-spring-debugger/" class="bare">https://blog.jetbrains.com/idea/2025/06/demystifying-spring-boot-with-spring-debugger/</a></p>
+</li>
+<li>
+<p><a href="https://habr.com/ru/articles/918658/" class="bare">https://habr.com/ru/articles/918658/</a></p>
+</li>
+<li>
+<p><a href="https://jasone.github.io/2025/06/12/jemalloc-postmortem/" class="bare">https://jasone.github.io/2025/06/12/jemalloc-postmortem/</a></p>
+</li>
+<li>
+<p><a href="https://www.professoraxelrod.com/p/the-tech-job-meltdown" class="bare">https://www.professoraxelrod.com/p/the-tech-job-meltdown</a></p>
+</li>
+<li>
+<p><a href="https://swift.org/blog/swift-at-apple-migrating-the-password-monitoring-service-from-java/" class="bare">https://swift.org/blog/swift-at-apple-migrating-the-password-monitoring-service-from-java/</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 293 — Classic - Агенты не спасут]]></title>
@@ -2137,59 +2183,6 @@
 </li>
 <li>
 <p><a href="https://jugspeakers.online/ru/talk/3001.html" class="bare">https://jugspeakers.online/ru/talk/3001.html</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 244 — Interview - Пpo Abbyy и Redis Streams]]></title>
-    <link href="http://razborpoletov.com/2022/02/episode-244.html"/>
-    <updated>2022-02-05T00:00:00+00:00</updated>
-    <id>http://razborpoletov.com/2022/02/episode-244</id>
-    <content type="html"><![CDATA[<div class="paragraph">
-<p>Выпуск подготовлен при поддержке ABBYY – мирового разработчика решений для интеллектуальной обработки информации и анализа бизнес-процессов. В работе компания использует самый современный стэк технологий: .NET Core, Kubernetes (k8s), Docker, React JS и другие.</p>
-</div>
-<div class="paragraph">
-<p>Сейчас ABBYY ищет в команду:</p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://www.abbyy.com/ru/company/careers/open-positions/2023?frontend-developer-vantage=&amp;utm_source=razbor_poletov&amp;utm_medium=podcast&amp;utm_campaign=razbor_poletov_podcast19012022">Frontend Developer</a></p>
-</li>
-<li>
-<p><a href="https://www.abbyy.com/ru/company/careers/open-positions/1857/?senior-frontend-developer-flexicapture=&amp;utm_source=razbor_poletov&amp;utm_medium=podcast&amp;utm_campaign=razbor_poletov_podcast19012022">Senior Frontend Developer</a></p>
-</li>
-</ul>
-</div>
-<div class="paragraph">
-<p><a href="https://www.abbyy.com/ru/company/careers/open-positions/?utm_source=razbor_poletov&amp;utm_medium=podcast&amp;utm_campaign=razbor_poletov_podcast19012022">Все вакансии компании – по ссылке</a></p>
-</div>
-<div class="sect1">
-<h2 id="Гости-и-участники">Гости и участники</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p>Владимир Букин</p>
-</li>
-<li>
-<p>Евгений Канев</p>
-</li>
-<li>
-<p><a href="https://t.me/razborfeed">@abashev</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/gamussa">@gamussa</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/andrei_kogun">Андрей Когунь</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/golodnyj">Антон Черноусов</a></p>
 </li>
 </ul>
 </div>
