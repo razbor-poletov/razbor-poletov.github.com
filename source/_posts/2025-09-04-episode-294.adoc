@@ -1,0 +1,21 @@
+---
+layout: episode
+episode: 294
+title: "Episode 294 — Classic - Эпоха перемен"
+category: classic
+guests: abashev, golodnyj
+---
+
+== Гости и участники
+
+* https://t.me/razborfeed[@abashev]
+* https://twitter.com/golodnyj[Антон Черноусов]
+
+
+== Темы
+
+* https://blog.jetbrains.com/idea/2025/06/demystifying-spring-boot-with-spring-debugger/
+* https://habr.com/ru/articles/918658/
+* https://jasone.github.io/2025/06/12/jemalloc-postmortem/
+* https://www.professoraxelrod.com/p/the-tech-job-meltdown
+* https://swift.org/blog/swift-at-apple-migrating-the-password-monitoring-service-from-java/
