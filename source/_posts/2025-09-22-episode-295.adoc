@@ -1,0 +1,22 @@
+---
+layout: episode
+episode: 295
+title: "Episode 295 — Classic - Новая радость бытия"
+category: classic
+guests: abashev, golodnyj
+---
+
+== Гости и участники
+
+* https://t.me/razborfeed[@abashev]
+* https://twitter.com/golodnyj[Антон Черноусов]
+
+
+== Темы
+
+* https://bigtechnight.ru/
+* https://www.opennet.ru/opennews/art.shtml?num=63869
+* https://habr.com/ru/companies/otus/articles/943840/
+* https://varunraghu.com/all-vibe-coding-tools-are-selling-a-get-rich-quick-scheme/
+* https://idiallo.com/blog/writing-code-is-easy-reading-is-hard
+* https://maxleiter.com/blog/formatting
