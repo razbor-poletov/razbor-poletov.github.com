@@ -1,0 +1,20 @@
+---
+layout: episode
+episode: 296
+title: "Episode 296 — Classic - Java ягодка опять"
+category: classic
+guests: abashev, golodnyj
+---
+
+== Гости и участники
+
+* https://t.me/razborfeed[@abashev]
+* https://twitter.com/golodnyj[Антон Черноусов]
+
+
+== Темы
+
+https://www.opennet.ru/opennews/art.shtml?num=63895
+https://habr.com/ru/articles/951282/
+https://meks.quest/blogs/the-theatre-of-pull-requests-and-code-review
+https://scale.yandex.cloud/
