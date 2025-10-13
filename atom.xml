@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2025-10-12T17:39:56+00:00</updated>
+  <updated>2025-10-13T09:19:54+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,39 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 296 — Classic - Java ягодка опять]]></title>
+    <link href="http://razborpoletov.com/2025/10/episode-296.html"/>
+    <updated>2025-10-13T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2025/10/episode-296</id>
+    <content type="html"><![CDATA[<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://t.me/razborfeed">@abashev</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/golodnyj">Антон Черноусов</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><a href="https://www.opennet.ru/opennews/art.shtml?num=63895" class="bare">https://www.opennet.ru/opennews/art.shtml?num=63895</a>
+<a href="https://habr.com/ru/articles/951282/" class="bare">https://habr.com/ru/articles/951282/</a>
+<a href="https://meks.quest/blogs/the-theatre-of-pull-requests-and-code-review" class="bare">https://meks.quest/blogs/the-theatre-of-pull-requests-and-code-review</a>
+<a href="https://scale.yandex.cloud/" class="bare">https://scale.yandex.cloud/</a></p>
+</div>
+</div>
+</div>]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 295 — Classic - Новая радость бытия]]></title>
@@ -2109,55 +2142,6 @@
 </li>
 <li>
 <p><a href="https://twitter.com/andrei_kogun">Андрей Когунь</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 246 — Interview - Распределённые БД]]></title>
-    <link href="http://razborpoletov.com/2022/02/episode-246.html"/>
-    <updated>2022-02-24T00:00:00+00:00</updated>
-    <id>http://razborpoletov.com/2022/02/episode-246</id>
-    <content type="html"><![CDATA[<div class="paragraph">
-<p>13 и 14 мая 2022 года в Москве состоится крупнейшая в Европе IT-конференция HighLoad++ Foundation</p>
-</div>
-<div class="paragraph">
-<p>🔥В программе — более 130 докладов, каждый из которых решает конкретную задачу. Но конференция — это не только доклады.</p>
-</div>
-<div class="paragraph">
-<p>На HighLoad++ Foundation вы легко сможете пообщаться с ТОПами IT-индустрии и найти ответы на свои вопросы. А хотите получить персональную консультацию от разработчиков технологий, на которых построен ваш проект? Приходите! Что ещё? Узнаете, как устроены Яндекс, VK, Avito, Mail.ru, Tinkoff и другие крупные проекты.</p>
-</div>
-<div class="paragraph">
-<p>😎Влиться в профессиональное комьюнити, завязать полезные знакомства, обновить свою базу знаний и найти решение для сложных задач — всё это на одной площадке.</p>
-</div>
-<div class="paragraph">
-<p>Приходите на HighLoad++ Foundation! 13 и 14 мая, Москва.</p>
-</div>
-<div class="paragraph">
-<p>Скидка 10% по промокоду FOUNDATION</p>
-</div>
-<div class="paragraph">
-<p><a href="https://clck.ru/asjU7">Забронировать билет|Смотреть программу 👇</a></p>
-</div>
-<div class="sect1">
-<h2 id="Гости-и-участники">Гости и участники</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://twitter.com/devozerov">Владимир Озеров</a></p>
-</li>
-<li>
-<p><a href="https://www.querifylabs.com/">Алексей Гончарюк</a></p>
-</li>
-<li>
-<p><a href="https://t.me/razborfeed">@abashev</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/golodnyj">Антон Черноусов</a></p>
 </li>
 </ul>
 </div>
