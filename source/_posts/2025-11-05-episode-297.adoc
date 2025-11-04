@@ -1,0 +1,17 @@
+---
+layout: episode
+episode: 297
+title: "Episode 297 — Classic - State of Developer Ecosystem Report 2025"
+category: classic
+guests: abashev, golodnyj
+---
+
+== Гости и участники
+
+* https://t.me/razborfeed[@abashev]
+* https://twitter.com/golodnyj[Антон Черноусов]
+
+
+== Темы
+
+* https://devecosystem-2025.jetbrains.com
