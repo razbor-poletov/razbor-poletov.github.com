@@ -1,0 +1,17 @@
+---
+layout: episode
+episode: 298
+title: "Episode 298 — Interview - Главный по AI"
+category: interview
+guests: abashev, golodnyj, shevchenko
+---
+
+== Гости и участники
+
+* https://t.me/razborfeed[@abashev]
+* https://twitter.com/golodnyj[Антон Черноусов]
+* Владислав Шевченко, CTO AI red_mad_robot
+
+== Темы
+
+* Про развитие AI и когда это кончится
