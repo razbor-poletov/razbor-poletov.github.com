@@ -1,0 +1,18 @@
+---
+layout: episode
+episode: 299
+title: "Episode 299 — Classic - Единство и борьба"
+category: classic
+guests: abashev, golodnyj
+---
+
+== Гости и участники
+
+* https://t.me/razborfeed[@abashev]
+* https://twitter.com/golodnyj[Антон Черноусов]
+
+== Темы
+
+* https://habr.com/ru/articles/965246/
+* https://habr.com/ru/companies/selectel/articles/962060/
+* https://devopsrussia.ru
