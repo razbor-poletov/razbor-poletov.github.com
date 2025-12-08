@@ -1,0 +1,16 @@
+---
+layout: episode
+episode: 300
+title: "Episode 300 — Classic - Небыло"
+category: classic
+guests: abashev, golodnyj
+---
+
+== Гости и участники
+
+* https://t.me/razborfeed[@abashev]
+* https://twitter.com/golodnyj[Антон Черноусов]
+
+== Темы
+
+Говорили о разном, как ИИ входит в нашу жизнь, и что было в 200-м и 100-м выпуске, и почему будет грустный тракторист.
