@@ -6,8 +6,8 @@
     <atom:link href="http://razborpoletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2025-12-01T10:00:02+00:00</pubDate>
-    <lastBuildDate>2025-12-01T10:00:02+00:00</lastBuildDate>
+    <pubDate>2025-12-08T21:06:07+00:00</pubDate>
+    <lastBuildDate>2025-12-08T21:06:07+00:00</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razborpoletov.com/logoNew.jpg" />
     <itunes:author>Viktor Gamov, Alexey Abashev</itunes:author>
@@ -18,6 +18,69 @@
     </itunes:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:thumbnail url="http://razborpoletov.com/logoNew.jpg" />
+    
+    <item>
+      <title>Episode 300 — Classic - Небыло</title>
+      <link>http://razborpoletov.com/2025/12/episode-300.html</link>
+      <pubDate>2025-12-09T00:00:00+00:00</pubDate>
+      <guid isPermalink="true">http://razborpoletov.com/2025/12/episode-300</guid>
+      <description><![CDATA[<div class="paragraph">
+  <p><a href="http://razborpoletov.com/2025/12/episode-300.html">Комментировать</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
+</div>
+<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://t.me/razborfeed">@abashev</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/golodnyj">Антон Черноусов</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Говорили о разном, как ИИ входит в нашу жизнь, и что было в 200-м и 100-м выпуске, и почему будет грустный тракторист.</p>
+</div>
+</div>
+</div>]]></description>
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_300.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_300.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2025/12/episode-300.html
+Telegram канал - https://t.me/razborfeed
+
+Гости и участники
+
+
+
+
+@abashev
+
+
+Антон Черноусов
+
+
+
+
+
+
+Темы
+
+
+Говорили о разном, как ИИ входит в нашу жизнь, и что было в 200-м и 100-м выпуске, и почему будет грустный тракторист.
+
+
+]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_300_text.jpg" />
+    </item>
     
     <item>
       <title>Episode 299 — Classic - Единство и борьба</title>
@@ -4288,53 +4351,6 @@ Telegram канал - https://t.me/razborfeed
 
 ]]></itunes:summary>
       <itunes:image href="http://razborpoletov.com/images/razbor_251_text.jpg" />
-    </item>
-    
-    <item>
-      <title>Episode 250 — Interview - А что случилось?</title>
-      <link>http://razborpoletov.com/2022/06/episode-250.html</link>
-      <pubDate>2022-06-26T00:00:00+00:00</pubDate>
-      <guid isPermalink="true">http://razborpoletov.com/2022/06/episode-250</guid>
-      <description><![CDATA[<div class="paragraph">
-  <p><a href="http://razborpoletov.com/2022/06/episode-250.html">Комментировать</a>
-    | <a href="https://t.me/razborfeed">Telegram канал</a>
-  </p>
-</div>
-<div class="sect1">
-<h2 id="Гости-и-участники">Гости и участники</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="http://mdbx.ru/">Михаил Бараблин, партнер Лиги Цифровой Экономики</a></p>
-</li>
-<li>
-<p><a href="https://t.me/razborfeed">@abashev</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>]]></description>
-      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_250.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_250.mp3" fileSize="" type="audio/mpeg" />
-      <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2022/06/episode-250.html
-Telegram канал - https://t.me/razborfeed
-
-Гости и участники
-
-
-
-
-Михаил Бараблин, партнер Лиги Цифровой Экономики
-
-
-@abashev
-
-
-
-
-]]></itunes:summary>
-      <itunes:image href="http://razborpoletov.com/images/razbor_250_text.jpg" />
     </item>
     
   </channel>
