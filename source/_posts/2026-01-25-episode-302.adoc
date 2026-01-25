@@ -1,0 +1,18 @@
+---
+layout: episode
+episode: 302
+title: "Episode 302 — Classic - Конференции"
+category: classic
+guests: abashev, golodnyj
+---
+
+== Гости и участники
+
+* https://t.me/razborfeed[@abashev]
+* https://twitter.com/golodnyj[Антон Черноусов]
+
+== Темы
+
+* https://habr.com/ru/articles/979860/
+* https://dylanbeattie.net/2025/12/08/so-you-want-to-speak-at-software-conferences.html
+* https://www.seangoedecke.com/you-cant-design-software-you-dont-work-on/
