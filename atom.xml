@@ -4,7 +4,7 @@
   <title><![CDATA[Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2026-01-19T08:44:35+00:00</updated>
+  <updated>2026-01-25T10:24:52+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -12,6 +12,46 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 302 — Classic - Конференции]]></title>
+    <link href="http://razborpoletov.com/2026/01/episode-302.html"/>
+    <updated>2026-01-25T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2026/01/episode-302</id>
+    <content type="html"><![CDATA[<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://t.me/razborfeed">@abashev</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/golodnyj">Антон Черноусов</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://habr.com/ru/articles/979860/" class="bare">https://habr.com/ru/articles/979860/</a></p>
+</li>
+<li>
+<p><a href="https://dylanbeattie.net/2025/12/08/so-you-want-to-speak-at-software-conferences.html" class="bare">https://dylanbeattie.net/2025/12/08/so-you-want-to-speak-at-software-conferences.html</a></p>
+</li>
+<li>
+<p><a href="https://www.seangoedecke.com/you-cant-design-software-you-dont-work-on/" class="bare">https://www.seangoedecke.com/you-cant-design-software-you-dont-work-on/</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 301 — Classic - Сказка про то как красноглазики опять менеджеров обманули]]></title>
@@ -2079,49 +2119,6 @@
 </li>
 <li>
 <p><a href="https://cloud.yandex.ru/blog/posts/2022/09/yandex-cloud-and-yandex-360">Yandex Cloud и Яндекс 360 объединились в один облачный бизнес</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 252 — Classic - Душный]]></title>
-    <link href="http://razborpoletov.com/2022/10/episode-252.html"/>
-    <updated>2022-10-15T00:00:00+00:00</updated>
-    <id>http://razborpoletov.com/2022/10/episode-252</id>
-    <content type="html"><![CDATA[<div class="sect1">
-<h2 id="Гости-и-участники">Гости и участники</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://t.me/razborfeed">@abashev</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/golodnyj">Антон Черноусов</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Темы">Темы</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://habr.com/ru/post/686228/" class="bare">https://habr.com/ru/post/686228/</a></p>
-</li>
-<li>
-<p><a href="https://habr.com/ru/company/getmatch/blog/685588/" class="bare">https://habr.com/ru/company/getmatch/blog/685588/</a></p>
-</li>
-<li>
-<p><a href="https://alexn.org/blog/2022/09/07/akka-is-moving-away-from-open-source/" class="bare">https://alexn.org/blog/2022/09/07/akka-is-moving-away-from-open-source/</a></p>
-</li>
-<li>
-<p><a href="https://micronaut-projects.github.io/micronaut-test-resources/snapshot/guide/#introduction" class="bare">https://micronaut-projects.github.io/micronaut-test-resources/snapshot/guide/#introduction</a></p>
 </li>
 </ul>
 </div>

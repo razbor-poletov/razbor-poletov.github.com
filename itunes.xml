@@ -6,8 +6,8 @@
     <atom:link href="http://razborpoletov.com/atom.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2026-01-19T08:44:35+00:00</pubDate>
-    <lastBuildDate>2026-01-19T08:44:35+00:00</lastBuildDate>
+    <pubDate>2026-01-25T10:24:52+00:00</pubDate>
+    <lastBuildDate>2026-01-25T10:24:52+00:00</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razborpoletov.com/logoNew.jpg" />
     <itunes:author>Viktor Gamov, Alexey Abashev</itunes:author>
@@ -18,6 +18,89 @@
     </itunes:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:thumbnail url="http://razborpoletov.com/logoNew.jpg" />
+    
+    <item>
+      <title>Episode 302 — Classic - Конференции</title>
+      <link>http://razborpoletov.com/2026/01/episode-302.html</link>
+      <pubDate>2026-01-25T00:00:00+00:00</pubDate>
+      <guid isPermalink="true">http://razborpoletov.com/2026/01/episode-302</guid>
+      <description><![CDATA[<div class="paragraph">
+  <p><a href="http://razborpoletov.com/2026/01/episode-302.html">Комментировать</a>
+    | <a href="https://t.me/razborfeed">Telegram канал</a>
+  </p>
+</div>
+<div class="sect1">
+<h2 id="Гости-и-участники">Гости и участники</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://t.me/razborfeed">@abashev</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/golodnyj">Антон Черноусов</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="Темы">Темы</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://habr.com/ru/articles/979860/" class="bare">https://habr.com/ru/articles/979860/</a></p>
+</li>
+<li>
+<p><a href="https://dylanbeattie.net/2025/12/08/so-you-want-to-speak-at-software-conferences.html" class="bare">https://dylanbeattie.net/2025/12/08/so-you-want-to-speak-at-software-conferences.html</a></p>
+</li>
+<li>
+<p><a href="https://www.seangoedecke.com/you-cant-design-software-you-dont-work-on/" class="bare">https://www.seangoedecke.com/you-cant-design-software-you-dont-work-on/</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description>
+      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_302.mp3" length="" type="audio/mpeg" />
+      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_302.mp3" fileSize="" type="audio/mpeg" />
+      <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2026/01/episode-302.html
+Telegram канал - https://t.me/razborfeed
+
+Гости и участники
+
+
+
+
+@abashev
+
+
+Антон Черноусов
+
+
+
+
+
+
+Темы
+
+
+
+
+https://habr.com/ru/articles/979860/
+
+
+https://dylanbeattie.net/2025/12/08/so-you-want-to-speak-at-software-conferences.html
+
+
+https://www.seangoedecke.com/you-cant-design-software-you-dont-work-on/
+
+
+
+
+]]></itunes:summary>
+      <itunes:image href="http://razborpoletov.com/images/razbor_302_text.jpg" />
+    </item>
     
     <item>
       <title>Episode 301 — Classic - Сказка про то как красноглазики опять менеджеров обманули</title>
@@ -4310,95 +4393,6 @@ Yandex Cloud и Яндекс 360 объединились в один облач
 
 ]]></itunes:summary>
       <itunes:image href="http://razborpoletov.com/images/razbor_253_text.jpg" />
-    </item>
-    
-    <item>
-      <title>Episode 252 — Classic - Душный</title>
-      <link>http://razborpoletov.com/2022/10/episode-252.html</link>
-      <pubDate>2022-10-15T00:00:00+00:00</pubDate>
-      <guid isPermalink="true">http://razborpoletov.com/2022/10/episode-252</guid>
-      <description><![CDATA[<div class="paragraph">
-  <p><a href="http://razborpoletov.com/2022/10/episode-252.html">Комментировать</a>
-    | <a href="https://t.me/razborfeed">Telegram канал</a>
-  </p>
-</div>
-<div class="sect1">
-<h2 id="Гости-и-участники">Гости и участники</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://t.me/razborfeed">@abashev</a></p>
-</li>
-<li>
-<p><a href="https://twitter.com/golodnyj">Антон Черноусов</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="Темы">Темы</h2>
-<div class="sectionbody">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://habr.com/ru/post/686228/" class="bare">https://habr.com/ru/post/686228/</a></p>
-</li>
-<li>
-<p><a href="https://habr.com/ru/company/getmatch/blog/685588/" class="bare">https://habr.com/ru/company/getmatch/blog/685588/</a></p>
-</li>
-<li>
-<p><a href="https://alexn.org/blog/2022/09/07/akka-is-moving-away-from-open-source/" class="bare">https://alexn.org/blog/2022/09/07/akka-is-moving-away-from-open-source/</a></p>
-</li>
-<li>
-<p><a href="https://micronaut-projects.github.io/micronaut-test-resources/snapshot/guide/#introduction" class="bare">https://micronaut-projects.github.io/micronaut-test-resources/snapshot/guide/#introduction</a></p>
-</li>
-</ul>
-</div>
-</div>
-</div>]]></description>
-      <enclosure url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_252.mp3" length="" type="audio/mpeg" />
-      <media:content url="http://media.blubrry.com/razborpoletov/traffic.libsyn.com/razborpoletov/razbor_252.mp3" fileSize="" type="audio/mpeg" />
-      <itunes:summary><![CDATA[Комментарии - http://razborpoletov.com/2022/10/episode-252.html
-Telegram канал - https://t.me/razborfeed
-
-Гости и участники
-
-
-
-
-@abashev
-
-
-Антон Черноусов
-
-
-
-
-
-
-Темы
-
-
-
-
-https://habr.com/ru/post/686228/
-
-
-https://habr.com/ru/company/getmatch/blog/685588/
-
-
-https://alexn.org/blog/2022/09/07/akka-is-moving-away-from-open-source/
-
-
-https://micronaut-projects.github.io/micronaut-test-resources/snapshot/guide/#introduction
-
-
-
-
-]]></itunes:summary>
-      <itunes:image href="http://razborpoletov.com/images/razbor_252_text.jpg" />
     </item>
     
   </channel>
