@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Classic | Подкаст «Разбор Полетов»]]></title>
+  <title><![CDATA[Category: classic | Подкаст «Разбор Полетов»]]></title>
   <link href="http://razborpoletov.com/blog/categories/classic/atom.xml" rel="self"/>
   <link href="http://razborpoletov.com/"/>
-  <updated>2026-01-25T10:24:52+00:00</updated>
+  <updated>2026-02-15T18:32:22+00:00</updated>
   <id>http://razborpoletov.com/</id>
   <author>
     <name><![CDATA[Viktor Gamov, Alexey Abashev, Dmitry Churbanov, Anton Arhipov, Baruch Sadogursky]]></name>
@@ -14,10 +14,10 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Episode 273 — Classic - I'll be back]]></title>
-    <link href="http://razborpoletov.com/2024/02/episode-273.html"/>
-    <updated>2024-02-28T00:00:00+00:00</updated>
-    <id>http://razborpoletov.com/2024/02/episode-273</id>
+    <title type="html"><![CDATA[Episode 302 — Classic - Конференции]]></title>
+    <link href="http://razborpoletov.com/2026/01/episode-302.html"/>
+    <updated>2026-01-25T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2026/01/episode-302</id>
     <content type="html"><![CDATA[<p>== Гости и участники</p>
 
 <ul>
@@ -29,20 +29,19 @@
 <p>== Темы</p>
 
 <ul>
-<li>https://www.infoq.com/articles/cloud-computing-post-serverless-trends/</li>
-<li>https://habr.com/ru/articles/562722/</li>
-<li>https://snyk.io/blog/leaky-vessels-docker-runc-container-breakout-vulnerabilities/</li>
-<li>https://cloud.yandex.ru/ru/training/greenplum</li>
+<li>https://habr.com/ru/articles/979860/</li>
+<li>https://dylanbeattie.net/2025/12/08/so-you-want-to-speak-at-software-conferences.html</li>
+<li>https://www.seangoedecke.com/you-cant-design-software-you-dont-work-on/</li>
 </ul>
 
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Episode 272 — Classic - Провожаем 2023й]]></title>
-    <link href="http://razborpoletov.com/2024/01/episode-272.html"/>
-    <updated>2024-01-04T00:00:00+00:00</updated>
-    <id>http://razborpoletov.com/2024/01/episode-272</id>
+    <title type="html"><![CDATA[Episode 301 — Classic - Сказка про то как красноглазики опять менеджеров обманули]]></title>
+    <link href="http://razborpoletov.com/2025/12/episode-301.html"/>
+    <updated>2025-12-31T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2025/12/episode-301</id>
     <content type="html"><![CDATA[<p>== Гости и участники</p>
 
 <ul>
@@ -54,21 +53,40 @@
 <p>== Темы</p>
 
 <ul>
-<li>https://www.youtube.com/watch?v=NxpHg_GzpnY</li>
-<li>https://vived.substack.com/p/amazon-q-code-transform-automatic</li>
-<li>https://habr.com/ru/articles/782816/</li>
-<li>https://diplodoc.com/</li>
-<li>https://docusaurus.io/</li>
+<li>https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers</li>
+<li>https://blog.jetbrains.com/kotlin/2025/12/the-ultimate-guide-to-successfully-adopting-kotlin-in-a-java-dominated-environment/</li>
+<li>https://blog.jetbrains.com/fleet/2025/12/the-future-of-fleet/</li>
+<li>https://blog.jetbrains.com/platform/2025/12/meet-the-islands-theme-the-new-default-look-for-jetbrains-ides/</li>
+<li>https://github.com/WozzHQ/wozz</li>
 </ul>
 
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Episode 271 — Classic - Мы все учились понемногу...]]></title>
-    <link href="http://razborpoletov.com/2023/12/episode-271.html"/>
-    <updated>2023-12-18T00:00:00+00:00</updated>
-    <id>http://razborpoletov.com/2023/12/episode-271</id>
+    <title type="html"><![CDATA[Episode 300 — Classic - Небыло]]></title>
+    <link href="http://razborpoletov.com/2025/12/episode-300.html"/>
+    <updated>2025-12-09T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2025/12/episode-300</id>
+    <content type="html"><![CDATA[<p>== Гости и участники</p>
+
+<ul>
+<li>https://t.me/razborfeed[@abashev]</li>
+<li>https://twitter.com/golodnyj[Антон Черноусов]</li>
+</ul>
+
+
+<p>== Темы</p>
+
+<p>Говорили о разном, как ИИ входит в нашу жизнь, и что было в 200-м и 100-м выпуске, и почему будет грустный тракторист.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 299 — Classic - Единство и борьба]]></title>
+    <link href="http://razborpoletov.com/2025/11/episode-299.html"/>
+    <updated>2025-11-30T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2025/11/episode-299</id>
     <content type="html"><![CDATA[<p>== Гости и участники</p>
 
 <ul>
@@ -80,20 +98,19 @@
 <p>== Темы</p>
 
 <ul>
-<li>https://habr.com/ru/articles/780170/</li>
-<li>https://jacobian.org/2023/dec/5/how-to-decide/</li>
-<li>https://cloud.yandex.ru/blog/posts/2023/12/the-state-of-serverless</li>
-<li>https://t.me/mspiridonov/2648?single</li>
+<li>https://habr.com/ru/articles/965246/</li>
+<li>https://habr.com/ru/companies/selectel/articles/962060/</li>
+<li>https://devopsrussia.ru</li>
 </ul>
 
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Episode 269 — Classic - Ламповый]]></title>
-    <link href="http://razborpoletov.com/2023/11/episode-269.html"/>
-    <updated>2023-11-22T00:00:00+00:00</updated>
-    <id>http://razborpoletov.com/2023/11/episode-269</id>
+    <title type="html"><![CDATA[Episode 297 — Classic - State of Developer Ecosystem Report 2025]]></title>
+    <link href="http://razborpoletov.com/2025/11/episode-297.html"/>
+    <updated>2025-11-05T00:00:00+00:00</updated>
+    <id>http://razborpoletov.com/2025/11/episode-297</id>
     <content type="html"><![CDATA[<p>== Гости и участники</p>
 
 <ul>
@@ -105,32 +122,7 @@
 <p>== Темы</p>
 
 <ul>
-<li>https://www.techtarget.com/searchsecurity/opinion/Cloud-native-firewalls-the-next-step-in-network-security</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 268 — Classic - GPT из каждой дырки]]></title>
-    <link href="http://razborpoletov.com/2023/10/episode-268.html"/>
-    <updated>2023-10-13T00:00:00+00:00</updated>
-    <id>http://razborpoletov.com/2023/10/episode-268</id>
-    <content type="html"><![CDATA[<p>== Гости и участники</p>
-
-<ul>
-<li>https://t.me/razborfeed[@abashev]</li>
-<li>https://twitter.com/golodnyj[Антон Черноусов]</li>
-</ul>
-
-
-<p>== Темы</p>
-
-<ul>
-<li>https://opentofu.org/blog/why-should-i-care-about-opentofu/</li>
-<li>https://www.youtube.com/watch?v=cZWxzT3ZtM8</li>
-<li>https://habr.com/ru/companies/yandex_cloud_and_infra/articles/764334/</li>
-<li>https://benhoyt.com/writings/how-to-apply/</li>
+<li>https://devecosystem-2025.jetbrains.com</li>
 </ul>
 
 ]]></content>
