@@ -1,0 +1,38 @@
+---
+layout: nil
+---
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Разбор Полетов</title>
+    <link>{{ site.url }}</link>
+    <atom:link href="{{ site.url }}/rss_full.xml" rel="self" type="application/rss+xml"/>
+    <language>ru</language>
+    <generator>jekyll</generator>
+    <pubDate>{{ site.time | date_to_xmlschema }}</pubDate>
+    <lastBuildDate>{{ site.time | date_to_xmlschema }}</lastBuildDate>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="{{ site.url }}/logoNew.jpg" />
+    <itunes:author>Viktor Gamov, Alexey Abashev</itunes:author>
+    <itunes:subtitle>Правильный подкаст для IT-шников</itunes:subtitle>
+    <itunes:summary>Правильный подкаст для IT-шников</itunes:summary>
+    <itunes:category text="Technology">
+      <itunes:category text="Tech News"/>
+    </itunes:category>
+    <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
+    <media:thumbnail url="{{ site.url }}/logoNew.jpg" />
+    {% for post in site.posts limit: 500 %}
+    <item>
+      <title>{{ post.title | cdata_escape }}</title>
+      <link>{{ site.url }}{{ post.url }}</link>
+      <pubDate>{{ post.date | date_to_xmlschema }}</pubDate>
+      <guid isPermalink="true">{{ site.url }}{{ post.id }}</guid>
+      <description><![CDATA[{% include feed/item_header.html %}{{ post.content | expand_urls: site.url | cdata_escape }}]]></description>
+      <enclosure url="{{ site.media_url_prefix }}/razbor_{{ post.episode }}.mp3" length="{{post.length}}" type="audio/mpeg" />
+      <media:content url="{{ site.media_url_prefix }}/razbor_{{ post.episode }}.mp3" fileSize="{{post.length}}" type="audio/mpeg" />
+      <itunes:summary><![CDATA[{% include feed/item_header.txt %}{{ post.content | strip_html }}]]></itunes:summary>
+      <itunes:image href="{{ site.url }}/images/razbor_{{ post.episode }}_text.jpg" />
+    </item>
+    {% endfor %}
+  </channel>
+</rss>
