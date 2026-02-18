@@ -6,8 +6,8 @@
     <atom:link href="http://razborpoletov.com/rss_full.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
     <generator>jekyll</generator>
-    <pubDate>2026-02-16T18:27:34+00:00</pubDate>
-    <lastBuildDate>2026-02-16T18:27:34+00:00</lastBuildDate>
+    <pubDate>2026-02-18T10:05:22+00:00</pubDate>
+    <lastBuildDate>2026-02-18T10:05:22+00:00</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://razborpoletov.com/logoNew.jpg" />
     <itunes:author>Viktor Gamov, Alexey Abashev</itunes:author>
@@ -35234,7 +35234,7 @@ twitter:
     </item>
     
     <item>
-      <title>Episode <code>0x64</code> — Банки людям не нужны</title>
+      <title>Episode 0x64 — Банки людям не нужны</title>
       <link>http://razborpoletov.com/2016/01/episode-100.html</link>
       <pubDate>2016-01-18T00:00:00+00:00</pubDate>
       <guid isPermalink="true">http://razborpoletov.com/2016/01/episode-100</guid>
